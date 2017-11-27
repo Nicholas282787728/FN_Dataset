@@ -1,0 +1,2 @@
+★High channel capacity, high SNR and large BW, which is required for faster communication?
+The channel capacity tells you how fast information can be sent. The channel capacity can be derived, in turn, from the BW and the SNR.  See wikipedia entry on channel capacity. But the important points are: 1. When the SNR is large (SNR >> 0 dB), the capacity is logarithmic in power and approximately linear in bandwidth. 2. When the SNR is small (SNR << 0 dB), the capacity is linear in power but insensitive to bandwidth.

@@ -1,0 +1,2 @@
+What is the intuition behind randomized algorithms and randomization in general?
+I would like to answer this question, but I cannot do even [math]\epsilon[/math] better than Avi Wigderson's answer to this question (and many more) from his talk: 

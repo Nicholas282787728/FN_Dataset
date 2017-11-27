@@ -1,0 +1,2 @@
+How do I learn data analysis for Python?
+If you have started programming and want to dive into Data Analysis, do check out the Data Analysis Learning Path on our site -  Data Analysis Learning Path by Claudia Gold | SlideRule It is essentially a sequence of online courses and allied resources which takes self-learners on the path to becoming a Data Scientist. You will find some resources for python libraries under section 2.5. (Do have a look at the entire path and let us know if you find it useful. Constructive criticism is always welcome!)    Embed Quote 

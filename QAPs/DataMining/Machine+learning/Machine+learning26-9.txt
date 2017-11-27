@@ -1,0 +1,2 @@
+★What are some good books on machine learning?
+Learning scikit-learn: Machine Learning in Python We just published a new Machine Learning book which is oriented for people who want to start using Machine Learning. It covers the major concepts in a tutorial-based approach with practical applications using Python and Scikit-learn library. Learning scikit-learn: Machine Learning in Python: Raúl Garreta, Guillermo Moncecchi: 9781783281930: Amazon.com: Books    Embed Quote

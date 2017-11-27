@@ -1,0 +1,2 @@
+★The maximum Bluetooth 4.0   data rate is 25Mbps. so this B is  "bit" or "Byte"?
+25 Mbps = 25 M bit per second. There is a good 10 - 20% overhead cost in transmission mostly related to error detection protocols, so you can divide Mbps by 10 for a reasonably accurate maximum transfer rate in MB (megabytes) per second. 25 Mbps = ~ 2.5 MB/sec

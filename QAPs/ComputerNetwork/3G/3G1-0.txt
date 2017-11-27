@@ -1,0 +1,2 @@
+★What's the difference between 3G & 3.5G
+Edge is considered 2.5G and has speeds up to 256 kbps/64 kbps up 3G can be any number of technologies but defined by ITU as any wireless network that provides speeds of at least 2 mbps down/768 kbps up 4G is similar to 3G with speeds of at least 50 mbps down/20 mbps up HSDPA is one 3G technology, based on GSM/UMTS standards that gives speeds of up to 7.2 mbps down/1.4 mbps up. HSDPA plus makes this capable of 21 mbps down and plus/plus doubles that with MIMO technology.

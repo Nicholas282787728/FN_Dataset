@@ -1,0 +1,2 @@
+Can we use MapReduce to parallelize operations done on a row from a matrix (2d array)?
+I think you can use map function to operate every row in parallel and then use reduce function to collect the results of map together. 

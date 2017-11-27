@@ -1,0 +1,2 @@
+How do I find the paths that cover all given vertexes (the start and end vertex are known too) in a graph which edges have weight and direction?
+I think you're asking about the Hamiltonian path problem. Unfortunately, the problem is NP-complete, so there is almost certainly no efficient solution that works for any graph. If you have a special kind of graph that you care about, then you might be able to do better. 

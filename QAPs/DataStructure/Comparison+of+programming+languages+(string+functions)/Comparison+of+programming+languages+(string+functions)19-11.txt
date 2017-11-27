@@ -1,0 +1,1 @@
+What bad programming/architecture habits can a self-taught PHP coder develop?..and how to get rid of them?

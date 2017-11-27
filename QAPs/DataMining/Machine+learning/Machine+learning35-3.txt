@@ -1,0 +1,2 @@
+★What are the best open source machine learning libraries written in Python?
+I've found pymc great for rapidly building PGMs and sampling from them. http://pymc-devs.github.com/pymc/    Embed Quote

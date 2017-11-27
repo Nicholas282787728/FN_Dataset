@@ -1,0 +1,2 @@
+★What is the best way to study machine learning?
+Go to kaggle.com (or similar website) and have a try at one of the many challenges. Also, interact with the other contestants and discuss the methods you are trying to implement.You will need to learn new ML techniques and see how real world problems differ from the theory. I have learnt a lot this way - indeed, this will force you to open books, read articles and code.    Embed Quote

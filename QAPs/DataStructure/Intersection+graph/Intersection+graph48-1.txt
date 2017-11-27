@@ -1,0 +1,2 @@
+If f(x)=7x+12  , what is f −1 (x)  ?
+Let f(x) = y. Now, to find the inverse function, we have to find value x in terms of y to find the inverse. So to answer your question y = 7x-12 Hence x= (y-12)/7 in the answer 

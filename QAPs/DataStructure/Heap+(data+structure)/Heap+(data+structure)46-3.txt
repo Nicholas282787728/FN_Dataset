@@ -1,0 +1,2 @@
+How can one be well prepared to answer data structure/algorithm questions in interviews?
+A2A. 1) Cracking the coding interview. 2) http://geeksforgeeks.org 3) careercup These three would be your best resources. ... (more)

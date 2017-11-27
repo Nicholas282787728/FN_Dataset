@@ -1,0 +1,2 @@
+★Is there an online service with a REST-like API for sending faxes?I'm not looking for a personal solution but rather one that could be added to a web application. I don't want awful complicated APIs and a simple metered service (you pay only per fax, no other setup etc. charges) would be ideal. Does such a thing exist?
+Sfax is a complete online fax service that costs from just $24 a year and it's completely secure and reliable. Check out their monthly plans and pricing http://www.sfaxme.com/plans-pric...    Embed Quote

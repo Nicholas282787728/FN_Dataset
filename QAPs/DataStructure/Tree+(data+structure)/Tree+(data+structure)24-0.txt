@@ -1,0 +1,2 @@
+Can we implement a binomial tree option pricing model using standard tree data structures?
+I think the backward induction process, as you call it, is inherently slow, regardless of how you would implement your tree. Depending on the specific kind of option you want to price, there may be analytic solutions to the Black-Scholes equation, in which case you can use finite difference methods (e.g. the Crank-Nicolson scheme). If no analytic solutions are available, you might resort to Monte Carlo simulation. 

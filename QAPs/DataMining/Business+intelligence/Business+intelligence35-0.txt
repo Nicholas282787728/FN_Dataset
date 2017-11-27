@@ -1,0 +1,2 @@
+What is the best open source Business Intelligence software?
+BIRT, Pentaho, JasperSoft and SpagoBI are considered the leading open source BI suites, not necessarily in that order.    Embed Quote 

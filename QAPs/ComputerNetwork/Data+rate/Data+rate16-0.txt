@@ -1,0 +1,2 @@
+★What are the main technical reasons for a dramatic increase in network data rates in both wired and wireless networks?
+Demand.  It always outstrips supply.

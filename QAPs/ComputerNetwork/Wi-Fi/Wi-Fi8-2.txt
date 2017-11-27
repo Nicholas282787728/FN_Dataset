@@ -1,0 +1,2 @@
+★Does Wi-Fi work underwater?
+Water's resonant frequency is in the 2.4GHz band, which is why microwave ovens use it (and why there's an open band there). This means that water will absorb 2.4GHz waves extremely well. So, it will work underwater, just not very far. A few feet at most. My GoPro can be controlled via wifi, and when I dunk it under the surface of the water, it loses connection.    Embed Quote

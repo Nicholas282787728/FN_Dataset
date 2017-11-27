@@ -1,0 +1,2 @@
+★Is there a bandwidth limit for Dropbox public links?
+There is a hard limit of 10GB/day for Basic (free) accounts and 250GB/day for paid accounts per link, after which they are automatically suspended and your account is flagged: https://www.dropbox.com/help/45

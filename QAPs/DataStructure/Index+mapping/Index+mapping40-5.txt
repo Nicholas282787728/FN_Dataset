@@ -1,0 +1,2 @@
+What are some must-have software for programmers using Linux?
+I will not add anything that is already listed here. Some other awesome tools:- Locate : This is a command which can find any file located in you system - if you know part of its name. like `locate httpd-xampp.conf` . This will show me the location of this file - be it in any folder. It is extremely quick and can help find config files really easily . Ag aka The Silver Searcher : This is like ack - intelligent grep but faster than ack and grep. 

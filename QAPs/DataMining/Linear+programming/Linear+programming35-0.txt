@@ -1,0 +1,2 @@
+★How useful is linear programming/the simplex algorithm to systems biology?
+It isn't an exact answer to your question but I hope it might be helpful in some way. I was at a lecture recently by Professor Muffy Calder and she mentioned some algorithms she works with in Biology so maybe her work might (or not sorry I am not well versed in this topic) be of interest. She is a computer scientist who works at Professor Muffy Calder FRSE FBCS FIEE- Computing Science, University of Glasgow    Embed Quote

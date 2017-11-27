@@ -1,0 +1,2 @@
+How does Huffman's method of coding/compressing text differ from Shannon-Fano method?
+see Shannon–Fano coding essentially S-F algorithm on each step balances probability weights on both branches of the symbol tree, while H`s algorithm simply assigns 1 & 0 to two lowest weighs before combining them into a next-order leaf. 262 Views

@@ -1,0 +1,2 @@
+★Computer Vision: What type of information can be extracted from the contents of a video?In a video, there are different types of information which can be exploited for processing. Objects, Object motion, Human body face, actions, Scene geometry and texture.. etc According to you, what are these types? What are the latest projects in information extraction from videos?
+Space-time interest points treat video frames as space-time cubes. They are the best way to extract spatial and temporal info from videos. Ivan Laptev > Projects > STIP    Embed Quote

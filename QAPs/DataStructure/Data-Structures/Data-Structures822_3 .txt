@@ -1,0 +1,1 @@
+Should I take data structures in C++ or Java? I am studying chemical engineering and often have to get outdated hardware to work with newer computers.Language should not matter much to learn data structure or Algorithm. Choose one in which you feel comfortable. 19 Views

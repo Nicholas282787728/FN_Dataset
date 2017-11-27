@@ -1,0 +1,2 @@
+★What are the interview questions on regression modeling?
+Here is what I came up with. What is regression analysis? What do coefficient estimates mean? How do you measure fit of the model? What do R and D mean? What is Ordinary Least Squares? What are some possible problems with regression models? How do you avoid or compensate for them? Name a few types of regression you are familiar with? What are the differences? What is overfitting a regression model? What are ways to avoid it? In linear regression, under what condition R^2 always equals a perfect 1?    Embed Quote

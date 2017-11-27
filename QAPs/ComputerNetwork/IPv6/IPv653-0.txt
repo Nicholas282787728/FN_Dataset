@@ -1,0 +1,2 @@
+★Why doesn't GitHub support IPv6?
+You're right that GitHub don't currently support IPv6: $ curl --ipv6 github.com curl: (6) Could not resolve host: github.com They do have IPv6 addresses assigned to them though (see http://bgp.he.net/AS36459#_prefi...), and this page says that they'll be used in the future: What IP addresses does GitHub use that I should whitelist?    Embed Quote

@@ -1,0 +1,1 @@
+What is the key feature missing in geolocation apps such as foursquare, Gowalla, SCVNGR, PlacePoP, etc?

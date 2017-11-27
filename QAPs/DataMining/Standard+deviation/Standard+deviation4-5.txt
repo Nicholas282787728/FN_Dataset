@@ -1,0 +1,2 @@
+★What does it mean when standard deviation is higher than the mean?In stats, if the standard deviation is higher then the average, what does that tell you about your data?
+Adding an explanation which is not covered in Mathew's excellent answer.. If the Abs(Mean) < k * Standard deviation, then Mean can be said to be not significantly different from zero (At certain confidence level). Here, value of k can be decided based upon the confidence level.    Embed Quote

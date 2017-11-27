@@ -1,0 +1,2 @@
+★What is an intuitive explanation of gradient descent?
+It is just following the first derivative , taken over instances or feature vectors (v) df/dv As opposed to coordinate descent , which follows the first derivative , taken over coordinates (x) or features df/dx the other answers seem to be describing coordinate descent, or just not distinguishing between the two.    Embed Quote

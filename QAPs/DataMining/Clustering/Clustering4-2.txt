@@ -1,0 +1,2 @@
+What is an intuitive explanation of Dirichlet Process Clustering?
+This tutorial gives some simple descriptions and explanations, especially clear on Polya's Urn and stick-breaking and how it relates to the Chinese restaurant analogies you hear sometimes.  It's probably a good place to start: Page on Washington    Embed Quote 

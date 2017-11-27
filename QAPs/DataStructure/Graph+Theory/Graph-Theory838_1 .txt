@@ -1,0 +1,1 @@
+How can the amount of faces, edges, and vertices be determined on a hexagonal prism?For any n-gonal prism the values will be as follows Faces: n + 2 (n rectangles and 2 n-gonal sides) Vertices: 2n, n for each n-gonal face Edges: 3n, each vertex will have degree 3 and the number of edges is sum of degrees divided by 2 76 Views  View Upvotes

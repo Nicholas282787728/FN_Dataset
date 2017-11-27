@@ -1,0 +1,2 @@
+★Are there any Python/Django-friendly hosted Continuous Integration services?I'm looking for some rough equivalent to what http://travis-ci.org provides for the Ruby and Rails communities.
+We're working on Continuous Integration and Deployment service http://getbarista.com Would like to hear your feedback :)    Embed Quote

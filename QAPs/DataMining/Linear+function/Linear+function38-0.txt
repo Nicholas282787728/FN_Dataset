@@ -1,0 +1,2 @@
+★How do I quickly derive formula for a continuous linear increasing value function? (normalized [0;1])
+gives a function that decreases linearly from to . gives  a function that increases linearly from  to  .    Embed Quote

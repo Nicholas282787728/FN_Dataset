@@ -1,0 +1,2 @@
+What are the rookie mistakes a person makes while starting to practice for competitive programming?
+Coding first, analysing the correctness and complexity later. That too not with pen-paper, just by giving random inputs! It's too dangerous! And definitely "NEW LINE for each test case!" it freaked me out even after 1.5 years of very programming recently! Updated 81w ago • View Upvotes

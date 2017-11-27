@@ -1,0 +1,2 @@
+★Can plastic optical fiber cables bring fiber to the home?
+I would add that while POF is used for in-house wiring, it's not a trivial install and therefore expensive in the home also (compared to more traditional CAT 5). It's a little unclear at this stage whether POF has a future as the default home install technology. I would gladly pay for POF install the day I have FTTH, but I'm not sure everyone is quite as sensitive to in-home QoS as I am...    Embed Quote

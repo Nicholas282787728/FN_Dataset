@@ -1,0 +1,2 @@
+What is the ordered pair for the equations 2x+2y=20 and -x+y=2?
+Let's solve this by substitution. The second equation can be rearranged to say [math]y=2+x[/math] by adding [math]x[/math] to both sides. Plugging this into the first equation, we get [math]2x+2(2+x)=20[/math], which can be rearranged to say [math]4x=16[/math], and dividing both sides by 4 gives us [math]x=4[/math]. So we've found an x-value. Plugging this into [math]y=2+x[/math], we get [math]y=6[/math], making for the ordered pair [math](x,y)=(4,6)[/math]. 

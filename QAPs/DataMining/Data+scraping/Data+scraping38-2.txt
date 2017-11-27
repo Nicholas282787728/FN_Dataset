@@ -1,0 +1,2 @@
+How can we as a poor startup follow competitor's e-commerce prices with web scraping/data mining technology?
+I have used http://www.grepsr.com/  bunch of times now and they are awesome. For pretty inexpensive you can accomplish this.    Embed Quote 

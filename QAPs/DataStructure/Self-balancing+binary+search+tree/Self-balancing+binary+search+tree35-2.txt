@@ -1,0 +1,2 @@
+What are the real world examples of binary trees (not search tree)?
+Applications range from a multitude of things, but some that come to mind are: Quick Searching, trying to search for a value when given an ID. Routing Tables, for routers that need to be extremely fast. Huffman Encoding Trees, used for compression and optimization based on frequency. 

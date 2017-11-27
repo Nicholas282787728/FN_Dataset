@@ -1,0 +1,2 @@
+★What are some good resources for learning about distributed computing? Why?This is a follow-up question on How do I become a data scientist?
+Just to add to the near complete list by Alex above, let me suggest the book High Performance Linux Clusters with OSCAR, Rocks, openMosix & MPI The chapter 15 gives a very good intro to basics of parallel programming (mainly with MPI). http://www.flipkart.com/high-per... Rob Pike's "Concurrency is not parallelism" talk at Heroku http://vimeo.com/49718712

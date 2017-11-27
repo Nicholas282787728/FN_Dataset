@@ -1,0 +1,2 @@
+What are some mind-blowingly awesome uses of graphs in CS/Modelling?
+This is a bit dated now, but still pretty awesome: The Internet Mapping Project.  One of the founders was Hal Burch, a CMU CS graduate student and coach of the USA Computing Olympiad at the time. 

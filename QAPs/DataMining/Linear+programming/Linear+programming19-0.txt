@@ -1,0 +1,2 @@
+★Can a subgraph isomorphism matching problem be reduced to linear programming?
+The subgraph isomorphism problem is NP-complete, and linear programming is in P. So if the latter could be used to solve the former, this would imply that P=NP. This is unlikely.    Embed Quote

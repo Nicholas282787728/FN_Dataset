@@ -1,0 +1,2 @@
+Is MongoDB MapReduce suitable for doing real-time data  analysis?
+I got two useful search results about the speed of Mongodb MapReduce, take a look at it. MongoDB: Terrible MapReduce Performance (http://stackoverflow.com/questio...) MongoDB's performance on aggregation queries (http://stackoverflow.com/questio...)    Embed Quote 

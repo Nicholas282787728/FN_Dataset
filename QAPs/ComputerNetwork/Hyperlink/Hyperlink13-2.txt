@@ -1,0 +1,2 @@
+★Why aren't almost all words on Wikipedia hyperlinked on every page?On a typical Wikipedia page, you'd see ~20% of the words are hyperlinked to some other Wikipedia page. Why aren't more words hyperlinked? Is it because it causes annoyance to the user, or not enough people have done it yet. I like the idea of having every word on Wikipedia as a hyperlink to it's Wikipedia Topic Page.
+That could be implemented as only showing the blue color only when you put your mouse over for all links, plus underlined for the more "important" links.    Embed Quote

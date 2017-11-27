@@ -1,0 +1,2 @@
+How do I implement a multi-threaded hash table?
+I don't know the best way to go about this, but if you are looking for a real-world, proven and battle-tested example of a thread safe, hash take a look at this implementation: https://github.com/dotnet/corefx... 313 Views

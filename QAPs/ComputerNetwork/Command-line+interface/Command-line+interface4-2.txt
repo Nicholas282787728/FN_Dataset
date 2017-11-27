@@ -1,0 +1,2 @@
+★Command Line Interfaces: What is a flag?
+After reading Build Awesome Command-Line Applications in Ruby I learned that there are two types of command line options: flags: "-f arg" or "--foo=args" which take arguments switches: "--foo" which can go with additional "--no-fo" form So flag could be consider a type of option. This is however not something official from what I know.

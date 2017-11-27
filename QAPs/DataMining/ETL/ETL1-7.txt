@@ -1,0 +1,2 @@
+★Business Intelligence: ETL : which is the best open source ETL tool to start working ? specially if we are kick starting a BI project
+PostgreSQL + your scripting language of choice (e.g. Ruby/Python/etc.)    Embed Quote

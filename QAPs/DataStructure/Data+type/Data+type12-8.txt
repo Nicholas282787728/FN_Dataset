@@ -1,0 +1,2 @@
+Which data type is better either float or double in c++?
+The range of numbers having float data type is less than range of numbers having double data type. 4 bytes memory is allocated to the float data type while 8 bytes momory allocated to the double data type.If we use too large number in program,then declare it using double data type.Both can be used depends on user requirements. 47 Views · 1 Upvote

@@ -1,0 +1,1 @@
+Is there a way to find the last element of an array without involving a counter, neither explicitly nor implicitly?

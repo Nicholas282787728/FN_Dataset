@@ -1,0 +1,2 @@
+What are some common mistakes to be avoided in Mathematics?Especially in Algebra, Coordinate Geometry, Calculus and Trigonometry.
+Whatever you do, don't confuse a derivative and an antiderivative, especially when using the power rule. Also, misusing parentheses. 

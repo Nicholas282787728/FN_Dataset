@@ -1,0 +1,2 @@
+★What is the best book about computer networking?
+Computer Networking: A Top-Down Approach 6th ed. by J.F. Kurose and K.W. Ross  is a wonderful book.  All the concepts are explained crystal clearly. You can get the slides of each chapter made by author itself here: Powerpoint slides: Computer Networking (They are Open Source)

@@ -1,0 +1,2 @@
+★Will the Semantic Web be fully realized?The computer science is done. Will the internet go the way of the Semantic Web, whether to the W3C standards or some new standard like MicroFormats?
+As with any forecast, there's an answer and a time frame. Yes it will be realized because we need to be able to understand and interchange data. But it's going to take a decade.    Embed Quote

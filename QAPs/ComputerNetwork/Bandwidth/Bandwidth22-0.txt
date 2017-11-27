@@ -1,0 +1,2 @@
+★Which ISP offers the highest bandwidth and lowest latency in Palo Alto?Are there any options besides Comcast and ATT?
+From trying both, Comcast is much faster than AT&T. As far as I know, there aren't any other reasonable options (assuming you're talking about a residential address). You can, however, get a business level of Comcast service at your home address, if you're willing to pay extra.

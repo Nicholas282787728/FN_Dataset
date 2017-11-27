@@ -1,0 +1,2 @@
+What are some promising Big Data startups?Including both funded and non-funded ones. And maybe some OSS apps or stacks as well. (A startup doesn't always have to be a company, does it?)
+Zillabyte (full disclosure - I work there) If you are looking for a distributed computing platform but don't want to deal with a Hadoop cluster then use us.  We try to make big data easy by handling the infrastructure issues data scientists have and making our platform available through simple Python and Ruby syntaxes. 

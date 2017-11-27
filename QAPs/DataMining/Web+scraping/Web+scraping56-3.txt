@@ -1,0 +1,2 @@
+★Web Scraping: When doing a mashup when should you write the crawler yourself, and when should you use an external service/program?
+Here is a case study about screen scraping and how it was prevented: Web application attack – case study - Fireblade    Embed Quote

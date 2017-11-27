@@ -1,0 +1,2 @@
+★Understanding Clustering as a search problem and solving it with Gradient Descent?I understand that the clusters generated with k-means depend on the initial selection of k clusters points, but finding it difficult to look at it as a search problem and how gradient descent fits in the scene ? Any intuitive explanation and pointers to understand is appreciated.
+re-write the clustering problem as a convex optimization.  then it is readily solved using gradient descent like techniques Advances in Convex NMF:  Linear Programming    Embed Quote

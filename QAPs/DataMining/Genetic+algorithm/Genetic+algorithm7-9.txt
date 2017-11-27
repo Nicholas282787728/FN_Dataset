@@ -1,0 +1,2 @@
+★What are some real-world applications of genetic algorithms?Answers should point to specific usages, not potential ones.
+I use genetic algorithms for dynamic animation of 3D characters (sorry, our work is not public yet), but this is not a new idea.  More specifically, I use them to "teach" creatures and humanoids how to walk and react to obstacles (but really, they are "learning" on their own).  By having them run through obstacle courses, the best algorithms/parameter sets can be easily benchmarked.  Did I mention that the learning process is hilarious?    Embed Quote

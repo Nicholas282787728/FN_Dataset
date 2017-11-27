@@ -1,0 +1,2 @@
+What are some real-world applications using Huffman tree/coding?
+It is widely used in all the mainstream compression formats that you might encounter from WinZip to image formats. 748 Views · 6 Upvotes

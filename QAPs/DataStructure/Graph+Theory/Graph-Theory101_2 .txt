@@ -1,0 +1,1 @@
+Is there any algorithm to find shortest path between two nodes with negative cycle?“Shortest path” between two nodes in a graph which contains a negative cycle is not defined. This is because… Imagine you have a path and you claim it to be the shortest. You can always travel one more round on the negative cycle and reduce the total weight of that path. 52 Views · View Upvotes

@@ -1,0 +1,2 @@
+★What is the difference between 3G and 4G networks?
+3G stands for 3rd generation while 4G stands for 4th generation. 3G technologies are in widespread use while 4G compliant technologies are still in the horizon. 4G speeds are much faster(100 Mbps for moving object and 1Gbps for stationary object) compared to 3G(14Mbps downlink and 5.8Mbps uplink). 3G is a mix of circuit and packet switching network while 4G is only a packet switching network. Read more: Difference Between 3G and 4G | Difference Between | 3G vs 4G Difference Between 3G and 4G

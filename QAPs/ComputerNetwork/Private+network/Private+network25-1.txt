@@ -1,0 +1,2 @@
+★How can an internet service provider identify which of its clients use a virtual private network?
+They can look at the traffic and see which protocol & port (can be changed) you are using and guess from the usage what the traffic is.    Embed Quote

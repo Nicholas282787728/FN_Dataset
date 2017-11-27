@@ -1,0 +1,2 @@
+★Can Bluetooth be applied for communication protocol between mobile and square like hardware card payment device?Will there be any security concern?
+Yes it can.  The PayPal Here card reader in the UK uses Bluetooth to pair to your mobile device.  Check it out: Get Started & Start Accepting Payments

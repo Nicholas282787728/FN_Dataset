@@ -1,0 +1,2 @@
+★What is the future of natural language processing?
+I think the coups are divided between those that try to define the rules upfront (the linguistic based you refer to) and those that try to infer the rules, which is currently dominated by statistical techniques.  I predict that people will start spending more time on non-statistical techniques for NLP and that these, combined with statistical techniques will handle the "language is ever evolving" technique that you point out.    Embed Quote

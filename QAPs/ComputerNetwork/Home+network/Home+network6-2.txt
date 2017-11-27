@@ -1,0 +1,2 @@
+★Would Firesheep capture HTTP sessions of people connected to my protected home network?
+If  the hacker has cracked the WEP, WPA, WPA2 or whatever cryptography the  network is using, an ARP Man-in-the-middle attack is possible, so the answer to your question is: Yes.

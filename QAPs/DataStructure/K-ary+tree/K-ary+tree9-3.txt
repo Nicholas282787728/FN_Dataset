@@ -1,0 +1,2 @@
+Huffman Coding - How to prove decoding tree must be a full n-ary tree?I don't know how to prove this.
+In binary case of 0-1 encoding each node that only has one child can just be collapsed thus improving the total length of encoded file. For n-ary tree a simple corner case with N=100 and the alphabet consisting of less than a hundred letters would obviously leave some edges unused. 

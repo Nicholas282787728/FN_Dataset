@@ -1,0 +1,2 @@
+★What are the most exciting areas of current research/applications in semi-supervised learning?
+One of the most exciting research in SSL is graph based methods. It has shown lot of success in many applications ranging from natural language processing to protein classification. 1) SSL on Graphs by Zhu (WSU) [Label Propagtion] 2) SSL with Manifold Regularization (Univ of Chicago) 1 & 2 are first works appeared in NIPS n ICML.    Embed Quote

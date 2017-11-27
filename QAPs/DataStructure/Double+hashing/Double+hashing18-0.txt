@@ -1,0 +1,2 @@
+I have 10 i5 dual core 3.33Ghz CPUs. What coin and what pool I should mine on? And what should be my hash rate to make a profit?
+You shouldn't mine at all with that hardware setup. Your effective hash output would be so small it wouldn't be worth the time to set up and wouldn't cover the electricity costs used. 

@@ -1,0 +1,2 @@
+★What are the differences between interior and exterior routing protocols?
+Interior protocols assume that there is a single manager, with a single purpose and no competing policies that have to be managed. Exterior protocols make the exact opposite assumption. As a result, interior protocols can do things like assume global knowledge and uniformity of traffic usage.  Exterior protocols have to work a little harder.    Embed Quote

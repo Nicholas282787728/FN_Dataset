@@ -1,0 +1,2 @@
+★What is Web Scraping?Today I was reading a random post and I found people are discussing about #WebScrapingtool, My question is: Can I use extracted data into my website? Will Google accept this ?
+Web scraping is the process of using software to automatically download web pages, parse them to extract some content of interest (for example, prices of products in an online catalog), then store it in a format that is convenient for other software to read (e.g., a database, xml file, json file, etc.).    Embed Quote

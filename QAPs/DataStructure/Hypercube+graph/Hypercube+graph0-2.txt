@@ -1,0 +1,2 @@
+Given the vertices and edges of a graph, how does one verify that the graph is a hypercube graph?
+Express vertex coordinates in binary. Examine all n(n-1) pairs of vertices taken two at a time. When coordinates differ by one bit, they must be joined by an edge. When coordinates do not differ by one bit, they must not be joined. 

@@ -1,0 +1,2 @@
+★What is the best way to learn about data compression algorithms?
+Read Matt Mahoney's book: Data Compression Explained that is free online. Data Compression Explained There are many books about compression algorithms but only a few about what is compression and the theory behind it. This is one of those few books.

@@ -1,0 +1,1 @@
+What are the advantages and disadvantages of having case-sensitive identifiers in a programming language?Is it much easier to write compilers for a case-sensitive language? What about lexical analysis, type checking and reliability?

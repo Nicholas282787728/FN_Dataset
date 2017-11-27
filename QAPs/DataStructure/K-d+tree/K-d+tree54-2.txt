@@ -1,0 +1,2 @@
+What is the optimal solution for the problem: given a list of "threads", which contain two variables (starting and ending times) implement a function that will return all running threads at some time t?
+Store the intervals in a segment tree. It takes O(n log n) time to construct and O(log n + k) time to query. 

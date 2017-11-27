@@ -1,0 +1,2 @@
+How can I find common elements in 3 sorted arrays?
+Walk through all three arrays in parallel: Create three index variables, each pointing to the courrent position on one of the arrays. Start with all index variables set to 0. if all the three numbers at the index positions are the same, you found a match. increment the index which points to the lowest value (pick any if more than one index points to the same lowest value). if the index is now beyond the end of the array, stop. Repeat from step 2... (more)

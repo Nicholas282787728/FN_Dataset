@@ -1,0 +1,2 @@
+What is a good free software for drawing directed graphs, possibly with edge labels and node labels?
+Dia diagram editor . This one is free and open source . hope this onw helps you . 331 Views

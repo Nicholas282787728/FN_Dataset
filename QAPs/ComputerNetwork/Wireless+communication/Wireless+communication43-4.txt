@@ -1,0 +1,2 @@
+★Can wireless communication be done under water? If not, how do submarines communicate with the outside world?
+Yes. There are several written articles about it. Example: Underwater optical wireless communication network    Embed Quote

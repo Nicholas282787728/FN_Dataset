@@ -1,0 +1,2 @@
+How can I match people based on their location?
+Suppose that you've abstracted the roads and intersections into a graph (in terms of computer science) For each route, mark the edges and vertices it's going through. To find a car for a person who wants a ride, check the labeled edges/vertices on his route. (the most intuitive solution I can think of) 

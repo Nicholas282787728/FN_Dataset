@@ -1,0 +1,2 @@
+★How do I play Counter-Strike 1.6 online behind college proxy server?Spotflux, Vidalia, Proxifier and Ultrasurf.These 4 are not working for me.:(
+I have used spotflux to age of empire 2 online..there is something you need to know. You have to install version 2.9.8..the versions newer than it will not give you full vpn..and you will need latest JRE..after you install enter the proxy settings..your username, password etc..everytime you disconnect you will need to reinstall spotflux to connect again..your pings will be higher in vpn but it works fine with aoe..    Embed Quote

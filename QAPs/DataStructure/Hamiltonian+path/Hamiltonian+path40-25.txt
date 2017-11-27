@@ -1,0 +1,2 @@
+What are P, NP, NP-complete, and NP-hard?
+Originally Answered: What is NP Hard Problem in Layman's language?Assuming you know what NP is (even in the currently accepted definitions), an NP hard problem is one that can not be easier (in complexity terms) than any NP problem. If you do not know what NP is, it is just four or five additional lines, provided you know multiplication and have an imagination for the magnitude of a number repeatedly multiplying itself any finite number of times. Otherwise, there is no Layman Language version. 

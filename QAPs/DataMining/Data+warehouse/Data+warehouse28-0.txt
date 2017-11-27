@@ -1,0 +1,2 @@
+★What features of a relational database are most useful when building a data warehouse?
+I'm going to take a different angle - I'm assuming that specialized data warehouse appliances are fair game here.  With that having been said Column orientation for data storage Good compression ratios MPP-Shared nothing architecture Intelligent filtering of data near where it is stored via custom hardware (i.e. Netezza) or software (Greenplum, Teradata, Exadata, Vertica) In-database analytics    Embed Quote

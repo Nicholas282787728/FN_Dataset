@@ -1,0 +1,2 @@
+★What is the difference between a PHP and HTML Web page?
+PHP  generate HTML dynamically . HTML get served to the users .    Embed Quote

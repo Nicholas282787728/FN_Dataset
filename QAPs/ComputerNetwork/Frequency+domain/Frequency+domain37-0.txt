@@ -1,0 +1,2 @@
+★What is the definition of Laplace transforms?
+You can find the formal definition at Laplace transform.  In practice, a Laplace Transform transforms a function in the time domain into an equivalent form in the 'complex frequency' domain. In doing so, interesting and difficult manipulations in the time-domain can be executed algebraically in the complex frequency domain.

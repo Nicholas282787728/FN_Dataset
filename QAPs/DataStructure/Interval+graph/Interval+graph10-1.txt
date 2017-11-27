@@ -1,0 +1,2 @@
+How do I make a moving (dynamic) graph using PHP/HTML by fetching values from the database at intervals? I need sample code.
+Make an ajax call to the server at required interval (read setInterval and ajax). Based upon requirement, you can either fetch the entire data or the one uploaded after last call(I'll recommend second one as less bandwidth is used). Then you can append the data in the previous data object and render the graph again. I would suggest you to Google the exact syntax, this is just a basic flow. I hope it helped. 

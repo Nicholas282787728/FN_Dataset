@@ -1,0 +1,2 @@
+Out of Trie, Suffix Tree and Suffiex Array, which one is the structure that provides best performance results?
+Question is fairly ambiguous as is the meaning of 'best performance'. But based on asymptotic time analysis, more or less for all the common operations, suffix tree is an improvement over suffix array which is an improvement over trie. 

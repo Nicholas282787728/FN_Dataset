@@ -1,0 +1,2 @@
+What are the best Python 2.7 modules for data mining?
+1. NLTK, Natural Language Toolkit 2. Pydata, Python Data Analysis Library 3. Matplotlib, python plotting - Matplotlib 1.1.1 documentation 4. mrjob, mrjob - mrjob 0.3.5 documentation 5. Orange, Data Mining Fruitful & Fun 6. pybrain, PyBrain 7. mlpy, mlpy - Machine Learning Python 8. Scrapy, An open source web scraping framework for Python Edit: Dealing with graphs is not uncommon in data mining, NetworkX(http://networkx.lanl.gov/) comes in handy.    Embed Quote 

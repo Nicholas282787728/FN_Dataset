@@ -1,0 +1,1 @@
+This question is from the web exercise of Algorithms book by Robert Sedgewick: Find all solutions to the equation a + 2b^2 = 3c^3 + 4d^4 for which a, b, c, and d are less than 100,000. Hint: use one min heap and one max heap. I am unable to think straight even after the hint. Can anyone please help?

@@ -1,0 +1,2 @@
+Is hash table a linear data structure?
+In the standard implementation, it is a linear data structure, but in non-standard cases, it can be stored in other ways, depending on requirements and sizes, with the non-standard ones beating the standard ones in some instances.   Since - for me - the non-standard implementations are an area of active research, I am in the middle of writing up a journal article on this subject. So, I will not discuss this issue in any more detail until I publish my findings. 

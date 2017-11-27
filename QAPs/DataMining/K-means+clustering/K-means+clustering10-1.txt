@@ -1,0 +1,2 @@
+★How can I assign meaning to different clusters formed by K Means clustering?I have multiple columns in my data. I just want to have some verbal definition of the clusters in terms of the columns.
+Sometimes you can't.  If that happens you may have too many. Reduce the number of clusters.  If you understand them at that point, you can bump them up again, and take another look.  There is always a cluster or 2 that is probably 'miscellaneous' and just shows up for completeness.  I like to keep between 5 and 11 clusters.    Embed Quote

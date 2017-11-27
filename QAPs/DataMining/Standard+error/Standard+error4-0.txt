@@ -1,0 +1,2 @@
+★Why does orthogonal polynomial regression result in the same standard error for all coefficients?
+The standard errors of a linear model are proportional to the diagonal elements of (X'X)^-1. A model with orthogonal polynomials will have an X matrix made up of a column of 1s, a linear trend term that's orthogonal to 1, a quadratic trend term that's orthogonal to the linear trend and to 1, etc. Thus the X matrix is orthogonal, and therefore X'X = I.    Embed Quote

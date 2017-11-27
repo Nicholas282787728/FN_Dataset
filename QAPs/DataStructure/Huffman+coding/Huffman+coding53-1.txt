@@ -1,0 +1,2 @@
+What are the greedy algorithms every programmer should know?
+Minimum spanning tree (should know)         (Kruskal's algorithm, Prim's algorithm) Huffman coding (should know) Travelling salesman problem Greedoid Malfatti circles... (more)

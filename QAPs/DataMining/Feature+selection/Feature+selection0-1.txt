@@ -1,0 +1,2 @@
+★What are some feature selection methods for SVMs?
+SVM should be seen as an instance selection/weighting method, rather than a feature selection/weighting method (like regression). In reality you want both, but just keep this in mind. Search for papers on "kernel selection" - that's the SVM equivalent of "feature selection". This paper of mine shows how to convert the instance-centric SVM into a feature-centric regression model http://citeseerx.ist.psu.edu/vie...    Embed Quote

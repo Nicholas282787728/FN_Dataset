@@ -1,0 +1,2 @@
+★What are some experiences with the Zerigo managed DNS service?Need a cheap, reliable managed DNS provider with a simple (preferably Ruby-compatible) API. Other alternatives very welcome!
+Although I used to like Zerigo DNS, after it was acquired by 8x8 Inc, it seems that they are not improving the DNS service anymore. So that's why I moved to DNSimple, which does a great job starting at $3/mo for 10 domains, without query limitation.

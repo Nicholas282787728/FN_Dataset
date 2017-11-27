@@ -1,0 +1,2 @@
+How do you deal with large data sets in Excel?
+You could use Tableau Public (free) its an effective data analysis and visualization tool: Tableau Software    Embed Quote 

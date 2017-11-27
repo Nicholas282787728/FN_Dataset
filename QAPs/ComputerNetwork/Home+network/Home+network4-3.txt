@@ -1,0 +1,2 @@
+★Is it possible to switch my home network to exclusively IPv6 without a loss of functionality?How would this work?  Any tutorials out there?
+In addition to Paul Jakma's comment, you also have to factor in any local services like Network Attached Storage and print systems, Game Consoles, etc., that you have in your home and figure out how to migrate them to IPv6 or do some form of translation locally. Dual stack is the way to go, as Donn Lee and Marshall Kurtz point out.

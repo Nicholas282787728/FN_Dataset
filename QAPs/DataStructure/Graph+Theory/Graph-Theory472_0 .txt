@@ -1,0 +1,1 @@
+What is the asymptoptic time complexity of a general algorithm that is capable of fully traversing a generic directed graph?The most common methods would be either depth-first or breadth-first search. Both have time complexity O(V + E), where V is the number of vertices and E is the number of edges. 259 Views  View Upvotes

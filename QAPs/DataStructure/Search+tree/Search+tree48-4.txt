@@ -1,0 +1,2 @@
+It took me nearly 3 weeks to understand what a binary search tree is, am I stupid?
+Not anymore: you know what a binary search tree is. Just the term binary search tree sounds impressive, and you know what it means. 

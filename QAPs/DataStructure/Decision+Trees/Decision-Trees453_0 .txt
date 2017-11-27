@@ -1,0 +1,1 @@
+What is the ID3 algorithm and how does it work?ID3 is just a special name for the canonical TDIDT algorithm that uses information gain for splitting. C4.5 improves upon ID3 by allowing for both discrete and continuous attributes and is able to handle missing data. 400 Views  View Upvotes

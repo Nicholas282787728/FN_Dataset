@@ -1,0 +1,2 @@
+★Will subnet masks still be used with IPv6?
+In IPv6 it is called a prefix length. That will always be there as part of IP protocol.    Embed Quote

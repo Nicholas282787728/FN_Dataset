@@ -1,0 +1,2 @@
+★How can Internet speed be increased by hacking through DNS?I am using Point - Point Internet Wireless Connection with the speed of 1mbps(120kb/sec) .. Can i able to get more speed than what i currently got ..
+No. DNS tells your computer how to find a server it wishes to connect to. Faster DNS services will improve latency, but not throughput.

@@ -1,0 +1,2 @@
+Which data stream mining tools can handle Big Data?
+You may be interested in Vowpal Wabbit: http://hunch.net/~vw/. 

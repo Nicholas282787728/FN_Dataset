@@ -1,0 +1,2 @@
+★Should I learn SVM or neural networks?
+SVMs can be more practical. Neural Nets can be way cooler.    Embed Quote

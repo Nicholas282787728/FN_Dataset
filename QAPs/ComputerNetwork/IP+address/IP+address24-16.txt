@@ -1,0 +1,2 @@
+★Why do we need domain name if IP address does the same thing?I was asked this question and I replied "To make life easy it is easy to remember names than huge set of random no's" what could be better technical reply
+For normal human being IP addresses are hard to memorize.

@@ -1,0 +1,2 @@
+★How do I do online updates to logistic regression?Can I do incremental logistic regression? I mean, when new data come, I don't need to train the model on the whole data set ? Thank you.
+If you are looking for existing solution, you can take a look at Vowpal Wabbit (Fast Learning). They have SGD as well as LBFGS implemented and it scales really well. Be careful while tuning your parameter when performing online updates.    Embed Quote

@@ -1,0 +1,2 @@
+★What are the best VOIP service providers and what distinguishes them?
+VoIP has many faces. And although some companies offer a wide range of VoIP products/services, it's better to talk about VoIP service providers by category. Here are at least some of them: PBX - http://Asterisk.org, http://www.3cx.com Wholesale softswitch (class 4) - http://HostedSwitch.COM Dialers - Sjphone, X-lite/Eye-beam Communicators - Skype, Fring DID - DIDWW.com Office phones - Vonage Feel free to add to this list.    Embed Quote

@@ -1,0 +1,2 @@
+What are the 10 must-know algorithms and data structures for a software engineer?
+The Popular Algorithm Section of Compile, run, curse… Recompile, rerun, recurse…is a nice pace to learn some popular algorithms. Hope this helps 

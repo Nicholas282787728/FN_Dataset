@@ -1,0 +1,2 @@
+Algorithms:  Can we modify Dijkstra to compute longest path for DAG graph?
+Finding longest path for a DAG can be solved by topological sort (Dijkstra and heap are unnecessary). Finding longest path for a general graph is NP hard. 

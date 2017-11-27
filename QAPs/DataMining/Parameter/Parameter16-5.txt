@@ -1,0 +1,2 @@
+★What parameters are needed to fully describe a fundamental particle?Only three parameters are required to fully describe a black hole : its mass, its electrical charge, and its angular momentum. Is it possible to describe a fundamental particle in a similar way? Which parameters are needed? Mass, electrical charge, spin, color, something else?
+Well,it depends on particle.If you are taking electron then their spin and rotation and charge should be taken into consideration.if proton then their charge and neutron their mass.    Embed Quote

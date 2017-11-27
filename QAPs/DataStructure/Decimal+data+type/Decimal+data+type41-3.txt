@@ -1,0 +1,2 @@
+How do I multiply two large numbers stored as strings in the C#?
+Nice question. You could transform the string into array of digits: string numberString = "1234567890" int[] = {1,2,3,4,5,6,7,8,9,0}. After that you must write a logic of the multiplying of two arrays of numbers. 

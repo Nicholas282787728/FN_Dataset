@@ -1,0 +1,2 @@
+What are data types in c?
+Basic Types They are arithmetic types and are further classified into: (a) integer types and (b) floating-point types. C has a concept of 'data types' which are used to define a variable before its use. The definition of a variable will assign storage for the variable and define the type of data that will be held in the location. The value of a variable can be changed any time. C has the following basic built-in datatypes. int float... (more)

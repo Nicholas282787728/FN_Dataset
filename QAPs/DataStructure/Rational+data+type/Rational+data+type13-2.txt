@@ -1,0 +1,2 @@
+What are the boolean values in Java?
+Boolean is a  data type. This one is actually a primitive and it  can have two values, boolean true or false. And this is all there is to  it. Conditional statements – there’s a condition and it can hold true or  not. And then something is executed or not. Boolean makes it easy to give conditions to your programs. Find out more about booleans and else if statements here if/else statements and booleans and here Conditionals 

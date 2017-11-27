@@ -1,0 +1,2 @@
+★What is the quality of music streamed from Spotify and Rdio (bit rate)?Both over wi-fi and 3G.
+According to Rdio's FAQ: http://help.rdio.com/customer/po... We’re not actually sharing exact bitrates at this time, because we experiment with different rates and encoding formats in an effort to provide the best possible listening and user-experience. We stream CD-quality audio over the web and wifi (for mobile devices), and only stream a lower bitrate if you’re on a 3G connection. You can however force the mobile (iOS for sure) app to always stream HQ, even over 3G.

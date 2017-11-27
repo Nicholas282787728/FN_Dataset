@@ -1,0 +1,2 @@
+What's the best way to use a Queue in C++ to automatically sort a list of numbers as they are input?
+A queue with priority associated ? Why not use Priority Queue? If you aren't allowed to use STL then create your own binary heap. You can also use make_heap, push_heap, pop_heap function if you don't use priority_queue from STL. 

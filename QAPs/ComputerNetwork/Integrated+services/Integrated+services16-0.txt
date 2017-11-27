@@ -1,0 +1,2 @@
+★We are looking for some good reliable integration services for connecting a couple of cloud apps to our enterprise yammer app. Is zapier a reliable integration service for this purpose?
+Assuming the cloud apps you want to connect to your Yammer app are available on Zapier it is. Zapier is quite reliable and easy to use tool, so I won't be surprised if connecting your app to Yammer via Zapier won't take longer than asking a question on Quora :)    Embed Quote

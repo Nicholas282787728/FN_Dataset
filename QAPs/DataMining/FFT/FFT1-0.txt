@@ -1,0 +1,2 @@
+★Is there any application of the polar FFT beyond imaging?
+FFTs can be used to perform the spectrum analysis of signals. For instance, all modern spectrum analyzers for audio signals use FFTs to compute the  magnitude of the input signal versus frequency. Also, most of the digital scopes, besides showing the  input signal in the time domain, can compute its spectrum with an FFT.    Embed Quote

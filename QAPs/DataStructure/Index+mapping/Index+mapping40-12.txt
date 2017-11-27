@@ -1,0 +1,2 @@
+What are some must-have software for programmers using Linux?
+For programmers: 1. NetBeans IDE 6.9 ( with C++, Ruby, PHP plugins ) 2. Emacs with plugins for every programming language 3. Gnome DO - easy access to system's applications 4. Guake Terminal - easy way to access the terminal 5. Umbrello - create UMLs and Use cases from source files 6. MonoDevelop - for C# on Linux and ASP.NET 

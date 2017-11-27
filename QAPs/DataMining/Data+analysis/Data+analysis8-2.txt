@@ -1,0 +1,2 @@
+How do I learn data analysis with Python via projects?
+Start with  Python for Data Analysis and Probability and Statistics for Programmers. Harvard data science course(2013) is a challenging one, you cant get away with just the basic programming skills. After completing these books take a look at    CS109 Data Science (2014) version. cs109 -2014 covers lot of basic statistics and programming in depth.  2014 version is better than 2013. Hope this helps you.    Embed Quote 

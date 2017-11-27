@@ -1,0 +1,2 @@
+What are the best academic papers in computer science? Why?
+You can look at the list of Turing Awards and the biography of their authors: http://awards.acm.org/homepage.c... The biography usually contains references to some seminal work. 

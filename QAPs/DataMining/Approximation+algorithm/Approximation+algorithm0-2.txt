@@ -1,0 +1,2 @@
+★How often are approximation algorithms used in practice?
+All the time.  The JPEG standard, for instance, is an approximate compression algorithm.  In atmospheric science, we use a technique called scale analysis whereby insignificant terms in an equation are dropped so we don't waste valuable computer time evaluating them.  Just about all science is like this: discard the parts that we don't know and that won't have much effect on the solution.    Embed Quote

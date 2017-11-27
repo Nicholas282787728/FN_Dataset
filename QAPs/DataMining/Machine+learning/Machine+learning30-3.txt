@@ -1,0 +1,2 @@
+★What are some common Machine Learning interview questions?I just completed Machine Learning class offered by Stanford last year http://www.ml-class.org and want to apply for jobs in Machine Learning What are the questions people are usually asked for machine learning interviews?
+1) How to assess the quality of clustering, especially to know when you have the right number of clusters 2) How do you pick the features to use 3) There would probably also be a lot of statistics questions  such as what is an F-test    Embed Quote

@@ -1,0 +1,2 @@
+What are some common beginner mistakes in Java programming?
+The basic function to swap two integers. More details in this link - Does Java pass by reference or pass by value? This mistake is more common if you have C/C++ knowledge. String s = new String("myString"); 'The local variable may not have been initialized' - Jon Skeet's informative answer on this - http://stackoverflow.com/a/15855... Not closing streams.Since its about beginner mistakes, some very basic errors given in this link - Lesson: Common Problems (and Their Solutions) Updated 150w ago • View Upvotes

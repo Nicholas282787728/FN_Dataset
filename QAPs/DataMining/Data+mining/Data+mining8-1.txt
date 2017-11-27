@@ -1,0 +1,2 @@
+What is a good book on machine learning / data mining to give to a layman?
+For a layman, there aren't many books as useful as "Programming Collective Intelligence". There are people who criticize this book for various reasons. But in my opinion, if one knows nothing about machine learning but can code a bit,  they should start with this. http://oreilly.com/catalog/97805...    Embed Quote Updated 28 Jun, 2012. 2,350 views.

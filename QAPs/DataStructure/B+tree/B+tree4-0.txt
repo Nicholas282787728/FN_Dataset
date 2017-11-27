@@ -1,0 +1,2 @@
+Which among these is the more widely used data structure in real world applications: B-Tree, B*-Tree, B+-Tree, Simple Prefix B+-Tree?
+B+ tree From Wikipedia: The NTFS, ReiserFS, NSS, XFS, JFS, and ReFS filesystems all use this type of tree for metadata indexing. Relational database management systems such as IBM DB2, Informix, Microsoft SQL Server, Oracle 8, Sybase ASE, and SQLite support this type of tree for table indices. Key-value database management systems such as CouchDB and Tokyo Cabinet support this type of tree for data access. 1.5k Views · 1 Upvote

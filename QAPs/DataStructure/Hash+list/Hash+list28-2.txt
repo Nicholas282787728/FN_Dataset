@@ -1,0 +1,2 @@
+How much does a web developer have to know about data structures and algorithms?
+All a web developer has to do is be able to develop a web page. If you're asking about prerequisites from a specific company I suggest you at least have a running understanding of those common and basic algorithms and data structures and yes, PLEASE know a thing or two at least about the memory allocation. 

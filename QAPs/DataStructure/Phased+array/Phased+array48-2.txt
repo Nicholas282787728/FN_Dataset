@@ -1,0 +1,2 @@
+What are good applications to be discussed as an electromagnetic course project for engineering?
+Antennae of course. You may want to review the problems/solutions for the infamous iphone 4 antenna problem. 

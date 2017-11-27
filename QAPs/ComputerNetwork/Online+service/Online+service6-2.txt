@@ -1,0 +1,2 @@
+★What is the best online service for creating charts & graphs?
+I went to a talk last week by the founders of the Miso Project which is an open source tool kit for data viz. Some exciting updates coming from them soon... http://misoproject.com/ A few more that are less flexible - http://www.easel.ly/ http://venngage.com/ http://infogr.am/    Embed Quote

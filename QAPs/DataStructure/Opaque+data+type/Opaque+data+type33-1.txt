@@ -1,0 +1,2 @@
+How can Bayes' theorem be interpreted in terms of inferring causal relationships in the data?
+Bayes' Theorem is incredibly useful but has nothing directly to do with causality. It's about conditional probability, which is about information. To clarify the logic of causality, you might want to look at something like the potential outcomes/Neyman-Rubin Causal model (Rubin causal model) which lays out a statistical argument, but know that you really need to make extra-statistical (i.e., scientific!) arguments. 

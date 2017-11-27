@@ -1,0 +1,2 @@
+How do you pair characters in C programming language to certain numbers (for example when it reads A it knows that equals to 0.30)?
+By using a lookup table. The lookup table is an array which uses the character value as the index to the converted element. Typically the array would be initialized statically at build time. In the simplest case, every element of the array would be of a primitive data type. With some work, you could contrive an array of structures or unions to translate the index value to a variety of data types. 

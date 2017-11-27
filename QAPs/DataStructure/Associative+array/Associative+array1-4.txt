@@ -1,0 +1,2 @@
+Does C++ have a built-in associative array?
+We have data strcuture called map which is part of standard template library This concept is similar to the dictionary in python 

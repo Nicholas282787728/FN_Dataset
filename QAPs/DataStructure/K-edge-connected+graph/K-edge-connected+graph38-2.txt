@@ -1,0 +1,2 @@
+What are some examples of Graph Algorithms being used to solve interesting problems?
+1. Finding routes in a network (including the Internet). 2. Shortest Path First 3. Nodes are routers.  Edges are links between routers. 4. Bellman Ford, Spanning Tree, Path Vector. 

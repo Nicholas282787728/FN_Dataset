@@ -1,0 +1,2 @@
+If 1=5, 2=10, 3=15 4=20 then 5=?
+I guess whoever propose 5 = 1 should be answer for this because some clever guy said if 1 = 5 means 5 =1 , might be fine till we are not talking real logic here. Here "=" sign can be  thought of as transformation operator such that x = 5x. If you assume "=" sign to be a commutative equivalence which eqates shape of one symbol with other ... take digit on one side n covert it to digit on other side all number might look like this   1=5 2=10 = 50  3=15 = 11 (since 5 = 1) 4=20 = 100(since 2 = 10) = 100 n 5n = 1 :P 

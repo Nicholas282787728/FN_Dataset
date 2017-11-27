@@ -1,0 +1,2 @@
+What are common hash table questions asked in a technical interview?
+What you'll find is not a has question but a question that you need a hash to solve. You'll probably get a problem and as you solve it the interviewer will asks questions about your solution and/or change the requisites. One that will lead you to a has question is like this - Can you tell me the time complexity of this solution ? - This solution takes O(n) to solve the problem. - Can you make it O(1) ? And there you'll find you the has coming to the rescue. 2.7k Views · 2 Upvotes

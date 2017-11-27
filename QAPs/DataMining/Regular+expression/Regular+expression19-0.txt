@@ -1,0 +1,5 @@
+★How would you make a regular expression match everything but a certain string?
+You can construct such a regex recursively.  A string that isn’t “hello” is either the empty string, or a string that begins with a character other than “h”, or the concatenation of “h” with a string that isn’t “ello”.Continue this reasoning until we arrive at the base case: a string that isn’t “” is matched by .+.  The result is 1
+ ^([^h].*|h([^e].*|e([^l].*|l([^l].*|l([^o].*|o.+)?)?)?)?)?$ Many extended regular expression languages provide a negative lookahead feature to make this easier.  For example, in Perl: 1
+ /^(?!hello$).*$/   http://perldoc.perl.org/perlre.h... Of course, it’s easier just to negate the result after matching.  If you’re using grep, use the -v option. 1
+ grep -v '^hello$'   http://www.gnu.org/software/grep...    Embed Quote

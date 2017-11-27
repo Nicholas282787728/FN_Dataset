@@ -1,0 +1,2 @@
+What are the greedy algorithms every programmer should know?
+1. Activity Selection problem. 2. Huffman Coding. 3. Minimum Spanning Tree. 638 Views · 2 Upvotes · Answer requested by Abhinav Prince

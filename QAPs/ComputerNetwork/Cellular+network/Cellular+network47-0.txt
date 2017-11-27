@@ -1,0 +1,2 @@
+★What is the best router/server solution for connecting an intranet with 100+ users to a 3G/4G cellular network?
+My answer would be: "Why would you ever want to do that?" 100+ LAN users will very likely generate far too much internet traffic to be handled by a single 3G/4G connection. A better solution would be to contact local internet service providers in your area to see what kind of wired and/or wireless WAN solutions they offer which might be cost effective for you based upon the project amount of internet traffic your 100+ users would generate on average.

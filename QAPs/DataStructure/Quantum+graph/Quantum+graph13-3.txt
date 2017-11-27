@@ -1,0 +1,2 @@
+What is the fundamental difference between a classical bit and a quantum bit?
+I can go into details, but I think Kuba Bartczuk hit the hammer on the nail with his rather simple easiest to follow answer 

@@ -1,0 +1,2 @@
+★What is an intuitive explanation of a probability distribution?
+The Galton's machine is surprisingly graphical. Balls dropped from the top are collected into one-ball-wide bins at the bottom giving form to the probability distribution curve. Enjoy the video:    Embed Quote

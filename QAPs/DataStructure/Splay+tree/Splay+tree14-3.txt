@@ -1,0 +1,2 @@
+How would the CLRS authors fare in TopCoder against people like Gennady Korotkevich (competitive programmer)?
+You can satisfy your curiosity by following the performance of Danny Sleator (co-inventor with Tarjan of Splay Trees and Link-cut Trees) on Codeforces (Darooha - Codeforces). He is obviously a great problem solver and has incredible abstract thinking skills. However, he is not so trained for competitive programming. I'd say that his strength resides on solving more difficult tasks given a much longer period of time. 

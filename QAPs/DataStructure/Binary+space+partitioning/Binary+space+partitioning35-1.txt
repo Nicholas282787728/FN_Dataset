@@ -1,0 +1,2 @@
+For all sorting algorithms, what works well with a large input size and a small input size?
+In my view, quicksort happens to be the best choice among sorting algorithms. Quicksort with a random pivot runs in log linear time with a practically low constant factor. Another important factor which makes me prefer quicksort is that it sorts inplace. Hence, no extra memory is required. This is important for memory Intensive programs, like microcontrollers, mobile applications etc. Please provide better alternatives to quicksort if there is any. I am eager to learn. 

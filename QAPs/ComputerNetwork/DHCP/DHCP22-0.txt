@@ -1,0 +1,2 @@
+★What is the command for enabling / configuring DHCP on router?I am configuring a big network on cisco packet tracer. So instead of providing static ip add to each end device i want to provide ip add using DHCP on router. So how can i enable that or is there any other method to assign ip add automatically to end devices?
+That depends on the exact model of equipment that you're using.

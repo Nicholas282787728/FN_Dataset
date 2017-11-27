@@ -1,0 +1,2 @@
+★Where can one find a training set for sentiment analysis?
+It depends on the data you want and the project you're doing. You could use even your twitter data for sentiment analysis. Request your archive in twitter -> download -> analyse sentiment through supervised learning techniques.    Embed Quote

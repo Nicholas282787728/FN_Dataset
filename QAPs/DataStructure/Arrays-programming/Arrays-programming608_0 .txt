@@ -1,0 +1,1 @@
+How do we define character array in c++?It's a pointer to an area of memory containing the specified number of values - char is one byte, but unless the question specified char or unsigned char, there are also character types such as wchar_t, char_16_t and char32_t . 238 Views  View Upvotes  Answer requested by 1 person

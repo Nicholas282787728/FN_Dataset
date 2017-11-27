@@ -1,0 +1,2 @@
+Is a Java class an abstract data type?
+The combination of data with its methods is called an abstract data type. A java Interface is a way to specify an Abstract Data Type. You can declare a class as abstract when it contains zero or more abstract methods or When an interface is implemented to a class where not all methods are not implemented. 

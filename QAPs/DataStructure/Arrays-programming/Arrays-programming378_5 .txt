@@ -1,0 +1,1 @@
+How do you initialize an array of structures in C?typedef struct _Point { char c; float x,y; }Point; Point points[2]={{'A',1,0},{'B',3,0}}; 60 Views

@@ -1,0 +1,2 @@
+★What problems are expected to arise if we shift from IPv4 to IPv6  completely ?
+1) Hard Coded Values in your application.. Some Applications have hardcoded values of IPV4 address like 0.0.0.0 and 255.255.255.255 . These must be taken care while doing the porting. 2) Router Configuration. Along with the PC/Servers with IPV6 enabled, the router must support IPV6. or else you are going to waste lot of time thinking there is problem in server configuration.

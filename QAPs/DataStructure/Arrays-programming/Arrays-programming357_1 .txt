@@ -1,0 +1,1 @@
+What is the optimized code for counting the occurrences of a particular element and in unsorted array?If you know the element to count for then a linear lookup and a counter for occurrences will do. If you need to produce a histogram for all the elements then use a map/dictionary. 38 Views

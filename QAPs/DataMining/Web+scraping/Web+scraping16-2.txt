@@ -1,0 +1,2 @@
+★Web Scraping: What sites are unscrapable?Which websites would be considered unscrapable or very difficult to scrape? Is there a lot of value in their data?
+None.    Embed Quote

@@ -1,0 +1,2 @@
+When should I begin competitive programming and is it possible for a beginner?
+If you want to start now you can. But for real time competitive programming questions at least you know some basic concepts of Data structure and algorithm. Mathematics is not that much required but logic is important to solve that questions. 

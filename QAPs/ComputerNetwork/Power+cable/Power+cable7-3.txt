@@ -1,0 +1,2 @@
+★Is it ok to connect one power cable to two sata disk?​
+Yes.  The drive will pull however much it needs. The data connectors must be on seperate cables though    Embed Quote

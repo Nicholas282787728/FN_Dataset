@@ -1,0 +1,2 @@
+★Where do network sockets go in the OSI model?
+Almost always layer 4.  You can use the socket API to access layer 2 and 3 if you're privileged, but that's not done outside of research.    Embed Quote

@@ -1,0 +1,2 @@
+What is the best data structure for heap implementation?
+Array is definitely the best for implementing heap. Both reference to the last node and traversal from one node to another are well supported in arrays. And they have no overhead costs. 

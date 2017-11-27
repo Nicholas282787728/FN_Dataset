@@ -1,0 +1,2 @@
+★Can function be used as a parameter of another function?
+You can use Pointers To Functions    Embed Quote

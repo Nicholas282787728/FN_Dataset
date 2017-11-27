@@ -1,0 +1,2 @@
+What is a simple, useful way of visualizing the magnetic moment of a system?
+I have always considered it to be a simple vector. 

@@ -1,0 +1,2 @@
+★Mathematical Optimization: Why would someone use gradient descent for a convex function?Why wouldn't they just find the derivative of this function, and look for the minimum in the traditional way?
+Because for a convex function, gradient descent will always eventual converge given a small enough step size and infinite time    Embed Quote

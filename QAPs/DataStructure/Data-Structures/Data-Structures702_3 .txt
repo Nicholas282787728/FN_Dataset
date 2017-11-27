@@ -1,0 +1,1 @@
+Are structures in C-language similar to objects in Java?Somewhat it is similar , But keep in mind c is a action oriented language not an object oriented. Structure is actually user defined data type which provide a way of storing many different values in variables of potentially different types under the same name. 73 Views  View Upvotes

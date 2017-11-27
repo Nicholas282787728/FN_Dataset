@@ -1,0 +1,2 @@
+What is a removable discontinuity?
+Consider the function f(x)  ,if x 0   a removable discontinuity of function f(x)  ,then at x 0   ,the left-hand and right-hand limits are equal but either the function is not deﬁned or not equal to these limits: lim x→x + 0  f(x)=lim x→x − 0  f(x)≠f(x 0 )  examples Consider the function                       the figure of f(x)  the point x 0 =1  is a removalbe discontinuity reference Classification of discontinuities Page on Mit 

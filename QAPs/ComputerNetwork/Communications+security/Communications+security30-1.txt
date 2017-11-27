@@ -1,0 +1,2 @@
+★How secure is quantum communication?
+Read "wavefunction collapse"  to get a perspective.

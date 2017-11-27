@@ -1,0 +1,2 @@
+★How are IP addresses decided for various ports?Like the Ethernet and Serial ports for a router.
+IP Addresses for ports!!??

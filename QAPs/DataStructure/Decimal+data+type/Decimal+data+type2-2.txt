@@ -1,0 +1,2 @@
+Perl (programming language): Why did Larry Wall finally ship Perl6, and does anybody care?I realize that the question may sound snarky, but a lot of people are asking this very question. With the advent of Python and Ruby, do we really need Perl at all?
+Perl6 is expected to facilitate creation of domain specific languages by making it easier to create and parse grammars. If it delivers on this promise, it will be one valuable feature that helps distinguish Perl6 from the crowd. Updated 10 Oct • View Upvotes

@@ -1,0 +1,2 @@
+★Internet Piracy: Can we stop American ISPs from spying on us?
+Yes. To truly prevent "spying" we can lobby for legislation to prevent these acts by ISPs. It may be a tough fight, but as the recent SOPA/PIPA protests have shown, the will of the people can sway the legislative process. Encryption will not stop packet inspection by ISPs. Encryption simply shields the information being transmitted and does not prevent an ISP from inspecting the information being sent and received.    Embed Quote

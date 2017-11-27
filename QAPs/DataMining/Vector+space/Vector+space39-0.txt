@@ -1,0 +1,2 @@
+★Where do properties of matrices, vector spaces, etc. come from?
+Page on utah.edu Essentially, it goes like this: Systems of linear equations come first. Determinants are developed to assist in solving them, as are matrices, which then turn out to be related. Matrices can be interpreted as transformations, which operate on vectors which come next. This is about as abbreviated as one can possibly get - for a more comprehensive view (which won't take longer to read than a typical answer), see the link above.    Embed Quote

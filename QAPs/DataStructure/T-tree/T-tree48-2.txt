@@ -1,0 +1,2 @@
+What is constructor?
+Constructor is very easy to think about because of its beautiful name. As the name suggests, it helps constructing objects. It saves them from having garbage values. To study detailed functionality of it: Java Constructors The concept remains same, irrespective of the programming language. 

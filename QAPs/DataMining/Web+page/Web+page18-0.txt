@@ -1,0 +1,2 @@
+★What's the best way to implement a Mind Map as a web page?Not just a generated picture, but something more interactive, so you can edit it easily. Maybe some services have widgets or APIs.
+Use http://www.prezi.com and embed it on your website    Embed Quote

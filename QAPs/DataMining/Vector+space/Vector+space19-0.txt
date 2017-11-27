@@ -1,0 +1,2 @@
+★How can I align two vector spaces?For example, consider 3d coordinate axes. I want to align x-y plane and y-z plane.
+You can use affine transformation matrices which comprise of translation, rotation and non-uniform scaling.    Embed Quote

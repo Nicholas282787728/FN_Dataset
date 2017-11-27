@@ -1,0 +1,2 @@
+★What's the best way to store and chart time-series data?
+Did you say a Service? You should signup for Google BigQuery (Pay as you go) its based on dremel and allows you to query trillions of rows in seconds or a little more.    Embed Quote

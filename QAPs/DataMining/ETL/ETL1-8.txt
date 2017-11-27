@@ -1,0 +1,2 @@
+★Business Intelligence: ETL : which is the best open source ETL tool to start working ? specially if we are kick starting a BI project
+http://inetsoft.com offers BI that avoids ETL processes entirely.  I would say check them out.  If you already set up a data warehouse, you can still interact with it, too.    Embed Quote

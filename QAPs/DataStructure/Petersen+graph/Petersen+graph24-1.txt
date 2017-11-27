@@ -1,0 +1,2 @@
+What are some good resources for learning about numerical analysis?
+I found following links very interesting. These are all projects, I bet you will enjoy them a lot: NUMERICAL METHODS THROUGH OPEN-ENDED PROJECTS Numerical Computing Computer Science Department New York University, Spring 2010 Peter Brinkmann These are the courses : Applied Math 205 MATH 272 - Course Notes 18.330 Intro to Numerical Analysis, Spring 2015 The History Numerical Analysis and Scientific Computing (this is like a treasure for me..): The History of Numerical Analysis and Scientific Computing 

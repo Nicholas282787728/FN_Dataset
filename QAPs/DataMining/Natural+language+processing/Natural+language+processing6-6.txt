@@ -1,0 +1,2 @@
+★What are the available APIs for NLP (Natural Language Processing)?What are the (open and commercial) available APIs for doing Natural Language Processing?
+In the area of commercial API you might want to try the API we recently recently launched Home - Cogito API, if you want to test the one dedicated to News Analysis you might want to look at Cogito® Intelligence API for digital content AdmantX - Semantic advertising data I hope it helps    Embed Quote

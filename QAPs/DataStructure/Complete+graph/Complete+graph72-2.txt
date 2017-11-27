@@ -1,0 +1,2 @@
+Is there a complete hierarchical graph of Scala and Java collection framework?
+These might help Java - Class Diagram - Collections Classes and Interfaces Java SE - java.util - Queue Classes Java SE - java.util - Map Classes Java SE - java.util - Set Classes Java SE - java.util - List Classes Updated 6 Nov

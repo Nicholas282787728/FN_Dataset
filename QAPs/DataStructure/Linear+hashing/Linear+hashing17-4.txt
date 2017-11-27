@@ -1,0 +1,2 @@
+What are some good resources for learning about dimensionality reduction? Why?
+My two favorite sources: "Diffusion Maps and Geometric Harmonics" by Stéphane Lafon The Random Projections work of Dasgupta 

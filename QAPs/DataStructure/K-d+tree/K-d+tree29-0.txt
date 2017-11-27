@@ -1,0 +1,2 @@
+Under what conditions would a slow algorithm run faster than a fast algorithm?
+Assuming that by fast and slow you're talking about Big-O notation, one easy example is comparing constant factors. Example: a binary search on a very small array (say 10 elements) is slower than linear scan. 

@@ -1,0 +1,1 @@
+Is it possible to implement two stack using array?Yes, very much possible. Start from the two ends of the array as the “tops” of the two stacks. You also have to maintain indexes of the end of the stacks also, so that you don’t crossover from one stack to another. 77 Views

@@ -1,0 +1,2 @@
+★How do I block a website in a D-Link DSL-2730U router?
+@http://setuprouter.com/router/dl... Go to Page no.56 URL filter. I hope thats what you are looking for.

@@ -1,0 +1,2 @@
+Is there any "bad advice" in Edward Tufte's data visualization books?
+I took Tufte's course in 2009 and read The Visual Display of Quantitative Information. If you take everything he says literally, you will always opt for paper handouts instead of Powerpoint presentations. Many times, however, slideshows are actually the most efficient way to deliver information, if not the only way. You should still take steps to increase your "data–ink ratio" and eliminate useless text, but abandoning Powerpoint/Keynote/Beamer/whathaveyou is often not an option. 

@@ -1,0 +1,1 @@
+How do I optimise selection sort using insertion sort?Use insertion sort for checking data distribution and decide which pivot to choose before each pass 

@@ -1,0 +1,2 @@
+★Why aren't web pages designed to fit the screen resolution?Space wasted on both the sides with centered overlay if used will save so many scrolling efforts and also gives opportunity to broader information poistioning. (More on same page or wider with same content)
+They are. It's called responsive web design.    Embed Quote

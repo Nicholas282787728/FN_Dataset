@@ -1,0 +1,2 @@
+★What are basic artificial intelligence projects for beginners?Some basic projects other than pac-man, 8 queen puzzle etc
+Check the book "Programming Collective Intelligence" by Toby Segaran. It contains many interesting examples.    Embed Quote

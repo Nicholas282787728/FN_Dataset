@@ -1,0 +1,2 @@
+★Can we do a standard deviation on this data set?
+If you want to find out if the observed results are generally higher/lower than the expected, you could use a matched t-test. If you want to find out if they are the same, you should look into equivalency testing; here you would probably use TOST (two one-sided t tests).    Embed Quote

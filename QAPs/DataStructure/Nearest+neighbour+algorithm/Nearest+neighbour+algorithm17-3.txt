@@ -1,0 +1,2 @@
+What are the top 10 algorithms every researcher in Machine Learning should know about?
+Some More are :- Logistic Regression Artificial neural network Random forest 

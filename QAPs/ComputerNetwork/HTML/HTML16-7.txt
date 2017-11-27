@@ -1,0 +1,2 @@
+★Difference Between HTML and CSS?
+HTML lays out the wire frame of the web page. CSS should do all the beautification and styling work.

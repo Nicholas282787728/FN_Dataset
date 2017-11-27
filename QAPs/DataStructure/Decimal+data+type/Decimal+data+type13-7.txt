@@ -1,0 +1,1 @@
+What are the differences in laymen terms between data structures vs. data types?

@@ -1,0 +1,2 @@
+★What are some good resources for learning text mining online?I can only find materials concerned with data mining in general. I would like more focused direction towards text mining. I found Text Mining and Analytics on coursera, however, it will start September 2015. I can't afford to wait that long.
+There's a number of other courses, also the NLTK Book should get you started.    Embed Quote

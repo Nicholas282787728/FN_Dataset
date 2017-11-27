@@ -1,0 +1,2 @@
+★What is SIP in telecommunications?
+SIP (session initiation protocol) is an application layer protocol like HTTP or FTP, but it's used for transferring data for the purpose of voice and video calls.  SIP was designed to be able to use any transport layer protocol, like TCP or UDP.  And, SIP is text-based, like HTTP or SMTP.  It's basically how two IP phones communicate with each other over the internet.    Embed Quote

@@ -1,0 +1,2 @@
+What is the difference between contravariant and covariant tensors?
+I just stumbled across this very nice illustration for those interested:    Embed Quote 

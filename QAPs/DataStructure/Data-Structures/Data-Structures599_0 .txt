@@ -1,0 +1,1 @@
+What is the real time application of binary operators?Go to this Link:: Did you ever use bitwise operators in real world applications? List top 5 practical uses of them which you come across. 33 Views  Answer requested by 1 person

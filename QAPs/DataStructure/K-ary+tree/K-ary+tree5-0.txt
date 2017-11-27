@@ -1,0 +1,2 @@
+How can we implement trees (Binary tree) using the LinkedList class in java?
+*A2A* Do you know the array representation of binary trees? [1] If so, then the same idea can be extended to store binary trees in linked list. But this will be extremely expensive as LinkedList does not allow random access. [1] 2.10. Array Implementation for Complete Binary Trees 

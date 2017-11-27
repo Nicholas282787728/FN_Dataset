@@ -1,0 +1,2 @@
+★What are the tradeoffs between the various n-body gravitation approximation algorithms?I'm particularly interested in 1) Big-Oh Space Complexity 2) Big-Oh Time Complexity 3) Difficulty of implementation 4) Parallelizability
+Amara Graps wrote a nice overview in 2000: http://www.amara.com/papers/nbod...    Embed Quote

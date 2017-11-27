@@ -1,0 +1,2 @@
+What is the CSE syllabus at the IITs/NITs for the first semester? Which languages must one know before joining?
+The syllabus for the first 2 semesters remains same for all the branches. As you are interested in CSE, I would suggest you to study C,C++ beforehand! As everybody does, get a book on C/C++, probably "Let us C" by Yeshwant Kanitkar. 

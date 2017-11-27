@@ -1,0 +1,2 @@
+★Email Service Providers: Suggestion for an ESP- smtp relay?we are an email marketing company and we have around 15- 20 clients in our network. We would be sending out mails to our users and we require the help an ESP to relay our mails to the inbox. Can anyone suggest good esps for us other than Amazon and Sendgrid? Since we have heard more about Amazon and sendgrid. Would definitely want to have options?
+SocketLabs provides outstanding deliverability and a high level of personal service - http://www.socketlabs.com    Embed Quote

@@ -1,0 +1,2 @@
+★What are the characteristics of a good training set for machine learning or neural network?
+-clean and unbiased -properly labelled/classifies -no missing data -covers the whole operational envelop/desired state space with satisfactory density -is in a form that makes further computations easy    Embed Quote

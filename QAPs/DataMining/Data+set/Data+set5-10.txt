@@ -1,0 +1,2 @@
+How do data analysts at companies like Facebook and Twitter run queries on extremely large data sets?
+The short answer is that they've done a lot of work creating new programming languages that break huge data sets into chunks that can be processed in parallel.  Some jobs are so large and run on so many servers that a failure somewhere during the job becomes highly probable.  So the new languages include redundancy.  Search on Hadoop, which customers can use to write applications to run on Yahoo's cloud.    Embed Quote 

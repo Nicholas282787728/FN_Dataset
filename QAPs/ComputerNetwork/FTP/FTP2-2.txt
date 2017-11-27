@@ -1,0 +1,2 @@
+★What is the best FTP client for Mac OS?other than Filezilla
+I've been using Cyberduck till today, that I've just bought Transmit. It seems to be more stable and powerful than Cyberduck, and the UI is more polished.

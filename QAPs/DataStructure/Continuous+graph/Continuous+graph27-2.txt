@@ -1,0 +1,2 @@
+What is the antiderivative of sin(x 2 )  ?
+There is no anti-derivative of this function in the sense that we can write it with elementary functions since it's nonelementary. See Fresnel Integrals. Updated 28 Sep • View Upvotes • Asked to answer by Fernando Hoya

@@ -1,0 +1,2 @@
+How do I start learning or strengthen my knowledge of data structures and algorithms?
+Originally Answered: How can I learn complex algorithms so as to master them? Practice them, and try to find and solve real-world problems using them. You understand something the best when you use it on your own volition, and then sit down and analyse the pros and cons of that approach. 262 Views · 3 Upvotes · Answer requested by Prateek Khade

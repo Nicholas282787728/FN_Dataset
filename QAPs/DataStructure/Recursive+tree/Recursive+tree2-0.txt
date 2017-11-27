@@ -1,0 +1,2 @@
+How do I understand the recursion tree?
+You didn't mention what problem you're having with understanding it. A recursion tree is a way of looking at recursive calls. It takes the amount of work done at a given level and writes that at that level as a function of n. Then it takes the recursive bit and writes those as functions of n in the nodes below that. I'd be more explicit, but I think the diagram here covers it quite well: Lecture 20: Recursion Trees and the Master Method 

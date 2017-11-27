@@ -1,0 +1,2 @@
+★Artificial Intelligence: What is an intuitive explanation for recurrent neural networks?
+Let me take a crack at this. In any neural network, you have Feed Forward and Recurrent. Regardless on how the network is "activated", the path or flow of information through the neural net never revisits a neuron in the Feed Forward networks, but can in a Recurrent network. Activation may involve iteration the the Recurrent case or a fancy dance with the mathematics to allow for it. It all depends. See Recurrent neural network for a deeper understanding.    Embed Quote

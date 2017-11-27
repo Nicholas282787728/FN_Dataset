@@ -1,0 +1,2 @@
+Where can I go online to study data structures, such as binary search trees, heaps, etc.?
+One of the best resource is “GeeksforGeeks | A computer science portal for geeks” where one can go for study of all sort of Data-Structures. 167 Views · 8 Upvotes

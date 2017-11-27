@@ -1,0 +1,2 @@
+In which situations is using a hash index faster than using a B-tree index for an equality search, and why?
+If you use a sufficiently large hash table and a smart hash function, hash index is almost always faster than B-tree. The advantage of B-tree is for range search since the key is kept in order. Thank you for your feedback! Your response is private. Is this answer still relevant and up to date? YesNo 6.7k Views · 24 Upvotes

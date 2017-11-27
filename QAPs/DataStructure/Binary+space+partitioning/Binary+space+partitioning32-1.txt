@@ -1,0 +1,2 @@
+Why does a pen drive or hard disc show less memory capacity than the printed memory?
+The simple reason being it requires that much memory is required by your OS  to maintain that device. There is a broad classification of how that memory is used but in nutshell it does the previously mentioned thing 

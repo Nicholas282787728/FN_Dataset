@@ -1,0 +1,2 @@
+★What are probabilistic graphical models?
+check out Daphne Koller's lectures on PGM in coursera. Here is the link Coursera    Embed Quote

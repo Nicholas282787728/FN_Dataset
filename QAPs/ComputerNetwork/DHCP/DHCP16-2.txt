@@ -1,0 +1,2 @@
+★Why DHCP is not used at IITB (or at any IIT) for IP allocation?
+Apparently they use DHCP at my university. My Data Comms. lecturer says it is because of the IP-crunch (?).

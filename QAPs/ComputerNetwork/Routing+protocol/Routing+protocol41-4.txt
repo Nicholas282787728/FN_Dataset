@@ -1,0 +1,2 @@
+★What projects and initiatives are underway to build wireless ad-hoc mesh networks?in preparation for the Contact Summit in NYC October 20, we want to understand the current landscape of projects/initiatives building wireless ad-hoc mesh networks so efforts can be coordinated.
+Could you add Cucumber Tony (CT) onto the list. CT is a cloud based Wi-Fi management platform for SME's which includes meshing. http://www.polkaspots.com http://www.polkaspots.com/cucumber-tony    Embed Quote

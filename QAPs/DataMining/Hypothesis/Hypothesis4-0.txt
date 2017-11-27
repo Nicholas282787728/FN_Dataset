@@ -1,0 +1,2 @@
+★Will the Riemann hypothesis be solved?
+We do not even know if it is decidable within the usual logical systems of analytical number theory.  Some have proposed to consider its truth (all non-trivial zeroes are on the critical line) as a new axiom.    Embed Quote

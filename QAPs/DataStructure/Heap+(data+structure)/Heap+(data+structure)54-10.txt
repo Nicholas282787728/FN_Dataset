@@ -1,0 +1,2 @@
+What algorithms and data structures should any software engineer know?
+Here is a list of common data structures Array data structure and Sparse array Linked list and Doubly linked list Stack (abstract data type) and Queue (abstract data type) and Double-ended queue Binary tree and Treap Red–black tree Heap (data structure)... (more)

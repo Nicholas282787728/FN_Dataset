@@ -1,0 +1,2 @@
+Are memristors a viable replacement for flash memory?
+it's not clear that they have made even a single memsistor that works for more than 1 second, can change state a million times without wearing out, is less than a billion times the volume of a flash cell, does not require to be cooled with liquid Helium, and can be manufactured in quantity, with usable yields, and at under 1000 times the cost of flash memory. The ones being allegedly sold by that Idaho company fall short of all these desirable qualities by huge factors. 

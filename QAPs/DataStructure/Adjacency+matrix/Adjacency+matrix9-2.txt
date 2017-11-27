@@ -1,0 +1,1 @@
+Is there an adjacency matrix for a connectome other than c. elegans?They claim they have one for a fruit fly http://www.wired.com/wiredscienc... but I cannot figure it out from their data.

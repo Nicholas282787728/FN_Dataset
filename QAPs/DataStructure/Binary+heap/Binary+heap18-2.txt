@@ -1,0 +1,1 @@
+Is there a data structure for key-value pairs that allows insert, update, deletion and finding the minimal value all in log(n)?My current approach is having a balanced search tree (based on the value) and a map that for each key points to a node in the tree. Is there a better approach, that uses less space?

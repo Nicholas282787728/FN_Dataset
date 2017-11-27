@@ -1,0 +1,2 @@
+★What are some cool applications of eigenvectors?Bonus points for anything that is really "out there."
+Principle Component Analysis (PCA) a method of dimensionality reduction    Embed Quote

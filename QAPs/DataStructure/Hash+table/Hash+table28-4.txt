@@ -1,0 +1,2 @@
+Can a hash table be implemented using an array?
+Yes, you could use hash as the index. In case there is a collision, you simply increment the index till you find the next empty spot. 328 Views · 2 Upvotes

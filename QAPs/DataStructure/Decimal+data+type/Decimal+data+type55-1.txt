@@ -1,0 +1,2 @@
+How do I declare a data type for an integer with more than 10 digits in C?
+[1] The question needs more detail!  Instead of specifying a minimum number of digits, it would be more helpful if you could specify a maximum number of decimal digits. Assume that we need to store integers with a maximum of N digits in decimal notation and further assume that we want only unsigned numbers.  To store this, we need an integer representation with B bits where B = ceil[N*log(10)/log(2)] which is equivalent to [ceil(B/8)] bytes. [2] "long long int" is not the answer you are looking for! 

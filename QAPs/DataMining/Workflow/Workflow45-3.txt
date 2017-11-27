@@ -1,0 +1,2 @@
+★What is the best workflow for PPC keywords processing?I understand that keyword reserach is done in tools like Google keyword tool or Wordtracker. But then what? An application that creates keyword combinations? Where to store the researched keywords in case I want to reuse them again?
+Google has recently updated the keyword tool to automatically group keywords into related themes. You can download them as an Excel file and save on your computer, and edit the file as you like. - https://adwords.google.com/o/KeywordTool    Embed Quote

@@ -1,0 +1,2 @@
+★Is a web browser just an HTML interpreter?
+not today!  if you only want a boring static page!  go ahead and disable CSS and java with firebug or chrome developer and see for yourself, HTML plays a little role.

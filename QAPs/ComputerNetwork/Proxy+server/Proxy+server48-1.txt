@@ -1,0 +1,2 @@
+★How can I set up a HTTPS proxy server on Ubuntu?Please specify all the minimal instructions to set up a basic HTTPS proxy server on Ubuntu, not just pointing to a program.
+Try nginx HttpCoreModule - Nginx Community http://wiki.nginx.org/HttpCoreMo...    Embed Quote

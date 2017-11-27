@@ -1,0 +1,2 @@
+What are some programming concepts, patterns or algorithms that give you insight into real life situations?
+The thing comes to my mind now is: If .. else concept. I believe that life is a matter of decisions--either makes the right ones or not. Evaluate your choices, make your standards, then make a decision to keep going. Otherwise, you will crash. 

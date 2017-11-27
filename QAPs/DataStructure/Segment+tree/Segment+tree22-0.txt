@@ -1,0 +1,2 @@
+Which one is more efficient - interval tree or segment tree with lazy propagation?
+Segment tree with lazy propagation. See this. 

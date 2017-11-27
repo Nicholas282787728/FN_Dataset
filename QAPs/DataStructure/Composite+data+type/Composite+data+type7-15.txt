@@ -1,0 +1,2 @@
+Which two programming languages together are powerful and cover the largest field in programming?
+C++ and Erlang. Erlang provides very elegant and developer-friendly distributed environment, and everything for which Erlang is too slow can be done in C++ and then integrated with Erlang via ports. 

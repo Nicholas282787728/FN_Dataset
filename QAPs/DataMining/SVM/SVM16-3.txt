@@ -1,0 +1,2 @@
+★Is there a way to get the confidence values in SVM classification?
+Platt scaling could do that, or isotonic regression.    Embed Quote

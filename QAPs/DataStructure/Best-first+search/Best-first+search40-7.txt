@@ -1,0 +1,2 @@
+What are the best books to learn algorithms and data structures? Are there any good blogs/posts on these? Which books explain these concepts in a simpler way?
+I've always been a fan of Papadimitriou's Algorithms. It's available online for free. I think it's pretty accessible--when I was in school, we said it was written in an easy tone, like a Wikipedia article.  Book 41.5k Views · 6 Upvotes

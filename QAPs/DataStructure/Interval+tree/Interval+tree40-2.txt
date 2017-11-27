@@ -1,0 +1,1 @@
+What is the best algorithm to find the maximum number of 2D points (from a given set) an axis-aligned rectangle of a given size can enclose?(size of rectangle a,b, number of points n, and the x,y coordinates of n points are given)

@@ -1,0 +1,2 @@
+Is there a lot of math in computer science?
+Yes, but not in the traditional sense (i.e. calculus). Instead, you'll be using boolean logic (discrete math), set theory, graph theory, etc. If you go into computer graphics, you'll be dealing a lot with matrices and vectors, so linear algebra is very useful. 

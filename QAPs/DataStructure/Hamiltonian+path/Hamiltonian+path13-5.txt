@@ -1,0 +1,2 @@
+What are the best applications of linearity of expectation?
+I like this one: Ran Huo's answer to How can I calculate the expected number of cache hits? 

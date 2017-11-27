@@ -1,0 +1,2 @@
+★How can I access the internet in my Windows 8 phone from my laptop using data cable?
+Sorry buddy, Windows has removed this feature in Windows 8 Mobile OS. Lack of USB Tethering in Windows 8 phone

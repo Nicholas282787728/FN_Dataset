@@ -1,0 +1,1 @@
+Why double linked list takes more space than single linked list for storing one extra address?Well, I hope, you said the answer in your question itself. It need more space because it stores extra address. 90 Views  View Upvotes

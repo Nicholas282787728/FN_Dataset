@@ -1,0 +1,2 @@
+What are the most important data structures needed to reach the ACM-ICPC World Finals?
+As mentioned here, the answer varies with different regionals. In South East Asia, China, Japan... I've seen data structure tie-breaking problems fall in many different area: Suffix array, 2D tree structures, splay tree, K-D tree... So basically you need to know everything :) 

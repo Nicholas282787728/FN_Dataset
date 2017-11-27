@@ -1,0 +1,2 @@
+★What is the best tool to create a company intranet?
+I would recommend looking at Google Sites - very easy to implement, use and train others to adminster and can be setup securely using email addresses for permissions.  Free hosting.  Includes search utility.

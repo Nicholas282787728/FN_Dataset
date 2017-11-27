@@ -1,0 +1,2 @@
+★What is a simple explanation of the Hidden Markov Model algorithm?
+I wrote a good tutorial on the subject in simple terms Markov Chains - Explained    Embed Quote

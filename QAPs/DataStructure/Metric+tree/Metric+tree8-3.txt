@@ -1,0 +1,2 @@
+What tools are out there to measure the effectiveness of my campaign landing page?
+HotJar (Hotjar - All-in-one analytics and feedback) is a cheaper alternative to Crazy Egg, it's a bit overkill for landing pages probably but you'll find it useful. 

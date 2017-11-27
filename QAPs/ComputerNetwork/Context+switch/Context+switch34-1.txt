@@ -1,0 +1,2 @@
+★Computer Programming: Do larger screen sizes make programming easier? If so, why?
+Big screens.  Ideally two of them, like the two 32 inch screens I'm using now. Programming on a tiny laptop screen?  OK for emergencies; sux for real work. On big screens, you can have many windows open so you can monitor processes, look at header and program files in one glance, and have everything in large fonts so your eyes don't get tired.

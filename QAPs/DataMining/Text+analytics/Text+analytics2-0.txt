@@ -1,0 +1,2 @@
+★What are the new commercial applications for text analytics?What  has been done commercially that is recent?
+It's being put to use in financial applications, such as using sentiment scoring on news items as an input to trading algorithms. I expect we'll hear more of this in the next couple of years. Seth Grimes has a great annual survey (or you can look at his many articles online) in which he summarises the current state of text analytics applications.    Embed Quote

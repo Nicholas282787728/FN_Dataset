@@ -1,0 +1,1 @@
+How do I go to the middle of the singularly linked list in one iteration?use two pointers.While moving first pointer one node at a time move 2nd pointer two nodes at a time.When the 2nd pointer finds NULL i.e., at last node 1st pointer will be pointing to middle node… 12 Views

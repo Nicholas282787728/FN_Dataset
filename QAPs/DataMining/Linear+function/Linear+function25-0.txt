@@ -1,0 +1,2 @@
+★A polynomial of degree 1 with no constant term is an odd linear function, f(x) =ax, a! =0. In case f(x) =0, it is a constant function and the degree is not defined. Why?Can someone explain why degree is not defined?
+Degree is defined as the coefficient of the highest power of x (i.e. highest power with non-zero coefficient) in the polynomial f(x). Since the zero polynomial has no non-zero term, there is no power of x with non-zero coefficient, and so the above definition of degree makes it undefined.    Embed Quote

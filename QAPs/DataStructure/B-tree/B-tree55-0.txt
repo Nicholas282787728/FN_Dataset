@@ -1,0 +1,2 @@
+Which page replacement policy is the best for a B+ Tree?
+The pages in the top of the tree are needed the most, so keep those as much as possible in memory. 371 Views · 1 Upvote

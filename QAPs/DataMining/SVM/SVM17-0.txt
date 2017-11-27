@@ -1,0 +1,2 @@
+★How can I use SVM  to classify documents?As I know Using SVM to classify documents is better than Bayes. Can you get some examples?
+Please be familiar with T. Joachims' works on it e.g. [1] [2]. [1] T. Joachims. Text Categorization with Support Vector Machines: Learning with Many Relevant Features, 1998. (https://eldorado.uni-dortmund.de...) [2] T. Joachims. Learning to Classify Text Using Support Vector Machines: Methods, Theory and Algorithms, 2002. (http://www.goodreads.com/book/sh...)    Embed Quote

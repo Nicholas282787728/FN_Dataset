@@ -1,0 +1,2 @@
+★Can a Beetel 450TC2 ADSL modem and router be used as DSL router, by simply plugging in a LAN wire?
+Yes - it should have 4 ethernet ports which participates in your internal network. They should be as good (in fact much better) as your wifi connected devices. If you have airtel broadband there may be a limit of connecting devices though.

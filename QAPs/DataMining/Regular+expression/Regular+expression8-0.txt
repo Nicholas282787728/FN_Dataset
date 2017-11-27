@@ -1,0 +1,2 @@
+★Is this a valid Regular Expression for an email address?^[a-zA-Z0-9_?]+((@{1}[a-zA-z]+).(org|net|com|gov|us|edu))\Z
+This is your regex(search pattern) It is valid and  checks for email address , but not for all the possibilities , e.g. it won't tell that abc@xyz.in is an email address.    Embed Quote

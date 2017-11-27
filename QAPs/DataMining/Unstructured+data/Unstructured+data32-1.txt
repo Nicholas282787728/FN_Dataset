@@ -1,0 +1,2 @@
+★What is the actual difference between semi-structured data and unstructured data?
+Semi structured is incomplete and unstructured means not arranged properly.    Embed Quote

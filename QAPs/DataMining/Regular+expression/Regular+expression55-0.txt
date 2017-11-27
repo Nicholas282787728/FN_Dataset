@@ -1,0 +1,2 @@
+★What is the difference between regular expression and regular language?
+A regular language is a set of strings that match a regular expression.  For instance, if you have the regular expression "gr(a|e)y", the language corresponding to that is {"gray", "grey"}.    Embed Quote

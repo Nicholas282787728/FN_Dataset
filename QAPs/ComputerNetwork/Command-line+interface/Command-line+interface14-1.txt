@@ -1,0 +1,2 @@
+★Is there a significant advantage to using Windows PowerShell vs. the standard command-line interface?
+Depends on the functionality you require. If the powershell has it and the standard command line does not then you do get a benefit. I think the powershell adds a bit of overhead and can be glitchy at times. I would avoid it if not needed.

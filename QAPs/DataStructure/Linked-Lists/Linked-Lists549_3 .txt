@@ -1,0 +1,1 @@
+What is the use of a header linked list?in header link list we can store the number of element present in link list .so we didn't need to traverse the hole list for counting the element . 1.7k Views  View Upvotes

@@ -1,0 +1,2 @@
+Which is better for quantitative finance, R or Matlab?Which do you prefer for what? Or just general pros and cons.
+BOTH! Use both man. They are very similar but have subtle differences providing different context. Depending on what you're trying to do, I have used both for almost everything. They're so similar, that once you learn you essentially learn the other (aside from stupid syntax issues). 

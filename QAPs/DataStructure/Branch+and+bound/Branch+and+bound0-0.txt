@@ -1,0 +1,2 @@
+What is "branch and bound"?
+It's a search algorithm for exploring graphs. The key property is that it only searches a limited number of paths at once. At each step, it looks at all of the possible next paths and only includes the most promising paths in the next step. Patrick Winston at MIT gives a good lecture on Branch and Bound here: Lecture Branch and Bound. The Wikipedia page is also pretty informative: Branch and bound. 

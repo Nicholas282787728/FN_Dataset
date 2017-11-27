@@ -1,0 +1,2 @@
+★What's the best free/cheap knowledge management (a.k.a Quora clone) software?Ideally, I would like a private Quora instance for our startup. Since Quora don't offer such a service ... what are some alternatives I could use to manage our knowledge base? A solution that I don't have to host myself is preferable, of course.
+You may try BugFree, it's Microsoft concept design. I used it, and it works good. Totally free. http://www.bugfree.org.cn/blog/    Embed Quote

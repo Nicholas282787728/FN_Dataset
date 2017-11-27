@@ -1,0 +1,2 @@
+What is the difference between a complete graph and a connected graph?
+In a connected graph there's a path between any pair of points. In a complete graph there's an edge between any pair of points. 

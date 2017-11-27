@@ -1,0 +1,2 @@
+★Why is homogeneity of variance referred to as homoscedasticity in the context of regression analysis?Is there a conceptual (theoretical) difference between the two?
+Homogeneous implies that the observations are similar whereas homoscedastic implies that the variance among them is the same/finite. scedastic come from Greek for to disperse.    Embed Quote

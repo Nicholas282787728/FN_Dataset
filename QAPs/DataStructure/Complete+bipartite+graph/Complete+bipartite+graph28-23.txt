@@ -1,0 +1,2 @@
+What is the best strategy to improve my skills in competitive programming in 2-3 months?My knowledge is structure programming  in C++ I solved around 50 problems all of them are basic problems Samuel.Soliman - A2 Online Judge
+Originally Answered: Where can I learn competitive programming basics and advanced concepts?Books - GeeksforGeeks Refer this page you will get book name . You can start learning by online, offline ,course  or self . It's all depends on your strength . Algorithm Tutorials MAXimal :: algo Tutorials | CodeChef There are many sites just search it . 

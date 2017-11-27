@@ -1,0 +1,2 @@
+What is the key feature missing in geolocation apps such as foursquare, Gowalla, SCVNGR, PlacePoP, etc?
+These apps can definitely provide more sophisticated recommendations. The ability to take you & your friends' check-in history and create recommendations for new places to go based on historical data as well as a combination of additional factors such as venue popularity/size, trending nearby, time of day, weekday vs. weekend,  home city vs. travelling city, etc. 

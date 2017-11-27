@@ -1,0 +1,2 @@
+★What are the use cases for Amazon GPU Cluster?
+NVidia's CUDA page has a lot of great examples: http://www.nvidia.com/object/cud... Their Tesla page has some good examples as well (at the bottom): http://www.nvidia.com/object/tes... Some of the ones of interest to me personally are Molecular Dynamics (Amber, Gromacs, NAMD, etc): http://www.nvidia.com/object/cud... Seismic Analysis: http://www.nvidia.com/object/cud... Genome Assembly and Alignment: http://schatzlab.cshl.edu/Presen...    Embed Quote 

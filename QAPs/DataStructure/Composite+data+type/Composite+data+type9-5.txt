@@ -1,0 +1,2 @@
+Is there a tendency of functional programming languages becoming a major force in programming technologies?1. C# -> Functional elements added 2. Python -> Functional elements 3. JS 4. C++
+Yes, but this has been true since about 1960. 

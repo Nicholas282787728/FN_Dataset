@@ -1,0 +1,2 @@
+★In a computer, if a physical address is incremented, will it reference the next bit or byte?
+That's a definite maybe.  Today almost all processors make memory byte-addressable, that is, incrementing an address takes you to the next byte of memory. However, that is current practice and not necessarily a constant across designs.  In Ye Olden Days, some computers had memory that was word addressable.  Thus, incrementing an address took you to the next word of memory.  And word size depended on the exact computer.  Some word sizes were 60, 36, 32, 18, or 16 bits.    Embed Quote

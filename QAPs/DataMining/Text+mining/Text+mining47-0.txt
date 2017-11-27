@@ -1,0 +1,2 @@
+★I'm looking for resources and previous work on using Text-mining / NLP techniques to infer location information from articles. Any pointers?
+I guess you want to do this by yourself but there are free API out there to do it for you. You could look at http://www.opencalais.com. This might, at least, give you a reference for evaluating your tools/models/algorithms.    Embed Quote

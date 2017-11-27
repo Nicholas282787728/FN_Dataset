@@ -1,0 +1,2 @@
+★What is the best online service for creating charts & graphs?
+I'd reccommend bime (http://bimeanalytics.com). It provides business users with advanced data visualization capabilities, in an elegant web interface.  It has a range of connectors so whatever the format of the data you want to visualize, there is a high chance bime will be able to handle it!    Embed Quote

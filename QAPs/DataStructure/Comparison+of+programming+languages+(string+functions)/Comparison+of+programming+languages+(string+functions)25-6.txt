@@ -1,0 +1,2 @@
+Why are Java 8 lambda expressions regarded as a big change in the Java programming language?
+It's a big change from a non-technical perspective. Java programmers with no background in lambdas and functions that work with them (such as map() and flatMap() will now have to read and maybe even maintain and write this form of code. 

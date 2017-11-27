@@ -1,0 +1,2 @@
+What are the most time-saving keyboard shortcuts for Eclipse (Java)?
+Alt + Shift + R - refactoring Ctrl + Shift + C - comment the line Ctrl + D - delete the line Ctrl + Shift + O - organise Imports Ctrl + I - correct indentation F5, F6, F8 - for debugging 

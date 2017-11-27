@@ -1,0 +1,2 @@
+What is a constructive proof of existence?
+This should be easier to understand :S,Amin did great answer, but I feel its a bit long for a small question. The constructive part just means "by practical calculation we deduce..." So constructive existence proof is very simple, since it is just to find a practical example, that fits your assumption. - Using actual numbers, and not arbitraries. U can proof constructively that a number exists greater than 4, by just showing 5>4,   Or does a number exist greater than 4n?, yes because for all n, 4n+1>4n  =) 

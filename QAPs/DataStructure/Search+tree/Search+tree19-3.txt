@@ -1,0 +1,2 @@
+Are these two find methods for a binary search tree correct?
+TYPE 1 is cool... TYPE 2 should also work perfectly considering the key you are searching is present in the tree. If the key you are searching for does not exist in the tree then the while loop on line 8 will go into an infinite loop.... :) 

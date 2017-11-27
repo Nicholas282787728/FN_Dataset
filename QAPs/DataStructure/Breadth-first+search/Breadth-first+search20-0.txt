@@ -1,0 +1,2 @@
+Can breadth-first search have cross arcs, tree arcs, back arcs or forward arcs?
+Assuming it's run in the same way depth-first search is usually run (from every vertex of a directed graph), it can have the first 3 types of edges.  Forward edges in depth-first search are defined as edges within the same tree that 1) aren't tree edges, and 2) go from u to tree-descendant v.  These are disallowed in BFS because we will always explore the shortcut before the longer path. 

@@ -1,0 +1,2 @@
+What is the best business intelligence tool for a ecommerce store running on Magento?
+Look at the analytical program http://piwik.org/    Embed Quote 

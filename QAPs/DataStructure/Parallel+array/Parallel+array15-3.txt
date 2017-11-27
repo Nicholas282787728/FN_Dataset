@@ -1,0 +1,2 @@
+Is it possible to run multiple if conditions using a for loop?
+yep, and there's also operations called "break" to break loop in loop block, and also "continue" to break just current iteration. 

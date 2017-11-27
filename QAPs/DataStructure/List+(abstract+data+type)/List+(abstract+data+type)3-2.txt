@@ -1,0 +1,2 @@
+What are some "practice problems" that everyone should work on in-order to get better at programming (in any programming language)?
+I would suggest that a good grounding in pattern matching and graphs is essential for all aspiring programmers. Pattern matching can be explored by implementing a Chatbot similar to ELIZA, eliza.py. A good introduction to graphs can be found here: Python Patterns - Implementing Graphs. If you are looking for a solid foundation in the above topics then you might like to look at this site: Problem Solving with Algorithms and Data Structures. 

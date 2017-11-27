@@ -1,0 +1,2 @@
+What is the most complex line of C code you have created or encountered?
+Just look up an implementation of Quick Sort in C. Surprisingly few lines for such a powerful function and runs lightening fast without having to worry about memory management or garbage collection. 

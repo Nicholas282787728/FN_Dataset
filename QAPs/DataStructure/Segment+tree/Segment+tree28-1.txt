@@ -1,0 +1,2 @@
+Sphere Online Judge (SPOJ): How do I use a persistent segment tree to solve a problem?
+The answer given by Piyush Kumar, although very good, doesn't anwer the question fully. The question was how to use a persistent segment tree to solve the question. Using a persistent segment tree, this problem can be solved in [math]O((n + Q) log(n))[/math]. For an explanation, read Persistent segment trees - Explained with spoj problems by Anudeep Nekkanti. 

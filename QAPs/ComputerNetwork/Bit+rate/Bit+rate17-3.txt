@@ -1,0 +1,2 @@
+★Is there a way to encode a MPEG2 video at a bit rate of over 40Mbps?
+And somehow I found out HCenc could do the job... Though it's under Windows, and requires some knowledge with AviSynth.

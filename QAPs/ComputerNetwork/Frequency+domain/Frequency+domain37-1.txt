@@ -1,0 +1,2 @@
+★What is the definition of Laplace transforms?
+Conceptually it is a method for analyzing signals or functions in frequency domain rather than in time domain. For the associated mathematics see a book or just Google it. For deep insight in the concept, I would suggest you to search for the lecture on Laplace transform by Prof. Arthur Mattuck of MIT under the course 18.03 Differential Equations.

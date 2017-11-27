@@ -1,0 +1,2 @@
+★The Tamil Nadu government has announced that it is going to provide cheap broadband Internet via TV cable operations. Is it feasible? Has any other country already adapted this technology successfully?
+That's actually possible. Broadband and television signals have different frequencies. Both can be sent through a coaxial cable. And an analog splitter can be used. Ps i don't know what's going on in Tamil Nadu.

@@ -1,0 +1,2 @@
+★What are some examples where it would be beneficial to represent a graph as an adjacency matrix, instead of as an adjacency list?
+I guess, one example is when you need to compute all-pairs shortest paths: http://en.wikipedia.org/wiki/Sho...    Embed Quote

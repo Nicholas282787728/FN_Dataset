@@ -1,0 +1,2 @@
+What CS topics should a self-taught front-end developer be learning to become a good fullstack developer?
+Assuming you already know JavaScript, all you need now is to learn Meteor. It's pure JS, uses JS on both client and server side, and uses the same code to create web and mobile applications. Can't get more full-stack than that, I guess. 

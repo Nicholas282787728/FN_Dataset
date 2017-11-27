@@ -1,0 +1,2 @@
+★Is there any hosted Continuos Integration service that is free for students and compatible with BitBucket?
+TravisCI and CircleCI are free (for limited use).  CircleCI is a bit easier to deal with up front.  Both would be free for a student as well. In terms of integration with BitBucket, I haven't heard of such a thing, but maybe a google search could help here knowing the names of some CI platforms.    Embed Quote

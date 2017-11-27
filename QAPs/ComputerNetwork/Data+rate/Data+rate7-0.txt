@@ -1,0 +1,2 @@
+★The maximum Bluetooth 4.0   data rate is 25Mbps. so this B is  "bit" or "Byte"?
+B = Byte b = bit 25 Mbps =  25 Million bits per second From a quick glance at Wikipedia, it looks like Bluetooth 4.0 (BLE) has a data rate of 1 Mbps. [Bluetooth low energy]

@@ -1,0 +1,2 @@
+★How can I prove that spans the entire vector space of functions ?
+You can't, because that is not true.    Embed Quote

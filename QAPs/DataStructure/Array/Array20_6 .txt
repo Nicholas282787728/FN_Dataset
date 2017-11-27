@@ -1,0 +1,1 @@
+What is the maximum size of the array in Java?it basically depend upon the size of the integer (max size) which is 2^31 -1 array use this range from 0 to 2^31-1 as the index val. 

@@ -1,0 +1,2 @@
+★Gems for designing a Ruby DSL?What gems are out there to simplify creation of a DSL?  What patterns should I check out?  What common mistakes should be avoided?
+Here is a design pattern you can use: A Ruby DSL Design Pattern for Distributed Computing for at least part of what you need

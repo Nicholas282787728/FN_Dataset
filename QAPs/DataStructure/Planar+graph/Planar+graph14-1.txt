@@ -1,0 +1,2 @@
+How was the Four Colour Theorem proved?
+I would like to add one thing to the answer given by David Joyce: In 2005, Georges Gonthier at Microsoft Research/INRIA and his team gave a fully formalized proof of the four-colour theorem using the proof checker Coq. See his survey paper from 2008 in the Notices of the AMS which describes  the theorem, the proof by Appel and Haken, the formalization in Coq and the graph-theoretic insights that were the by-products of the formalization. 

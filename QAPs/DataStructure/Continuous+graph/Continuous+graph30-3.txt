@@ -1,0 +1,2 @@
+Which mathematics courses may be useful for a Computer Science student ?
+Discrete Math,Probablity and Algebra 

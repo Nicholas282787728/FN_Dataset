@@ -1,0 +1,2 @@
+★What is the best Intranet platform for a midsize company?Love the google docs functionality but their sites functionality for top down navigation and rich controlled sharing is pretty thin. Sharepoint makes my brain hurt every time I look at it... What are people using for a company bigger than a startup (so need more than just docs) and smaller than a full size corp?
+Does Oracle still sell Plumtree Corporate Portal under the BEA Aqualogic brand?  That was what I worked on 10 years ago, and is still the best Intranet portal solution.

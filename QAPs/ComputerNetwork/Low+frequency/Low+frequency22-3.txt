@@ -1,0 +1,2 @@
+★How do you block low frequency sounds that come from a sub-woofer?
+Either disconnect or use an equalizer. Take out frequencies below 100Hz.    Embed Quote

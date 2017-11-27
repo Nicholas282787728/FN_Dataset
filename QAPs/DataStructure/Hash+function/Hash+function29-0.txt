@@ -1,0 +1,2 @@
+What is the standard hash function?
+There is no standard hash function, but the best hash function that you can use in a particular scenario/use case.  Usually, its the SHA(1 or 256) algorithms, however, in older and less secure (or non-security related)  MD5 is used. Alternatively, hashes can be used informally as CRCs, in which case there are many uses and types. 

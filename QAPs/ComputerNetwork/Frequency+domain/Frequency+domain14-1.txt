@@ -1,0 +1,2 @@
+★Why does sampling in time domain result in periodicity in frequency domain for any signal?
+Any signal sampled in time is discrete in time and hence can be represented as a linear combination of kronecker delta functions.  The fourier transform of a delta function is a complex exponential , hence sums of exponentials is what is the fourier transform of sum of delta's. By the defition of fourier series we can represent any periodic signal as a sum of sinusoids ( complex exponentials ). So , sampling in time domain reults in periodicity in frequency.

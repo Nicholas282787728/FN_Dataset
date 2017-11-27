@@ -1,0 +1,2 @@
+Is this a typo in MyMathLab?
+No, seems to actually be the lower sum.  4050 = 0x3x3 + 9x6x3 + 36x9x3 + 81x12x3.  0, 9, 36, and 81 are the infimum values of the four intervals. The graph is of the upper sum, 5400, however. 

@@ -1,0 +1,2 @@
+★How can I connect to an FTP server with a Mac?
+From the command line: open a terminal and type: $ man ftp for instructions. I prefer to use a GUI client called "Captain FTP" (google for the URL). Solid, works well, and they update from time to time (so I am willing to recommend it)

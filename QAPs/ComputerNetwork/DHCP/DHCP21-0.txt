@@ -1,0 +1,2 @@
+★How does DNS server and DHCP client message pass?
+Here ya go: List of network protocols (OSI model)

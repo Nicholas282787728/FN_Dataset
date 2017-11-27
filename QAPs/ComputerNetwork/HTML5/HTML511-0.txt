@@ -1,0 +1,2 @@
+★What's new in HTML5?
+As of October of this year (2014), it was finally officially released! Of course, most browsers have been pretending it's been released for years now. Joking aside: • WebRTC • HTMLWorker (multithreading) • A new, faster iOS Safari VM (this adjacently affects HTML5) • You can now drop the vendor prefixes on several CSS properties • WebGL! That's about it.

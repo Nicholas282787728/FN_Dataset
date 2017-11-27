@@ -1,0 +1,2 @@
+What mathematics do I have to study for theoretical computer science?
+A bit of analysis for the basics, some geometry (as mathematicians intend it, so matrices, classes of numbers and so on) and then probability, a lot of it. When I attended my first probability exam I really hoped I would never use it again, but it just keeps popping up, so take it seriously. 

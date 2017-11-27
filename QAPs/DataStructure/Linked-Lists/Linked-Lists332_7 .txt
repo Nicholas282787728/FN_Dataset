@@ -1,0 +1,1 @@
+What is disadvantage of using linked lists over arrays?Originally Answered: What is greatest advantage of using linked lists over arrays?The greatest advantage of using linked lists is the ability of inserting and deleting elements anywhere in the list in constant time. 4.1k Views  View Upvotes

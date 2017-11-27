@@ -1,0 +1,2 @@
+★What is a BRIDGE (a network component)?How it works? And how Spanning Tree Protocol works?
+A bridge is used to connect 2 or more LANs together. It is a layer 2 device. It virtually combines all the different LANs connected to it in a single LAN. I don't know about the spanning tree protocol. You may find some deteils here: Spanning Tree Protocol

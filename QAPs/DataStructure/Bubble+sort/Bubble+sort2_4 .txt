@@ -1,0 +1,1 @@
+Which is faster: quicksort or bubble-sort?Please give detailed explanations. I have been playing with them throughout the whole morning and I am not sure which one is faster.Quick sort is the fastest. to know more about bubble sort and c program, Visit C Program to sort an array using Bubble Sort 

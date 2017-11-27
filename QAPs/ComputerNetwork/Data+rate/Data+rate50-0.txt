@@ -1,0 +1,2 @@
+★Is there a way to download workouts with the heart rate data to TrainingPeaks?
+I think it depends on how you're recording the HRM data - the most common head unit, Garmins will upload this data automatically.

@@ -1,0 +1,2 @@
+Is there any importance for scientific computing in electrical engineering?
+yes. acoustics. sonar. radar. medical imaging, computer vision, speech recognition, navigation, gps, autonomous vehicles (cars, trains, drones, planes, spacecraft), communication systems, cell towers, compression of voice, data and video, all use some form of the tools and techniques you have studied and can apply. 

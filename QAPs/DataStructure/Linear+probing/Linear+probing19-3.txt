@@ -1,0 +1,2 @@
+What are some problems with hash tables?
+1. How to put object into Hashtable? 2. How to retrieve object from Hashtable in Java? 3. How to reuse Hashtable by using clear()? 4. How to check if Hastable contains a particular value? 5. How to check if Hashtable contains a particular key? 6. How to traverse Hashtable in Java? 7. How to check if Hashtable is empty in Java? 8. How to Copy content of Hashtable into HashMap? 9. How to find size of Hashtable in Java? 10. How to get all values form hashtable in Java? 11. How to get all keys from hashtable in Java? 

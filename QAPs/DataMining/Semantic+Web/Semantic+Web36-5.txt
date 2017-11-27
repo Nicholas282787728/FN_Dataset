@@ -1,0 +1,2 @@
+★Which digital content curation tools/services leverage semantic web / linked data principles?
+Trapit curates sources by maintaining an index of quality web content sources.  It then searches those sources semantically, using natural language processing from SRI International to understand text.    Embed Quote

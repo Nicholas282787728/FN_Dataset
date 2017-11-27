@@ -1,0 +1,2 @@
+★What are some examples of Principal Component Analysis applied effectively?
+See the tutorials on the NumXl website. Principal Component Analysis in Excel (PCA) 101 tutorial - NumXL    Embed Quote

@@ -1,0 +1,2 @@
+What are the real world applications of Huffman Coding?
+Data compression 83 Views · 2 Upvotes

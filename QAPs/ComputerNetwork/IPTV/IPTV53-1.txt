@@ -1,0 +1,2 @@
+★Does factory reset of router help in any way if I have problems with my IPTV service?
+Not if there was something set in there that your IPTV service depended on.  You'd have shot yourself in the foot by doing that.

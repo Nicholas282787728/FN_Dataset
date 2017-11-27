@@ -1,0 +1,2 @@
+★What are the disadvantage of genetic algorithm?
+As much as I've worked on GA, the random convergence of solutions in a variant problem with respect to a fitness function is the major disadvantage of genetic algorithm. Besides, the time consumed by the optimization algorithm is also high since it involves so many parameters. And GA is preferred for a binary solution set, so many of the problem statements do not prefer GA for optimizing their respective function.    Embed Quote

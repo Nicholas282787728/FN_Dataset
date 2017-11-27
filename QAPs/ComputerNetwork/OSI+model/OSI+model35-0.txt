@@ -1,0 +1,2 @@
+★How is packet switching done in optical fiber communication and how is packet traffic handled?
+Again, throw out the OSI model. After that it's relatively straightforward: How does the Internet work?    Embed Quote

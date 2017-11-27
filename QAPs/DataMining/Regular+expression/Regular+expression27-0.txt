@@ -1,0 +1,2 @@
+★What are the regular expressions for abbreviations?
+Actually i am not able to get your question. But i guess you are trying to ask what are Regular expression, it is a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text. Whole text can be notated in small pattern. Eg : \b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,6}\b To search for an email address. For more information on Regular Expression you can check this What Is a Regular Expression, Regex or Regexp    Embed Quote

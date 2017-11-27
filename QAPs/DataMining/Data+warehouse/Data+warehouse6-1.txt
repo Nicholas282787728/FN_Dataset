@@ -1,0 +1,2 @@
+★Are there any practical (near) real-time data warehouse solutions?And how do they work compared to a classical data warehouses, batch analytics platforms like Hadoop and stream processing engines like Storm or S4.
+In the case of Oracle the best is to create a Physical Standby database used only for reporting purposes or to use a replication tool like Oracle Streams or Oracle GoldenGate. There are similar mechanisms in other databases, especially on the replication area. mauricio.pacheco@bpanalyitcs.com     Home - BP Analytics    Embed Quote

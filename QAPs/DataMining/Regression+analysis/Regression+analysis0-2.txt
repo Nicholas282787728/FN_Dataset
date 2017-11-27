@@ -1,0 +1,2 @@
+★What are some methods of time-series regression analysis?This is a follow-up on: What are some time series measures?
+Just use ARIMA and be done with it.    Embed Quote

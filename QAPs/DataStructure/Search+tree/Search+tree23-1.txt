@@ -1,0 +1,2 @@
+How do tries differ from binary search trees?
+Trie is an ordered tree structure, which is used mostly for storing strings (like words in dictionary) in a compact way. In a trie, every node (except the root node) stores one character. By traversing up the trie from a leaf node to the root node, a string can be constructed. By traversing down the trie from the root node to a node [math]n[/math], a common prefix can be constructed for all the strings that can be constructed by traversing down all the descendant nodes (including the leaf nodes) of node [math]n[/math]. 

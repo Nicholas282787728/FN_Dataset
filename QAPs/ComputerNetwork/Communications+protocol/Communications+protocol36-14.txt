@@ -1,0 +1,2 @@
+★What are some real life good habits that programming gives people?Inspired by What are some real-life bad habits that programming gives people?
+Communications. If you want someone to do exactly what you think, you must 1) learn his grammar firstly, 2) transform your requirement to instructions in his language, 3) if his output is incorrect, check your program firstly.

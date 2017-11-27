@@ -1,0 +1,1 @@
+What's the best movie review service with open graph integration?I just watched a movie. It was shit. And I want to share my review of it to my friends on Facebook and Twitter. What service allows me to do that? It has to be integrated with Facebook's Open Graph. Bonus points if it has good UX design.

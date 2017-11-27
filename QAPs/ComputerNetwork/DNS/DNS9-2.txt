@@ -1,0 +1,2 @@
+★Who owns the DNS root zone?
+The DNS root zone is managed by Internet Corporation for Assigned Names and Numbers (ICANN) through the Internet  Assigned Numbers Authority(IANA) function and is maintained by Verisign.

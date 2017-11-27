@@ -1,0 +1,2 @@
+★How does a proxy server work?
+Proxy server is like a firewall with NAT translations. Proxy server will give access to internet by authenticating the user first. So, basically, it is an intermediary between a user(client) and any cloud(internet) or servers. A Proxy server can be used mainly for: Monitoring : inflows and outflow of data. Filtering Censorship : Can block the access to unwanted sites and applications(torrent can blocked by the ports 6881-6889) Encryption : for data security.    Embed Quote

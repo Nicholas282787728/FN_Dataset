@@ -1,0 +1,2 @@
+Big Data Analysis: What are the Alternatives to Hadoop?
+If you are a startup and your main use-case is reporting/BI then AWS | Amazon Redshift - Cloud Data Warehouse Solutions is a great option. You can scale it up to petabytes. It is very easy to main and the response times are much better than hadoop. Also you can find lot talent who knows only SQL so it is easy to recruit too.    Embed Quote 

@@ -1,0 +1,2 @@
+What's the best way to proceed if you have 30 days to become a better competitive programmer from being a beginner?
+Thanks for the A2A. 1. Start off with the basics: Arrays, Linked lists, Stacks, Queues. 2. Choose an online judge: UVA, Timus, SPOJ, Codechef, Codeforces, Topcoder. 3. Start off practising with the problems which are solved the most. Usually they are the easiest. 4. Day by day, you will get used to the format and the way to write crisp and better codes. 5. See the solutions of top solvers in Codechef, Codeforces and Topcoder. That will be enough. :) 

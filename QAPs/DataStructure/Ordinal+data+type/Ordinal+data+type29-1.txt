@@ -1,0 +1,2 @@
+How do you run predicted probabilities on ordinal regression models?
+Can you clarify please?  What does your data structure look like?  As long as your Y is expressed as probability, you can apply logistic transformation Y1 = ln (Y/(1-Y)) and use regression (depending on the problem you are solving, it may be least-squares, quantule, LOESS, kernel, GLM, etc.) to predict it.  That done, you do the simple algebra to get the predicted values of Y, and you are done. 

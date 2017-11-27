@@ -1,0 +1,2 @@
+★What is the state of the art in monitoring Hadoop clusters?
+At StumbleUpon we extract the JMX metrics from our Java processes and store them in OpenTSDB every few seconds.    Embed Quote Updated 26 Mar, 2011. 1,081 views.

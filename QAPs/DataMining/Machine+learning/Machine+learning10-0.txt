@@ -1,0 +1,2 @@
+★Python for Machine Learning?
+sklearn is an awesome ML library for Python: http://scikit-learn.org/ It comes with a super simple, standardized API that only takes minutes to learn. Check it out, I'm sure you'll like it.    Embed Quote

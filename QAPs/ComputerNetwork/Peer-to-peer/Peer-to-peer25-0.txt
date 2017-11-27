@@ -1,0 +1,2 @@
+★What is peer to peer?
+It means a the connection is from a individual end to another. Usually, A software will connect to it's server, which is usually controlled by its developer. However, a p2p connection means connect to another client just like you.    Embed Quote

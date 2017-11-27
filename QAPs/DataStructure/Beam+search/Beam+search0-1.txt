@@ -1,0 +1,4 @@
+Why is beam search required in sequence to sequence transduction using recurrent neural networks?
+Let us consider a basic seq2seq with just one hidden layer and vanilla RNN for both encoder and decoder !
+
+Consider what happens when the encoding is done. You get the last hidden state of the encoder RNN. Now the decoding process starts. The last hidden state of the encoder acts as the initial hidden state of the decoder RNN.

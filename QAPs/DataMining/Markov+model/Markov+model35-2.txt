@@ -1,0 +1,2 @@
+★What are some good resources for learning about Hidden Markov Models?
+Another source I liked was the HMM tutorial by Rakesh Dugad: http://vision.ai.uiuc.edu/dugad/...    Embed Quote

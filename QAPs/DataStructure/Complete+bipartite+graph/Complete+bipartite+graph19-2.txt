@@ -1,0 +1,1 @@
+There are n boys and n girls. Each boy has a list of girls he likes. How many arrangements (pairing of a boy with a girl of his choice) can be made such that each boy gets a girl on his list?

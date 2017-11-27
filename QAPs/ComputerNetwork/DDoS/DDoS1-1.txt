@@ -1,0 +1,2 @@
+★What is DDoS?
+It stands for distributed denial of service attack. This method involves crashing down the server or you can say slowing down the server by making lots of request to server.If the requests coming to server are very large in number,the server won`t be able to handle them and may even crash down. You can use a software known as CPU death pinger to crash a local server.

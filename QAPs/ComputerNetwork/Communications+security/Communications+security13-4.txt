@@ -1,0 +1,2 @@
+★In the public key cryptography, what is the number of keys required for secure communication between n parties ?Please give specific answers, Expertise needed!
+Public key cryptography is a kind of asymmetric cryptography . Asymmetric cryptography using key pairs for each of the users needs ' n ' number of key for n users.      Symmetric Cryptography , it needs n(n-1)/2 keys   

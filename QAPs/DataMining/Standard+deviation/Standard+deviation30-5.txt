@@ -1,0 +1,2 @@
+★How do you draw a distribution curve of a data set if only the median, mean and standard deviation are provided?Assume the following values Mean: 60 Median: 50 Standard deviation: 20 Range of data: 0-100
+The problem is not well stated.   The best you could do with that information is to maybe find the maximum entropy distribution having those values.    Embed Quote

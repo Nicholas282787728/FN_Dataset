@@ -1,0 +1,1 @@
+How are arrays echoed in PHP?$array = array(); $array = some value; For print the array:- echo”<pre>”;print_r($array);die; Output:- array( [0] => hi [1] => hello ) 51 Views

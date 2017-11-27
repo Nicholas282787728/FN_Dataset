@@ -1,0 +1,2 @@
+★How do I import unstructured data to Hadoop?
+Using Pig/Hive programming Language.    Embed Quote

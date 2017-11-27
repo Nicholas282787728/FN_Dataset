@@ -1,0 +1,2 @@
+★How accurate are Google Maps time estimates for the subways in NYC versus hopstop?Google maps estimates seem to be consistently ~10min shorter than hopstop for the same door to door trips; which is more accurate?
+I've never trusted hopstop for anything, because it doesn't account for local/express differentials, service disruptions, and using a station that would be more convenient instead of one that is technically closer. What I do is to rely on the MTA Trip Planner and my own experience and instincts on which trains to take and where to get on/off.

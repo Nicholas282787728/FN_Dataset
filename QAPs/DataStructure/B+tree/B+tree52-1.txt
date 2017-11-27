@@ -1,0 +1,2 @@
+How would you delete 22* from the following B+ tree? Why doesn't deleting by redistribution work?
+I am not sure, but the tree looks wrong. The first level should have a "1", and may be a "20". If 22* is deleted the tree has to be balanced again. I think the number of leafs stay the same. 127 Views

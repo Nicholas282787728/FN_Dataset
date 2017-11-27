@@ -1,0 +1,2 @@
+How to sort  according to selected  choosen array,while sorting other arrays in parallel, and give user option for specific value in array  to sort?
+Could you provide more information please. 

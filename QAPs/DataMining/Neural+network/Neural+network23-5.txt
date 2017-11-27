@@ -1,0 +1,2 @@
+★What problems in artificial intelligence cannot be addressed using artificial neural networks?How about using deep belief networks? Some relevant links: http://en.wikipedia.org/wiki/Art... How can knowledge representation be done in neural networks?
+There are many things NN cannot do or in a sense too difficult to do. For example a typical neural net cannot learn y=1/x in the open interval (0,1). And, there are many other things that are so difficult for NN that it needs to memorize all the training dataset.    Embed Quote

@@ -1,0 +1,2 @@
+★What are the difference between forwarding and routing?
+Forwarding does not know about where destination is.. It just just longest prefix and consider as there might be destination. Where routing is sure that route to specific network and there is destination network. route will be select on different with different protocol. RIP--hops.    Embed Quote

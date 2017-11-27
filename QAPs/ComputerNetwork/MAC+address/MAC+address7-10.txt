@@ -1,0 +1,2 @@
+★Why is there a MAC address and an IP address?
+The MAC is a physical address and the IP is the Logical address    Embed Quote

@@ -1,0 +1,2 @@
+How do you calculate the variance of the sample correlation coefficient?
+The widely used formula that you have given, gives Pearson correlation coefficient; basically estimators of true correlation coefficeints. I looked up a bit for a formula for variance of these estimators but couldn't find any. This wiki article, you might have already seen but I will still paste here, purely for customay reason. http://en.wikipedia.org/wiki/Pea... If you find a proper article capturing everything do post the link here.    Embed Quote 

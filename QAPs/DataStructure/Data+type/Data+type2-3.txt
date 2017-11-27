@@ -1,0 +1,2 @@
+What are data types in c?
+Originally Answered: Data type in c programming?You ought to use long long int/unsigned long long int. It represents a 64-bit integer, and the unsigned version can store a number as large as approximately 10^18. For more information read this - http://gcc.gnu.org/onlinedocs/gc... 1.3k Views · 3 Upvotes

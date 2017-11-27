@@ -1,0 +1,2 @@
+How does one become good at problem solving?
+Work at becoming a better solver in addition to solving new problems. See Topcoder tutorials such as How to find solution and how to dissect a problem. http://www.topcoder.com/tc?modul... Use Charlie Munger's "Mental models" method as another approach, they are covered in this pdf http://www.focusinvestor.com/Foc... & better in his book, Poor Charlie's Almanack, http://www.poorcharliesalmanack.... Updated 22 Mar 2011 • View Upvotes

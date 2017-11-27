@@ -1,0 +1,5 @@
+★What is the easiest and the most efficient way to create your own web page?
+1
+2
+3
+ mkdir public_html && cd public_html echo 'Hello World' >> index.html python -m SimpleHTTPServer 8080 and then navigate to http://127.0.0.1:8080 and that's it! Of course, you probably want colors, and fancy images, and stuff.    Embed Quote

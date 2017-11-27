@@ -1,0 +1,1 @@
+What are the differences between Adobe PS Type 0, 1, 2 and 3 fonts?The most widely known fonts in the last decade are Adobe Type 1 and Apple/Microsoft TrueType fonts. But I always wonder, were there Type 0, Type 2 and Type 3 fonts for ATM? If there existed such things, why weren’t they used as widely as Type 1?

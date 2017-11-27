@@ -1,0 +1,2 @@
+What is the best way to prepare for software engineering job interviews in 2 months?
+There is a resource I'm working on, called Pramp. It's a free peer-2-peer practice platform for technical interviews. Working on your coding is important but interviewing is a skill by itself. Just get live practice and get familiarized with the interview experience. 

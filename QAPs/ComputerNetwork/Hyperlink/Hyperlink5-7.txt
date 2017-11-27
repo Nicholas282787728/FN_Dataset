@@ -1,0 +1,2 @@
+★How do I preserve hyperlinks when I save PowerPoint files as PDFs?I'm running PowerPoint 2011 for Mac. For some reason neither Printing or Saving As PDF works.
+Hey guys, my hyperlinks are preserved but they are all messed up by one slide I think. That is really weird...    Embed Quote

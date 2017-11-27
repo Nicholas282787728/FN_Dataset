@@ -1,0 +1,8 @@
+★What kind of problems give an MLE (memory limit exceeded)?I'm wondering because most problems can yield either WA or TLE verdicts, but I have never seen a problem that gives MLE.
+Her's a simple program : 1
+2
+3
+4
+5
+6
+ #include<stdio.h> int main(int argc, string argv[]){     printf("%s\n", argv[5000]);     return 0; } Let's save it as foo.c. When you run it after compilation : ./foo It'll give the following error : segmentation fault (core dumped!) which is basically because the code wants to access areas in memory it's not supposed to have access to. In other words, it's a Memory Limit Exceeded error.    Embed Quote

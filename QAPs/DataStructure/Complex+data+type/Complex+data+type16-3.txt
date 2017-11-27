@@ -1,0 +1,2 @@
+What's are good ways to learn node.js, angularJS, Meteor, JavaScript and NoSQL?
+I recommend you to start learning from JavaScript, and then proceed with learning of front-end and back-end development. Resources for full-fledged studying of Meteor . This list consists of learning materials for: - JavaScript - Angular,  Backbone, Ember - Node.JS - Meteor 

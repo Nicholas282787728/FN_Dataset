@@ -1,0 +1,2 @@
+★If the test statistic being analyzed is a sum, what is the associated standard error?
+n*standard error of means, where n is the sample size    Embed Quote

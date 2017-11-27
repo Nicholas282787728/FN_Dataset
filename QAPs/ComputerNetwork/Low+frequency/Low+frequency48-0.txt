@@ -1,0 +1,2 @@
+★Why does an inductor function as a short circuit at low frequencies, and at high frequencies it acts as a open circuit?The answer is expected to be an explanation of the concept behind the working of the inductor. Basically, the explanation should suffice the frequency response of the inductor.
+Look at it's frequency domain description  , XL= sL  , where s is frequency . For low frequencies ,XL->0 ,for high ,XL->Infinity . XL is the inductive reactance    Embed Quote

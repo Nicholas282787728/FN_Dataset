@@ -1,0 +1,2 @@
+★How does Instapaper parse web pages?And how is it always so accurate?
+Instapaper article extraction is powered by Diffbot.    Embed Quote

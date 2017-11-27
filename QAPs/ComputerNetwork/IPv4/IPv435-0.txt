@@ -1,0 +1,2 @@
+★Who is still interested in buying large blocks of IPv4 addresses?
+I would imagine ISPs/NSPs who are experiencing growth on their networks. Wiki References: Internet service provider Network service provider IPv4 address exhaustion

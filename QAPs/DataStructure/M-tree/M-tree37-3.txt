@@ -1,0 +1,2 @@
+What is the best book on data-structures for beginners?
+Hope this helps. Data Structure Through C  :                                                                                                            Yashavant P. Kanetkar If you really want to learn data structures then you should religiously follow Data Structures - GeeksforGeeks 

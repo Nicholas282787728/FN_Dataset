@@ -1,0 +1,2 @@
+What are some variants of grid-like fractals?
+A grid is not a fractal.  A fractal exhibits self-similar behavior at multiple scales, while a grid only exhibits symmetries at one scale. 

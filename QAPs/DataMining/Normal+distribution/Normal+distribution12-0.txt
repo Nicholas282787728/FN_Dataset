@@ -1,0 +1,2 @@
+★Why normal distribution has an indefinite integral?Unless you integrate from minus infinite to infinite, you can't do integration on normal dist. formula. Why?
+The density of the normal distribution can be integrated: we have where .  There's no closed form expression for in terms of elementary functions, but we understand its properties very well and we can easily compute its numerical values.    Embed Quote

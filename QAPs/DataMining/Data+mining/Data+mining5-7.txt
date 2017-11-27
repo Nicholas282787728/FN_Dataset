@@ -1,0 +1,2 @@
+What are the best startups in the field of analytics / data mining / databases?
+InfoCaptor offers Self service Data Visualization and Analytics all within the browser. It can be hosted within your network use the cloud based service.  It works with lot of data sources including text files, Excel and Databases so it is pretty good option InfoCaptor (http://www.infocaptor.com ) provides visualizations on top of D3js engine and the visualizations are very comprehensive.    Embed Quote 

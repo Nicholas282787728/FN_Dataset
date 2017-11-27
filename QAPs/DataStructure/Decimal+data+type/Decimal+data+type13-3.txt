@@ -1,0 +1,2 @@
+What are the differences in laymen terms between data structures vs. data types?
+Data type is like the type of your books, some are on history, some are novels, some are on science. History, science etc are book types. Data types are just like them, they classify the data. Data structure is how you arrange your books, you put them on a self in a queue, or you stack them on your table. These queues and stacks are data structures (only with data items instead of books of course). 

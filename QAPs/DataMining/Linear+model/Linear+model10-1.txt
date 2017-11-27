@@ -1,0 +1,2 @@
+★What are some non-linear models suitable for fitting large and sparse data?The data are high-dimensional (in the orders of 10k and above) and sparse (most variables are 0). Most variables are binary: they are either 0 or 1. The number of samples is in the same order as that of the number of dimensions.
+Support vector machines are usually the model of choice for this kind of feature space. They deal well with high dimensions and can model non linear structures.    Embed Quote

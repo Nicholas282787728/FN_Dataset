@@ -1,0 +1,2 @@
+★How do you design a PCR multiplex?PCR multiplex is special since there are multiple primer couples as opposed to singleplex. Designing them must require special attention especially in primer interaction.
+Primer3 + MFEprimer + Tm comparison + Dimer check Need some programming work. I wrote a program named MPprimer for designing multiplex-PCR primers. Primer interaction is mainly checked by "Dimer check" and "MFEprimer". http://biocompute.bmi.ac.cn/MPpr... http://biocompute.bmi.ac.cn/MFEp... http://biocompute.bmi.ac.cn/CZla...    Embed Quote

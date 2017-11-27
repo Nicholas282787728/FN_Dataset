@@ -1,0 +1,1 @@
+How can we create array without specifying a size in java?Creating array without specifying a size in java, can be done as below: int[] myArray = {1, 3, 5, 7}; Best of luck 113 Views  View Upvotes  Answer requested by Prashanth H L

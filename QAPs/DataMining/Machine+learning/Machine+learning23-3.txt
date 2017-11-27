@@ -1,0 +1,2 @@
+★What is the best machine learning algorithm?
+As the other answers say, the best is the one which fits the problem at hand. That being said, linear and logistic regression can go a long way and might be the most important methods everyone should know well. They arguably have the highest ratio of predictive power to complexity.    Embed Quote

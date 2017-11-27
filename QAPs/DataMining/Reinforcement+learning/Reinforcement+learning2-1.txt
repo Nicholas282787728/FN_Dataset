@@ -1,0 +1,2 @@
+★Do data scientists use reinforcement learning?
+Certainly. Many machine learning techniques are used when studying data. Supervised learning is still more common in commercial applications but I don't see any reason why other techniques can't be used.    Embed Quote

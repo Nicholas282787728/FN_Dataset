@@ -1,0 +1,2 @@
+★Can someone give an example of the steepest descent that is not a gradient descent?
+It's a subjective problem. If there are multiple minima, gradient descent might not be the steepest descent to the global minimum. But otherwise, gradient descent is the most steepest one towards  a local optimum.    Embed Quote

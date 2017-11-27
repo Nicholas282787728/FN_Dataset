@@ -1,0 +1,2 @@
+Which Are The Best Fastest And Efficient Searching Algorithm For Searching Through Database in PHP?
+In Mysql, There are two options i listed here. SQL LIKE Operator 13.9 Full-Text Search Functions Refer these links, You get more information. What is the best search Algorithm for PHP & MYSQL? What is Full Text Search vs LIKE 3.2k Views · Answer requested by Dmani Ms

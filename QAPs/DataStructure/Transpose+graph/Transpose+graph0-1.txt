@@ -1,0 +1,2 @@
+What is Kosaraju's algorithm to find the number of SCCs?
+I understood this algorithm by watching this lecture: Computing Strong Components: The Algorithm. If you are looking for an implementation, visit here: Strongly Connected Components in a Directed Graph C++ implementation. Hope this helps. 

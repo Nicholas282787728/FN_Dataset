@@ -1,0 +1,2 @@
+How do hash tables work? How do distributed hash tables work?
+When you need to store something, you need to know where to put it.  By studying the thing, you can learn something about it that might put it in a group.  This way, you can put things that should be together in the same group. A HASH TABLE is a set of groups. A HASH FUNCTION is a way to decide what group a thing should be in. This way, when you need to get a thing that is part of a group, you only need to look in the group instead of at all the things. It is a way to quickly store and find things.... (more)

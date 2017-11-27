@@ -1,0 +1,2 @@
+What is the difference between a function and a functor?Particularly, in Scala.
+In Scala and in Java we can, half-safely, half-jokingly, say that functors are just parameterized classes. With a caveat of course. And functions are objects that have a method apply; number of parameters does not matter. 

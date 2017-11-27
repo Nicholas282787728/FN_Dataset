@@ -1,0 +1,2 @@
+Is there any book, which has all the codes for all the data structures? At least for all the tree data structures?
+You can try www.codersmaze.com as it covers most of the data structure. They have been explained using videos and animations to some extent so it's easier to remember and understand them , Hope it helps ! 

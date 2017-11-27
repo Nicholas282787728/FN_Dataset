@@ -1,0 +1,2 @@
+What is the simplest implementation of segment trees that you have seen?
+Read this link: Segment tree - PEGWiki It is explained beautifully here. 

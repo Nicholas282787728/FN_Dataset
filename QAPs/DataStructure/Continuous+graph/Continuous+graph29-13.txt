@@ -1,0 +1,2 @@
+What is the most simple & efficient C++ code for Dijkstra's shortest path algorithm?
+This site helped me a lot to write a simpe Dijkstra. You can see how it works and the code it goes through (click on the left menu "Dijkstra's algorithm")  :) http://visualgo.net/sssp.html# visualising data structures and algorithms through animation 

@@ -1,0 +1,3 @@
+What does it mean to have a Spectral Density graph that is symmetric about the y axis?In effect you have F(w) = F(-w); which, if I remember my math, denotes a causal system.
+
+In practice, the -w (negative) values are irrelevant.

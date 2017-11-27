@@ -1,0 +1,2 @@
+★What are the most interesting open-source projects in artificial intelligence and machine learning?What projects should people be paying attention to and studying?
+SwiftRiver strikes me as one of the more interesting projects out there - more on the NLP/ML side. http://swift.ushahidi.com/    Embed Quote

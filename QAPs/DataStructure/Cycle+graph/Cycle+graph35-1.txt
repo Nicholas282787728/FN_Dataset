@@ -1,0 +1,2 @@
+P vs. NP: Are there polynomial time algorithms for finding hamiltonian cycle in a undirected graph?
+Assuming that algorithms only exist once someone has invented them then no. If you allow that they are discovered rather than invented, and thus can exist without anyone knowing about them, and it is the case that P=NP then the answer to your question is yes. Otherwise, no. 

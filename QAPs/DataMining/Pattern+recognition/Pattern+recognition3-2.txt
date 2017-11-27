@@ -1,0 +1,2 @@
+★What is the difference between pattern recognition and machine learning?
+Very similar things.      If you are doing relative research in Computer Science department, you are doing "Machine Learning"; if you are doing in Electrical Engineering department then it is "Pattern Recognition"; while "Data mining" is used in Statistics department.     Get clear which department are you in when you are speaking, do NOT confound these three words, it will sounds that you are not an expert!!! LoooL!!    Embed Quote

@@ -1,0 +1,2 @@
+Which machine learning algorithms for classification support online learning?
+You should also check out Vowpal Wabbit by microsoft and Sofia-ML by Google 

@@ -1,0 +1,2 @@
+★Digital Audio: What file type has the highest bit rate?
+As far as consumer formats, the 192 kHz/24 bit stereo encoding of DVD-Audio is the highest resolution I know of, even though the format has been lacking the wide acceptance of red book CD's 44.1kHz/16 bit ubiquity. And yes, I should acknowledge that the format has been pretty much obsoleted currently by Blu-Ray audio at the same bit depth and sampling, and I believe the same bitrate.

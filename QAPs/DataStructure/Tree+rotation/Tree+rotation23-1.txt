@@ -1,0 +1,2 @@
+What are the Applications of avl tree?
+AVL tree is a hight balanced tree, so the complexity of inserting and searching a node is always o(logn). But the problem with AVL tree is when you insert a new node you need to perform rotation to make the tree balanced. This rotation mechanism is time consuming, so when your job is mostly insertion than searching then AVL tree is not efficient(Red black is used in this case). AVL tree is efficient when your job have more searching than insertion. 

@@ -1,0 +1,2 @@
+★What are some interesting applications of linear programming?
+One really interesting application that I found is solving games in game theory. In classical game theory, we want to find the best strategy for a player to play. Strategies are often mixed, meaning there is a percentage associated with each of the strategies available to each player. One way to solve for these probabilities is to set up a linear program, and use it to solve for the probabilities.    Embed Quote

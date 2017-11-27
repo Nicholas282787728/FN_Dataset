@@ -1,0 +1,2 @@
+What log-structured/journaling key-value stores are there?
+Another two solutions: http://code.google.com/p/babudb/ http://code.google.com/p/stasis/ 

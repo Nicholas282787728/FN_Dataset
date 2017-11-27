@@ -1,0 +1,2 @@
+★What are low-cost ways to implement wireless communication in embedded systems?
+This is a very open-ended question depending on the size of your system.  Around the PC104 sized items you can begin throwing on accessories you use on a laptop or desktop.  A bluetooth USB stick is popular for that, they're also popular on phidgets.  Gumstix and other platforms just make wireless communication modules (many are bluetooth).  Among the breadboard and ATMega crowd a pair of zigbee chips are very popular.  Can you tell me what kind of range you need on this system?    Embed Quote

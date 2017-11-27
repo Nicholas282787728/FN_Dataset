@@ -1,0 +1,2 @@
+★What is static mac address?cisco switch
+Simply put, this does not exist. MAC address's are not dynamic so you could even suggest that a MAC address is by definition "Static"    Embed Quote

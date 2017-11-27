@@ -1,0 +1,2 @@
+★What is the difference between switching and routing?
+Let me give a different perspective..  Switching is more to do with re-distributing packets quickly within a  small network of servers and PCs.. Routing on the other hand is more to  do with finding the destination in the best possible way..  Indeed as  Rick points out.. there is a grey area in between them.. For example, if  you look at the ISP core say like ATT,Verizon.. Half of the globe like  connects to them.. so Core Network has to "switch" data more often than  route it.. :-)

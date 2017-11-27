@@ -1,0 +1,2 @@
+★Predictive Analytics: In regression modelling, is more sample data always better?
+I guess by more sample data you mean that in modeling  bigger sample is better or not. In general bigger sample size is better. Its helps the model to learn seasonality , trend and cycle etc. But in time series modeling the special emphasis should be on recent data.    Embed Quote

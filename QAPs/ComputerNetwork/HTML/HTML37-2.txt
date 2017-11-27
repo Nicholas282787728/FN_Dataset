@@ -1,0 +1,2 @@
+★What is the difference between HTML and JavaScript?
+HTML is a mark up language, where JavaScript is a scripting language. HTML is a mother language, and JS can not function without it.

@@ -1,0 +1,1 @@
+How can I improve search functionality in tables with a many-to-many relationship?

@@ -1,0 +1,2 @@
+★Are there algorithms that structure previously unstructured data using user-defined 'tags'?
+Yes. You have to define and implement them according to your own needs. If you're not good with that, you'll need to hire someone who is.    Embed Quote

@@ -1,0 +1,2 @@
+What are some promising Big Data startups?Including both funded and non-funded ones. And maybe some OSS apps or stacks as well. (A startup doesn't always have to be a company, does it?)
+Unilog Content Solutions.  Their product XRF2 helps cross reference product information housed in diverse data silos. 

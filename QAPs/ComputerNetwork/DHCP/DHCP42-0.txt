@@ -1,0 +1,2 @@
+★The device wants to obtain the dynamic IP address from the DHCP server and also the static IP address of repository? whether DHCP option 43 will be useful for this situation?
+Conceptually, you can have as many IP addresses as you want (virtual IPs). DHCP Option 43 is vendor specific AFAIK, not sure how that can be related.

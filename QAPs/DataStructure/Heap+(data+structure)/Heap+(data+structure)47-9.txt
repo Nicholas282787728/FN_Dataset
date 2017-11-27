@@ -1,0 +1,2 @@
+What are the best books to learn algorithms and data structures? Are there any good blogs/posts on these? Which books explain these concepts in a simpler way?
+"Algorithms  by Robert Sedgewick and Kevin Wayne" is one of the best books on the field of Algorithms and Data structure. You may also refer to some other great online resource: Data Structures and Algorithms with Object-Oriented Design Patterns in Java 32.4k Views · 10 Upvotes

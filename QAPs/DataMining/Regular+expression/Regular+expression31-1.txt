@@ -1,0 +1,2 @@
+★What's the regular expression to match a string of exactly six numbers?Exactly six numbers, anything from 0-9, any combination.
+Another solution, using POSIX-style character classes: /^[[:digit:]]{6}$/ This style will work in Perl, GNU awk, and GNU egrep (the curly braces must be escaped to be used with grep). It has the advantage of being locale- and encoding-agnostic. If you were using some strange locale or encoding where the code points for digits were ordered like 1 2 3 4 5 6 7 8 9 0, then matching 0-9 would not work, but [[:digit:]] would.    Embed Quote

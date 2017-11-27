@@ -1,0 +1,2 @@
+★How do I archive a web page?
+One manual option is to go to file->save in internet explorer. One programmatic option is to use this in linux: lynx  -source  http://www.google.com > google.todaysdate.html    Embed Quote

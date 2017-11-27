@@ -1,0 +1,2 @@
+When we have an RDBMS like MySQL with excellent features for storing data, why do we need data structures like linked lists in real time applications?
+Databases are designed to persist data, while data structures are meant to store data for manipulation within your application.. Vice-a-versa is not true. If you are doing something else with anyone of them like expecting MySQL to replace linked list, then you are thinking very incorrectly. And besides concepts, the speed, feasibility, etc also matters. Thanks for A2A! ~ RB 

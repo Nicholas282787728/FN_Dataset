@@ -1,0 +1,2 @@
+★What are alternatives to building a data warehouse?
+XtremeData DW A multi-terabyte XtremeData data warehouse can be implemented on cloud (public or private) or commodity hardware in under 1-day.  For $1,000 per month + 1 per hour, client's can integrate and analyze large data sets using standard SQL (multiple terabytes or petabytes, @ high-speed).  The solution delivers the highest-speed data ingest, normalization, integration & correlation, aggregation, and hoc query execution.    Embed Quote

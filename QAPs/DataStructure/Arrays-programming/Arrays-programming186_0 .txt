@@ -1,0 +1,1 @@
+How do I convert uppercase strings into lowercase strings in Java by using arrays?Character (a class that comes in the standard lang package) has a toUpperCase(char) method. Just invoke it one every character of each string and replace that char with the result. 609 Views  View Upvotes

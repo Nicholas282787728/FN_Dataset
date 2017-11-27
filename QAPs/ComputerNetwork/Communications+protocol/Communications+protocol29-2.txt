@@ -1,0 +1,2 @@
+★What software/networking protocols are used to communicate with the Philae lander?
+These are the ones used between Earth and Rosetta:   PSS-04-103 Telemetry Channel Coding Standard PSS-04-104 Ranging Standard PSS-04-105 Radio Frequency and Modulation Standard PSS-04-106 Packet Telemetry Standard PSS-04-107 Packet Telecommand Standard

@@ -1,0 +1,2 @@
+What is the simplest language with which to learn algorithms and data structures?
+Python. Try writing BFS and DFS in python and other languages. You will know. 

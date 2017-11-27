@@ -1,0 +1,2 @@
+★When I connect to a virtual private network, will my IP address change?
+Not necessarily. As far as traffic going into the VPN is concerned, it will. Whether or not your global IP address changes depends on whether you route all your traffic through the VPN or just what's required to access it. In other words, whether the VPN software installs a default route when connecting.    Embed Quote

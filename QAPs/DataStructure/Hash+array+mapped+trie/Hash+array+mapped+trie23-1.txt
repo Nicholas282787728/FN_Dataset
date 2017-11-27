@@ -1,0 +1,2 @@
+In terms of computer programming, what is the difference between associative lookup and direct access?
+Think of gMail. Either you directly open your mail knowing exactly where it is (via labels, folders or w/e) or you search for it with criteria that relates to the record searched. 

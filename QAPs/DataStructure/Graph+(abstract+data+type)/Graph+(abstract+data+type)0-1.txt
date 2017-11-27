@@ -1,0 +1,2 @@
+What are some "practice problems" that everyone should work on in-order to get better at programming (in any programming language)?If you have any problems corresponding to your field of work/research then mention that as well!
+Here's a github repository I recently came across filled with many different practical projects for grasping many different aspects of programming, Projects 

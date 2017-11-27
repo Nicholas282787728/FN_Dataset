@@ -1,0 +1,2 @@
+How do I go about learning how to make games?
+To code games, albeit very simple (but anyone has to start somewhere, ne?), up to an Asteroid clone, start there and then go on with more advanced lessons from the same staff; also note that "making games" requires a lot of different skills and talents, like game design, scripting, screenplay writing, and so on. I would not recommend to try and be a jack of all trades, but still on Coursera you can fine good courses like "Understanding Videogames" to widen your horizon a bit. Hope this helps and happy coding :) 

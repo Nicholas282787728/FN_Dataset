@@ -1,0 +1,2 @@
+What algorithm i should use for shortest path problem?
+If you want to find all pair shortest paths in your graph, Floyd Warshall algorithm's running time complexity is O(n^3), while Dijkstra's running time complexity is O(nm + n^2*log n) when implemented using Fibonacci heap. Here 'n' is the number of nodes and 'm' is the number of edges. So, if your graph is sparse, you are better off using Dijkstra's algorithm using Fibonacci heap implementation. Of course, performance difference becomes more evident if your graph size, 'n' is large. 

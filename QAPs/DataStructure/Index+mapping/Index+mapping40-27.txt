@@ -1,0 +1,2 @@
+What are some must-have software for programmers using Linux?
+IDE : Eclipse - Juno (Java, Jboss, PHP) Web server : Apache (Installed with LAMP package) Browser : Chrome Backup : LVM Eclipse Plugins : GIT, RAP, JBoss, Marketplace Mind maps : XMind FTP Transfers: Filezilla 

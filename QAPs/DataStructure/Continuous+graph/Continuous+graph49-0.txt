@@ -1,0 +1,2 @@
+How do I find the point of discontinuity for the function x 2  − −  √   ?
+The expression x 2  − −  √   is equal to the absolute value |x|  . This function has no discontinuities. It's continuous everywhere.  There is a corner in the graph at x=0  . That means it's not differentiable there, but it's still continuous there. Updated 28 Oct • View Upvotes • Asked to answer by Ariel Waters

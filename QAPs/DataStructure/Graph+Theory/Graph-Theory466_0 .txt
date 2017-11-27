@@ -1,0 +1,1 @@
+How will be made the graph for y=sine|x|?Given f(x)=sin |x|, now one can easily figure out that graph is symmetric about y axis as f(x)=f(-x). Now sin |x|= sin x for x>0, so just draw the graph of y=sin x for x>0 and take its mirror image about y axis due the existence of symmetry which I have already proved. 73 Views

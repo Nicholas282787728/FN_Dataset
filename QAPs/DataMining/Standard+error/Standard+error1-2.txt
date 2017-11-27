@@ -1,0 +1,2 @@
+★How does one interpret standard error in time series regression models?Inquiring about the standard error outputted by regression models.  Is this the 'average' error?  Can I expect with some probability that the actual result will be in the range of standard error (or multiple thereof) for future predictions?  What is most commonly misunderstood about this metric?
+Standard Error tells us how far is sample mean is to the population mean compared to Standard Deviation which tells us how far individual values are from sample mean.    Embed Quote

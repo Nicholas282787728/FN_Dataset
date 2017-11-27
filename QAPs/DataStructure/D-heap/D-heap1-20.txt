@@ -1,0 +1,2 @@
+What books are a good introduction to game theory?
+Some great books mentioned here - but I wanted to add this small tidbit.  Stanford University has an online Game Theory class starting in February that you might want to enroll in. http://www.game-theory-class.org/ 

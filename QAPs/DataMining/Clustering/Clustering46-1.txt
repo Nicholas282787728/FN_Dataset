@@ -1,0 +1,2 @@
+What is the difference between Clustering and Classification in Machine Learning?
+Classification– The task of assigning instances to pre-defined classes. –E.g. Deciding whether a particular patient record can be associated with a specific disease. Clustering – The task of grouping related data points together without labeling them. –E.g. Grouping patient records with similar symptoms without knowing what the symptoms indicate.    Embed Quote 

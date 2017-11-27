@@ -1,0 +1,2 @@
+What is the best book on data-structures for beginners?
+Lot of good answers here. I am not too knowledgeable about books on CS academically. But this book by Cormen, Leiserson, Rivest (dubbed informally as CLR), is highly comprehensive and serves as a great intro/intermediary level book - Introduction To Algorithms. We used this at school a lot. Great coverage of elementary/sophisticated data structures and lots of problems to solve. 

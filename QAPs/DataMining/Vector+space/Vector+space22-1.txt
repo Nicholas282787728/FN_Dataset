@@ -1,0 +1,2 @@
+★What are the prominent alternatives to the vector space model for representing and modeling text data?
+You can add eigenwords and/or use latent semantics    Embed Quote

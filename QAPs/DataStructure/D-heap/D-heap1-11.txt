@@ -1,0 +1,2 @@
+What books are a good introduction to game theory?
+A good online resource is gametheory.net for someone who is starting in the subject to an expert. It contains a exhaustive collection of reseouces including lecture notes, news articles, games, quizzes etc and spans the subject in a lot of areas from computer science to evolutionary biology. 

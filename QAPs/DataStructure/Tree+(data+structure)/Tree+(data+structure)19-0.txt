@@ -1,0 +1,2 @@
+How do you use doubly(**) pointer in C++ for general tree data structure?
+Use this main function: It will set x to 2 of the s object pointed to by the pointer pointed to by child int main(){    s temp;    temp.child=new s*;    *temp.child=new s;    (*temp.child)->x=2;    return 0;} 

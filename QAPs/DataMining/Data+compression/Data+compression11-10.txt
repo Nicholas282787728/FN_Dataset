@@ -1,0 +1,2 @@
+How does file compression work?
+When you use a smaller font size, your file takes less space. JUST KIDDING! Seriously though, compression is just finding commonly repeating sequences and replacing them with a much shorter code that represents that sequence.    Embed Quote 

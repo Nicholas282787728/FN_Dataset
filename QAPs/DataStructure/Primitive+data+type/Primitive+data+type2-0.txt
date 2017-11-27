@@ -1,0 +1,2 @@
+What is the differences between primitive data types and user defined data types?
+Primitive data types include integer , character , void , float etc..which are defined already inside the language i.e , user can use these data types witnout defining them inside the language. User defined data types are the  data types which user have to define while or before using them. For ex - in C language , structure and union are used as user-defined data types. 

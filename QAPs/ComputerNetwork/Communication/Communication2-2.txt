@@ -1,0 +1,3 @@
+What is the difference between computer networks and network communications?computer networking is the engineering discipline concerned with the communication between computer system or devices while
+
+a group of autonomous computers and associated devices connected together by communication channels like cables or telephone lines etc. is called a network

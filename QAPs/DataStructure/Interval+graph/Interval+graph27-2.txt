@@ -1,0 +1,2 @@
+How could we better imagine infinity?
+To add very slightly to David Joyce's great answer, note that the circle he describes is a 1-d (read: real) analogue of the Riemann sphere, a representation of the complex numbers on the surface of a sphere (indeed the circle in David Joyce's answer is the great circle of the Riemann sphere making a cut along the real axis). For a beautiful treatment of the significance of the Riemann sphere in complex analysis, refer to Chapter 3 of Needham's magnum opus, Visual Complex Analysis. 

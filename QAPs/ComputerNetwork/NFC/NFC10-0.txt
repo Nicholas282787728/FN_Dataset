@@ -1,0 +1,2 @@
+★How does NFC work?can anyone please give some details of working of NFC....???
+NFC is a short-range wireless data transfer technology used to transfer data between NFC devices and tags when they are in close proximity to one another (touched). The NFC Reader (initiator) will generate a radio frequency field and that will activate the NFC tags (target) resulting in data being transferred back to the Reader. You can learn more about NFC here: Get Started with NFC    Embed Quote

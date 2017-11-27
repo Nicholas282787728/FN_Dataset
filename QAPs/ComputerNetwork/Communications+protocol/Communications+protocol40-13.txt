@@ -1,0 +1,2 @@
+★What else is a finite state machine used for except language parsing?
+Anything that is "stateful" could potentially be a use for a finite state machine. See this answer on StackExchange: What's the difference between stateful and stateless?

@@ -1,0 +1,2 @@
+What is the best (programming) algorithm that you have ever created?Anything that you're proud of and would like to share the algorithm as well?
+The core algorithm by which Project Darkstar parallelizes event handling. I later learned that in concept it is similar to "transactional memory" but I developed it from scratch from the ground up solving all the problems of a massively parallel game content server. 

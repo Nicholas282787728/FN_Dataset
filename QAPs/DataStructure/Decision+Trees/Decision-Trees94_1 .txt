@@ -1,0 +1,1 @@
+What are the difference between decision tree and ols?Well... everything. They serve different tasks. Not even sure if they are comparable to be honest. OLS serves to estimate the parameters of a regression model. Decision trees serve to split the predictor values of a classification model. 194 Views

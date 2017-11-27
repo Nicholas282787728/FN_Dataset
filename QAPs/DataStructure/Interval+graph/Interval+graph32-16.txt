@@ -1,0 +1,2 @@
+What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
+The squeeze/sandwich theorem is formally stated as follows. Let I be an interval having the point a as a limit point. Let f, g, and h be functions defined on I, except possibly at a itself. Suppose that for every x in I not equal to a, we have: and also suppose that: Then 

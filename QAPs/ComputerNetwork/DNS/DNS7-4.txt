@@ -1,0 +1,2 @@
+★What is the best free authoritative DNS service?What companies provide authoritative DNS free for reasonable numbers of domains and queries.
+I have been using http://freedns.afraid.org for several years now and have nothing to complain about it. Anyway, it is a very simple service and not necessarily easy to use.

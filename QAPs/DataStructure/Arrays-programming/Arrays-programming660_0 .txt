@@ -1,0 +1,1 @@
+What is the sorting algorithm behind a Javascript Array.sort method?Chrome’s v8 uses a combination of InsertionSort and QuickSort. That is, if the array is less than 10 elements in length, it uses an InsertionSort. Check out the Source Code Here: https://github.com/v8/v8/blob/ma... 499 Views

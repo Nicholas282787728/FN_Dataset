@@ -1,0 +1,2 @@
+If we have a binary heap of n elements and wish to insert more n elements (not necessarily one after another) into this heap, what would be the total time required for this?
+Inserting n  elements into a heap one by one will take O(n∗logn)  time. However, if we are given the n  elements all at once we can build a heap from them in O(n)  time. Refer here : Inserting an element in a heap takes O(log n). Still if we insert n elements in the heap it comes out to be O(n)? Updated 17 Feb • View Upvotes

@@ -1,0 +1,2 @@
+★When do you use two-stage linear regression?
+Two-stage regression is mainly a tool for using instrumental variables to estimate underlying causal effects. (Sorry, I don't have time right now to explain all those terms, but the question is "when" not "why", so I think I can get away with it.)    Embed Quote

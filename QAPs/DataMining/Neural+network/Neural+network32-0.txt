@@ -1,0 +1,2 @@
+★Artificial Neural Networks: What are the best tools for artificial neural networks?
+I use: PROC NEURAL (SAS) PROC HPNEURAL (SAS) Theano (Python)    Embed Quote

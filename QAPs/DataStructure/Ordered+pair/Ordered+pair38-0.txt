@@ -1,0 +1,2 @@
+Set Theory: What are Cartesian products?
+Probably easiest just to show an example.  The Cartesian product of the sets {1, 2, 3} and {a, b} is the set { (1, a), (1, b), (2, a), (2, b), (3, a), (3 b) } consisting of all six pairs of an element from the first set and an element from the second set.  And just to clarify what might seem like an edge case from that example, the Cartesian product of {1, 2} and {1, 2} is the set { (1, 1), (1, 2), (2, 1), (2, 2) } of all four pairs of an element from the first list together with an element from the second list. 

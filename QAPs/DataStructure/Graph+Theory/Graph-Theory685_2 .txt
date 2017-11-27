@@ -1,0 +1,1 @@
+If a graph G contains a bridge, e, is it possible to construct a spanning tree which does not include this edge?Since removing the bridge causes the graph to be disconnected, then no it is not possible. 63 Views  View Upvotes  Answer requested by 1 person

@@ -1,0 +1,2 @@
+★Is there much overlap between supervised learning and ML for robotics?
+Some, particularly in computer vision. Object recognition through supervised learning plays a large role in robotics. That said, computer vision algorithms are usually developed independently of robotics projects. The ML used for robot control is more typically adaptive control or reinforcement learning.    Embed Quote

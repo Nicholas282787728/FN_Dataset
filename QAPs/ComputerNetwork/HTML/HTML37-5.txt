@@ -1,0 +1,2 @@
+★What is the difference between HTML and JavaScript?
+You can think of JavaScript as an extension to HTML; an add-on, if you will. JavaScript is the programming language of HTML and the Web. Programming makes computers do what you want them to do. Here's how it works. HTML tags create objects; JavaScript lets you manipulate those objects. For example, you use the HTML <BODY> and </BODY> tags to create a Web page, or document, after that document is created, you can interact with it by using JavaScript.

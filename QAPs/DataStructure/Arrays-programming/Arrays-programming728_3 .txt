@@ -1,0 +1,1 @@
+Can an array size be more than 100000 in C++? If so, how?Yes int* array = new int[10000000]; 110 Views

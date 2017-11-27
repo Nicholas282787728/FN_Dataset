@@ -1,0 +1,2 @@
+What are some interesting, lesser known applications of data science (machine learning, random graphs, high dimensions, etc.) to e-commerce?
+I'm not sure about the "lesser known" part, but the Product Advisory Systems are worth taking a look at. One sample wide known application is the Amazon's "item-to-item collaborative filter", which basically determines which products to suggest to users in a specific product page. 

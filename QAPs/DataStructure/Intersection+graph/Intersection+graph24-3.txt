@@ -1,0 +1,2 @@
+How can I make a curve like this one (see the image attached)?
+This curve has y  tending to infinity as x  tends to zero and vice versa. One example of such a curve is: y=1x   

@@ -1,0 +1,2 @@
+★What are some common applications of two-state Markov chains?
+Two-state Markov chains are a great pedagogical device for introducing the idea of a Markov chain.  You need more complex state spaces in order to introduce more complicated ideas, but the basics are all present with just two states.    Embed Quote

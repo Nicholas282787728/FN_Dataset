@@ -1,0 +1,2 @@
+★What are some real-world examples of predictive analytics?
+In website personalization, content recommendation engines predict what content visitors would engage with the most. Company-targeted advertising uses content analytics and machine learning to match users with ads most relevant to their industry, company or organization.    Embed Quote

@@ -1,0 +1,2 @@
+★What is technically faster, ethernet to Thunderbolt, or ethernet to USB 3.0?Can both work on a Retina MacBook Pro?
+If you're on a gigabit (1 Gbit/s) LAN, it won't matter at all. The USB 3.0 theoretical limit is 5 Gbit/s and Thunderbolt is 10 Gbit/s (currently; it has a lot of head room). If you're on a 10 Gbit/s LAN, something that's still pretty rare outside of enterprise, then Thunderbolt would be the interface that lets you access the full speed of your network.

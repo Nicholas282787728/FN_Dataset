@@ -1,0 +1,2 @@
+★Why does logistic regression not converge when the data is completely separable?
+What do you mean by "separable"? Do you mean linearly separable? What do you mean by "does not converge"? Is the likelihood going up with respect to the number of iterations? Did you write this logistic regression yourself? Are you using a library?    Embed Quote

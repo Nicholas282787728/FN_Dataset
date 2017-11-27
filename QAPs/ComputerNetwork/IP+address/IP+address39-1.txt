@@ -1,0 +1,2 @@
+★How do I find out ISP from an IP address?
+APNIC maintains an FTP site containing all the IP and ASN assignments. Other registrars may have the same.

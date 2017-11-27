@@ -1,0 +1,2 @@
+★Would an ISP know if someone spoofed their IP address?I just got a notice of copyright infringement from Verizon, but I never downloaded the movie they accused me of. I have WPA2. Is it possible that someone spoofed my ip address?
+As Tony Li said its more likely that someone was able to connect to your network.  Having said that, if Verizon didn't do a good job in their configuration its possible for someone to temporarily use your IP address without you or them being able to detect it.  Are you a FioS or DSL subscriber of Verizon?    Embed Quote

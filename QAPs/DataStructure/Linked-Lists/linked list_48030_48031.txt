@@ -1,0 +1,1 @@
+what be the average time complexity , for a single link list , for perform a insert ? if you have no additional requirement on the contents of the list , you can just insert the item at the head , which be o -lrb- 1 -rrb- . if you do -lrb- e.g. the list must be keep sort or deduplicate -rrb- , insertion be more expensive . 

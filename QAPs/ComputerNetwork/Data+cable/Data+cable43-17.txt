@@ -1,0 +1,2 @@
+★What purpose does the small cylindrical module near the end of my laptop charger cable serve?
+In electromagnetics any line carrying electricity can have its own magnetic field. That small cylinder serves to reduce the magnetic field as it can cause disturbances to other electronic devices nearby.

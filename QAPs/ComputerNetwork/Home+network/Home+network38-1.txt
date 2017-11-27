@@ -1,0 +1,2 @@
+★What is the cheapest way to experiment with Layer 3 routing in a home network environment?
+If you have access to Cisco ios firmware, you can download gns3 (www.gns3.net).

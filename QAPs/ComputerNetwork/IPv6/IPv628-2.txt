@@ -1,0 +1,2 @@
+★What will potentially replace IPv6?Of course IPv6 is still enroute Technologies, Standards and use case once we exceed it capabilities.  Keep in mind designers of IPv4 never believed it would ever be exhausted.
+IPv9? RFC 1606 A Historical Perspective On The Usage Of IP Version 9 Do take a note of the date.    Embed Quote

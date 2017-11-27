@@ -1,0 +1,2 @@
+Where can I find examples of a U-Squared distribution?
+A classic example was time-to-failure rates for components such as light bulbs. They typically fail immediately or after a few thousand hours, but rarely in between. 1.9k Views · 19 Upvotes

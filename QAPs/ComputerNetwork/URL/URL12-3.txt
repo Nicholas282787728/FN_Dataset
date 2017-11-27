@@ -1,0 +1,2 @@
+★Why do some websites have a "#!" in their URL?Lately I've noticed with the redesign of Twitter that there is a /#!/ right after the domain once logged in. I've also seen this implemented on www.hypem.com now. I've been doing a little Googling, and I think this may relate to Python.
+It's about AJAX-based navigation. The exclamation mark needed to give hint for search engines to mark that URL as a page, not as a bookmark, because search engines do understand this URL as a bookmark: "http://twitter.com/#/mentions" Paul Shapiro just posted a great link to read.    Embed Quote

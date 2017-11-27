@@ -1,0 +1,2 @@
+★How does one quantify the uniqueness of training examples in a training set?and why is it important? (machine learning)
+Stochasticize the parameters, using metaprobability techniques.    Embed Quote

@@ -1,0 +1,2 @@
+★What is an intuitive explanation of the FFT algorithm?
+My favourite intuitive explanation is that the Fourier transform is a matrix-vector product but the (dense) matrix is a special one that when "dropped from a great height", breaks up into a product of very sparse matrices. The product only has log(n) terms and each sparse-matrix-vector operation takes O(n) operations, hence the complexity is n*log(n).    Embed Quote

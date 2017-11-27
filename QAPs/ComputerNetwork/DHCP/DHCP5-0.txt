@@ -1,0 +1,2 @@
+★Should I setup my home router to use DHCP or static IP?
+Using either doesn't hurt. But DHCP is flexible and would save you the time of having manually update the IP addresses of newer systems being added to the network. I'd go with DHCP simply because I could avoid a ton of head-aches like IP address conflicts, for one.

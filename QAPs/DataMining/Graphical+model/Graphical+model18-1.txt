@@ -1,0 +1,2 @@
+★Are graphical models useful when one has a lot of features?These features are typically automatically generated, such as bi-grams in text classification.
+graphical models are generally non-convex and very hard to solve having a lot of features is going to make the problem a lot harder    Embed Quote

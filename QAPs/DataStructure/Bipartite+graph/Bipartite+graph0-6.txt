@@ -1,0 +1,2 @@
+What is a bipartite graph?
+Sports competitions are a bipartite graph: Two teams playing a game. Vertices are the teams, edges are the relationships of both teams in previous games/matches, and the two sets are players on team 1 and players on team 2. 

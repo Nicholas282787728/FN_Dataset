@@ -1,0 +1,2 @@
+What are some of your favorite data structures?
+The anti-social graph. 

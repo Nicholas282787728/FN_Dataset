@@ -1,0 +1,2 @@
+What are real-world problems that graph theory can solve?
+Graph theory can solve majority of computational problems in industry. Because every system is based on some realtions, consequently every system is a graph topology. For example: traffic organization, social relations, artificial intelligence and so on. Graph theory is used everywhere 

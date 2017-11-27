@@ -1,0 +1,2 @@
+Why is the path of the graph of a quadratic equation curved?
+Because when we differentiate the function for tangent, its a linear function which changes with different values of x. 

@@ -1,0 +1,2 @@
+How can I implement a link/cut tree using a treap data structure?
+If I got you question correctly, the easiest way for me would be go back to the root. This would take log(N) time at average and hence your total time would be O(log(N)) Maybe this could help you LinkCut tree - dynamic tree connectivity - Algorithms and Data Structures 

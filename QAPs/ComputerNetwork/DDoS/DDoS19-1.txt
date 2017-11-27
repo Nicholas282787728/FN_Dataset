@@ -1,0 +1,2 @@
+★How do I protect a VPS from DDoS attacks?
+There is no real way of preventing a DDoS attack from happening - all you can do is mitigate an attack if it happens. If you are using a cloud based VPS provider, then your best bet would be to use a cloud based DDoS mitigation services that is able to scrub traffic for the DNS based hostname you are using. This would reduce the traffic being sent to your VPS to (hopefully) only the clean traffic.Several of the cloud based mitigation providers should be able to help you.

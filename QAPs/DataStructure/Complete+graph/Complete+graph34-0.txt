@@ -1,0 +1,2 @@
+Somebody can give us some examples of an aperiodic markov chain? Why are aperiodic?
+A random walk on a complete graph is an aperiodic Markov chain if p ij >0  for all i  and j  .  The reason it's aperiodic is simple: you can get to any state any time regardless of where you are now. 

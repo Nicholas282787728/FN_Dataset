@@ -1,0 +1,2 @@
+★What are some important/interesting directions/problems in unsupervised learning?Unsupervised learning includes (in my definition) latent variable models, clustering, (principle/independent) component analysis, unsupervised feature learning, unsupervised deep learning, etc. (with intersections between them)
+Personally, I find semi-supervised learning to be an interesting field. It's a hybrid between clustering and supervised learning, potentially useful on scenarios where labeling effort is expensive (or not readily available).    Embed Quote

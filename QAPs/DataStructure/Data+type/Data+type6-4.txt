@@ -1,0 +1,2 @@
+What are user-defined data types?
+Originally Answered: What is a user defined data type? It gives the power to user to create their own data type, called user defined data type. structure: Structures in C union: Unions in C 316 Views

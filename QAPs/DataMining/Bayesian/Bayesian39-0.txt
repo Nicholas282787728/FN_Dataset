@@ -1,0 +1,2 @@
+What are some reasons for the increasing popularity of Bayesian inference?
+Three reasons: 1) Better computers and software are making Bayesian analysis possible where it wasn't previously 2) If you can model it then you can estimate it, not always true using other methods. 3) Increasing acceptance from many stakeholder of analyses produced using Bayesian methods, which might previously have been viewed with suspicion.    Embed Quote 

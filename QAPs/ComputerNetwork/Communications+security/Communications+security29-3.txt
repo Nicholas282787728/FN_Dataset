@@ -1,0 +1,2 @@
+★What is the most  private and secure way to communicate nowadays if there is any?How can you avoid electronic and physical surveillance?
+Before his arrest, when Julian Assange was on the run, when he chose to give media interviews, he did so over Skype. Enough said. Blackberry communications are also highly secure in terms of encryption, but their reliance on central servers compared with Skype's P2P network makes them somewhat (theoretically?) more prone to wiretaps or other SigInt monitoring.

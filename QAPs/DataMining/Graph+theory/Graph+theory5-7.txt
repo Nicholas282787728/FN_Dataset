@@ -1,0 +1,2 @@
+★What are some unsolved problems in graph theory?A basic explanation of the problem with pointers to its current status would be appreciated.
+one is how do you define a cluster. Surprisingly no one mentioned it, may be it is not entirely a graph throey problem but then every logical constraint is a problem in every topic. If one could define clusters efficiently imagine the impact it would have in data analysis    Embed Quote

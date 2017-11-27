@@ -1,0 +1,2 @@
+★Animal Behavior: Why are birds not electrocuted when they perch on power cables?I've always wondered why this is. Do their feet not conduct electricity? Or is there another explanation?
+Something gets electrocuted when it completes a circuit, usually to the ground. Since the bird's feet only connects the power line to more power line, the electrons would "rather" go through power line because it has less electric resistance than the bird's feet.    Embed Quote

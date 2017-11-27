@@ -1,0 +1,2 @@
+★How do I do hidden markov model baum welch algorithm training in gesture recognition using opencv c++ in ubuntu 12.04?
+can try this library implementation. CvHMM else its simple can be implemented. Theory in this paper Page on ucsb.edu    Embed Quote

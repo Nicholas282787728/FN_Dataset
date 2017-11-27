@@ -1,0 +1,2 @@
+What are the disadvantages of using Node.js?
+My 2 cents: Ecosystem is still not there compared to Java. Its fast maturing, but its going to be a while before you see a Kafka or Drools in Node.js. You are going to miss simple things like Database migrations. Nothing like Rails migrations or Play Framework Evolutions is available. I have given few more not so great features of Node here: http://bit.ly/U3HwPZ 

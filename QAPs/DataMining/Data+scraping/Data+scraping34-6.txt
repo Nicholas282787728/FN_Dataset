@@ -1,0 +1,2 @@
+What is the best way to scrape data from a website?
+Python + requests (http://docs.python-requests.org/...) + pyquery (https://pypi.python.org/pypi/pyq...) is a perfect combination. request makes data fetching literally one-liner and pyquery provides jQuery like syntax for processing the DOM and find the links to scrape and data to extract. With that stack you can literally write a scraper in minutes.    Embed Quote 

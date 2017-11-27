@@ -1,0 +1,2 @@
+What pairs of graphs are difficult for isomorphism testing?
+I think good candidates are strongly regular graphs which share the same parameter set. For example, there are 32548 graphs with parameters (36,15,6,6), and I would guess that a lot of them cannot be distinguished by your test. 

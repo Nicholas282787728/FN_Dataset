@@ -1,0 +1,1 @@
+What is the easiest way of implementing an augmented red-black tree such that it gives me the kth order statistic (kth element) in O(logn) time? Can the set be augmented?Or should I use a skiplist? The answer is needed from a competitive programming view.Use set or map in C++. insertion and deletion takes log n time as they implement redblack tree. 

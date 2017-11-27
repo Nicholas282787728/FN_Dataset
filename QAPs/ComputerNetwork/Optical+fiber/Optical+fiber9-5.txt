@@ -1,0 +1,2 @@
+★Can electricity be transmitted through optical fibers (optical fibre electrical transmission)?
+Arijit Bhagavatula is essentially right. With present technology it would require far more energy to 'transmit' electricity via optical fibers as light than to  produce it locally! Refer to my answer: Anubhav Gokhale's answer to How feasible are optic fibers to be set-up?    Embed Quote

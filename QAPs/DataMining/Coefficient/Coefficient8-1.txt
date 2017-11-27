@@ -1,0 +1,2 @@
+What is the canonical way to state "viral coefficients"?
+The key calculation I've found most commonly used is: % of people sending invitations x number of invites sent x % of people signing up from these invitations. If your number is greater than 1 then you have sustainable viral growth, if it is less than 1 you do not. so 0.5 x 4 invites x 0.6 = 1.2 (viral growth) 0.5 x 3 invites x 0.6 = 0.9 (non viral growth)    Embed Quote 

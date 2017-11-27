@@ -1,0 +1,2 @@
+★What are the best resources for semi-supervised learning?Online courses, presentations, books, articles, etc.
+1) Semi supervised learning by Oliver Chapelle et al http://www.acad.bg/ebook/ml/MITP... It is a very good book on SSL kind of first book should everyone read who wants pursue research in SSL 2) Zhu Survey on SSL 2005 3) For Graph-Based SSL Graph-based Semi-Supervised Learning    Embed Quote

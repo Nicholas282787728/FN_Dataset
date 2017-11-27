@@ -1,0 +1,2 @@
+Software engineering: How to generate a C++ function programmatically?
+You can generate code (C or assembly or anything else), compile and dynamically link it. Simple example: https://github.com/dkorolev/sand... https://github.com/dkorolev/sand... https://github.com/dkorolev/sand... Complex example: https://github.com/dkorolev/fnca... fncas Or use LLVM or GNU Lightning, but I found these two more complex. 

@@ -1,0 +1,1 @@
+How can a mobile application take advantage of facebook's open graph?If its a web app then it makes sense to just redirect it to your web app, but with mobile i guess the main purpose that we want is to have more users using it or download the app. the ticker and stuff is not available yet in fb mobile app, so what is a good strategy?

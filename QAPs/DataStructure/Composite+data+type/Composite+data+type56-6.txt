@@ -1,0 +1,1 @@
+Why would someone use an SQL query when everything is available on GUI?

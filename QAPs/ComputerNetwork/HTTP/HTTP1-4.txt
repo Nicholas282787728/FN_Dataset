@@ -1,0 +1,2 @@
+★HTTP Streaming: Which method is better , HTTP Downloading or RTMP Streaming?For my video sharing website, I am using Amazon Cloudfront(CDN) service , Here there is two option for video delivery HTTP Downloading and RTMP Streaming . So which method I have to use for video delivery to make video to run smoothly and to load faster even on heavy traffic ??? And what are the advantages & disadvantages of using these mathods ???
+To be fast and simple, those are my thoughts: - RTMP is more secure but - HTTP you can use it on iOS Hope that helps ;-)

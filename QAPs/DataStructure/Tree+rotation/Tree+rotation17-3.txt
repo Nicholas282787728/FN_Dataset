@@ -1,0 +1,2 @@
+What are the properties of an AVL tree?
+Insertion - [math]O(\log{}n)[/math] (For Avg and Worst case) Deletion - [math]O(\log{}n)[/math] (For Avg and Worst case) Search - [math]O(\log{}n)[/math] (For Avg and Worst case) Height - [math]O(\log{}n)[/math] (For Avg and Worst case) At each node difference between height of left sub-tree and right sub-tree is 1, 0 or -1. 

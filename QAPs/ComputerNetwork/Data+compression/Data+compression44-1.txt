@@ -1,0 +1,2 @@
+★Can the application of a  data compression algorithm to analytical data increase the speed in which it is processed?Data compression is essentially a form of feature detection. Can compressing the data beforehand (as it is incorporated) and decompressing it after offer improved speed and insight?
+Not sure if this is the example you're after, but certain spam filtering methods use compression algorithms to detect spam. In other words, compression IS the processing.

@@ -1,0 +1,2 @@
+★Is there a way to avoid putting a proxy user name and password in plain text in Ubuntu?
+No, there is no way to avoid putting the proxy user name and password in the plain text file. This is by design, since Linux is designed as a server OS, even when running on the desktop. There is no logic that provides for prompting the password in apt-get. However, this is not a fundamental limitation. apt-get would be modified to prompt for the password. But I would think that it is not a priority.    Embed Quote

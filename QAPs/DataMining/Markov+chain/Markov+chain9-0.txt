@@ -1,0 +1,2 @@
+★When is a coarsening of a Markov chain itself a Markov chain?
+The very obvious and probably not all that useful sufficient condition is that be invertible.  I don't have access at the moment, but it looks like http://www.jstor.org/discover/10... might be of interest. Edit: Functions of a Markov Process that are Markovian looks good too.    Embed Quote

@@ -1,0 +1,2 @@
+Facebook Graph Search: Has Graph Search been removed from Facebook?With the new Search that lets you find search through posts etc, has Facebook discontinued Graph Search capability? I can no longer search for strings like "Friends of X who are friends with me and from India".
+Originally Answered: Did Facebook remove graph search? If so, then why?No. It still works. Only if the language you use is English (US), Graph Search works. You can change your language by clicking this link: http://www.facebook.com/settings. You will find the language option there. 

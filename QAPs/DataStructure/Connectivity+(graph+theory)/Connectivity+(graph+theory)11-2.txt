@@ -1,0 +1,2 @@
+How are Combinatorics and Topology connected?
+The former is of course the slums of the latter, at least according to legendary topologist J.H.C. Whitehead.  To say the same thing a bit more prosaically, a graph is nothing but the lowest-dimensional nontrivial avatar of the notion of a simplicial complex. 

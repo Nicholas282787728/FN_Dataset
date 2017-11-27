@@ -1,0 +1,2 @@
+★Is hypothesis testing conducted during regression analysis? If so, what is an example?
+It's used very often and is available in all regression analyses. You get a test of the overall model and tests of each regressor. Whether these are particularly useful is another matter.    Embed Quote

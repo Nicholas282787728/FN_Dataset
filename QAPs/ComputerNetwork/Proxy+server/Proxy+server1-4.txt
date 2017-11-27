@@ -1,0 +1,2 @@
+★What is a good proxy server to use?what is proxy server?
+Squid works very well. I've used it in various companies and personally for over a decade. Varnish would also do the job.    Embed Quote

@@ -1,0 +1,2 @@
+★How do I draw a shirt onto someone's 3D graphic model?
+This type of work can be done in multiple ways. One of the ways is using standard animation software such as MAYA. The other way is by using 3D Modelling tools. I would recommend two softwares depending on the level of complexity required. 1st is 3Dvia shape, it comes for free and one of the easiest modelling tool. The other is CATIA. CATIA has a tool named Generative Shape Design which is used for surfacing. You can create absolutely any shapes out of it. Hope it helps. Cheers, Jaydeep    Embed Quote

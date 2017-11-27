@@ -1,0 +1,1 @@
+What is the middle node of a linked list when the list contains "one node"? Also, what is the middle node of a linked list considered to be when the list contains "an even number of nodes"?First question: that node. Second question: there isn't one. 147 Views  View Upvotes

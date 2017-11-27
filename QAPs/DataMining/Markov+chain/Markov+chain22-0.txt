@@ -1,0 +1,2 @@
+★Why is Pagerank an Ergodic Markov Chain and how should I prove this Ergodic Markov Chain converges?
+This is a pretty straightforward matter of applying the definitions and some basic theorems on the asymptotic behavior of ergodic Markov chains.    Embed Quote

@@ -1,0 +1,2 @@
+What are some tips for self-studying Data Structures and Algorithms?
+I think the best way to study data structure is to study it from book clrs. You can find its pdf online. Don’t leave the mathematical analysis part. when you think that you have understood the theory well, try doing questions from online judges. Some online judges to practice are hackerearth, hackerrank, spoj. 347 Views · 2 Upvotes · Answer requested by Rohit Jain

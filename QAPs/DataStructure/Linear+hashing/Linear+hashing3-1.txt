@@ -1,0 +1,2 @@
+What log-structured/journaling key-value stores are there?
+Here is a short video on key-value stores by one of the experts in the space, Ben Engber: 

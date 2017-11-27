@@ -1,0 +1,2 @@
+★What are some books that give an introduction to generalized linear models with R and examples for college students?
+Introduction to Statistical Learning and Elements of Statistical Learning go through it. Choosing one or the other depends on the math/stats depth that you are looking for.    Embed Quote

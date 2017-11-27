@@ -1,0 +1,2 @@
+What are some good quotes by Donald Knuth?
+My favourite is the dedication in "The Art of Computer Programming": This series of books is affectionately dedicated to the Type 650 computer once installed at Case Institute of Technology, with whom I have spent many pleasant evenings. 

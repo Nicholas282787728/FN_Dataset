@@ -1,0 +1,2 @@
+★How can I make a peer to peer file sharing program?
+http://books.google.co.in/books/...  contains a working example of peer to peer chatting program (using both tcp/udp) . Once you get the fundas right, you can extend the logic to read/write bytes as apposed to strings.    Embed Quote

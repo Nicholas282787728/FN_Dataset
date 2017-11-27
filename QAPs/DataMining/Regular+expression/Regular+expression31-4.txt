@@ -1,0 +1,2 @@
+★What's the regular expression to match a string of exactly six numbers?Exactly six numbers, anything from 0-9, any combination.
+this would do - /^[0-9]{6}$/    Embed Quote

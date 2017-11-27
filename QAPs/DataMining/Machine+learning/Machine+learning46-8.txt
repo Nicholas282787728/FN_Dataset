@@ -1,0 +1,2 @@
+★What is the relationship between machine learning and the scientific method?Scientists follow "the scientific method" to arrive at conclusions about data, although there has been much debate about what exactly this method consists of. Machine learning also arrives at (tentative) conclusions about data - is there a relationship between the two?
+In all bonesty, all conclusions ( and those about data too) are correct until proven to be wrong.    Embed Quote

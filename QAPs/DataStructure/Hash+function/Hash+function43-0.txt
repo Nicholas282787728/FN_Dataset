@@ -1,0 +1,2 @@
+What makes MD5 an insecure cryptographic hash function?
+This, among other security issues : Single-block collision attack on MD5 

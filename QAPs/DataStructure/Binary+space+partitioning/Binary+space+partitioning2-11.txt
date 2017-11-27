@@ -1,0 +1,2 @@
+What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
+1. Hashes ohh boy, whenever you have reasonable input range they do miracles! 2. from more advanced view Binary Indexed Trees(used when you need cumulative sums and updation at the same time)! It's just basic boolean operation which make everything so simple. This link is great to learn it: Algorithm Tutorials 

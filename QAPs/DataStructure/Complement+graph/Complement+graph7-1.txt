@@ -1,0 +1,2 @@
+What are some books which are like "How to lie with statistics", but more rigorous?
+Statistics as Principled Argument isn't really rigorous, but it is a great complement to Huff's book. A book that answers your question is Common Errors in Statistics and How to Avoid them by Phillip Good. I haven't read it in detail but I browsed it a bit. On graphs, the best books are (in my opinion) are those of William S. Cleveland. 

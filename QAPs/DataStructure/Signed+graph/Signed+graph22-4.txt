@@ -1,0 +1,2 @@
+Does correlation imply causation or just higher risk?
+You can prove it doesn't: put a button in your pocket. Next, put a paperclip in it. The button and the paperclip are correlated, both being items in your pocket. But the button didn't cause the paperclip to be in your pocket, nor did the paperclip cause the button to be in your pocket. You are the cause of that in both cases. 

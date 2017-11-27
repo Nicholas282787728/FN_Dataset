@@ -1,0 +1,2 @@
+How do I start learning or strengthen my knowledge of data structures and algorithms?
+Day -∞ to 0: Stick to a programming language like C or C++. Make sure that you are comfortable with pointers/objects. Day 1: Understand the concept of Algorithmic complexity. Skip the theory for now, but for every piece of code you write, you should be able to derive both time and space complexity. Day 2 - 10: Let’s start with some simple data structures, Arrays Linked Lists Strings Stacks Queues... (more)

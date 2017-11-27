@@ -1,0 +1,2 @@
+★What does it mean when standard deviation is higher than the mean?In stats, if the standard deviation is higher then the average, what does that tell you about your data?
+If your data is approximately normal, it means you should expect some negative values frequently (since 0 is less than 1 standard deviation away.) If your data isn't allowed to take negative values, it likely means your data is skewed the to high values, or there are high outliers.    Embed Quote

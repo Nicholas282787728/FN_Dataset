@@ -1,0 +1,2 @@
+How do I start learning or strengthen my knowledge of data structures and algorithms?
+Originally Answered: What's the best way to learn about data structures and algorithms having no prior experience?Check out https://www.coursera.org/course/... : In this course you will learn several fundamental principles of algorithm design: divide-and-conquer methods, graph algorithms, practical data structures, randomized algorithms, and more. Updated 25 Jul 2012 • View Upvotes

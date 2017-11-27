@@ -1,0 +1,2 @@
+★Are there any JavaScript natural language processing projects?So far I found only this simple part of speech tagger http://code.google.com/p/jspos/ Wondering if there are more comprehensive NLP projects for JavaScript. And why does Python have so many and JavaScript have so few?
+I wrote a stack decoder for (word-based) statistical machine translation using JQuery.  You can see a live demo at:     http://cs.jhu.edu/~post/mt-class... The source code is available on Github (linked from the demo above).    Embed Quote

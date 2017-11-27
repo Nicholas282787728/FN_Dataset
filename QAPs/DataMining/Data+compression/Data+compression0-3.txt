@@ -1,0 +1,2 @@
+Is there a theoretical limit to data compression?
+According to Shannon's Source coding theorem Lossless compression is bounded by the joint entropy of the source to be coded. Shannon's source coding theorem    Embed Quote 

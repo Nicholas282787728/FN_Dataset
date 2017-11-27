@@ -1,0 +1,2 @@
+What's the difference between linked data and structured data of the semantic Web?
+Linked Data (http://linkeddata.org) uses RDF with dereferenceable URIs.  That is, instead of merely using a URI as a unique identifier, it actually points to data about the entity.  For example, http://example.org/danny could return all of the incoming and outgoing triples relating to the entity with the id: http://exmaple.org/danny.  This enables you to crawl a large distributed semantic graph, since the triples returned may include URIs on other systems. 

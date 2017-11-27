@@ -1,0 +1,2 @@
+★What is the value of unstructured data?Why would a company allow e.g. Word documents to be used for important information instead of a structured database?
+I would say not every information can be stored in a structured database. But in most cases it is the best way to store data in a database or extract data from unstructured Information with an etl process into a data warehouse.    Embed Quote

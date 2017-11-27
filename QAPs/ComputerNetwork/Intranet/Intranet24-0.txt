@@ -1,0 +1,2 @@
+★What are some free or low-cost intranet solutions?
+eXo Platform (http://www.exoplatform.com) offers a free and Open source social Intranet that includes many collaborative tools like wiki, calendars, forums, FAQ and content/document Management systems. All of thise services are covered with social features providing an efficient and convinient way for team work.

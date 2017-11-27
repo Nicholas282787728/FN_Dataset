@@ -1,0 +1,2 @@
+★Which is better for data analysis: R or Python?
+As one of my friends put it, "Sure, Python can use some more statistics packages but R could have used some computer scientists."    Embed Quote 

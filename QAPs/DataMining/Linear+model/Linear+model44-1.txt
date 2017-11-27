@@ -1,0 +1,2 @@
+★If I have two linear models with the same number of parameters, how do I evaluate the significance of the difference in R^2 between the two models?
+These models can't be nested. Thus the usual methodology of F statistics doesn't apply. If you want a hypothesis test as opposed to comparing AIC or adjusted R^2, look at the Rivers-Vuong test. Like Peter Flom, I'd be skeptical of the value of a hypothesis test in this circumstance.    Embed Quote

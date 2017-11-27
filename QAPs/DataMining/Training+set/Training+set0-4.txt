@@ -1,0 +1,2 @@
+★In classification, how do you handle an unbalanced training set?In some cases, you have a lot more examples of one class than of the others. How do you tackle this problem? What are some gotchas to be aware of in this situation?
+There are a bunch of techniques to do this. I had mentioned some of them in this answer: Abhishek Ghose's answer to What's the most efficient classification algorithm for unbalanced data sets? And what pre-processing could be done to optimize the score? Is there a way to merge these questions?    Embed Quote

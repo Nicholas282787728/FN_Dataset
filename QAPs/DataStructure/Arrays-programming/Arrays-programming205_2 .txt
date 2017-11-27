@@ -1,0 +1,1 @@
+Is there a way to use billions of arrays or can I develop a new program that can compute billions of arrays?This may be terribly old school. But, tree based data structures can let you access large data sets fairly quickly. Though, why you'd write your own code to store/access large data-sets is a bit mystifying. 93 Views  View Upvotes

@@ -1,0 +1,1 @@
+Is it possible to search in an array of C structs?Better to use a lightweight database like SQLite for this. If you want to search in an array of structs, you have to do a linear search. Or else sort it beforehand by name, so you can do a binary search. A struct of arrays is more efficient than an array of structs though. 

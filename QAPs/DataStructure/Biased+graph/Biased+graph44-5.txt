@@ -1,0 +1,2 @@
+What is the best way to explain the bias-variance trade-off in layman’s terms ?
+Play Paper Toss. Throw the paper into the trash can. If there is wind from an electric fan then you need to adjust for it. If you over adjust the paper goes over (over bias) and if you don't compensate then you under shoot. You need to compensate for the wind but not too much. 2k Views · 3 Upvotes

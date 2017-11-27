@@ -1,0 +1,1 @@
+How can I draw a directed/oriented graph given a text file?The text file consists of pairs of node names, so that each line represents a “source” and a “target” nodes.This looks like a job for graphviz - see www.graphviz.org 34 Views  View Upvotes

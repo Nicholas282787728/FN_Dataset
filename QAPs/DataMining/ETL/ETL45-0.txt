@@ -1,0 +1,2 @@
+★How robust is using SQL for ETL?
+In my opinion SQL is the best possible way of doing ETL. You can use database export utilities for fast exporting your data and load utilities for quickly loading. You can glue the pieces together with a simple language like Python. It does not give you the GUI or user friendliness but it gives you control over pushing the limits on the database side.    Embed Quote

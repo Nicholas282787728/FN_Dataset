@@ -1,0 +1,2 @@
+What is the difference between a hamiltonian path and an eulerian path?
+A Hamiltonian path visits every vertex exactly once. An Eulerian path visits every edge exactly once. As to why these problems are so different, see Why is it easier to determine whether a graph has an Eulerian cycle than a Hamiltonian cycle? 

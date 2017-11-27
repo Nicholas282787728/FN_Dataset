@@ -1,0 +1,2 @@
+★What are some computer networking benchmarks?This is a follow-up question to What are some file system benchmarks?.
+ttcp and iperf benchmark the speed of tcp/ip and udp connections. ping, mtr and pathping to get network latency. The Global Broadband Speed Test for internet speed test.

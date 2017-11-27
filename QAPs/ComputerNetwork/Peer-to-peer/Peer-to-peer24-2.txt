@@ -1,0 +1,2 @@
+★Why does WhatsApp use a Client Server architecture instead of peer to peer?
+Probably because C/S is fairly trivial vs. P2P which requires either third-party matching or firewall hole punching and the average user wouldn't know the difference or care.    Embed Quote

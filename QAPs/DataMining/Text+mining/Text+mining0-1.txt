@@ -1,0 +1,2 @@
+★What is the relationship between text mining information retrieval and text mining?I know the two topics are closely related. But is it appropriate  to say "when the information is text format, the IR and TM are equivalent"?
+Mining is the process of extracting some meaningful information from a chunks of meaningless data Retrieval is the study that ponders about most effective ways of retrieving that extracted info to user needs    Embed Quote

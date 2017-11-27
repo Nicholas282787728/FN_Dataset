@@ -1,0 +1,2 @@
+★What are the best web scraping open source tools?
+For those who use Python, I find webscraping (https://code.google.com/p/webscr...) easy to use. A feature I like about it is its ability to cache recently "accessed" urls so you don't hit the server all the time. It also has a facility to simulate site navigation (e.g. button or link clicks)    Embed Quote

@@ -1,0 +1,1 @@
+What will be maximum subscript of array having size?Thanks for A2A If size of array A[] is N then maximum subscript will be N-1.Accessing beyond that will yield segmentation fault. 117 Views  Answer requested by Kandala.vamshidhar Reddy

@@ -1,0 +1,2 @@
+What are the 10 must-know algorithms and data structures for a software engineer?
+Originally Answered: What are the most common algorithms and data structures to learn for a developer?  Further recommendations?I recommend Introduction to Algorithms book by Cormen et.al 

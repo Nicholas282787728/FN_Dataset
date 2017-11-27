@@ -1,0 +1,2 @@
+★What is the difference in 4G reliance and 4G Airtel?
+The major difference is : Airtel 4Gis run only on one screen ie: Mobile screens or GPRS but Reliance 4G will be running across all the four screens namely Mobiles, computers, TVs etc. via cables.  Ril 4G spectrum will remit  around 50 - 100 MBPS of speed and it will provide various bundle of benifts and services unlike Airtel

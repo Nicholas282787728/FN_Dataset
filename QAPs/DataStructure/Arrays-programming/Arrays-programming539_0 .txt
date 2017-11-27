@@ -1,0 +1,1 @@
+Does using an array whose size is constant irrespective of the problem set size count as space complexity of O(n) O(n) ?For example, if I am to use an bool array to check the occurence of alphabets, the size of array is a constant 26, irrespective of problem input.Using a fixed-sized array as in your example means that the space complexity is O(1) O(1) . 711 Views  View Upvotes

@@ -1,0 +1,2 @@
+What is the difference between double d=5 and Double d= new Double(5) in Java?
+Double is a Java class that wraps a primitive double value. '=='  comparison of two Double objects is address comparison whereas that of two double values is value comparison. Also usage of Double in place of double can slow down your program mainly because, Double is an object and so has to go through memory management. But why we need such wrapper objects in the first place is to work with Collections, passing it by reference to methods and so on. 

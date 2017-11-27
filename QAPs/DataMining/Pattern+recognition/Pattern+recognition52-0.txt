@@ -1,0 +1,2 @@
+★What are the state of the art pattern recognition techniques in seismology?
+There are several researchers in the matter. One that comes to mind is Attribute-Assisted Seismic Processing and Interpretation (AASPI). http://geology.ou.edu/aaspi/publ...    Embed Quote

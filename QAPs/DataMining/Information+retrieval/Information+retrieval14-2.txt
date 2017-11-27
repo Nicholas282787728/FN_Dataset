@@ -1,0 +1,2 @@
+★What are the most popular algorithms in Information Retrieval at this time?
+Apache Mahout http://mahout.apache.org/. Mahout is built on top of Hadoop for scalability and has a lot of great examples and libraries for getting started. Also, Yelp's Mr. Job is handy for general purpose large scale computations using map-reduce http://www.readwriteweb.com/clou...    Embed Quote

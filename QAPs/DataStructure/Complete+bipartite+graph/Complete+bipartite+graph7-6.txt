@@ -1,0 +1,2 @@
+What are some ideas for a research project/paper on number theory/computer science/mathematics?I am a high schooler and really interested in number theory and computer science.
+you can try rectifying errors for LDPC(Low density parity check) or LBC(Linear block code) codes. make a program which take inputs as a parity matrix and encode the message. then using the definition of code you can make a decode algorithm. i am sure you will gain some recognition among your college. 

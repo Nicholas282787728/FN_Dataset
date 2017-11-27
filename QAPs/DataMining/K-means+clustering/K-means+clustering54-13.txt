@@ -1,0 +1,2 @@
+★What are some Machine Learning algorithms that you should always have a strong understanding of, and why?I want this to be a general question that could cover different disciplines. If you have any algorithm from an application point of view, then please do mention that as well!
+Top ten algorithms in data mining: C4.5 K-Means SVM: Support Vector Machine Apriori EM PageRank AdaBoost kNN Naive Bayes CART: Classification and Regression Tree    Embed Quote

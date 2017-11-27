@@ -1,0 +1,2 @@
+★When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?
+To store fewer entries in the routers so the lookup is fast, low latency , low processing power as we can store network address in routers in case of ip-addresses, but Mac address being flat address based we need to store each and every entry.    Embed Quote

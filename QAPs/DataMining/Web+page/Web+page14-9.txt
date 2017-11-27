@@ -1,0 +1,2 @@
+★Why is HTML used in web pages?
+HTML is the basic language that make your web navigator understand what he is supose to show you. HTML is needed for the structures and basics informations of a web page.    Embed Quote

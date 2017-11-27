@@ -1,0 +1,2 @@
+Which C/C++ compiler is used for the Macintosh?
+With XCode you get the prebuilt LLVM compilers for C,C++ and Objective C .  @Xcode - Features - Apple Developer  : "The powerful open-source LLVM compiler for C, C++, and Objective-C is built into Xcode and available from Terminal."   Clang is the default compiler . cc , gcc  are actually symbolic links to the llvm-gcc compiler.  Similarly, c++ and g++ are links to llvm-g++. 

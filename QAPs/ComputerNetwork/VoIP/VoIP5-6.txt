@@ -1,0 +1,2 @@
+★What is the best VoIP infrastructure service, API or open source solution to use for a mobile VoIP app?The mobile app is a SIP client.
+You can try out our Rebtel Voice Platform. It is an SDK that enables free VoIP calling between app users. It supports iOS and Android apps. We offer a freemium "pay as you grow" plan, with significant volume for free. Link: Rebtel Developer    Embed Quote

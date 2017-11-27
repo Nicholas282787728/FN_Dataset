@@ -1,0 +1,2 @@
+How do I convert Singly and Doubly sorted linked list to BST?
+As the answer below pointed out, you're essentially doing the same thing that you would if you were given a sorted array. Except here you can't just access an array element by index. The solution for that would be to use a fast and slow pointer ie, one that moves two steps for every step of the slower one. In this way, you can find the middle of the LL. Do this recursively. 

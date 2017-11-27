@@ -1,0 +1,2 @@
+How can I solve this equation: 2 x =x  ?
+Divide both sides by 2 x   and you get x2 x  =1  Which is the same as: 1=xe −xln2   Which itself is the same as: −ln2=−xln2e −xln2   when we multiply both sides by −ln2  And now we have it in a form where we can use the Lambert W function, so applying that we find that W(−ln2)=−xln2  or, finally, that: x=W n (−ln2)−ln2   where n∈Z  There are infinite solutions to this, but none of them are real. An approximation of the principal branch (n=0  ) gives: 0.824678546142074 - 1.56743212384965*I Updated 14 Oct • View Upvotes

@@ -1,0 +1,2 @@
+★How important are DNS firewalls?How does BLOX's solution stack up?
+A DNS Firewall can help you control what domain names, IP addresses, and name servers are allowed to function on your network. You can build such a firewall using DNS Response Policy Zones (RPZ), which is an open and vendor-neutral standard for the interchange of DNS Firewall configuration information.  For more information please visit Firewall Network Security - Cyberoam - Securing You

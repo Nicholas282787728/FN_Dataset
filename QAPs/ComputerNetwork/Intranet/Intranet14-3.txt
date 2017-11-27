@@ -1,0 +1,2 @@
+★Is there a Yammer application that can be integrated in an intranet?A php-based app, where users can login, view the timeline and post updates.
+If you're only looking for a social stream, yammer is fine. If you'd like a social stream, along with all-company news, team discussions and a library, you might want to look at Jostle - its really beautiful, cloud based, and works very, very well. jostle.me/product

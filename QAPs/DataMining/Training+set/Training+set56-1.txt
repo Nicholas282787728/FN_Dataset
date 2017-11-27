@@ -1,0 +1,2 @@
+★In supervised learning, is it possible to train a model using a training set first, and save the model thus obtained for validating/testing data later (as two independent code runs)? Are global parameters effective ?
+Miniatur Wunderland – the world's largest model railway exhibition. A world-famous model train and miniature exhibition located in Hamburg, Germany.    Embed Quote

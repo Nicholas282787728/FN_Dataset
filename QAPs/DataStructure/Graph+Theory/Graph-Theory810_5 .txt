@@ -1,0 +1,1 @@
+What is the difference between a histogram and a bar graph?Originally Answered: Is there a difference between a bar chart and a histogram?Yes. In a bar chart, the frequencies are represented by the heights of the bars, all of which are the same width. In a histogram, the frequencies are represented by the areas of the bars, which may vary in width. 5.4k Views  View Upvotes

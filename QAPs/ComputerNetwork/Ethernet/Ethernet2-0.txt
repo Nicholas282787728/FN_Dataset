@@ -1,0 +1,2 @@
+★When will 10 gigabit Ethernet overtake 1 gigabit Ethernet in deployment?
+10GE is already commonplace in inter-switch links.  It is much less common on servers.  In terms of raw ports, I don't believe you'll see 10GE overtake 1GE until motherboard manufacturers are putting 10GE ports on the MB by default. (most servers come with 2 1GE ports)  This is partially being blocked by slow ratification of a 10GE standard over twisted pair (cat6A or other) cabling.

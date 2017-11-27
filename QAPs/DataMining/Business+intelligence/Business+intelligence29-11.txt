@@ -1,0 +1,2 @@
+Are there any desktop business intelligence tools for data analytics?
+Open source has the answer . Use R. It is really cool and free. If you can try installing patches. Being an open source there are thousands update. R cannot handle big data as it stores information on RAM.  If your data is not too big but large enough to crash R you can try MS Access and then present the data with the help of excel.    Embed Quote 

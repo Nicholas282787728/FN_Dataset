@@ -1,0 +1,2 @@
+★What is the best site for buying domain names?I currently buy domains from GoDaddy and I really want to switch.
+I am a huge fan of Namecheap. They have good prices. They give free whois protection for the first year. They have an API so you can programatically register domains. They have a clean UI and don't try to upsell you (ahem, GoDaddy, ahem). Once you reach 100 and then 300 domains, you can get a promo code for cheaper domains. Their domain management screens are fast and simple.

@@ -1,0 +1,2 @@
+★What music metadata API is best for querying genre or tags by album and artist?
+You should definitely give a look at Seevl: http://seevl.net/    Embed Quote

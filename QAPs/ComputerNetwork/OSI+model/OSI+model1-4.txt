@@ -1,0 +1,2 @@
+★What is the simplest explanation of the OSI model involving real examples?Feel free to share any related technical articles and videos.
+Thanks for A2A. OSI model is a reference model, so it has never been implemented,. Hence there is no question of getting a real life example. It is one of the biggest and costliest mistakes in the history of computing. If still you are interested, just write in the comment.    Embed Quote

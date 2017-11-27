@@ -1,0 +1,2 @@
+What are the Applications of avl tree?
+If you are searching for real world applications .Here is the link What are some real world applications of AVL trees? It is actually a balanced tree . so insertion ,search , delete are always done in O(logn) .and reduction of tree size in worst case. (block of memory can be decreased to some extent while width is increased .) 

@@ -1,0 +1,1 @@
+Where can I find the algoithms for split and join operations on a red black tree?The classic "Introduction to Algorithms" (aka CLRS) provides a wonderful introduction to red-black trees. 

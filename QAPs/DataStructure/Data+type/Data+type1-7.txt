@@ -1,0 +1,2 @@
+Is 'void' a data type?
+In Java,  VOID is not a datatype in fact it tells you that the method returns no datatype. 172 Views · 1 Upvote

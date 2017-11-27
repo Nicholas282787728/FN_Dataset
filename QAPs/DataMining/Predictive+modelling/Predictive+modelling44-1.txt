@@ -1,0 +1,2 @@
+★Does a good predictive model imply a good explanatory model?If the goal is to explain the contribution of individual predictors, does a better preforming model necessarily lead to better insights about the predictors?
+No, they are usually separate. A black box model can predict well but not explain anything. I would build separate models for prediction and explanations, both optimising different metrics    Embed Quote

@@ -1,0 +1,2 @@
+Why is my bash associative array reporting "bad subscript"?
+Most likely you forgot to assign a value to $key; essentially you are trying to create a key called NULL, which bash doesn't like. #!/bin/bash declare -A hashmap hashmap[$key]=$value returns: "./test.sh: line 4: hashmap[$key]: bad array subscript" Adding key='foo' before trying to assign to it works perfectly. 

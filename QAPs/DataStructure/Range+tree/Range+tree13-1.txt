@@ -1,0 +1,2 @@
+How do I answer range median queries efficiently?
+You can process these queries with [math]O(n \log n)[/math] memory with [math]O(\log^3 n)[/math] time per query by building a segment tree of sorted sets. For each query, binary search over the answer and count over these sets. You need to query log n sets log n times, and each query takes log n time, giving you the final runtime of [math]O(\log^3 n)[/math]. Since this is offline, you can use fractional cascading to eliminate a log factor, but I'm not sure how to improve it from there. 

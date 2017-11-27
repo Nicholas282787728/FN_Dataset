@@ -1,0 +1,2 @@
+What are some of the best mathematical games or puzzles you invented?I asked a similar question over here: Which mathematical game or puzzle did you invent? , but I didn't get any responses. I was wondering whether you invented a mathematical game or puzzle, but never published for some reason.
+Find a way to partition the edges of the complete graph on 20 vertices (k20) into 6 dodecahedral graphs (with 10 edges left over). I posed this question to myself about 14 years ago and wrote a C program to find a solution. 

@@ -1,0 +1,2 @@
+★How can I connect to an FTP server with a Mac?
+You may also want to try CyberDuck or Transmit. Both are excellent FTP clients for Mac.

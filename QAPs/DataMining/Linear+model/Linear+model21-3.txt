@@ -1,0 +1,2 @@
+★What is this formula in the simple linear model environment? (b = Cov(X,Y) / Var(X))b = Cov(X,Y) / Var(X) I have no idea how to get this.
+   Embed Quote

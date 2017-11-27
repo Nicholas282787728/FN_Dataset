@@ -1,0 +1,2 @@
+★When would one use Random Forests over Gradient Boosted Machines (GBMs)?
+I have experiance working with the two algos and  GBM is much faster on large data set (In R, randomForest ran for 45min with 1k trees and GBM ran for 6min with 2k trees and 3 repeats on 16k rows and 140 variables).Also In my trails on a specific prediction problem the GBM was more steady and accurate on actual data then RF.    Embed Quote

@@ -1,0 +1,1 @@
+What is the space complexity of an ArrayList containing references to TreeNodes?I think is O(n). ArrayList can store duplicate objects in its array. 127 Views

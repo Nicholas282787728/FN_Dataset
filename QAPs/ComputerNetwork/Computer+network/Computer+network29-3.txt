@@ -1,0 +1,2 @@
+★What are some good interview questions asked from computer networks?I am a fresher.
+OSI layer thing, Dead lock Conjuction TCP / IP Protocols IP4 vs IP6

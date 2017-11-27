@@ -1,0 +1,2 @@
+★How do we bridge the gap between Search engines and Social Networking Sites?
+I believe search engines have started (Google in particular with social search, and Bing with counting "likes" on Facebook), yet there needs to be data mining for social sites, that in turn becomes available to use in CRM format. Then I think searches would be able to use algorithms in a way to be more succinct with social networking sites.

@@ -1,0 +1,2 @@
+What are the 10 must-know algorithms and data structures for a software engineer?
+I think few of 10 must known would be 1. Linear Search 2.: Binary Search 3.: Different type of sorting( bubble sort, linear sort, shell sort) 4. Merge sort 5: BFS,DFS Data Structures 1. Arrays (2D, 3D... ND) 2. Stack 3. Queues ( simple queue, D-queue, circular queue etc) 4. Tree 5. Graph There is no limit to different types of algorithm and there are so many types of data structures. But these would be the very basic ones. 

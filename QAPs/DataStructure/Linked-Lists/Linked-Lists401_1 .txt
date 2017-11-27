@@ -1,0 +1,1 @@
+How do I insert an element at nth position of a linked list?cout<<"\n enter position to be inserted"; cin>>pos; temp = new node; cout<<"\n enter value to be inserted"; cin>>temp -> data; curr = header;  for(int i=1;i <pos;i++)  {  prev = curr;  curr = curr -> link;  } prev -> link = temp; temp ->link = curr; 987 Views  View Upvotes

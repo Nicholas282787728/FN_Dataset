@@ -1,0 +1,2 @@
+★How does Quora use machine learning?
+There are several ways in which Quora uses machine learning. 1) Recommending questions in the sidebar. ( Clustering and ranking) 2) When you ask a question , it searches for a similar question not only on the basis of words but the context ( Similarity matching) 3) When you ask a question, it automatically assigns some topics to it ( Topic Modelling using Latent Dirichlet Allocation etc.)  4) News Feed filtering, who voted on a particular question, who is following someone. All these are customized to your profile    Embed Quote

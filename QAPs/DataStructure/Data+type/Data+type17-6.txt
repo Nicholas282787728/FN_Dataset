@@ -1,0 +1,2 @@
+What is the difference between a data type and a data structure?
+Data type is used so that compiler can understand the type of data that will be stored in a variable and accordingly allocate memory block for variable Data Structures are efficient ways to store data, so that we can access and manipulate data accordingly 799 Views · 7 Upvotes

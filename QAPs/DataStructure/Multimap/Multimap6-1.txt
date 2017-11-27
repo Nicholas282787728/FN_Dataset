@@ -1,0 +1,2 @@
+How can I avoid an STL data structures' memory overhead in C++?
+Why not just std::multimap<std::string, unsigned>? It would maintain your line number lists per unique string and it would already be sorted. 

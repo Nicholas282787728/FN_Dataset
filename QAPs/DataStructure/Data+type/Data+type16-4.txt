@@ -1,0 +1,2 @@
+Why would anyone use int or long data types in C?
+Unless the value is being written to disc or interfaces with another programming language (e.g. Fortran), there is no reason not to and the code is no less portable. In fact it scales with the architecture: int's and long's tend to be larger on machines with larger address spaces. 1k Views

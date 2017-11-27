@@ -1,0 +1,2 @@
+★Could a data compression (even image compression) startup exist?
+Can it exist? Sure. VP8 and VP9 came out of a startup later bought by Google.  I am sure dozen of graduate students dream of improving the existing standards. But they have to co-exist and compete with both "Free," and standards-based techniques, such as Theora, video for everyone , imaging teams from Google, facebook, and Apple, and of course all the other open-source and standard-based schemes.

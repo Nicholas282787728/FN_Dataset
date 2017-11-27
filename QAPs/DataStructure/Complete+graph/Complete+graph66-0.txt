@@ -1,0 +1,2 @@
+Is there a formula to find the number of different areas formed by crossing every vertice on a n-sided regular polygon?
+In graph theory, these graphs are called complete graphs and are referred to as K4, K5, K6, etc. This page has more information, along with two formulas (one is ugly and for the general case, while the other is simple but works for odd-numbered cases): Regular Polygon Division by Diagonals The numbers of regions form this sequence: A007678 - OEIS 

@@ -1,0 +1,2 @@
+★How can gradient descent algorithm be implemented with logic gates?
+There are so many ways to solve this problem. Without further constraint to your problem, the simplest most generic solution that comes to mind is to instantiate a simple micro controller in the FPGA and implement the search algorithm on this controller using C/C++.    Embed Quote

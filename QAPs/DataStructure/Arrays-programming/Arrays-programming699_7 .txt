@@ -1,0 +1,1 @@
+What is an array?An array is a data structure that contains a number of variables called the elements of the array. The array elements are accessed through computed indexes. C# Array With Example link will give u very good idea about Array. 34 Views

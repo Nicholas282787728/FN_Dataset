@@ -1,0 +1,2 @@
+★How do I create or get a training set for a location-based advertisement using machine learning techniques?
+All you need is the coordinates of a person. The easy way is to take microsoft data set. I don't have the link on me right now. Sorry. The problem is you will need the semantic value for the places. You can mining it from location base web sites. You can search in google for those sites. Or you can build an app in smart phone. The app will record the person coordinate and semantic value .    Embed Quote

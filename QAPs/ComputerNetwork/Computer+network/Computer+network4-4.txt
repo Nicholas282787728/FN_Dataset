@@ -1,0 +1,2 @@
+★What is the most important computer networking protocol?
+There is no "most important" protocol.  Whatever function you're looking to perform, all the requisite protocols must be present to work.  It's like asking what is more important in a phone conversation ...  saying "Hello" or saying "Good bye".

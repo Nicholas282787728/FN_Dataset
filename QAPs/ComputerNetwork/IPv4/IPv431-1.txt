@@ -1,0 +1,2 @@
+★How can I find the IPv4 address from an email with only IPv6 in the headers?So far, I can only identify the IPv6 address (from the "Received: From" line), but unable to convert it to IP. Can I trace the sender using IPv6 as well? If yes, then how, which websites provide conversion?
+There is no translation between IPv4 and IPv6. If a machine is operating on IPv6, there may or may not be a corresponding IPv4 address, as they are independent of each other.

@@ -1,0 +1,2 @@
+If three coins are tossed simultaneously, what is the probability of getting at least two heads?
+You either have at least 2 heads or (exclusive) at least 2 tails. And the probability of both is the same. Thus : 1/2.    Embed Quote 

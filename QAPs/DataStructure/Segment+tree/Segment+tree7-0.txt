@@ -1,0 +1,2 @@
+What is the simplest implementation of segment trees that you have seen?
+This has to be it: Segment Tree - Algorithm Tutorials. 

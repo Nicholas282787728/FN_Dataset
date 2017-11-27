@@ -1,0 +1,2 @@
+How can I learn to think like a functional programmer?
+Drive simplicity to the maximum. Therefor, force yourself to define pure functions only. Develop a feeling for side effects. I/O, echo, HTTP Requests? Maximum caution! Using for/while loops again because it seems easy? Try tail recursion instead. You fear the exception? Try to encapsulate all your exception handling with monadic types. Try to think more in terms of composition and less in terms of inheritance. 

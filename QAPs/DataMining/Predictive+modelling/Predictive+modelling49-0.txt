@@ -1,0 +1,2 @@
+★How can predictive modeling analysis be used for spatial data applications?
+Pipe systems of all kinds, from water to gas to wastewater, contain large sets of spatial data that is very useful in predictive analytics. For example, you could use gas pipeline condition, construction material, diameter, year of installation in conjunction with gas pressure sensors to predict pipeline risk and model when replacement is needed.    Embed Quote

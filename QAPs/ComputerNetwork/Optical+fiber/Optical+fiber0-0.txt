@@ -1,0 +1,2 @@
+★What is the future of optical fiber networks?
+From my perspective, quite rosy.  Optical technology is still progressing well, and I expect to see continued additional sophistication.  We're currently aggressively deploying 100GbE with extensive use of DWDM.  I expect to see TbE in the next decade or so.  DWDM will continue to evolve and will hopefully standardize and interoperate.    Embed Quote

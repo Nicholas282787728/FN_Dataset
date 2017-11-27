@@ -1,0 +1,2 @@
+Which are the top blogs to follow to explore about algorithms and data structures?
+Originally Answered: What are the best blogs on algorithms and data structures?The best one is GeekforGeeks . Top coder is also very very good. To solve question with SPOJ or Ahemed aly. To learn bsic of all fundamental algorithms check this - Data Structures and Algorithms Tutorials 

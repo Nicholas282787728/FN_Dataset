@@ -1,0 +1,2 @@
+What are the applications of sparse graphs?
+A sparse graph has relatively few edges when compared to the number of vertices. A dense graph has an edge count that is close to the number of vertices squared. A lot of algorithms on graphs run in time that is proportional to the number of edges so these type of algorithms will run a lot faster on a sparse graph. I'm not sure if this is what your question was asking. Does this answer make sense? 

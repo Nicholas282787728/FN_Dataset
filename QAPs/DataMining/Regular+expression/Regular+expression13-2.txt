@@ -1,0 +1,2 @@
+★What are the most common Regular Expressions one should know?
+Try the 15 tutorials on this site Lesson 1: An Introduction and the ABCs Simple and short enough to get you started and detailed enough to get you comfortable for advanced regexes.    Embed Quote

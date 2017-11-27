@@ -1,0 +1,2 @@
+What is the most memory efficient C++ hash table implementation?
+Probably Google's sparsehash. sparsehash - An extremely memory-efficient hash_map implementation My own version, available at greg7mdp/sparsepp, uses a little bit more memory (still only ~1 byte overhead per entry), but is significantly faster and better support for C++11. It is also easy to try as it is in a single header file. 2.9k Views · 28 Upvotes

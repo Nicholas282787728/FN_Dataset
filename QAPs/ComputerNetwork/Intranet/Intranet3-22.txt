@@ -1,0 +1,2 @@
+★What are Sharepoint alternatives for a company-wide intranet?In a ~500-1000 person company, what alternatives are there for a  document, file repository-style intranet portal? Bonus points if there is room and potential for other elements of the information workplace (such as collaboration, social, content management) down the road.
+Livelink ECM and IBM's FileNet come to mind. Ingeniux also has a WCM platform as well as a product called Cartella Social Server, which adds social media capabilities. http://www.ingeniux.com/products

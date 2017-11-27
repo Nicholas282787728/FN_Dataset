@@ -1,0 +1,1 @@
+Is there a function where the derivative at a point is zero, but it is monotonically increasing at that point?

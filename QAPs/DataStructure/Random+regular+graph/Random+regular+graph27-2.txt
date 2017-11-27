@@ -1,0 +1,2 @@
+What do interns do at secretive quant funds or HFT (high-frequency trading) firms?
+It varies a lot from firm to firm. Some will have interns go through series of lectures and work on toy projects (internal paper trading competitions etc) while doing otherwise uninteresting work. Others will have the interns work on low-priority projects that are can be executed without full access to the firm's resources. I have not heard of any big firm giving interns unfettered access to code and/or systems and we certainly do not do it where I work. 

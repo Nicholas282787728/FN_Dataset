@@ -1,0 +1,2 @@
+★What is the next big thing in computer networks?
+1. SDN 2. Using white space spectrum 3. Machine to machine communications 4. Dynamically formed and managed ad-hoc networks

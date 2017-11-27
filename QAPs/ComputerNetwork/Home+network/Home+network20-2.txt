@@ -1,0 +1,2 @@
+★Which would be better for a home networking solution -- Ruckus or Luxul?Ruckus is about 3x the cost -- is it worth it? Having a good home network is very important to me.
+Ruckus is a managed network solution. How many nodes do you have? If you are interested in home control of lighting and environmental systems, wait for ios8, HomeKit might be all you need, get a time capsule an maybe an extreme as well if you have a big house. Home networking doesn't need management.

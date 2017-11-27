@@ -1,0 +1,2 @@
+★How would you set-up DHCP options and exclude addresses?
+This all depends on the type of DHCP system you're running, can you specify?

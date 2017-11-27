@@ -1,0 +1,2 @@
+What are the best websites, online resources, books, etc. to prepare for the ACM ICPC?
+The best book for preparing for ACM ICPC is "The Art of Programming Contest." One should also read "Introduction to Algorithms". Online resources for preparation are -: TopCoder Codechef SPOJ Codeforces etc. 

@@ -1,0 +1,2 @@
+★What are some interesting use cases of graphical models?
+Graphical models can help with problems that would be semi-impossible to tackle with classical classification or regression methods from machine learning. Consider this explanation of the TrueSkill player ranking algorithm from Microsoft http://www.moserware.com/2010/03... or estimating location based on signal strength by David Madigan and coauthors: http://stat.rutgers.edu/~madigan...    Embed Quote

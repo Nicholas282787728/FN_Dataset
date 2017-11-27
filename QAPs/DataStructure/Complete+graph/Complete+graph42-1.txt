@@ -1,0 +1,2 @@
+Im planing to make a metro route app which will display the shortest path between two given stations. So should i use tree and dijkstra's shortest path algorithm ? Is there any easier way?
+Since at any point of time you will use only 1 complete graph of all the stations and all the direct routes between each of them, I would suggest you use the *Floyd-Warshall* algorithm(http://en.m.wikipedia.org/wiki/F...). To use Dijkstra's you will have to create a seperate graph between your 2 end-points each time the end points change. 

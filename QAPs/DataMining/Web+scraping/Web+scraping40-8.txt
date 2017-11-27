@@ -1,0 +1,2 @@
+★How can we as a poor startup follow competitor's e-commerce prices with web scraping/data mining technology?And implement them too ..
+As I understand correctly, you are looking for inexpensive tool? Well, the cheapest way is to write your own scraper, but it can take a  lot of time if you don't know how to do this. There are ready-made solution and maybe the cheapest one is http://competera.net - depends on your number of products, but for a small store it will cost only $80-100 a month    Embed Quote

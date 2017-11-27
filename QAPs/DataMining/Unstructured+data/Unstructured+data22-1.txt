@@ -1,0 +1,2 @@
+★How does Google convert unstructured data into structured data to give the user a rich search experience?Q1) What tools do search engine giants like Google use to convert the unstructured web data to structured web data to enable good search? Q2) What parameters are used for classifying data as structured or unstructured? Q3) Is unstructured data useful to search or information retrieval systems in anyway possible?
+Book "An Introduction to Information retrieval" help you a lot with the answers of this questions.    Embed Quote

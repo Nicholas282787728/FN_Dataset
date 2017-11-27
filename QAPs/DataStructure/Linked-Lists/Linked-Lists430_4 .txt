@@ -1,0 +1,1 @@
+Can a linked list traversal run-time do better than O(n) - linear run-time?I believe you could parallelise the traversal and obtain something like Θ(logn)  Θ(logn) . Take a look at Pointer jumping. 46 Views · View Upvotes

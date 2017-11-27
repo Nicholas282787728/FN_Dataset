@@ -1,0 +1,2 @@
+What are some must-have software for programmers using Linux?
+The best IDE (in my opinion): Sublime-Text. Terminal: Terminator Version Control: Git 

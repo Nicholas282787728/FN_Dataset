@@ -1,0 +1,2 @@
+★What are some good learning projects to teach oneself about machine learning?This is a follow-up question to How do I learn machine learning?.
+You can start with weka(http://www.cs.waikato.ac.nz/ml/w...). weka has collection of data mining and machine learning algorithms.    Embed Quote

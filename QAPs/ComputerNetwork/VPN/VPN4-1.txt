@@ -1,0 +1,2 @@
+★What are the uses of a VPN?Please list as many uses as you can think of.
+Anytime you want a tunneled, encrypted connection. Use it when connecting over an untrusted network without having to secure each protocol separately.    Embed Quote

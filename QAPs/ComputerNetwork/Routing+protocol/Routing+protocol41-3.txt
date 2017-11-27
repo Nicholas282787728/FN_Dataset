@@ -1,0 +1,2 @@
+★What projects and initiatives are underway to build wireless ad-hoc mesh networks?in preparation for the Contact Summit in NYC October 20, we want to understand the current landscape of projects/initiatives building wireless ad-hoc mesh networks so efforts can be coordinated.
+The world of Ham Radio is also into mesh networking, using OLSR.  See http://hsmm-mesh.org/ for those efforts.    Embed Quote

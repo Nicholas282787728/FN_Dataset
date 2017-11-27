@@ -1,0 +1,2 @@
+★How do random forests and boosted decision trees compare?
+Boosted trees algorithm is a special case of optimization where the usual space (R^n) is replaced by the space of trees. Optimization is a good thing in general, hence we shouldn't be too surprised that BT outperforms RF on average.    Embed Quote

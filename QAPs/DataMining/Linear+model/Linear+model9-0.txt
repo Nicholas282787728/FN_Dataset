@@ -1,0 +1,2 @@
+★Is R^2 a good criterion for selecting a neural network or non-linear models?
+Im not sure about its use in neural networks or non-linear models, but is not often used in linear models because it is prone to overfitting. Typically a penalised likelihood (AIC) or regularisation algorithm (eg LASSO) will be preferred.    Embed Quote

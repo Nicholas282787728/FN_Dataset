@@ -1,0 +1,2 @@
+★What are the best historical analogies to SDN?Like SAN vs. NAS?
+Circuit switching vs packet switching communication networks would be a good analogy. Any discussion between a centralized vs distributed system would be relevant.

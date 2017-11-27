@@ -1,0 +1,2 @@
+What techniques can be used to perform exploratory data analysis on high dimensional data?
+Try t-SNE by Maaten/Hinton. It is available in R. Here is a short tutorial of running t-SNE from R. Visualization of High Dimensional Data using t-SNE with R    Embed Quote 

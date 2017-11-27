@@ -1,0 +1,2 @@
+What is a "point" in calculus? As in "a line is tangent to the curve at one point"?
+In simple terms consistent with the question, if the curve is described by a function y = f(x), then for some x_1, y_1 = f(x_1), and at x = x_1, the line and the curve have the same gradient.  If the curve is y = x^2, then at the point x=0, the line y = 0 is tangent to the curve. This is true for no other point near by. 

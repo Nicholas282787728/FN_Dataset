@@ -1,0 +1,2 @@
+★What are the wireless technologies that can form mesh networks in large indoor environments?Better still, if someone can recommend good wireless modules that can form mesh networks in indoor environments?
+Zigbee protocal, XBee modules used in Arduino builds    Embed Quote

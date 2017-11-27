@@ -1,0 +1,2 @@
+How can I create a suffix tree?
+Ukkonen's suffix tree algorithm in plain English? 

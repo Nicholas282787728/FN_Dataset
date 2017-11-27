@@ -1,0 +1,2 @@
+What are some efficient auto-complete data structures?
+I've been working on this and for prefix based, ranked auto-complete, you can get pretty good speeds. cpp-libface That's a link to a project that I've been working on. If you read the paper, it will be clear how you can use exact auto-complete to implement fuzzy (inexact) auto-complete. Updated 109w ago • View Upvotes

@@ -1,0 +1,2 @@
+Which business intelligence tools have the best user interface?
+Hi there, BIME Analytics, the business intelligence company I work for has released a relatively new version focused on user experience. And user experience of course means a great user interface on multiple devices like you say (responsive design). Being a Cloud BI solution, all you need is a browser. Check out one of our learning videos where we show the user interface in action: Hope this helps!    Embed Quote 

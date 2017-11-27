@@ -1,0 +1,2 @@
+Let f(x)=ax 2 +bx+c  be a quadratic polynomial where a,b,c  are real numbers. How can it be proved that f(f(x))=x  has no real solution?
+Use the inverse function. Taking inverse on both sides F(x)=F-'(x) Inverse of f is the reflection of f(x) in the line y=x so the only point they can meet in is this line so if an x exists such that f(x)=x Then there will be an x where f(f(x))=x N ans will be same as dat of f(f(x))=x. 

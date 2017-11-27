@@ -1,0 +1,2 @@
+★In a supervised learning problem, what are some effective techniques that can deal with highly imbalanced datasets?Suppose you have 5 classes. Class A and B have 200 records each, while C, D and E have 20 each. Is there a straightforward way to train ML classifiers on such a dataset?
+Not sure if it helps, but a simpel way which I have seen is to divide the cost function of misclassification for each class by the number of data points in the respective class. This would make the problem a bit more balanced!    Embed Quote

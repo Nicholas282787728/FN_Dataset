@@ -1,0 +1,2 @@
+Why do we use huffman coding?
+Huffman coding is an algorithm to compress data losslessly. I am sure you would have definitely used at least one compressing software on your PC . Eg winrar, WinZip or 7zip all use Huffman coding. The data is compressed by almost half the original size. 52 Views · 1 Upvote

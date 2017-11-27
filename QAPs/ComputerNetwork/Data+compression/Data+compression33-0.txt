@@ -1,0 +1,2 @@
+★Why do lossless data compression algorithms not work well on video files?
+Non-technical answer - because the compressed version will normally be just a bit longer than the uncompressed version (because it needs a header saying "the following file is not compressed, just stored).  Which is why a program that does, for example, zip compression uses "storage" as one of its algorithms.  If the file can't be made shorter without losing data (which is what Suraj is getting at), it's just stored uncompressed.

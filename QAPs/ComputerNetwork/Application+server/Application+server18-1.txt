@@ -1,0 +1,2 @@
+★GPU Computation: Any potential usage of openCL in web application server?We saw openCL bind with js in web client. So how about web server ? Any potential usage of openCL in server domain ? E.g., Fast Social graph analytics
+There is WebCL. Yes, OpenCL's counterpart CUDA is doing well on servers. There are GRID gpus, Tesla GPUs. AMD joined Exxact Corp to build servers for FirePro cards. It is a good market. And, the industry is seeking towards it. Anything is limited by your imagination. The power of GPU is yet to reach a lot of fields.

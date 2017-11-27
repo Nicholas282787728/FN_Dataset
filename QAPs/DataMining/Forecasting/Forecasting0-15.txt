@@ -1,0 +1,2 @@
+★Where can web startups learn about financial modeling that accounts for the important metrics and costs?
+Be sure to incorporate a CHOOSE or OFFSET function to run several cases (or at least an upside, base, and downside case) dynamically.  This will make your model user-friendly down the road.    Embed Quote

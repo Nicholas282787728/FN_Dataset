@@ -1,0 +1,2 @@
+★What are the most interesting open-source projects in artificial intelligence and machine learning?What projects should people be paying attention to and studying?
+GraphLab (A New Parallel Framework for Machine Learning): http://graphlab.org/ Vowpal Wabbit (Fast Online Learning): http://research.yahoo.com/node/1914 scikits.learn (general-purpose machine learning in Python): http://scikit-learn.sourceforge.... Deep learning toolbox: http://deeplearning.net/software... What are some software libraries for large scale learning?    Embed Quote

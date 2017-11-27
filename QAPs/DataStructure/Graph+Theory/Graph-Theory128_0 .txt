@@ -1,0 +1,1 @@
+How can a blank table graph be created?Not sure I understand the question. If the meaning is to have a graph with no points, then give an equation with no solution, such as x^2 = -1. 18 Views

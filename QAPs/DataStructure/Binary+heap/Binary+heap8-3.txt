@@ -1,0 +1,1 @@
+Why is the running time of building a binary heap O(n) and not O(n * log n)?

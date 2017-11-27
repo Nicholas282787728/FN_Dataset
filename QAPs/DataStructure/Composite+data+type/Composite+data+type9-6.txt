@@ -1,0 +1,2 @@
+Is there a tendency of functional programming languages becoming a major force in programming technologies?1. C# -> Functional elements added 2. Python -> Functional elements 3. JS 4. C++
+I think so, OOP sounds great on paper and in theory, but functional is much more efficient and flexible in practice - IMO. I find myself spending increasingly more time in JS and I absolutely adore Python. 

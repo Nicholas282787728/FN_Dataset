@@ -1,0 +1,2 @@
+How many data types are there in Java?
+Predefined: Integer type- byte, short, int , long Decimal type- float, double Boolean type Character type- char User defined data types- arrays ( 1-D, 2-D , polydimensional), strings. 

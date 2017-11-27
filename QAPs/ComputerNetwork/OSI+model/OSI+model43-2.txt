@@ -1,0 +1,2 @@
+★Why is  the OSI protocol  the most studied and most  accepted network structure and yet it is rarely really implemented and used?OSI protocols
+If we look a bit deep , we will see that OSI and TCP/IP have the same set layers. Layer 5-7 have been clubbed to a single layer ,i.e. Application Layer in TCP/IP. Thus we are not loosing any amount of functionality in either case.    Embed Quote

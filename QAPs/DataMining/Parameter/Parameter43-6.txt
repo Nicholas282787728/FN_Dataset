@@ -1,0 +1,14 @@
+★What is the difference between a "parameter" and an "argument" in C programming language?I have just started learning C and I came across these terms .
+1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+ int add(int a,int b) { int sum=0; sum=a+b; printf("sum is :%d",sum); retunrn 0; } void main() { add(2,3); getch(); } So here (2,3) are the two arguments for add method & (int a,int b) are the two parameters .. hope you get it.    Embed Quote

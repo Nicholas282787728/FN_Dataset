@@ -1,0 +1,2 @@
+★What are some hot startups working with the semantic web?I'm looking to see who's innovating and providing consumer products in the Semantic Web space.
+I just saw a demo by the Vancouver-based Topicmarks and was intrigued by their semantic interpolation engine applied to text -- delivering summaries, key words and "facts."  For more, see some of their FAQs: http://bit.ly/eujuDR    Embed Quote

@@ -1,0 +1,2 @@
+★Is one standard deviation always 34.1% regardless of the data set?Is 34.1% derived, defined, or an observation coming out of a normal distribution? ...Does 1sigma always equal 34% of the population?
+This is not true for all distributions. You can check for yourself by taking various distributions. But it is not a bad guess since Central limit theorem states that for many distributions mean of large number of independent random variables is approximately normal.    Embed Quote

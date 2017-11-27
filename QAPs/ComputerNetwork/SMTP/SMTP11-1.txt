@@ -1,0 +1,2 @@
+★SMTP: Is there a tool to 'properly' check whether an email address will bounce?
+Sure. Send an email to the address and it will bounce or be delivered to the user or quarantine or whatever. I think you need to be much more specific. I find that telnet is a really useful tool for checking smtp availability but it had limited use for bounce testing other than address validation. Is there a specific use case that prevents you sending email to test? Also, are you only wanting to validate the address or are you trying to test the av and content examination systems?    Embed Quote

@@ -1,0 +1,1 @@
+As a beginner programmer, should I start learning algorithms and data structures?Yes you should. Instead of just reading books I would suggest you to try solving algorithmic challenges on various competitive programming sites along with it. 52 Views

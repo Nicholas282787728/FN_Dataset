@@ -1,0 +1,2 @@
+★Are data warehousing and business intelligence interconnected? What is the scope of these two fields in the future?And is big data analytics also connected with these? Can we switch to analytics field if we start our career in data warehousing?
+If you are already into report generation process of DWH.then You can easily work on Big data Analytics.talking about opportunities , If you are planning career on hadoop like technologies You need good java skills.    Embed Quote

@@ -1,0 +1,2 @@
+★Video Games: Are there any video games that use genetic algorithms?
+Spore and creature uses neural nets. Also one of the racing games, I am not sure if its NFS or Forza uses genetic algorithms, where the AI controlled cars evolve depending on how you play.    Embed Quote

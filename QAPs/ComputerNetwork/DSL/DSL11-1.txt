@@ -1,0 +1,2 @@
+★What is the difference between AT&T DSL and U-verse DSL?
+From a consumer standpoint, the only difference you will notice is that DSL is not as fast as Uverse. However, the fastest DSL is about as fast as the slowest Uverse. The more technical explanation is that Uverse is a different signal, that allows higher speeds. However, the trade-off is that it is a weaker signal, and is more prone to service problems if there is damage/moisture in the phone line.

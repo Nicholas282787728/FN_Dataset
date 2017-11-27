@@ -1,0 +1,2 @@
+What is the way to develop careers in game development?
+It sounds obvious, but the best thing you can do is actually make games. Start making small games and get them out there. Try something like Ludum Dare. With every game you make, your skills and creativity will grow. Your vision and reach can grow too. And when you go for interviews you will have something useful to show, rather than just claiming to be able to program. 

@@ -1,0 +1,2 @@
+What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
+This covered but with an example: "Pigeonhole principle" states, paraphrasing here: "if there are more pigeons than there are pigeon holes, some hole has to be shared" No duh!? Now solve this question: what is the probability of 2 person having exact same number of hair in the city of New York? I commonly use this as an opener for software interview question.  More than 70% candidates gets confused. 

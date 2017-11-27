@@ -1,0 +1,2 @@
+★How does my mobile phone network operator know that I am using my data plan for tethering?Are they analysing packets or ports to identify tethering, so that they can block it?
+This varies between operators, but typically the traffic will be marked with a different APN if you use the native or the provided tethering feature. Occasionally, traffic might use that APN if you have both Wi-Fi and 3G interfaces up, capturing any Wi-Fi tethering. (FYI: my company makes an app that can be used for mobile Internet sharing.)    Embed Quote

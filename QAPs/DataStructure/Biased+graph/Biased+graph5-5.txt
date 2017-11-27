@@ -1,0 +1,2 @@
+Why does Windows still use NTFS? Why not ext4, the file system for Linux, since it actively prevents disk fragmentation?
+Their new next generation file system the Resilient File System (ReFS) is not yet as complete as NTFS in terms of features. Also NTFS in practice support longer file names than ReFS, although in theory they support same length. So ReFS is not yet mature as the primary file system for Windows NT. Oh yes, please compare a file system to another within its native OS. 1.6k Views · 3 Upvotes

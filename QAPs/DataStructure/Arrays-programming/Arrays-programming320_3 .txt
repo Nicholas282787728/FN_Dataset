@@ -1,0 +1,1 @@
+How do you create an array in PHP?with foreach <?php $numbers = array(1,2,3,4); foreach($numbers as $value) { echo ("value is $value <br />"); } ?> ////////////// <?php $tens = array(10,20,30,40); echo $tens[3]; ?> 10 Views

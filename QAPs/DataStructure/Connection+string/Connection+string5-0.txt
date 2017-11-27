@@ -1,0 +1,2 @@
+C# (programming language): What is the correct way to set ANSI_NULLS to OFF in a connection string?
+See this StackExchange question: How to add ansi null and ansi warning in connection string It can't be set in the connection string apparently, but you can set it after. with "SET ANSI_NULLS ON;" 

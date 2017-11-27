@@ -1,0 +1,2 @@
+In which cases should I prefer a linked list over any other data structure?
+When you can't know beforehand how many items you will store (otherwise, use an array) When the collection needs to be sorted, is fairly small, and you can justify the slower access time to the collection items (otherwise, use a B-tree or something like it, or a hash table with linked lists, or if you're not bothered with sorting, just use an over-sized array) 

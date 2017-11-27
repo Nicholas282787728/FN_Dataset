@@ -1,0 +1,2 @@
+★What is the most popular commercial ETL and data warehousing tool?
+A good etl developer... The answer is a little cheeky of course but also true in a certain light. So many cartoon to code tools fail for the complex etl work with demanding service level agrements. The solution is usually to hire a real developer to leverage native tools to the platform. Solving the hardest problems makes them very popular.    Embed Quote

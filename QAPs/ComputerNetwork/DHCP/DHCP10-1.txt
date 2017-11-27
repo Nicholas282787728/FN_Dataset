@@ -1,0 +1,2 @@
+★Is it a problem to have both my cable modem and my router configured to use DHCP?Or should the cable modem be configured to be a bridge?  What's the impact of either setting?
+Probably not. If your wiring runs broadband to cable modem. Cable modem to broadband router. Router to your wired and wireless network, then no. It's not a problem. The only issue you might run into are protocols that are complex and need special handling like VoIP (NOT Skype) and some gaming protocols.

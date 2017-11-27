@@ -1,0 +1,2 @@
+★What are some ways I could allow users some command line interfacing with my website?I was thinking of actually interacting via a terminal, not a browser at all. Maybe allowing file transfer, data piping, etc.
+One way you can do this is by making a JavaScript API, where you build out a bunch of JavaScript functions to accomplish various tasks, but you don't actually necessarily implement them into the HTML. The users can then use the Console of the webbrowser (press F12 in chrome and IE) to run the javascript commands you've implemented.

@@ -1,0 +1,1 @@
+How would you explain the various sorting algorithms to a six year old?Just show her these videos. Hah. This gives them the general concept, and forget a while the technical details :) Insertion Sort Bubble Sort Selection Sort Shell Sort Merge Sort Quick Sort Thanks for AlgoRythmics - YouTube. :) 

@@ -1,0 +1,2 @@
+★What are the drawbacks to distributing large files via anonymous FTP?I have a lot of large video files to share. People suggest various file hosting sites, but why wouldn't I just share the files via Anonymous FTP (read only for clients)?
+There's no real reason, except that for most people, these days "Internet" is synonymous with "World Wide Web" (yes, yes, and email too). This is why Dropbox (rsync by another name) is considered impressive.

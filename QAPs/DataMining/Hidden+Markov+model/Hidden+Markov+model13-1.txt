@@ -1,0 +1,2 @@
+★Are there any good hidden Markov model implementations in Java?
+Wrap HTK with JNI or JNA.    Embed Quote

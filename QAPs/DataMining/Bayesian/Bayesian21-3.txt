@@ -1,0 +1,2 @@
+Who are some famous Bayesian statisticians active today?
+Xiao-li Meng at Harvard, James Berger at Duke,Andrew Gelman Columbia. Actually there are too much of them. You just need visit the websites of statistics staff in an university. If one do research in MCMC, bayesian statistics, or neural networks,or other issues apply bayesian methods, then he or she is bayesian.    Embed Quote 

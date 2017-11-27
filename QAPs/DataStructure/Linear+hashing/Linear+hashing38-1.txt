@@ -1,0 +1,2 @@
+Why is the look-up time in std::map [math]O(logn)[/math]?
+Yes look up in std::map is O(log n) since it uses some highly balanced binary search trees like red black trees if you use primitive data types.if std::string is used as a key then it may take O(m log n) where m is the length of the string used and n is the number of elements in the container. 

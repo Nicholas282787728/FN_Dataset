@@ -1,0 +1,2 @@
+★How does Quora use machine learning?
+Quora appears to apply both ML and social forces to draw out the relevancy of it's information content.  User's can spend credits to promote topic into the line of human scrutiny--where it becomes more clear on the ML side what the content is referencing. Human's really are the best teachers, but in this day of age machines can really learn.    Embed Quote

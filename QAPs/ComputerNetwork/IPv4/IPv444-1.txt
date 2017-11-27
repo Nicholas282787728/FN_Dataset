@@ -1,0 +1,2 @@
+★What does "IPv4 forwarding is disabled" mean, and how do you fix it?
+In Linux, run the following command to check whether IP forwarding is enabled on your system cat /proc/net/ipv4/ip_forward 0 implies IP forwarding is disabled 1 implies IP forwarding is enabled To enable IP forwarding in your machine, echo 1 > /proc/sys/net/ipv4/ip_forward I assume that yout linux bux has atleast two network interfaces without which you cannot forward packets from one network to another.

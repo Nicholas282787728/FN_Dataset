@@ -1,0 +1,2 @@
+★What is the difference between a PHP and HTML Web page?
+PHP can interact with the server side, whereas HTML cannot interact with the server without PHP. Simply put, HTML is used for structuring a website.    Embed Quote

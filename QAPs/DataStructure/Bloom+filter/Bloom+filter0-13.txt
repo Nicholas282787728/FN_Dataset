@@ -1,0 +1,2 @@
+What are the best applications of Bloom filters?
+In order to search the specific keyword over the encrypted data bloom filters are used to check for its presence in a file.If keyword exists then we can return the particular file. 

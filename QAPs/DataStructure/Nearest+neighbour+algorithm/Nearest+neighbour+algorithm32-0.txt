@@ -1,0 +1,2 @@
+What is the best machine learning algorithm for regression?
+There isn't a absolute best. Part of your job is to figure out what the best algorithm is for the regression problem you're trying to model. Some algorithms tend to work better out of the box. Like Gradient Boosting. But that doesn't mean the cannot be outperformed by other (perhaps simpler) algorithms if you engineered the right features, done some hyperparameter search, variable selection,... I usually try at least 4 or 5 algorithms. 

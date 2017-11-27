@@ -1,0 +1,2 @@
+★What is the difference between statistics and machine learning?
+Machine learning is statistics renamed by computer scientists. It's what happens when you call estimation learning, models machines, and variables features.    Embed Quote

@@ -1,0 +1,2 @@
+★What else is a finite state machine used for except language parsing?
+Numerous device drivers embed a state machine in their code to emulate the hardware. Remembering the state of the hardware is sometimes necessary to get it to behave properly, as certain operations must be done in very particular sequences.

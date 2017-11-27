@@ -1,0 +1,2 @@
+★Would trying to hack through Kali Linux inside a virtual machine be equivalent to hacking a system with Kali Linux installed?
+Since the network settings are correct, I believe it can work. There are many tutorials on the Kali, in which instructors use virtual machines emulating the Kali.

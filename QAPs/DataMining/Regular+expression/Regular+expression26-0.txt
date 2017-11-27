@@ -1,0 +1,2 @@
+★How common is it to be asked to implement Regular Expression matching in interview?
+I've never been asked to implement regex matching, although I have used regex to answer a few interview questions. However I think the interviewer was fishing for compilers experience with this question. All regular languages in Chomsky's hierarchy can be represented as a regular expressions, and in the course of a compiler's class you'll typically implement a lexer using a finite state automaton. Whether or not it's a fair question depends on the company and/or team.    Embed Quote

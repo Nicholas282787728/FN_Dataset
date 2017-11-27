@@ -1,0 +1,2 @@
+★Which are the phones supporting Video Calling over the Cellular Network without activating a data connection?
+What you are looking for is called  (3G-324M) native video calling. Many Micromax and Samsung android phones provide the feature. My phone is A240 model and it has the feature. I think this kind of feature is not so popular in many countries and most people use apps like hangouts or skype for video calling. Therefore android doesn't provide that.

@@ -1,0 +1,2 @@
+What are some programs every programmer should make at least once?
+Every programmer?  Well I'd go with Hello world A program to print all the numbers from 1 to 100, except the ones that are divisible by 3. A program that requires you to use arrays A program that requires you to write a function I think the other suggestions are quite advanced and you can write some substantial programs without knowing how to write an IM client or a shell.  Especially if you're not a Silicon Valley software engineer and simply use programming to achieve goals in other industries. 

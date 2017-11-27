@@ -1,0 +1,2 @@
+★What is the difference between symbol rate and bit rate?
+Symbols can be used to encode multiple bits.  Bits are a fundamental measurement of information.  Symbols are what is transmitted. For example, in 2PSK there are 2 possible different symbols, so each one is 1 bit worth of information and the bit rate equals the symbol rate.  But in 64QAM there are 64 possible symbols, so each one is worth 6 bits .  here the bit rate is 6x the symbol rate.

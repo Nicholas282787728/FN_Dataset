@@ -1,0 +1,2 @@
+★What is optical ethernet?
+It's Ethernet over Optical Fiber. There is a continuing series of standards for this: 10BASE-FL 100base-SX 1000base-SX

@@ -1,0 +1,2 @@
+★If someone has a domain name, but has not trademarked it, can I trademark that domain name and then seize the domain name?
+You would need to file a UDRP , which most probably will fail , because the domain owner did NOT register the domain in bad faith (even if they don't use it for commercial purposes - perhaps they keep it for later use or as an asset). What you would be doing is called "reverse domain name hijacking" and it has a financial cost as well.

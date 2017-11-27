@@ -1,0 +1,2 @@
+★What are some good machine learning jokes?
+What is the difference between statistics, machine learning, AI and data mining? If there are up to 3 variables, it is statistics. If the problem is NP-complete, it is machine learning. If the problem is PSPACE- complete, it is AI. If you don't know what is PSPACE-complete, it is data mining.    Embed Quote

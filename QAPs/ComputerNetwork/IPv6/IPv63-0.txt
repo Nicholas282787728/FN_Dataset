@@ -1,0 +1,2 @@
+★Does Amazon Web Services support IPv6?Can I give an EC2 instance a public IPv6 address? Can I access S3 over IPv6? If not, when?
+As of November 2014 they don't support IPv6 on VPCs (which they are pushing all EC2 users towards). This holds for both ELBs and EC2 nodes with VPCs[1]. Jeff Bar, an AWS employee, was asked yesterday and said: 'nothing to report at present, but we know people need it'[2]. [1] AWS | Amazon Virtual Private Cloud (VPC) | FAQs [2] Jeff Barr on Twitter    Embed Quote

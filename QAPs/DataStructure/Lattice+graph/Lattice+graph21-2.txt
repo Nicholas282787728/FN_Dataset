@@ -1,0 +1,2 @@
+What are the essential R packages?
+A list of R packages, by popularity has good correlation to essentialities of these packages. I am just letting data speak it out. 

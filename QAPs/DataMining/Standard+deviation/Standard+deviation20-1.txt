@@ -1,0 +1,2 @@
+★How do you calculate the standard deviation and what can it tell us?
+It is very helpful in determining probabilities in samples.  For example, in a normal distribution 68% of observations are within 1 standard deviation, 95% within two standard deviations, and 99.7% within 3 standard deviations.  There are many other types of distributions as well.  The standard deviation also helps us figure out things such as chance error and standard error.    Embed Quote

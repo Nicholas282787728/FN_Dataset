@@ -1,0 +1,2 @@
+What are the components in social network analysis?
+The components of any network, including a social network, are the various disconnected parts. There is no path that can get you from a node in one component to a node in another component. If any two nodes of a network have at least one path connecting them, the entire network is a single component. 

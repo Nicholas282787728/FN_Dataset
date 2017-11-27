@@ -1,0 +1,2 @@
+★What is the best contact form with SMTP support Wordpress plugin?
+I use Contact Form 7 exclusively. (It is the most-updated plugin of any I have used.) http://wordpress.org/extend/plug... ...but does not natively enable SMTP. So you will also have to add the WP Mail SMTP plugin. (I have successfully used them together in the past.) http://wordpress.org/extend/plug...    Embed Quote

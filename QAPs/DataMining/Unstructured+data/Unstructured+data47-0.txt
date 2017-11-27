@@ -1,0 +1,2 @@
+★What is the difference between Apache Mahout and Weka, keeping in consideration that I have to do a project in unstructured data processing?Which will be more comfortable?
+Hello all, this question has been answered here - http://forum.cloudthat.in/apache...    Embed Quote

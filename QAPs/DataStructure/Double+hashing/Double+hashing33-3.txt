@@ -1,0 +1,2 @@
+Which are the popular algorithms asked in tech interviews?
+I would suggest you to visit the website http://codersmaze.com which consists of many interview questions asked by popular companies and popular algorithms that one must know. Hope this helps! 

@@ -1,0 +1,2 @@
+How would you implement a hash table in C from scratch?
+This is best explained... via Google search: Hash tables are also called hash maps by the way.  Searching for "hashmap c", this Stack Overflow Q&A came up, beginning with the question: "How to go about creating a Hashmap in C from scratch ?".  The chosen answer starts with a great overview: Implementing a HashMap Here's another HashMap in C tutorial. ... (more)

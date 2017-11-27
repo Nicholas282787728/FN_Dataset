@@ -1,0 +1,2 @@
+What is Evernote missing?
+PDF annotation. The "solution" at present is to markup a PDF using a 3rd-party tool and then import into Evernote; if you want to annotate further, you have to export, annotate, reimport...ugh. 

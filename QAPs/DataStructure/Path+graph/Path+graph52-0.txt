@@ -1,0 +1,2 @@
+How can one utilize the Floyd-Warshall algorithm to enumerate all simple paths in an undirected graph?
+The standard Floyd-Warshall algorithm generalizes the data in an adjacency matrix to determine closure.  If you replace or supplement the weight stored in each matrix cell with a list, you can add each relevant vertex to the list as you add the weight of the edge between the vertices.  The resulting matrix should have a list for each shortest path in the graph. 

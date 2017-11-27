@@ -1,0 +1,2 @@
+What is an algorithm to find a longest path in a unweighted directed acyclic graph?
+Basic idea is you find all-pairs shortest paths, then find the pair with max path weight. This is your graph diameter. Three algorithms for APSP come to mind: 1. Johnson's algorithm 2. Convert the graph to a distance matrix and use Min-plus semiring, see Min-plus matrix multiplication 3. Floyd–Warshall algorithm 

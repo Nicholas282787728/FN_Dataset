@@ -1,0 +1,2 @@
+★How do I join two home networks with different IP schemas?I have one router with a 192.168.5.x set up and another router (connected to the first) with a 192.168.10.xx schema.  How do I network these computers now?  Both routers are running DD WRT.  Thanks!
+Yes. All you need to do is subnetting (as per requirement) and provide dhcp pool with a name and that sunet. IP adds belonging to that pool will be used for dynamic allocation and rest can be used as static ip adds.

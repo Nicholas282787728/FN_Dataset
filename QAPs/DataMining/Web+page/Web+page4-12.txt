@@ -1,0 +1,2 @@
+★What is the difference between a PHP and HTML Web page?
+PHP provides dynamic web pages and in HTML you can develop static website. This is the main difference between HTML and PHP.    Embed Quote

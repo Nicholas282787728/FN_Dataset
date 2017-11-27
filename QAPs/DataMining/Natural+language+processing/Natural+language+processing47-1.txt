@@ -1,0 +1,2 @@
+★What are the important algorithms used in Natural Language Processing?
+To name a few: LSI LDA And some of the Machine learning techniques like Nearest Neighbor, Naive bayes    Embed Quote

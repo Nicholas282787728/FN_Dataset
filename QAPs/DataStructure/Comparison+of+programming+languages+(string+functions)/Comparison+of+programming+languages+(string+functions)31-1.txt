@@ -1,0 +1,2 @@
+What are the strengths and weaknesses of C++, Java, and Python?
+Use C++ when speed is what you're after. Use Python for quick calculations. I have absolutely no idea when you should use Java. 

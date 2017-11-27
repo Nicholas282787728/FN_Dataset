@@ -1,0 +1,2 @@
+What software uses artificial intelligence?
+I second the mention of Siri and the like, and closely related to that, there are now many commercial websites where the "help" function is a descendant of the infamous MS Office Paperclip, and of course Wolfram Alpha. To an extent, any online shop that offers suggestions based on previous purchases and browsing is using techniques from AI.    Embed Quote 

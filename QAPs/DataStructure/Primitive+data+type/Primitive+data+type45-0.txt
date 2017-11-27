@@ -1,0 +1,2 @@
+Which data type is used to store values as large as 100! In C?
+This is what you need: The GNU MP Bignum Library 

@@ -1,0 +1,2 @@
+Which business intelligence tools have the best user interface?
+Oracle's Business Intelligence Suite (Oracle Enterprise Performance Management and Business Intelligence) 1. Out of the applications are part of Oracle BI Applications. 2. And the OBI tool also allows customizations on top of these applications or build new BI solutions from scratch.    Embed Quote 

@@ -1,0 +1,30 @@
+★TCP/IP: What is the right way to transfer data? Compress the encrypted data or encrypt the compressed data?Which is a better?
+If the data you are transporting is largely textual in nature, compress first.  If the data is random (e.g. images), then simply do not compress.  There is no situation where you should compress after encrypting. To understand why, first consider that compression is effectively the process of finding patterns in your data, and representing them by shorthand.  Also, note that (most) ciphers yield effectively random data.  The chance of finding substantial patterns is quite low. Not convinced?  Let's try with some data.  Here's a quick ruby script to play around.  I'm assuming AES is the preferred cipher, and zlib for compression:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+ require 'open-uri' require 'openssl' require 'zlib' def encrypt(data)   cipher = OpenSSL::Cipher::Cipher.new('aes-256-cbc')   cipher.encrypt   cipher.random_key   cipher.random_iv   result = cipher.update data   result + cipher.final end def compare(data)   compressed_first = encrypt(Zlib::Deflate.deflate(data))   encrypted_first  = Zlib::Deflate.deflate(encrypt(data))   # compression first %, encryption first %   [compressed_first.size.to_f / data.size.to_f, encrypted_first.size.to_f / data.size.to_f] end def analyze(results)   c_first_sum, s_first_sum = results.reduce([0.0, 0.0]) { |m,p| [m[0] + p[0], m[1] + p[1]] }   [c_first_sum / results.size, s_first_sum / results.size] end First, easily compressible textual data (random wikipedia pages): 1
+2
+ > analyze 100.times.map { compare(open('http://en.wikipedia.org/wiki/Special:Random').read) } [0.2731796088382172, 1.0026829439942453] In essence, by compressing first, the resultant payload is 27% the size of the original source for textual/web data.  However, when encrypting first, the payload is slightly larger than the input data. Note that when you go to the other extreme of mostly random data (such as an image, or encrypted data), compression ends up increasing the size of the output.  This is what we can see from the second value.

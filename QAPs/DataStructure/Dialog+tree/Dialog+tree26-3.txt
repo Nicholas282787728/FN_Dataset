@@ -1,0 +1,2 @@
+How can I apply a custom style sheet to a 3rd-party site after making changes using Chrome's Inspect element feature?
+You can copy any changes you make in the Dev Tools to an extension like Minimalist: Minimalist for Everything [Beta] Just set it up to use it for the site reader.google.com. 

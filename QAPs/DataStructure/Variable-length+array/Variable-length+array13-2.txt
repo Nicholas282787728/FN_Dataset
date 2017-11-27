@@ -1,0 +1,2 @@
+How can I make an array with variable size in the C language?
+What you need is a dynamic array. One that you can allocate an initial size, then use realloc to increase the size of it by some factor when appropriate. I.e., Int* marks = malloc(sizeof(int) * size); Use this function to grow it: Int* temp = realloc(marks, new_bytes); 

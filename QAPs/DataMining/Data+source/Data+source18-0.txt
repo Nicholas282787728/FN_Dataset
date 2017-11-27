@@ -1,0 +1,2 @@
+Are there any great data sources to play with while learning Machine Learning?
+MNIST database is a canonical one.    Embed Quote 

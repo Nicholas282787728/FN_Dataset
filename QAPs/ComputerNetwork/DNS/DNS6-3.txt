@@ -1,0 +1,2 @@
+★What is the best dynamic DNS service provider?I've used dyndns.com and no-ip.org in the past, but I'm curious if there's anything better.
+If you register your domain in Namecheap, then Namecheap is a good choice.

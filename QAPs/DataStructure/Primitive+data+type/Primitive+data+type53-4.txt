@@ -1,0 +1,2 @@
+Is Java a pure object-oriented programming language?
+No Java is 99% Object Oriented Programming and Remaining 1% is Used by Primitive data types ,Arithmetic,Logical,Bit wise operator . Primitive data types : boolean, char, short, int, long, float, double Arithmetic & Logical & bit wise: + or - or  * or  /or  && or || So by that reason we can say java is 99% Oops based and reaming 1% by the primitive data types logical or arithmetic etc. Thanks Anand Dwivedi 

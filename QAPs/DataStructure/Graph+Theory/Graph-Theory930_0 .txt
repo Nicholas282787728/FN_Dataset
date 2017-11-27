@@ -1,0 +1,1 @@
+Given a complete graph, is there a simple way to compute a min-cost perfect matching using just Edmond's algorithm and a simple transformation?In the most definitions of simple, the answer is no. Use Hungarian algorithm. 123 Views

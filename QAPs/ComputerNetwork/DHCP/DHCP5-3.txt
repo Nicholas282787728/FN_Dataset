@@ -1,0 +1,2 @@
+★Should I setup my home router to use DHCP or static IP?
+I would use DHCP, because it is easier to configure the clients.  If you need a client to use a static IP for some reason, then you can just tell that one client to not use DHCP.

@@ -1,0 +1,1 @@
+What is best way to master sorting algorithms?just practice them as much as u can.Learn how the algorithm works and about their correctness and run time analysis. 

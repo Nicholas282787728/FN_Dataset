@@ -1,0 +1,2 @@
+How do I read a phylogenetic tree?
+You can't read evolutionary distance off this chart. The numbers on the horizontal axis are "Million years ago", so the most you can say are things like: Our most recent common ancestor with the chimps lived 6Mya The MRCA of platypuses and opossum lived 180Mya The MRCA of platypuses and humans also lived 180Mya I don't exactly know what you mean by "evolutionary distance" but on this chart there are only ages which has surprisingly poor correlation with genes. 1k Views · 1 Upvote

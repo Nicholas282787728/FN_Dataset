@@ -1,0 +1,2 @@
+★What's the difference between cellular networks for phone calls and their data networks for the Internet, and why don't we just use data for all phone calls?
+Most carriers starting with LTE are using only IP. Prior to that it was not the same as data. It is switch routed.

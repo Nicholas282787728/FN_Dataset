@@ -1,0 +1,2 @@
+Could someone explain the recursion solution to the "Nice Binary Tree" problem on SPOJ (SPOJ-NICEBTRE)?
+int rec() {     if(input[i] == 'l') {         return 0;     } else {         i++;         int l = rec();         i++;         int r = rec();         return max(l,r) + 1;     } } use a global i initally with value 0. 

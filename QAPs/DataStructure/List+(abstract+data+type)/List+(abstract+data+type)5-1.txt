@@ -1,0 +1,2 @@
+How do I allow the user to define the number of elements in a Python list?
+Python has dynamic lists, which can have any number of items of any type: >>> x = []>>> x.append(1)>>> x.append('two')>>> x.append(True)>>> print x[1, 'two', True] If you wish to restrict the number of items to not exceed a certain limit you can have a look at the collections module which most likely has a type that lets you do it. If not, you'd need to create a wrapper class which does the length enforcing for you (or subclass the list type if you want the API to be the same). 

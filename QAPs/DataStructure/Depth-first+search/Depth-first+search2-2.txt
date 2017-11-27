@@ -1,0 +1,2 @@
+How does depth-first search (DFS) work?
+Here is a great webpage to reference regarding the subject. An example is even given: https://en.wikipedia.org/wiki/De... 173 Views

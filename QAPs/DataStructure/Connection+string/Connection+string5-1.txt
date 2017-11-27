@@ -1,0 +1,1 @@
+C# (programming language): What is the correct way to set ANSI_NULLS to OFF in a connection string?

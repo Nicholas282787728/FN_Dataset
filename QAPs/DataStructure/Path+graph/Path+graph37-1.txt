@@ -1,0 +1,2 @@
+Which algorithms can be used to determine the path between any pair of nodes in a graph, if (a) path(s) between them exists?
+Seems like you are interested in "s t connectivity"  (wikipedia link: st-connectivity). 

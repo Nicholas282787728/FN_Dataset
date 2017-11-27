@@ -1,0 +1,2 @@
+How would the CLRS authors fare in TopCoder against people like Gennady Korotkevich (competitive programmer)?
+If you put a sprinter and a marathoner in a sprint, the sprinter will win. If you put a sprinter and a marathoner in a marathon, the marathoner will win. They both train by running regularly. But it's a different kind of running that they train for. 

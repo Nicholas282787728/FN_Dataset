@@ -1,0 +1,2 @@
+★How can I plot a neural network in MATLAB?
+Check this free online course about learning modelling and simulation using MATLAB Modelling and Simulation using MATLAB®    Embed Quote

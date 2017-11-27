@@ -1,0 +1,2 @@
+★Which of these two linear models is better, R square = 0.99 or R square = 0.7?In case you think the data is insufficient, what other data point do you need to find the better of the two models?
+High R^2 may indicate overfitting, that is, too many parameters or not enough data points.    Embed Quote

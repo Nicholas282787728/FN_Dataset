@@ -1,0 +1,2 @@
+★What is the difference between switching and routing?
+switch switches within the subnet in a network and router routes between the network..    Embed Quote

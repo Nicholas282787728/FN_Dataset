@@ -1,0 +1,2 @@
+What are the most ingenious theorems/deductions in graph theory?
+I would like to add "The probabilistic method" by Paul Erdos to this list. The probabilistic method is a non-constructive method used for showing the existence of particular structures without necessarily giving the structure itself. The method is unique in its own right as prior to introduction of this, the only available techniques were by exclusive constructions and exact counting arguments. The introduction of probabilties was really a master stroke. Probabilistic method Updated 21 Jan 2014 • View Upvotes

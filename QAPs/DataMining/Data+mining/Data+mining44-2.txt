@@ -1,0 +1,2 @@
+What are some good project ideas related to data mining?
+One good project would be to get a dataset from UC Irvine site. And apply machine learning algorithms to make meaning out of them.    Embed Quote 

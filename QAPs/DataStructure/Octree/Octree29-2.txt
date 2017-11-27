@@ -1,0 +1,2 @@
+Is this so called "Unlimited Detail Real-Time Rendering Technology" theoretically possible?
+Comments from some well-known developers who deliver 3D games for a living tend to agree that the SVO techniques are well known but simply not optimal for current apps and hardware. http://notch.tumblr.com/post/838...  https://twitter.com/ID_AA_Carmac... "Re Euclideon, no chance of a game on current gen systems, but maybe several years from now.  Production issues will be challenging." 

@@ -1,0 +1,2 @@
+What is the purpose of the neighbor pointers in a B+Tree? When are they useful?
+since the chunk of records with search key between the values of these two neighbors must be available from both sides. It does not make sense to store the same stuff twice and thus the pointer. I think this is pretty clear but quora apparently disagrees, so I will bullshit some random stuff down here just ignore the following or read it if you have nothing to do other than browsing through this fantastic answer like me. 87 Views

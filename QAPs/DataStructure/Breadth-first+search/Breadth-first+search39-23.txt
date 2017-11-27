@@ -1,0 +1,2 @@
+How can one be well prepared to answer data structure/algorithm questions in interviews?
+Originally Answered: What is the best way to prepare data structure for an interview?thanx for A2A Ujjwal. Depending on the amount of time you have to prepare, Watch mitcourseware lecture 6.046J(Fall 2005) OR go through the CLRS. No amount of theory crunching will make you ready for interview, therefore: Solve as much as you can from Geeksforgeeks, Cracking the coding interview(Laakman) and Compete in hackerrank, spoj, topcoder, codechef. 

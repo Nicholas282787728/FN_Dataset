@@ -1,0 +1,2 @@
+★Are there existing algorithms for Resume Parsing?I want to build a resume parser. Is there any algorithm which helps me to extract contents of resume?.
+Try http://www.rchilli.com  you can see algorithms do exists. And as Elangkumaran suggested, you need to understand semantic analaysis and data extraction. Vinay Disclaimer:  I am associated with RChilli    Embed Quote

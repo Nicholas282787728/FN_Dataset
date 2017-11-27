@@ -1,0 +1,2 @@
+How is malloc implemented?
+Doug Lea's malloc (dlmalloc): http://g.oswego.edu/dl/html/mall... -- with a great page explaining the various algorithms issued Here's another one, by Jason Evans (jemalloc):  http://www.canonware.com/jemalloc/ 

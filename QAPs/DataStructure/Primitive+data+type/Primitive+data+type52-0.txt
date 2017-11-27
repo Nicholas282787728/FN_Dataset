@@ -1,0 +1,2 @@
+What is the way to master regular expressions in Java?
+Java is a strongly typed language so there must be a data type  associated with every variable declared. Mainly there are eight  primitive data types which are used in the Master regular expression. 

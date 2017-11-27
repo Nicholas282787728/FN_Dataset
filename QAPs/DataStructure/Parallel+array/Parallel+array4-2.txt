@@ -1,0 +1,2 @@
+What is meant by an array processor and how is it different to other types of parallel processors?
+array processors generally execute one instruction at a time but on array of data rather than on single data elements 

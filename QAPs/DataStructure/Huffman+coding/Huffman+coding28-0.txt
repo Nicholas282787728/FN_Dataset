@@ -1,0 +1,2 @@
+What are the real world applications of Huffman Coding?
+Data Compression. It creates a tree and has binary set values of 0 and 1 and in the end a sequence is generated using which u can search and reach that part of the tree. 102 Views · 1 Upvote

@@ -1,0 +1,2 @@
+★What is the best way to learn network security concepts?
+Go use tools, monitor network traffic, try to understand everything. Pick up a few books to go along with it. Focus on general networking and specifics like IDS/IPS.    Embed Quote

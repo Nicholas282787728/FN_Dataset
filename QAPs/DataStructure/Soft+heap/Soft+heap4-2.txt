@@ -1,0 +1,2 @@
+What is the fastest way to find the median of an unsorted array of n integers?
+To be complementary to the answers already posted, I'd like to add that there is another approach using soft heaps described here. 

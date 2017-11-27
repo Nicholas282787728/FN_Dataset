@@ -1,0 +1,2 @@
+★What is Apache and Tomcat? If Apache is Web Server, can we call Tomcat Application Server?
+Tomcat is a servlet and jsp container but yes, fell free to call it Application Server although it does not support features like EJB's... there will always be someone pointy enough to tell you it is not.

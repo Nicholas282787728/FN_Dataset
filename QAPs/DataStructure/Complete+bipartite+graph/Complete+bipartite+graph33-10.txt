@@ -1,0 +1,1 @@
+Why is divisibility by two (even/odd) considered an important quality for numbers? Why not divisibility by 3? Or 17?

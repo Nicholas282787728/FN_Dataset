@@ -1,0 +1,1 @@
+Count the number of minimal spanning trees for a given graph. 

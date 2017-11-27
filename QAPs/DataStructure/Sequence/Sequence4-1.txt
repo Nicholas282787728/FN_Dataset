@@ -1,0 +1,2 @@
+Number Sequence: For a sequence 128, 64, 32, .. what is the value of the 12th term of this sequence?
+The nth term of this series will be: [math]128/2^{n-1}[/math] So for the 12th term substitute n =12 and get the answer This will turn out to be: [math]1/2^{4}[/math] => [math]1/16[/math] 

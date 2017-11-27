@@ -1,0 +1,1 @@
+Is it possible (now, Nov 2017) to implement beam search for an LSTM model in Keras, or is this still very difficult?

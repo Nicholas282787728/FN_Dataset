@@ -1,0 +1,2 @@
+★What programming languages are suitable for natural language processing?
+Natural Language Processing is limited to languages like Python and Java due to the libraries. Whats bad is that u cannot use the libraries from 2 different languages. I am working on a attempt to make Natural language processing functions available to all languages by wrapping a REST and JSON based interface around them. While the project is still in development, its completely usable. preems/nltk-server    Embed Quote

@@ -1,0 +1,2 @@
+How do you find algebraically the area that a polar equation encloses?
+First, a plot: ​ I obtained this closed loop using the interval [math][0, \pi)[/math]. Next the integral (with the appropriate limits): [math] A = \int_{0}^{\pi} \frac{1}{2} r^2 d\theta  [/math] which becomes [math] A = 2 \int_{0}^{\pi} \sin^2(\theta) d\theta   [/math] Using the identity [math] 2 \sin^2{\theta} = 1 - \cos{2\theta} [/math] We get [math] A = \int_{0}^{\pi} \left(1 - \cos{2\theta}\right) d\theta = \pi [/math] This answer makes sense because the plot is of a circle of radius 1. 

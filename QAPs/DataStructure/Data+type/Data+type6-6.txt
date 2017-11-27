@@ -1,0 +1,2 @@
+What are user-defined data types?
+Say you love a girl named suzy and you want her name to be everywhere. Don't name the variables as Suzy. That would look stupid. Instead paint whole of c with Suzy Typedef char Suzychar Typedef int suzyint Typedef long suzylonglegs And now you have your own data types. Every char is suzychar and int, long as suzyint & suzylonglegs. And c will help you propagate your love. Incase you are not in love with Suzy, don't lose heart, you can still do it. By defining your own data types, you can use the names you like.... (more)

@@ -1,0 +1,2 @@
+★Can multiple small speakers, instead of a single big speaker be used to generate low frequencies at moderate volume levels?
+Surprisingly, the mutual coupling effect of closely clustered setup can actually sound bigger than it is. I say you'll be just fine for the purpose described, providing you don't exceed Xmax (excursion limit) and power limit of the 4" drivers.    Embed Quote

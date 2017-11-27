@@ -1,0 +1,2 @@
+★What is pattern recognition and image analysis?
+Pattern recognition means searching for particular patterns/features in an image by using a mask. For e.g. searching for circles in an image of circles and squares. Image analysis is the step to extract the size details such as diameters of the circles and doing additional post-processing with the data. Matlab, Mathematica and ImageJ have dedicated toolboxes and algorithms for doing pattern recognition and image analysis.    Embed Quote

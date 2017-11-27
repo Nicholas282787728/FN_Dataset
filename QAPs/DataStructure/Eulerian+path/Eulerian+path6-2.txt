@@ -1,0 +1,1 @@
+What are different types of problems in programming contests (eg.math, adhoc etc.), and in what order should they be attempted by a new programmer?

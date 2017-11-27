@@ -1,0 +1,2 @@
+★What are the must read papers on data mining and machine learning?
+Do not miss this one. A Few Useful things to know about Machine Learning. Pedro Domingos http://homes.cs.washington.edu/~... Provides an empirical idea of how Machine Learning should be done. This paper condenses the experience of years of Machine Learning research.    Embed Quote

@@ -1,0 +1,2 @@
+What are the best websites a programmer should visit?
+InfoQ - more for enterprise programmers, but they have sometimes have stuff applicable for startups like discussions on performance. They host videos from conferences and events. Software Development News, Videos & Books 

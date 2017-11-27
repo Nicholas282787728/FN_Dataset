@@ -1,0 +1,2 @@
+★Where do network sockets go in the OSI model?
+Layer 4 unless you're using the term socket to mean something other than a TCP socket.    Embed Quote

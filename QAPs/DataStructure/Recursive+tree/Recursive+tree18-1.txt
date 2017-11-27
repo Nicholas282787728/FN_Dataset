@@ -1,0 +1,2 @@
+How do you solve the recurrence relation W(n)=W(2n/3)+W(n/3)+3n, W(k<=3)=1?
+The recursion depth is O(log n) and on each level of the recursion tree the work sums to O(n). Hence, the total is O(n log n). Additionally, each branch of our recursion has depth at least [math]\log_3 n[/math]. Hence, the first [math]\log_3 n[/math] levels of our recursion tree are complete and on each of those levels the total work sums to Theta(n). Hence, the total is Omega(n log n). Putting those two together we can easily see that W belongs to Theta(n log n). 

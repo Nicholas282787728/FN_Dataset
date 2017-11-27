@@ -1,0 +1,2 @@
+★What are floating IP Address?
+Floating IP address is a normal IP address assigned to a server which might fail in some circumstances and its IP will be taken by a redundant server which runs alongside with the failed server and serves the clients on behalf of it. This is applicable in Datacenters.

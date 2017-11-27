@@ -1,0 +1,2 @@
+★What is the most popular commercial ETL and data warehousing tool?
+Popular Commercial ETL Platforms are Informatica, Data Stage, SSIS, Sync Sort (not necessarily in this order) Popular Commercial (Subscription based), Open Source are Talend, Mulesoft, Kettle (Pentaho)    Embed Quote

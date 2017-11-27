@@ -1,0 +1,2 @@
+★How would you explain bandwidth to a layman?Bandwidth w.r.t networks and electrical engineering.
+An easy way to explain (the way my teachers taught me) is - Think of bandwidth as a road. Wider the road, more the traffic that can flow from point A to Point B.

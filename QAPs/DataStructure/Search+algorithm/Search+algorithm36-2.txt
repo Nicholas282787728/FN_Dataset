@@ -1,0 +1,2 @@
+Search Algorithms: Why can't there be an algorithm faster than binary search?
+It cannot be done with fewer pairwise comparisons. The reason is that at best, every comparison halves the number of possible locations where the key can be. This is exactly what happens in binary search. Given n possible locations, you need to halve log(n) times. So that's optimal. You get the same performance with a balanced BST. If you use a technique that doesn't use pairwise comparisons, like hashing, the story changes. 2.4k Views · 8 Upvotes

@@ -1,0 +1,2 @@
+★In what circumstances or properties of the data will decision trees perform worse than logistic regression?
+i think we make more assumptions in regression analysis than in DT. We may gain something by making an assumption. For example, better generalization in small samples if the assumption does not deviate from reality (that is relevant to the analysis objective) too much. with so many techniques to rotate the axis/coordinates, I guess the "axis-parallel" issue in DT may be overcome.    Embed Quote

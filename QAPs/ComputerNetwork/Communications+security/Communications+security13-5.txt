@@ -1,0 +1,2 @@
+★In the public key cryptography, what is the number of keys required for secure communication between n parties ?Please give specific answers, Expertise needed!
+n private and n public keys given the communication is two way.   given the public key(corresponding to private key.) you can decrypt messages encrypted with that private key, so for every party you need a private key of their own for every corresponding private key there will be a public key.

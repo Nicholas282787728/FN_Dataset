@@ -1,0 +1,2 @@
+★Why is there no iPv5 after iPv4?
+IPv5 was used to define an experimental real-time streaming protocol. To avoid any confusion, it was decided to not use IPv5 and name the new IP protocol IPv6. Another thing is that IPv6 has a high span of IP adresses that is up to 340 trillion trillion trillions.

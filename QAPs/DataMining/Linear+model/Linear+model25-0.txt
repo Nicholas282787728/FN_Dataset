@@ -1,0 +1,2 @@
+★Linear Models: How does multicollinearity affect prediction accuracy?
+The prediction of the model (often denoted as y-hat) can still be accurate when multicollinearity is present among the predictor variables. However, the estimate of the coefficients for those correlated predictors is not likely to be meaningful. The common practice is to identify highly correlated predictor variables and then choose one for inclusion in the model and eliminate all others.    Embed Quote

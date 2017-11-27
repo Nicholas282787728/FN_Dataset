@@ -1,0 +1,2 @@
+Are there any useful recursive functions that do not contain a base case?This is a follow-up question to What does "base case" mean in the context of recursion?.
+When doing parallel programming in Erlang people will often set off a little server process running in an infinite loop. Because Erlang uses tail-recursion for infinite loops they look something like this : loop() -> receive {message1} -> do_something; loop(); receive{message2} -> do_something_else; loop(); Other -> loop(); end.   The recursion will only end when the process dies. 

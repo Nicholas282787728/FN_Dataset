@@ -1,0 +1,10 @@
+★Natural Language Processing: How would you programmatically parse a sentence and decide whether to answer "that's what she said"?Outline an algorithm that, given a sentence, returns true or false for whether a "that's what she said" is appropriate.
+Both our board member and one of my teammates suggested I help you out as this is an arena that I have significant expertise in. Although, admittedly, there is disagreement in the community at-large, I believe this is the clearest solution for beginners (though it could be done more elegantly in one-line): 1
+2
+3
+4
+5
+6
+7
+8
+ def YouAreTVtwss   twss = params[:text]   if twss      return "#{twss}...that's what she said!"   else      return "..."   end end    Embed Quote

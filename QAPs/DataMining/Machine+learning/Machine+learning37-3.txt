@@ -1,0 +1,2 @@
+★Why is machine learning used heavily for Google's ad ranking and less for their search ranking?A lot of people I've talked to at Google have told me that the ad ranking system is largely machine learning based, while search ranking is rooted in functions that are written by humans using their intuition (with some components using machine learning). What led to this difference?
+Adding to Lau's answer, this blog post by Dr. Anand Rajaraman  http://anand.typepad.com/datawoc... is a good read.    Embed Quote

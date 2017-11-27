@@ -1,0 +1,2 @@
+How is Path using Facebook Graph API for to send App Requests?
+In fact, the user is sending the request, not the app itself. I guess they're using "Send Requests" method from Facebook's iOS SDK. Here's a link on how to achieve this using the latest Facebook iOS SDK. Send Requests 

@@ -1,0 +1,2 @@
+★How do you determine feature importance in a predictive model?
+You can run different Feature selection algorithms and determine which one of your features are more important in your predictive model. Another method is penalizing on the features that are not very important. You can run different Regularization (mathematics) methods like Lasso or Ridge and zero out the coefficients of those parameters in your model.    Embed Quote

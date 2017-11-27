@@ -1,0 +1,2 @@
+
+★★★★★Very accessible intro to ML. Ng does a great job of explaining complicated concepts in a way that non-experts can understand (with enough work). I had a little programming and stats experience beforehand, and it was the perfect difficulty for me. I've directly applied concepts from the course to my first ML job, using the videos and slides a reference (what exactly was the formula for the F1 score??).    Embed Quote

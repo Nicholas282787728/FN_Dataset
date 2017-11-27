@@ -1,0 +1,2 @@
+Are there any great data sources to play with while learning Machine Learning?
+Several, UCI repository is very commonly used by ML community. They have many datasets based on types of tasks. UCI Machine Learning Repository    Embed Quote 

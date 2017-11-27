@@ -1,0 +1,2 @@
+★What is different between to store unstructure data in RDBMS and noSQL (MongoDB)?
+The term "unstructured data" in the RDBMS world often means "I'll store something in a blob". The term "unstructured data" in the NoSQL world just means "your data". In other words, in the RDBMS world, you have a schema, while in the NoSQL world, the equivalent of a schema is just "unstructured".    Embed Quote

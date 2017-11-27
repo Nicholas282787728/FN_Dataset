@@ -1,0 +1,2 @@
+★What are some good resources to get started with Information Retrieval? Why?
+A couple more recent books: - http://www.amazon.com/Informatio... (sample chapters: http://www.ir.uwaterloo.ca/book/) - http://www.amazon.com/Search-Eng... (sample chapters: http://www.pearsonhighered.com/c...)    Embed Quote

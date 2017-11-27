@@ -1,0 +1,2 @@
+What algorithm should I use to implement a recommendation engine using PHP/MYSQL?
+I've been trying to find decent MySQL-PHP machine learning techniques too. Even basic websites need to benefit from machine learning too, right? This is the best source for a recommendation engine I've found: Collaborative filtering in MySQL? 

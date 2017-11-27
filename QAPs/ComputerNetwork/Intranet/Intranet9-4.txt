@@ -1,0 +1,2 @@
+★Why is Google's intranet system named Moma?
+I think it is an acronym: Message Oriented Middleware Application No idea as to the story behind it though.

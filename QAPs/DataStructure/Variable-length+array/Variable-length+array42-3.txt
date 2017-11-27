@@ -1,0 +1,2 @@
+Why didn't Go (programming language) follow the C language style?
+C has lots of questionable syntax and scalability traps so in Go they have cleaned up a lot of the in retrospect, mediocre decisions made 40 years ago. 

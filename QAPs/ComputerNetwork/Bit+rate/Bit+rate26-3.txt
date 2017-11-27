@@ -1,0 +1,2 @@
+★Digital Audio: What is the bit rate for an mp3 to produce a high quality sound from an ipod?I am trying to rip some music into my ipod and I find the standard bit rate I get post-ripping is anything fro 32k to 96k - is it right to assume more (higher) is better? If yes, how can I get the ripping to produce a higher bit rate?
+For classical music, go with 256 kbs AAC. Or better yet, use Apple lossless compression.

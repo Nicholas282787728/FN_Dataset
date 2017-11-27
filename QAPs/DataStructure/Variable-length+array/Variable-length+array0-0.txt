@@ -1,0 +1,2 @@
+What is the status of variable length arrays in C11?
+They are still a feature of the C language, don't worry. C11 just specifies the details of how a compiler that doesn't support them should go about it. 

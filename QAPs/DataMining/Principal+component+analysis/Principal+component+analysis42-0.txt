@@ -1,0 +1,2 @@
+★How can I complete the course project of face recognition based on PCA (principal component analysis)?
+Eigenfaces face recognition (MATLAB) http://www.face-rec.org/algorith...    Embed Quote

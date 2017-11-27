@@ -1,0 +1,1 @@
+Can you solve the equation x+y+z=39 over the positive integers?Assuming "positive integers" includes zero... Yes you can. The answer is the set: {(x, y , x-y) | 0 >= x <= 39; 0 >= y <= 39 - x } such that x and y are integers. In other words, to generate all the answers: For each x between 0 and 39:  For each y between 0 and x:  (x,y,z) is an answer, where z = x - y 237 Views

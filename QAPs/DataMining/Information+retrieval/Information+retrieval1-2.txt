@@ -1,0 +1,2 @@
+★What are some good resources to get started with Information Retrieval? Why?
+Some good books on information retrieval http://www.amazon.com/Informatio... Soumen Chakrabati book (http://www.cse.iitb.ac.in/~soume...) Chirstopher manning's book (http://nlp.stanford.edu/IR-book/...)Some books on  natural language processing Speech and language processing  (http://www.cs.colorado.edu/~mart...) Chirstopher manning's book  (http://nlp.stanford.edu/fsnlp/pr...)    Embed Quote

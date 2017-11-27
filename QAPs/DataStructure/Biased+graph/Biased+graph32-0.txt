@@ -1,0 +1,2 @@
+What are the differences/advantages/disadvantages of Azkaban vs. Oozie?
+(I work on and with Oozie, I've played with Azkaban for evaluation purposes) Evaluation based on playing with Azkaban 0.6 and Oozie 2.2.1 and their documentation: What do Azkaban and Oozie do? Both allow to run a series of map-reduce, pig, java & scripts actions a single workflow job Both allow regular scheduling  of workflow jobs... (more)

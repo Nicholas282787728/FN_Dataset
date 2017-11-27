@@ -1,0 +1,2 @@
+What are the 10 algorithms one must know in order to solve most algorithm problems?
+1. & 2. Traversal: breadth- AND depth-first search (if you can do it on a graph you can do it on a tree) 3. & 4. Sort: quick- AND merge-sort (and Hoare's algorithm) 5. Greedy: Kruskal's OR Prim's algorithm 6. & 7. Combinatorial optimization: Knapsack (also DP solution) 8. NP-hard: Longest common subsequence (also DP solution) 9. Max-flow min cut theorem: Ford-fulkerson OR Edmond-Karp 10. Shortest distance: Dijkstra's 

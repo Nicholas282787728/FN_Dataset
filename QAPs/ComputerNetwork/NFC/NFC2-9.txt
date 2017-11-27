@@ -1,0 +1,2 @@
+★How is NFC better than Bluetooth?
+Both NFC and Bluetooth are different wireless technologies, have their  advantages/disadvantages compared to one another. The most significant  difference between NFC and BLE: Speed: Unlike Bluetooth, NFC  can interact with another device with a single wave of your smartphone.  It’s fast and requires little effort on your part. In contrast,  Bluetooth connections take time and require many steps to activate. Low consumption: Bluetooth consumes a chunk of your smartphone’s power while NFC typically consumes much less.    Embed Quote

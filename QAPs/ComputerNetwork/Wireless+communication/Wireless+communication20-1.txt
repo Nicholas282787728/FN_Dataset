@@ -1,0 +1,2 @@
+★What are the types of antennas used in wireless communication?
+The main antenna type inside mobile devices like cell phones, point of cell systems or tablets are monopole antennas. These monopoles are often Inverted F antennas and most time a subset called planar inverted F antenna. A dual inverted F antenna is simulated and explained well inside the M2M IoT Cookbook - How to develop a device based on wireless modules How planar antennas inside phones will look like you can see at the public data base of FCC in US. Any device is listed with several pictures.    Embed Quote

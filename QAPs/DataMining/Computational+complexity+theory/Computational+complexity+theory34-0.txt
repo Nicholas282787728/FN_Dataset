@@ -1,0 +1,2 @@
+Computational Complexity Theory: What is the closest one has come to prove  P = NP or P!=NP?
+No one has come close. In fact, there have been several results proving that several useful proof techniques that have been tried cannot resolve the P vs NP problem; see Baker, Gill, and Solovay's Theorem proving relativization cannot help, and Razborov and Rudich's result proving natural proofs cannot help.    Embed Quote 

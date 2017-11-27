@@ -1,0 +1,2 @@
+Find the row number and column number where 20096 occurs in a triangular array?
+The top row, shows sum of n natural nos where n is the no. Of the column from the left. For 20096, the nearest no. which is the sum of n natural nos is 20100, which is the sum of first 200 natural nos. Hence, 20096 will be in the 200th row 

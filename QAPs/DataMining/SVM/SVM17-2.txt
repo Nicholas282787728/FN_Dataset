@@ -1,0 +1,2 @@
+★How can I use SVM  to classify documents?As I know Using SVM to classify documents is better than Bayes. Can you get some examples?
+I have used SVM for classifying documents, the original method isn't very smart on high dimensional data like text. The trick lies in what kernel you choose.    Embed Quote

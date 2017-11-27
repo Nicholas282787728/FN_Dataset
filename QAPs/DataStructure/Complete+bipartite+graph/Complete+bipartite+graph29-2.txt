@@ -1,0 +1,1 @@
+Does solving a restricted version of an NP-complete problem in polynomial-time imply that all NP-complete problems, when restricted to that version, can be solved in polynomial-time?For example, restricted version in the sense that a planar graph be considered instead of a general graph.

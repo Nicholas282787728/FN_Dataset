@@ -1,0 +1,2 @@
+Can all mathematical processes have graphs? Is there any exception?
+All mathematical processes which can be defined in the form of equations will have graphs. If you can write down that equation I have a graph for you. 

@@ -1,0 +1,2 @@
+★What is the difference between a PHP and HTML Web page?
+Html is used for static contents ie contents that dont change , while php is used to display dynamic content Html is markup langauage while php is server side scripting language Php needs to be parsed before a web server respond to web browser , while html pages are sent directly You can create sessions and cookies in php easily    Embed Quote

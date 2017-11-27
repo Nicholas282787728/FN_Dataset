@@ -1,0 +1,2 @@
+What are the applications of random graphs?
+One inmediate application is to use them as a baseline to compare graphs. If you have a graph "G" you can compute several things about the graph like clustering coefficient, diameter, average path length, distribution of node degree, etc. To give those numbers a meaning it is a good idea to compare them to the values for the same metric in a random graph with the same number of nodes and edges. So what you get is a measue of how random or how non-random your graph "G" is. Luis 

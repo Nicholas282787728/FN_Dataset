@@ -1,0 +1,2 @@
+★Is there any technical data available to support claims of “best HD picture quality” when choosing a satellite, cable or IPTV service provider?Can anyone truly lay claim to having the best HD picture quality?
+Given the same resolution, say 720p, the next best metric of video quality is bit rate.  You can transmit an HD picture as low as 6 Mbits and as high as 30 Mbits/s.  I believe off-the-air TV has probably the best quality.  Next is satellite.  Cable and IPTV try to squeeze way too many channels in very limited bandwidth, so they probably have the worst quality.

@@ -1,0 +1,2 @@
+★What is the most commonly available tool that can measure & characterize the noise floor of the 2.4 GHz radio frequency band?
+A USB based spectrum analyser will be maybe the right tool: Handheld & USB Spectrum Analyzer, RF Analyzer, EMF Tester, H and E field measurement, Outdoor Spectrum Analyser 1Hz to 9,4GHz 2.4 GHz WiFi measurement with three views (sweep with Max and Avg, filled histogram and waterfall)    Embed Quote

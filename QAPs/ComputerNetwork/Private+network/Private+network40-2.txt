@@ -1,0 +1,2 @@
+★Virtual Private Networks (VPNs): Is there any way to decrypt L2TP/IPsec/ESP packets for diagnosis/test purpose?
+Perhaps if you, by accident, doesn't have any supercomputer with petaflops laying around your basement    Embed Quote

@@ -1,0 +1,2 @@
+★What is something electrical engineers know that others don't?
+That even diesel locomotives(aka diesel train engine) have electrical motors which are responsible for moving the locomotive forward. The diesel engine converts chemical energy to mechanical, and imparts this movement to an AC generator, which generates AC current which is fed to a transformer to step up the voltage, which is fed to a rectifier to convert AC to DC and then the DC power is fed to a DC motor.

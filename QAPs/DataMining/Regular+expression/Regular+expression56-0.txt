@@ -1,0 +1,2 @@
+★What is a good regular expression for preventing XSS attacks in JavaScript?
+Although it depends how restrictive you want to be like do you want to block just java scripts and sql tags or want to restrict even formatting tags like <br/> etc. The base expressions can be something like below and you can add any tags which you want to permit.  /^(\s|\w|\d|<br\/>)*?$/    Embed Quote

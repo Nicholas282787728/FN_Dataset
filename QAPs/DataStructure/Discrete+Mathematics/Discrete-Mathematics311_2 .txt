@@ -1,0 +1,1 @@
+What's the difference between concrete and discrete mathematics?Concrete is a synonym for applied mathematics. Discrete means: mathematical theory involving only countable (as opposed to uncountably infinite) sets. These terms are not mutually exclusive as the question seems to assume. 137 Views  View Upvotes

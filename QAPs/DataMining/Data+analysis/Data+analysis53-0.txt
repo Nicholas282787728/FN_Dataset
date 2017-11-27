@@ -1,0 +1,2 @@
+What is the best software for exploratory data analysis?
+The software is the best or not, that depends on if it suitable for the users. Each software has its advantages and disadvantages. For exploratory data analysis, there are some good ones, like R language and esProc. But R is not friendly enough like esProc. esProc is easy to use and also visualize data. You can download it free from its website: http://www.raqsoft.com/download....    Embed Quote 

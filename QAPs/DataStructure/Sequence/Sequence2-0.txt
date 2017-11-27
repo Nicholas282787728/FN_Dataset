@@ -1,0 +1,2 @@
+What will be next in the sequence 10, 14, 23, ____?
+There are simply many possible answers to this with various logics. These many terms are not enough to define a single answer. Logic 1: T(n)-T(n-1)=n^2. So, T(4)-T(3)=4^2. So, T(4)=23+16=39 Logic 2: T(2)-T(1)=4=2^2 (1st prime num^2) T(3)-T(2)=9=3^2(2nd prime num^2) T(4)-T(3)=_=5^2(3rd prime num^2) = 25. Logic 3: 14-10=4 23-14=9 x-23=14 x=37. Considering that difference between upcoming numbers is previous difference + 5. That is the difference of two numbers is in Arithmetic Progression. 

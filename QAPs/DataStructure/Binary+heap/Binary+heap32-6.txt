@@ -1,0 +1,2 @@
+How can I design an efficient data structure that supports findMin, findMax, deleteMin, deleteMax, Insert, and delete?I need to design an efficient data structure that supports: findMin & findMax (most frequent) deleteMin & deleteMax (moderate frequent) Insert & delete (least frequent)
+It depends on what the data is. All integers? Trivial. 

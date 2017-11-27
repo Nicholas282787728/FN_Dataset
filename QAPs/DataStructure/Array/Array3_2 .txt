@@ -1,0 +1,1 @@
+What's the difference between multidimensional arrays and simply having arrays of arrays?Memory layout, cache efficiency and the possibility to have sub-arrays of different sizes in an array of arrays. 

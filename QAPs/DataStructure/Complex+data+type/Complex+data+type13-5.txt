@@ -1,0 +1,1 @@
+Why do structs exist in C?I'm a bit new to C and coding in general but I vaguely recall a lecture I sat in on that has to do with memory stored efficiently contiguously. Stuff I googled suggests this but mostly defines how to deal with a C struct. I think a bit of intuition would help me understand/use C structs much better.

@@ -1,0 +1,2 @@
+★How is infinite graph theory used in computer science?
+You can have a random walk on infinite graphs (if you are familiar with Markov chains, random walks are special cases of them). The following book chapter talks about infinite lattices and infinite-degree trees, as well as walks on fractal sets: http://stat-www.berkeley.edu/use... See also: Applications of infinite graph theory    Embed Quote

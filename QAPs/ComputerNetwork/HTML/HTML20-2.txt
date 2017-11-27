@@ -1,0 +1,2 @@
+★What is HTML?
+Acronym for: Hyper Text Markup Language. It is a programming language used to display and structure elements  On a web page within your web browser.

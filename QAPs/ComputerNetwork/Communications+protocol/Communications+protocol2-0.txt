@@ -1,0 +1,2 @@
+★What data communication protocol do drones use?and on what type of network?
+Our drones use MAVLink over a 2.4GHz XBee (ZigBee) mesh network.  Even though the application itself has no mesh functionality (one groundstation controls several drones, a classic star topology), the fact that the underlying network is a mesh network has the side effect that each drone on the network can act as a repeater for another drone.  That functionality is provided by the ZigBee mesh, and not MAVLink, which operates transparently on top of the ZigBee mesh.

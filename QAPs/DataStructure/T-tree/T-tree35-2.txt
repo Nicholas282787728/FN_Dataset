@@ -1,0 +1,2 @@
+Why is it that if you remove an edge from a tree it becomes disconnected?
+That is because we define a tree to be a graph where there is an unique walk between any two vertices. To show that removing an edge disconnects the graph, note that the walk between the two vertices it used to connect was the edge itself. Since that was the only path, now the graph is disconnected. 

@@ -1,0 +1,2 @@
+★Could there be an open source equivalent to Parse (the cloud backend)?
+As for good reason - developers don't usually want the hassle of having to set up and maintain the server infrastructure while businesses would usually prefer something closed source for security reasons. At QuickBlox when we started building the mobile backend solution couple years ago we have first released the High Scores (Ratings) module open source on Google Apps but had developers asking if there is a server where this is already running so they can use it as a turnkey solution.    Embed Quote

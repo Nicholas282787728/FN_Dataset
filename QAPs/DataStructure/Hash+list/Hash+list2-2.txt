@@ -1,0 +1,2 @@
+What is a good explanation that can help programming beginners understand the concept of compounding key data structures like arrays, linked lists, hash tables, and binary trees?
+Grab a pencil Grab a piece of paper Start sketching the simplest data structures Figure out how to combine simple structures (here they'll understand what pointers are) 

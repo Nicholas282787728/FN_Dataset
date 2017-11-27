@@ -1,0 +1,2 @@
+★Does Full-Duplex Gigabit Ethernet NIC means that it can simultaneously transmit upto 1 billion bits in both directions or in total?
+By implying its Full-Duplex, it will simultaneously transmit 1Gbps both ways.

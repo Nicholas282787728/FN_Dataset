@@ -1,0 +1,1 @@
+Is the root node of an AVL tree (or any height balanced tree) always the median of the list for an odd number of elements?NO The example on wikipedia's entry on AVL tree is enough to demonstrate this: Number of elements: 11 (odd) Median: 23 Root: 50 

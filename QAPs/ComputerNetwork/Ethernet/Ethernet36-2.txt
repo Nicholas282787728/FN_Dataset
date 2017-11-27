@@ -1,0 +1,2 @@
+★If your Mac has working Wifi and Ethernet, which does it prioritize?
+By default, it will be ethernet (but you can change that like Jon said).

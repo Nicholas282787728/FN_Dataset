@@ -1,0 +1,2 @@
+How do I find the shortest path between the nodes of a graph under the below constraints?
+I am sure you're looking for the shortest path for weighted graph or travelling salesman problem. Try wikipedia for their solutions. 

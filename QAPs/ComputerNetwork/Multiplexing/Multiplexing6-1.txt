@@ -1,0 +1,2 @@
+★What is the application of a multiplexer?
+A multiplexer lets you choose between different inputs for one that goes out.  Like if you have an imbedded system with more sensors that input ports, you can multiplex those and connect them all to the same thingy.    Embed Quote

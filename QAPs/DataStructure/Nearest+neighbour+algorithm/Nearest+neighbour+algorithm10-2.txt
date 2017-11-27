@@ -1,0 +1,2 @@
+What is the simplest artificial intelligence pseudocode algorithm?
+For an agent learning from experience to act on some environment: Try something (from a list of available actions for the current situation) If the outcome is good, try it more frequently in the future when in the same situation Otherwise, try it less frequently in the future when in the same situation Go to 1 

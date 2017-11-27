@@ -1,0 +1,2 @@
+What is discrete math?
+In discrete math, not only the inputs but also the outputs are whole numbers. For example, consider the equation x * 2 = y x =1, y = 2 is one of the solutions to that equation. But there is no solution for that equation when y = 3, in discrete math. 

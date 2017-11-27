@@ -1,0 +1,1 @@
+It does happen when the input is deterministic. For a non deterministic, varying input the compiler can not predict zillion possible paths that your code can possibly take, and hence can not check array bound compile time 2.2k Views

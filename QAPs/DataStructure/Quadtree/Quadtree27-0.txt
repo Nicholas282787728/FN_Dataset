@@ -1,0 +1,2 @@
+How would I go about programming these features?
+For feature 1, it depends on where these events are coming from. If it's some third party they probably have an API for this. If it's your own database you will need to do some sort of index based on distance. Some keywords for you to search for and learn about: geocoding, GiST and GIN indexes, spatial indexing, great circle distance, GIS. For feature 2, just build it dynamically in CSS, SVG, or Canvas. CSS is likely the most straightforward way to do it given your skillset and will be compatible with almost any browser. 

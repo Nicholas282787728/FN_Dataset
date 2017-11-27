@@ -1,0 +1,2 @@
+What is the most common mistake using pointers in C?
+Assigning one pointer to another and then thinking setting one pointer to another will make it NULL. e.g void cleanup( void *a) {  if(a != NULL)   {       free(a);       a=NULL;   } } main() {  int *a; .... .. cleanup( a);    // This will not set int*a to NULL } 

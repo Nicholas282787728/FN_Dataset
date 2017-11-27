@@ -1,0 +1,3 @@
+When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?In large networks there is a need to keep things organized.  MAC addresses are impractical.
+
+The IP infrastructure is organized in same way that the telephone network is organized. In telephone networks your "number" is divided into a country code, areas code, local exchange and, finally, your number. IP networks are organized in a similar fashion [Formally, the address is divided into "subnets" (sub-networks) where each subnet can be further divided, at any location, into other subnets ... like a tree branching]

@@ -1,0 +1,1 @@
+How would one plot the curve x^3+y^3=z^3 on a graph in the first quadrant?Because of fermats last theorem x,y&z cannot be natural numbers,so how does one plot this?As you correctly pointed out, no integer solution exists for the above equation. This is what the solution space looks like. 39 Views  View Upvotes  Answer requested by Yugesh Reddy

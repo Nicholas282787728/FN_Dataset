@@ -1,0 +1,2 @@
+★What is the Internet of Things?
+I see many great definitions here. but maybe the historical evolution will help understanding what it's about. many think that IoT is a relatively new concept, but in fact it can be traced as early as the 1990s. In this post you can find some history and a nice video of Microsoft's early attempts in this direction back in 1990s, as well as looking at the present map of leaders in this field and a glimpse of where it's heading: The Internet of Things: Vision and Execution

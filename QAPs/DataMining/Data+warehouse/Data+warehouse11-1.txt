@@ -1,0 +1,2 @@
+★What is the difference between a database and data warehouse?Why should I have a separate database and data warehouse?
+Database(OLTP)  - transactional Data Warehouse(OLAP) - Historical Databases uses highly normalized tables that eliminate redudancy Data Warehouses are denormalized large databases optimized for query speed.    Embed Quote

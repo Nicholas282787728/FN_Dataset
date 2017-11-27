@@ -1,0 +1,2 @@
+Is it a good idea for a first-year algorithm student to implement some of the data structures (binary search tree, etc.) by myself to understand them better?
+Certainly. Data Structures such as Linked List and BSTs are ubiquitous, and by the end of your first year it should be fairly easy for you to implement those. Later on you could dive deeper into more advanced Data structures such as Skip Lists, RSTs, HashMaps, Ternary Tries etc. 

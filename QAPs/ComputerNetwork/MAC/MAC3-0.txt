@@ -1,0 +1,3 @@
+Computer Networking: Which Mac address do I need to register with ISP for PPPoE Internet connection: WAN or LAN?If you are using GTPL connection, then provide both the MAC address.
+
+I think, for router you should provide WAN's MAC address.

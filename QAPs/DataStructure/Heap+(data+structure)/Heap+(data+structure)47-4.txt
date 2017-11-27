@@ -1,0 +1,2 @@
+What are the best books to learn algorithms and data structures? Are there any good blogs/posts on these? Which books explain these concepts in a simpler way?
+Originally Answered: Which is the best book for clearly understanding data structures and algorithm concepts?Does anyone knows any more specific reference target to functional programming? I know Purely Functional Data Structures, any other? 6.2k Views · 1 Upvote

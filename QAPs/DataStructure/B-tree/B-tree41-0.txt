@@ -1,0 +1,2 @@
+What, if any, symbol table/dictionary search algorthms have the same or better time/space complexity as B-Trees but are not based on B-Trees?
+Have you considered  Van Emde Boas trees? If you are interested in hashing, one that you may find handy is Cuckoo hashing. 80 Views

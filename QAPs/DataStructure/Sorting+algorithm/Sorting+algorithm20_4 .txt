@@ -1,0 +1,1 @@
+How can bubble sort algorithm be implemented in C?Bubble sort is usually used for small count of numbers Below is the function of the algorithm: void bubble_sort( int A[],int n) { int i; int temp ; int flag = 1; while( flag == 1) { flag = 0; for( i = 0; i if( A[i] > A[i+1]) { temp = A[i]; A[i] = A[i+1]; A[i+1] = temp; flag = 1; } } } } 

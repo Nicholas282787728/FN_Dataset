@@ -1,0 +1,1 @@
+How do I efficiently store a tree in a 1-d array(s) handling modifications?You Can Use Heap , it is efficient and an implementation of tree on 1D Array if heap doesn't help you , segment tree will be useful 67 Views  Answer requested by Anthony Hogg

@@ -1,0 +1,2 @@
+★What's the point of NFC for smartphones?
+Have you ever tried to connect two devices using a cellular data connection, 802.11, or Bluetooth? Cellular data works less than half the time. 802.11 is slow. Bluetooth involves an elaborate pairing dance that often fails. If phones are going to be used for payments, there needs to be a fast, reliable, and authenticated way for POS and devices to talk. That doesn't exist today.    Embed Quote

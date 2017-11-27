@@ -1,0 +1,1 @@
+I'm 16 years old and know Java, PHP, JS, Python and Ruby. I know almost nothing about data structures and algorithms. Where should I start?There is problem, you cannot know that much languages and no data structures and/or algorithms. You probably would need to find some good courses/books suitable to your level of knowledge. 101 Views  Answer requested by Gautham Elango

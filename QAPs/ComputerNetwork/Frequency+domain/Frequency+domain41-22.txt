@@ -1,0 +1,2 @@
+★What are things that electronics and telecommunication engineers (ECE) know while other engineers don't?
+Want to get perfect secrecy over phone? -use CDMA network. Speed of internet decreases when you move because of ''fading''. You get better radio reception at night. The sound you hear while dialling a number comes from the land-line that's switching in action. Your phone will consume minimum power when put in flight mode.

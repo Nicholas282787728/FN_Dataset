@@ -1,0 +1,2 @@
+Is the hash function H  defined below resistant to collisions?
+See if you can find x[1],x[2],y[1],y[2]  such that AES K (x[1])+AES K (x[2])=AES K (y[1])+AES K (y[2])  (hint: addition is commutative). 

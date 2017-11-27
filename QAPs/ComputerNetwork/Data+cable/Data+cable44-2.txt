@@ -1,0 +1,2 @@
+★How can I send my installed apps to my friend via Wi-Fi? My phone is Android.
+I always send my installed apps to friends by Wifi or Wifi-Direct in File Expert, an Android file management app. Make sure both your devices are in the same Wifi network.

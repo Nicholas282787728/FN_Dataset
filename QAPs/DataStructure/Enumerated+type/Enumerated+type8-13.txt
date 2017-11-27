@@ -1,0 +1,2 @@
+Software Engineering: What are good ways to avoid bugs while programming?
+Agree with other answers. To add one exercise that worked well for me: do some coding exercises on paper. Then type it, check it for correctness, and learn from your mistakes. This forces you to really think about your code as you write it and develop long-term good habits. 

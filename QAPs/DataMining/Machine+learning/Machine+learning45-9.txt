@@ -1,0 +1,2 @@
+★What are some good learning projects to teach oneself about machine learning?This is a follow-up question to How do I learn machine learning?.
+Learning from Data (free Caltech course): http://work.caltech.edu/telecour... Data Mining- Practical Machine Learning Tools and Techniques: http://www.amazon.com/Data-Minin...    Embed Quote

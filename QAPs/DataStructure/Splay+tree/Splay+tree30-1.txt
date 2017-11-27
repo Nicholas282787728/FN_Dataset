@@ -1,0 +1,2 @@
+What do seasoned C programmers do when they need data structures like binary trees or hash tables?
+Seems like it is glib, according to this link: Generic data structure libraries for C? 

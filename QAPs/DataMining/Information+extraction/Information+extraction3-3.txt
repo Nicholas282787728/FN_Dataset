@@ -1,0 +1,2 @@
+★What are the most powerful open source information extraction tools?What sort of information?  How is the data stored and formatted?
+I have come across this http://scrapy.org/ to extract data from crawled websites.    Embed Quote

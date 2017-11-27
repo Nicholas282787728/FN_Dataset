@@ -1,0 +1,2 @@
+★Is there an iOS API which can read (extract information) from the first-party (Apple) Notes or Reminders apps in iOS 5?Can developers make apps that can read (extract info) from the built-in Notes or Reminders apps in iOS 5? Also, can apps send location-based commands to the reminder?
+EventKit can read Calendar events and Reminder items. Reading Reminder items was added in the iOS 6 SDK. https://developer.apple.com/libr... You can specify a known location to a Reminder item (it's a NSString property).    Embed Quote

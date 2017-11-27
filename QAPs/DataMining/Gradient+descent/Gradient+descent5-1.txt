@@ -1,0 +1,2 @@
+★What is an intuitive explanation of stochastic gradient descent?
+SGD approximates the full gradient using a small batch of samples or even a single example, and this introduces variance    Embed Quote

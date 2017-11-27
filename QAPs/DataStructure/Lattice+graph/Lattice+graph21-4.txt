@@ -1,0 +1,2 @@
+What are the essential R packages?
+I think no one mentioned dplyr, the next iteration of plyr. It is a must have package if you work with data.frames heavily. 

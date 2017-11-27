@@ -1,0 +1,2 @@
+★What is the best book about computer networking?
+The book by Kurose and Ross [1] is my personal favourite. It guides you through networks in a top-down manner, beginning with the components of the Internet that are more easily visible from an end-user perspective, and then unwrapping things one layer at a time. [1] Computer Networking: A Top-Down Approach (6th Edition): James F. Kurose, Keith W. Ross: 9780132856201: Amazon.com: Books

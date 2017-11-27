@@ -1,0 +1,2 @@
+★What is ETL (Extract Transform Load) Testing?
+Simplest way. Take something out (E) Alter it to the way that you want it (T) Store it back into a new place (L) If you are looking for a software for this there are plenty of tools that are either web based or open source. I work for a company who offers commercial software. If you want to take a look at our software and actually do ETL testing then try a free demo of our software. Centerprise Data Integrator 5.0    Embed Quote

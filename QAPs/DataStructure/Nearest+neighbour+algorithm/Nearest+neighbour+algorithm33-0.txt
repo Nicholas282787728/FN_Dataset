@@ -1,0 +1,2 @@
+From which optimization problem is the k-Nearest neighbours derived from?
+You can engineer decision boundaries that correspond to KNN, but the optimization problem would have to be in a much higher dimensional space than usual regression in order to reflect the jagged regions produced by a KNN algorithm. At the minimum your model must have just as many parameters as the input data, since the input data could be reconstructable from the model, so it is unlikely this sheds any light on the problem. 

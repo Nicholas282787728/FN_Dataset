@@ -1,0 +1,2 @@
+★Are Google URL shorteners banned on Facebook?Today I tried to add a link via the URL shortener and Facebook showed me a spam notice. Has Facebook really banned Google URL shortener?
+From my experience, I think it is blocked. When I tried posting a valid Google short URL on facebook, it gave me a spam notice and prevented me from making the post. When I changed the URL to the original long one, the post worked.    Embed Quote

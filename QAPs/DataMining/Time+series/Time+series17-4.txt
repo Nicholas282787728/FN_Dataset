@@ -1,0 +1,2 @@
+★What is the best approach for storing time series data?would like to know your experiences with different dbms for storing time series data.
+Pre-computed on a certain time period range and summarized in MySQL. Use datetime properties to flexibly query data back out and scale writes using something else other then pounding MySQL with mostly random write IO.    Embed Quote

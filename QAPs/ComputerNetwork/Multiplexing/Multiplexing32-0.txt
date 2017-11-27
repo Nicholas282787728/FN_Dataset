@@ -1,0 +1,2 @@
+★How can we implement full adder using 4:1 multiplexer?
+To get sum use A and C as control lines B as 1st and 4th input and B' 2nd and 3rd input To get carry use A and B as control lines and 0 to 1st input, 1 to 4th input and c to 2nd and 3rd input    Embed Quote

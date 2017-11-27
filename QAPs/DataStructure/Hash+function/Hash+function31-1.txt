@@ -1,0 +1,1 @@
+What is a polynomial hash function for a string?

@@ -1,0 +1,2 @@
+★What's the best book on regular expressions?
+The pocket book by O'Reilly. Also, no book will teach you how to be clever! You just have to refuse writing all those splits and indexOf's you always pollute our code with ;) RegEx's are not as expensive as you think    Embed Quote

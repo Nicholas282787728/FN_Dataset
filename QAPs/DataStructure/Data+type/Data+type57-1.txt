@@ -1,0 +1,2 @@
+What are some uses of generalized algebraic data types (GADTs)?
+I asked this question but I was also A2A'ed. I think the use in Control.Monad.Prompt is kind of cool. 505 Views · 1 Upvote · Answer requested by Peggy Li

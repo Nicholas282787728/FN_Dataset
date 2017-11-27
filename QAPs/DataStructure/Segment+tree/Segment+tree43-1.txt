@@ -1,0 +1,2 @@
+What are good tutorials for learning segment tree and BIT structure for ICPC? And what are good problems for practice?
+You may find some of the problems for BIT on CodeChef here: http://www.codechef.com/tags/pro... The editorials of the problems will contain resources to learn BIT as well. Similarly you can find problems with other topics using this tag feature. Hope that helps. 

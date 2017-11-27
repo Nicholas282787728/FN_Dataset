@@ -1,0 +1,2 @@
+What is the most esoteric programming language that you have tried?How did you learn about that programming language? What made you try programming using that language? Did you like programming using that language? Describe your experience.
+My vote goes to this: It is the minecraft command block programming language. As an example, this guy uses a pig in a glass cage to specify a named location - like a pointer to a memory address, only spatial.  And it's a pig in a glass cage. 

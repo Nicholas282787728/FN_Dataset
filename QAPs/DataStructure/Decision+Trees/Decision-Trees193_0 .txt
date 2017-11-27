@@ -1,0 +1,1 @@
+Classification (machine learning): How do I define on a binary decision tree the threshold for each feature?You could use the information gain (or some other metric like Gini) per threshold and decide which one partitions your data the best: http://en.wikipedia.org/wiki/Inf... 1k Views  View Upvotes

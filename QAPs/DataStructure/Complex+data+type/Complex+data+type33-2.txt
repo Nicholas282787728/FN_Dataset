@@ -1,0 +1,2 @@
+Why is use of pointers neccesary in C for swapping of two numbers through a function call?
+If you change the value of params passed to a function and you want to reflect the changes back in the caller, pointers are the way. Basically, by a pointer, you are actually providing an address ( means you ask him to go to that 'address' and change whatever he wants to ). By providing only values, you are not providing enough permission for a function to change the original values but change only a 'copy' of it. 

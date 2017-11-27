@@ -1,0 +1,2 @@
+What are some of the biggest failures due to bad code quality?
+The example they always share in CS classes here at Michigan is that of The Patriot Missile Failure in the Persian-Gulf War. Put simply, a miscalculation due to the improper use of a primitive data type caused the death of 28 soldiers. If there's anything you can learn from this, it is to test your code as if lives depend on it. 

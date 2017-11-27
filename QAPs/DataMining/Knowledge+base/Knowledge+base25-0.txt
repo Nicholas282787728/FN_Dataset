@@ -1,0 +1,2 @@
+★What are good examples of Knowledge Base software (for internal information management)?
+I looked over internet and after testing a few systems we decided to run Bitrix24 - Social Intranet, Task and Project Management, Activity Stream, Online Storage, CRM, Instant Messenger, File Sharing, Calendars and much more!.    Embed Quote

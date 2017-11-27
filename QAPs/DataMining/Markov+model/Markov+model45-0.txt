@@ -1,0 +1,2 @@
+★How can we use the Hidden Markov Model to construct a text classification system based on machine learning?
+*A2A* Instead of using HMM, use a bi-gram model. Even better would be a smoothed mixture of n-gram models (n = 1, 2, 3, ...). This link [1] gives a good idea about n-gram models. Also, this [2] seems to be in general useful. [1] Page on phontron.com [2] Page on washington.edu    Embed Quote

@@ -1,0 +1,2 @@
+★Why doesn't random forest need feature scaling?
+This should answer your question: Why are tree-based models robust to outliers?    Embed Quote

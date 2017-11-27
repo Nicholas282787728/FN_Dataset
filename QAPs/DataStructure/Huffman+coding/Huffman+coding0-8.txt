@@ -1,0 +1,2 @@
+What is an intuitive explanation of Huffman coding?
+Compress frequent characters expand rare characters. If every byte is 8 bits in a regular file then code very frequent bytes in less than 8 bits at the cost of making less probable bytes use more than 9 bits. In the end you win space. For example if you have 10 "A" and 1 "B" all taking 8 bits your file is 88 bits long. If you code the A in 7 bits and B in 9 then your file is 79 bits long and thus is compressed. ... (more)

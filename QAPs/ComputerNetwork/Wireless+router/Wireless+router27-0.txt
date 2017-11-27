@@ -1,0 +1,2 @@
+★What is the manufacturer's cost of a wireless router PCB?I need to find out exactly how much it would cost to source wireless router circuit boards for developing a consumer based wireless router.
+It has been a while since I sold into this space, but for the low-end home routers the electronics costs (including PCB) were quite low, under $10 and often under $7.  There are a number of companies that will provide you a turnkey system.  For low volumes you will be able to buy complete wireless routers systems for under $20 each.    Embed Quote

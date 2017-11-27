@@ -1,0 +1,2 @@
+★What is a Markov chain?
+In very simple terms, it's a chain (of states) in which a particular state depends only on (properties of) the previous state. If it depends on more, say last n states, we call it an n-Markov Chain. Markov chains have a lot of applications in various fields. An interesting one is the Birth–death process.    Embed Quote

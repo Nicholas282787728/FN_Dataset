@@ -1,0 +1,2 @@
+★What are some good tools to analyze web page visitors' behaviors?Not only identify basic events (visited, clicked, etc) but also, for example, cluster users by their behavior?
+ClickTale is awesome. I could type a bunch about it, or you could just visit their website and install a free trial. Great form analysis, mouse movement heatmaps, Omniture integration, etc.    Embed Quote

@@ -1,0 +1,2 @@
+Who are the big players in business intelligence?
+In terms of numbers of end-users, Yellowfin has to be up there with over a million users worldwide. Yellowfin, besides being an excellent all-round BI tool that scales to hundreds of thousands of users, is often embedded into many products to provide charts, dashboards etc., so you could be a Yellowfin user without realising it. See Page on yellowfinbi.com We recommend Yellowfin as part of our Power Suite of Business Intelligence products. See BIReady Australia    Embed Quote 

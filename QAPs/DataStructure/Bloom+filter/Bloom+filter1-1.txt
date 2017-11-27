@@ -1,0 +1,2 @@
+Why are some people so in love with Bloom filters?The extent to which people are obsessed with it is too high. What's the secret?
+Their use in the BigTable paper didn't hurt, either. 

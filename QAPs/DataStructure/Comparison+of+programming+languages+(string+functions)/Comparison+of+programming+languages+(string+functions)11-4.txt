@@ -1,0 +1,2 @@
+How should a Computer Science student at VIT University prepare for placement Interviews?
+A lot of students around their 2nd and 3rd years start developing apps of all kinds.(web,iOS,Android,W8).Some also pick up core coding(C,C++) and learn in depth data structures.This core coding is what comes for the tests during placements. When people say 'your core concepts should be strong',they actually mean data structures such as trees. So make sure you are good with these topics. 

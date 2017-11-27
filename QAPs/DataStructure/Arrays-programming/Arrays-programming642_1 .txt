@@ -1,0 +1,1 @@
+How do you assign value in arrays?Java code for assigning values in array- for(int i:arr) arr[i]=sc.nextInt(); 274 Views

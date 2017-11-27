@@ -1,0 +1,2 @@
+What are the top data visualization tools in 2014?For programmers and for non-programmers.
+[shameless plug:] I keep a list of useful tools here: Data analysis, manipulation and presentation list of resources by Alon Nir on Alon Nir's Blog Hopefully I'll be able to add to the list from answers to this question :) Thanks for the A2A 

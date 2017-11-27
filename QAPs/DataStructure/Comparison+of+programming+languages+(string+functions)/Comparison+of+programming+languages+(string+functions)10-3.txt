@@ -1,0 +1,2 @@
+If I was interviewing for a SWE position in Python, and you were the interviewer, what are the top 5 things about the language that would disappoint you if I did not know them?
+Top 5 according to me would be: 1. Mutability/Immutability and difference between say sort() and sorted() 2. Call by Value/Reference and *args/**kwargs 3. Not using dictionaries effectively in code 4. Iterators/Generators/Decorators and yield 5. Special method names (__iter__,__init__,__call__) 

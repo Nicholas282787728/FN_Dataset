@@ -1,0 +1,2 @@
+★Are there alternative Python regular expression libraries?Python's re module works, but it's considerably slower than grep.  Are you, dear Quora peeps, familiar with an alternative library with the appropriate python wrappers?
+Hopefully you are precompiling your REs before using them. Also, I never reach for the RE module first when I need to do text processing. The string module has lots of good methods that often do the trick. startswith, endswith, split, partition, you may be pleasantly surprised if you have a look,    Embed Quote

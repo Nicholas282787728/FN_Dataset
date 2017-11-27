@@ -1,0 +1,1 @@
+How do I print the last ten data items in a linked list?Iterate over the list with two pointers, one lagging 10 elements behind the first. When the first pointer gets to the list end print the rest. Linear time, constant space, does not mutate the data structure. 427 Views  View Upvotes

@@ -1,0 +1,2 @@
+★When did Ethernet become a standard option for personal computers (Dell, for example)?In other words, when did one no longer have to add on an Ethernet card?
+Ethernet didn't make it's way onto the motherboard until around 1999-2000. In other words, the only way to get it before was via a PCI card, which meant it was optional. Of course, since manufacturers have different lines of products, hitting different price markets as well as business vs. home interests, certain product lines had the PCI card as "standard."

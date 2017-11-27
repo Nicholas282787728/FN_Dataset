@@ -1,0 +1,2 @@
+What is the mesh grid above the bridge of the Royal Navy type 45 destroyer?
+That checkerboard pattern on the tower above the ship's bridge might be electronically-transparent composite (carbon-fiber?) panel to cover the phased-array radar antenna system.  Alternatively, it could be radar-absorbent material to reduce the radar return from the ship's mast assembly, to hold up the forest of sensor and communications antennas the ship carries.  Wikipedia repeats speculative press reports that the Type 45 has the radar cross-section of a small fishing boat. 

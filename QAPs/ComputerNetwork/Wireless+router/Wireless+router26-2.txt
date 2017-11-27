@@ -1,0 +1,2 @@
+★What is a good wireless router that supports L2TP or OpenVPN?Web-based administration is fine, SSH access will be great.
+Find a router that you can install OpenWrt or other open source firmware on. I've installed OpenWrt on to several TP-Link TL-WDR4300 units. They are about $65, dual band Wi-Fi, 802.11n (ac would  be nicer), fast CPU for home router, 128 megs of ram, two usb ports. The two USB ports are nice for things like a filestorage, a print server or an USB Cellular adapter.    Embed Quote

@@ -1,0 +1,2 @@
+What is the difference between beamforming and beamsteering?
+Using a phased array of antennas, you can control the shape and direction of the signal beam from multiple antennas based on the antenna spacing and the phase of signal emission from each antenna in the array.  The act of creating such an interfering and constructing pattern (or selectively receiving such a pattern) is called Beamforming. Dynamically adapting the beam pattern by changing the signal phase in real time without changing the antenna elements or other hardware is called Beam steering. 

@@ -1,0 +1,2 @@
+What are some common fallacies or mistakes made by beginners in Statistics/Machine Learning/Data Analysis or they are prone to make?
+Over/under-fitting their models by not paying attention to the bias-variance tradeoff. "Leakage" or overlap between test and training sets. Underestimating the strength of feature engineering and data cleanup/munging. Understanding and clearly stating their assumptions. Not paying sufficient attention to statistical significance.    Embed Quote 

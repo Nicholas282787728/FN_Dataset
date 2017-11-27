@@ -1,0 +1,2 @@
+★Why is 4G (Advanced) named LTE and not 5G?
+LTE-Advanced standard is mostly carrier aggregation (and few more) addition to the LTE standard. But calling it 5G does not make any sense as 5G standard is still in the concept stage and may not be available for practical purpose for next five years. Read more at : Why is advanced version of LTE is called LTE-advanced, not 5G?

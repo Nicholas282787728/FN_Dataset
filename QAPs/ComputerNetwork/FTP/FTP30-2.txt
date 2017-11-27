@@ -1,0 +1,2 @@
+★Which is the best FTP server?Tell me good one? Cost is not an issue, suggest me good one? for linux based system?
+Filezilla can be said to be one of the top used ftp server.

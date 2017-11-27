@@ -1,0 +1,2 @@
+★What are some interesting facts about computer networking?
+With IPV6 protocol replacing IPV4, every single person in the entire world can have more than 10^25( 10 exponential 25 ) addresses ! Just imagine, you having 10^25 houses at different addresses !!

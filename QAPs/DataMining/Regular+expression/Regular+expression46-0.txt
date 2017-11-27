@@ -1,0 +1,2 @@
+★Do I need to learn regular expressions before using Django?I realize regular expressions are used in django's urls.py files, but is it necessary to learn them or can I use some other type of resource (maybe one that will give me the regex with a sample url) to build my urls.py files?
+No. Firstly, you can just refer back to documentation if you ever need to do anything. Secondly, really basic operations are quite simple (extracting a single number, etc).    Embed Quote

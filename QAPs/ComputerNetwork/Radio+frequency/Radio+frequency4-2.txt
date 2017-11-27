@@ -1,0 +1,2 @@
+★Will quantum communication render radio frequencies obsolete as a means of communication?
+As I understand it quantum communication requires extreme care as the information has to get to the destination without interacting with anything.   And it's probabilistic, you're not guaranteed that each photon measured is going to give the right answer.     That doesn't sound economically competitive.    Embed Quote

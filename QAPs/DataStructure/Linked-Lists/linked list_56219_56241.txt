@@ -1,0 +1,1 @@
+how to find middle element of link list in one pass ? if it s not a doubly link list , you could just count and use a list , but that require double you memory in the worst case , and it simply win t work if the list be too large to store in memory . a simple , almost silly solution , be just increment the middle node every two node 

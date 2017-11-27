@@ -1,0 +1,2 @@
+★What are some unusual applications of Hidden Markov Models?
+Not really unusual, but HMM's may be used for classification of multivariate data. HMM's have mostly been used in speech/handwriting recognition problems. There are a few research articles (including one which I co-authored) where a state has been described by many noisy variables and it is required to infer the state of the system from the observations.    Embed Quote

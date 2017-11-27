@@ -1,0 +1,2 @@
+Is this a valid way of proving that [math]\displaystyle\int^b_{a}xdx=\frac{b^2-a^2}{2}[/math]?
+Whether this is valid depends on whether, at this point in the game, you have the Fundamental Theorem of Calculus yet. The fact that your text is proving it using Riemann sums suggests that this precedes any discussion of the FTC. Your proof requires the FTC; the book's proof does not. 

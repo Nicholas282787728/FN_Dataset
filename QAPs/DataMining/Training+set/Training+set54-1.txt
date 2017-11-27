@@ -1,0 +1,2 @@
+★Assuming a sufficient amount of training set data, memory, and processing speed, what are some examples of situations where the "magic predictive box" idea of neural networks fails?
+try to learn a cryptographic hash function.    Embed Quote

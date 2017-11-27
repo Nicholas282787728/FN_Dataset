@@ -1,0 +1,2 @@
+★What is the most advanced wireless communication technology for drones?
+Without doubt it is the integration of a phased array narrow beam wireless antenna in the ZANO mini-quadcopter. This reduces channel contention and saves energy at the same time. The phased array antenna is visible facing you in the picture on their webpage.    Embed Quote

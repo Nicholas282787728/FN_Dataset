@@ -1,0 +1,1 @@
+Is an array a collection of pointers?Array is a collection of similar data types, not only pointers. And the array name is a pointer to the first element, in case you are confused due to this. int a[10] would represent an integer array, similarly int* a[10] would represent a pointer array. Hope that clears your doubt. 

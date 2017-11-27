@@ -1,0 +1,2 @@
+What is a quadratic decision tree model of computation?
+The quadratic decision tree model was mentioned in the research paper  "A Lower Bound to Finding Convex Hulls" by Yao(1979). It refers to a ternary decision tree, with each internal node containing a quadratic test [math]f(x_0,y_0,x_1,y_1,\cdots,x_{n-1},y_{n-2}):O [/math] where f may be any polynomial of degree at most 2. 

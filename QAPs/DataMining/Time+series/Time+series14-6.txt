@@ -1,0 +1,2 @@
+★How do I learn about time series analysis?
+I found the online hosted lecture series very helpful, Stat 510, Applied Time Series Analysis, Eberly College of Science Welcome to STAT 510! They have a very detailed explanation of all concepts and applications particularly ARIMA models are explained in detail. If you are a beginner, this book (which is freely hosted) is good to start with. Using R for Time Series Analysis Both the sources provide easy to understand examples in R.    Embed Quote

@@ -1,0 +1,2 @@
+★What is a null hypothesis in layman's terms?
+Statistical inference is like the verdict of the jury. Null hypothesis is "not guilty". The jury won't find the defendant guilty unless he's highly likely. Similarly, you don't reject the null hypothesis unless there is great chance it is wrong. The threshhold chance here is subjective. When it is too high, you may let too many perpetrators walk; too low, too many miscarriages of justice. In my textbook it is often fixed at 95%.    Embed Quote

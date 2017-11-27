@@ -1,0 +1,1 @@
+How can we explain by words that P→Q is equivalent to ¬P∨Q?If P implies Q, then either P is not the case and we do not care about Q or P is the case and Q is true as well. 66 Views  View Upvotes

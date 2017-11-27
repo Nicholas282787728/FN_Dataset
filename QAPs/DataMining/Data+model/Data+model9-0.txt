@@ -1,0 +1,2 @@
+What are some easy to use data modeling/data mining tools?
+I know it's not a very trendy or sexy answer, but Excel can really do some powerful things, especially with its data mining and pivot plugins. It really has some amazing stuff available for the price, and you can actually make some pretty attractive reports if you know what you're doing.    Embed Quote 

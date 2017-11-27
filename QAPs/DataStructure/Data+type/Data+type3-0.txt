@@ -1,0 +1,2 @@
+What is the differences between abstract data type and user defined data type?
+A2A Data types Data types are classification of data in any programming language - for example integers, characters, floats etc. Nothing really to explain here. Abstract data types... (more)

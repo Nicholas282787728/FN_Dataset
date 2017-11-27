@@ -1,0 +1,2 @@
+How do I add the element between an associative array in PHP?
+if it is a key value pair what's the benefit of inserting it between you can add it on any place. 

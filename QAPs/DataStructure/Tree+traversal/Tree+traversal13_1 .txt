@@ -1,0 +1,1 @@
+Binary tree traversals are a good illustration of something that's very easy to implement recursively, but genuinely unpleasant to do otherwise. 

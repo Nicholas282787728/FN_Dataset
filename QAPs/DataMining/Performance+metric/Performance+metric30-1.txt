@@ -1,0 +1,2 @@
+★What mobile app performance metrics are correlated highly with engagement? App startup time? Crash rates? Something else?
+1. LTV (Lifetime value) 2. Retention rate 3. App Usage Here is a nice article on what metrics matter and how to measure them http://blog.ubertesters.com/know...    Embed Quote

@@ -1,0 +1,2 @@
+How do I start learning or strengthen my knowledge of data structures and algorithms?
+Originally Answered: How should I start learning data structure and algorithms? Read CLR's introduction to algorithms, or thomas cormen algorithms unlocked. Or Take udacity's course on algorithms and data structures, or khan academy's course. 106 Views · 1 Upvote

@@ -1,0 +1,1 @@
+What are the effective heuristics that can be applied to #p-complete problems, for finding the number of Hamiltonian paths in rectangular grids?

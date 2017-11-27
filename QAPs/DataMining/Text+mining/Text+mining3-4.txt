@@ -1,0 +1,2 @@
+★What are good starting points (books, tools ) for learning text mining?
+Maybe you should try MonkeyLearn, as no NLP or machine learning knowledge is required for using the platform, you just play with our elegant UI and our algorithm creation engine. You can also use pre-created text mining modules like sentiment analysis, topic detection or keyword extraction for different natural languages. MonkeyLearn's algorithms run on the cloud and can be easily integrated with any programming language via its API.    Embed Quote

@@ -1,0 +1,1 @@
+What are some recent breakthroughs in graph processing in distributed systems?Are there any better alternatives to the graph processing systems like Giraph ? What are the recent research papers that one must go through to understand the current trends in large scale graph processing?

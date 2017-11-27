@@ -1,0 +1,2 @@
+★What's the difference between master data and metadata?
+You may be interested in this post "Meta Data vs Reference Data". One of the interesting issue is how to connect both: Meta Data vs Master/Reference Data, the missing link of data governance?    Embed Quote

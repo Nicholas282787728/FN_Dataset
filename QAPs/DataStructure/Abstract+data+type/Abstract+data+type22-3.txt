@@ -1,0 +1,2 @@
+How often does a computer scientist have to create their own ADT(abstract data type)? Ex: bigint?
+They don't need to be 'perfect' but creating your own types (be they OO or structs), is very common in real world programming. It's hard to imagine programming a lot of languages without making at least something. 

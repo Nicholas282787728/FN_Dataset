@@ -1,0 +1,2 @@
+Is the program of matrix triangular in the C language?
+Thanks for the A2A, could you explain your question? It looks like you want to make a triangular array/matrix in C, perhaps something like: 1 2, 3 4, 5, 6 

@@ -1,0 +1,2 @@
+★Is Unequal Sample Size in ANOVA a problem?
+You can run ANOVA with unequal sample sizes if you correct for that. Try using a weighted mean with the full (unequally-sized) samples and see what happens. This is a good R tutorial on doing so: http://www.r-bloggers.com/r-tuto...    Embed Quote

@@ -1,0 +1,2 @@
+What is your favourite graph theory problem?
+Originally Answered: What are your favorite graph theory problems?Graph theory itself is so popular for its problems. The one which I like most is the "Four Color Problem". Four Color Theorem states that .. Given any separation of a plane into contiguous regions, producing a map, no more than four colors are required to color the regions of the map so that no two adjacent regions have the same color. 

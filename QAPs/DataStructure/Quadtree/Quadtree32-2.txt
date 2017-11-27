@@ -1,0 +1,2 @@
+What's the best way to solve the "multiple indexing" problem in functional programming?
+I would make a function that takes the first index and returns a new function that takes the second index and then returns the item in question. Eg: getItem(1)(2) gives the item on the first row and the second column. To set these, write a function that is returned from a similar function, and takes the value to change the index to. setItem(1)(2)(newValue) Does this answer your question? 

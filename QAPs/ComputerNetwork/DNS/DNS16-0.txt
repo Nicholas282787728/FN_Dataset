@@ -1,0 +1,2 @@
+★Why does Asana host its DNS with Godaddy?
+Update: We no longer host our DNS on Godaddy. This was a poorly thought out decision, made by me, at the very beginning of the company. It is unfortunately somewhat high friction to change, but we've already had it on our task list to migrate. This morning's outage (following one of our own—nobody's perfect!) will certainly hasten that departure.

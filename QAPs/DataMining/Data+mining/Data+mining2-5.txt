@@ -1,0 +1,2 @@
+How do I learn data mining?
+University of Waikato offers a good MOOC on Data Mining taught by the creator of the well-known software in machine learning Weka, Prof Ian H. Witten. It's really a great course, step-by-step approach, divided in two parts: Data Mining with Weka and a more in-depth course  More Data Mining with Weka. If you are new in this area it is definitely a great starter course.    Embed Quote Updated 3 Sep, 2014. 1,315 views.

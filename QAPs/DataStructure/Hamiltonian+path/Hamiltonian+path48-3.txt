@@ -1,0 +1,2 @@
+I want to practice algorithms for 10 days (240 hours). Where should I start?I have fair knowledge of Algorithms.
+Here's a photo of a very popular algorithms textbook, Introduction to Algorithms, also known as CLRS after the authors' initials. I set an old Nokia featurephone next to it for scale. Thick puppy, isn't it? 1054 large-format pages, not counting front and back matter. A more realistic amount of time to work through it would be closer to 10 months than 10 days--assuming you study diligently. 

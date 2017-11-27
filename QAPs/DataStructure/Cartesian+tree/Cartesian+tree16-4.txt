@@ -1,0 +1,2 @@
+How is malloc implemented?
+Check this link this will give you some brief idea how malloc and delete implemented in c  Page on Inf 

@@ -1,0 +1,2 @@
+What data structures should I know to become a great programmer?
+As many as you need. There are some basic ones that you will encounter all the time and some that are problem or environment specific. So master those you need for your task and environment. Also learning data structures JFF is not a waste either. Having a large mental repository of data structures can give you to tools to solve problems when you meet them. 

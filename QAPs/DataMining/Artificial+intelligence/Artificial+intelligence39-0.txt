@@ -1,0 +1,2 @@
+What are some artificial intelligence projects for Python nerds?
+Detecting faces in a photograph using Scikit learn and python. Face detection using Naive Baye's classifier    Embed Quote 

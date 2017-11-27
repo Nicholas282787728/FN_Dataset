@@ -1,0 +1,2 @@
+★Why are 3G signals slow when riding a train?Is it because of the speed or bad coverage?
+Two big reasons why this is the case: because of electromagnetic interference from electric train motors and contention for signal with other commuters in the immediate vicinity. I'm sure there would be other reasons like 'lack of roaming aggressiveness' at high speed, somebody who is an engineer could explain that better than me.

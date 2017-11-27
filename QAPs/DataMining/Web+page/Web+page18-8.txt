@@ -1,0 +1,2 @@
+★What's the best way to implement a Mind Map as a web page?Not just a generated picture, but something more interactive, so you can edit it easily. Maybe some services have widgets or APIs.
+You can use html with an image mapper (like ISDN : http://www.isdntek.com/tagbot/im...) and make some area of the mindmap clickable  . Here is an example : www.philippeboukobza.net    Embed Quote

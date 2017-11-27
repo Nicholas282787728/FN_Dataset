@@ -1,0 +1,2 @@
+★Simple algorithm for trend detection in time series data?I'm looking for a simple algorithm to detect trends in time series data. It would be great if there is even an implemented java version of it. I'm not looking for the best most accurate algorithm, but I just want an algorithm that simple and good enough for the job.
+Triple exponential smoothing is capable of detecting trend as well as seasonal factors. The base principle is a moving average so it's not that hard to understand. Exponential smoothing    Embed Quote

@@ -1,0 +1,2 @@
+What is the easiest way to calculate the area under the curve (integral) of a graph in excel?
+Area under the curve is equal to sum of area of all trapezoids that can be drawn beneath the curve with the smallest width possible. The smaller the width, the more accurate is the estimate of overall area.   Formula for Area of a trapezoid is: (Sum of 2 vertical sides) / 2 x (Base of trapezoid) In the example in attached figure, the sum of all the smaller (trapezoidal) areas equals 66.4. 

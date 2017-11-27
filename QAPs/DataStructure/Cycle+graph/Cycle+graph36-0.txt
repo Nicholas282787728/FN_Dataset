@@ -1,0 +1,2 @@
+What is the most efficient way to count number of cycles in a directed/undirected graph?
+If you mean the number of independent cycles, for undirected graphs it is just edges minus vertices plus connected components (use DFS or BFS) but for directed graphs it's NP-hard. You can read about this problem on Wikipedia here. 

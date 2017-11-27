@@ -1,0 +1,2 @@
+What are the 10 algorithms one must know in order to solve most algorithm problems?
+Here are some: Range minimum queries Fast exponentiation Suffix trees and suffix arrays Segment trees Double BFS Divide and conquer Line sweep Binary and other N-ary searches Matrix multiplication, combined with fast exponentiation Nim games 

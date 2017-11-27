@@ -1,0 +1,2 @@
+★What are the best resources to learn about graph theory?Introductory material with an aim of understanding structure of social networks.
+I think that after reading the chapters in the CS 103X notes specified by Dan Robinson, one can read Algorithm Design by Kleinberg and Tardos for graph algorithms and their applications.    Embed Quote

@@ -1,0 +1,2 @@
+★Can neural networks be interpreted in terms of graphical model frameworks?
+No. The nodes and links in a feedforward neural network cannot be interpreted as probabilities, correlations and outcomes. Assuming that [1] is what you mean by graphical models. [1] http://www.cs.ubc.ca/~murphyk/Ba...    Embed Quote

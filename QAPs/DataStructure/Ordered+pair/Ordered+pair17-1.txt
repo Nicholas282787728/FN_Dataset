@@ -1,0 +1,2 @@
+Is the set of all ordered pairs of the form [math](x,0)[/math] with the standard operations in [math]\mathbb{R}^{2}[/math] a vector space?
+It is a vector space. A vector space that lies inside another vector space is called a subspace. The space [math]V := \{ (x,0) : x \in \mathbb{R} \}[/math] is in fact just a copy of [math]\mathbb{R}[/math] which is embedded in [math]\mathbb{R}^2[/math].  If you think of [math]\mathbb{R}[/math] as a line and [math]\mathbb{R}^2[/math] as the plane, then [math]V[/math] is the x-axis 

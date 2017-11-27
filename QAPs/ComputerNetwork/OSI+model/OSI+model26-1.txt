@@ -1,0 +1,2 @@
+★Which layer in TCP/IP stack is responsible for the work done in Physical layer of OSI model?Wikipedia say it doesn't concerns itself with that work and some websites say that all the work is done by link layer. what is the truth?
+Hi! The Datalink and the Physical Layer of the OSI model maps to the "Network Access" layer of the TCP/IP model.. it's a two in one.. :) So it's the Network Access layer that is responsible for the physical layer work. :)    Embed Quote

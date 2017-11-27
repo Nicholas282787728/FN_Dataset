@@ -1,0 +1,2 @@
+What type of mathematics is behind Pixar animation?
+A lot of numerical analysis. I saw a presentation on how they made the movies during summer and they simply had a long process of refinement that used different optimization and modelling methods at each stage of the pipeline. They are really good because they have very good software supporting this and very high standards in quality control. 

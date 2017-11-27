@@ -1,0 +1,2 @@
+Business Intelligence: What are some good BI tools for MySQL?
+Pentaho and Jaspersoft come to mind but I would be interested to hear other options as well.    Embed Quote 

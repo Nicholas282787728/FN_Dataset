@@ -1,0 +1,2 @@
+★Is there any algorithm for finding the routes in a maze?I need an algorithm to find the route through the maze. Anybody?
+There are good ones on the net. Basically, these use recursion / DP models.    Embed Quote

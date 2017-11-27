@@ -1,0 +1,2 @@
+Google+ is a directed graph and Facebook is an undirected graph. What are the implications?
+One implication is that Google+ can model a much wider range of type of relations, especially since Circles have user-tagged edges. Facebook tie strengths are probably much stronger though. Even if two nodes in Google+ may have mutual directed relations, this does not necessarily imply a strong tie. See 'Community Detection and Mining in Social Media', Huan Liu, for methods to estimate tie strength. 877 Views · 3 Upvotes

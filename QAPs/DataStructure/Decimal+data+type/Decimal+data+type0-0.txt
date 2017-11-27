@@ -1,0 +1,2 @@
+What is the difference among float, double and decimal data types? And how do you decide which one to use?
+It would depend on the programming language that is used. For example in java float is a 32 bit single precision number that goes upto 10**38. The double is 64 bit double precision number that goes upto 10**308. There is no decimal type in java. So you would use them based on your expected range and your choice of language. 

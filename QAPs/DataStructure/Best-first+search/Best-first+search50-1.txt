@@ -1,0 +1,2 @@
+What are 5 easy but useful algorithms in Computer Science to learn?
+Most important algorithms categories are :     Kruskal's algorithm     Dijkstra's algorithm:     Traveling salesman problem     Best-first search    Breadth-first search:    Binary search algorithm: 77 Views · 1 Upvote

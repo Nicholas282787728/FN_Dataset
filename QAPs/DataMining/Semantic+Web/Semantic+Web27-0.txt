@@ -1,0 +1,2 @@
+★What Semantic Web programming frameworks exist besides Jena?
+OpenRDF - http://www.openrdf.org/    Embed Quote

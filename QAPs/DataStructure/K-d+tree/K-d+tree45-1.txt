@@ -1,0 +1,2 @@
+Which algorithm should I use for searching on the basis of different values?
+If you can move the data out of the database, I would look at metric tree variants. I'd start with k-d tree, which is good for range and nearest neighbor searches. There are many specialized versions of a metric tree and you might find another that better meets your requirements. There should be plenty of open source libraries that you can utilize. 

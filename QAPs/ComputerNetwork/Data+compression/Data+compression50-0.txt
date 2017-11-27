@@ -1,0 +1,2 @@
+★What are some good resources for an absolute beginner eager to learn data compression techniques & then make something meaningful out of it?Also, please mention the prerequisites for learning data compression techniques.
+Hey ! The first thing you need is to understand cryptography. Basically all you do during data compression is encrypt it with a key that reduced the size of the data while keeping all the information intact.When the original data is required the crypted message is then decrypted.

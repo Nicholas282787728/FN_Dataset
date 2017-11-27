@@ -1,0 +1,2 @@
+★How can I compare mobile network operator churn rates?It seems operators only provide net adds these days, not churn. Does anyone know a reliable online source for churn statistics?
+The only person who knows the churn is the operator. If they're not disclosing it, they're not disclosing it, and any other numbers are estimates (that's analyst talk for 'invented'). But that said, most operators do report churn (I just went and found Verizon Wireless's figure in 10 seconds), so if you put the work in you'll get a pretty good idea.    Embed Quote

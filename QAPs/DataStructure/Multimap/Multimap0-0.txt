@@ -1,0 +1,2 @@
+Is there a javascript equivalent of the Multimap data structure?
+You could make one: var MultiMap = function(){    var content = {};    this.set = function(key, value)    {        if (content[key] === undefined) content[key] = [];        content[key].push(value);    },    this.get = function(key)    {        return content[key];    }}; 

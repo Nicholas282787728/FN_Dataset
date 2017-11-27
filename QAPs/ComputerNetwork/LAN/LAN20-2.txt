@@ -1,0 +1,2 @@
+★Is it possible to FireSheep in a non wireless (ie physical, cable based) LAN?I very well know that FireSheep can be used to sniff packets and info from unsecured wireless network. But can it be used over a physical Local Area Network ?
+Yes. As Andy Lemke says, if the Ethernet port you're on is attached to a hub, it's easy. Put the NIC into promiscuous mode and monitor packets. It's also possible on a switched network. Read: http://en.wikipedia.org/wiki/ARP... and Google "ARP poisoning" and "Ettercap".    Embed Quote

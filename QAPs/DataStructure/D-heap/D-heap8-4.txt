@@ -1,0 +1,2 @@
+Where are the arrays in C stored, in a stack or a heap?int n; scanf("%d",&n); int arr[n]; In the above code in C, when the prog
+The example you gave is not C but the C99 dialect, which allows runtime allocation of arrays on the stack. This won't work in standard C++ either. In standard C, the way to do this is to use alloca() 

@@ -1,0 +1,2 @@
+Let f(x)=ax 2 +bx+c  be a quadratic polynomial where a,b,c  are real numbers. How can it be proved that f(f(x))=x  has no real solution?
+I have verified this graphically.  I don't have a mathematical proof: Draw the graph of any quadratic.  Draw all possible cases. In each case, identify the range and mark it on the x axis Take this range as the domain and find the new range for each case. This is f (f(ax^2+bx+c)) You will see that the new range has no intersections with y=x Only exception will be when,  as Nikhil has pointed out, 0 is a root of the original quadratic 

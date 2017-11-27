@@ -1,0 +1,2 @@
+★What problems in biology involve the collection and analysis of multi-terabyte data sets?
+Connectomics, where you try to slice up a whole mouse brain or section thereof and trace all the connections between neurons.    Embed Quote 

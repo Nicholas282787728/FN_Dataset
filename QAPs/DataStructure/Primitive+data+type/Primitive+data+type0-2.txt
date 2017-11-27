@@ -1,0 +1,2 @@
+Why can't ArrayList store primitive data types?
+Arraylists can store primitive types but u will have to use their class representations to store them. For example if u want to store int data type, u will have to use Integer class for the same.. Another reason is trying to store primitive types as objects in arraylist inturn  results in decrease in performance. 

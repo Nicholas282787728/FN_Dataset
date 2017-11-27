@@ -1,0 +1,2 @@
+Can somebody provide me an online resource to get the C++ implementations of fundamental data structures like linked lists/ stacks/ queues/ trees/ heaps etc?
+Some in C & some in C++: Stack: Stack | Set 1 (Introduction) - GeeksQuiz Queue: Queue | Set 1 (Introduction and Array Implementation) - GeeksQuiz Queue | Set 2 (Linked List Implementation) - GeeksQuiz Linked List: Linked List | Set 1 (Introduction) - GeeksQuiz (Binary) Tree Binary Tree | Set 1 (Introduction) - GeeksQuiz (Binary) Heap Binary Heap - GeeksQuiz More: Data Structures - GeeksforGeeks 

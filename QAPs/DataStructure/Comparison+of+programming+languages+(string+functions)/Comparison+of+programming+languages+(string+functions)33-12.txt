@@ -1,0 +1,2 @@
+What are the top ten things a beginner must know about JavaScript?
+I recent wrote an article for AirPair on eleven common mistakes JavaScript programmers make. See http://www.airpair.com/javascrip... I hope you find it useful. 

@@ -1,0 +1,2 @@
+★Difference between stochastic gradient descent and online learning?
+SGD is just one type of online learning algorithm.  There are many other online learning algorithms that may not depend on gradients (e.g. perceptron algorithm, bayesian inference, etc).    Embed Quote

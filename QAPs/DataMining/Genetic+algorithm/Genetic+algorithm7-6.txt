@@ -1,0 +1,2 @@
+★What are some real-world applications of genetic algorithms?Answers should point to specific usages, not potential ones.
+John Koza, has more than 20 patents for real world applications that his cluster of processors discovered with GA Homepage of John Koza -> johnkoza    Embed Quote

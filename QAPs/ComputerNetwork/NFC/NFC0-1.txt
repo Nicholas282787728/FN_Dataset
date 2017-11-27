@@ -1,0 +1,2 @@
+★What is NFC?
+The primary use of NFC, when it was developed, was configuration of Bluetooth. Currently, the primary use of NFC is door entry systems and ticketing systems such as Oyster on Transport for London. The use of  of NFC for payments is one, you could argue, that is already widely used but in Contactless debit and credit cards and is slowly making its way to the mobile. There are many other uses for NFC such as keyless door entry, time and attendance recording, information sharing via NFC tags etc.    Embed Quote

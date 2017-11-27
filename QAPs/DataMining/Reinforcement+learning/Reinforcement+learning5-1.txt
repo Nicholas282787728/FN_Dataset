@@ -1,0 +1,2 @@
+★Machine Learning: What will be the coolest areas to apply deep learning and reinforcement learning in the next 5-10 years?
+Healthcare (especially in drug formation and delivery). Deep learning will make impact healthcare the most due to it's ability to make inferences from several different parameters.    Embed Quote

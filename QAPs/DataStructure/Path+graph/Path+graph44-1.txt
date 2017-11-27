@@ -1,0 +1,2 @@
+How can I find the longest simple path in a directed, not necessarily acyclic graph?
+Let f(x) be the longest path ending at node x. Your recurrence is f(x) = 1 + max( f(y) ), where y are all parents of x, or 0 if x has no parent. You can compute this efficiently by traversing the DAG in toposort order, i.e. compute f(x) before f(y) for any (x,y) such that there is an edge from x to y. Edit: The original version of this question was about acyclic graphs. As the question title has changed, this answer is less relevant. 

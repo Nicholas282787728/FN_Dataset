@@ -1,0 +1,2 @@
+Why does not my website site map get indexed?
+If your website site map is not getting indexed you need to submit them manually to the major search engines. Here is an article that walks you through how to submit to each search engine. First, you should use a sitemap generator like DYNO Mapper (http://www.dynomapper.com) to make sure that your sitemap follows the correct protocol. Don't forget to adjust your Priority Level and Change Frequency so that they pay you another visit in a timely manner. Updated 10 May

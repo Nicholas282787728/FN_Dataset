@@ -1,0 +1,2 @@
+★Do Fast Ethernet and 10 Mbps Ethernet use the same MAC protocols?
+Yes, 10Mbps Ethernet and 'Fast Ethernet' (100Mbps) and Gigabit Ethernet all use the same MAC protocols: IEEE 802.3. In fact, all of them can be bridged together by the appropriate type of network switch.

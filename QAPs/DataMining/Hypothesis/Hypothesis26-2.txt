@@ -1,0 +1,2 @@
+★What is a null hypothesis in layman's terms?
+The null hypothesis is the statement that you attempt to disprove using the data.  A statistical test compares the data to the assumptions of the null hypothesis and, if the data observed is extremely unlikely to be generated under these assumptions, rejects the null hypothesis.    Embed Quote

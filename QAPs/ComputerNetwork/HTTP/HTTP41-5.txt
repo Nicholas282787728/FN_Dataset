@@ -1,0 +1,2 @@
+★For downloading, is HTTP or FTP better nowadays?FTP seems to have fallen behind both in terms of clients and servers, if these two protocols are to be compared by download capabilities, which will win, and why ? Are HTTP a better choice nowadays ?
+FTP connection is more resilient.

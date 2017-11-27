@@ -1,0 +1,16 @@
+★What is mean of metadata?
+Data relating to data. A sort of context. Without metadata, data is meaningless. For example, if we had a table: 1
+2
+3
+4
+5
+6
+ +----+---+ | ZA | 6 | | CN | 2 | | NG | 2 | | US | 3 | +----+---+ The meaning of the values is useless. However,If we add metadata: 1
+2
+3
+4
+5
+6
+7
+8
+ +---------+--------------------------+ | Country | Number of Colors on flag | +---------+--------------------------+ |   ZA    |            6             | |   CN    |            2             | |   NG    |            2             | |   US    |            3             | +---------+--------------------------+ The meaning becomes apparent.    Embed Quote

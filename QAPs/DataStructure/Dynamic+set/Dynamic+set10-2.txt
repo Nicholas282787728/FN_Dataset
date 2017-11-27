@@ -1,0 +1,1 @@
+Is there a Python script or way to send a file or two to two different computers that have changing IP addresses (due to using different wifis and dynamic set up)?Check out DynDNS or alternatives. This will give you stable hostnames you can connect to even if the IP addresses change.

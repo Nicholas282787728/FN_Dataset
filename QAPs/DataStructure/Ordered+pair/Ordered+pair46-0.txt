@@ -1,0 +1,2 @@
+What is an integer?
+The word integer comes from the Latin.  Literally it means untouched, but its usual meaning is entire, having no part taken away, or whole.  When applied to numbers, it refers to whole numbers.  It's been used that way in English since 1571. So, if you prefer old English words like "whole" to upstart, Latin-derived words, call them whole numbers. Of course, you'll still denote the set of integers by [math]\mathbf Z[/math] which comes from the German word for number, Zahlen.  Ain't language grand? Updated 11w ago • View Upvotes

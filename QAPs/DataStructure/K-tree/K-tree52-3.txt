@@ -1,0 +1,2 @@
+How can I compare images of the same origin that were cropped?
+Maybe by computing a cross-correlation between the two images. The value of the peak should be quite high. 

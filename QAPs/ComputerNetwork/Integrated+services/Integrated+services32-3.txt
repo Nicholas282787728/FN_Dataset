@@ -1,0 +1,2 @@
+★How does 3rd party web service integration work ?Is it possible to discuss some issues on api design and implementation over a sequence of Q&A series.
+One of the main challenges with APIs is that if they are poorly thought out from the beginning then they may not extend well into the future.  The caveat is that, thinking about future use can cause paralysis by over analysis; or too many unneeded features and bloat. Only experience and good software  help to create a good api.    Embed Quote

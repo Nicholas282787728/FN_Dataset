@@ -1,0 +1,2 @@
+★How can I run linear regression in parallel?
+The computations involved in linear regression can be expressed in terms of matrices, and once you see what those are, it's not too hard to find parallel versions.    Embed Quote

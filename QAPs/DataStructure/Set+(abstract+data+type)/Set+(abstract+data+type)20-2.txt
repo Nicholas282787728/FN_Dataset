@@ -1,0 +1,2 @@
+Is an interger an example of an abstract data type?
+I don't think so, but the representations of integers in a machine seem to be ADT. You want a data type to represent integers, so you design an ADT, called int, long, or whatever, and you assign "interfaces" such as addition, multiplication, etc. But why do you want to know? :-) 

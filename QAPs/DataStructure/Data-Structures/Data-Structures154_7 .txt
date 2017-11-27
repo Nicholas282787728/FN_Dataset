@@ -1,0 +1,1 @@
+Which data type should I use for storing n=10^14 in C?To be on a safer side ,I think you should use : unsigned long int n =pow(10,14); If you are sure that n is a positive integer . Here long would help avoid any future overflow errors. PS- Don't forget to include header file math.h if you are going to use pow() function. Thank you… 30 Views

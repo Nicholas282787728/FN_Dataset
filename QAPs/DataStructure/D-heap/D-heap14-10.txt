@@ -1,0 +1,2 @@
+What is the simplest intuitive proof of Dijkstra’s shortest path algorithm?
+Originally Answered: How can you prove correctness of Dijkstra algorithm?It has been answered, and brilliantly that too, here - What is the simplest intuitive proof of Dijkstra’s shortest path algorithm? 

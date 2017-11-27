@@ -1,0 +1,2 @@
+How is the data for Google's "use over time" graphs gathered?
+It's based of of written documents. As Google already has a vast selection of these in Google Books, it would be simple for them to search their library and find how frequently mentioned any given word is. My guess would be that they average out the number of mentions per book of each publication, and put it into that lovely gray graph for all to see on Google Search. 

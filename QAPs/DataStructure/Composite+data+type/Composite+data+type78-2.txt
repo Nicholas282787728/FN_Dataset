@@ -1,0 +1,2 @@
+What is eBay's architecture?
+http://highscalability.com/ebay-... and u can also follow Randy Shoup who use to be a chief engineer and distinguished Architect 

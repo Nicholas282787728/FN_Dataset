@@ -1,0 +1,2 @@
+★What are some good interview questions asked from computer networks?I am a fresher.
+1 . What happens after you enter any URL in Browser? 2 . How NAT,DNS Works,? 3 . Socket Programming 4. TCP/IP and OSI layers(Protocols,Application etc)

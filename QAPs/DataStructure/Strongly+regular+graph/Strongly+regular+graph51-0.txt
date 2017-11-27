@@ -1,0 +1,2 @@
+How much harder is it for an experienced software developer to get a job at big companies like Google and Facebook compared to a fresh university graduate?
+Depends. A fresh graduate lacks typical real world development practices, but will be strong on the most academic aspects of development. The inverse is also true, depending on the kind of job the experienced developed held. If he/she didn't have to build RB-trees, shortest distance in a graph, Dynamic Programming in a regular basis, he/she better do some exercises on these topics. 

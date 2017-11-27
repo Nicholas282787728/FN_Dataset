@@ -1,0 +1,2 @@
+★What is a good public dataset for implementing k-means clustering?
+Try the word vectors. You can download some at word2vec - Tool for computing continuous distributed representations of words. - Google Project Hosting or other places. It's a big dataset but still the results (clusters) should be easy to interpret by human.    Embed Quote

@@ -1,0 +1,2 @@
+What is the best way to scrape data from a website?
+If you know CSS (selectors) or regex, this might be worth checking - ScrapeGoat API | Mashape If you need results automagically returned in JSON, check this - PhantomJs.Cloud - Web Browser and Webpage processing as a Service API | Mashape    Embed Quote 

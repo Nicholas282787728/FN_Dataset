@@ -1,0 +1,2 @@
+★What are the best open source SMTP servers?in terms of reliability, performance, number of emails sent per day.
+Sendmail is probably still the most widely used, though postfix is better on the resources and easier to configure.    Embed Quote

@@ -1,0 +1,2 @@
+★Are there implicit Gaussian assumptions in the use of PCA (principal components analysis) ?
+Maybe not every PCA algorithm assumes Gaussian distributions but some do.I think it also comes down to SVD method implicit in PCA. The principal components algorithm (Hotelling 1933) ﬁts a linear mixture of one-dimensional Gaussian sources of minimal variance to samples from a high-dimensional distribution. http://bme.ccny.cuny.edu/faculty...    Embed Quote

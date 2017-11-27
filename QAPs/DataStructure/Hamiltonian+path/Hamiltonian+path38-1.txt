@@ -1,0 +1,2 @@
+Given a graph, how to compute all of the possible topological sort outcomes?
+You're going to build a tree where every path from the root to a leaf corresponds to a valid topological sort.  Start with a node n 0   which you assign as the root.  Add an edge (n 0 ,v)  to every vertex v  of indegree zero.  From there, recursively build a tree with v  as the root and looking for topological sorts of the graph without v  . 

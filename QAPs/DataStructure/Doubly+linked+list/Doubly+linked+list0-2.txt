@@ -1,0 +1,2 @@
+What is real life use of doubly linked lists?
+I just finished coding a small program for a job interview where a robot had to turn North, South... And I used a doubly linked list for this. The real life used for data structures and algorithms is whatever you want it to be as long as you know how they work and how to implement them right. All you need is a little imagination to use them to your advantage, cheers! 

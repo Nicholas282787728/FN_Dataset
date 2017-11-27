@@ -1,0 +1,2 @@
+★How can I run linear regression in parallel?
+The solution to a linear regression problem is the solution of the following linear least-squares system: Or rewritten in Ax = b form: There has been some recent work on using iterative approaches on GPUs for solving linear equation systems. Linear regression problems are typically dense, and may be suited to GPU techniques. Parallel preconditioned conjugate gradient algorithm on GPU On the other hand there are parallel solvers for sparse systems: HSL for IPOPT    Embed Quote

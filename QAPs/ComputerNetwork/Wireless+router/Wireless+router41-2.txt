@@ -1,0 +1,2 @@
+★How can i connect to bsnl broadband internet with belkin basic N150 wireless router?
+I think connect to internet by creating Wifi zone is almost similar. Check this article How to Configure BSNL Boardband Modem to enable WiFi    Embed Quote

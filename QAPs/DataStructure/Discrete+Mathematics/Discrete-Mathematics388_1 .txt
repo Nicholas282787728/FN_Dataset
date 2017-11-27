@@ -1,0 +1,1 @@
+Using precedence how these 2 operators make sense p∨q∧r => (p∨(q∧r))?Precedence tells you that you must first use the and (/\) operator followed by the OR (\/) operator. The addition of the parenthesis, just show how precedence works with logic. Discrete Mathematics/Logic 27 Views  View Upvotes

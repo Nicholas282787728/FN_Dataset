@@ -1,0 +1,2 @@
+How can I crunch big data sets with my laptop?
+"I don't have access to rocking fast computers. [...] a distributed "super computer" group  that I could join up with" well yes you do as long as you can use a credit card http://aws.amazon.com/ec2/ (required even for the free tier AFAIK).    Embed Quote 

@@ -1,0 +1,2 @@
+Is there a case of a relevant mathematical proof that was accepted as valid but later proved to be wrong?
+The best-known case is probably that of Alfred Bray Kempe's proof from 1879 of the four colour theorem in graph theory. In 1890 Heawood found a flaw in the proof. But in his "proof" Kempe introduced the idea of Kempe Chains. This method was also used in what is now accepted as the correct proof of the theorem by Appel and Haken, which appeared almost 100 years later, in 1976. 

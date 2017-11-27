@@ -1,0 +1,2 @@
+Mathematical Fallacies: How does one explain the “π = 4” proof regarding a square reduced to a circle?
+Originally Answered: What's wrong in this?what it did here was, it took a dx element (or made a small tangent to it) and measured sum of its projections on x-axis and y-axis, when actually u need to measure the length dx(or small tangent) and integrate. and we all know sum of sides is greater than the hypotenuse, so in a way it gives us a limit for pi rather than an actual value. 

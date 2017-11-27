@@ -1,0 +1,2 @@
+How do I make TSP as fast as possible?
+Greedy algorithm (E.g.,  Nearest neighbour algorithm)  for approximation. 

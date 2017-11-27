@@ -1,0 +1,2 @@
+★Should I virtualize every single application server by default - so it will be 6 vms?
+You can run all in the same server as long as they dont interfere with the others in terms of cpu, memory or io. If you want to isolate them, you can put them in Docker containers so if requirements grow you can move them individually to other physical or vm servers.

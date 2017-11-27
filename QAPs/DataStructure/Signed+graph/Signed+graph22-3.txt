@@ -1,0 +1,2 @@
+Does correlation imply causation or just higher risk?
+Absolutely not. This is a false cause logical fallacy that many people commit, and which some politicians base entire campaigns on! A correlation can be one piece of evidence towards building a case for causation, but it does not in and of itself *prove* causation.  If you have any doubt, follow the website Spurious Correlations. One of my favourite examples of correlation not causation is: Per capita consumption of cheese (US) correlates with Number of people who died by becoming tangled in their bedsheets 

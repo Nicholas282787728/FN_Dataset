@@ -1,0 +1,2 @@
+★What is the most common programming language for solving linear programming problems?
+I can't be sure about this, the only one I've ever used was MS Excel with Solver (add-in, you just have to enable it)    Embed Quote

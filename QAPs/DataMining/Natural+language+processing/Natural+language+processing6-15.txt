@@ -1,0 +1,2 @@
+★What are the available APIs for NLP (Natural Language Processing)?What are the (open and commercial) available APIs for doing Natural Language Processing?
+SRI Language Modeling Kit. Ref: http://www.speech.sri.com/projec... This blog post (http://www.searchenginecaffe.com...) gives a pretty good list.    Embed Quote

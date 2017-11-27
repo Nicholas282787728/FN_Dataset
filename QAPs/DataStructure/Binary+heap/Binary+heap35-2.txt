@@ -1,0 +1,1 @@
+What should be the maximum size of segment tree built on an array on 100,000 elements?

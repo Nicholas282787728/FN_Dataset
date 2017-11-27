@@ -1,0 +1,2 @@
+What is the best way to implement an autocomplete search feature when dealing with large data sets?
+SRCH2 | Search Forward develops a search engine specifically for this kind of instant search, even with error correction.  The product is available on the Web site.    Embed Quote Updated 27 Apr, 2013. 1,404 views.

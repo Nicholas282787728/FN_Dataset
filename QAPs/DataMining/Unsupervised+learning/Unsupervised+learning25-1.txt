@@ -1,0 +1,2 @@
+★What is the state of the art of the unsupervised learning? And the online unsupervised learning ? Are there any good papers or materials suggested to read?
+Most of the current approaches for unsupervised learning is deep learning methods like autoencoders rbm and such. They are capable of serving polyglot solutions that is for image recognition, audio recognition and text processing topics are covered well. I recommend to look deep learning into deep.    Embed Quote

@@ -1,0 +1,1 @@
+What is Theta of (log ((N^2)!))?Stirling’s approximation gives us 2π − −  √  k k+12  e −k ≤k!≤e k k+12  e −k   2π kk+12e−k≤k!≤e kk+12e−k which means logk!=Θ(nlogn−n)  log⁡k!=Θ(nlog⁡n−n) So, Θ(log(n 2 )!)=Θ(n 2 logn−n 2 )=Θ(n 2 logn)  Θ(log⁡(n2)!)=Θ(n2log⁡n−n2)=Θ(n2log⁡n) 160 Views · View Upvotes

@@ -1,0 +1,1 @@
+How do I find the subset of an array in c?There are many ways to find subset in a array Consider a situation when you have a large number of elements in an array then 1:Break them into smaller array(according to size of the array) and store them into another array. 2:Use condition to break them and store in another array. 40 Views

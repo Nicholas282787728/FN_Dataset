@@ -1,0 +1,2 @@
+How do I sort array of pair<int, int> in C++ according to the first and the second element?
+This might be a question of design. If you know this array will be sorted at some time as an integral part of the operation, it may be short-sighted to start with such an array. Why not use an appropriate container to begin with that supports the ordering you want whilst its elements are added e.g. multimap<int, int>? 

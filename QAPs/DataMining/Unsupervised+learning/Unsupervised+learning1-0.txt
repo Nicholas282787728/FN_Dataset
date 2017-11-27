@@ -1,0 +1,2 @@
+★Which machine learning algorithms effectively combine supervised and unsupervised learning?What ML algorithms beyond Restricted Boltzmann Machines and similar deep learning effectively combine learning from both labeled and unlabeled data
+The term you're looking for is "semi-supervised" and there are a ton of methods in this category: http://en.wikipedia.org/wiki/Sem... Jerry Zhu's overview is a pretty comprehensive in-depth primer: http://pages.cs.wisc.edu/~jerryz...    Embed Quote

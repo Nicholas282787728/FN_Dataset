@@ -1,0 +1,2 @@
+★What is the intuitive meaning of the solution to the problem of finding least-squares linear-regression coefficients?
+View the latest videos on Linear Regression by Andrew NG on Coursera for his course on Machine Learning, or his YouTube videos session 1 and 2. They give you an intuitive explanation from scratch.    Embed Quote

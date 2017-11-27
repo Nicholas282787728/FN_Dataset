@@ -1,0 +1,2 @@
+★Is there any communications channels that can not be assumed to be at least as hostile an ABE (Alice/Bob/Eve) channel?
+None that I am aware and even if their where only an idiot would use that fact

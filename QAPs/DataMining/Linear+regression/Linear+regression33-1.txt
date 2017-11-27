@@ -1,0 +1,2 @@
+★What is the formula for finding the coefficient in linear regression with four independent variables?
+Excel has a built in data analysis package that you can just use to do this. Select your data and with a few mouse clicks you'll get the betas from the regression.    Embed Quote

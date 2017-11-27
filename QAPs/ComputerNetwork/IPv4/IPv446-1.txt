@@ -1,0 +1,2 @@
+★Why does my computer's ipv4 address changes?
+Whenever you turn on your laptop, it asks the DHCP server if it could have the IP which the dhcp server gave the last time. If the ip is still available then the ip remains the same, otherwise if the ip got assigned to some other device in the network then your laptop will get a new ip

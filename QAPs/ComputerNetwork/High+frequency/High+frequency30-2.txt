@@ -1,0 +1,2 @@
+★Is high-frequency trading a zero-sum game?
+HFT is the reason that bid/ask spreads are so small...it's the HFT firms that are the market makers.  If there were no retail/institutional order flow, yes it would be a zero-sum game...ie HFT firms would be trading against themselves all day. If you like the tight bid/ask spreads you see on TD Ameritrade, then you have HFT to thank.  However, the systematic risk of HFT is another issue.

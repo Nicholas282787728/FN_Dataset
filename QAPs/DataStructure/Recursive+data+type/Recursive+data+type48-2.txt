@@ -1,0 +1,2 @@
+How can I learn to think like a functional programmer?
+Stop thinking about a program as a sequence of operations. Think about the relationship between input and output. Declare outputs in terms of inputs instead of instructing the machine to perform operations. The shift in thinking might be as subtle as in declaring x to be the sum of 2+2 rather than telling the machine to add 2 to 2 and store it in x. Declare the set of solutions to a sudoku puzzle as the subset of all possible diagrams filled with numbers, which fulfill certain conditions. 

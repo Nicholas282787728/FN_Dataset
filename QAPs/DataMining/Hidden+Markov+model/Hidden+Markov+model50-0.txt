@@ -1,0 +1,2 @@
+★What topics of probabilistic theory should I learn before studying hidden Markov model?
+For a basic understanding, not much actually. I don't know what is your intended area of application, but for robotics applications you must know basic probability theory, total probability and Bayes theorem to begin with. I suggest you read probabilistic robotics by Sebastin Thrun. He also covers the pre-requisites required for understanding most of the material.    Embed Quote

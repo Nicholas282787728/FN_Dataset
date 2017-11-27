@@ -1,0 +1,2 @@
+★What is the difference between a PHP and HTML Web page?
+In a PHP page, you can use all sorts of business logic and then display the page accordingly. Your page becomes dynamic. A PHP page can fully use all the power of HTML but a HTML page is simply a static page which cannot be used to implement any business logic.    Embed Quote

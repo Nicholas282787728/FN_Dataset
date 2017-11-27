@@ -1,0 +1,2 @@
+★How do you write a parallel k-means clustering?
+Hey, If you're hands on Python, try sklearn package and set the n_jobs to number of CPUs. sklearn.cluster.KMeans - scikit-learn 0.15.2 documentation    Embed Quote

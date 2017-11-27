@@ -1,0 +1,2 @@
+★Regression (statistics): What is the difference between Ordinary least square and generalized least squares?
+OLS gives equal weights for all observations    Embed Quote

@@ -1,0 +1,2 @@
+★Has anyone used text analytics techniques to analyze unstructured patents data?Methodology; Tools; Suggestions; How important is the use of ontologies
+Text analytics for patents is a rather niche field, and yes, we have a tool that offers in-depth analytics for patent data. It can help you carry out tasks such as IP creation, prior-art searches, technology landscaping, and IP licensing. Take a look at our blog Relecura Blog | Simplify IP for some interesting use case scenarios.    Embed Quote

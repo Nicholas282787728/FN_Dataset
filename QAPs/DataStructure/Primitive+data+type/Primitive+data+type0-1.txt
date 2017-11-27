@@ -1,0 +1,2 @@
+Why can't ArrayList store primitive data types?
+Primitive data types cannot be stored in ArrayList but can be in Array. ArrayList is a kind of List and List implements Collection interface. Collection container expects only Objects data type and all the operations done in Collections, like itterations, can be performed only on Objects and not Primitive data type. Primitive data can be stored in Collection only after wrapping them into their corresponding Wrapper classes eg: int to Integer and so on. 

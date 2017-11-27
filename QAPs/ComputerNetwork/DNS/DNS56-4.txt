@@ -1,0 +1,2 @@
+★Domain Name System (DNS): Which is better, Bind or PowerDNS?
+This is an interesting look at BIND versus DJBDNS: A Comparison of Performance, Ease of Configuration, and Security  The report is rather lengthy, but it definitely indicates that DJBDNS is a clear winner.

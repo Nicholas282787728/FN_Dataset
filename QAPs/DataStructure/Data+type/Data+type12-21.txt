@@ -1,0 +1,2 @@
+Which data type is better either float or double in c++?
+See double is used for integers as well as decimal numbers. The only thing is when you write your code write the numbers decimals to get correct answers such as for 20 use 20.0 and 79 use 79.0. 16 Views

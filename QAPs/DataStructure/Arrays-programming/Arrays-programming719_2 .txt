@@ -1,0 +1,1 @@
+How do I make an array selection, based on another array?You mean if b[] has indices which should be used in a[]? Then a[b[2]] takes the index in b[2] and takes a[that index]  In your case: arrayToSelect[anotherArray(3,1,5)] (but only if anotherArray is of integers) 115 Views  View Upvotes

@@ -1,0 +1,2 @@
+What are some of the best algorithms?
+Quoting my own answer from another question, Knuth–Morris–Pratt algorithm ( KMP ) Very simple, easy to code and surprisingly smart. At first, I was finding it hard to realize how it works in linear time. I think most of the people do the same because, the code looks almost too simple for doing a non-trivial task of string matching in linear time. The failure function of this algorithm is pretty much the base of most of the suffix structure related algorithms/data-structures. 2.1k Views · 16 Upvotes

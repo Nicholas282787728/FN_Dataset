@@ -1,0 +1,2 @@
+★Natural Language Processing: What are good algorithms related to sentiment analysis?
+This is an awesome ppt from Bing Liu - www.cs.uic.edu/~liub/FBS/sentiment-analysis-tutorial-2012.pdf‎ There is also a superb book he wrote - Sentiment Analysis and Opinion Mining I found his material very useful to get a thorough understanding on this space.    Embed Quote

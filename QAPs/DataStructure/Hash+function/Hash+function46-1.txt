@@ -1,0 +1,2 @@
+For a simple hash function h(k) = k mod M, why should M be a prime number?
+Originally Answered: Cryptography: What is the advantage of taking a prime modulo when calculating hash functions?Is nt your question the same  as For a simple hash function h(k) = k mod M, why should M be a prime number?  ? If not please add more information . Assuming you choose sufficiently large prime number p, all the numbers that are lesser than the prime number p are relatively prime to p which explains the evenly spreading out  the values of ax+by 

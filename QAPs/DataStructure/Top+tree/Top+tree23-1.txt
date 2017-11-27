@@ -1,0 +1,2 @@
+What are some good tutorials on segment trees?
+Topcoder - http://community.topcoder.com/tc... PEGWiki - http://wcipeg.com/wiki/Segment_tree 

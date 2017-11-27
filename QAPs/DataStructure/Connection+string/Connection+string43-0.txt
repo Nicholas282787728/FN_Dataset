@@ -1,0 +1,2 @@
+How do I fix error object reference not set to an instance?
+I guess the problem lies here is the Sqlconnection object cn which u  must have used without initializing. P.S you have not used con object I guess u wanted to use that nd used cn instead...hope it helps 

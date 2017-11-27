@@ -1,0 +1,2 @@
+★Could iPhone access FTP?
+Sure it can.  Look up the application "Transmit".  It works great!

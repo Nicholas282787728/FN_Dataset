@@ -1,0 +1,2 @@
+★For N normally distributed numbers, what is the probability distribution of the variance of those numbers?
+It’s the chi-squared distribution with degrees of freedom, up to a scaling factor. Specifically, if is the sample variance of , then . A proof is given here. Since the mean of the distribution is , this implies that the expectation of the sample variance is . That explains why the sample variance is defined the way that it is, with a denominator of instead of .    Embed Quote

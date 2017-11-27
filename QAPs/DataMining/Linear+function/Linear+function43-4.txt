@@ -1,0 +1,2 @@
+★Why is Linear Algebra a prerequisite behind modern scientific/computational research?
+Linear algebra is the workhorse of applied mathematics. You can dream big, but general you cannot do much with applied mathematics without employing linear algebra.    Embed Quote

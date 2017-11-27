@@ -1,0 +1,2 @@
+What is the best book on data-structures for beginners?
+I had found Data Structures Using C: Aaron M. Tenenbaum: 9780131997462: Amazon.com: Books a very good one during my college days. Though it deals with the concepts in a very short manner but it is good book to have and start with. Also, after each topic there are multiple questions that are worth trying to improve the learned concepts. You can also follow Coursera lectures that is going to start soon in Jan'14 by famous author Robert Sedgewik. 

@@ -1,0 +1,2 @@
+★How long is it going to take until mass adoption of IPv6 (>50% of users with IPv6 only)?
+At this stage, I suspect that the majority of big companies will still be using IPv4 for their internal networks by 2020; I've seen no evidence that there will be a significant adoption in the next 10 years.   Even the ISPs don't seem to be rushing to implement this; so the majority of home users will be unlikely to change over.   Possibly by 2030? (But I wouldn't put any money on it)    Embed Quote

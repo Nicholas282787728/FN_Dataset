@@ -1,0 +1,2 @@
+★How is audio transmitted using infrared light?
+First you have to find the encoding system they use and what each type of signal means and the sounds they produce and then make a program for your mobile that converts the text you type to the encoding system the speaker uses and you are good for mischief    Embed Quote

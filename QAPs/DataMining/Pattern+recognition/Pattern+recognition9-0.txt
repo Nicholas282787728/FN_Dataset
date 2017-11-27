@@ -1,0 +1,2 @@
+★What are good textbooks for pattern recognition?
+For a practical overview of pattern recognition and statistical learning in general you should check out "An Introduction to Statistical learning" which you can download for free here: Page on usc.edu For a deeper understanding of the same techniques you should check out "Elements of statistical learning": data mining, inference, and prediction. 2nd Edition.    Embed Quote

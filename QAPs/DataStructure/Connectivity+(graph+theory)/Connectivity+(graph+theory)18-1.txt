@@ -1,0 +1,2 @@
+What is the difference between a graph and tree in data structures and algorithms?
+In simple words, tree does not contain cycles and where as graph can. So when we do search, we should avoid cycles in graphs so that we don't get into infinite loops. Another aspect is tree will typically have some kind of topological sorting or  a property like binary search tree which makes search so fast and easy compared to graphs. 

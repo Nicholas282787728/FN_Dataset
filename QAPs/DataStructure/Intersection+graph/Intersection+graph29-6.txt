@@ -1,0 +1,2 @@
+How can you solve 8 x +9 x =10 x   ?Without trial and error or approximation methods, please show details.
+Convert the equation to f(x)=8 x +9 x −10 x =0  . The f ′ (x)=8 x ln8+9 x ln9−10 x ln10=ln8 8 x  9 9 x  10 10 x     . Form the sequence {x n }  where x 0 =0  and x n+1 =x n −f(x n )f ′ (x n ) =x n −8 x n  +9 x n  −10 x n  ln8 8 x n   9 9 x n   10 10 x n       x 0 =0  x 1 =−7ln8⋅910    Updated 12 Apr • View Upvotes

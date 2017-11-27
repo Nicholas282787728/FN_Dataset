@@ -1,0 +1,2 @@
+I am confused whether to use angular.js, underscore.js react.js, ember.js or backbone.js for my next project. Can someone help me with material which states which type of web apps each library rocks at?
+As with everything in software engineering, the answer is React! :-P Tongue-in-cheek, obviously, but not far from the truth for front-end development IMO. Go with React, React-Router, React-Bootstrap, Flux (Alt, Reflux, NuclearJS), Babel and Webpack as the primary building blocks. 

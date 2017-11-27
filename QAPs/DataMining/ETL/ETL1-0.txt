@@ -1,0 +1,2 @@
+★Business Intelligence: ETL : which is the best open source ETL tool to start working ? specially if we are kick starting a BI project
+Best, I wouldn't say, but Talend (http://www.talend.com/index.php) and Kettle (http://kettle.pentaho.com/) are good and popular bets.    Embed Quote

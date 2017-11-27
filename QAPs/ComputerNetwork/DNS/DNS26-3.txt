@@ -1,0 +1,2 @@
+★What are some creative uses for DNS TXT records?
+I just set up a "dyndns" service using amazon route53. I'm adding the last update date as a TXT record. setting up a dyndns service with route53

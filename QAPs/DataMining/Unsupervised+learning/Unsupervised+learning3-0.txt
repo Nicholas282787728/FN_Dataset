@@ -1,0 +1,2 @@
+★What is the difference between supervised and unsupervised learning algorithms?
+Supervised: Labels are given and you try to learn how to predict/model them. Example: Learn how to predict if a patient will get cancer based on past data of labeled patients. Unsupervised: Labels are not given and you try to extract information in general out of your data. Example: How many different factors causing cancer are there?    Embed Quote

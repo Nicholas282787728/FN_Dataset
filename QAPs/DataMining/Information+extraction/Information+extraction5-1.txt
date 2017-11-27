@@ -1,0 +1,2 @@
+★What are the differences between Semantic Parsing and Information Extraction?Maybe in terms of: input and output steps involved
+Don't assume that "information extraction" involves any parsing!  Today's NLP practices are very primitive and pragmatic.  It could mean just looking for capitalized words or good/bad adjectives and not trying to analyze their position in the sentence.    Embed Quote

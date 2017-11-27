@@ -1,0 +1,2 @@
+Software Engineering: What are the best data structures to learn about?
+With lists, maps and trees, you can go very far... Actually, with lists, you can do stacks, queues, heaps, deque, etc. With maps, you can do sets (that's how Java does...), dictionaries, etc. You can even do trees and graphs. Trees and graphs usually have their own methods and algorithms, like transversal. There are other interesting structures, less used but very useful in some cases, like bit set or trie. 

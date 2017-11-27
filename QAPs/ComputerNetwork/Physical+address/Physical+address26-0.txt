@@ -1,0 +1,2 @@
+★My teacher said that an 8086 Intel microprocessor has a 16-bit address and a 20-bit physical address. What is the difference between an address and a physical address?
+It means the data bus is of 16-bit, and all the registers and ALU are of 16-bit, whereas the physical address ,that is the address bus is of 20-bit.    Embed Quote

@@ -1,0 +1,2 @@
+★What is the difference between a vector field and a vector space?
+In my opinion both are almost same. However there should be some differenes like any two elements can be multiplied in a field but it is not allowed in vector space as only scalar multiplication is allowed where scalars are from the field. Could anyone give me atleast one counter- example where field and vector space are both same. Every field is a vector space but not every vectorspace is a field. I need an example for which a vector space is also a field.    Embed Quote

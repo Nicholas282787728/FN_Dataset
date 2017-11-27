@@ -1,0 +1,2 @@
+Is there an infinite array in Java? If there is, how can I create that array?
+Indeed, you can use ArrayList for a theoretical infinite array, if you had an infinity ammount of memory. If you don't want to use an ArrayList, you could use an ordinary array and resize it for your needs. 

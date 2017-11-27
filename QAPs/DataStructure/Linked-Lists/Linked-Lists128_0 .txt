@@ -1,0 +1,1 @@
+Is a linked list a kind of tree?Yes, a linked list could be viewed as a kind of a tree. Consider for example a binary search tree that does not maintain height-balance. If you add for example the values 1, 2, 3, 4, 5 in order into such a tree, then you will end up with a structure very similar to a linked list. 172 Views

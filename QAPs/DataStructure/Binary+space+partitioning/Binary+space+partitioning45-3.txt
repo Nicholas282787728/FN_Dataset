@@ -1,0 +1,2 @@
+As a developer, how much space should I allocate for Linux?I don't have much experience with programming in the Linux environment. But I want to learn development in the Linux environment. I will keep my data in my NTFS partitions. So how much space should I allocate for the / partition and the swap partition?
+Thats a pretty variable question.  You really don't need much.  You can increase or decrease the partition size using gparted later.  I've never had any problem with it. If it was me...  30 gig /  and 5 gig swap. 

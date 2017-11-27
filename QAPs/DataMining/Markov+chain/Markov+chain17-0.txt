@@ -1,0 +1,2 @@
+★What are the differences between a Markov chain and a Markov process?
+A Markov chain is a Markov process with a countable state space and transitions at integer times.    Embed Quote

@@ -1,0 +1,2 @@
+What are the most efficient route calculating algorithms to calculate the shortest time and shortest distance?
+As usual, it depends. If you can read a little of the literature, you may find your answers, or prompt more focussed questions. Try these two papers for starters: Page on clemson.edu SEMIRING FRAMEWORKS AND ALGORITHMS FOR SHORTEST-DISTANCE PROBLEMS  (2002) 

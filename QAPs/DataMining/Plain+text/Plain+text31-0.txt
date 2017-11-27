@@ -1,0 +1,2 @@
+★What are some good examples of/tips for writing plain text resumes?I've got a resume that I carefully laid out in InDesign, and while it works when sending to individuals, sites that use other services or aggregators often want plain text or .doc files. How can I optimize my resume for this?
+The easiest thing to do would be to simply save the file as ASCII plan text (.txt).  This will then remove all formatting and can be used for online aggregators.  Apart from this, you shouldn't need to do anything else.    Embed Quote

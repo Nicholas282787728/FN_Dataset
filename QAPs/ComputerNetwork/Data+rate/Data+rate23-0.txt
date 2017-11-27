@@ -1,0 +1,2 @@
+★A noisy (30 dB signal-to-noise ratio) 500 kHz channel carries 64 signal levels. What is the maximum data rate?(Hint: you'll  need to consider both Nyquist and Shannon on this one.)
+4,000,000 bits per second?  An oddly vague question.

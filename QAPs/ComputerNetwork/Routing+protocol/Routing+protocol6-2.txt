@@ -1,0 +1,2 @@
+★Routing Protocols: What are some good BGP textbooks and architecture guides?With an emphasis on freely available resources please!
+Two good but not free books are from Cisco Press. Internet Routing Architecture (2nd Edition) by Sam Halabi BGP Design and Implementation by Randy Zhang You should be able to easily find used copies of both not too much.    Embed Quote

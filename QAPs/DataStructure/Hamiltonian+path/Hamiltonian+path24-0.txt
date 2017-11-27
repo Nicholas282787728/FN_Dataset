@@ -1,0 +1,2 @@
+Is there any algorithm to know a path which covers all vertices?
+Its called a Hamiltonian path, and the problem of finding a Hamiltonian path in a general graph is NP-Complete. 

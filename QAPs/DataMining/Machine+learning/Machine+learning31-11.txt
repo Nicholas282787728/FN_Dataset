@@ -1,0 +1,2 @@
+★Will deep learning make other Machine Learning algorithms obsolete?Every once in a while a new algorithms comes and makes all others (in the same domain) seems kind of obsolete when it comes to the same domain. Will deep learning make that related algorithms (backpropagation NN, GMM, HMM, ...)?
+If we remember recent investment of google Microsoft and Facebook and the other big companies i belive that deep learning has very extensive future to advance more and more. At present it is the "richest" ai research topic    Embed Quote

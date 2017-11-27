@@ -1,0 +1,1 @@
+Why do some people not like OOP and prefer functional programming?Is it just a matter of taste, or are there some other reasons behind it?

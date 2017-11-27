@@ -1,0 +1,2 @@
+★Where can I find large datasets open to the public?
+Google Research released a large 24GB n-gram data set back in 2006 based on processing 10^12 words of text and published counts of all sequences up to 5 words in length: http://googleresearch.blogspot.c... You can also just search over a related data set via the Google Books Ngram Viewer: http://books.google.com/ngrams/    Embed Quote Updated 19 Mar, 2012. 48,758 views.

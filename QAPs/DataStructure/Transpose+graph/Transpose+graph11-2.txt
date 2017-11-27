@@ -1,0 +1,2 @@
+What is an interesting data structure for programming that most programmers haven't heard of?
+Virtual suffix tree...or rather virtual suffix tree traversal using the Burrows-Wheeler transform.  Incredibly useful, but most people give me blank looks when I suggest it.  Ukkonen also has a pretty nice method for tree creation....but there are lots of methods, this is just the one that most people come across first. 

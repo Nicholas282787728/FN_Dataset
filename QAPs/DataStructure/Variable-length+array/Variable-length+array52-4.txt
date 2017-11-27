@@ -1,0 +1,2 @@
+Is it necessary to make an int pointer (int *p) to point to an int and a char pointer (char *p) to point to a string?
+What should happen when you dereference a pointer? What does *p refer to? If p is an int pointer, *p refers to an integer - (value of that many bytes at that location) and if p is a char pointer, it refers to a char - (value of that many bytes at that location). 

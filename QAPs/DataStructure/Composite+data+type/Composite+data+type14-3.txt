@@ -1,0 +1,1 @@
+What are the novel ideas and profound insights in the design of the Haskell programming language?I am interested in the ideas and insights that have become prevelant in other programming languages, as well as the ideas and insights that did not gain traction elsewhere.

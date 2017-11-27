@@ -1,0 +1,2 @@
+What are some things that programmers and computer scientists know, but most people don't?
+Under the hood, most critical software you use every day (like Mac OS X, or Facebook) contains a terrifying number of hacks and shortcuts that happen to barely fit together into a working whole.  It would be like taking apart a brand-new 747 and discovering that the fuel line is held in place by a coat-hanger and the landing gear is attached with duct tape. 

@@ -1,0 +1,2 @@
+★What are the courses required to learn information retrieval and machine learning?
+I don't know anything about information theory.  However, for Machine learning, it's probably necessary to have taken undergrad probability theory and linear algebra before taking a grad machine learning course.  Also, an algorithms class and a mathematical optimization class would make things easier.    Embed Quote

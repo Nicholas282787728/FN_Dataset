@@ -1,0 +1,2 @@
+What are the best resources to learn data structures and algorithms in Java or C?
+CLRS  should be read first for the strengthening fundamentals. If time is not a constraint best option would be the books by Robert Sedgewick. There are books for both Java and C++ but they are lengthy. Elementary ones: Java : Robert Lafore C,C++ : Tanenbaum For interview purpose (Java) :  Data Structures And Algorithms Made Easy In Java 2nd Edition (English) 2nd Edition by Narsimha Karumanchi. 

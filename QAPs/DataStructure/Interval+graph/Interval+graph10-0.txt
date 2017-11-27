@@ -1,0 +1,2 @@
+How do I make a moving (dynamic) graph using PHP/HTML by fetching values from the database at intervals? I need sample code.
+Graphs and charts are complex and its better to use some API provided by others. Here is a great list : http://www.sitepoint.com/4-best-... Google Chart is an obvious choice. You can simply parse your data fetched database into json and plot a graph {url:"getData.php", dataType:"json",async:false} 

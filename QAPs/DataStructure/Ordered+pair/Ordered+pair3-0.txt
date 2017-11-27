@@ -1,0 +1,2 @@
+Do any of these sets of ordered pairs satisfy an exponential function?
+Simply put, a function means that as you move along the graph left to right, you put each x value (how far to the left or right you are) through a certain operation or operations; in this case, squaring it. Your answer is the y value, or how high or low it'll be at that point. In an ordered pair like you have, the first number is x, the second is y. Any more confusion, just ask. :) 

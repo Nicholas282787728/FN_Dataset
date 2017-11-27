@@ -1,0 +1,2 @@
+Which is better, SQL or NoSQL?
+What's better, a hammer or a screw driver? It depends on what you want to do. 

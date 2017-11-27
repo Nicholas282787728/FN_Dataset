@@ -1,0 +1,2 @@
+★Support Vector Machines: What is the best way to implement an SVM using Hadoop?
+Well Apache mahout( http://mahout.apache.org/) is machine learning library which uses hadoop. Currently they don't have support vector machine functionality,  but they have it in their future plan(https://cwiki.apache.org/conflue...) . Parallel GPDT( http://dm.unife.it/gpdt/) supports parallel training of support vector machine.    Embed Quote

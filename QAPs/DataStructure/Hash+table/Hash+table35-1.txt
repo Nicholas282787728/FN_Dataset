@@ -1,0 +1,2 @@
+What are some example recursive problems that use memoization with a hash table?
+See my answer to this question: Laurentiu Cristian Ion's answer to I want to learn memoization. What are some links with problems from SPOJ/Topcoder/Codeforces? I listed a pretty good collection of problem archives and tutorials on DP. 1.2k Views · 4 Upvotes

@@ -1,0 +1,2 @@
+★What are the best open source SMTP servers?in terms of reliability, performance, number of emails sent per day.
+According to me Postfix is one of the best SMTP servers. As an open source SMTP server, Postfix implements a high-performance mail-delivery engine.    Embed Quote

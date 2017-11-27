@@ -1,0 +1,2 @@
+What is the best way to Implement a LRU Cache?
+I have written an implementation using Hash and doubly linked list here. Least Recently Used cache 

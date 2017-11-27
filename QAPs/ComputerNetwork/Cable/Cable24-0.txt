@@ -1,0 +1,2 @@
+★What is this cable used for?
+It probably provides power to something using USB as the source of power. USB provides a 5V DC power between 500mA and 2,000mA depending on the source and USB doesn't need to have a digital connection to do that. USB is a good general source of power.

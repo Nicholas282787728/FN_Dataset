@@ -1,0 +1,2 @@
+★What are some applications of Probabilistic Graphical Models?
+The obvious example is object detection in pictures. But take a look at the "Overview and Motivation" video in Daphne Koller's course on PGM at Coursera: Probabilistic Graphical Models. She gives a lot of examples.    Embed Quote

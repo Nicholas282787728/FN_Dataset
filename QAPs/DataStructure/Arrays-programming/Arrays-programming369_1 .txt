@@ -1,0 +1,1 @@
+What is array list?It’s like an array where you don’t have to specify its size and that’s why you call it dynamic array or Array List. For example in Java: List<Integer> a = new ArrayList<>(); List<Character> a = new ArrayList<>(); List<String> a = new ArrayList<>(); ArrayList (Java Platform SE 7 ) 163 Views

@@ -1,0 +1,2 @@
+★What is required for "semantic web" to take off?
+The proof and trust layers are required. The layers for proof and trust are required, before the Semantic Web can have any success and really take off. Otherwise the system will be gamed quick and filled with spam. That happended already in the early days of the WWW, when spammers mislead search engines, that were at time only relying on the HTML metadata fields for keywords and description tags.    Embed Quote

@@ -1,0 +1,2 @@
+★What are the supposed advantages of Toslink vs. copper for audio interconnects?
+It can't cause hum due to a ground loop, which is a common problem with cable TV hookups that are often improperly grounded.    Embed Quote

@@ -1,0 +1,2 @@
+How can one speed up breadth-first search?
+Bidirectional search ( The wiki explains it all ) . 

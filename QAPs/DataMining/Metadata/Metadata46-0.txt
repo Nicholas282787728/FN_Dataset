@@ -1,0 +1,2 @@
+★Why is the spy community so lax about the possibilities for false positives in their metadata collection?
+False Positives (~ Type I errors) can be "less expensive" than False Negatives (~ Type II errors).  Seeing the brush in the distance as a lion and running away is "less expensive" than seeing the lion in the distance as brush, walking toward it, and being eaten.  The same logic applies to seeing normal "chatter" as nefarious activity rather than just normal "chatter" -- as well as it's converse. I've wondered if we are "wired" for this response...    Embed Quote

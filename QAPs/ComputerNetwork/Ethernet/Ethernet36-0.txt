@@ -1,0 +1,2 @@
+★If your Mac has working Wifi and Ethernet, which does it prioritize?
+It uses both network interfaces simultaneously (if you are connected to two different LANs, you can use network resources from both), but default route for internet is an active interface with higher position in Service Order menu from the Network pane.

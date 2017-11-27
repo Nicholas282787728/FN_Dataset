@@ -1,0 +1,2 @@
+Does the Node.js Cassandra-client support composite types?
+Short answer: no. cassandra-node was written before composite columns landed in Cassandra.  This enhancement is issue 14 (http://code.google.com/a/apache-...). Further, there is still ongoing debate about how the CQL syntax for composites. Updated 20 Jan 2012 • View Upvotes

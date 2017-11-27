@@ -1,0 +1,2 @@
+★What are the best open source machine learning libraries written in Python?
+Why not let Python answer for himself :) PythonForArtificialIntelligence - Python Wiki    Embed Quote

@@ -1,0 +1,2 @@
+★What communication protocols are used with telecommunication satellites?
+The air interface protocol is some form of CDMA or OFDMA. A lot use TCP/IP on the data payload part.    Embed Quote

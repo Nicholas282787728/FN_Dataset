@@ -1,0 +1,2 @@
+What is the difference between a data type and a data structure?
+Data Type: Data types are pre defined words in the library. We can't use these words as a variable. For example: int, char, double, float etc. are the data types. While Data Structure is the organization of the data in a regular in the computer memory. For example: LinkList, Stack, Queues etc. 500 Views · 1 Upvote

@@ -1,0 +1,2 @@
+★What is the best way to train a SVM on a very large dataset?
+See section 7 of the "Online Passive Aggressive Algorithms" paper by Crammer et all 2006. Basically you can train a linear model one example at a time using stochastic gradient descent. Page on Mit    Embed Quote

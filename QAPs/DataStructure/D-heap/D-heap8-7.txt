@@ -1,0 +1,1 @@
+Where are the arrays in C stored, in a stack or a heap?int n; scanf("%d",&n); int arr[n]; In the above code in C, when the prog

@@ -1,0 +1,2 @@
+In layman's terms, what is a k-d tree and how does it work?
+Had the same question. I thought the next 3 vidoes did explain it very well. Hope it helps you aswell 

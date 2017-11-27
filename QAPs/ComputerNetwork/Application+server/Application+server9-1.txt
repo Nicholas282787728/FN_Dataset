@@ -1,0 +1,2 @@
+★Java Application Servers: What are some alternatives to Jetty?
+Depends you can either add Tomcat or JBoss/Glassfish.

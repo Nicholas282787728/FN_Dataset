@@ -1,0 +1,2 @@
+★How do I create a wireless home network using a router?
+Most of them do it automatically and have instructions.   Once the router is set up you need to go into each machine that will be accessing it and set the new network as it's default.   If you're doing a secure network (not a public one) then follow the routers instructions on how to tell each node about how to set that up.

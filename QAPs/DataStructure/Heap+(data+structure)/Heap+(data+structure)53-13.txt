@@ -1,0 +1,2 @@
+What are some tips for self-studying Data Structures and Algorithms?
+1: Get the basics from standard books as ‘cormen’. 2: Try to implement them on your own. 3: Visualize things. 4: Practice a lot ! because that is what make you comfortable with DS & Algo. HackerRank HackerEarth Coding Interview preparation made easy (very good one!). 5: Data Structures and Algorithms Made Easy... (more)

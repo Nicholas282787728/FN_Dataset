@@ -1,0 +1,2 @@
+★What are the top 10 data mining or machine learning algorithms?
+i'd add gradient descent, which virtually helps enables ML algo to quickly identify the "best" solution.    Embed Quote

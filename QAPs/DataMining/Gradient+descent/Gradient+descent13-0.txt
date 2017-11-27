@@ -1,0 +1,2 @@
+★Is there an issue with gradient descent and log trick?
+Is f(x) a nondecreasing function?  If not, then g(y) = f(exp(y)) may be nonconvex in y. Recall that convexity for twice-differentiable functions is equivalent to having a nonnegative second derivative. So we have . Now, we let us check if is also nonnegative. First, Thus This is always nonnegative if is always nonnegative--that is, if f(x) is nondecreasing.  Otherwise, it may be negative.    Embed Quote

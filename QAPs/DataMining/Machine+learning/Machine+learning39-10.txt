@@ -1,0 +1,2 @@
+★What are currently the hot topics in Machine Learning research and in real applications?Currently, there are many topics in ML research which are/can be used widely in real applications. I wonder what are key topics which we should focus doing research and studying.
+1- Deep Learning 2- PGM (Probabilistic Graphical Models)    Embed Quote

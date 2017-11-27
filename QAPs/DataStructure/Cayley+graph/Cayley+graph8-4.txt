@@ -1,0 +1,1 @@
+Is Cayley actually used by Google for their knowledge graph?The Cayley description reads: "Cayley is an open-source graph inspired by the graph database behind Freebase and Google's Knowledge Graph." Does this mean that Cayley resembles the graph database behind knowledge graph, or that it actually is the knowledge graph (perhaps with a couple of tweaks).

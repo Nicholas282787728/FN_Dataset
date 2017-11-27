@@ -1,0 +1,2 @@
+Why are B-trees and its variants, the preferred data structures for database or filesystem implementations?
+B trees minimize the number of medium access required.They do stuff in O(log n) time....They are preferred when nodes are on disks rather than in memory. 165 Views · 4 Upvotes

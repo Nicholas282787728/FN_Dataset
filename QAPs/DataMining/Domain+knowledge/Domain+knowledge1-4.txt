@@ -1,0 +1,2 @@
+★How important is domain knowledge to data analytics?
+Absolutely essential. However, if all you are doing is estimating the numbers within the boundaries where you have plenty of data and basic statistics seems to work, you may get away with it. Once you leave this area -- which translates to "always" for modern data applications -- looking only at the numbers without knowing their nature leaves you blind.    Embed Quote

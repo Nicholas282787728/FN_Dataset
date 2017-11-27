@@ -1,0 +1,2 @@
+What is the highest meaningful number in mathematics?
+This requires dimension T (time) to answer. Some historical interpretation tells us that Gautam Buddha could count up to महापद्म (mahā-padma) which is 10^37 i.e, Ten Undecillion. Gautam Buddha had supposedly lived around 5 BC. So, one can say the highest 'meaningful or not' number was 10^37 until 5 BC. The source: Technology in Humanity course during UG. Link to the text will be updated as soon as practical :) 

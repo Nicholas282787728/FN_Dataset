@@ -1,0 +1,2 @@
+★Why use a backend like Parse?
+My recommendation use Core Data Basics its simple and once you get hold of it you will know the its true power If you want data to be in sync across a user's devices (ex: iPhone <-> iPad) use apple's own CloudKit Storage - iCloud - Apple Developer Lastly, if you want some advanced user management and complete back end as a service go for Parse    Embed Quote

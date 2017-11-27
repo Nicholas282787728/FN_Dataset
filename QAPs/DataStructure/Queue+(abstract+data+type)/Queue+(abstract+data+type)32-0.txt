@@ -1,0 +1,2 @@
+What does queue mean?
+Initially, I believe that you are referring to the idea of a line. A line forms when, in the case of people waiting, one person stands behind another. Some countries refer to this line as a queue. In computer science, a queue would refer to the list of objects or instructions to be maintained or executed in order the order they were received. This is sometimes referred to as First In, First Out (FIFO). 

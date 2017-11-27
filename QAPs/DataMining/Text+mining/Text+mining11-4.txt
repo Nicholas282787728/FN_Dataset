@@ -1,0 +1,2 @@
+★Which open source NLP/text mining framework has the best support for Chinese?
+For segmentation, I think jieba is very good, if you use python.    Embed Quote

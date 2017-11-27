@@ -1,0 +1,2 @@
+★Difference between stochastic gradient descent and online learning?
+This might be useful,    Embed Quote

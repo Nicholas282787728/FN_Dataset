@@ -1,0 +1,2 @@
+Has anybody been sued for scraping data?
+In addition to the above, in Europe, there is the Database Directive which protects the copyright on databases. There have been several cases where scraping of another site was found to be an infringement. (E.g., in The Netherlands, NVM/De Telegraaf: a site used the information from another large real estate site by scraping it.)    Embed Quote 

@@ -1,0 +1,2 @@
+★What is the best feature selection method when the train data has more features than the number of data points? Assume the data is very large?
+I would use some version of tf–idf for feature weighting, and then a cutoff to throw away useless features. Here's a survey of feature selection methods. IMO, the main problem here is data sparsity, for which you may want to use  Bootstrapping or Bootstrap aggregating. Both methods use resampling of the data to build better classifiers.    Embed Quote

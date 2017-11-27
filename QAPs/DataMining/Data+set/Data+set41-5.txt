@@ -1,0 +1,2 @@
+★What problems in biology involve the collection and analysis of multi-terabyte data sets?
+DNA sequencing, long running MM or QM simulations, as well as imaging like confocal microscopes and other volumetric datasets have significant storage and compute requirements.    Embed Quote 

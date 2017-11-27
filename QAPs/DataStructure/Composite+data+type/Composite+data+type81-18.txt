@@ -1,0 +1,2 @@
+What are the disadvantages of using Node.js?
+I think the disadvantages pointed out here are fair, but seeing companies like Paypal (a top player with a very sensitive mission) embrace NodeJS is definitely saying that there's people working seriously on pushing Node to the next level. Lenny Markus, Paypal engineer, showed off KrakenJS on the JSConf Uruguay, which seems to be a serious effort to, as he said, make node "not a toy language". They went through a lot of criticism for switching to Node but it seems that is really taking off. Checkout KrakenJS: KrakenJS Suite 

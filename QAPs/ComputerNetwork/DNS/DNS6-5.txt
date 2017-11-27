@@ -1,0 +1,2 @@
+★What is the best dynamic DNS service provider?I've used dyndns.com and no-ip.org in the past, but I'm curious if there's anything better.
+I strongly feel duckdns.org is better than other providers. Reasons are as below. 1) 4 Free domains. 2) Supports wide array of OS to update the IP. (Includes Raspberry Pi) 3) Developer promises not to sell our personal data. 4) Services runs on 256bit signed SSL. 5) User friendly instructions.

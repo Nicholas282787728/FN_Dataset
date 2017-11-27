@@ -1,0 +1,2 @@
+What are the ways to implement Segment Trees With Lazy Propogation?
+A very good article explaining the lazy propagation in Segment tree. However it does not explain with asked "Flipping Coins" problem but still you can give it a shot. Follow the link: Lazy propagation in Segment Tree 

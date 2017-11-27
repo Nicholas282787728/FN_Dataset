@@ -1,0 +1,2 @@
+How are generalized suffix trees different than the standard suffix trees?I
+n computer science, a generalized suffix tree is a suffix tree for a set of strings. Given the set of strings {\displaystyle D=S_{1},S_{2},\dots ,S_{d}} D=S_{1},S_{2},\dots ,S_{d} of total length {\displaystyle n} n, it is a Patricia tree containing all {\displaystyle n} n suffixes of the strings. It is mostly used in bioinformatics.

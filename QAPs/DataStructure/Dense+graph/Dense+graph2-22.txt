@@ -1,0 +1,2 @@
+Have there been any new brilliant computer science algorithms in last 10 years?Especially those that may REPLACE some algorithms in current textbook. Since most of the algorithms in textbook are designed in 20th century.
+I'm not sure it would qualify as a "brilliant algorithm", but Gibbons & Oliveira 2009 paper The Essence of the Iterator Pattern, building up on McBride & Paterson's Applicative Programming with Effects is certainly brilliant. 

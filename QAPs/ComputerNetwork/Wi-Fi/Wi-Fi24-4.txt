@@ -1,0 +1,2 @@
+★How does one hack a wi-fi network?
+Install backtrack operating system... Then study how to do a WEP attack using aircrack-ng...    Embed Quote

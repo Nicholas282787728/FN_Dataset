@@ -1,0 +1,2 @@
+★Is Measure Theory relevant to Machine Learning?
+I think it depends on what you are focused upon. For applied machine learning you probably don't. If you are theoretician then I would guess yes. Learning Theory seems like an area where such knowledge would definitely be applicable. http://en.wikipedia.org/wiki/VC_... http://www.amazon.com/Statistica...    Embed Quote

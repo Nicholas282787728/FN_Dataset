@@ -1,0 +1,2 @@
+★How do infrared LEDs work?
+The same as regular LED's, only using a material that emits in IR instead of visible.  One of the most common materials for this is Gallium arsenide. I refer you to Light-emitting diode for any other questions you have, unless you want me to explain in further detail.    Embed Quote

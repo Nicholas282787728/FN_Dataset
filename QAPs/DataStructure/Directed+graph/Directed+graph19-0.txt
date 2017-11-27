@@ -1,0 +1,2 @@
+How do I count the number of cycles in a directed graph?
+I assume you want to restrict to simple cycles. In that case, the problem is NP-hard, by reduction from the Hamiltonian cycle decision problem. See here for a proof. You can get a O(n 2 2 n )  O(n22n) dynamic programming algorithm similar to the one used to find a Hamiltonian cycle. 6.6k Views · 15 Upvotes · Answer requested by Samsung Penup

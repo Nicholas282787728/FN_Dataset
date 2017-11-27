@@ -1,0 +1,2 @@
+★What are the recent trends that are revolutionizing online and mobile Payments?
+1. Bank open Payment API 2. DIY Payments on top of real time Payment Market infrastructures like UK Faster Payments and G3 Singapore 3. Virtual accounts like pay to unique id,facebook id, mobile number,email id instead of traditional bank accounts 4. Transmitting rich text e.g invoices, images along with payments in real time    Embed Quote

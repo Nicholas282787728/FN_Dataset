@@ -1,0 +1,2 @@
+What are the concise meaning and interpretation of bias and variance in machine learning and statistics?
+I highly recommend having a look at the Caltech ML course by Yaser Abu-Mostafa, Lecture 8 (Bias-Variance Tradeoff. Here is the nice example Yaser gave: Say you are trying to learn the sine function: ... (more)

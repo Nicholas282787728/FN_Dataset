@@ -1,0 +1,2 @@
+★Why couldn't MAC addresses be used instead of IPv4 or IPv6 addresses for networking?
+Because they're physical, they lack persistence. If a NIC malfunctions and is replaced, the higher up the stack the change is, the more trouble it causes. If MAC replaced IP, then you'd have to make a DNS change every time you changed a NIC. If MAC replaced DNS, you'd have to re-point every application that touched it to the new address.

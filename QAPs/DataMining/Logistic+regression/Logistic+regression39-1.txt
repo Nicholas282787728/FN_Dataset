@@ -1,0 +1,2 @@
+★Why does logistic regression not converge when the data is completely separable?
+The typical way to deal with this issue is to add regularization to your objective function, which penalizes your weight vector for getting too large.  But Ross Kravitz's point is also correct --- if you just look at the direction of your weight vector, that'll always converge to the correct solution when you have linear separability.    Embed Quote

@@ -1,0 +1,2 @@
+★Mobile Telecom Network Operators: Does anyone know what software/systems mobile phone network operators use for their SMS transactions?
+They use smsc for sms transactions, Read here.http://en.m.wikipedia.org/wiki/S...    Embed Quote

@@ -1,0 +1,2 @@
+★Difference Between HTML and CSS?
+HTML is a markup language.  It lets you say "this thing over here is a paragraph, this other one is a title". CSS is a language used to specify the style of a marked document. It lets you say "paragraphs are to appear blue,  titles are to use bold fonts".

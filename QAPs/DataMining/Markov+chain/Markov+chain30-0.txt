@@ -1,0 +1,2 @@
+★What is the relationship between Markov chains and probability?
+A Markov chain is defined in terms of the conditional probability of elements in a series of random variables. Wikipedia has a great definition/explanation. Markov chain    Embed Quote

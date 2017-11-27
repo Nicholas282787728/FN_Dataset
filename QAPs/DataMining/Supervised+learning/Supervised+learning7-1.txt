@@ -1,0 +1,2 @@
+★What are the ways to classify images using supervised learning?Suppose I have images of cats and dogs? How to classify a new image as a cat or dog?
+You can do it by training a Haar classifier. Train the classifier with a set of positive and negative images. The link below will help further Coding Robin.    Embed Quote

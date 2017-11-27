@@ -1,0 +1,2 @@
+★What are logistic and linear regression models used for in GWAS?GWAS = Genome Wide Association Study
+GWAS has given us common variants (SNPs) associated with traits. So perhaps most common model would be, reg(trait1 ~ SNP1) Use linear regression if trait is continuous variable. Use logistic regression if trait is binary.    Embed Quote

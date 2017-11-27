@@ -1,0 +1,2 @@
+★How do the databases/data warehouses used for Big Data Analytics differ from traditional databases/data warehouses?
+Conceptually, Big data as is defined is build for volume, variety and velocity. So, rightfully, any data base involving Big data will be build to handle this. This is different from traditional warehouse which are relational, have fixed data type formats and have limitation on the data types they can handle and have limitation in terms of the volume they can handle.    Embed Quote

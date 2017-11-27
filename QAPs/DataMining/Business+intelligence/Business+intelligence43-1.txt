@@ -1,0 +1,2 @@
+Business Intelligence: What is the best database system for BI?
+I think you'd be better off looking at the entire picture, from the database to the visualization layer (including the way you license the product).  The latest innovation in analytical databases though is technology known as "In-Chip" Analytics.  I wrote a post about it recently @ http://www.sisense.com/blog/brun... Hope this can help!    Embed Quote 

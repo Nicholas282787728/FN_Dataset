@@ -1,0 +1,2 @@
+What kind of programs are best written in Haskell?
+Haskell is awsome for data structures and mathematical functions..... Having worked personally on a game engines, we used to prefer Haskell for mathematical computations and C for the other parts. 

@@ -1,0 +1,2 @@
+★What is wine ontology?
+An ontology is a data model that describes a domain and representing concepts interconnected by semantic relations or taxonomic relationships (hierarchy). The Semantic Web is based on ontologies (not only).    Embed Quote

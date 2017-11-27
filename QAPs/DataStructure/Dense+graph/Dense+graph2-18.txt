@@ -1,0 +1,2 @@
+Have there been any new brilliant computer science algorithms in last 10 years?Especially those that may REPLACE some algorithms in current textbook. Since most of the algorithms in textbook are designed in 20th century.
+Compressed sensing works almost like magic, introduced in the 21st century if I remember right, even Cleve Moler calls it magic reconstruction :) check out his article here  Cleve’s Corner - “Magic” Reconstruction: Compressed Sensing 

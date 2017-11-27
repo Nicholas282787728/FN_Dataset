@@ -1,0 +1,2 @@
+If you had a million points in 2D, how would you effectively calculate the distance from a point to every other point?
+Question is about finding the distance from a point to every other point. This will be just O(n) solution i.e. calculate the distance from that particular point to all other points. 

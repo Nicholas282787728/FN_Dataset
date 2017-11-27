@@ -1,0 +1,2 @@
+What do students of Computer Science really learn?I've always wondered what is it that CS students learn exactly in their undergrad studies. Being a noob at CS all I know is programming in C and some fancy terms like Data Mining, Machine Learning, Data Structures, Object Oriented Programming and the kind.
+They learn (or get better at) efficient problem solving I'm reasonably sure I can say that all of the other things mentioned here are different ways to do that using a computer. You need to know how things work in order to use them :) 

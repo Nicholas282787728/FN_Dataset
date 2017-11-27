@@ -1,0 +1,2 @@
+★What git workflow is best for a small company?We are a small company (about 10) developing a webbapp. Currently we are all working against a master whom we deploy after a "feature" sprint. I'm looking for recommendations for git workflows like naming conventions on remote branches, how to divide branches ( for example development, master, test) etc.
+Assembla recently wrote a blog about their workflow. You can check it out here: Which Git Workflow is Best? Mine of Course.    Embed Quote

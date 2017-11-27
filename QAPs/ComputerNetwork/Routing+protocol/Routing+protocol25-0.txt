@@ -1,0 +1,2 @@
+★How can I conduct the simulation of normal routing protocols, are there any efficient tools?
+The other option is to use one of the open source routers, such as Vyatta or Quagga. Both are happy to run in virtual machines so you can have lots of real routers running on your machine at home.    Embed Quote

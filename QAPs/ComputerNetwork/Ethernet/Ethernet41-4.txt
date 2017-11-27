@@ -1,0 +1,2 @@
+★How can I check Ethernet connection speed on Linux?
+Yes you can monitor :) Install nethogs. after installing run nethogs "your interface". eg . Sudo nethogs eth0 you can change etho to "wlan0" for your wireless network.

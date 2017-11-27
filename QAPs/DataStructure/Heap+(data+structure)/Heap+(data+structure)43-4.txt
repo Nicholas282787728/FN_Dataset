@@ -1,0 +1,2 @@
+I have experience in programming. Currently I'm planning to study either algorithms or data structures. Which one should I get started with?
+Data structures are like building blocks for programming and algorithm provides you an efficient way to design your program. So firstly collect your  blocks and later go for designing part. 282 Views · 1 Upvote

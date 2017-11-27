@@ -1,0 +1,2 @@
+What is data type?
+Which type of value will be stored in the variable is defined by data types . It can be int , float , char , double , void. For more details about data types . Check it out C Data Types 145 Views · 3 Upvotes

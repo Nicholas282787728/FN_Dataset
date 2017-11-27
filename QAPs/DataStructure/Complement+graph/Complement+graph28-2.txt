@@ -1,0 +1,2 @@
+Why don't graphing calculators have secant and cosecant buttons?
+Because their use is uncommon, so you have to recall built-in functions or you have to bind these functions to specific keys. 

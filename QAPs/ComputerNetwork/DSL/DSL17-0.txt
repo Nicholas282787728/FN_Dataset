@@ -1,0 +1,2 @@
+★What is the difference between an ADSL modem and a DSL modem?
+Nothing. DSL is a more generic and broad term used for a collection of DSL technologies like ADSL, SDSL, HDSL, etc. DSL is a Family of connection methodology, whereas ADSL, SDSL, & HDSL are its internal sub-types depending on the amount of bandwidth. ADSL is mostly used by Domestic consumers whereas SDSL used to be for small business organizations.

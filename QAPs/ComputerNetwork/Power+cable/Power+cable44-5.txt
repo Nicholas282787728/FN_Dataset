@@ -1,0 +1,2 @@
+★What purpose does the small cylindrical module near the end of my laptop charger cable serve?
+That cylinder contains an RF choke.  The purpose of that device is to keep the power cord from acting as an antenna and broadcasting the noise made by the computer into the environment.    Embed Quote

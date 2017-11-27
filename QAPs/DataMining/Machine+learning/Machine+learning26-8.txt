@@ -1,0 +1,2 @@
+★What are some good books on machine learning?
+Machine Learning: A Probabilistic Perspective by Kevin Murphy is a very good book for self study. It covers good breadth and depth. Useful tips and tricks are mentioned throughout. Typos have been a killer but the latest printing is a lot better.    Embed Quote

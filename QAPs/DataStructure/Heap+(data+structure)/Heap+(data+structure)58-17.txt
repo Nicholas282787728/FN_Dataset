@@ -1,0 +1,2 @@
+What basic data structures and algorithms should one learn before starting competitive programming?
+Which algorithms needed to learn for competitive programming? You need to learn: advanced sorting algorithms (quick, merge, etc) graph theory dynamic programming back tracking bit manipulation data structures... (more)

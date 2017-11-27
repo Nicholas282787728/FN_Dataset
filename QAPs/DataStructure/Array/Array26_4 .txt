@@ -1,0 +1,1 @@
+Obviously, a function can always return address of the first element of an array. And that is all you need to access the returned array. 

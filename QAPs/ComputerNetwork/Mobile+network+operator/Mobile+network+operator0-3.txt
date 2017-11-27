@@ -1,0 +1,2 @@
+★What are good tools for identifying mobile network operator based on IP address?Mobile analytics, categorizing mobile traffic by mobile operator/carrier
+I would just use whois. For automated use, you aren't supposed to hit up whois servers too often, so I'd parse the whois return and create a cache.    Embed Quote

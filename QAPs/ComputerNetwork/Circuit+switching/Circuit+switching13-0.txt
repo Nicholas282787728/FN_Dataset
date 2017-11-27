@@ -1,0 +1,2 @@
+★Can you integrate an amplifier and a switching circuit on the same substrate?
+Sure. Most amps have a number of transistors in them. Here is a simple circuit diagram of one.

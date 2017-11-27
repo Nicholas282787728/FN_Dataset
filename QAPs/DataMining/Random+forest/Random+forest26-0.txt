@@ -1,0 +1,2 @@
+★When and why is  naive bayes classifier a better/worse choice than random forest  classifier?
+One other consideration here is speed and scale. Due to the model sizes, you will get faster calculation times with naive bayes. Performance and scale matter in many real world problems. Naive bayes is often "good enough" in a lot of real world applications.    Embed Quote

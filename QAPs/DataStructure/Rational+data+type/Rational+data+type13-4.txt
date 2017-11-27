@@ -1,0 +1,2 @@
+What are the boolean values in Java?
+As other answerers have noted, it is true/false, default to false. It is different than some programming languages that allow integer values to represent true and false-- 1 and 0 are not valid Java boolean values. Also, note that "boolean" and "Boolean"(capital b) are not the same. Capital b Boolean is a wrapper class that allows you to manipulate a boolean value. 

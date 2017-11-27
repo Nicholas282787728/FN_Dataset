@@ -1,0 +1,2 @@
+What are some fancy terms describing simple things in science?Like saying Markov chains to say data depend on their previous values or using Poisson processes to say I used a random number generator.
+Two of my favorites from mathematics: conjecture and verification method: guess and check piecewise linear interpolation: connecting the dots 

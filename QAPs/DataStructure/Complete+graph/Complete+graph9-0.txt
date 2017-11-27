@@ -1,0 +1,2 @@
+How do I calculate the number of edges in a complete graph?wiki says n(n-1)/2 Complete graph But how do I calculate it?
+In a complete graph, every pair of vertices is connected by an edge.  So the number of edges is just the number of pairs of vertices.  That's \mathchoice((((n2\mathchoice)))) , which is equal to 12n(n−1) . 

@@ -1,0 +1,2 @@
+★Is a factor model the same as a linear regression model?
+I would say "factor models" tend to begin as linear regressions, but you can easily run into situations where you'd like to add regulators, such as a LASSO fit.    Embed Quote

@@ -1,0 +1,2 @@
+★Are there any Python/Django-friendly hosted Continuous Integration services?I'm looking for some rough equivalent to what http://travis-ci.org provides for the Ruby and Rails communities.
+I've found a second entry in this field: shiningpanda.com ...and another: striderapp.com Both services have since shut down. However, the following services work great: Codeship.io drone.io    Embed Quote

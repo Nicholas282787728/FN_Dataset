@@ -1,0 +1,2 @@
+Is it possible to solve the equation [math]x^3 - 6 x^2 + 3x + 10 = 0[/math] without the help of the hit-and-trial method?
+By hit and trial method, do you mean checking the eight divisors of 10?  (1,2,5,10, and their negatives) There are cubic formulas, just like the quadratic formula, but they're a little more complicated, and they sometimes introduce sums of imaginary numbers that aren't obviously real numbers. 

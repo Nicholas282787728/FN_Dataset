@@ -1,0 +1,2 @@
+★What is the difference between statistics and machine learning?
+Machine learning deals with only inferential statistics. And hence is a subset of Statistics and a mixed bag/toolkit containing algorithms, optimization.    Embed Quote

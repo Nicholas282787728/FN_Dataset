@@ -1,0 +1,2 @@
+I am a student in University. We now have a Graph Theory course, and I found it so hard to learn it well. Can you tell me how to learn it well in a correct way?
+Get the geometric interpretations of definitions and theorems right. For this, you could try to learn it with a context. Eg. Friends' graph.  If required use some software like gephi to know what is happening to the graph on changing various parameters. 

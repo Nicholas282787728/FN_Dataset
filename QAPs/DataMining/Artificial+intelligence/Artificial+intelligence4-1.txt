@@ -1,0 +1,2 @@
+★What are basic artificial intelligence projects for beginners?Some basic projects other than pac-man, 8 queen puzzle etc
+The UC Berkeley Introduction to AI Course (Page on edx.org) has some great projects for people learning for the first time, and as a bonus some of them are about Pac-Man!    Embed Quote

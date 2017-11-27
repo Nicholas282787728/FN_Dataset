@@ -1,0 +1,2 @@
+What is the best way of explaining how the Java substring works?
+The best place to start is the API documentation for the String class, which is here: http://download.oracle.com/javas... The first method: substring(int n) returns the string with the first n characters removed. The second method: substring(int a, int b) returns the string with the first a characters removed up to the character before b.  E.g. 'foo'.substring(1, 2) returns 'o'. 

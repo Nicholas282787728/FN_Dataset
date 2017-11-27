@@ -1,0 +1,2 @@
+How a persistent (disk based) B+ Tree is implemented?
+What you are perhaps missing is that such an implementation would do direct disk acces, and bypass the normal file access system. The nodes in your B-tree will correspond to blocks on disk and you will directly read and write those blocks in your code. You will also be programming yourself any caching of those blocks in memory, where normally this is taken care for you by the file system. 858 Views · Answer requested by Francisco Claude and Igor Kurganov

@@ -1,0 +1,2 @@
+How can you insert slicer on a line graph in Excel?
+Thank you for the A2A :) If you have Excel 2010 or later, sure you can! Step 1 - Select your range and convert it into an a table (Insert Tab > Tables Section > Table): ... (more)

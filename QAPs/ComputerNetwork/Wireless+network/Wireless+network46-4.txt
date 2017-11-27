@@ -1,0 +1,2 @@
+★Why does my Moto G (second generation) connect to my wireless network, but say there is no connectivity?
+Try to change the channel of your wifi router.... Anything above channel 6 might help.... I guess, this symbol appears when your phone cannot connect to Google server, or something like that....    Embed Quote

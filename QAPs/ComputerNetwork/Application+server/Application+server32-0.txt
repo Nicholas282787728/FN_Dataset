@@ -1,0 +1,2 @@
+★How can I configure Error queue on Websphere application server?When the message timeout occurs, how I can remove the message from main MQ queue and post it back on the error MQ queue WAS 7, IBM MQ
+Normally backout queue is attribute of a queue. If application is not able to process the message from main queue then after retry count message is moved to backout queue automatically by qmgr. If you want to move message manually between queues you can use qload utility.

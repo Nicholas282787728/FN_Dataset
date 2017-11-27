@@ -1,0 +1,2 @@
+What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
+Mean value theorem If you have take the average slope of a continuous and differentiable function in a given interval, there will must be a point between the given interval whose tangent line's slope is equal to the average slope. 

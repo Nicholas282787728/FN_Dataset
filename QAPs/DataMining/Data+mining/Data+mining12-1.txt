@@ -1,0 +1,2 @@
+What is data mining?
+Data mining, for me, is understanding the data, being able to understand what the data are telling to you! How it is generated, what its patterns are, and how to estimate/predict with it.... I would suggest R and Python for the best data mining programs, which are free.    Embed Quote 

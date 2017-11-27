@@ -1,0 +1,2 @@
+What is the difference between HashSet, HashMap and hash table? How do they behave in a multi-threaded environment?
+Unless stated otherwise, you should assume that Java standard collections are NOT THREADSAFE. Also, read this book: Java Concurrency in Practice. 12.4k Views · 2 Upvotes

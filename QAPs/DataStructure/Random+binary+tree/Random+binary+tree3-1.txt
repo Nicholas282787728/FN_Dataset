@@ -1,0 +1,2 @@
+For classifier methods, which method is best for a binary classified data, random forest or random tree?
+Random forest  performs well in domain of social profile matching.  dataset: active users' profiles in linkedin and twitter. 

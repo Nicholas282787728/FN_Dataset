@@ -1,0 +1,2 @@
+★For a circuit, why is the back EMF when the switch opened is greater than when the switch is closed?
+states that the voltage is equal to the inductance and the rate of change of current. When a switch is closed, the current in the inductor is zero and must build up to its steady state condition, so di/dt is small because di is zero. However, when the current is steady and the current source is suddenly removed, di/dt goes very high since dt becomes very small.

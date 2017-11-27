@@ -1,0 +1,2 @@
+★What are some of  the very good ETL tools for mysql?
+I work for a financial institution and we used Astera Software's Centerprise. Worked very well with MYSQL and PervasiveSQL. Check them out here Centerprise Data Integrator 5.0    Embed Quote

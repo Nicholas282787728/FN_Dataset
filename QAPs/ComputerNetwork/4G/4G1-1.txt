@@ -1,0 +1,2 @@
+★How fast is 4G LTE?
+In practice up to 300Mbps/100Mbps, but I'm sure you'll need to be sitting under the cell in the middle of nowhere and without anyone else connecting there. Personally on my iPhone 5S I'm getting consistently either 100Mbps/10Mbps, or 50Mbps/25Mbps. I haven't yet fully read the specs to understand if there is also a HS*D*PA/HS*U*PA mode that justifies the two results.

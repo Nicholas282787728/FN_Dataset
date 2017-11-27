@@ -1,0 +1,2 @@
+What are some interesting "continue the sequence" questions?
+Here's one of my favorites: What is the next number in the sequence: 1, 2, 4, 8, 16 ? Most people say 32, but the "correct" answer is 31. These numbers are the maximum number of pieces a circle can be divided into using only chords. For more information, see Circle Division by Chords 

@@ -1,0 +1,1 @@
+What are some real-world applications of Red-Black trees today?Can anyone point to real-world applications and places where red-black trees are used today?std::map in c++ STL is implemented using red-black trees. 

@@ -1,0 +1,2 @@
+★Why is there a MAC address and an IP address?
+During routing using Mac address we get ip address. Mac address is static always but ip address can be static /dynamic    Embed Quote

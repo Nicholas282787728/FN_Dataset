@@ -1,0 +1,2 @@
+What algorithms and data structures should any software engineer know?
+If you learned everything on this list: http://en.wikipedia.org/wiki/Lis... you would know more than quite a few programmers I have worked with! However, its a big list. If you want to focus on commonly encountered structures I would recommend the following. ... (more)

@@ -1,0 +1,2 @@
+★What is the significance of graph theory?
+It is natural to view variety of data as graphs than as tables and other stuff. Relations and directed relations make more sense when represented as a graph. Graph Theory provides a framework to model your problems in terms of graph problems. The solutions for the graph problems helps in turn solving the main problem.    Embed Quote

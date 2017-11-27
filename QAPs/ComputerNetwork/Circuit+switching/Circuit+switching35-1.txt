@@ -1,0 +1,2 @@
+★Integrated Circuit Design: How to calibrate a switching regulator to power a ham radio
+Are you saying the radio's power output is too low?  The VX-3R is rated for full power only at 6V.

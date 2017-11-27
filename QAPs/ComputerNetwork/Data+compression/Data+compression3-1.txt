@@ -1,0 +1,2 @@
+★How does data compression works?What are some good data compression algorithms and what programming language is most suitable to create data compression tools?
+There is so much theory to say and writing it all in one or two lines is not possible - at least to me. One way of putting the idea is that we make a highly correlated data to less correlated, having still the possibility of getting back as much data as possible. Dimensionality reduction is one such basic approach.

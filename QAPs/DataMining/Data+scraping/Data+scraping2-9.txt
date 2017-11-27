@@ -1,0 +1,2 @@
+Which are some of the best web data scraping tools?
+I was surprised to find the .Net WebBrowser form control to be the best solution for my web scraping. I started out trying Scrapy, but overall the .Net web browser was more powerful (the web browser is like a full version of IE) and easier to use when combined with HtmlAgilityPack.    Embed Quote 

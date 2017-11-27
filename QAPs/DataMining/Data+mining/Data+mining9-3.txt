@@ -1,0 +1,2 @@
+What techniques are useful for data mining financial time series?
+Do you use R? If so, then the following link might give you a feeling for the various methods you could apply. CRAN Task View: Time Series Analysis    Embed Quote 

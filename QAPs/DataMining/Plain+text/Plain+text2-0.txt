@@ -1,0 +1,2 @@
+★What algorithm can convert plain text in applied mathematics text?Just plain text without any images, diagrams etc. The text has to be converted in file format
+On the face of it, a simple OCR application seems to be what you need. But that is so obvious there must be more to it.    Embed Quote

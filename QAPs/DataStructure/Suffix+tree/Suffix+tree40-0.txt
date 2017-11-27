@@ -1,0 +1,2 @@
+Write a program to return the longest repeating  substring in a string.
+Hint: build a Suffix tree, then find the highest node with at least 2 descendants. 

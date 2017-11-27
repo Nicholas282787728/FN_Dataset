@@ -1,0 +1,1 @@
+What are the most sophisticated algorithm that you "found" before you read the theory?e.g: you applied breadth first search even before you knew it exists. How did you come to that point?

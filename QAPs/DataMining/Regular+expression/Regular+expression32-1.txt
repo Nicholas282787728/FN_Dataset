@@ -1,0 +1,22 @@
+★What is wrong with the listed regular expression for use with an IP address?
+This script is very nearly correct, it just needs a few small adjustments. First, you should prefer \d over [0-9] when matching digits, because it's more concise and makes your program more robust in case the IANA defines new digits. The definition of \d will automatically be updated to include the new digits, but the manual character class [0-9] won't (and, of course, the same goes if digits are deprecated). Second, when you write \. in a string literal, you're not escaping the period for use in the regexp, just for use in the string. The actual value of the string does not retain the backslash. You can verify this in the console: 1
+2
+ >>> "\." "." So after the string literal is interpreted, the value has periods in it: [0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}. This matches many strings you don't intend it to, such as 7Q5~321. You can escape the backslashes so they survive as far as the regexp. To be certain everything arrives intact, you can retain the original escaping as well -- it certainly can't hurt! var validRegExPattern = "\\\d\{1\,3\}\\\.\\\d\{1\,3\}\\\.\\\d\{1\,3\}\\\.\\\d\{1\,3\}" Finally, there aren't enough tests against the value of isValid.exec(userInput). You should cover all your bases:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+ if (isValid.exec(userInput) == "" || isValid.exec(userInput) == "null" || isValid.exec(userInput) == null || isValid.exec(userInput) == '' || isValid.exec(userInput) == false || isValid.exec(userInput) == "false" || isValid.exec(userInput) == 0 || isValid.exec(userInput) == "0" || isValid.exec(userInput) == [] || isValid.exec(userInput) == {} || isValid.exec(userInput) == "empty string" || isValid.exec(userInput) == "no" || isValid.exec(userInput) == "FALSE" || isValid.exec(userInput) == 0.0 || isValid.exec(userInput) == NaN || isValid.exec(userInput) == Number.NEGATIVE_INFINITY ) {   ... } With these small changes the program should work properly.    Embed Quote

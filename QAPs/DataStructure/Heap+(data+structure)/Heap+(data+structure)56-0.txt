@@ -1,0 +1,2 @@
+What are the most important data structure and algorithms to prepare for Google Interview?
+Stick to Basics. I would classify the following data structures as **must know** Linked List - Single and Doubly Stack Queues Binary Search Trees or general Binary Tree Heaps Basic Graph Traversal and Shortest Path Hashing... (more)

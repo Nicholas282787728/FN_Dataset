@@ -1,0 +1,2 @@
+★How important is the fold on a web page?
+Not very important. I think it's important to get key information above the fold. That said, most people that talk about "the fold" are attempting to get EVERYTHING above it. The key is to have the most important content span from above to below the fold to force the user to scroll. The scrollbar defeats the need for "above the fold" but I wouldn't suggest putting your most important content at the bottom of the page.    Embed Quote

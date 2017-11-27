@@ -1,0 +1,1 @@
+How we can edit data in Sorted Array?You can just edit the element and then shift it either to the right if it became bigger or to the left if it became smaller until it no longer needs to be shifted. The complexity is then O(N) O(N) . If you want faster operations, you need a balanced binary search tree instead of an array. 130 Views

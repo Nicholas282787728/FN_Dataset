@@ -1,0 +1,2 @@
+★Why are the operational system keys not recommended for forming data warehouse primary keys?
+Why are the operational system keys not recommended for forming data warehouse primary keys?    Embed Quote

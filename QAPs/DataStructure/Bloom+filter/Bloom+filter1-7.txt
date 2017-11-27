@@ -1,0 +1,2 @@
+Why are some people so in love with Bloom filters?The extent to which people are obsessed with it is too high. What's the secret?
+1. space effecient 2. probabilistic approach/randomisation 3. No false negatives 4. Its applications in BigTable, Google Chrome, Cassandra stands for its success 5. Attractive and much more effecient extensions as in counting filters. 

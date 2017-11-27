@@ -1,0 +1,2 @@
+★Which cameras record the most metadata?EXIF tag format with relevant metadata e.g. GPS position, elevation, exact direction and angle of each photograph, and any other relevant information.
+Exact direction and angle is the tough part.  The iPhone and the Ricoh G700SE have a compass, but I don't think they record the slant.  The iPhone does not record elevation.  Compass direction is probably not very accurate.  Even latitude/longitude can be inaccurate, especially in urban settings where the GPS signals bounce around among buildings.    Embed Quote

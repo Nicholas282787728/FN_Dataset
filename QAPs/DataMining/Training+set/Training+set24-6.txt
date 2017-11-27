@@ -1,0 +1,2 @@
+★How can one improve a classifier (random forest), when there is no overfitting + optimal parameter selection but performance on the test set is much lower than on the training set?
+You should look into using a library which is faster then the one you're currently using: Wise.io | Machine Learning as a Service & Big Data Analytics Also, consider trying to lower the amount of trees used to see if you still obtain good results still.    Embed Quote

@@ -1,0 +1,2 @@
+★What is a good SVM toolbox for Matlab?The built-in SVM functions that comes with the bioinformatics toolbox are pissing me off.
+Without a doubt, LIBSVM [1] and LibLinear [2]. If you cannot use these for some reason, check out SVM-Light [3]. [1] http://www.csie.ntu.edu.tw/~cjli... [2] http://www.csie.ntu.edu.tw/~cjli... [3] http://svmlight.joachims.org/    Embed Quote

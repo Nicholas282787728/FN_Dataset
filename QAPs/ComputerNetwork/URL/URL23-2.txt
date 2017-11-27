@@ -1,0 +1,2 @@
+★Do users pay attention to and interact with URL paths?Technical users appear to, but how much benefit is gained for regular users by having a well-crafted hierarchy of clean URLs for your website? Specifically, this is referring to the URL path - not the domain.
+Unlikely. Otherwise phishers wouldn't be so successful sending them to urls like dodgysite.com/nastycriminal/www/faceboook and people still log in.    Embed Quote

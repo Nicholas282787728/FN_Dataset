@@ -1,0 +1,2 @@
+★What's a good engine to use for HTML5 games?
+A new HTML5/Canvas library is EaselJS (http://easeljs.com), which was used to good effect in the game http://www.PiratesLoveDaisies.com. Easel was built by http://gskinner.com, and is released under the MIT license, which means you can use it freely for almost any purpose (including commercial projects).

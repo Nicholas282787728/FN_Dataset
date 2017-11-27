@@ -1,0 +1,1 @@
+What is the meaning of a horizontal line in a distance versus time graph?the slope of a curve at a particular point in a distance vs time graph corresponds to the velocity at that time, a horizontal line would imply no velocity - thus no movement occurs over the time interval over which the horizontal line extends 37 Views

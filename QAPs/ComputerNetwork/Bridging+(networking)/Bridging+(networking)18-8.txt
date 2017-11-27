@@ -1,0 +1,2 @@
+★Electronics Engineering: Why do we use bridge rectifier?If we already having a center tap rectifier with just two diodes doing the same work then why there is a need to use four diodes or the so called Bridge rectifier.
+We can eliminate the need of transformer in bridge type and now days, transformer, especially centre-tapped ones are more costlier than diodes. Also, centre tapping is not always so much accurate. The PIV rating of diodes needed in bridge rectifier is half than that needed in Centre tap rectifier.

@@ -1,0 +1,2 @@
+★What is a good way to begin the development of a data warehouse?
+1. Define the questions that you would like the system to help answer. 2. Propose hypotheses about causal factors relating to the questions. 3. Identify the variables that must be measured to prove/disprove the hypotheses. 4. Begin the technical work to instantiate the data flow:  extraction -> load -> store -> query -> analyze. Bob    Embed Quote

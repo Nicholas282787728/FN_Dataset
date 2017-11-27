@@ -1,0 +1,2 @@
+What is the best way to track and categorize academic papers that I've read in the course of doing research?
+I use http://www.citeulike.org/ .  I like it because I can add papers with a single click (it parses the journal webpage to get the citation details), and because it exports to BibTeX.  Also, it's free.    Embed Quote 

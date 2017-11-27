@@ -1,0 +1,2 @@
+What is the most simple & efficient C++ code for Dijkstra's shortest path algorithm?
+This is how I usually code it : void Solve() { memset(dist, kInf, sizeof dist); dist[1] = 0; q.emplace(1, 0); while (!q.empty()) { int node = q.top().node; int cost = q.top().cost; q.pop(); if (cost != dist[node]) continue; for (auto it : G[node]) { int new_dist = cost + it.second; if (new_dist < dist[it.first]) { dist[it.first] = new_dist; q.emplace(it.first, new_dist); } } } } 

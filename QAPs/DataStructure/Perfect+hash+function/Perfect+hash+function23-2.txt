@@ -1,0 +1,2 @@
+Where can I find effective hash functions for strings?
+Assuming you have your data available ahead of time, see Minimal Perfect Hashing ( Like Jillis' answer, again on Bob's site: http://burtleburtle.net/bob/hash... ) 

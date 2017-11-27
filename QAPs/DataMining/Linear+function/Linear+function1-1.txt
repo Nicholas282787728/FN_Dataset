@@ -1,0 +1,2 @@
+★What are linear functions?
+Any function f which satisfies f(x + y) = f(x) + f(y) and f(k x) = k f(x). These properties are sometimes called the  superposition and scaling.  You can also think of f as commuting with (+) and (k *) for all k.    Embed Quote

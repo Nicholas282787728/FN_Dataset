@@ -1,0 +1,2 @@
+★What are existing applications of semantic web technologies?
+http://www.freebase.com/ is one of the most impressive. It's like Wikipedia, but totally semantic-ed out and full of nifty apis.    Embed Quote

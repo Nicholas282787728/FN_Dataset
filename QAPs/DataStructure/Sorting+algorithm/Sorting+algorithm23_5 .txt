@@ -1,0 +1,1 @@
+Which sorting algorithm has a time complexity of O(n)?Radix and Counting sorting are of O(nk) and O(n+k) where k is small enough to make it linear. All comparison sorting takes minimum O(nlogn). Radix and Counting sorting not works on comparison. 

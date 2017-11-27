@@ -1,0 +1,2 @@
+Which type of ML/statistics methods fit a "select best candidate" scenario?
+For ranking problem like this,  you can try to fit either a multinomial logit model or an ordinal regression model. Here is a good R tutorial for ordinal regression: R Data Analysis Examples: Ordinal Logistic Regression. 

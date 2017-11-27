@@ -1,0 +1,2 @@
+★Can a hyperlink also have JavaScript that will execute onclick?
+You can include any JavaScript you like: <a href= "#" onclick= "console.log('hello'), (function() { console.log('world'); }()), void(0)" > Click </a>    Embed Quote

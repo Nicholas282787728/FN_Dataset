@@ -1,0 +1,2 @@
+★OCR : Where can I find good resource for implementing OCR using recurrent neural network?
+Long Short Term Memory Networks (LSTMs) based recurrent neural networks have been used for OCR [1]. RNN based OCR implementation can be found at https://github.com/tmbdev/ocropy Few implementations for LSTMs and RNNS in general may be found at: 1. https://github.com/pascanur/Grou... 2. http://pybrain.org 3. http://sourceforge.net/projects/... Reference: [1] http://iupr1.cs.uni-kl.de/~share...    Embed Quote

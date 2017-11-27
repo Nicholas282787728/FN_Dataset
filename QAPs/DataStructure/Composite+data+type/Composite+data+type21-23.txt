@@ -1,0 +1,2 @@
+What are the growth stages of a programmer?Can someone share their journey and what clear stages you can identify over the years? e.g. learning your first programming language, first IT jobs, career decisions, understanding goals of corporate IT, etc?
+1. You have no <bleep>'ing idea what your doing 2. You know enough to blow stuff but not enough not to 3. The more you learn the less you know Every time I have tried to break the above down into a finer grained list that is universally applicable to all skill sets I can't. 

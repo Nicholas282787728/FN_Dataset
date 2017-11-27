@@ -1,0 +1,2 @@
+Under what conditions would a slow algorithm run faster than a fast algorithm?
+Algorithms are classified as slow or fast based on their asymptotic behavior,  so on small problem instances a slow algorithm can be faster than a fast one. 

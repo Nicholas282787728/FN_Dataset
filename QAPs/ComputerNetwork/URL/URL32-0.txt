@@ -1,0 +1,2 @@
+★What is the difference between a URL and HTTP?
+URL is the uniform resource locator,  it gives the address of the web page, that you are currently looking for. Eg http://www.quora.com/What-is-difference-between-url-http HTTP or Hyper Text Transfer Protocol on the other hand, is the request-response protocol you have in a client server model. Hyper Text is your structured text with hyper links between nodes containing the text, and HTTP here is the protocol we use to transfer or exchange the hypertext.    Embed Quote

@@ -1,0 +1,2 @@
+★How can I invest in high frequency trading, algorithmic trading, or latency arbitrage?Is there any way for a regular person to invest in entities performing these kinds of trading?
+i would suggest you to take a look at this free Computational Finance class, it helps me a lot on this topic. It is a free class that's taught by a professor from stony brook who named Steven Skeina. Since it is FREE i really recommend you to take it

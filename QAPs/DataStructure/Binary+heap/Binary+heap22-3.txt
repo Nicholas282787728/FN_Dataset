@@ -1,0 +1,1 @@
+How does Heapsort take O(nlogn) time?This may be an incredibly stupid question, but I'm curious. If heap construction takes O(nlogn) time (or linear depending on the implementation) and extraction for min (or max) takes O(logn) time, then wouldn't construction + extraction for all n elements take O((nlogn)^2)? Am I missing something here?

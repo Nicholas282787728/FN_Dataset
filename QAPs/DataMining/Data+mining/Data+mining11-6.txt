@@ -1,0 +1,2 @@
+What are some Indian startups working with Machine Learning or Data Mining?
+check out Frrole. We do a lot of ML, NLP and Text Mining on Tweets.    Embed Quote 

@@ -1,0 +1,2 @@
+Why are B-trees not named BM trees?
+BM means bowel movement.  Maybe that is why.  I do not know what you mean by B trees or AVL trees for that matter. 172 Views · 1 Upvote

@@ -1,0 +1,2 @@
+How do I store a substring from a char * in C++?
+If you already have a sequence of characters in a char* variable then you can use the constructor of string to construct a new string. As you can see in this link string::string - C++ Reference it provides a constructor with parameters char* and length. So you can use it as new string(char*, length) to get the required substring. Say your substring starts at position i and ends at position j, you can write it as myString = new string((pointer + i - 1), j - i); 

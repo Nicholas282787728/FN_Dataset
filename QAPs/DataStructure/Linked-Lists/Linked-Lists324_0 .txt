@@ -1,0 +1,1 @@
+Why is it good to add elements at the end of linked list in java?You can add elements anywhere in a linked list, depending on your requirement. 21 Views

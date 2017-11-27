@@ -1,0 +1,1 @@
+If the post order traversal of a binary tree is DEBFCA, how can I find out the pre order traversal?you can't, you need the in-order traversal also 

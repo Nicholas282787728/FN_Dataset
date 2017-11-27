@@ -1,0 +1,1 @@
+What is the fastest way to find the minimum value of an array?Probly the most easiest thing to do, simply loop though the array one, and set a variable to be the smaller from that one loop such as If(num < array[count]) num = array[count] 23 Views

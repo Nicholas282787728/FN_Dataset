@@ -1,0 +1,2 @@
+What is the best way to prepare for an interview as for a software engineering role at Microsoft?
+I documented some of the questions (and suggested answers) that I was asked during interview in MSFT for Senior SDE position, here's a link: Get Ready for Software Interview   HTH Updated 46w ago • View Upvotes

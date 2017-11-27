@@ -1,0 +1,2 @@
+★What is the difference between sentiments (positive and negative) and emotions in text mining (NLP)?For example Anger is negative emotion as well as negative sentiment both seems the same.
+Check out WEKA: WEKA. Its' a popular suite of machine learning software written in Java. See also LibSVM, Naive Bayes classifier and j48 algorithm.    Embed Quote

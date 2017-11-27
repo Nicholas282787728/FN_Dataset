@@ -1,0 +1,2 @@
+What are the greatest dashboard designs, and why?I am looking for some cool dashboard designs following the latest design trends and UI Patterns. Dashboards mainly displaying the analytics, performance graphs and the most vital information.
+Here's an old, but still relevant presentation I gave on presentation design the the SXSW Interactive attendees back in 2010: Effective Dashboard Design: Why Your Baby is Ugly 

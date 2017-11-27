@@ -1,0 +1,2 @@
+In a square area with sides equal to 5 m, one has to plant mango trees. The distance between two consecutive trees should be 1 m. What will be the total number of trees in that area?
+36. Plant at the points of intersection of lines. 

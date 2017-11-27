@@ -1,0 +1,2 @@
+★Is it possible to switch my home network to exclusively IPv6 without a loss of functionality?How would this work?  Any tutorials out there?
+You can try NAT64, translating from v6 to v4, but some apps like a few video streaming widgets will fail. Some bad apps put v4 literals inside the packet above layer 4. I know of only one person who has gone pure v6. All modern OSes are dual-stack and with latest patches prefer a v6 connection if it detects one.    Embed Quote

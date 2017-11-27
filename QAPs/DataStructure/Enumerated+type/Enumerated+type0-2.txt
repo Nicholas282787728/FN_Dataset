@@ -1,0 +1,2 @@
+What is an enumerated type?
+An enumeration is a (usually) sequential series of named values. Since an enumeration is an abstraction, the values of these names do not usually matter. When using an enumeration as a type, a compiler can enforce the rule that only those values can be assigned to a value of that type. 

@@ -1,0 +1,2 @@
+★Anyone have examples/estimates for M2M / IoT data rates?Hi, I am looking for M2M / IoT data plans that give me an estimate on the running 40000 M2M devices. We estimate that we will have 20 MB per months, 240000 MB per year. Would anyone have some estimates on what we are looking at in terms of connectivity cost (monthly base fee, etc plus traffic cost).
+Depends where you are located, you can contact APACSales@korewireless.com to give you some advice

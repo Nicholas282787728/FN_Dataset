@@ -1,0 +1,2 @@
+What are the key points of Linked List in Data Structure?
+Linked List is a vast topic and would be difficult to explain well on quora. I would suggest you to view this tutorial website http://www.codersmaze.com which explains linked list in data structures very well. Also it explains you doubly linked list and circular linked list in an organized fashion. Hope this helps. 

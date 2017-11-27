@@ -1,0 +1,2 @@
+★What NLP problems has deep learning or neural networks been applied to successfully?I know there has been significant work in language modeling. I have also seen some unified approaches (paper). I am more interested in things like entity, relationship extraction.
+Topic categorization: [1412.1058] Effective Use of Word Order for Text Categorization with Convolutional Neural Networks Interesting work how word order can be used by applying CNN    Embed Quote

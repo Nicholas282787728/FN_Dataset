@@ -1,0 +1,2 @@
+I want to find the maximum value between 2 keys i < j, within worst case O(log n). How can I achieve that?
+You can use this strategy . 1. Locate a node (t) in tree T such that there key is between i and j 2. look at  left and right child of t till you find a key such that key > i and key < j . 

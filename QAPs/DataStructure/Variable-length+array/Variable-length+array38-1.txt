@@ -1,0 +1,2 @@
+Is C++ an all around improved C?
+Oh, no, not the Linus rant against C++ again. While Linus deserves respect for his work on linux, this rant is very poorly argued  as shown in the below response: A response to Linus Torvalds on C++ 

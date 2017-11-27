@@ -1,0 +1,2 @@
+★How can we implement full adder using 8:1 multiplexer?
+Try to make an combination of 8:1 multiplexer according to k map then the output of all multiplexer are connected to the OR gate its tough to teach you oraly but try once may be it helps u :p    Embed Quote

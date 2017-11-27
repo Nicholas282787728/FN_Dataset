@@ -1,0 +1,2 @@
+What is an integer?
+Integers are positive and negative whole numbers.  ... -3, -2, -1, 0, +1, +2, +3... They are infinite in both directions. "God made the integers, all the rest is the work of man", Leopold Kronecker. 

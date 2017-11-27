@@ -1,0 +1,1 @@
+How do I efficiently count the number of unique IDs in an array?Assuming IDs are all random numeric numbers.. I know algorithm that runs in O(n) running time and O(n) space.. How can we do better than that?To use less memory, we can use a probabilistic data structure like a Bloom filter. It will still run in O(n) and achieve good accuracy. 216 Views  View Upvotes

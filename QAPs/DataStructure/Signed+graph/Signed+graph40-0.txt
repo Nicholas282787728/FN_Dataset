@@ -1,0 +1,2 @@
+What has changed at Scribd lately that has caused an influx in followers?
+Primarily, better Facebook integration.  Now when people sign up we import their social graph.  This has led to essentially an exponential increase in the number of followship connections we know about. 

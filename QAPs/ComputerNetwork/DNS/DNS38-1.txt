@@ -1,0 +1,2 @@
+★Domain Name System (DNS): What does Xip.io do?How are you supposed to use http://xip.io/? What are some use cases where it would come in handy?
+The obvious uses are demo'ing a site hosted locally (presumably for development purposes) on an mobile phone, tablet or a different computer. For example since I develop websites locally on OS X, when I need to test a change to a non-live site in IE, I will switch over to a windows machine — xip.io allows me to view my local site on that other machine.

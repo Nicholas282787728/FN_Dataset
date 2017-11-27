@@ -1,0 +1,2 @@
+★Can a fiber Internet cable terminate in Ethernet?
+Here's an example of a typical Carrier Ethernet switch that accepts fiber SFP transceivers, with an Ethernet cable as the customer's hand-off interface: Ciena - 3931 - Overview In the US, Comcast uses this switch and enclosure for its Extreme 505 FTTH tier, if not also for commercial Metro Ethernet or Ethernet DIA deployments.

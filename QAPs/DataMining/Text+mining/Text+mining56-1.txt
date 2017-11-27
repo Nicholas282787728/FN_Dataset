@@ -1,0 +1,2 @@
+★Instead of Python, can I use C or C# for text mining?
+Yes, you can. You can even try assembly language. Give it a shot!    Embed Quote

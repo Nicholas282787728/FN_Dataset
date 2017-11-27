@@ -1,0 +1,2 @@
+★How can I assign meaning to different clusters formed by K Means clustering?I have multiple columns in my data. I just want to have some verbal definition of the clusters in terms of the columns.
+Typically, you'd want to describe each group by how it most differs from the other groups. Focus on that.    Embed Quote

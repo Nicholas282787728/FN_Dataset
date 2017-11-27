@@ -1,0 +1,2 @@
+★Is there a dedicated web framework for Semantic Web?
+Maybe you could try Cubic Web : http://www.cubicweb.org/    Embed Quote

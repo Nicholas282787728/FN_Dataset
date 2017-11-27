@@ -1,0 +1,2 @@
+★Are there any very small 3-port gigabit ethernet switches?Is there is a small module available off-the-shelf that only has a power connector and no less than three RJ45 headers? Ideally it would not be more than an inch or two on a side.
+Yes, you can try Ubiquiti Edge Router Lite. 3 RJ45 gigabit ports that does a lot of what a Layer3 switch would do. Impressive performance for under 100 USD.

@@ -1,0 +1,2 @@
+Why does everyone use C with C++?
+When people use the phrase "C/C++", they just mean that, for the purpose of this conversation, we don't really care which one is meant.  Kind of like how you might be in the business of selling cars and trucks.  They are different, but they have enough in common that you might want to talk about both in a single sentence without drawing a distinction.  Other examples:  potato chips and pretzels, beer and wine, mice and rats, etc. 

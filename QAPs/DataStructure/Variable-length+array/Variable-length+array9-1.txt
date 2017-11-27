@@ -1,0 +1,2 @@
+Why is sizeof() implemented as an operator in C?
+sizeof is mostly implemented as a compile time operator so that the compiler can replace it with constant values. And it's the responsibility of the compiler to implement sizeof with the correct values for the target platform. However in C99 sizeof can be used with variable length arrays, in which case it's a run time computation. 

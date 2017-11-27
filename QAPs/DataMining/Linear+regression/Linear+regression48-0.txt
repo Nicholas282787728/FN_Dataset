@@ -1,0 +1,2 @@
+★Linear Regression: When using sliding window linear regression how do we determine a reasonable window size?
+This question is very vague, but in general, in machine learning, when selecting a hyper parameter, cross validation is the best method to use. This, of course, is given that you're training something on labeled data.    Embed Quote

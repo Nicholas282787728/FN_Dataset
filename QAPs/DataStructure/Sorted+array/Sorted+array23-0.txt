@@ -1,0 +1,2 @@
+Given a sorted array, how would you find two numbers whose sum is equal to a given number in O(n)?
+We can use Hashing to easily solve this problem in linear time. The idea is to insert each element of the array arr[i] in a map. We also checks if difference (arr[i], sum-arr[i]) already exists in the map or not. If the difference is seen before, we print the pair and return. Refer last approach discussed here for implementation. 947 Views · 7 Upvotes

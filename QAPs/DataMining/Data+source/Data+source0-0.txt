@@ -1,0 +1,2 @@
+What's your favorite free data source?
+Quandl is a new company out of company out of Canada that I've been keeping an eye on. They've got a ton of financial, Econ & social time-series data.    Embed Quote 

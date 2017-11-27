@@ -1,0 +1,2 @@
+What is the best way to scrape data from a website?
+Since most of the readers are not professional programmers, i'd recommend the custom off-the-shelf web scraping tools summed up in the post Software for Web Scraping. Feel free to leave your impression as an comment on it.    Embed Quote 

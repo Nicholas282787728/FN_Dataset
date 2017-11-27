@@ -1,0 +1,2 @@
+What are some good resources for learning about data compression? Why?
+Apart from above http://www.cs.princeton.edu/cour... http://ww2.cs.mu.oz.au/mg/ http://www.ws.binghamton.edu/fow... http://www.apl.jhu.edu/Classes/5... http://www.cise.ufl.edu/~mssz/CP... https://sites.google.com/a/uni-k... http://www.stringology.org/athen... Notes on data compression here http://www.daimi.au.dk/~bromille... http://www.cs.hut.fi/~travis/com...    Embed Quote 

@@ -1,0 +1,2 @@
+★What techniques are useful for data mining financial time series?
+Time series at some level assumes there is a seasonal or temporal component to the movement of the data, irrespective of other considerations.  This is often not the case with financial data.  One may want to examine game theory methods in order to account for transactional influences in play when buy/sell supply/demand considerations are present.    Embed Quote

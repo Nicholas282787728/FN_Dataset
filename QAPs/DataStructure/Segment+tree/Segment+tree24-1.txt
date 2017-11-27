@@ -1,0 +1,2 @@
+How can one build a segment tree iteratively in linear time?
+Sample code below (MAXN needs to be a power of 2). for(int i = 2 * MAXN - 1; i >= 1; --i) {if (i >= MAXN) SEG[i] = ar[i-MAXN];else SEG[i] = SEG[2*i] + SEG[2*i+1];} Disclaimer: this is untested code and it might not work 

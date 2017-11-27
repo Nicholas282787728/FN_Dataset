@@ -1,0 +1,2 @@
+What are some really interesting machine learning projects for beginners?Preferably written using python. Any other languages is welcomed though :) Please do mention if you are using third party library or any reference regarding the project etc
+I started with Digit Recognizer from Kaggle. It is fun and exposes you to some of the really fundamental concepts of Machine Learning. 

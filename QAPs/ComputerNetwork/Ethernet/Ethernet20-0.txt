@@ -1,0 +1,2 @@
+★Is there any significance of "ether" in "Ethernet"?
+The 'ether' referred to the single coaxial cable used to connect the personal workstations. As far as the origin of the term is concerned, just as ether was once believed to carry electromagentic waves through space, the cable carried data to all workstations connected to it.

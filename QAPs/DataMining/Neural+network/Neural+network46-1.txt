@@ -1,0 +1,2 @@
+★What do you mean by a neural network?
+a computing system made up of a number  of simple, highly interconnected processing  elements, which process information by their dynamic state response to external inputs.    Embed Quote

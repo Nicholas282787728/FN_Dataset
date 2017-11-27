@@ -1,0 +1,2 @@
+What are some non-trivial projects, that use a lot of math, with the programming language C?
+In addition to Justin Swanhart's answer: Computational mathematics 

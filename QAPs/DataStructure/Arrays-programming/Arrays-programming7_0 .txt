@@ -1,0 +1,1 @@
+How can I call one property array in another viewcontroller in ios?By using class name. Example: #import ”viewcontroller1.h” { @property(nonatomic,strong)NSArray *view1; } #import “ Viewcontroller2.h #import ”viewcontroller1.h” { } viewcontroller2.m { Viewcontroller1 *vie=[Viewcontroller1 alloc ]init]; NSLog(@”%”,vie.view1); } 22 Views

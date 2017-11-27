@@ -1,0 +1,2 @@
+★What is the difference between natural language processing and computational linguistics?
+At a very high level: When a computer scientist pursues research in language - its natural language processing. When a linguist pursues research in computer science - its computational linguistics.    Embed Quote

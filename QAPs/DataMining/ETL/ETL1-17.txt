@@ -1,0 +1,2 @@
+★Business Intelligence: ETL : which is the best open source ETL tool to start working ? specially if we are kick starting a BI project
+I have worked on Informatica  and MSTR and i would say both are very good!!!    Embed Quote

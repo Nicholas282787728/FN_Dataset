@@ -1,0 +1,2 @@
+How do you pair characters in C programming language to certain numbers (for example when it reads A it knows that equals to 0.30)?
+Sounds like a job for two arrays, though it depends on the numbers. You may get lucky (and I have been lucky before) and be able to pull it off with some cleverly placed bitwise operators and a little math. 

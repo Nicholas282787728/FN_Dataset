@@ -1,0 +1,2 @@
+★What are low-cost ways to implement wireless communication in embedded systems?
+JeeNode is an option if you are working in the Arduino space. See:  http://shop.moderndevice.com/pro... and http://jeelabs.com/products/jeenode    Embed Quote

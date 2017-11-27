@@ -1,0 +1,2 @@
+★What's the best 48-port Gigabit switch under $1,000 sold on Amazon?I'm biased towards Cisco and HP. Please help me decide :-)
+Cisco WS-C3560-48PS-S Catalyst 3560 48-port POE 802.3af    48 10/100BASE-TX Fast ethernet POE (802.3af compliant) Ports Rackmountable 4 SFP-based Gigabit Ports life of the cisco product is good as compare to the HP

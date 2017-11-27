@@ -1,0 +1,2 @@
+What are some good computer science final year project ideas?
+Originally Answered: What are some best final year main projects in computer science?Thanks for A2A. There are many domains to look into, including Data Mining, Artificial Intelligence, Mobile Computing, etc,. Emotional Analysis using Deformable Model Fitting Semantic document summarization Realtime load balancing in virtualization environment Sentiment Analysis in Social media data using AFINN and WordNet These are only a few, a lot more to look into. 

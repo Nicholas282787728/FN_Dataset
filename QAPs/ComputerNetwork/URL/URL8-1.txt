@@ -1,0 +1,2 @@
+★What is the shortest URL shortener?
+Erannis is a new URL shortener based on a smarter and more efficient algorithm than any other one currently active on the market. The algorithm is Encode Round Name (http://ern.is/2L). It's possibile to compress a very long link in 2 chars.    Embed Quote

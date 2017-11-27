@@ -1,0 +1,2 @@
+What would be the algorithm to find duplicate subtrees in a binary tree?
+Try this. Go from the end nodes.  Create a data entry that is the concatenated data of that in the leaf node (call that level N) and its parent (level N-1).  Sort them.  Then for any matches, replace the data at level N-1 with the concatenated data.  Repeat.  When no more matches occur, check the end nodes for any that have multiple levels of concatenated data. 

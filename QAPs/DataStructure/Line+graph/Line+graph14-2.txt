@@ -1,0 +1,2 @@
+How do I reflect a function over a line (graph and equation please)?
+This is a method used to find the reflection over the line y = x, aka finding the multiplicative inverse of elementary functions: for a function y of x, switch your x and y variables. solve for y. That gives us the reflection. For example, if we had y = 3x + 6, switch x and y to yield x = 3y + 6. x = 3y + 6 x - 6 = 3y (x-6)/3 = y so our equation would be y = (x-6)/3, or y = (x/3) - 2. 614 Views · 3 Upvotes

@@ -1,0 +1,2 @@
+What are some examples of graphs with an infinite number of vertices?
+Consider a graph constructed by using all non-negative integers as vertices and connecting vertex i  to vertex (i+1)  with an edge. In fact, this graph is somewhat interesting since it is an example of an infinite graph that violates the well known  Handshaking lemma which is true for finite graphs .i.e. Every graph has an even number of vertices of odd degree Updated 13 Jun 2014 • View Upvotes

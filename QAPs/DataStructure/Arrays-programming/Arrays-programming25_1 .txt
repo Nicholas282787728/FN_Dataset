@@ -1,0 +1,1 @@
+How do we add two arrays in java?If size is same of both the array class SumOfArray{ public static void main(String args[]){ //I assume you have two array (same in size) with data in it and you want to store it //in an array for(int i=0;i<array1.length();i++){ sum[i] = firstArray[i]+secondArray[i]; } } } 67 Views  Answer requested by Manojkumar Dasari

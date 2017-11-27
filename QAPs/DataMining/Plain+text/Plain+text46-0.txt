@@ -1,0 +1,2 @@
+★What is a good layout for plain text file to make them quickly readable?
+For minimum readability you want to be able create emphasis in the same way you do when writing a Quora post. An insanely great way to do this is in Markdown. Even for long files, especially if you use MultiMarkdown with its ability to include other files. If you want to go whole hog, there's always LaTex. These render into HTML or pdf or a variety of other formats, such as epub, especially if you have pandoc.    Embed Quote

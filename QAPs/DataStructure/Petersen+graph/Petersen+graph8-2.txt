@@ -1,0 +1,2 @@
+Soft question: how did you learn to find counterexamples?
+You can find counterexamples in a topic if you know many examples in that topic. So try to look at the examples in the textbooks, often in the exercises, and go through many of them. Try to build a network of "small", basic examples in the topic and apply all theorems, definitions, techniques you learn on these examples. Make the set grow. 

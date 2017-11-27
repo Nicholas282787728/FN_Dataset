@@ -1,0 +1,2 @@
+★What is the best way to train a SVM on a very large dataset?
+If you're dealing with a truly large data set that cannot fit in memory, then consider using SGD. When combined with approximate kernel methods e.g. the Nystroem Method, you can have the benefits of non-linear decision boundaries while maintaining scalability. Another option you might like to consider is dimensionality reduction, which could be done using either Principal component analysis or Denoising Autoencoders (dA).    Embed Quote

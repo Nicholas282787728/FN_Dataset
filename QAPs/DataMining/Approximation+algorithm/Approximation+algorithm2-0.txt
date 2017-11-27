@@ -1,0 +1,2 @@
+★What is the good source to learn Approximate algorithm?Looking for a good tutorial on approximate algorithm problem. Basically, how to select a small data set from large corpus using approximation theory. Will greedy algorithm work in this case ?
+Approximation Algorithms: Vijay V. Vazirani: 9783540653677: Amazon.com: Books If anyone can think of better sources, I am all ears!    Embed Quote

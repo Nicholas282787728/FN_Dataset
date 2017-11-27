@@ -1,0 +1,2 @@
+★How do I perform feature selection?
+SIGIR 2010: Feature Generation and Selection for Information Retrieval: http://alex.smola.org/workshops/... Embedded methods by Lal et al., 2006: http://www.kyb.tuebingen.mpg.de/... What are some feature selection methods for SVMs? Property testing: Page on tau.ac.il (via COMS 6998 home page) Related question: What are some principal approaches to dimensionality reduction for classification?    Embed Quote

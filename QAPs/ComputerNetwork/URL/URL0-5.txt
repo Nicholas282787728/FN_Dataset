@@ -1,0 +1,2 @@
+★How does a URL-shortener work?
+Encrypt original URL and store both original and encrypted urls into database. Later, when user accesss encrypted url, it request the original url.    Embed Quote

@@ -1,0 +1,2 @@
+How can one be well prepared to answer data structure/algorithm questions in interviews?
+Originally Answered: What questions on algorithms, data structure and computer architecture are commonly asked in interviews especially in companies like Google, Microsoft, Quora, Amazon,  Wikipedia, Facebook, and LinkedIn?http://www.geeksforgeeks.org/ This is great site where you can find interview questions of almost all well known companies(CS).You can even learn many algorithms and also find frequently asked questions here. 

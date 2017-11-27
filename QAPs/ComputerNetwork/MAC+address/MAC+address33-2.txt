@@ -1,0 +1,2 @@
+★How does Google keep its geolocation database updated with new MAC addresses?Previously Google used its fleet of Street View cars to gather locations of WiFi access points. However, according to their press release of May last year all WiFi equipment has been removed from these cars. Yet the updates continue. How?
+I believe they have WiFi gear in the cars they just removed the code that recorded the data being transmitted.    Embed Quote

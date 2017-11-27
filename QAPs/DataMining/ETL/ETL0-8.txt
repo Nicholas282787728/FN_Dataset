@@ -1,0 +1,2 @@
+★ETL Concepts: What are the advantages of using Informatica as an ETL tool over Teradata?As far as I know Teradata is a more expensive solution, as compared to Informatica, but I was wondering about other advantages from an operational standpoint.
+I worked in a few ETL tools including Informatica, Datastage and DMExpress.. and I found Informatica much simpler than Datastage (which is most complex but also offers great flexibilities..) but it has some in built problems in it.. like lack of inherent parallelism    Embed Quote

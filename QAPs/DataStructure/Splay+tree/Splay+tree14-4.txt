@@ -1,0 +1,2 @@
+How would the CLRS authors fare in TopCoder against people like Gennady Korotkevich (competitive programmer)?
+The time and formality involved in the algorithmic proofs in CLRS are so different from those involved in competitive programming that the outcome wouldn't even be close. Watching the authors of CLRS compete against Gennady in a programming contest would be like waiting 10 seconds for thunder to follow lightning. Gennady could win while wasted with people throwing pillows at him the entire time. 

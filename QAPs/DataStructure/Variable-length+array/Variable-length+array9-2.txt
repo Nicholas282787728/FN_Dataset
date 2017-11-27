@@ -1,0 +1,2 @@
+Why is sizeof() implemented as an operator in C?
+sizeof can take a type as an "argument", which are not first class values in C. Therefore it cannot be a function. 

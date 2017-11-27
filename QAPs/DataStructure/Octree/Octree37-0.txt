@@ -1,0 +1,2 @@
+Do most computer scientists realize that game design is generally more fun than computer science research?
+Probably not. For, without linear algebra, complex numbers, quaternions, octrees, decades of research into superscalar processing, and many, many other advances in computer science and engineering, you'd still be playing that crappy version of Pac Man on your Atari 2600. 

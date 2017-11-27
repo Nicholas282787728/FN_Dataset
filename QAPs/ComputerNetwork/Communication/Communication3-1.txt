@@ -1,0 +1,4 @@
+What is the relationship between cloud computing and computer networking/data communications?Simple explanation: 
+Cloud computing is basically distributing a computing job among different computers. To distribute the job amount the computers, they should talk to each other and this is achieved by connecting them to a network. Hence, networking is required for Cloud Computing. 
+
+(This is a simple example of Load balancing in cloud. Distributed storage also works in a similar way.)

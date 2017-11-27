@@ -1,0 +1,2 @@
+★What Intranet is the best?
+I am biased but http://www.silk.co is an amazingly powerful and flexible intranet tool. It combines the power of a web publisher / cms with a database and lets you remix and create specific views for groups, individuals, services - you name it. We use it internally and a lot of companies are using it, as well. You can also convert a clunk Google Docs / Sheets intranet / directory to a Silk site in a few clicks (each row converts to a webpage).

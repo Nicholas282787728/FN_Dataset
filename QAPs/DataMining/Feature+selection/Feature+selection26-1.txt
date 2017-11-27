@@ -1,0 +1,2 @@
+★How can one perform feature selection with textual features?
+What you are trying to do is essentially feature extraction and not selection. Feature selection is done when you already have features extracted, but it seems you only have text and no meaningful features extracted from them. Every numeric feature should represent 'something interpretable'. What would hashing represent? Many people use frequency based,  n-gram, tf-idf etc type of features which are interpretable number. You need to do literature review on this topic.    Embed Quote

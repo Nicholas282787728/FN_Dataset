@@ -1,0 +1,2 @@
+What are some good websites to learn data structures and algorithms?
+Originally Answered: What is best online resource to learn data structures and algorithms?My answer is not direct or to the point, but I believe it is the right answer. Project Euler - A website where you have to solve mathematical puzzles. Now you can choose to solve them using pencil and paper as well. But solve them through programming and you will now that, Project Euler is the best online resource for learning DS and Algorithms. 1.3k Views

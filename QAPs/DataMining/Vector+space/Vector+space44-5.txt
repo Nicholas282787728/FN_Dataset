@@ -1,0 +1,2 @@
+★Why is the matrix vector space written like R^(m×n)? For example, isn't a square 2x2 matrix really still contained in R^2?
+I think what you are asking is: if we are to specifiy a square matrix, couldnt we just use one number for number of columns and rows? The answer yes, it would be possible to specify a simpler notation for square case, but the notation is generic and must cover all cases (square, non square). I dont think it worth the effort to specify a different notation because the generic is simple enough.    Embed Quote

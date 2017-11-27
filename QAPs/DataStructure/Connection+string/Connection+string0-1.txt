@@ -1,0 +1,2 @@
+What is a connection string?
+Connection string is a string that holds credentials like username and password and optionally what table you need all in a well-defined syntax. You will be required to pass the connection string when you wish to open a connection to your database to execute queries. Connection strings vary from databases. So what may be correct for MySQL may not be correct for MS SQL. 

@@ -1,0 +1,1 @@
+Is it possible to demonstrate that there is only one tern of solutions (if y=1) to the equation x^3 +y^3 =z^2 over the positive integers?The decision can be viewed there! http://math.stackexchange.com/qu... 40 Views

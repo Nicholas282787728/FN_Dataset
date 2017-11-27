@@ -1,0 +1,2 @@
+★Can Google permanently ban an IP address?And as a result, can none of its services like Google search, Youtube, Gmail, etc. be operated after the said ban?
+As far as per my knowledge google don't ban a user IP-address but when it comes to website IP- address it may ban or show warnings if the site is spam or has virus.

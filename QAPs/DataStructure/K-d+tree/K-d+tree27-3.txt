@@ -1,0 +1,1 @@
+How can we represent a space search tree?

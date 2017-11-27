@@ -1,0 +1,2 @@
+Do I have to know advanced algorithms and data structures such as heuristics search, fibonacci heaps, or pattern matching for interviews?
+Depends what kind of position you are applying for. Software engineers normally will not be asked such questions, if job scope does not mention knowledge of advanced algorithms. Research engineers depending on area of expertise might be required to know some of the advanved topics. If that’s a general question regarding engineer position in google/facebook the no, you do not need to know that 179 Views

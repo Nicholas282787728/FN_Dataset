@@ -1,0 +1,2 @@
+What is the easiest way to calculate the area under the curve (integral) of a graph in excel?
+An old non mathematical trick. Print out each graph individually on separate sheets using exactly the same X and Y axes. Cut out each of the graphs with a pair of fine scissors and weigh each piece of paper, the weights of each piece of paper is proportional to the area under each graph. 

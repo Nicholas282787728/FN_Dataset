@@ -1,0 +1,2 @@
+★Is there a model that Product managers can use to forecast how a feature will  impact KPIs?
+This is the best tool that I have found for estimating the impact on user behavior of new product features, short of actually [gasp] talking to them:    Embed Quote

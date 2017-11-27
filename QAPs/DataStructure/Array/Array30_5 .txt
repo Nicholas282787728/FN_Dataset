@@ -1,0 +1,1 @@
+How do arrays relate to pointers?In C++ an array is simply a pointer to its first element. This fact allows pointers to be treated like arrays and arrays to be treated like pointers without too many compiler complaints. 

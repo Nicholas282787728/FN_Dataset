@@ -1,0 +1,1 @@
+Is minimum spanning tree unique? Why?Minimum spanning tree may or may not be unique. If the weight assign for all the edges of graph are unique, then minimum spanning tree will be unique. Otherwise there can be many minimum spanning tree. Hope it helps. 97 Views  View Upvotes

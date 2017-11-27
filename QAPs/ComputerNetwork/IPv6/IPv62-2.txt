@@ -1,0 +1,2 @@
+★Does Android support IPv6?
+You guess correct. Android does support IPv6, at least on the wi-fi part. I use it at home where I also have IPv6 enabled wireless. As far as I know it does not support IPv6 on the radio part (3G and such). This of course is even hard to test, because there are very few (2 in Slovenia) mobile operators that support IPv6 on 3G networks. We'll see how it evolves, but I think that it should not be a problem for Android developers to implement IPv6 on the radio side also.    Embed Quote

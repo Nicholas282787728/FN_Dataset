@@ -1,0 +1,2 @@
+★What is the difference between probability distribution and probability density?
+Probability distribution describes how much the probabilities are spread across the different outcome.  If charted on an x y diagram, this is the shape formed  by the function.  The probability density on this chart is the Y value.  It quantifies the probability of an outcome relative to probabilities of other outcome.    Embed Quote

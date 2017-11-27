@@ -1,0 +1,2 @@
+★Where can I find statistics about enterprise data warehouse deployments?Specifically: 1. Total number of  EDW's/RDBMS installed worldwide. 2. Breakdown by vendor. 3. Any  sense of data volume stored.   4. Industry (vertical) concentration.
+You should hunt more along segments then it might be easier. i.e. Oracle, Teradata or SAP BI. Just a thought    Embed Quote

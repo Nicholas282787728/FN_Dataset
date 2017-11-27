@@ -1,0 +1,2 @@
+What are current research areas/problems in Theoretical Computer Science?
+P=NP is probably the most famous one, although hardly onyone still believes that Non polynomial problems can be solved in polynomial time (that is: P!=NP) and the solution very likely has no practical applications. Encryption is another very hot topic, since it is highly mathematical and theoretical, but still is an topic with very practical applications. 

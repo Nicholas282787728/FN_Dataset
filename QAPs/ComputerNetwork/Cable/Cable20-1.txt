@@ -1,0 +1,2 @@
+★What cables are fastest for a computer?
+For communications between servers the preferred cables are fiber optic. A number of companies make small fiber optic boards for PS's and servers. Look at those by Mellanox as an example. Disclaimer: I have no interests in Mellanox.

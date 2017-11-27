@@ -1,0 +1,2 @@
+★Why is the Internet so slow in India? Isn't there any minimum data rate limit?
+As of February 2015, anything above 512 kbps data transfer is considered to be broadband in India. It was 256 kbps before and TRAI doubled it recently to the new 512 kbps.

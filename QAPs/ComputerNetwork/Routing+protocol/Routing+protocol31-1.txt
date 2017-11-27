@@ -1,0 +1,2 @@
+★Can you route a VOIP protocol over TOR?
+Yes, look at http://torfone.org But only TCP, not UDP. And voice latency is 2-4 sec    Embed Quote

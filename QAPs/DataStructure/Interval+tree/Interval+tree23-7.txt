@@ -1,0 +1,1 @@
+What are some easy to implement and powerful data structures?e.g. Union Find can be implemented in a few lines of code

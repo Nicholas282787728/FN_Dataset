@@ -1,0 +1,2 @@
+★Is there a way to get the confidence values in SVM classification?
+I usually just use univariate logistic regression to predict the output probability from the distance to the SVM's hyperplane. This works for nonlinear kernels too.    Embed Quote

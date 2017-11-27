@@ -1,0 +1,2 @@
+★What are the best resources to learn about graph theory?Introductory material with an aim of understanding structure of social networks.
+Graph theory and its applications by Jonathan Gross and Jay Yellen. It has quite detailed proofs and interesting approaches, I really enjoyed studying from it.    Embed Quote

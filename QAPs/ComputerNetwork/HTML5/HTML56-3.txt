@@ -1,0 +1,2 @@
+★What's a good engine to use for HTML5 games?
+Since a lot of the answers here (including the top answer) are now dated, hopefully this list helps: HTML5 Game Engines It's a list of popular, actively maintained HTML5 Game Engines - with user reviews of each to hopefully add better context.

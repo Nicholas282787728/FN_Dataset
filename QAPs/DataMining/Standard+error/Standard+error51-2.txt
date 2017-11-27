@@ -1,0 +1,2 @@
+★Why are we not using median at all times instead of mean?
+The mean has different properties. It is much more mathematically tractable and that mattered a lot until recently. The median is also strongly affected by ties, which matters for discrete data. For certain distributions it is the proper (maximum likelihood) estimator. Also if the population is Gaussian the mean is much more efficient. Mostly though it has to do with the mathematical tractability.    Embed Quote

@@ -1,0 +1,2 @@
+★How would you make a regular expression match everything but a certain string?
+Well in Perl you can easily achive this as shown under :- my $str = "Hey to everybody"; print "There is no hello" if($str !~ /hello/i); The above if statement will print "There is no hello" if a string will not contain the string "hello". The !~ operator negates the matching criteria.    Embed Quote

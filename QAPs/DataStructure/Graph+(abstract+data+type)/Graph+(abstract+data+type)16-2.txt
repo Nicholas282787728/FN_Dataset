@@ -1,0 +1,1 @@
+What are the ways to implement a discrete math concept in programming language?Basically someone will answer about implementing Graph, directed graph etc, what I am looking at is List of discrete math topics and its corresponding implementation in programming language? Some concepts like recurrence relation, generating function how are these used in a programming implementation?

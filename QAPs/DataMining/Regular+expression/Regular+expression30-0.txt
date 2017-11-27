@@ -1,0 +1,2 @@
+★What is a good regular expression for last names?
+There's an easier solution than using a regex: pull some name parsing code from BibTeX implementations. BibTeX has worked out naming pretty well with things like von-naming.    Embed Quote

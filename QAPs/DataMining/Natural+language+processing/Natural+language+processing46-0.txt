@@ -1,0 +1,2 @@
+★How can natural language processing be leveraged to improve search?What approaches exist at the border between information retrieval and natural language processing?
+NLP can improve search in two ways: better understanding of the queries better understanding of the documents / pages i.e. you don't treat the document and the query as a bag-of-words but instead you try to understand what exactly the meaning of these words is and what the relations between them are    Embed Quote

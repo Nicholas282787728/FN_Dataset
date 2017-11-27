@@ -1,0 +1,2 @@
+★How can I send a plain text email to 700 contacts without it going to spam or promotions?
+If you're using your own domain/IP, you might end up in the junk folder or even worse, blacklisted. If you're going to continue to send a large volume of emails, I'd suggest looking into a platform that'll protect your sending reputation. I continually send cold emails to a large database and I only trust Clickback with handling my campaigns.    Embed Quote

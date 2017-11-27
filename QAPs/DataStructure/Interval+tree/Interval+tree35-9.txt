@@ -1,0 +1,2 @@
+What types of technical questions are asked in developer interviews?
+Hi. Here are two sets of interview question sets I have compiled from my experiences interviewing and being interviewed at various tech firms over the years. Hope they are useful. Good luck! Programming Language Questions Quant Interview Questions 

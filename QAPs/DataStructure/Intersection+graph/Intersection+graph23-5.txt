@@ -1,0 +1,1 @@
+A uniform random variable X  partitions the interval [0,1]  into two intervals. Let a random variable R  be the ratio of the measures of the smaller and of the larger intervals. How do I compute the probability density function of R  ?

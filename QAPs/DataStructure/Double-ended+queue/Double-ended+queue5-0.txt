@@ -1,0 +1,2 @@
+Can stack and queue be used interchangeably?
+No, because the methods that draw values from those structures will provide them in different orders. A double-ended queue can be used as a stack if you always draw values from the same side they're inserted into, though. But the converse is not true; you cannot use a stack as a double-ended queue. 

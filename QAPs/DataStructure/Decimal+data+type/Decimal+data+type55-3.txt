@@ -1,0 +1,2 @@
+How do I declare a data type for an integer with more than 10 digits in C?
+you can use long long, char s[], or implement a data structure to deal with bignumw 

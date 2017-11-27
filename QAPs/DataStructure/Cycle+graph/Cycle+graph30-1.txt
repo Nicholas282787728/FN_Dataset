@@ -1,0 +1,2 @@
+How do I detect a cycle in a directed graph?I got its code in C++ at GeeksforGeeks. But couldn't understand it properly. Someone please help. I am a newbie to graphs. Below is the link to code where they are checking for back edge. Detect Cycle in a Directed Graph - GeeksforGeeks.Hope someone explains it better.
+Maybe you need a video explaining the algorithm (?): 

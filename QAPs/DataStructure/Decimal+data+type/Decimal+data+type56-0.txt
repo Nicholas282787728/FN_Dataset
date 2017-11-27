@@ -1,0 +1,2 @@
+What's the difference between a data structure and an abstract data type?
+The important word is 'abstract'. Once you have understood the difference between this and 'implementation' you will have your answer. As Omer Zach says it's not the greatest of questions, but if you have managed to memorise the names of some abstract data types and some implementations of them then the linked list stands out as definitely *not* abstract. The rest don't stand out as definitely *not* implementation level, but that's not the question. 

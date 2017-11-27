@@ -1,0 +1,2 @@
+What are the major differences between mechatronics engineering and electrical engineering?
+Mechatronics is a "Venn graph intersection" of EE, ME and CompSci.   Because it takes from each, it's generally not a full version of any of these but it is the combination that best works with mechanical systems controlled by computerized electronics. Electrical Engineering is a very broad realm with many specialties which includes mechantronics. 

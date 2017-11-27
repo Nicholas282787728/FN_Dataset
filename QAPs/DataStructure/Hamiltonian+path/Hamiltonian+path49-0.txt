@@ -1,0 +1,2 @@
+How many possible slots are available for the interview?
+The objective is to find the number of Hamiltonian paths that exist when traversing the slots in order, S1->S2->S3->S4. This is a NP-complete problem. Usually you cannot do much faster than a brute-force search. Although depending on the particular problem, a faster solution might be possible. As it can be seen, the number of such paths is 5. Therefore, 5 possible slots are available. 

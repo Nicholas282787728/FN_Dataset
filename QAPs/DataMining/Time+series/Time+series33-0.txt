@@ -1,0 +1,2 @@
+★What are some interesting, modern examples of time series analysis?
+The google flu prediction is both modern, interesting and well covered in articles on the internet.    Embed Quote

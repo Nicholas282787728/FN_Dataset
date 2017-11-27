@@ -1,0 +1,1 @@
+How is F# going at the moment? Is there any application built with F#?

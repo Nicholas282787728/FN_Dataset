@@ -1,0 +1,2 @@
+How do hash tables work? How do distributed hash tables work?
+The other answers are good, but I think that they sort of gloss over "how they work". First, the background: Why exactly do we need hash tables? Well, it's like this. Computers are really, really good at keeping lists of things. So, for example, I could easily make a list of all of the items in stock in my store, and assign each of those items a number, and then make a nice big table, one row per item, and then enter the number of items in each row. Which is just fine. However... ... (more)

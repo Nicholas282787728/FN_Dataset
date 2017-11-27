@@ -1,0 +1,2 @@
+★How much should I expect to pay for calls to a text analytics API that returns a list of terms, entities and sentiment expressions from a given body of text
+There are several good open source and SaaS offerings that are free (at least within certain limits). For instance, the company I work for offers its MeaningCloud service, with up to 40,000 requests per month free Web Services for Text Analytics and Mining | MeaningCloud    Embed Quote

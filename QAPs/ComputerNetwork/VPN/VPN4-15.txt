@@ -1,0 +1,2 @@
+★What are the uses of a VPN?Please list as many uses as you can think of.
+A VPN is a network that uses a public telecommunication infrastructure, such as the Internet, to provide remote offices or individual users with secure access to their organization's network. A VPN ensures privacy through security procedures and tunneling protocols such as the Layer Two Tunneling Protocol ( L2TP ). Data is encrypted at the sending end and decrypted at the receiving end. For more information please visit cyberoam.com/vpn.html    Embed Quote

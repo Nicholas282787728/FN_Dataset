@@ -1,0 +1,2 @@
+★When does logistic regression not converge?
+If converge is really a concern, consider Newton's method. In 1-d scenario it converges fast. In high dimension scenario, however, you will need advanced technique to treat the inversion of the Hessian.    Embed Quote

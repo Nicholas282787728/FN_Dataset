@@ -1,0 +1,2 @@
+What are some intuitive ways to learn about deletion in Red Black Trees?
+Explained very clearly with examples and justifications. 

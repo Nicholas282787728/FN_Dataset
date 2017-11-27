@@ -1,0 +1,2 @@
+"How can I implement Graph/Tree algorithms in java ?"
+Java object references are the equivalent of pointers. For example, a binary tree might have a node structure like this: class Node<T> {    T value;    Node<T> left;    Node<T> right;} (If they don't teach parameterized types in your class... then boo on them. Just omit <T> and use Object value instead.) 

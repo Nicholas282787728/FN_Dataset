@@ -1,0 +1,2 @@
+What are some beautiful pictures related to Mathematics?Anything Mathematics, graphs, fractals even things related to Mathematical History
+Conformal pictures: These are various modifications of an image using conformal mapping. For example, we have the following image of a clock: Now one can use various conformal mapping functions to obtain the following beautiful images: a) Conformal mapping using a polynomial of degree 4. b) Conformal mapping using the function f(z) = 1/z. c) Conformal mapping using the function f(z) = exp(z). d) Conformal mapping using f(z) = log(z) 

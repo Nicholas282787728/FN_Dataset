@@ -1,0 +1,1 @@
+What would be an efficient way to convert an AVL tree to a sorted array?I think you cannot know a-priori the number of nodes in the tree.If you know the maximum depth of the tree, you can work out upper and lower bounds on the number of leaves/nodes. You get the lower bound because the tree won't be very unbalanced. The upper limit is a perfectly balanced tree. 

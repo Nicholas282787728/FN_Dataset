@@ -1,0 +1,2 @@
+★What obstacles prevent the use of Broadband over Power Line (BPL) as an affordable high-speed broadband communication channel? What solutions exist?
+I wouldn't say it does-with the latest (200Mb/secs), you can achieve a practical maximum of 60-80Mb/secs-which is fine for most households

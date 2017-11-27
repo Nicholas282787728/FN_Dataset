@@ -1,0 +1,2 @@
+★How does one start writing practical machine learning programs?
+Adding to the great suggestions/advice posted so far: I really like Pattern Recognition and Machine Learning (Information Science and Statistics): Christopher M. Bishop: 9780387310732: Amazon.com: Books Bishop's perspective is very bayesian, which is great if your interest is online algorithms.    Embed Quote

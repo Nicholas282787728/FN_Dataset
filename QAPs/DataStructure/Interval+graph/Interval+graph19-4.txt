@@ -1,0 +1,2 @@
+What is a cool mathematical thing I can do on the back of a notebook?
+I would often draw various elementary cellular automata when I was bored in class. Just pick a rule, some starting line, and then work down. Works very well with graph paper. (Try to pick either a class 3 or class 4 cellular automaton.) The wikipedia page has more information. Elementary cellular automaton 

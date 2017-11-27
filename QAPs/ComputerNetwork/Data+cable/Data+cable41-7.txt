@@ -1,0 +1,2 @@
+★Why does Microsoft Surface have USB ports?Does adding a USB port give Surface an edge over the other tablets?
+The surface supports a virtual smart card device that uses the TPM. However, I have used a standard USB smart card reader to preform two factor authentication need to access our corporate network. Some security policies will not allow the use of the virtual smart card, so being able to support all sorts of smart card readers is quite useful.

@@ -1,0 +1,2 @@
+What is data type in Java?
+Java supports all static datatypes and have a feature of often defined data types. There are 2 category are used in Java primitive( int, short, byte, long, float ,String etc..) and non-premitive(Scanner, List, System etc..). 6 Views

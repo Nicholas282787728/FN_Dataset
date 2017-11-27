@@ -1,0 +1,2 @@
+★Is the vector space of piecewise linear functions (from R to R, over R) infinite dimensional?
+Yes. Let's introduce an infinite basis for a subspace of your space the set where: (zero otherwise), and (zero otherwise) Your space needs an even larger basis than this.    Embed Quote

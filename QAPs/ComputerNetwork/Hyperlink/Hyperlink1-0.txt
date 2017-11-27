@@ -1,0 +1,2 @@
+★What is a hyperlink?
+Hyper link is closely associated with hypertext So let me first introduce to what is hypertext? hypertext is text which link to another source address  like when u click on a word/letter(with an anchor atrribute) your browser hops to the address of that page and displayed it... now Hyperlink is a form of hyper text in which instead of just text media content is linked ..    Embed Quote

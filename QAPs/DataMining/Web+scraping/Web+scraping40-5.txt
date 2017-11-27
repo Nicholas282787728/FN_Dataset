@@ -1,0 +1,2 @@
+★How can we as a poor startup follow competitor's e-commerce prices with web scraping/data mining technology?And implement them too ..
+You could use http://import.io they have a free plan too for up to 250.000 calls. Or you could use http://rivalfox.com if you want to monitor not many prices but specials and sale offers / exclusive offers.    Embed Quote

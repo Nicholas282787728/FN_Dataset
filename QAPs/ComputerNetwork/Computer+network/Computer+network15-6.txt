@@ -1,0 +1,2 @@
+★Which are the best US graduate schools for studying computer networks?Please suggest some good schools apart from the usual suspects (CMU, MIT, Stanford, UCB). I am not too keen on wireless networks.
+These answers are not looking at faculty. Jon Kleinberg of Cornell (http://en.wikipedia.org/wiki/Jon...) , winner of the Nevalinna Prize and Macarthur grant for his work on networks, is the leading figure in this field. Graduate school is about the other students and the relationship with faculty.

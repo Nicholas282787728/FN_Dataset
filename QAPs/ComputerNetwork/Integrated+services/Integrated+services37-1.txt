@@ -1,0 +1,2 @@
+★Who currently is using metamarkets and how do they integrate their services into their applications?
+Metamarkets is a SaaS-based solution. Customers include FT.com, MoPub, Appssavvy, DemandMedia, among others. Data can be streamed in live via http post or uploaded in batch via flat files for existing data.    Embed Quote

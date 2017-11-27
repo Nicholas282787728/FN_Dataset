@@ -1,0 +1,2 @@
+How important is linear algebra in computer science?what is the relation between computer engineering and linear algebra
+All images can be represented in matrix format. In the case of  a 256x256 pixel gray scale image, the image is stored as a 256x256 matrix, with each element of the matrix being a whole number ranging from 0 (for black) to 225 (for white). The color pictures for example in RGB scale have three values for each pixel, which means it becomes a three dimensional array. 

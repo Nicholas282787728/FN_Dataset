@@ -1,0 +1,2 @@
+Given an adjacency matrix of such a bipartite graph G(X,Y,E), what will be the dynamic programming solution for finding the longest path in such a graph?
+The Floyd Warshall algorithm for Single Pair Shortest path should work if used in reverse. You should try if for once. 

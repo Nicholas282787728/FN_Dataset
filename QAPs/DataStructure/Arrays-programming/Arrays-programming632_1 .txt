@@ -1,0 +1,1 @@
+How do retrieve JSON element inside an array?Weather is an array of objects so you need to access the element in the array and then access the property of that object. Try element.weather[0].icon. I don't know what language you are using so adapt as necessary. 119 Views  View Upvotes

@@ -1,0 +1,2 @@
+What are the best books to learn algorithms and data structures? Are there any good blogs/posts on these? Which books explain these concepts in a simpler way?
+In my opinion, I would suggest: 1)Cracking the Coding Interview: 150 Programming Questions and Solutions by Gayle Laakmann 2) Coding Interview Questions by Narasimha Karumanchi 3) Algorithm Design by Kleinberg and Tardos 36.6k Views · 29 Upvotes

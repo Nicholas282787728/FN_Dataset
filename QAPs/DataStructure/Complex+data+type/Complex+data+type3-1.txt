@@ -1,0 +1,2 @@
+What is the architecture of Amazon DynamoDB?
+Read this paper Page on allthingsdistributed.com 

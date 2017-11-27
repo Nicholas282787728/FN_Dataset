@@ -1,0 +1,1 @@
+What does root expansion in Linux mean? How is it carried out?

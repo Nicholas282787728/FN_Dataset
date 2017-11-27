@@ -1,0 +1,2 @@
+Should code efficiency be favored over code simplicity in a software project involving several team members?Should code efficiency (e.g. x>>1, (x&1) ==0) be favored over code simplicity (e.g. x/2, (x%2) ==0) in a software project involving several team members?
+Never. Software in high level languages was made for HUMANS to read. Let the compiler worry about efficiency. Otherwise, you'll see that the few microseconds you gain in "efficiency" are completely overwhelmed by the many man-months you waste when someone has to maintain or modify your code. Don't do it. 

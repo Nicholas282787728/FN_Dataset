@@ -1,0 +1,2 @@
+What is the best business intelligence tool for a ecommerce store running on Magento?
+There are a lot of options but I think best BI solution is always the one with a specific industry focus. CoolaData focuses all (or nearly all) their expertise on eCommerce analytics. I would definitely recommend adding them to your list of solutions to evaluate. Actionable Behavioral Analytics in the Cloud | CoolaData    Embed Quote 

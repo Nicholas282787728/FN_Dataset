@@ -1,0 +1,1 @@
+What is the difference between float and double in C language? How is it stored in the memory?

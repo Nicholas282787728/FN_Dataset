@@ -1,0 +1,2 @@
+★What is the difference between concurrency and parallelism?
+Analogy: If a student A is listening to music while writing an assignment then work done is in parallel way. If a student B is watching TV while while writing an assignment then work done is in concurrent way.  Student B does  something like"time share" between TV screen and assignment sheets whereas student A don't need to share time.

@@ -1,0 +1,2 @@
+★What are the applications of graph theory in bioinformatics?
+There are of course too many to mention.   But the one which leaps to mind is the application of de Bruijn graphs to de novo assembly of genomes from short-read DNA sequencing.   See, e.g. "Velvet" and Page on nature.com    Embed Quote

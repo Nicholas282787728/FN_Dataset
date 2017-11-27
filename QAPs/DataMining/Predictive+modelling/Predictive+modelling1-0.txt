@@ -1,0 +1,2 @@
+★What are predictive modeling analytics?
+This questions sounds strange to me. Prediction or predictive analytics is achieved through data modelling. Everything put together sounds weird to me, maybe it's my bad. In a nutshell what is done is to build a model where a number of predictors allows us to estimate the future value of a given variable. As an example we can predict the return on investment of a marketing campaign given the investment, country, etc.    Embed Quote

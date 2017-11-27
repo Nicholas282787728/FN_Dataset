@@ -1,0 +1,9 @@
+★Python for Machine Learning?
+Python 2 is used mostly, specifically 2.7. The reason being lots of modules which were written before 2.7 can be used with 2.7 with not so much changes, backward compatible. 3.1 which is stable version now, but when launched was not quite stable. And there are lots of changes in syntax and functions. Also 2.7 have been stable version for quite a long time. So, you will find many modules for version 2.7 and not for 3.1. For ex: 1
+2
+3
+4
+5
+6
+7
+ # python 2.7 x = 1 print x # python 3.1 x = 1 print(x) Apart from that python 2.7 is quite good and you can go with it. As far as ML is concerned you can totally go with it and use NumPy, SciPy, Scikit for the tasks. The main reason why I am so attached to Python because it lets me focus on problem than syntax. Python is like writing pseudo code. Where should you learn from? I started learning python and did that for two days from "tutorialspoints.com". Python will not take more than a week if you learn it even 2 hours a day. You can find lots of modules for any task you would like to perform using python, for ML I have already specified. So learn it and you will feel great and happy.    Embed Quote

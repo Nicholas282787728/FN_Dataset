@@ -1,0 +1,2 @@
+★What's the best free FTP client out there?I like SmartFTP a lot but the license is 50 bucks and my trial is about to expire. Any recomendations??
+FileZilla, it's available here: http://filezilla-project.org/

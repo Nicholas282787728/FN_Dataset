@@ -1,0 +1,2 @@
+Has someone ever used Bloom Filter in competitive programming?
+Yes, I found a problem using bloom filter, proposed for an onlinr contest in Romania. The problem gave you a list of Q (at most 5 milions) integers ( <= 10^18), and asked you to find out how many were of the form 2^x * 3^y * 5^z * 7^t * 11^u. The catch was that you didn't have enough memory to save all numbers of that form in a hash, there were about 300.000, so you only saved the odd ones, thus reducing the memory used. I read in the solutions article that this was called a Bloom Filter, although I am not sure. 

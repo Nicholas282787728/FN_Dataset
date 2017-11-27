@@ -1,0 +1,2 @@
+★Information Retrieval: What are some of the most important APIs every data scientist must know?
+Twitter streaming API - At one point or another. A data scientist always uses this one. (Almost). Maps API - Google maps is nice. Any weather related APIs. These are some I could come up with from top of my head. Data science is more about data than APIs. You'll find an API for collecting data for almost everything these days.    Embed Quote

@@ -1,0 +1,2 @@
+Can a self-taught programmer get a job without knowing data structures or algorithms?
+Absolutely.  And you do know algorithms. Perhaps just not advance ones.  There is always need for tactical programers that execute on wiring up backend, frontend, etc. And you can always learn algorithm design etc. But honestly most applications these days are not all that complex, and the frameworks, and components out there are all you need. 

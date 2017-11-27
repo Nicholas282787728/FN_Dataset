@@ -1,0 +1,2 @@
+★What is the use of mean and standard deviation for detecting cracks in images?is there any way to find the depth of crack from wavelet coefficients using 2d images and how to do it?
+Many edge detection filters are based on the idea that the variance of color or intensity is highest at the edges. A crack is also a kind of an edge in a way. To make it more distinct from lighter cracks you could first run a low pass blur filter on this image, followed by a High pass/Edge detection filter (Sobel, Marr Hildreth, Canny etc.).    Embed Quote

@@ -1,0 +1,2 @@
+What can be done with Ruby or Python that just can't be done with PHP?
+In Python, you can write a function which reaches into the scope of an ancestor in the callstack and alters the values of variables using sys._getframe. PHP is much stricter about enforcing good programming practices and does not permit absurdities like this. 

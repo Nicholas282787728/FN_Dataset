@@ -1,0 +1,2 @@
+Let there be an undirected complete graph on n vertices where length of each edge is selected uniformly randomly and independently in the interval [0,1].   What will be the expected distance between any two vertices in the graph?
+Deriving an exact answer is difficult, but it looks like the asymptotics are discussed in Shortest paths in random weighted graphs. Edit: this paper looks much more relevant.  The shortest path between vertices is almost surely O(log(n)n )  , so that's a reasonable estimate of the expected value as long as n  isn't small. 

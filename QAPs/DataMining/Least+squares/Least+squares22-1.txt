@@ -1,0 +1,2 @@
+★What is the formula for the numerical solution to weighted least squares with Tikhonov regularization?
+Yep, it's right. So its goes like the following:    Embed Quote

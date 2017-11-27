@@ -1,0 +1,2 @@
+★What are some free SDKs or servers available to integrate web services to perform get, post, delete, etc. operations in an Android application?
+visit Parse which provides the framework and data entry/access screens through which you can set up your database, write JS code to handle events, send push notifications etc. Its a simple framework which integrates easily  with iOS & Android applications.    Embed Quote

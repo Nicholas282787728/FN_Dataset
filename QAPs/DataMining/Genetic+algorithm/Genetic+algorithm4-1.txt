@@ -1,0 +1,2 @@
+★What are some practical applications of genetic algorithms?
+Uptil version 3.0 the SpamAssassin software that's widely used for separating spam email from useful email used a genetic algorithm to determine weighting of scores for various different spam heuristics that it incorporated. You can find a little more information here: http://wiki.apache.org/spamassas...    Embed Quote

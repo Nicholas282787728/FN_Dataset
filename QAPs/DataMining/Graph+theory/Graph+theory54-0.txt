@@ -1,0 +1,2 @@
+★Are there any applications of Graph Theory in cryptography?abstract
+Yes, there are applications of graph theory, specifically expander and Cayley graphs, for hash functions, stream ciphers, proofs of security, and cryptanalysis. Some examples: "Cryptography and Graph Theory" http://www.win.tue.nl/diamant/sy... "Cryptographic Hash Functions from Expander Graphs" http://research.microsoft.com/en... "MV3: A new word based stream cipher using rapid mixing and revolving buffers" http://research.microsoft.com/pu...    Embed Quote

@@ -1,0 +1,2 @@
+★Which are the best universities for an MS or PhD related to Information Retrieval, and why?Which Universities are the best places for topics related to Multimedia IR, Ranking algorithms, TREC tracks etc?
+I'd certainly check out UW's Information School (bias alert:  I'm on the faculty here, but IR is not my field).  Reason:  interdisciplinary faculty, strong cross-unit collaboration with CSE and other engineering departments; multiple working relationships with Microsoft and Microsoft Research; bright PhD students.    Embed Quote

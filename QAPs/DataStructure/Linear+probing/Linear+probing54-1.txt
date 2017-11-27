@@ -1,0 +1,2 @@
+How did space probes and other space craft like the Mariner 9 transmit pictures to earth in the 60s and 70s? How were they stored and processed?
+They were transmitted via radio using (maybe) binary - signals representing 1s and 0s or similar. Probably something like the way that a fax transmission works down a phone line. It was prone to errors and very slow! 

@@ -1,0 +1,2 @@
+What is a polynomial hash function for a string?
+Anything you store in a computer is a number. Even what appears as a string is stored as a sequence of 1's and 0's and can be interpreted as a number. Polynomial hash functions apply some form of polynomial division on that number (i've forgotten the exact calculations). You can read about CRC in Wikipedia. It is a very common Polynomial Hash Function that is in use. 

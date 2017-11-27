@@ -1,0 +1,2 @@
+★What is the best Twitter client for Linux?
+I currently use Hotot, because it has a nice interface and is easy to use. http://hotot.org/get_hotot.html

@@ -1,0 +1,1 @@
+It is given that the graph of y=x 4 +ax 3 +bx 2 +cx+d  (where a,b,c,d  are real) has at least 3 points of intersection with the x-axis. How do I prove that either there are exactly 4 distinct points of intersection, or one of those 3 points of intersection is a local minimum or maximum?

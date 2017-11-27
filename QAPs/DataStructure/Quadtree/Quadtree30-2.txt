@@ -1,0 +1,2 @@
+How do I apply KNN to find the closest points of interest (restaurant, gas station, etc.) on a large data set?
+kNN computes the nearest points based on a distance or similarity type of function. To find the k nearest points of your interest, you need data of a persons' interests and data about all the points of interests. The distance or similarity function will compare them and provide the nearest points of interests. To make this more accurate you can use metric learning for kNN. 

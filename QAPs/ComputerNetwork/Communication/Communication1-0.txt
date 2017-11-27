@@ -1,0 +1,1 @@
+What is computer communication?It is also known as data communications/networking. It allows one computer to send data to another.  The Internet is the example on the largest scale.

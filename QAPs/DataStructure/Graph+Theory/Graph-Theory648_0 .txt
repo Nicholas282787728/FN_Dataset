@@ -1,0 +1,1 @@
+Is Graph Theory a nice-to-have course to have for machine learning?I would say so. In particular, it could be helpful for learning about probabilistic graphical models and spectral clustering. But even for these you can learn the basics without heavy-duty graph theory, and many ML models don't require much, if any, graph theory. 247 Views  View Upvotes

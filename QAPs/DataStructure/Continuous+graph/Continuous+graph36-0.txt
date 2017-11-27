@@ -1,0 +1,2 @@
+Draw the modulated signal for 4-PSK modulation for the following message signal mentioning both the phase & phase shift. 1100011000?
+The graph shown below is the 4-ary PSK modulated signal for the message: '11−00−01−10−00  ' The top graph shows half of the message, and bottom graph continues from the end index of the top-graph i.e 500  and 501  respectively. At indexes - {200,400,600,800  }, you can observe the phase shifts. I have used the following constellation diagram for encoding binary digits as phase angles - {0,π2 ,π,3π2   } 

@@ -1,0 +1,2 @@
+★Is there an intuitive explanation for the difference between standard deviation and sample standard deviation?
+It's because the mean of the sample is different to mean of the population, and the mean of the sample is closer to the data.  So the data is 'closer' to the sample mean than the population mean So the sample standard deviation consistently underestimates the true standard deviation. Simple!    Embed Quote

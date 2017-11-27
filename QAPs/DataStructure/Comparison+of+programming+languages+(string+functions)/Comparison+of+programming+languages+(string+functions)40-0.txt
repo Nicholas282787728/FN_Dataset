@@ -1,0 +1,2 @@
+How do I find the first non repeated character of a given string?
+Initialize a map from characters to numbers. For each character in the string, count its number of occurrences using the map. Then take a second pass and return the first character encountered whose count is 1. This algorithm works in O(N) expected time.  (You could even use one of the O(N) perfect-hashing algorithms if you're really hard-core, using an initial pass over the string.) 

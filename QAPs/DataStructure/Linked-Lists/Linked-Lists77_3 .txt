@@ -1,0 +1,1 @@
+Why do I need a linked list and why is it important?Linked lists are useful for concurrent reads, inserts, and deletes. Vectors in C++ and Java are really resizable arrays. Linked lists are more natural in functional languages like LISP and F#. 644 Views  View Upvotes

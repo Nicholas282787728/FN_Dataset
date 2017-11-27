@@ -1,0 +1,2 @@
+★What are the current applications of machine learning in data compression?
+Here is an article: "Compression and Machine Learning: A New Perspective on Feature Space Vectors" Typically, it is compression that is being used to help in machine learning, but the authors argue that feature vectors in machine learning have strong links back to compression. Page on tufts.edu

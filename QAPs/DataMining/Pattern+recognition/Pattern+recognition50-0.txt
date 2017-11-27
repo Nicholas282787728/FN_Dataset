@@ -1,0 +1,2 @@
+★Pattern Recognition: Are there open-sourced image search engines or image comparasion systems?for personal use
+One that is fully packaged, I do not think so. But the various algorithmic pieces (detectors, descriptors, ANN, geometric matching...) exist, mostly in the OpenCV library. Checking out these tutorials could be a good start. EDIT (Oct. 2014): now there is one you could check out as well.    Embed Quote

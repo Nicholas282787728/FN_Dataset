@@ -1,0 +1,2 @@
+★Why don't airplanes follow the shortest route?I have noticed this in various flights. Airplanes don't follow the shortest route. Why do they deviate so much from the shortest route? Are there any way-points that they must pass through?
+There will be minor deviations for traffic control reasons, but basically they will be following Great-circle navigation. The Earth isn't flat. It's almost perfectly spherical and on a sphere the shortest path between two points on the surface is an arc of a great circle. In other words it's a curve like this.    Embed Quote

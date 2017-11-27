@@ -1,0 +1,1 @@
+What are some of the use cases of various traversal methods for trees?Are there examples where inorder, preorder or post order are particularly helpful? For example, inorder of a parse tree gives you the original expression.Your web crawling used in search engine Routing of IP requests Browser DOM's Phone book in mobile phones(TRIES) ... etc and lots more 

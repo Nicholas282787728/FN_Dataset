@@ -1,0 +1,2 @@
+How many lines of code can a good programmer write in one hour?
+LoC per hour is no more a measure of "good" in a programmer than verbosity is in a speaker. Some of my most productive days have been where I eliminated ("un-wrote") hundreds of lines of code, and replaced it with something more succinct. 

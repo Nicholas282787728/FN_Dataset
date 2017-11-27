@@ -1,0 +1,2 @@
+What are various methods of implementing a stack using linkedlist(s) and what method is the best?
+I would not use a linked list.  Stacks are much more easily implemented using an array.  Or, if you are brave, a memory area with a pointer.  A linked list will cause huge amounts of unnecessary overhead, and unless you have a really good reason why you need to do this, an array will be far better suited. 

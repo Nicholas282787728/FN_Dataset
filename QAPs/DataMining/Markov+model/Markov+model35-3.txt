@@ -1,0 +1,2 @@
+★What are some good resources for learning about Hidden Markov Models?
+For books I can also recommend: "Pattern Classification" by Duda & Hart (ch 3.10) "Pattern Recognition and Machine Learning" Bishop (ch 13) If you're interested in ASR, you can also look at: HTK (HTK Speech Recognition Toolkit) which has an excellent reference manual Kaldi ('KALDI': Kaldi) which covers some more recent algorithms    Embed Quote

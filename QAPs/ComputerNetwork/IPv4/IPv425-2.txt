@@ -1,0 +1,2 @@
+★We all have already heard of IPv4 and IPv6. But what about IPv5? What is IPv5 and why are we converting straight to IPv6 and not to IPv5?IP = Internet Protocol.
+Although I point to the same IANA assignments as Leo does in his answer, I did a little blog post on this recently: http://youshottheinvisibleswords... Turns out that there was an experimental IPv3 that we would recognise today, as verified by Vint Cerf. And Jon Postel, for the sake of fairness, applied a version number for each of the IPv4 successor candidates, taking us up to IPv9.

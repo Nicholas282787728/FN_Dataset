@@ -1,0 +1,2 @@
+What's the difference between a data structure and an abstract data type?
+Originally Answered: What is the difference between data structure & ADT (abstract data type)? Data Structures are the way in which data is arranged. Data can be arranged in a form of Stack, Queue, Heap, Hash Table, Tree, Graph etc. ADT is the interface of the data structure. For example for a Stack the various interface may be Push, Pop, isEmpty, Size etc. These interface is the ADT of the Stack. ADT are client point of view or user point of view of some data structure. 430 Views · 4 Upvotes

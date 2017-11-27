@@ -1,0 +1,2 @@
+How do data analysts at companies like Facebook and Twitter run queries on extremely large data sets?
+As others have said, MapReduce jobs and other parallel execution strategies are generally used. Sampling into a traditional data warehouse type situation to reduce the amount of data is also a valid option if what you're attempting to measure can be generalized using a random sample.    Embed Quote 

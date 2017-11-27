@@ -1,0 +1,2 @@
+What is the best method for checking if a binary tree is a binary search tree?
+I prefer using Java, so my answer is reflecting my preference of language. My solution to this would be :  private boolean isBST() {       return isBST(root, null, null);     }  private boolean isBST(Node x, Key min, Key max) {       if (x == null)           return true;       if (min != null && x.key.compareTo(min) <= 0)           return false;       if (max != null && x.key.compareTo(max) >= 0)           return false;       return isBST(x.left, min, x.key) && isBST(x.right, x.key, max);     } 

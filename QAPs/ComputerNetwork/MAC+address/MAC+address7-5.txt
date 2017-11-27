@@ -1,0 +1,2 @@
+★Why is there a MAC address and an IP address?
+IP addresses are like street names and MAC addresses are like house numbers. It will take a lot of time if we had to search for a house number in the whole city without a street name.    Embed Quote

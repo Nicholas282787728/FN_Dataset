@@ -1,0 +1,2 @@
+Which is better for analyzing large data sets, R or Mathematica?
+Try the library "sqldf" for R.  It lets you efficiently read large csv files as a database interface: http://code.google.com/p/sqldf/    Embed Quote 

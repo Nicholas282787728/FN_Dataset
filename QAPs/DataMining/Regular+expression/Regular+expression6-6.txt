@@ -1,0 +1,2 @@
+★What are the best resources for learning regular expressions?
+The best tool that I have ever used -- is Kodos.  You will learn so much if you have a basic understanding of regular expressions.  Just try it out -- it's linux only, sadly.    Embed Quote

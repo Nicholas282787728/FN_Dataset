@@ -1,0 +1,2 @@
+How does recursion work in inorder binary search tree. How does one can explain the recursive calls, without just summarizing it as stack calls?
+I have tried to show  the recursion pictorially in this video. 

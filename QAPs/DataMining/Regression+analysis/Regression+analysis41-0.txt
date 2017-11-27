@@ -1,0 +1,2 @@
+★Bioinformatics: Are there any R packages for doing Logistic Regression Analysis on Whole Genome Data?
+Try glmnet. It should be the fastest method in R that can do logistic regression on large scale data in a single machine.    Embed Quote

@@ -1,0 +1,2 @@
+Where can I find a dataset of first names categorized by gender?
+check out cmu dataset(http://www.cs.cmu.edu/afs/cs/pro...). Nltk uses dataset to identify gender(http://nltk.googlecode.com/svn/t...)    Embed Quote 

@@ -1,0 +1,2 @@
+★Should you plot the standard deviation or standard error when using error bars for bar plots and/or time series?Why would one be more useful than the other?
+It depends on what you're trying to describe.  If you're trying to emphasize the differences, use standard errors  (e.g. the p-values and inferences are very important).  If you want to discuss the spread on its own, then go ahead and use a standard deviation. Either way, be clear.  It matters.    Embed Quote

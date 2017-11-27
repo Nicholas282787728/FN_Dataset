@@ -1,0 +1,2 @@
+★What full time university courses are available for predictive analytics?
+Have a look at Statistical Learning by Stanford University. It is now being offered in MOOC format on Stanford OpenedX. Although the course started some time ago, the first assignment is not due until March 3rd. The course is offered by Hastie and Tibshirani, who were lead proponents of the field. About StatLearning    Embed Quote

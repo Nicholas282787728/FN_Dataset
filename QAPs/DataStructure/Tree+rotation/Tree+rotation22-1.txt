@@ -1,0 +1,2 @@
+What is difference between self balanced binary search tree and AVL tree?
+In a self balanced tree, while insertion there is no need to balance the tree by performing rotations. By following the rules(for insertion) while inserting a new node will result in a tree which is already balanced.  Whereas in an AVL Tree, insertion takes in the same way as we insert a new node in a binary search tree. But the tree now formed may/may not be balanced. So, we perform rotations like LL, RR, LR or RL to balance the tree. 

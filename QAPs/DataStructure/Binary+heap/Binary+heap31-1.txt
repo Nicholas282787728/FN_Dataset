@@ -1,0 +1,2 @@
+What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
+I wonder why no one has not mentioned about Union Find. Its more of an algorithm than a Data Structure, but its worth mentioning .Its O(log(log(n)) time complexity makes it practically constant. 

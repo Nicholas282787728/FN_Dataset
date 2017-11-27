@@ -1,0 +1,1 @@
+How can I code in C to find a lonely integer in an array?Initialize result variable with Zero and XOR each element of the array with the result variable. For Ex: 1 1 2 2 3 1 ^ 1 = 0 2 ^ 2 = 0 0 ^ 3 = 3 int res = 0; for(int i = 0; i < size; i++) /* Variable size has the value of the size of the array*/ { res = res ^ a[i]; } 666 Views  View Upvotes

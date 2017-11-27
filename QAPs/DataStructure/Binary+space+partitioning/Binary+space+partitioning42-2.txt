@@ -1,0 +1,2 @@
+Unix Commands: What are some easy ways to recover files from rm -rf?
+There is a software called photorec which does exactly this thing. The program can read the disk partition for raw data and files matching the pattern for notmal file header. In this way, it can recover from deleted file. It is part of package testdisk which is also used to recover lost partitions from from hard disk. 

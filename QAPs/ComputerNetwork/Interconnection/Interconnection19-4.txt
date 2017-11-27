@@ -1,0 +1,2 @@
+★What are the supposed advantages of Toslink vs. copper for audio interconnects?
+Sometimes it's the only option Some cable boxes, such as Motorola Comcast DVR in San Francisco area, will not send 5.1 audio signal through HDMI. The "digital coax" cable usually costs more than Toslink and more devices have Toslink optical interface rather than the digital coax. I did many home theater installs where adding that one cable brought a huge smile to my customer's face. I keep a stock of them for when I visit friends. :)    Embed Quote

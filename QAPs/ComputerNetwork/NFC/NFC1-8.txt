@@ -1,0 +1,2 @@
+★Is NFC a form of RFID?
+All the answer are quite good. I would like to add this picture which says. NFC is subset of RFID tags.Which means that all NFC tags are RFID tags but not the other way around. Source: RFID vs NFC Similar or Different    Embed Quote

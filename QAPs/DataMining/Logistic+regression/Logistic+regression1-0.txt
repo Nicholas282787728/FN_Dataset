@@ -1,0 +1,2 @@
+★What is logistic regression?
+You could take a look at Michael Hochster's answer to Given a dataset with variables (x,y) of type (real number, boolean), how can a curve be fitted that predicts the probability of y=true for a given real number x?    Embed Quote

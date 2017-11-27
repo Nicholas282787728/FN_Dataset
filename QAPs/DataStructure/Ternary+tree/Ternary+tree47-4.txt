@@ -1,0 +1,2 @@
+How PHP7 will turn out for PHP?
+There's a list of possible future PHP 7 features from the lead PHP 7 developer: PHP 7 and script languages future: insights from lead Zend.com developer 

@@ -1,0 +1,2 @@
+★Why is a probability distribution in statistics important? How can I use a probability distribution to understand a dataset?
+A probability distribution is the probability of a conclusion, and the probability of failure of claiming that conclusion. In the case of data analyze, every time we interpret the data, we need to know the chance we make a mistake when claiming a conclusion, otherwise, drawing a conclusion is easy, but drawing a reliable conclusion is hard.    Embed Quote

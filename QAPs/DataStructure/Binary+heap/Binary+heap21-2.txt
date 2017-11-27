@@ -1,0 +1,1 @@
+How can I constantly update myself with new data structures?I came to know about Trie data structure during an interview  preparation. I did not know until my undergraduate degree. How do I constantly update myself with new data structures?

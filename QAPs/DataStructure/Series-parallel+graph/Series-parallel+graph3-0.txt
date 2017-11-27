@@ -1,0 +1,2 @@
+What are the most useful gems to use in Rails?
+Lost in (Rails) Translation? If you know the pain of translating few thousand phrases in your Rails applications let me introduce: LIT - simple i18n web interface build on top of twitter bootstrap, mountable Rails engine. LIT on github. If you're interested in other useful Ruby gems we use to improve our development here you can find list of collected favs. 

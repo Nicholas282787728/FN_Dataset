@@ -1,0 +1,2 @@
+★What are some real-world applications of genetic algorithms?Answers should point to specific usages, not potential ones.
+One use not already mentioned is optimizing query plans for complex database queries. PostgreSQL has a module that does this: Genetic Query Optimization (GEQO) in PostgreSQL    Embed Quote

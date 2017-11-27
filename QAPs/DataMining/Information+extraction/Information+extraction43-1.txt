@@ -1,0 +1,2 @@
+★What tools/framework can I use in order for my system to extract information from an input text and store the extracted information on a database and be retrieved for later processing?
+The systematic study of text is known as Corpus linguistics.  Generally, a corpus can be parsed into and represented as XML, which can then be processed using regular expressions.  Wikipedia contains an extensive listing of Natural language processing toolkits, under Outline of natural language processing.    Embed Quote

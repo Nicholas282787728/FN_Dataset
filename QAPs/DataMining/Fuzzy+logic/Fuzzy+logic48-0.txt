@@ -1,0 +1,2 @@
+★What is a cool fuzzy logic algorithm based project I can do on MATLAB?With all the fuss on evolutionary algorithms and NNs what are some cool projects I can implement on matlab using fuzzy methods?
+Camera tracking system. A camera placed on a pan/tilt controller that follows some specified object. Something like this Emaxtv - Man vs. Robot can be implemented with fuzzy logic.    Embed Quote

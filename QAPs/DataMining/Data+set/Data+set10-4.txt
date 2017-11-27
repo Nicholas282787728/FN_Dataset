@@ -1,0 +1,2 @@
+Which is better for analyzing large data sets, R or Mathematica?
+Importing larger data sets with Mathematica is best done using some of the lower level functions for reading in data. These are as user friendly as the ones in R. This conference article shows how to import large data sets into Mathematica. http://library.wolfram.com/infoc...    Embed Quote 

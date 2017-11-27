@@ -1,0 +1,2 @@
+Can you find the number of points satisfying the 2 equations?How many points (x,y) in the plane satisfy the two equations |x| + |y| = 1 and cos(2(x+y)) = 0 ?
+Plot the graph for both equations and find there intersections. The intersection points are there solutions and the number of intersection is the number of points satisfying both equations. Here is the graph: Red line is the graph of |x|+|y|=1  and blue line is graph of cos(2(x+y))=0  . No of solutions =4 

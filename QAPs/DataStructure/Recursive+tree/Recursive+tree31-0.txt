@@ -1,0 +1,2 @@
+Is there AI that can parse JSON for a particular nested field name?
+I don't think there is any need for AI in this instance, you could write a fairly trivial program in most languages to do this without the need for any probabilistic or statistical models. 

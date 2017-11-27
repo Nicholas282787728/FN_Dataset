@@ -1,0 +1,2 @@
+★What Semantic Web programming frameworks exist besides Jena?
+If you develop on the Microsoft stack (.NET, SQL Server) there is the Semantics Platform: http://www.intellidimension.com/...    Embed Quote

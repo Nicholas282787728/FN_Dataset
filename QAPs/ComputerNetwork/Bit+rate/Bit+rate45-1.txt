@@ -1,0 +1,2 @@
+★What is the Bitly API rate limit?I am building an application that requires very frequent Bitly API requests. Does anyone know what the official rate limit is? This information is not disclosed on their website.
+Presumably, they do not list this information as a social tactic to discourage people maxing such limits.  I cannot find that offer a paid tier with explicit high limits.  This coudl also be interpreted as a psychological tactic: if you list the limits for a paid account, hackers will inference the limit for the Free account.

@@ -1,0 +1,2 @@
+★Is stochastic gradient descent online? How do I intuitively prove that it converges?
+Assuming you are doing this . Convergence requires  [1] and based on Robbins-Siegmund theorm [2] 1)Page on nyu.edu 2)A Convergence Theorem for Non Negative Almost Supermartingales and Some Applications    Embed Quote

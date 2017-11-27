@@ -1,0 +1,2 @@
+What is data type and a primitive datatype?
+Data types can be either primitive and non-primitive.  Primitive data types are predefined by the language, like int, char, etc. Non-primitive data types are are created by the programmer by using primitive data types, such as arrays, structures, stack, queue, etc. 

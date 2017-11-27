@@ -1,0 +1,2 @@
+★What is the most robust routing protocol for wireless mesh network?
+I would probably say BATMAN from the top of my head. It converges quickly. It is much more sensitive to delays across the network much more than other link state ones like the wireless version of OSPF and (I suspect haven't validated it) more than OLSR. However, a larger question would be robust in what sense? Do you want lesser latency or more lesser convergence time? The answers to these will help decide between link state routing(like OSPF and OLSR) and distance vector ones like BATMAN.    Embed Quote

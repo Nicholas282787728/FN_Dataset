@@ -1,0 +1,2 @@
+Which are the most interesting geolocation start-ups to follow?Something new above foursquare, Gowalla, Badgeville, SCVGR, MyTown, GoRun, etc.
+I've developed a free iOS app called Marco! (http://www.themarcoapp.com) - rather than constantly checking in, it leverages Facebook to let users 'Marco' their friends to get their current location ... kind of a 'reverse checkin'. 

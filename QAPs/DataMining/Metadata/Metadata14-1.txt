@@ -1,0 +1,2 @@
+★Is people tagging going to be part of metadata?
+IPTC Extension (http://www.iptc.org/std/photomet...) already has fields for "person(s) shown", but as Bruce Lewis pointed out this is just the name(s) of the people, not any kind of globally unique and immutable "person ID" that survives marriages, divorces or other name changes. Still, for most common purposes that may well be good enough unless the names you seek are particularly common.    Embed Quote

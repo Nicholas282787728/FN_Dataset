@@ -1,0 +1,2 @@
+Which data type is better either float or double in c++?
+It depends on what value you want to store in your variable. Practically, float data type would be good fit to most of scenarios. But, if you deal with complex math data where you need to keep more accuracy than float (4 Byte) data then double (8 Byte) would be good fit. 66 Views · 1 Upvote

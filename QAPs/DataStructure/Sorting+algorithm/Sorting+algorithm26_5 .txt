@@ -1,0 +1,1 @@
+Which sorting algorithms have the least best case complexity?If the input is in increasing order: output the input. Otherwise, use your favorite sorting algorithm. in the best case. An in-place insertion sort / bubble sort would do. 

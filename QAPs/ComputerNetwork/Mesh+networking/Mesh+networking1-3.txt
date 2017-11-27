@@ -1,0 +1,2 @@
+★What are the options for wireless mesh networking?Ideally, I'm looking for some sort of mesh repeater than can also broadcast 802.11b/g/n.
+For a home or small office network, however, there is Daihinia - a software solution at a reasonable price, that makes windows computers themselves act as mesh nodes. We are using it in our office and it's quite robust.    Embed Quote

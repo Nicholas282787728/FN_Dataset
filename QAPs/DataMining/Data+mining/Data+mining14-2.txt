@@ -1,0 +1,2 @@
+How do I learn data mining in one month?
+Download large data sets freely available on the web (e.g. keyword volumes and prices from the freely available Google API), process it with a scripting language (e.g. Perl), find patterns (e.g. what kind of keywords tend to not have a price, and can you guess the price using inference and cross-validation), et voila!    Embed Quote 

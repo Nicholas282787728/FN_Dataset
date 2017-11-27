@@ -1,0 +1,2 @@
+★What is best of Wiki or SharePoint for an intranet, and why?
+While a wiki will provide just a wiki, SharePoint can potentially provide a lot more including workflows, content management, integration with other systems, personal sites, and much much more. It depends entirely on what you want from your intranet.   If you just want a wiki then go with a wiki solution. If you want to start building a lot more functionality onto your intranet then SharePoint is a very good starting point.

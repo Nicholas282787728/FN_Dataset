@@ -1,0 +1,2 @@
+★What are some papers that use social network analysis as part of prediction models?
+Social network analysis for customer churn prediction    Embed Quote

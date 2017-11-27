@@ -1,0 +1,2 @@
+★Is it wrong way to use proxy server for search engine optimization?waiting for Answer.
+I believe you are talking about Reverse Proxy Server, if this is what you want to know about, you may refer to this post http://www.seomoz.org/blog/what-... In case, your question has nothing to do with reverse proxy server, please clarify your question a bit more :)    Embed Quote

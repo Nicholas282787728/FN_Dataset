@@ -1,0 +1,1 @@
+Can I input a string from keyboard during runtime using a char pointer (instead of arrays) in C?Yes. Allocate the storage to the new location and assign to it pointer. Or assign the pointer to array location. char * p = malloc(sizeof(char)*your_size); scanf("%s", p); 553 Views  View Upvotes

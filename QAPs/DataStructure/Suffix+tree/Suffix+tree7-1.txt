@@ -1,0 +1,2 @@
+What are the advantages of using Suffix Arrays over Suffix trees?
+Suffix arrays require less memory since they don't need to store the links between nodes. 

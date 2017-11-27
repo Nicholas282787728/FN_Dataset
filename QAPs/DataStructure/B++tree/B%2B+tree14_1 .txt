@@ -1,0 +1,1 @@
+What does it mean for B+ trees to have high fanout?B+ trees can store a relatively large number of pointers to child nodes in each node. "Fanout" in this context refers to this number of pointers per node. B+ trees minimize the depth of the tree (and therefore the number of hops to reach a leaf node) by employing high fanout: linking many children from each node. 

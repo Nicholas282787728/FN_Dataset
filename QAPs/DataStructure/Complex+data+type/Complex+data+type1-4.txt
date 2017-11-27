@@ -1,0 +1,2 @@
+Why do complex data types compare by the address of their location while primitive types compare by their actual values?Why don't complex data types compare their values by default instead of having to invoke equals()?
+The only types in Java are primitive types and reference types. Both compare by their values. Your confusion arises from the misconception that objects are values. But objects are not values in Java. The only values are primitives and references (pointers to objects). All work done to objects is done through references. 

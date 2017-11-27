@@ -1,0 +1,2 @@
+Which is the fastest yet "random" hash function?
+Theoretically, the fastest hash would be to use a precalculated one-time pad (OTP) approach, precalculate hashes for all possible input streams, up to the length that you need. Classic trade-off between time and storage.  Of course, this would require a lot of storage.  But it would be practical for limited uses, e.g., for a passwords of limited lengths.  Rainbow tables are based on this approach. 

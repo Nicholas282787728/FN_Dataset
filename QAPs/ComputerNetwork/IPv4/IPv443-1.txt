@@ -1,0 +1,2 @@
+★How much does a Class A (2^24 addresses) IPv4 network address space cost?
+Back in the day, it didn't cost anything. You just asked for one, and if your organization was plausibly large enough, Internet Assigned Numbers Authority (IANA) gave you one. That's how Apple Inc. got net 17 in the late 1980's. These days, the IPv4 network address space is more scarce, and Classless Inter-Domain Routing (CIDR) has made the "class A, B, C" address space designations obsolete.

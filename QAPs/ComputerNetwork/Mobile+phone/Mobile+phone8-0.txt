@@ -1,0 +1,2 @@
+★What is the technology behind mobile phone top-up vouchers?
+Telecom uses a voucher management system (VMS) which initially stacks number in pending state with time duration. As soon as Voucher is applied the Number is changed to expired state. The communication with VMS is done using SIM application Toolkit (SAT) from your Mobile. p.s. SAT is set of program programmed into the SIM for Value Added Services and comes under GSM standard    Embed Quote

@@ -1,0 +1,1 @@
+Is the null graph a tree?This depends on the definition of trees. If you consider tree a graph without loops, then yes. If you also require some node to be taken as root, then no. If we take the "prime" approach, then I'd say no. 66 Views

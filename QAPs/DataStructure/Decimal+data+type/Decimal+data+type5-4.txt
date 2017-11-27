@@ -1,0 +1,2 @@
+Why do computers use base-2 instead of base-10?Decimal computers were once very commonplace, but why aren't they anymore? *Speaking as something with next to no knowledge of computer science.*
+Because it's easier to implement in electronic circuits using logic gates, or in a simplistic explanation it's easier to represent physically in electronic systems, because representing a logical 1 and logical 0 say with +5Volts & -5Volts for example is easier than representing 10 digits directly. 

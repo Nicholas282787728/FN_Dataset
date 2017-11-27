@@ -1,0 +1,2 @@
+What is the next number in this sequence: 1, 11, 21, 1211, 111221, 312211, 13112221?
+The next number in the sequence is 13112221. The sequence is called the "look and say" sequence. You start off with "1" and say "one-one" thus the next number is "11" then we say the numbers out loud "two-ones" therefore the next number will be "21" and so it goes on. Let's take the last number as another example: "312211" "one-three one-one two-twos two-ones" which translates to "13 11 22 21". Look-and-say sequence 

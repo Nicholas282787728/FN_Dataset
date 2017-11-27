@@ -1,0 +1,2 @@
+Where can I find effective hash functions for strings?
+This link provides an excellent comparison of different hash functions and their properties like collision, distribution and performance. Which hashing algorithm is best for uniqueness and speed? If you are looking for non-cryptographic purpose then do consider Murmur3 as it retains the same goodness of Murmur2. MurmurHash3 

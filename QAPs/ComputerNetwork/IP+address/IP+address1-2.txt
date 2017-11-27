@@ -1,0 +1,2 @@
+★What is my IP address?What is my Google hangouts ip address
+http://ifconfig.me/ $ curl ifconfig.me/ip      #=> x.x.x.x $ curl ifconfig.me/host    #=> host

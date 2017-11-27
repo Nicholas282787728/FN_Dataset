@@ -1,0 +1,1 @@
+What is an intuitive explanation of how indices optimize performance and how they work?I've come across them in various places: spatial indices, geocoding indices, database indices... but don't really understand the basic concept behind them. Links and additional resources welcome! See: Spatial database

@@ -1,0 +1,2 @@
+★Is it possible for a cable modem to acquire a virus?
+It's possible in theory. All routers are are embedded computers with networking hardware and firmware when you get down to it. In practice, router firmware is so highly varied (using ARM, MIPS, XScale, Broadcomm, Atheros, and Marvell, along others) that it is not worth the trouble.

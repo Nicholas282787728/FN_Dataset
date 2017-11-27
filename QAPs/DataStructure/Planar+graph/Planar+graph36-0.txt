@@ -1,0 +1,2 @@
+Can we can use Depth First Search to check if graph G(V,E) is planar?
+No, planarity testing algorithms are significantly more complicated than that.  See planarity testing for an overview. Updated 165w ago • View Upvotes

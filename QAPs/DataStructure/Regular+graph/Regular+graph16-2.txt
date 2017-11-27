@@ -1,0 +1,2 @@
+What are the uses of linear algebra in theoretical computer science?
+Spectral graph theory uses extensively linear algebraic techniques. There exist many applications, I suggest looking at Dan Spielman's tutorial Spectral Graph Theory and its Applications. 

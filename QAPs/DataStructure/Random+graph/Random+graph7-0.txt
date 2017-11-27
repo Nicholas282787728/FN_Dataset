@@ -1,0 +1,2 @@
+Is there any package about exponential random graph models, ERGM, in Python?
+The well written blog post below recommends PyMC ( PyMC User’s Guide: ) Exponential random graph models in python 

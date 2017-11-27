@@ -1,0 +1,2 @@
+★How is QR-factorization used to solve the least-squares problem?
+See http://www.seas.ucla.edu/~vanden... for the steps involved.    Embed Quote

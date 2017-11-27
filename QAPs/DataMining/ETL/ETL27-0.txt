@@ -1,0 +1,2 @@
+★What are the skills required for ETL testing?
+Skills required for ETL TESTING are 1. Good manual testing knowledge. 2. Good sql writting skills. 3.Good ETL /Datawarehousing knowledge. One shoud know following ETL scenaious to test. Data Transformation Data Quality Data Validation/Verification Data Definition Verification    Embed Quote

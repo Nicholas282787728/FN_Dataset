@@ -1,0 +1,1 @@
+What is an ordered array?I know that my question is trivial but is that ordered array is sorted array ??Sorted array is one ineffective type of order array. An ordered array is a data structure and when you delete or insert elements from /into it, it's supposed to keep it's order. 259 Views

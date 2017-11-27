@@ -1,0 +1,2 @@
+★Is it worth trying PCA on your data before feeding to SVM?
+You could look at the distribution of Eigen values for the covariance matrix of your data, and see if they get very small.  In general SVM's are pretty robust in the cases where your data spans a sub-space of the full feature dimension.  The reason for this is that the SVM operates at the sample level (the kernel is computed between samples) and not at the feature level.  A logistic regression without regularization can be thrown off by this kind of thing.    Embed Quote

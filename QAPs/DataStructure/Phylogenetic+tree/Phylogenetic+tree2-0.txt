@@ -1,0 +1,2 @@
+What is the best software for phylogenetic tree construction?
+There's no general answer, it all depends on your data. The best is to run your aligned sequences through different programs, since they all use different algorithms and thus will give you different results. My recommendations, if you're doing molecular phylogenetics: BEAST and MrBayes (Bayesian analysis), compare and contrast with RAxML (maximum likelihood analysis). 1.2k Views · 8 Upvotes · Answer requested by Alex K. Chen

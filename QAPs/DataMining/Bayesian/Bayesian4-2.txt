@@ -1,0 +1,2 @@
+What is a good source for learning about Bayesian networks?
+Some other books worth mentioning: Pattern Recognition and Machine Learning by C. Bishop -- there's a free pdf on the book website for chapter 8 on Graphical Models Bayesian Reasoning and Machine Learning by D. Barber -- a pdf of the book is freely accessible on the book website Also, the Coursera online class on Probabilistic Graphical Models should be a good resource and has matlab/octave programming exercises. It's taught by Daphne Koller.    Embed Quote Updated 13 Oct, 2012. 355 views.

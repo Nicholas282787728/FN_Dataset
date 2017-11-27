@@ -1,0 +1,2 @@
+What all basic data structures and algorithms should one learn before starting competitive programming?
+You can check this list Data Structures and Algorithms Tutorials. First thorougly and slowly gras the fundamentals and then go with big fishes. 

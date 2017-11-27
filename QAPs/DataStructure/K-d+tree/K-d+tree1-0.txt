@@ -1,0 +1,2 @@
+What is the difference between k-d tree and binary space partitioning tree?
+A binary space partition tree is a generalization of a k-d tree. That is, a k-d tree is-a binary space partition tree, but with the specific property that all lines of division for a k-d tree must be parallel to the axes--a binary space partition tree, in general, need-not abide by such a restriction. In short: k-d tree = BSP tree w/ lines parallel to axes. 

@@ -1,0 +1,2 @@
+Where can I read about permutation graphs?In particular graphs where the vertices themselves are permutations. Is there a name for these? Are there textbooks that cover them?
+Perhaps what you are looking for are Cayley graphs of symmetric groups? Cayley graph 

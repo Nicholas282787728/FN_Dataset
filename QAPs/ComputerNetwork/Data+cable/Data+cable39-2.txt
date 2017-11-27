@@ -1,0 +1,2 @@
+★What makes USB 3.0 faster than USB 2.0?
+As well as the physical changes that Phillip Remaker has explained, there are improvements in the protocol. There are separate transmit and receive lines, so time is not wasted turning the line around to send acknowledges. The protocol has been extended to allow "bursting" - the sender knows the receiver has plenty of buffer space and can send packets faster. There is a mechanism for saying that the receiver is not ready for data, instead of the USB method which is to receive the data and throw it away, requiring retransmission.

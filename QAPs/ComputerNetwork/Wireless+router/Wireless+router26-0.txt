@@ -1,0 +1,2 @@
+★What is a good wireless router that supports L2TP or OpenVPN?Web-based administration is fine, SSH access will be great.
+If you're talking SOHO, not enterprise grade, I'm a fan of my ASUS-RTN66U. It supports PPTP and OpenVPN, and can do L2TP pass through. I don't think it can host an L2TP VPN though. Having VPN access to a router makes remote login sort of a moot point, but remote https, telnet, and with a little extra work - SSH is possible.    Embed Quote

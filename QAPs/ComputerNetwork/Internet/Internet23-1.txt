@@ -1,0 +1,2 @@
+★What is the coolest thing I can buy on the internet for under $100?
+Raspberry Pi for $25-$35. A credit card-sized computer with 2 USB ports, HDMI output, SD card slot, can run Linux (Debian, Arch, Fedora), up to 1 GHz CPU clock frequency, some models have 512 MB memory.

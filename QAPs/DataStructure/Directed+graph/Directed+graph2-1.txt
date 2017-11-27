@@ -1,0 +1,2 @@
+Is there a union/find-like data structure for directed graphs?
+I am not sure if this is what you are looking for, but taking the matrix exponent of the adjacency matrix will indicate the number of connections between nodes with a degree of separation equal to the exponent of the matrix. If you take the Boolean matrix of the sum of all matrix exponents (in the limit of going to infinity) of the adjacency matrix, you will see all possible connections via paths of any length. This is known as the reachability matrix. 891 Views · 1 Upvote

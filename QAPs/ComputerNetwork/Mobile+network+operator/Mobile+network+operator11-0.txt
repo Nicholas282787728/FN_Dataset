@@ -1,0 +1,2 @@
+★What is the objective and strategy of the Chinese government to run multiple mobile network operators that compete against each other?
+My understanding is that the idea was to attempt to create a competitive market and to spur technological growth. One example would be China Mobile and China Unicom. China Mobile uses CMDA technology which isn't very compatible with most 3G GSM phones. Unicom was able to gain loads of users when the smartphone era took off because it supported GSM technology.    Embed Quote

@@ -1,0 +1,2 @@
+★Why does DNS use UDP?
+Yep, Thanks for the link. DNS should use TCP as a backup in case DNS responses exceed 512 Bytes. In this instance the DNS server should truncate the response and set the TC flag in the response header. The client that sent the original DNS request will know to resubmit the request using the TCP protocol.

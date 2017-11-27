@@ -1,0 +1,2 @@
+What are some examples of advanced algorithms you've learned in school that you've applied in a real work environment? Can you explain the gist or nature of this work to a kid?
+Not sure if these qualify as advanced, but I've used Union-Find (http://en.wikipedia.org/wiki/Dis...) for deduping and (http://en.wikipedia.org/wiki/Bid...) for finding paths between two nodes in a large graph. 

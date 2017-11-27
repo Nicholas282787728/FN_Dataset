@@ -1,0 +1,2 @@
+★Which platform / tool / language should be good for text mining ?For developing Search engine kinds of project
+These Text mining tools may be hepful to you: Commercial:  Autonomy  Lexalytics  SAS/SPSS  SQLServer 2008+ OpenSource:  RapidMiner  NClassifier  OpenTextSumarizer  WordNet  OpenNLP/SharpNLP  Lucene/Lucene.NET LingPipe  Weka References: http://arachnode.net/blogs/arach...    Embed Quote

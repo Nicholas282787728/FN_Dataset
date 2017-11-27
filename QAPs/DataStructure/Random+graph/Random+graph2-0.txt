@@ -1,0 +1,2 @@
+What are the applications of random graphs?
+Motion planning. RRT and Probabilistic Roadmap are two motion planning algorithms and they use random (or quasi-random) points to form graphs. Sources: Rapidly exploring random tree Probabilistic roadmap 

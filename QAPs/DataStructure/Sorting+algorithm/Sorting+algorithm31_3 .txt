@@ -1,0 +1,1 @@
+Is there any sorting algorithm which is in place, stable, and has linear runtime?There is a theorem that says in the traditional computation model, a sorting algorithm cannot have better than runtime (I don't have the name right off top of my head). The closest thing I can find related to your question is Sorting Stably, in Place, with O(n log n) Comparisons and O(n) Moves 

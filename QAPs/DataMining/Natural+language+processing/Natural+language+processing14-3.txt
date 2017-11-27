@@ -1,0 +1,2 @@
+★Natural Language Processing: What's the cutting edge for NLP?After reading the blistering review on the new Summly acquisition, it seems like startups that are marketed as NLP are not actually that cutting edge. What are some of the coolest things that people are doing in NLP, and how are they translating it to products?
+If you want try out a completely new approach to this question try: cortical.io - API Documentation cortical.io is using a language independent algorithm, based on neuroscience (instead of statistics).    Embed Quote

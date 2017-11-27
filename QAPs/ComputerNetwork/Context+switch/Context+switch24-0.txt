@@ -1,0 +1,2 @@
+★What are the advantages of Sparrow over the Gmail web app?
+Here are a few advantages: More responsive search [possibly no longer true] More responsive context switching (e.g. switching from inbox to starred or sent) Faster to open attachements (stored locally) Growl (app) notifications No browser chrome

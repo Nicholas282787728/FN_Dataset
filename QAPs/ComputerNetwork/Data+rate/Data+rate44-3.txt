@@ -1,0 +1,2 @@
+★Econometrics: When doing a regression on macroeconomic data, do you regress the underlying data or the rate of change? How do you choose?
+Here is a blog post on this topic: http://www.portfolioprobe.com/20... It is phrased in terms of stock prices, but the same principles apply for other data.

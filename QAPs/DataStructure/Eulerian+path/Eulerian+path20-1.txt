@@ -1,0 +1,1 @@
+How do I find an Euler Circuit in a graph in linear time?Fleury's algorithm takes O(E^2) time but I need an algorithm that solves the problem in linear time. Does such an algorithm exist?

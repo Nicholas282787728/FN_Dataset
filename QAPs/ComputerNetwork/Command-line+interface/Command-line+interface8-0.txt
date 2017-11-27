@@ -1,0 +1,2 @@
+★Why are most command line interfaces (CLI) written in Ruby?For example, AWS and Rackspace have their CLI in ruby.
+Because it's the "in" thing

@@ -1,0 +1,2 @@
+★Why couldn't MAC addresses be used instead of IPv4 or IPv6 addresses for networking?
+Another reason is that IP addresses are Layer 3 and are independent of the physical medium being used. MAC addresses are only used by Ethernet technology. While Ethernet networks are the most common for end user technologies, long-haul Internet infrastructure using TCP/IP probably doesn't use this. (I haven't worked on this in years.)    Embed Quote

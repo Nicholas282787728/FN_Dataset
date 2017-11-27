@@ -1,0 +1,2 @@
+What pre-launch or early-stage web projects deserve more attention?Looking for suggestions that are still under the radar for the most part (ie haven't been covered in any major way.)
+I would suggest my company, topic.org, which is a structured database of opinions on various controversial issues.  We'll be open for a closed beta in a few months. 

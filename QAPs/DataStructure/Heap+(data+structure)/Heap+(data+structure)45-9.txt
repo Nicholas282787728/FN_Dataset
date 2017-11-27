@@ -1,0 +1,2 @@
+What is a list of data structures that a competitive programmer must know?
+Originally Answered: What are the data structure topics must covered by the competitive programmers? Data Structures are the real life applications for programming languages ..In order to be a good programmer one should cover the topics of data structures.. Array,Linked list,Stack,Queue,Tree,Graph.. & implement them by the programming languages learnt 404 Views · 1 Upvote

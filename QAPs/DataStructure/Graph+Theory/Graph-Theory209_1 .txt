@@ -1,0 +1,1 @@
+Is a pentagram star an example of a complete graph?Hmm, my answer is no. See the image below There is no edge between A-B, B-C, C-D, D-E and E-A So this is not a complete graph. (a complete graph is a simple undirected graph in which every pair of distinct vertices is connected by a unique edge. wiki) 58 Views  View Upvotes

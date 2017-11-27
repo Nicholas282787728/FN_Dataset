@@ -1,0 +1,2 @@
+★What are IPv6 addresses?Global unicast, Multicast, Link local, Unique local, eui 64 and autoconfiguration.
+Every system in Network needs an IP address to be communicated.Since the usage of Internet has increased drastically the IPv4 address( 4.3 billion addresses) started to exhaust. So the experts came up with Ipv6(64 bit) which contains  2 power 128, or approximately 3.4×10 power 38 addresses, or more than 7.9×1028 times as many as IPv4, which uses 32-bit addresses . It has nothing about food.    Embed Quote

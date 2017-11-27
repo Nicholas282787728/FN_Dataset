@@ -1,0 +1,2 @@
+★Do some Internet providers capture (not block) SMTP port 25?
+You can try a different port other than 25! Mailgun supports other ones. Mailgun SMTP servers listen on ports 25, 587 and 465 (TLS)    Embed Quote

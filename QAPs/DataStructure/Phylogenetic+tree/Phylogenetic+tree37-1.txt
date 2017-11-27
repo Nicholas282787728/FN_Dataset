@@ -1,0 +1,2 @@
+What is the best protein to research evolutionary process and create a phylogenetic tree?
+All of them! Every individual protein is going to produce a slightly different (some very different, thanks to lateral gene transfer events) phylogenetic tree. For maximum accuracy, you want lots of trees to produce the most parsimonious consensus tree. Barring the resources to do that, you have to choose your proteins based on the details of exactly what it is about the phylogenetic tree you're trying to create that you want to research. 90 Views · 1 Upvote

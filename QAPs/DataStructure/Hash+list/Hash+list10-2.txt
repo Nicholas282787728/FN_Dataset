@@ -1,0 +1,2 @@
+Did Twitter migrate from Memcached to Redis for its timeline storage? Why?
+Twitter might have migrated because Redis offers persistence to key-value (k-v) items, whereas memcached k-v  is all in memory with no persistence. Redis also supports various data-structures like hash, list, set, etc, whereas memcached is only represented as byte array. 

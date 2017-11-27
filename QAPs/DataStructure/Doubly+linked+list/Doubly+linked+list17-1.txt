@@ -1,0 +1,2 @@
+How can we implement data structures like doubly linked lists in Python where there is no concept of pointers?
+In Python, almost everything is treated as a reference type. Say a = 10 b = 10 internally python makes 'b' and 'a' point to 10; it wont create memory for storing two '10' integers.  you say b = 20 in later code then it de-references b from pointing to 10 and points to 20. You can see the linked list implementation here: Linked lists 

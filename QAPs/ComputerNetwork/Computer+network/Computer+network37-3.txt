@@ -1,0 +1,2 @@
+★What is the difference between a distributed system and a computer network?
+Just a few letters.  Not a lot more.  Many of the same principles apply.

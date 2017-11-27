@@ -1,0 +1,2 @@
+What are the major differences between mechatronics engineering and electrical engineering?
+Chris Pollard's answer is correct. I just want to add the application for Mechatronics is more commonly known as the following Automation Manufacturing (Factories etc) Control Systems (Lifts / Chemical pipelines and multitude of others Robotics (Manufacturing / General) These are done commonly through PLC and also other programming systems which involve the sensors, motors etc. 

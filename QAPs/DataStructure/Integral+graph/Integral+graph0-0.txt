@@ -1,0 +1,2 @@
+What is the best way to integrate a graph database with mongoDB?I wish to use a graph engine to provide suggestions or related information based on data in mongoDB.
+See if this helps -- http://github.com/ant0ine/MongoD... . This library stores RDF into MongoDB. It maps the graph to MongoDB Collection and manages the relationships. Given your problem description however, I think, Redis might be a better choice since it actually deals with sets, lists, and hashes, so managing the graph might be more natural. 

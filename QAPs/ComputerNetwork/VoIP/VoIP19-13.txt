@@ -1,0 +1,2 @@
+★Can VoIP ever have latency as low as a "regular" phone line?
+The latency issue is quite common in VoIP. VoIP users usually come across with this problem. This is not the broadband issue as you rightly said rather it is the issue of service provider. The routes you use foe VoIP affects your call quality. If you are facing such issue then you need to consult with your service provider.    Embed Quote

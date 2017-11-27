@@ -1,0 +1,2 @@
+What are some examples of graphs with an infinite number of vertices?
+The Rado graph is a rather special graph with an infinite number of vertices. It can be constructed in many different ways, one of which is randomly: for each pair of vertices, flip a coin to determine whether there's an edge between them or not. The result turns out to be the Rado graph with probability 1! People who work in Geometric group theory also like to study Cayley graphs of infinite (but usually finitely generated) groups, like this one: 

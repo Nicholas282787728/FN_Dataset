@@ -1,0 +1,2 @@
+What are the best visualizations of sequence alignments?
+I recommend GenomeView, a java based visualization tool. GenomeView 

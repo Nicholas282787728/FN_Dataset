@@ -1,0 +1,1 @@
+What is data structure algorithm?An algorithm is defined as a step-by-step procedure or method for solving a problem by a computer in a finite number of steps. five important features:: Finiteness. Definiteness. Input Output Effectiveness. source::(internet) 131 Views

@@ -1,0 +1,2 @@
+★The maximum Bluetooth 4.0   data rate is 25Mbps. so this B is  "bit" or "Byte"?
+It Megabit, but that's not really the interesting part. The interesting part is that to get these speeds, what's actually happening is that the Bluetooth link is only used to set up the connection, and the actual data is then transferred over a 802.11 link - essentially WiFi. The bandwidth for Bluetooth 4.x is, at most, 3 Megabit per second.

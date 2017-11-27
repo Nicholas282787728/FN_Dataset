@@ -1,0 +1,1 @@
+Rockets: What's the reason behind Aestus engine chosen propellant mixture ratio?Aestus is the engine that powers the second stage of the Ariane 5G. The rocket combines MMH/N2O4 as its propellants. The mixture ratio given by the official website is 1.9. What could be the reason behind choosing this ratio instead of any other ratio like the commonly used 1.65 for these propellants?

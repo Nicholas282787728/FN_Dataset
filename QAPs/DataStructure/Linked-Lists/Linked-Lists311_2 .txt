@@ -1,0 +1,1 @@
+How can I write a C++ code that removes any duplicate values from a linked list?I've drawn many a diagram, tracing what my pointer are doing, but hitting a wall. No luck.If the order of items in the list does not matter, sort the items first, and then do one last pass to remove any value that compares equal to the previous one. 66 Views  View Upvotes

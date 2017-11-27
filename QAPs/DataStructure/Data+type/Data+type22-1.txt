@@ -1,0 +1,2 @@
+What is the differences between primitive data types and user defined data types?
+Primitive data types are also known as basic data types .Those data types which are not derived from others for ex.int,float,double etc are known as primitive data types . User defined datatypes are data types whose name can be defined by users for ex struct(structure) ,pointers ,enums etc . Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 2.9k Views · 1 Upvote

@@ -1,0 +1,2 @@
+★What is the difference between a DSL modem and a router?
+A router makes decisions about where computer data packets should be sent as they are forwarded on. A DSL modem is a method of transmitting data between two points. (Your house and the neighborhood dslam) The routing of packets is so fundamental to getting them where they need to go, it's likely the DSL mode included routing features too.

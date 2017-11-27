@@ -1,0 +1,2 @@
+What is the most esoteric programming language that you have tried?How did you learn about that programming language? What made you try programming using that language? Did you like programming using that language? Describe your experience.
+I once tried Brainfuck, it is easy to get after all, but its painfully boring to write anything usefull with it But WhiteSpace seens to be special in this matter 

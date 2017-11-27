@@ -1,0 +1,2 @@
+★Is NAS Dlink DNS-320 working with OSX Yosemite?I've got an old NAS (hardware version A1, firmware 2.03) working  with OS X Mavericks. Because I had a lot of problems with it in the past (recently I had to downgrade the firmware because it hanged the system) I'm not in a hurry with upgrading to OS X Yosemite. Has anybody tested such a set?
+Sorry, no, as others have stated it doesn't appear to be working with 10.10 at this time.

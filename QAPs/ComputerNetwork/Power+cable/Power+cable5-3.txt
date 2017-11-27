@@ -1,0 +1,2 @@
+★What is meant by an electric power cable rated at a voltage grade of 450/750V?
+Show a picture or reference of the rating.  Neither of those voltage ratings matches typical NEMA or IEC ratings and voltages for insulation rating. One may find cables rated at, say, 5kV 133%, or 8kV 100%, which means that if operated at 5kV, the insulation is 133% of what is required, but merely adequate at 8kV.  The ratio of 750/450 is 167%, and this is not common.    Embed Quote

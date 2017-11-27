@@ -1,0 +1,2 @@
+★What are some free SDKs or servers available to integrate web services to perform get, post, delete, etc. operations in an Android application?
+There are many easy to use Baas that you can choose from. Backend-as-a-Service Shootout (the best alternatives to Parse?) - Developer Economics    Embed Quote

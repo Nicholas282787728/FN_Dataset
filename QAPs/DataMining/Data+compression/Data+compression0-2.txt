@@ -1,0 +1,2 @@
+Is there a theoretical limit to data compression?
+The length of the shortest program that prints out a given string is known as its Kolmogorov complexity.  If you look at a function that maps the natural number to the length of the shortest program that prints out its binary representation, then that function grows about as quickly as , so in a sense that's a lower bound.    Embed Quote 

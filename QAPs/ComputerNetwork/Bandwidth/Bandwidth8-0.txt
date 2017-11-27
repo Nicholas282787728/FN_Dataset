@@ -1,0 +1,2 @@
+★What are bandwidth and traffic limits for GitHub pages?How much traffic can you get on github user/project page before it gets overloaded? I'm thinking of switching over my startup's webpage into a project page since it much easier to manage but don't want it to be ever overloaded.
+We don't have any hard limits. Every now and then a massive porn site hotlinks a JavaScript file or something and we have to ban them, but it's so incredibly rare that you'll ever run into any problems.

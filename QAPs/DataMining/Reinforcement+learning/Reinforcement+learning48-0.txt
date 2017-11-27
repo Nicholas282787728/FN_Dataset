@@ -1,0 +1,2 @@
+★What are some methods to find good state representations for reinforcement learning?I.e., low-dimensional feature representations for high-dimensional states
+You could try applying a number of dimensionality reduction techniques such as PCA, Linear Regression, etc. Or you could try to come up with sufficient statistics by hand.    Embed Quote

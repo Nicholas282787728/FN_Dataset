@@ -1,0 +1,2 @@
+★Which are the frequently asked interview questions for Java Engineers ?
+Hi. Thank you for the A2A. Here are a few questions I collected from both sides of the interview table over the years. True, they are not all specific to Java, but I would test candidates for a good understanding of programming languages and available capabilities more than for specific syntax. Programming Language Questions

@@ -1,0 +1,2 @@
+★Why is logistic regression considered a linear model?
+Simply because the decision boundary is linear.    Embed Quote

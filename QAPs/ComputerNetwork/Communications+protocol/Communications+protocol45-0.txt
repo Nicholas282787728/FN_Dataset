@@ -1,0 +1,2 @@
+★Does WhatsApp use GCM to exchange messages?
+No. Whatsapp is built using jabber server, which implements XMPP communication protocol.

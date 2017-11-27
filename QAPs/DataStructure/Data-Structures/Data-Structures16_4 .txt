@@ -1,0 +1,1 @@
+What does temp->next->data refers to in linked list c programing?As you mentioned in question you are using a pointer, temp->next->data which means data part of that node which is next to temp in linked list. consider an example: 8->7->9 is a singly linked list let temp=8 then temp->next->data , the value of this is 7. 13 Views

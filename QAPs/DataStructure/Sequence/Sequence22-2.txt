@@ -1,0 +1,2 @@
+Number Sequence: A sequence contains the following numbers. Can you find the function this sequence generates?
+[math]f(x) = (2 (44000x^7 - 44044x^6+44010x^5-44049x^4-43985x^3+44039x^2-44005x+44054)) / ((x+1)(x^3-x^2+x-1)^2)[/math] 

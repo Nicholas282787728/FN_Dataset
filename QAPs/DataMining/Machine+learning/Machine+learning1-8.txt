@@ -1,0 +1,2 @@
+★What are the top 10 data mining or machine learning algorithms?
+Apriori FP growth GSP PrefixSpan k-Means Classification and Regression Tree (CART) Decision Tree Support Vector Machines (SVM) PageRank Naive Bayes    Embed Quote

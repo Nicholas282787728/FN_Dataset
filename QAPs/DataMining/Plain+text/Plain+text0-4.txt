@@ -1,0 +1,2 @@
+★How do mint.com and similar websites avoid storing passwords in plain text?
+At my previous company (Netflix), we kept encrypted passwords along with hashes of the user passwords. We used Ingrian (now Safenet) for key management.    Embed Quote

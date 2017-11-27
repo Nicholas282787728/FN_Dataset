@@ -1,0 +1,2 @@
+When should I use double equals sign instead of triple equals sign in PHP?
+$a == $b if $a and $b are equivalent. 3.0 == 3 is true. $a === $b if $a and $b are identical. (Type and value are the same). 3.0 === 3 is false. Both == and === have their unique uses. Sometimes you need to use ==: if(100 == "1e2")	print "Answer is correct!"; Sometimes using == will give you the wrong answer. if(strpos('tree', 't') == false)	print "Tree does not contain the character t."; This will give you an absurd answer because 0 is equivalent to false. To avoid such errors use ===. 

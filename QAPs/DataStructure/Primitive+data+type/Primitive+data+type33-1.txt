@@ -1,0 +1,2 @@
+How is the wrapper class defined in terms of object-oriented programming and why is it required?
+we need to wrap primitive data types as objects to be able to use them in java collections. 

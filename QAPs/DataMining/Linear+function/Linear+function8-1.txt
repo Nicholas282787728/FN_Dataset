@@ -1,0 +1,2 @@
+★How does one know that a linear function represents a line in the plane? How can it be proven?
+You can define this question away, or notice that the Graph of a linear function is which also meets a "better" definition of a line - insofar as it generalizes to higher dimensions trivially.    Embed Quote

@@ -1,0 +1,2 @@
+★Domain Name System (DNS): Which is better, Bind or PowerDNS?
+You know how moms say "if all your friends jump off a bridge, does that mean you would too?" BIND is kind of like that. Just because it's the default doesn't mean you should use it. BIND is relatively insecure compared to other options out there, and also vulnerable to cache poisoning attacks (partially because the authoritative and recursive functions aren't separated.) Definitely go for PowerDNS, djbdns, or NSD/Unbound.

@@ -1,0 +1,2 @@
+Is the time complexity for finding a directory entry in one directory of Ext4 file system [math]O(n)[/math], where [math]n[/math] is the number of existing directory entries?
+ext4 by default uses a HTree (a special kind of B-Tree) to store the directory entries. The time to find a directory entry in an directory is O(log n). Link: Ext4 Disk Layout 

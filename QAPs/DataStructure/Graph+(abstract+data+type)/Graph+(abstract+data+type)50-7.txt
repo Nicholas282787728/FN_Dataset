@@ -1,0 +1,2 @@
+What is the best way to self-teach the skills and knowledge gained in a typical computer science degree?
+Knuth's The Art of Computer Programming. ETA: I should note that CS is not programming.  They're a bit like physics versus auto mechanics. 

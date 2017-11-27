@@ -1,0 +1,2 @@
+Which type of ML/statistics methods fit a "select best candidate" scenario?
+I think what you are trying to describe here is the 'Marriage/Secretary Problem'. It is a well known problem in Statistic. I will refer you to the following articles for more info: 1. Secretary problem 2. The Secretary Problem and 3. [Who Solved the Secretary Problem?]: Rejoinder 

@@ -1,0 +1,2 @@
+★Why did Microsoft Windows offer such a terrible command line interface through most of the 90s and 2000s?Before Powershell.
+Because it was the DOS command line, the underlying OS and legacy interface for people coming from a PC command-line OS. If they would have changed the syntax, there would have been no advantage for DOS users to move to Windows compared to moving to i.e. IBM OS/2

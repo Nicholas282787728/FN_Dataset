@@ -1,0 +1,2 @@
+★What is the best FTP client for Mac OS?other than Filezilla
+Free:  FireFTP - a free plugin for Firefox. Loved it, but fell out of love with Firefox. http://fireftp.mozdev.org/ Not-free option: Coda 2 ( http://panic.com/coda/) has the best bits of Transmit built-in, and is a great web editor to boot.

@@ -1,0 +1,2 @@
+How do the following statements become valid in C++?
+It's not valid C++. It's just a compiler extension. Variable-length automatic arrays are allowed in ISO C99, and as an extension GCC accepts them in C90 mode and in C++Variable length array extension in GNU Compiler Collection (GCC) MSVC doesn't have that extension, that's why int a[n] working in g++ but not with vs2008 

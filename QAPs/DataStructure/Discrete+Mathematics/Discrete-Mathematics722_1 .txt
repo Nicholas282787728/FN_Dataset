@@ -1,0 +1,1 @@
+Can calculus be proven from axioms in discrete mathematics?No. At a bare minimum calculus requires the axioms of the real numbers which are not discrete in any sense. 91 Views

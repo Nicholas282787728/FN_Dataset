@@ -1,0 +1,1 @@
+Which data structure keeps the data sorted at runtime?In case of Java you can choose TreeSet which is implementation of Set interface. You can pass Collection object to the constructor of this class which will automatically sort the objects. Also when you add any object then it will be placed in sorted order. 635 Views  Answer requested by Sai Teja Nagamothu

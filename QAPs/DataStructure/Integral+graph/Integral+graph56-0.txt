@@ -1,0 +1,2 @@
+How do I make velocity vs time graph into position vs time graph?
+Look up Graphical Integration. It is a technique that can be used to integrate from the graph only with no explicit formulæ. 

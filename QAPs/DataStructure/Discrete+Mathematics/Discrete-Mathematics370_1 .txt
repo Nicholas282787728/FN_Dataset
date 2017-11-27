@@ -1,0 +1,1 @@
+The statement (p∧(p→q))→q is tautology.How do I show that the statement p∧(p→q)∧¬q is a contradiction by using the first statement  without a truth table?Assume p∧(p→q)∧¬q  p∧(p→q)∧¬q . But then we have that p  p and p→q  p→q and ¬q  ¬q From 1 and 2 we get by modus ponens that q  q . But this and 3 imply falsehood. 209 Views · View Upvotes

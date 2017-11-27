@@ -1,0 +1,2 @@
+★What internal routing protocol do ISPs use?
+IS-IS in most cases. A few may still be using OSPF. In limited cases, iBGP.    Embed Quote

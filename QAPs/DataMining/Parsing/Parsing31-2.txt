@@ -1,0 +1,2 @@
+★Why use a backend like Parse?
+If you can cache your data on the client (phone), it is always better UX to have photos appearing instantly without waiting for the connection. However, with too many data you may run into the limit of what the device can store, or performance problems when memory is used. When that happens, cloud storage becomes a better option, and that is where Parse shines.    Embed Quote

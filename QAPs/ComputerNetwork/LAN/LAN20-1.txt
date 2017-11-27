@@ -1,0 +1,2 @@
+★Is it possible to FireSheep in a non wireless (ie physical, cable based) LAN?I very well know that FireSheep can be used to sniff packets and info from unsecured wireless network. But can it be used over a physical Local Area Network ?
+Another way is to enable Port Mirroring on the LAN switch port you're connected to. This means you're the network admin. And you should have a very good reason to run Firesheep (Firefox add-on). Or Wireshark.    Embed Quote

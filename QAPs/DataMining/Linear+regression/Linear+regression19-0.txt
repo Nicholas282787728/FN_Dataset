@@ -1,0 +1,2 @@
+★I am creating a multi-linear regression to forecast electricity consumption in a multi-tenanted office building. The best R2 value is 61% (aiming for 75%), hence am considering non-linear regression. Any advice on the form of non-linear regression to try?
+Particularly for forecasting, you need to be very careful about overfitting. Nonlinear regression can (if you aren't very careful) make that worse. Also, if you have longitudinal data (which it seems like you do) the assumptions of both linear and non-linear regression are going to be violated    Embed Quote

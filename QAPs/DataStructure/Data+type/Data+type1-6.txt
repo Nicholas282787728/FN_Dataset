@@ -1,0 +1,2 @@
+Is 'void' a data type?
+At first glance, when used as a return type/input type or even as a pointer(not a good practice) it looks like a data type. It's quite intuitive! But it's not a data type. In order to be declared as a data type(built-in or user defined) it has to have a certain size, which is not the case with void, sizeof(void) is undefined. You can associate  void with avoid to return/accept something, void like the void, emptiness of space(code). 214 Views

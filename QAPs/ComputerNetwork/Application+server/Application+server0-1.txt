@@ -1,0 +1,2 @@
+★Which is the best application server for Ruby?Many servers exist, unicorn, apache(passenger), and so. Give me some advice.
+Passenger. Pros - Easy to deploy, both with Apache and Nginx It is fast. Supports Global Queuing.

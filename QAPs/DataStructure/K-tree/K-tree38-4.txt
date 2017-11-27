@@ -1,0 +1,2 @@
+What is there difference between [math]O(n)[/math] and [math]O(\log n)[/math]?
+Poly-logarithmic algorithms - O((log n)^c) Example - Matrix Chain Ordering on a PRAM. Sublinear run-time - O(n^c) ; such that 0<c<1 Example - Searching in a K-dimensional tree. Courtesy - Wikipedia. 

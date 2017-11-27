@@ -1,0 +1,2 @@
+★What is a good service that provides visual heatmaps of user clicks on a web page?I have already checked out crazyegg and clickdensity and am not impressed by either. Is there a service you would recommend? Is there an open source solution?
+There is also a new startup Mouseflow.com -- I have used them and they have an excellent (not to mention affordable) service. And yes, Crazyegg and Clicktale are good too.    Embed Quote

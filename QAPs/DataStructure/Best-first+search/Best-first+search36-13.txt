@@ -1,0 +1,2 @@
+What is the best programming algorithm that you have ever created?
+My best algorithm was created for my MS research. It was an automatic summarization algorithm. I call it TextTeaser. At first I really doubt the quality of the summaries it produce. But after getting some feedback with the people, I now think it was really that good. And I'm getting request to open source it... soon! You can try out TextTeaser via this link: TextTeaser: An automatic summarization application and API 6.4k Views · 33 Upvotes

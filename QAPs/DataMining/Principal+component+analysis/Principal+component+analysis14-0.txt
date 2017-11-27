@@ -1,0 +1,2 @@
+★When is PCA (principal component analysis) not preferred as a preprocessing technique before using a machine learning algorithm?
+I wrote about this a few years ago in the context of supervised classification: Should you apply PCA to your data?    Embed Quote

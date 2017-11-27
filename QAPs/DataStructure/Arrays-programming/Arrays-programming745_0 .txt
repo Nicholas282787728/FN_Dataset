@@ -1,0 +1,1 @@
+What is the largest contiguous subarray such that all integers in that array are coprime?This is problem asked in CodeChef Cookoff, its solution is SUBLCM - editorial. 521 Views  View Upvotes

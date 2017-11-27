@@ -1,0 +1,2 @@
+★What's the best way to determine if unauthorized users are connected to your home wireless network?Assuming you've already setup the normal security best practices, but someone manages to crack your password, what would be the best way to monitor and be alerted of this scenario?
+Cost/benefit tradeoff really depends on your values. For me, just change your WPA key each month/quarter/year. Monitoring the network might not detect spoofing but changing the key forces each user/device to contact the admin to get the new password.    Embed Quote

@@ -1,0 +1,1 @@
+How do I duplicate an array based on a condition in php?There are right answers written. I personally, recommend you to refactor you code according to MVC pattern. 25 Views  View Upvotes  Answer requested by Adeniyi David Odefunso

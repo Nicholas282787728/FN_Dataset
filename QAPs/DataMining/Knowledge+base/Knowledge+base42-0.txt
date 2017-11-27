@@ -1,0 +1,2 @@
+★What software/code was used to create the Evernote Knowledge Base?found here: http://www.evernote.com/about/kb/
+It's PHP/MySQL (I built it).    Embed Quote

@@ -1,0 +1,2 @@
+★In what industry branch/sector is predictive modeling extensively used?
+Future car system. Predicting what the objects in the environment will do in order to take measures in your on vehicle. Automatic braking is one concrete example    Embed Quote

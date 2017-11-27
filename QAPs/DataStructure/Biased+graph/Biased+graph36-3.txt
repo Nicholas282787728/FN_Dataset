@@ -1,0 +1,2 @@
+What are some 'must experience' classes at IIT Delhi? Do not tell the compulsory first year classes, but some classes where you were mesmerised by the teacher's in depth knowledge, or the way of teaching, or the subject itself.
+Here is a list of all the courses that I enjoyed a lot. Since I was a CS major, this list is heavily biased. Discrete Mathematics by Prof Naveen Garg (CSL 105) Data Structures & Algorithms by Prof Amit Kumar (CSL 201) Introduction to Algebra by Prof Kundu (MAL 124) Graph Theory by Prof Amitabha Tripathi (MAL 146)... (more)

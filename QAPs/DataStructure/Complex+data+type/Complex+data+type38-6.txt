@@ -1,0 +1,2 @@
+What advantages C++ offers as compared to C in competitive programming landscape?
+Python provides better understanding to basics of programming as compared to C++ .So as a rookie you should go with python..but eventually you should also learn C++. 

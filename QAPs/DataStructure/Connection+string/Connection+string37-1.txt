@@ -1,0 +1,2 @@
+How can we make it possible that two websites, hosted on a single server, use a single database?
+No need to do anything extra. Just make sure that both web sites use proper authentication details and database name. 

@@ -1,0 +1,2 @@
+★Is it possible for a cable modem to acquire a virus?
+Highly unlikely. Modems are embedded devices. Modifying the behavior of an embedded device is really difficult unless the design of the device itself allows on the fly modification of the firmware.

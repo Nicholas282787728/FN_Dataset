@@ -1,0 +1,2 @@
+★In the phrase "playing Atari with deep reinforcement learning" what does the deep stand for?I only understand the deep in the context of the depth of neural networks. I am writing a PhD proposal about reinforcement learning and need to be careful about my wording.
+I may be wrong, but, any machine learning algos from Stanford under Andrew Ng fell into reinforcement learning and those that related to Geof Hinton work is called deep learning, I guess. Deep in deep learning is neural net with no. of hidden layer > 1, thats it    Embed Quote

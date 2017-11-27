@@ -1,0 +1,2 @@
+What is the meaning of data types?
+Data types in c programming language. A bit of Pattern which interprints the data is called as data type or data type is a storage format which have specific size or range of values.The data types are used for declaring variables, functions etc. in the program. In short we can say that it is a type of data. Data types are of two types Primary data types & Secondary data types. Primary data types 1)int - “int” keyword is used for int data type.... (more)

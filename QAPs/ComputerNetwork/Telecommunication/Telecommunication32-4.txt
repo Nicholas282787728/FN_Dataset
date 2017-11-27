@@ -1,0 +1,2 @@
+★What is the difference between telecommunication and networking?
+Telecommunication can be defined as the transfer of data/information through a distance in the form of electromagnetic signals to one other receptive end, while networking refers to the process of interconnecting devices to one main system mainly known as the server.    Embed Quote

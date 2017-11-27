@@ -1,0 +1,1 @@
+If arrays are objects in Java, from which class do they belong to?An array type itself is a class, and arrays are created using a special version of the new operator. refer 5.1.4 Arrays and object at page mentioned below: Objects, Instance Methods, and Instance Variables 198 Views  View Upvotes  Answer requested by 1 person

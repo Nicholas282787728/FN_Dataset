@@ -1,0 +1,2 @@
+★What problems are expected to arise if we shift from IPv4 to IPv6  completely ?
+I'm jumping in to get this ball rolling: I forsee the biggest issues coming from correctly configuring DNS. I can do a BIND configuration for IPv4, without a lot of sweat. My first attempt with IPv6 was so bad that I ended up deleting the whole mess and starting over twice. Next will be routing tables. Static tables are going to drive engineers up the wall for a while.

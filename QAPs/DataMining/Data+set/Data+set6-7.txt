@@ -1,0 +1,2 @@
+How do you deal with large data sets in Excel?
+If your raw data is very large then you should store it in Access as stated in another answer. Access is designed for larger data than excel. Other part is pivot tables if the Pivot tables and not the data are making your file large then you could go in for a VBA solution as a replacement to pivot table. I use the second solution very frequently.    Embed Quote 

@@ -1,0 +1,2 @@
+★Natural Language Processing: What startups are hiring engineers with strengths in machine learning/NLP?
+Twitter is hiring. We need ML/NLP people to improve the relevance of Twitter timelines, to infer user's interests, for machine-learning models for predicting engagement rates on ads, and several such interesting problems. Job req here: http://twitter.com/job.html?jvi=...    Embed Quote

@@ -1,0 +1,2 @@
+What are the applications of graph theory?
+Drawing really awesome things. And figuring out things like: the number of permutations on a Rubik's cube can be reduced by a factor of about 48 from 43 trillion (or quintillion if you're that kind of person) to about 901 billiards, by counting only permutations that are different up to conjugation (Using Cauchy-Frobenius Lemma, or as it is sometimes called: "Definitely not Burnside's Lemma"). 

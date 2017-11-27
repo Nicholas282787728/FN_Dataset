@@ -1,0 +1,1 @@
+Under what circumstances would using a composite primary key be more appropriate than a single primary key given that almost all primary keys are single?

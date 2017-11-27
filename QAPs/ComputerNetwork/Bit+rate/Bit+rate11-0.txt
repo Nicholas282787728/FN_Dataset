@@ -1,0 +1,2 @@
+★What is the bit rate of 8051?
+there is no bit rate of 8051 , bit rate is just number of bit transfer per second.

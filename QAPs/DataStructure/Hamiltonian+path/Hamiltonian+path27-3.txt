@@ -1,0 +1,1 @@
+For a directed graph, what is the upper bound on the number of simple paths that include all vertices?Given N vertices and M edges, where N << M. I am thinking it is O((MN−1))  , but I am not entirely sure. The paths should include all vertices in the graph. It does not have to be a tight upper bound. Thanks!

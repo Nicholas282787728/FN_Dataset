@@ -1,0 +1,2 @@
+How can I find the center of an array of geocodes?
+Could any human tell you that without the knowledge of airports?  K-means clusters as an input to search against airports would do fine...That still wouldn't tell you if it was a commercial jet out of O'Hare or a private jet out of Chicago Commercial (10 miles north). 

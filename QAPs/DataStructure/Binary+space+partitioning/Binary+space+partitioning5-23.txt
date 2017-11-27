@@ -1,0 +1,2 @@
+What are some of the most ingenious algorithms in computer science?added bonus if the algorithm runs in constant time
+Probably HITS and its precursors that were essentially the pre-web PageRank and the bedrock upon which Google was built. The extraction of document relevance using a link graph is a pretty ingenious idea if you ask me, even if it did have predecessors from the 1940s that weren't quite fleshed out. Source: HITS algorithm 

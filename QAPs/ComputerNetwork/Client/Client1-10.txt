@@ -1,0 +1,2 @@
+★HTML5: What are the most important client-side (HTML5/CSS/JavaScript) libraries and why?I defer to the quora community to define "important" through the use of upvotes, as that's largely inevitable anyways.
+Building off of Ben's answer MooTools: Object oriented framework similar to jQuery Prototype: Another framework Dojo: Another framework YUI: Framework designed for building interactive web 2.0 applications three.js: 3D rendering library using WebGL Normalize.css: CSS to make elements look the same across browsers

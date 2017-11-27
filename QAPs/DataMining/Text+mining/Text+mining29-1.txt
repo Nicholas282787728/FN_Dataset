@@ -1,0 +1,2 @@
+★Where can I find datasets for my dissertation based on text mining?I am an M.Tech. student and want to do dissertation in Text mining area using Hive and Pig. But I am in search of a datasetation(not much big in size) on which I can work! Please let me know where I can find such datasets.
+Where are you pursuing your M. Tech? Wouldn't your college / university be able to provide you with that? I'm not sure as to what is your dissertation going to be about? Anyway, my best bet would be to find here: UCI Machine Learning Repository: Data Sets    Embed Quote

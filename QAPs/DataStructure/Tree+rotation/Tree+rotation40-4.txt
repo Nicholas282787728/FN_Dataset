@@ -1,0 +1,2 @@
+Are there any good sites for learning algorithm/programming concepts every day (similar to the SAT question of the day)?
+You can try Question Discussion I found some good algorithm questions and answers with proper code there. For E.g , see this: http://www.questiondiscussion.co... Unlike Stack overflow, the questions are open for discussion to reach better answer. They also have some 'Challenge' concept. Hope this helps ! 

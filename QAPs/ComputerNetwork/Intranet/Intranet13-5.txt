@@ -1,0 +1,2 @@
+★What companies are successfully using WordPress for their intranet?WordPress is a powerful, extensible CMS. I'm looking for success stories from companies using WordPress to power their intranet.
+ZonMw, a Dutch mid-sized organization, is using Wordpress for their social intranet.

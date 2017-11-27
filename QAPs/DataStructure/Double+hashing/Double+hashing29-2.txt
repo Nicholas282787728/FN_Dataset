@@ -1,0 +1,2 @@
+What are the type of questions asked in the first round of Google interview?
+Nothing is all that demarcated into first or second round. You might find some of these questions useful: Programming  Interview Questions - Microsoft, Amazon, Google, Facebook - Programs,  Code, Puzzles, Placement Tests- Answers/Hints at the end - the learning  point A collection of interview questions from Amazon, Microsoft, Google, Facebook interviews. Most of them are recycled and used by all of them. Disclaimer: A small project of mine 

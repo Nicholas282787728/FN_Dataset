@@ -1,0 +1,2 @@
+Why string is not a primitive data type in Java?
+If you have used C programming then you know the problems we had during manipulation of strings.. So the makers of java thought it will be better if string is an object so that it will be easier for the developers to manipulate strings…. In fact java gives wrapper classes for all the primitive data types using which you can convert the primitive data types into objects. 255 Views · Answer requested by Yashu Verma

@@ -1,0 +1,2 @@
+How do I find the minimal range that contains a number from each sorted array?
+check the solution here - Google Interview Question Software Engineer / Developers looks correct 

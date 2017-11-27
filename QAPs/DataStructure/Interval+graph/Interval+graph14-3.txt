@@ -1,0 +1,1 @@
+Y axis and x axis must have different graduations? Like the x-axis can be like 10,20,30...etc but y-axis can't have the same intervals. Is this true in Standard Scientific graph plotting?

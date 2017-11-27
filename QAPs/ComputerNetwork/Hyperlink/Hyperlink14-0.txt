@@ -1,0 +1,2 @@
+★In Streak for Gmail, is there a way to add hyperlinks to a column?When I put the hyperlink in a column (Notes, Free Form), it doesn't turn into a link.
+This did not work for me. Here is the full text I added: <a href="Online Accounting Software – Free Trial, Free Support">Xero</a>    Embed Quote

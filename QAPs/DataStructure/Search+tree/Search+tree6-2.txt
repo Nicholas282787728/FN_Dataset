@@ -1,0 +1,2 @@
+Can a binary search tree contain negative numbers?
+Not sure if u mean a Binary Search tree or not. But a binary tree can contain literally anything and the data you store in it purely depends on your interpretation of it and vice versa. In binary search tree, addind to the above, you follow a specific ordering which can be lexicographic, relation between intergers, records, even metadata or anything that you can imagine of. 

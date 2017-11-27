@@ -1,0 +1,1 @@
+How looping is done in linked lists?There are different types of linked lists(depends on the pointers to the next nodes). You start with a node(perhaps root) and follow it's next(by pointer). Do the same till you reach the end. 52 Views

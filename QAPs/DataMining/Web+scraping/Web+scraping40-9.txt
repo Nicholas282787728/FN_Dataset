@@ -1,0 +1,2 @@
+★How can we as a poor startup follow competitor's e-commerce prices with web scraping/data mining technology?And implement them too ..
+The best bet would be to get on a trial plan with a specialized e-commerce price database provider. Often 30 days evaluation would yield you pretty decent price comparisons and you could generate enough runway to afford a plan. Semantics3 does have starter plans at $9 per month, and we do have a "start-up" special for poor startups to get going.    Embed Quote

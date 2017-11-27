@@ -1,0 +1,2 @@
+Why is learning JavaScript (programming language) important for web developers?As opposed to other languages? What does it do well? What does it not do well?
+I am just learning JavaScript, and to me, it seems like JavaScript is the only thing that makes my pages have user interface that is not just visual. Before starting JavaScript, my only non-visual interface was the CSS hover option. Honestly, web pages don't do much without a scripting language behind them, and JavaScript is probably the most popular one. 

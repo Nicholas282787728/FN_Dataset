@@ -1,0 +1,4 @@
+★What is regular expression for 'not' something?I have a list of URLS with hundreds of sub folders I need segmented  (/product1, /productN, /category1, /categoryN). What is the regex code for selecting everything except a specific folder?
+Your question is not very clear, but you may want the "invert match" option, grep –v, which means "select lines which do not match the regex." For example, 1
+ grep -v '[a-z]100$' urls.txt would give you all products and categories that are not numbered 100. Or, 1
+ grep -v /product urls.txt would give you the lines that are not product URLs. If this is not what you need, please clarify the question.    Embed Quote

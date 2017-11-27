@@ -1,0 +1,1 @@
+Although having O(n^2) complexity Selection sort ensures sorting in no more than n swaps. 

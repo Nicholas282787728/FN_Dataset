@@ -1,0 +1,2 @@
+What is the difference between "business intelligence" and "business analytics"?
+From what I've heard, there is no true difference between business analytics and business intelligence-- and you should know, companies tend to use the words interchangeably. It is possible that intelligence is a word that resonates more with business users, and analytics appeals more to people who are technical, such as a data analyst or IT admins.    Embed Quote 

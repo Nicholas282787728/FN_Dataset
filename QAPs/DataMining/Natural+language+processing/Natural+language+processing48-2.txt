@@ -1,0 +1,2 @@
+★What are some good books on natural language processing and semantic analysis?For noobs
+For cookbook style NLP recipes, checkout https://www.packtpub.com/python-...    Embed Quote

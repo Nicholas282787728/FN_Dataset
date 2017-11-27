@@ -1,0 +1,2 @@
+What are some of the great projects implemented using the concepts of Graph Theory?Real Life Products or Projects that involve the usage of graphs for  implementing them.
+I use graph theory when finding a stable assignment of trade cycles among groups of players in a Housing Market Problem. The graph is a set of vertices = players and directed edges = preferences over other players, and the entire goal is to find sets of disjoint cycles in a very complicated graph. The applications of the Housing Market Problem are extensive. 

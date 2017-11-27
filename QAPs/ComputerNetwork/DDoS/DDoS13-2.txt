@@ -1,0 +1,2 @@
+★How does one perform a DDoS attack?
+In addition, you can use reflection to amplify your attack by using servers with big connections which will increase the amount of data sent. The Open Resolver Project is an example.

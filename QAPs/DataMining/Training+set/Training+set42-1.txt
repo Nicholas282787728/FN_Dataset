@@ -1,0 +1,2 @@
+★In machine learning, is it better to train your model iteratively across several training/validation sets or is it better to just include all the data in your training set the first time and feed that through the model and why?
+it depends on the algorithm for an traditional SVM classifier, this would have no effect this is true of any convex method, up to round off / numerical errors what you are describing is similar to a  transductive SVM and this might affect the convergence of this or any non-convex method (deep learning / neural network  as well )    Embed Quote

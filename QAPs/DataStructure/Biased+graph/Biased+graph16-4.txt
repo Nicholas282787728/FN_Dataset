@@ -1,0 +1,2 @@
+What does your answer Quora pie graph look like?
+This is my pie. There are many like it, but this one is mine. As you can see, it's heavily weighted towards computer-related topics, yet fairly balanced otherwise. Hat tip: Mikhail Kotykhov for the A2A, and Mohan S Nayaka for creating the pie chart rendering tool in the first place. (Quora Admins: Hire him! 'Nuff said.) 1.2k Views · 67 Upvotes · Answer requested by Mikhail Kotykhov

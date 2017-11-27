@@ -1,0 +1,2 @@
+In C language why is a pointer used when one can assign the variable itself?
+One more addtion to Subhash' answer. If you want to pass a large structure to a function then it is good that you paas address of this structure not the structure itself  because passing a large structure is like copy one structure to another structure . And this copy operation is very costly. 

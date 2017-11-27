@@ -1,0 +1,2 @@
+What's the best C program to convert a BST tree to an AVL tree?
+Thnx For A2A , Abhinav Tripathi has answered below and you are asking for best C Program for that , So I would like to say upload your programm and I will find if there is any code optimization or not 

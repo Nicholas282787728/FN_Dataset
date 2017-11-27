@@ -1,0 +1,2 @@
+★What is the best way to install FTP on an Amazon EC2 server?
+Wide range of variables make this question hard to answer usefully - what OS is running, what do you want to use the upload for, does it have to be a system user, etc. FTP is an old protocol, not trivial to make secure, and can be fiddly to administer depending on which software you use. I'd go for SFTP instead, it's provided by OpenSSH and enables end-to-end encrypted file transfer.

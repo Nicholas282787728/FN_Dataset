@@ -1,0 +1,2 @@
+What is the worse case of binary search tree with duplicates O(n)?
+Yes, in the worst case, a BST search is O(n), but there are self-balancing forms of binary search trees that overcome this problem.  Read about it on Wikipedia:  Binary search tree 

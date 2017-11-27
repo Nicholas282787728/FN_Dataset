@@ -1,0 +1,2 @@
+★Do two bell curves with the same standard deviation and average have the same shape?
+Yep. Just think about the formula for the pdf. It has two parameters only: the mean and the variance.    Embed Quote

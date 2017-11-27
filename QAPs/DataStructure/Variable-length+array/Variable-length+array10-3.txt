@@ -1,0 +1,2 @@
+Can we say "C++ is super set of C"?
+It's more like C is a subset of C++, but not a STRICT subset. Thus C++ is not a superset of C. However, it's pretty close. If there were such a thing as a not-strict superset, it would be that. So let's invent that here and call it that. C++ is an improper superset of C. Done. 

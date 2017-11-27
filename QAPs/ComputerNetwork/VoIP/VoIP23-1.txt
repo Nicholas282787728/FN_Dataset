@@ -1,0 +1,2 @@
+★Which VoIP services offer high-quality voice?In Verizon FiOS: How clear is FiOS digital voice?, it is stated that FiOS uses the same compression algorithm as traditional landline service. Are there service providers who deliver better quality, ideally with both wider-band codec and some traffic policy / QoS
+Ask what codec they use. G.722, SILK etc will give better quality than G.711. Given decent hardware, a decent ISP and assuming you are talking to someone also using a wideband supplier [not over PSTN]    Embed Quote

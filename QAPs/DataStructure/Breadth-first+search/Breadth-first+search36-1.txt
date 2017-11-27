@@ -1,0 +1,2 @@
+What are some real-life examples of Breadth and Depth First Search?What are some real life examples of BFS, DFS and similar algorithms that help us find shortest path between two nodes? What are some of the unknown places where graphs have been used to model the situation?
+The 8-puzzle, 15-puzzle-solvers,  Directions feature of Google maps use BFS and DFS., or more broadly Graph theory. It is also used by P2P applications and Web crawlers. 

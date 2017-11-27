@@ -1,0 +1,2 @@
+★Why use a backend like Parse?
+As per your app idea, you probably should use Parse or any other backend to enable a user share photos and scores to a feed for other users to view. To cater for the network connections, you can provide some features of the app offline i,e, not requiring an internet connection.    Embed Quote

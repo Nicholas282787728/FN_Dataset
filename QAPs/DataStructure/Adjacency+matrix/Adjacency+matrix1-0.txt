@@ -1,0 +1,2 @@
+What is stochastic adjacency matrix?
+In general, a stochastic matrix is a matrix having column sums equal to 1. A doubly stochastic matrix is a matrix A  where both A  and A T   are stochastic. A stochastic adjacency matrix is the adjacency matrix of a graph that ends up being stochastic. This happens when the edge weights incident to each vertex of the graph sum to 1  . 

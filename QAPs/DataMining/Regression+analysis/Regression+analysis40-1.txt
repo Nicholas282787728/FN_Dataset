@@ -1,0 +1,2 @@
+★What is the simplest way to explain and interpret regression analysis to a group of people who don't have any background in mathematics?
+Probably graphically: If you have a piece of paper and a pen or pencil, you can draw a couple of examples of a set of points and a fitted line showing a positive, negative or neutral (in case of a plot of residuals, for example). Simplifying a story, Luke Gauß's estimation of Ceres could also be helpful.    Embed Quote

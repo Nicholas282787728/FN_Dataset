@@ -1,0 +1,2 @@
+★Which hosted continuous integration services show you individual Java test results?
+Solonolabs did it for ruby. May be they do it due java as well.    Embed Quote

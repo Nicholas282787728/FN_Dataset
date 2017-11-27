@@ -1,0 +1,2 @@
+What should every programmer know about hash tables and hash functions?
+Average constant time lookup/insert/delete - O(1). Beat that! Give a try to my own version of a sparse hash table (single header), fast and *extremely* memory efficient. Download at greg’s sparsehash. 477 Views

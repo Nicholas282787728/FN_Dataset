@@ -1,0 +1,2 @@
+★How can we as a poor startup follow competitor's e-commerce prices with web scraping/data mining technology?And implement them too ..
+Depends on how poor you are. If you are selling shoes to run business, you probably shouldnt go there. But however, you may get a good amount of data mining done with $1000. Try building on open source like scrapy.    Embed Quote

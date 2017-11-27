@@ -1,0 +1,2 @@
+★What is an application of vector space in computer science?
+I think the most popular applied algebra in CS is the theory of finite field that is commonly used in cryptography and coding theory. Although the main structure is the field, we also may see this structure as a vector space over its prime subfield. Understanding the linear algebraic properties of the field (normal basis, polynomial basis, etc) often helps a lot to design many effective algorithms in order to boost up the arithmetic procedure in the implementation.    Embed Quote

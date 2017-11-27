@@ -1,0 +1,2 @@
+How does defining order pairs in terms of sets help us in understanding them in a better manner?
+The answer is yes and no, but mostly no. Essentially showing that they can be represented as sets is the only important part. (If they aren't sets your notion of set theory is likely insufficient.) This construction also enables you to show they're a definable class  and thus reason over them. As far as things specific to ordered pairs I can't recall any interesting results specific to them that arrive from the construction 

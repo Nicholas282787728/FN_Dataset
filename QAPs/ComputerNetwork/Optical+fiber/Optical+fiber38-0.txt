@@ -1,0 +1,2 @@
+★What is the difference between 100 MBPS on optic fiber and 100 MBPS on coaxial cable?
+Primarily, the differences are at the physical layer. Wiggling a laser at 100Mhz is now pretty easy. Getting it to carry an interesting distance is pretty straightforward. Wiggling a wire at 100Mhz is much harder and getting it to propagate without degradation is a lot harder. We end up using carriers of much higher frequencies and then modulating on top of that. And at the link layer, cable is a multi-access shared medium, so there's that bit of complication.    Embed Quote

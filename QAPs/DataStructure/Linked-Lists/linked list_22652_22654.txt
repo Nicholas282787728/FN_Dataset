@@ -1,0 +1,1 @@
+how to tell which value belong to the key during hash you don t just store the value , you store they along with the key . so when you search for a key in the link list you traverse through the list and look for the key you want . 

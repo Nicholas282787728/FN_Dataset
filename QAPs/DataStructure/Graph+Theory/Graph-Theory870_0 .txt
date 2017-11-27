@@ -1,0 +1,1 @@
+What is the most popular graph database?Neo4j is the oldest and still the most popular. Right after Neo4j you can find OrientDB as a Graph Database that provides a multi-model perspective. You can find a ranking about popularity on DB-Engines web site. 210 Views

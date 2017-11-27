@@ -1,0 +1,2 @@
+★What is a recommended knowledge management system?I was looking at OpenKM but it doesnt look very customizable. I am looking at customising a KMS based on the client requirements.
+You may wish to check out our Knowledge Management System "PHPKB" at http://www.knowledgebase-script.com    Embed Quote

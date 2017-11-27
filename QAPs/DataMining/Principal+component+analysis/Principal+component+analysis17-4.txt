@@ -1,0 +1,2 @@
+★What is the difference between principal component analysis (PCA) and feature selection in machine learning? Is PCA a means of feature selection?
+They are not the same. Feature selection takes the dataset and gives us the best set of features which can be used for classification with low error rate. This set is a subset of original features. PCA just takes the data and gives important directions in which the feature is wide spread. PCA gives us the transformed feature set. Thanks for the comments. I have updated my answer.    Embed Quote

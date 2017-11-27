@@ -1,0 +1,2 @@
+★I do not have much coding knowledge but in my master's course there are labs which have Python and C and a lot more for networking/distributed systems, etc. How do I bridge this gap, because I feel bad letting my lab partner do all the work?I am just not getting the hang of coding.
+Codecademy.com You'll not only get a hang of programming, but might be on par with him after spending 15 hours learning python coding from here.

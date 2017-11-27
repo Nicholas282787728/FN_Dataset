@@ -1,0 +1,2 @@
+★Where can I register a .rs domain name?
+.rs whois service: http://who.in.rs/

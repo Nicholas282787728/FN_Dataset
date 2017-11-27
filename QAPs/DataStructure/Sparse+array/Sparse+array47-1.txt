@@ -1,0 +1,2 @@
+Electroencephalography: What can dense array EEG detect that sparser EEG arrays cannot detect?
+They can more densely sample the scalp potential, of course. Most likely, at the sensor level you will be able to measure ERPs and other major changes in the EEG using both dense and not-very-dense (e.g. 32 channel) EEG caps. However, you can pinpoint the origin of activity more precisely with denser arrays, especially if you use source reconstruction. 

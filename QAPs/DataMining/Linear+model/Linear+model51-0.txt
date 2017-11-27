@@ -1,0 +1,2 @@
+★What are logistic and linear regression models used for in GWAS?GWAS = Genome Wide Association Study
+Independent variable = genotype (a categorical variable with values homozygous reference, homozygous alternate, heterozygous). Dependent variable = height (linear regression) or heart disease (logistic regression). For example, http://www.nature.com/srep/2013/...    Embed Quote

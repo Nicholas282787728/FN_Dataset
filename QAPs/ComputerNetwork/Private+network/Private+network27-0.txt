@@ -1,0 +1,2 @@
+★Virtual Private Networks (VPNs): Are there any SaaS IPSec (iOS compatible) solutions available?Setting up a well performing iOS compatible IPSec is a pain. Just wondering if there are any SaaS based solutions?
+Haven't used it myself, so your mileage may vary: http://www.goldenfrog.com/vyprvp...    Embed Quote

@@ -1,0 +1,2 @@
+★What communication protocols are used with telecommunication satellites?
+Because of the availability of commodity components and stacks DVB is the most common modulation and transport framing. Sometimes it is just the DVB frame structure but it can be the entire DVB-SI transit system with DVB-IP. I have seen some frame relay systems using X.25, often embedded in DVB framing.

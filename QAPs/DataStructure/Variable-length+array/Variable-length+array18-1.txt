@@ -1,0 +1,2 @@
+Is this code snippet valid in later versions of C++?
+In C++, variable length arrays are not legal.   Though you can make it work by : 1. Declaring integer as constant const int n=10;int arr[n]; 2. Dynamically allocate memory int n = 10;double* a = new int[n]; Variable length arrays work with g++ but not with gcc. EDIT 1 : This snippet is not valid C++. Although it'll compile, as it'll compiled by g++. 

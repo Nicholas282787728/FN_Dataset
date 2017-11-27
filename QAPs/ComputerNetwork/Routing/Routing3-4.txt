@@ -1,0 +1,2 @@
+★What is the difference between switching and routing?
+Look at this diagram which is a real life scenario.  Host A speaks to Host B through switching.  Host A communicates with Server through routing.    Embed Quote

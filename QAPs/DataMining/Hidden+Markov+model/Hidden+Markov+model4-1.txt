@@ -1,0 +1,2 @@
+★What some good tools to draw a Hidden Markov model?
+Graphviz.    Embed Quote

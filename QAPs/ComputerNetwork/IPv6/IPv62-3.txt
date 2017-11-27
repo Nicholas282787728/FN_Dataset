@@ -1,0 +1,2 @@
+★Does Android support IPv6?
+I guess the answer is yes. But, it's not about Android. It's more about Linux. Linux kernel supports IPv6 well. On the other hand, most IPv6 problem is on server side.    Embed Quote

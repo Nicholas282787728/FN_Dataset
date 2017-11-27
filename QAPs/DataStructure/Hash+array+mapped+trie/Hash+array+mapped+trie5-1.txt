@@ -1,0 +1,2 @@
+What are common hash table questions asked in a technical interview?
+1  number from 1 to 100 are stored in an array of size 100 but a number is repeated .what is this number ? 2. Find the merging point of two link list . 3. There are two strings containing letters from a-z .find number of common characters among them For more go to geeksforgeeks.com 

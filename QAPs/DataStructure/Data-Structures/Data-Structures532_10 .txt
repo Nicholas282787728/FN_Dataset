@@ -1,0 +1,1 @@
+How can I learn algorithms and data structures from scratch?I would suggest you to read the following books. Data Structures and Algorithms-Concepts,Techniques and Applications by G A V Pai Data Structures and Algorithms Made Easy by Narasimha Karumanchi 197 Views  View Upvotes

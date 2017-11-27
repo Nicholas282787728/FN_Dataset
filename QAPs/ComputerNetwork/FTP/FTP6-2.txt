@@ -1,0 +1,2 @@
+★What is the easiest way to do an FTP to FTP transfer online?I mean transferring online, so I don't want to download then reupload. But I can't write code or find a tool, anyone will help me? Thanks
+There are already some tools in the market. MultCloud is one of them. It is a web-app, you don't need to install a client. When you add FTP servers in it,you can manage them in one place, so transferring from one FTP to another become simpler. Refer to tutorial：FTP to FTP Transfer Online With The Help of MultCloud

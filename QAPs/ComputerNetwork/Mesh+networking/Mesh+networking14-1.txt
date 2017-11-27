@@ -1,0 +1,2 @@
+★What support is Fon giving mesh network protocol research?Does Fon have an interest in wireless mesh networks? Key members in Guifi (Spanish Mesh Network) appear to like the Fon hardware!
+Guifi (guifi.net) is not related to Fon. And Fon has not expressed any interest in the project. In the current project use Alix or Routerstation with miniPCI. I don't know if that's what you asked me.    Embed Quote

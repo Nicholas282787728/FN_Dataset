@@ -1,0 +1,2 @@
+★What is the difference between k-means clustering and parallel k-means clustering algorithm?
+One of the basic difference I find is that the running time of parallel k-means is better than that of k-means. The Time complexity and experimental details can be seen on this journal Page on Nectec    Embed Quote

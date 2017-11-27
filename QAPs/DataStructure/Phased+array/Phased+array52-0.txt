@@ -1,0 +1,2 @@
+Is there a minimum distance to receive AM radio waves?
+Steve Schafer has it in regards to nodes for phased arrays. If you change your question to something along the lines of "are there areas where reception would be compromised?", another consideration to take into account is the skip zone. Wikipedia has a great starting read on this: Skip zone. 

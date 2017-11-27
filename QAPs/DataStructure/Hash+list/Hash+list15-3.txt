@@ -1,0 +1,2 @@
+How exactly were LinkedIn's password hashes compromised?See this article: http://translate.google.com/tran... I'm looking for how the hackers had access to LinkedIn's password hash data. That must mean some kind of data breach. How did that happen in the first place? What other data was compromised?
+Originally Answered: How did Linkedin passwords get leaked?I think the question is how they were stolen in the first place. http://www.pcworld.com/article/2... Since they did not contain other data, it's an interesting puzzle. 

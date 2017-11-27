@@ -1,0 +1,1 @@
+Does running BFS on a graph always leave us with a tree? Is that the same as spanning a tree? What is the name of the specific tree?Yea, it will always leave us with a spanning tree, but not a minimum spanning tree. 

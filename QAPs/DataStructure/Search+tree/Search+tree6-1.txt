@@ -1,0 +1,2 @@
+Can a binary search tree contain negative numbers?
+You can have any comparable values inside of a binary search tree. If it's not comparable already, you can use operator overloading in C++, or anything similar for other languages to make your values comparable. 

@@ -1,0 +1,2 @@
+★What are the best ways to monetize excess bandwidth capacity?When a company owns much (upstream and downstream) capacity are there ways to resell excess capacity to companies that need either. Any brokers or wholesale platforms?
+If you don't want to go to the trouble of building and marketing your own IaaS cloud, and you sometimes have extra server capacity too, we've got something for you: www.spotcloud.com, together with the free SpotCloud Edition of Enomaly ECP. <disclaimer>The preceding was a shameless plug</disclaimer>

@@ -1,0 +1,2 @@
+What are some things that programmers and computer scientists know, but most people don't?
+...that the simply looking Google homepage contains a lot more code (even after obfuscation) than most colourful websites. I've actually heard of a mother fighting her googler son, a PhD holder because he works in the search department. To her, this is doing absolutely nothing. From what she knows, Google is just one random, simple, black and white site that has refused to change since forever! 

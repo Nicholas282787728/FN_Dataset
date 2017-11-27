@@ -1,0 +1,1 @@
+What would the equation be for a graph of a sin curve that gets larger with each cycle?A(x)sin(x)  A(x)sin⁡(x) where A(x)  A(x) is any monotonically increasing function. 19 Views

@@ -1,0 +1,2 @@
+★Is there a way to remove heart rate data from Strava?I'd like to record HR data but not publish it publicly (similar to what Garmin Connect does).  Is this possible with Strava?
+Jack, Currently, a Strava user has an 'all or nothing' option to either publicly or privately post activities. In other words, You can not optionally hide/unhide various datapoints in an activity (e.g. Power, HR, etc) from being seen publicly or not. It could make for a great Premium User feature to allow for those options (hint hint, Mark Shaw). Ride on, Greg

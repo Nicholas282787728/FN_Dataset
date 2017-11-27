@@ -1,0 +1,1 @@
+How do you declare an array in Javascript?var someArray = ["item 1", "item 2", ... ]; //just do [] for an empty array See Mozilla's Array documentation for more info. 62 Views  View Upvotes

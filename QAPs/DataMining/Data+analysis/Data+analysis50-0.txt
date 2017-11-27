@@ -1,0 +1,2 @@
+What is the best Python IDE for doing data analysis/science and ML on Macs?
+Spyder is the closest thing to RStudio that I've found; other IDEs always feel more focused on software development rather than analytics.    Embed Quote 

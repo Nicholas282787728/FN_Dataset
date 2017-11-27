@@ -1,0 +1,2 @@
+When can I use structures and when can I use unions?
+thanks A2A when multiple structure are threre and u want to access only one structure at a time  from them ,then //////////////////////////////// struct a,b,c are declared here /////////////////////////////// union A {        struct a;        struct b;        struct c; }; //////////////////////////////// 

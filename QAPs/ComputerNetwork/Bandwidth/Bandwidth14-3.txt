@@ -1,0 +1,2 @@
+★What are the best ways to monetize excess bandwidth capacity?When a company owns much (upstream and downstream) capacity are there ways to resell excess capacity to companies that need either. Any brokers or wholesale platforms?
+If you have a lot of upstream bandwidth free, you can try to setup yourself as a cachine node for one of the CDNs and see if that will work out with you.

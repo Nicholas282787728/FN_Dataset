@@ -1,0 +1,2 @@
+★How do proxy servers work? And, why most college campuses provide internet through proxy servers?Please explain the technical aspects of the Networking that goes in operation of proxy servers.
+A proxy server allows you to connect to the internet 'by Private Proxies'. It means that your requests to access a web page are sent through another computer first. There are many proxy servers. If you are talking about setting up some program that asks for a proxy server, this is usually not a mandatory part of the set up so you can usually skip it.    Embed Quote

@@ -1,0 +1,2 @@
+How would you design a data structure to support dynamic insertion and deletion of intervals, where overlapping intervals get merged on insertion?
+You can simply insert the intervals into a balanced binary search tree. One tree ordered by their left endpoint and another by the right. You can easily query which intervals overlap with your current one. Then, delete those intervals and insert the merged interval. This O(log(n)) amortized as each interval is inserted and deleted exactly once. 

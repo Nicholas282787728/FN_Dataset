@@ -1,0 +1,2 @@
+★How does one start writing practical machine learning programs?
+I would highly recommend Professor Andrew Ng's online machine learning course (https://www.coursera.org/course/ml) for a good overview. To start writing programs, there is no better resource than Kaggle.com.    Embed Quote

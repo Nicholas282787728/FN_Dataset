@@ -1,0 +1,2 @@
+★How can I convert an image to plain text in Python?I have some email addresses converted to images of display on webpage, no noise or additional data, just the plain email address but i want to convert that image back to plain text. i lost the script but have a saved version of the web page.
+What you're trying to do is called "OCR" - Optical character recognition. A quick Google gives us: http://code.google.com/p/ocropus/ http://code.google.com/p/pytesser/    Embed Quote

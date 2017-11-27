@@ -1,0 +1,2 @@
+Which Twitter analytics service tracks a definable keyword over time?
+Originally Answered: Is there a service that graphs a keyword's popularity on Twitter over time?Google gives you a graph of keyword popularity over time. E.g.: http://www.google.com/#sclient=p... 269 Views · 1 Upvote

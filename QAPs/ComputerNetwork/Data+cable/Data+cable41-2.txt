@@ -1,0 +1,2 @@
+★Why does Microsoft Surface have USB ports?Does adding a USB port give Surface an edge over the other tablets?
+Quite simply, the USB port is the most common (or shall we say, U(niversal)SB?) way to get two devices to interact with each other. I bet that all else being equal (performance, cost etc.) most people would prefer the USB connection being used by every single device for every single purpose, to simplify the management of cables in our lives.

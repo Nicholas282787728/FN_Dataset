@@ -1,0 +1,2 @@
+★What is the exact difference between continuous fourier transform, discrete Time Fourier Transform(DTFT), Discrete Fourier Transform (DFT) Fourier series and Discrete Fourier Series (DFS) ? In which cases is which one used?
+what about DFT? could you exolain a little about its significance, its relation to DFS and DTFT, and what type of output it has.

@@ -1,0 +1,1 @@
+Can I mix categorical and cotinuous variables as preditors when the decision tree is based CHAID with a continuous target variable?While this might be software dependent there is no reason why you can't and it is certainly possible in rpart and party packages in R 177 Views

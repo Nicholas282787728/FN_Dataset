@@ -1,0 +1,2 @@
+★Why does plugging two ends of an ethernet cable into a router cause it to crash?
+Imagine it this way: You connect a water hose to two nozzles, one on each side, and turn them both all the way on. I wouldn't necessarily say it is a "crash", although it could be depending on your router, but there is a problem with that unless the router is smart enough to shut it off when it detects that. Simple solution: There is no reason why plugging it in like that is necessary, and it accomplishes nothing... so just don't do it.

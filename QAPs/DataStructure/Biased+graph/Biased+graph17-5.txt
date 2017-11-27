@@ -1,0 +1,2 @@
+What are the concise meaning and interpretation of bias and variance in machine learning and statistics?
+Bias is the difference between the true (or wanted) value and the measured (or actual) value of a statistic or machine's output, when that difference is systematic (i.e. not random) . Variance is the expected difference when  such a  difference is due solely to random processes. 740 Views · 9 Upvotes

@@ -1,0 +1,2 @@
+What is the most difficult algorithm you have implemented?
+In high-school, maxflow codes, a version of Heavy-light decomposition with a seg-tree, that I thought I was the first to find. In college: An improved algorithm to compute Solid Partitions, which was published in this paper, the iTEBD algorithm to get the ground state for the Ising model. 

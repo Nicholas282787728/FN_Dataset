@@ -1,0 +1,2 @@
+How can I store 100 factorials in an integer?
+In C++, long long int is of 64bits, (see: Data Type Ranges ). So you can store 20 digit numbers(unsigned). 100! is a 158 digit number, so you cannot directly store it in a primitive data type. Still, you can employ data structures: use an array. Here is help: Computing Factorials of a huge number in C/C++: A tutorial Good Luck! 

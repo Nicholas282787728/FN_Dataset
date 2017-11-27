@@ -1,0 +1,1 @@
+Is an array a collection of pointers?It can be, but it's usually not. int a[10]; is not a collection of pointers. It's just a set a contiguous memory locations available for storing your values. int * a[10] declares an array of 10 pointers. Also note that int (*a)[10] is a pointer to an array of 10 elements. 

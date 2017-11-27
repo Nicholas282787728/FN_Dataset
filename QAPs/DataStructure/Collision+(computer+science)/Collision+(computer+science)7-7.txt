@@ -1,0 +1,2 @@
+How important is linear algebra in computer science?what is the relation between computer engineering and linear algebra
+Very important in Machine Learning. For example : Dimensionality reduction (e.g. Principal component analysis) Clustering Classification Prediction Recommender systems (e.g Collaborative filtering) etc.. 

@@ -1,0 +1,2 @@
+Why string is not a primitive data type in Java?
+No, string is not a primitive data type in Java, even though it is one of the most extensively used objects. Strings in Java are instances of string classes defined in Java.lang package. This is the reason why string is not a primitive data type. 165 Views

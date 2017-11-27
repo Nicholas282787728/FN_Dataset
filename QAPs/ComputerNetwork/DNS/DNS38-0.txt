@@ -1,0 +1,2 @@
+★Domain Name System (DNS): What does Xip.io do?How are you supposed to use http://xip.io/? What are some use cases where it would come in handy?
+To elaborate on Chris' example use-cases, here is how you might actually use xip.io with an Apache setup: <virtualhost *:80>     DocumentRoot /path/to/mysite     ServerName mysite.dev     ServerAlias mysite.*.xip.io </virtualhost> Access the site on your device at: http://mysite.[your ip].xip.io or just: http://[your ip].xip.io:3333 if unnamed and running on that port

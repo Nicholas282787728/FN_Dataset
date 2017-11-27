@@ -1,0 +1,2 @@
+Is it possible to implement a segment tree with STL pair?
+Everything is possible in coding!Give it a try. I think there is no relation between any two element so it is quite difficult to implement. Check out my implementation of SegmentTree in C++ using vector on GH : mafiya69/Codes. 

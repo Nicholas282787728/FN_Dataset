@@ -1,0 +1,2 @@
+Why would anyone use int or long data types in C?
+They're chasing performance in an old fashioned way. They are dinosaurs or are misled by old learning material or code They need compatibility with some interface defined by int/long and find it saves some casting. Most existing libraries have the old types in the prototypes. 14k Views · 9 Upvotes

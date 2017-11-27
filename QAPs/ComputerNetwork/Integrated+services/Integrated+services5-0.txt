@@ -1,0 +1,2 @@
+★What free hosted continuous integration service is the best for Ruby on Rails 4?
+I'm a bit biased as the founder, but wercker (Welcome to wercker) is free as well (also for private projects). Check out our devcenter for more information on setting up your Ruby project: wercker devcenter    Embed Quote

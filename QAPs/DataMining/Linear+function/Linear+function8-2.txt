@@ -1,0 +1,2 @@
+★How does one know that a linear function represents a line in the plane? How can it be proven?
+Consider three points in a x-y plain say A(x1,y1), B(x2,y2) and C(x,y). These are three points so it can form a triangle which has certain area. Area to triangle ABC = (1/2)[x1(y2-y)+x2(y-y1)+x(y1-y2)] For points A, B and C to lie on a line we need to put area of triangles ABC equal to 0 This implies that, x1(y2-y)+x2(y-y1)+x(y1-y2)=0 So on solving it you will get linear equation on x and y. Hence for a straight line in a plane we will always get a linear equation.    Embed Quote

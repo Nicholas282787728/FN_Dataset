@@ -1,0 +1,2 @@
+What are five problems every programmer should be able to answer?
+Let's not forget input / output. A substantial amount of developer sweat and blood is spent writing user interfaces, data / network storage and retrieval mechanisms, and making and using good ole APIs 

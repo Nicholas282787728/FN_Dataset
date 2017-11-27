@@ -1,0 +1,1 @@
+Is MongoDB a good replacement for Memcached?

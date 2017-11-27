@@ -1,0 +1,2 @@
+★What is a Markov chain?
+"mathematical systems that hop from one state (a situation or set of values) to another." This visual explains it beautifully Markov Chains    Embed Quote

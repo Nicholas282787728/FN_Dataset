@@ -1,0 +1,2 @@
+★What is the difference between gradient descent and gradient boosting?Are they applied to the same type of problems or those are completely different methods?
+Gradient descent is a generic optimization algorithm for arbitrary differentiable functions, whereas gradient boosting is a stagewise classification algorithm.  They're similar in spirit, but they're used for different things.    Embed Quote

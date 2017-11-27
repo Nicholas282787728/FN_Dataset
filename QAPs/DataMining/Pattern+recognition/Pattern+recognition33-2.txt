@@ -1,0 +1,2 @@
+★Which books do you suggest for pattern recognition?
+Pattern Recognition and Machine Learning by Christopher M. Bishop Probabilistic Graphical Models by Daphne Koller and Friedman    Embed Quote

@@ -1,0 +1,2 @@
+My calculus teacher said that it's impossible to integrate the function sin(x 2 )  . How, then, is my TI-84 graphing calculator able to find the area underneath its curve between two points?
+Using the laws, identities, and integration techniques we all learned in calculus, the function cannot be integrated. Calculators, as well as most analytical programs (ie: Wolfram, Mathematica) use approximation techniques such as Riemann Sums. For more information: Riemann sum Updated 8 Mar • View Upvotes

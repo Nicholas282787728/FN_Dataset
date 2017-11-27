@@ -1,0 +1,2 @@
+Given a string, how do I find the number of distinct substrings of the string?
+You can visit this link.A very nice explanation of this problem. Suffix Arrays - A simple Tutorial 

@@ -1,0 +1,1 @@
+What are the most dangerous mistakes ever made using the Java language?Yes, I would like ask the most dangerous bug you made when using java language? Not more common mistakes; ^_^ One of mine is using "non-synchronized (not thread-safe) collection object in my multithread environment; And it finally cause CPU exhaustion at an unknown moment!

@@ -1,0 +1,1 @@
+What should you do if you want to join against your main database from Hadoop?There are at least a few reasons why just querying it adhoc might be bad: network saturation on your Hadoop cluster, performance of MapReduce, load on your databases.

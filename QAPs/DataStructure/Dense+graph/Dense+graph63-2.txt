@@ -1,0 +1,2 @@
+Bulk Synchronous Parallel Computing: What kinds of BSP algorithms have been developed?
+Also, parallel model checking; sieve of Eratosthenes; sudoku; algorithmic skeletons etc. 

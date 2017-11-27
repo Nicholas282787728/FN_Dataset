@@ -1,0 +1,2 @@
+Is a HashSet a set based on hash table or a hash table based on set?
+The last part of the word will typically be the datatype, so a HashSet is a set. The Hash part of it is the implementation, so a HashSet is a set implemented as a hash table, or HashMap if you're talking about Java. 123 Views · 1 Upvote

@@ -1,0 +1,2 @@
+★Support Vector Machines: What is the best way to implement an SVM using Hadoop?
+I would recommend using the best SVM library which is libsvm, it has several versions with different varieties.    Embed Quote

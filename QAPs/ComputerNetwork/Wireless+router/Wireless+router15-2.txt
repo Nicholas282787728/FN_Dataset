@@ -1,0 +1,2 @@
+★Is there any wireless router which is impossible to hack?
+Well not sure about hacking, but it seems that you are more concerned about anyone stealing your wireless connection. I used to work for D-Link tech support and would receive several calls on this matter and here is how  we guided them, 1) Choose WPA2 Security 2) Wireless Key must be unique alphanumeric combination 3) Whenever away from house , turn off the router 4) Change the Wireless Key after any event, s.a Christmas Part or Birthday Party (Bcoz many guest use your network)    Embed Quote

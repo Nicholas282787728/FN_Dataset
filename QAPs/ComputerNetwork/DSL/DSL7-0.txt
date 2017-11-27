@@ -1,0 +1,2 @@
+★What's a good DSL for a beginner?
+A DSL, as in a domain-specific language? DSL isn't a programming paradigm like functional or object-oriented, there's really  no point in learning a DSL just for the sake of learning "a DSL". The whole point of domain-specific languages is that they're, well, domain-specific; they're designed to perform well in a particular application domain. SQL is a DSL for database queries, VHDL is a DSL for hardware design/description, etc.

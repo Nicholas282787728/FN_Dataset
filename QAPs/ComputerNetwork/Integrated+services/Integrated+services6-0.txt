@@ -1,0 +1,2 @@
+★What are some hosted continuous integration services for Django that support selenium testing?
+Check out the Codeship (I am part of the crew) (Hosted continuous integration and deployment. Built for the cloud.). We've covered Selenium in this week's episode of Testing Tuesday (Codeship's Testing Tuesday #5: Test your web apps with Selenium). We use Selenium ourselves (with Rails though) and it works great. Many of our customers use it as well.    Embed Quote

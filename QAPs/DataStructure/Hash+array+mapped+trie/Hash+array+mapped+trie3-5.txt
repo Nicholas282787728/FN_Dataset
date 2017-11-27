@@ -1,0 +1,1 @@
+Is object immutability in functional programming inherently performance intensive?

@@ -1,0 +1,2 @@
+What is the exact difference between parallel and concurrent programming?
+Just in addition to Jesse Tov's comprehensive answer, this blog post also explores the differences between the two quite well: http://existentialtype.wordpress... One should note that the two terms are somewhat interchangeable in some contexts, however it does give rise to some confusion as they are, properly speaking, different concepts. 

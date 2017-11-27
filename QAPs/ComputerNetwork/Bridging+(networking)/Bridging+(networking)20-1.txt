@@ -1,0 +1,2 @@
+★What IP address will a VM use in bridged mode?
+In case of bridged network configuration, you can set either static IP or use DHCP. In both cases, you will get an IP that belongs to same subnet (or something that uses same netmask) to the VM.

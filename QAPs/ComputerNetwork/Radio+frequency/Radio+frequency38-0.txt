@@ -1,0 +1,2 @@
+★What is the most commonly available tool that can measure & characterize the noise floor of the 2.4 GHz radio frequency band?
+I used to use iStumbler for this. But then they started charging for it.    Embed Quote

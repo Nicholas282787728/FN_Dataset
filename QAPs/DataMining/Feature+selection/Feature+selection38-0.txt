@@ -1,0 +1,2 @@
+★What are the easiest feature selection methods for multi-class classification?I would like to use and compare at least three methods. I prefer to avoid embedded methods.
+1. Variance Threshold 2. ANOVA F-Value 3. Chi-Squared 4. Information Gain    Embed Quote

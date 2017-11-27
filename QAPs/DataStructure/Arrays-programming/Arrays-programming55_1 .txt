@@ -1,0 +1,1 @@
+How do I exclude the elements of one array from elements of second array?You can’t exclude elements from an array using basic Java. You need to use the high end API for it. The best way is to use the ArryUtils API. Here is an example: array = ArrayUtils.removeElement(array, element) You can also use a collection instead of an array. 21 Views

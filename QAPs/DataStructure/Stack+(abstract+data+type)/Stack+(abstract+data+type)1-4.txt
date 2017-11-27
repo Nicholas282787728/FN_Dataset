@@ -1,0 +1,2 @@
+Abstract data types are different from data structures. Using a stack ADT as an example, how do abstract data types differ from data structures?
+A textbook homework question most likely. A data structure primarily describe how that particular data is composed and stored. An abstract data type defines both the data structure and associated operations on that data structure. 

@@ -1,0 +1,2 @@
+Career Advice: Embedded systems or VLSI design?
+It's mostly about what gives you more chills. If you love reading about designing ICs, CPUs, SoCs et cetera - go for VLSI design. If you're rather more focused on practical use of various SoCs and creating new inventions based on already-existing things - go for embedded systems. Both have a lot of opportunities and pay fairly well. 

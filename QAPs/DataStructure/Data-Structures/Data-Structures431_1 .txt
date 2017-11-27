@@ -1,0 +1,1 @@
+What are some good MOOCs on data structures/algorithms that'll get a CS graduate hired?Let me keep it simple and straight forward. Read cormen (clrs) and practice coding on coding judges like hackerearth, hackerrank and codechef. This is enough to get you hired in a good company. happy coding… :) 609 Views · View Upvotes · Answer requested by Madhav Polawar

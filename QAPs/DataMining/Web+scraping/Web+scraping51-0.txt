@@ -1,0 +1,2 @@
+★What are some good research papers on web scraping?Please provide links.
+many papers are in environmental department A free Canadian climate data scraping tool Web-based personalized hybrid book recommendation system Fusion of meteorological and air quality data extracted from the web for personalized environmental information services If you are fine with MashUps A systematic review of tools, languages, and methodologies for mashup development Social media analytics: a survey of techniques, tools and platforms [Open Access] hope this helps... ravij.    Embed Quote

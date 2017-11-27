@@ -1,0 +1,2 @@
+★How to connect two computers on a home network?I have a desktop computer(win 7) and a laptop (win 8) in my home. I want to access one from another. Ex. I want to access and transfer files and folders in my laptop from my desktop and viceversa.
+If all you need is to access files across computers, you can use OneDrive on Windows. Other alternatives include Dropbox, Box (company), and SugarSync.

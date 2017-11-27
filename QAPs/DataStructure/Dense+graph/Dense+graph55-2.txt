@@ -1,0 +1,2 @@
+What's the best parallelized sparse SVD code publicly available?
+gensim (http://nlp.fi.muni.cz/projekty/g...) is an extremely fast  library for online decomposition of sparse matrices larger than RAM. 

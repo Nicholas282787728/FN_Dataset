@@ -1,0 +1,2 @@
+★What exactly is a logistic regression algorithm in machine learning. What are its applications?Want to know what is logistic regression and what are its applications.
+You could also take a look at Michael Hochster's answer to Given a dataset with variables (x,y) of type (real number, boolean), how can a curve be fitted that predicts the probability of y=true for a given real number x? for a start.    Embed Quote

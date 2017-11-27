@@ -1,0 +1,2 @@
+★What is the best NoSQL database to store unstructured data?
+Be careful of MongoDB, Global write locks, No ACID compliance. Space efficiency issues, BSON becomes larger than the raw JSON itself in many cases. Duplication of attribute names across all documents in the collection. Inefficient memory management. It uses memory mapped files. For the above you describe, you could consider AmisaServer    Embed Quote

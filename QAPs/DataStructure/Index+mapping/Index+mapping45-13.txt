@@ -1,0 +1,1 @@
+Why do Hash Tables need to store the Key of a record?Can't we just insert the Value (without the Key), after we calculate the hash for the table (using the Key)? I guess what I'm trying to get at is, what is the use of the Key after calculating the hash? We can just retrieve the record's Value if the requesting application knows the Key. Am I getting this wrong? Thanks.

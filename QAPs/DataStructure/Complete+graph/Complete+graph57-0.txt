@@ -1,0 +1,2 @@
+How does R plot its graphs? Using a backend like Gnuplot or completely autonomous?
+Autonomous, at least not GNUPlot (evidence on the original r list: https://stat.ethz.ch/pipermail/r...). 

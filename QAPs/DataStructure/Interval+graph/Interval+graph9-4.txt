@@ -1,0 +1,2 @@
+What is the best (programming) algorithm that you have ever created?
+A picture is worth a thousand words. The algorithm is a combination of 'random search' and 'steepest descent'.This thing makes me feel proud since I am a materials engineer by background, not a professional programmer. The images to be joined (in the screenshot) are the scanning electron microscope images. (Micro-structures in other words) 

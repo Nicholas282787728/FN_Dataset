@@ -1,0 +1,1 @@
+How to sort an array of integers provided as string as input from command line, using C language?Input from command line will be provided by running program a.out as ./a.out "13 12 16" And the program gives back output as Output: 12 13 16C Program to Sort the Array in an Ascending Order - Sanfoundry 41 Views  View Upvotes  Answer requested by 1 person

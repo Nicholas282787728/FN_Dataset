@@ -1,0 +1,2 @@
+What are the best resources to learn about graph theory?
+Dan Spielman teaches a graph theory course at yale, and the lecture notes/psets are all online: http://www.cs.yale.edu/homes/spi... He tends towards spectral graph theory and there is a decent amount of probability involved 9.9k Views · 8 Upvotes

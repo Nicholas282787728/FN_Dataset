@@ -1,0 +1,2 @@
+What are some of your favorite data structures?
+Most useful: HashMap Best name: Dequeue Double-ended queue Deque (Java Platform SE 7 ) 

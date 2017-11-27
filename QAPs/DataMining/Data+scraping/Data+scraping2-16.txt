@@ -1,0 +1,2 @@
+Which are some of the best web data scraping tools?
+FMiner(visual web scraping, web data extractor with macro recorder) is an other visual web scraping software, it has a macro recorder to record your actions for scraping pages.    Embed Quote 

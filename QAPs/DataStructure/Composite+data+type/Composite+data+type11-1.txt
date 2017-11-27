@@ -1,0 +1,2 @@
+What is an algebraic data type?
+According to Wikipedia (Algebraic data type) an algebraic data type is a kind of composite type, or one that is composed of other types. The simplest example of this is a singly linked list, which contains (minimally) a pointer to another element in the list (or references NULL, or another terminating vaue). A more complex example of this is a tuple, which is much like an array but is a) of any size and b) may contain mixed data types. The common thread between these two data types is that they may contain more than one data type. 

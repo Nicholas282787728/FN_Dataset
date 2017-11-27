@@ -1,0 +1,2 @@
+★Do users pay attention to and interact with URL paths?Technical users appear to, but how much benefit is gained for regular users by having a well-crafted hierarchy of clean URLs for your website? Specifically, this is referring to the URL path - not the domain.
+I think many users use URL's to aid with their understanding of the information architecture of the site...much like they do with breadcrumbs.    Embed Quote

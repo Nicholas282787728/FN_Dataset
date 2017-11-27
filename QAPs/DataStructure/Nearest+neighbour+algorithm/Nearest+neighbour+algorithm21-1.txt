@@ -1,0 +1,2 @@
+What simple and intuitive machine learning methods deliver the most value?
+i like k means clustering- and it is easy. gradient descent is awesome and simple. mostly let the computer do the processing. but for ML methods - the best in simplicity and most intuitive remain decision trees (assuming you dont want to get into chaid/cart) regression is also quite a simple way 

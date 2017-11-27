@@ -1,0 +1,1 @@
+What is the code to sort a linked list in ascending order in C++? Can it be done only with trees?std::map and std::set keep keys in a order that allows them to be sorted on iteration. Usually they are based on trees. There are few reasons to keep lists and sort them later. If you iterate through them, they are sorted on keys. 220 Views  View Upvotes

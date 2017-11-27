@@ -1,0 +1,2 @@
+★How should the parameter be chosen in partial least squares regression?
+It seems you need to try across different number of factors, how much of the variance can be explained. In the example below 5 factors explain 99% of response.  Page on ucla.edu (SAS)    Embed Quote

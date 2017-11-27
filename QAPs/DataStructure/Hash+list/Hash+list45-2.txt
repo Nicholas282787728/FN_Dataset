@@ -1,0 +1,1 @@
+What do you think of Why LinkedList became a famous data structure even though it is used very less in the programming world?We use Array /ArrayList , Hash Maps, Trees much more than LinkedList in normal day to day programming to solve real world problems. But Why LinkedList became a famous data structures in college courses and Job interviews?

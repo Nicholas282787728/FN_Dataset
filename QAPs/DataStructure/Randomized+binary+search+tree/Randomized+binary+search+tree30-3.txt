@@ -1,0 +1,2 @@
+What do students of Computer Science really learn?
+They learn (or get better at) efficient problem solving I'm reasonably sure I can say that all of the other things mentioned here are different ways to do that using a computer. You need to know how things work in order to use them :) 

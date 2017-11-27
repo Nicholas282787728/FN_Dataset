@@ -1,0 +1,2 @@
+★What are the best graduate schools for studying machine learning?
+Berkeley (Jordan, Wainwright), Stanford (Ng, Koller) , Toronto (Hinton, Neal, Frey,Zemel, Boutilier) in N.. America and Edinburgh (Williams, Storkey, Murray, Sutton, Sanguinetti), Cambridge (Ghahramani, Rasmusen) , UCL(Shawe Taylor, Barber, Teh, Gretton) in UK.    Embed Quote

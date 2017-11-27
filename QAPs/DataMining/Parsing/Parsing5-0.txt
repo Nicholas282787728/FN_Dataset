@@ -1,0 +1,2 @@
+★Is parse expensive?
+If you're good enough to build your own API to replace what parse is offering then you're good to go. But you have to consider cost of maintenance and backend improvement. Parse is providing everything from flexible API, storage, maintenance, support and even all of this is free under 20Req/sec which is pretty damn high. Then, if you're building multiple app projects, Parse is definitely way to go.    Embed Quote

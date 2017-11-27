@@ -1,0 +1,1 @@
+What are the applications of a singly linked list?One such use on top of my head is inside a Hashmap in Java. When more than one keys hashes to same value, a collision occurs. At that time the keys are chained like in a linked list, it's called hash chaining. There might be several other uses of a linked list in programming. 394 Views

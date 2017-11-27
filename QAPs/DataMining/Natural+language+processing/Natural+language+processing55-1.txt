@@ -1,0 +1,2 @@
+★What fields need NLP (Natural Language Processing) or Textmining techniques?
+One major application for text mining techinques is computational biology. "text mining for computational biology" - Google Search http://www.google.com/search?q=%...    Embed Quote

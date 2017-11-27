@@ -1,0 +1,2 @@
+★Why doesn't Shopify allow for FTP access?
+I'm not sure why they don't allow FTP but it is frustrating, so I created a solution that allows you to use FTP to upload/download theme files and assets from Shopify. See: sstur/shopify-ftp and please submit an issue if you run into any bugs.

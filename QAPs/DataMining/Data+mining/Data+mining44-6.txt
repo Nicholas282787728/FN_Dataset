@@ -1,0 +1,2 @@
+What are some good project ideas related to data mining?
+For starters you can work on simple forecasting - stock prices, weather data, world gdp, population etc. This requires simple regression modeling and projecting. You may also wish to work on some anomaly detection problems. Cancer detection from gene data, intrusion attempts from network traces etc. are some problems from the top of my mind.    Embed Quote 

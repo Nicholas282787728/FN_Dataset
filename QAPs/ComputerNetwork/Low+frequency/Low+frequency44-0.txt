@@ -1,0 +1,2 @@
+★Is it possible to counteract or cancel out a low frequency sound with a higher frequency sound?
+No.  What you would get is a harmonic oscillation (without going into the math behind it).  To cancel any given frequency, you need the same frequency at the same amplitude at 180 degree phase offset, so the peaks and troughs coincide exactly opposite each other and where the zero crossings are aligned.  This is with any set of waves, not just sound.    Embed Quote

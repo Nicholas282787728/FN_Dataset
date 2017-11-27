@@ -1,0 +1,2 @@
+What algorithms do data scientists actually use at work?
+For big data, take a look at the Random Forest algorithm that is very common in this space. Here is a talk about it: Big Data - Distributed Random Forest by Jan Vitek 

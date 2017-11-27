@@ -1,0 +1,2 @@
+★In a support vector machine, the number of support vectors can be much smaller than the training set. How can this feature be useful?
+Apart from obvious, we can assume two things by looking at number of support vectors. Something about difficulty of the problem and amount of overfitting. Too many support vectors can tell us that we might be overfitting or the problem was actually difficult.    Embed Quote

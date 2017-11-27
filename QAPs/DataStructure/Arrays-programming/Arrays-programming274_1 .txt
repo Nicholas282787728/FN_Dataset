@@ -1,0 +1,1 @@
+In the following cases, which is true in the C programming language?Such programming questions should not even be posted. The time taken to post should have been dedicated to write a small program to test these. If there is a non-standard behavior then that should get posted. 240 Views  View Upvotes

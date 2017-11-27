@@ -1,0 +1,2 @@
+★Why do we use the normal distribution?
+The normal distribution is also important not necessarily due a random variable following a normal distribution, but also because the Central Limit Theorem tells us that that sampling distribution of other non-normal distributions approaches a normal distribution as the sample size increase. That is a very powerful statement and allows us to perform Hypothesis Testing testing on all sort of data.    Embed Quote

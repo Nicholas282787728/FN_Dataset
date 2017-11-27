@@ -1,0 +1,2 @@
+Which function gives the best looking graph of all?
+How about a few 3-D graphs :) 1)A Heart... z=5 + (-sqrt(1-x^2-(y-abs(x))^2))*cos(30*((1-x^2-(y-abs(x))^2))), x is from -1 to 1, y is from -1 to 1.5, z is from 1 to 6 http://goo.gl/8IY0ZU 2) A Flower... z=100-3/(sqrt(x^2+y^2))+sin(sqrt(x^2+y^2))+sqrt(200-(x^2+y^2)+10*sin(x)+10sin(y))/1000, x is from -15 to 15, y is from -15 to 15, z is from 90 to 101 http://goo.gl/0S8lnE Another Flower... z=sqrt(x*x+y*y)+3*cos(sqrt(x*x+y*y))+5 from -20 to 20 http://goo.gl/JVcsEr 

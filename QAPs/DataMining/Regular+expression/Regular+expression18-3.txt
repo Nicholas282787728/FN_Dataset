@@ -1,0 +1,2 @@
+★Are regular expressions concepts generic?Or the concepts differ for different programming languages? I want to master regular expressions in Python. I need some guidance. Thanks.
+I dunno. I use only Java mainly. So, I don't have idea about the other languages. I guess only the symbols may differ in different languages. Nothing more. Since, on any given day, those concepts will remain same. So, I guess there wont be much of a difference if you use other languages.    Embed Quote

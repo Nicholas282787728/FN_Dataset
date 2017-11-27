@@ -1,0 +1,2 @@
+How do I implement a singly or doubly linked list for the scenario given in the details?
+Singly and doubly linked list are poor choice of data stucture as per u r problem.use balanced binary search tree like red black,avl,234 trees 

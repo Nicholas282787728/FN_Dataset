@@ -1,0 +1,2 @@
+★How can I create a simple proxy server in Java?can it be created without socket programming
+You could use some existing code for reference. Here's on project: LittleProxy HTTP Proxy - It uses Netty instead of traditional Java sockets.    Embed Quote

@@ -1,0 +1,2 @@
+How should I store huge numbers (more than 100 digits) in Java and C++?
+Use BigInteger. For BugInteger there is no theoretical limit. The BigInteger class allocates as much memory as it needs to hold all the bits of data it is asked to hold. There are some practical limits though. - the memory  available - some methods assume that the bits are  addressable by int indexes, so things will start to break when you go above Integer.MAX_VALUE bits. But in normal use-cases these limits may not affect you. 

@@ -1,0 +1,2 @@
+What are user-defined data types?
+User defined data types are data types created by developer using primitive data type, and are used for specific purpose. Example: Employee of a bank has various attribute, like name, employee number, salary, address, phone number. So we can create a structure named Employee so each employee has all these attributes and we can access each employee based on employee number. struct Employee{ string name; string emp_num; string address; string ph_num; double salary;... (more)

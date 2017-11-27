@@ -1,0 +1,2 @@
+What is the vector abstract data type?
+A C++ vector is a resizable array of any arbitrary type, meaning that you can add and remove as many elements of that type as you'd like, in contrast to a regular array which has a fixed size. The basic usage of a vector is illustrated below: vector<int> vec; for (int i = 0; i < 10000; ++i) vec.push_back(i); for (int elem : vec) cout << "Vector contains element " << elem << endl;... (more)

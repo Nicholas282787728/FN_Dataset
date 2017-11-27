@@ -1,0 +1,2 @@
+★How can we choose a "good" K for K-means clustering?Some datasets have an "obvious" set of clusters that would be found by K-means clustering with the right choice of K. How can we, given a set of data, choose such a K?
+being non-parametric bayesian and using infinite mixture model and infering K. Performance should be more like K-means/gmm but more general as it is non-parametric version of gmm(say!!). Page on Ucl or DP-mixture model(similar thing with more theoretic backing)    Embed Quote

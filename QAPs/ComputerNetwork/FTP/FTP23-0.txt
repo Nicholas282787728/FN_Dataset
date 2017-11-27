@@ -1,0 +1,2 @@
+★Problem With FTP File Upload. Invalid Filename Error?
+You should chdir to the sri folder and then do the put command without a folder name.

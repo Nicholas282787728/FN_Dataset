@@ -1,0 +1,2 @@
+When is a random forest a poor choice relative to other algorithms?
+When the dependent variable is continuous Although you can extract information from the trained forest, interpretability is an issue when compared to other models. When the relationship between dependent and independent variables is highly linear. 

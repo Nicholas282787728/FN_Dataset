@@ -1,0 +1,2 @@
+How do the top competitive programmers represent tree or graph data structures in their c++ code?
+Mostly vectors map or list containers of STL are used to represent graphs and trees.They are neat quick and efficient and easy to use and learn also.They also make your code short ..so saves lots of efforts... :) 

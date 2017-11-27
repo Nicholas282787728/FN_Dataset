@@ -1,0 +1,2 @@
+What features are present in C, but not available in C++?
+Designated initializers, variable length arrays, anonymous stucts, flexible array members, static array indices, restricted pointers, compound literals, to name a few big ones. Updated 68w ago • View Upvotes

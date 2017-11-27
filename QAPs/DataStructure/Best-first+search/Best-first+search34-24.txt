@@ -1,0 +1,2 @@
+What are some of the best algorithms?
+Most of the coolest algorithms are already mentioned. I would like to make one more addition. “Boyer-Moore majority vote Algorithm”. This algorithm finds out the majority element (the element that occurs more than n/2 times) from a sequence of elements in O(n). At first I was amazed when I studied this algorithm. The idea was simple yet very clever. Check here: Boyer–Moore majority vote algorithm - Wikipedia 219 Views · 2 Upvotes

@@ -1,0 +1,2 @@
+★How can I solve this Hidden Markov model problem?
+Assuming what you are looking for is the most possible decoded sequence given the model and an input, you should then use Viterbi algorithm, which will be verbose to explain in words. Yet, here this file gives a complete and clear explanation directly related to your question: http://www.cs.sfu.ca/~anoop/teac....    Embed Quote

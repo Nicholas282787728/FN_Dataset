@@ -1,0 +1,2 @@
+★How do you convert passive FTP server to active FTP server?not looking for the ftp command but the server settings
+There are no server settings for this.  It is up to the client to specify whether active or passive mode is used when communicating with the server.  The server simply does what the client it tells it to do.

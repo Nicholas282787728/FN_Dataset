@@ -1,0 +1,2 @@
+★Which IP addresses are special?For example 127.0.0.1
+192.168.*.* usually belongs to home networking devices. The entire 18.*.*.* subnet belongs to MIT.  I think several other universities have their own subnets but if I recall correctly MIT's is unique somehow.

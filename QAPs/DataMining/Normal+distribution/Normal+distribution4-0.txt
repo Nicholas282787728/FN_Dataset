@@ -1,0 +1,2 @@
+★What is the normal distribution?
+A random variable follows the standard normal distribution if .  A random variable follows a general normal distribution if there are constants and such that follows the standard normal distribution.    Embed Quote

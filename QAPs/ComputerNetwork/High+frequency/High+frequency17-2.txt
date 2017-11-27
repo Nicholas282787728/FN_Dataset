@@ -1,0 +1,2 @@
+★How are algorithms developed for high frequency trading mechanisms?
+The answer several years ago would have been: a room full of PHD's and a huge budget. Now it's more likely someone took a model built on a fairly simple platform. HFT is really just much higher speeds to reap additional benefits on standard models. A platform like QuantConnect could get you a model with the professional functionality to do HFT.

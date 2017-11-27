@@ -1,0 +1,1 @@
+Why is there no theory on fenwick trees (Binary indexed trees)?Binary indexed trees are used in a lot of online judges questions, still I find no mention of it in any standard algorithms textbook. The only reference material that I found for studying fenwick tree is the topcoder algorithm tutorial. Why is this so? Is it not used in industry?

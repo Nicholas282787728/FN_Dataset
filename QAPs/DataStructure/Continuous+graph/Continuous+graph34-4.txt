@@ -1,0 +1,2 @@
+Which function gives the best looking graph of all?
+y = (sqrt(cos(x))*cos(400*x)+sqrt (abs(x))-0.4)*(4-x*x)^0.1 See here: http://goo.gl/RGpDwI 

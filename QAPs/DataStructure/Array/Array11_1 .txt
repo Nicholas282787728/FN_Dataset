@@ -1,0 +1,1 @@
+What is the best way to store an array of arrays in a MySQL table?One way is as a relation ⟨i, j, value⟩ with a unique constraint on ⟨i, j⟩.   

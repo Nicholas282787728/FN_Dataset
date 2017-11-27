@@ -1,0 +1,2 @@
+★What is the difference between VoD and iPTV?
+Iptv is to carry/transmit television signal via iptv. Vod means video on demand. On demand usually also means "as and when you want it." Vod doesn't necessarily use ip as a transport. There are many ways to deliver video. Ip is one of the popular method used.

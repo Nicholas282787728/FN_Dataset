@@ -1,0 +1,2 @@
+What advantages C++ offers as compared to C in competitive programming landscape?
+Many of the competitive coding problems that I've encountered have this fascination with extremely large numbers or input sets. No matter what the problem difficulty is - easy, hard, very hard - one of the hurdles in solving them is to handle large input sets. In this regard, Python wins. Whenever problems involve large numbers, I immediately fall back to some language that inherently supports them. 

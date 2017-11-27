@@ -1,0 +1,2 @@
+★What's the difference between logistic regression and matrix factorization?Just choose a different function to optimize?
+Logistic regression is a supervised method Matrix factorization is an unsupervised method    Embed Quote

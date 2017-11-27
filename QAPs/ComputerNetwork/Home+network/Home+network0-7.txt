@@ -1,0 +1,2 @@
+★What is the best way to secure Wireless (Wi-Fi) Home Network?
+WPA2 PSK MAC Filtering. Sperate out Wi-Fi password and Admin password. Change admin/root name. Hide your Wi-Fi SSID.

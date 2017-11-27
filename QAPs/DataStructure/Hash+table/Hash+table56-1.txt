@@ -1,0 +1,2 @@
+Is hash table a linear data structure?
+Thanks for A2A :) It is linear hashing , that is Basic implementation is linear data structure, but it depends up on the data, requirements etc.. and there are several ways of storage.  Let me give a basic definition of linear data structure:  Linear data structure: A linear data structure traverses the data elements sequentially, in which only one data element can directly be reached. Ex: Arrays, Linked Lists where as... (more)

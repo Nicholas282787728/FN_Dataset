@@ -1,0 +1,2 @@
+What is the most complex line of C code you have created or encountered?
+I was walking past the office of the Chairman of the Computer Science department in my University the other day, and saw this: 

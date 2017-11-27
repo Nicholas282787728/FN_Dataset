@@ -1,0 +1,2 @@
+What are the properties of continuous functions?
+At any given point, f(x) should exist. If f(x) is not existing, then you can't draw a continuous graph for the given function. 

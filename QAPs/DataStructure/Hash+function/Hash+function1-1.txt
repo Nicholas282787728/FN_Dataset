@@ -1,0 +1,1 @@
+How are cryptographic hash functions developed?How does one discover a hash function? It supposed to be a "one-way function".  SHA-0 and SHA-1 were developed by the NSA.  How many people worked on them?  What was the process?

@@ -1,0 +1,2 @@
+How is a Hash Table implemented in Java?
+You can look it up directly, java.util.HashMap java.util.AbstractMap 1.7k Views · 1 Upvote

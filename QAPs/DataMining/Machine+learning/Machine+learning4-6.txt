@@ -1,0 +1,2 @@
+★How does one start writing practical machine learning programs?
+Start coding with an open source software that supports machine learning. GATE (gate.ac.uk/) has good features. I believe RapidMiner (www.rapidminer.com/)does as well.    Embed Quote

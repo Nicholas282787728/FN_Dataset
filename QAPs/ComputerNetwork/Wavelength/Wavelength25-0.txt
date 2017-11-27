@@ -1,0 +1,2 @@
+★The effective area of an antenna is directly proportional to the square of the incident wavelength. There are many textbooks that derive the relation between effective area and wavelength. But is there an intuitive explanation of this antenna gain and wavelength dependence?
+Sure, a short antenna, a small fraction of a wavelength long, is not going to intercept much of the amplitude of the wave.   For instance a quarter-wave antenna will span from the peak to the zero of the wave.  A tenth of a wavelength antenna only spans a much smaller amplitude range.    Embed Quote

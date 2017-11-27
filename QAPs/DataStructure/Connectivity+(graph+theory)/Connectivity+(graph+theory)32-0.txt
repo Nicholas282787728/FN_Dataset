@@ -1,0 +1,2 @@
+What are endpoints in graph theory?
+When two vertices are connected by an edge, the vertices are considered to be endpoints. Vertices with degree 0 (i.e. they are not connected to any other edges) are not endpoints. 

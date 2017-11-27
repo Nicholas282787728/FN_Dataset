@@ -1,0 +1,2 @@
+What have been the most interesting papers in computer science for 2011?
+Communication Locality in Computation: Software, Chip Multiprocessors and Brains Daniel Greenfield, University of Cambridge http://www.bcs.org/content/ConMe... Big implications for the efficiency of search. And, yes, I realise that the dissertation was completed in 2010, but as far as I can tell, it was only really made public in 2011. 

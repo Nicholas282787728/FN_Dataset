@@ -1,0 +1,2 @@
+★What is a mesh network and what is it used for?
+A mesh network is any network that is an interconnection of nodes, only some of which have an uplink out of the network. In some mesh networks, the links between nodes are transient and unreliable, causing routing to fluctuate rapidly. In all mesh networks, there are nodes that have to traverse a number of other nodes to exit the overall network, thus requiring cooperation of the mesh for full functionality.    Embed Quote

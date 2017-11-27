@@ -1,0 +1,1 @@
+In graph of output characteristic of common emitter, Current rises with increase in Vcc &then become constant. how constant? For pn jnction in reversed bias minorities r limited so graph constant bt for npn minorities in the base r nt limited as theycome frm emitter continuously.

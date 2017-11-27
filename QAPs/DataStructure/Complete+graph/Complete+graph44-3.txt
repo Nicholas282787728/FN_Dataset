@@ -1,0 +1,2 @@
+What is the most esoteric programming language that you have tried?How did you learn about that programming language? What made you try programming using that language? Did you like programming using that language? Describe your experience.
+C++. People are never serious about coding on whitespace or malbolge, but actually many consider C++ a non-esoteric language, despite its esoteric-ness grows exponentially with every added page of new standards. 

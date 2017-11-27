@@ -1,0 +1,2 @@
+What books do you recommend to get introduced in the data mining "world"?
+Machine Learning In Action by Peter Harrington is quite an excellent introduction.    Embed Quote 

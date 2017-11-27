@@ -1,0 +1,2 @@
+What are some examples of great new-user experience flows on the web?
+I'm actually a fan of http://www.invisionapp.com/ (a prototyping web app). Immediately after creating an account, it hits you with a video explaining what to do next. After closing it, you're dropped on a page identical to that in the beginning of the video. I won't always have the patience for this but for a tool like this, I thought it was very effective. 

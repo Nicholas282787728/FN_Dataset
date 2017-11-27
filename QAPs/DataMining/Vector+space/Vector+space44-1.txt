@@ -1,0 +1,2 @@
+★Why is the matrix vector space written like R^(m×n)? For example, isn't a square 2x2 matrix really still contained in R^2?
+There's a deeper reason as to why we differentiate between , and .  Suppose that and that .  If we just identify them with points in , we might be tempted to think that the quantity is defined.  It's not, and we've lost that information.  That's why we're so picky about differentiating between matrices and vectors with the same number of elements.    Embed Quote

@@ -1,0 +1,2 @@
+Can the % operater be used on all data types in C?
+No, the ℅ (modulus) operator in C works only with integer data types (int) for finding remainder. Trying the operator with double or float datatypes will cause a compilation error. 18 Views

@@ -1,0 +1,2 @@
+★What replacement for UDID are iOS developers using—mac address, OpenUDID?As some time from now Apple might disable UDID usage in a future version of iOS (currently iOS 5.1), what are you guys using right now to prepare for that?
+OpenUDID (https://github.com/ylechelle/Ope...) is a good alternative solution to this problem    Embed Quote

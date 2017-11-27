@@ -1,0 +1,2 @@
+★What's the communication protocol used by Slack?Is it XMPP? Or something else?
+Connecting to Slack over IRC and XMPP "Slack offers an IRC and XMPP gateway for users who prefer to use a third-party messaging client." Note - while it offers these gateways, it's not clear that Slack itself uses this as the core protocol. I would assume it's proprietary, but I've never actually used Slack.

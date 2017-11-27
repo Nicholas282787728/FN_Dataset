@@ -1,0 +1,2 @@
+★What are the top 10 data mining or machine learning algorithms?
+According to Jeremy Howard of Kaggle, Random Forest and Deep Learning Neural Nets are the best performing. and win the most competitions.    Embed Quote

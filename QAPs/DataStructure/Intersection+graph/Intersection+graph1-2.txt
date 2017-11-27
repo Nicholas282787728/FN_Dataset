@@ -1,0 +1,1 @@
+Given the equation of a line 5x + 3y=15, at what point does the graph of the line intersect the y-axis?

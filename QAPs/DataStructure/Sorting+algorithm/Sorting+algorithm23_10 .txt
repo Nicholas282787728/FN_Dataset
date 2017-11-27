@@ -1,0 +1,1 @@
+Which sorting algorithm has a time complexity of O(n)?In worst case, there exist no algorithm which can have O(n) algorithm For best case you can look Sorting algorithm 

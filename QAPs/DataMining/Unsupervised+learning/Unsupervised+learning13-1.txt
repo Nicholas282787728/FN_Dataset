@@ -1,0 +1,2 @@
+★Where can I find a good online course on Unsupervised Learning?I am currently doing the online course "Learning for Data" from Caltech, that focuses on Supervised Learning, I also wish to do a similar level course on Unsupervised Learning.
+Machine Learning by Tom Mitchell (Machine Learning) is an advanced course which builds on the supervised learning course. For the fundamentals I would suggest Andrew Ng's Coursera ML course (Coursera).    Embed Quote

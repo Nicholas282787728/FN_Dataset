@@ -1,0 +1,2 @@
+Do any of these sets of ordered pairs satisfy an exponential function?
+Y=-x^2 satisfies all of these pairs. Good luck with your homework! 

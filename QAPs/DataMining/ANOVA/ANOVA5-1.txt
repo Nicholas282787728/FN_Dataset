@@ -1,0 +1,2 @@
+★In an ANOVA, what does a significant p value mean?Newbie question. In a simple (say one-way) ANOVA, what does a significant p value mean? That the groups are the different? Or that the groups are the same?
+Null hypothesis Ho: Means of the 2 groups are the same. Alternate Hypothesis Ha: Means are different. If P< alpha means we reject the null hypothesis. where, in this case, we reject the claim that means of the 2 groups are the same.    Embed Quote

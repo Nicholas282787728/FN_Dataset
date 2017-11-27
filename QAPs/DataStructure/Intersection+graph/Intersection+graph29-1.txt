@@ -1,0 +1,2 @@
+How can you solve 8 x +9 x =10 x   ?Without trial and error or approximation methods, please show details.
+The principal here is exactly the same as in my answer to this question. Jack Huizenga's answer to Algebra: How do you solve 4 x +9 x =13 x   formally, without using trial and error? In short, you don't (the answer is likely not even expressible in terms of elementary functions), but it is possible to understand the solution geometrically. 

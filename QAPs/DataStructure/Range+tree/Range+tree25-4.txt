@@ -1,0 +1,2 @@
+Algorithms: Where can I learn more about cool (novel?) data structures and algorithms?
+Wikipedia's list of algorithms, list of data structures and list of terms relating to algorithms and data structures are a good place to start. If the entries are not detailed enough you can usually find more information by checking out the referenced articles and external links. If you're looking for lectures and conference talks then videolectures.net is also a great resource. 

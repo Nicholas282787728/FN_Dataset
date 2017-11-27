@@ -1,0 +1,2 @@
+What are the differences between the double and float data types?
+Originally Answered: What is the difference between a float and a double?A 'double' is a floating point number wit twice as many bits as a 'float'. It is a double precision floating point number. 1.4k Views

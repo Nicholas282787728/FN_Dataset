@@ -1,0 +1,2 @@
+What is the difference between a data type and a data structure?
+Different types of data (such as int, float, string etc.) can be arranged/stored in various logical ways called data structures. Linear data structures (where data is arranged side by side): arrays, linked lists, stacks, queues etc. Hierarchical data structures (where data is arranged in a hierarchical manner): trees, heaps, graphs etc. 381 Views

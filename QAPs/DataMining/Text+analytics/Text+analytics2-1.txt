@@ -1,0 +1,2 @@
+★What are the new commercial applications for text analytics?What  has been done commercially that is recent?
+Take a look at PoolParty, a thesaurus and linked data based text analytics framework: http://poolparty.biz/ - it can be integrated with Confluence, Sharepoint etc. in-house, and is also available as SaaS.    Embed Quote

@@ -1,0 +1,2 @@
+What is the point of doing machine learning, when you have something so robust as the nearest neighbour algorithm?
+There's a simple argument that shows that distance based algorithms like k-nn are ineffective in very high dimensional data. Assuming iid features, pairwise distances end up tightly clustered around a mean. I've derived a Hoeffding bound in this blog post: A Comment on Dimension-Estimation  It is trivial to see why this is bad for nearest-neighbor algorithms. 

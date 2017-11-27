@@ -1,0 +1,2 @@
+What are some good hash table libraries for C?
+Off the shelf, use the ones you can from hsearch(3): hash table management Some are posix standard, and some are gnu extensions A hash table library is pretty trivial to write, as in a day with 100% coverage unit tests. For a hash function with such a library, I've been happy using FNV for the last decade or so. Fowler–Noll–Vo hash function - 242 Views · 2 Upvotes · Answer requested by Joseph Thweatt

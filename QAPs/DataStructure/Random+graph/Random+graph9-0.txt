@@ -1,0 +1,2 @@
+What are exponential random graph models, and what are their applications in studying complex networks?
+No one knows how to do statistics on exponential random graph models.  See Consistency under Sampling of Exponential Random Graph Models for an explanation of why traditional methods don't work. 

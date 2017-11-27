@@ -1,0 +1,2 @@
+★Linear Regression: When using sliding window linear regression how do we determine a reasonable window size?
+You should cross validate and define what is the maximum error you are willing to accept in comparison with the error you might have with a longer window.    Embed Quote

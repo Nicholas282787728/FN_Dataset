@@ -1,0 +1,2 @@
+What is the difference between primary key and unique key in MySQL?
+Primary key is an index that helps locate table rows easily, however, primary key is also unique. but a table can only have one primary key which is incremental by default. unique key is just as it sounds, it must be unique, no duplication of data. example is making the email column of your database unique. you can have more unique keys in your table. 

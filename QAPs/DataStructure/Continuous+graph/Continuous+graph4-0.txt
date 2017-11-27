@@ -1,0 +1,2 @@
+Intuitively and on the graph, why if a function is differentiable then its continuous?
+Intuitively, the derivative of a function at the point where x=a is the 'direction' the curve was going through when reaching that point. If a function is not continuous at that point (i.e. the curve is 'split' at that exact point) then the 'direction' the curve was facing is not clear. Everything I've said above is intuitive, and not mathematically rigorous. 

@@ -1,0 +1,2 @@
+★What are the best virtual private networks (VPNs) for use in China?Am looking for something that's easier to set up and has more stable access that works well on PC, Mac and Smartphones.
+StrongVPN and Astrill are probably the most popular right now. Both are multiplatform and will work on Mac and iOS. Astrill has a really convenient iOS client/app that pretty much does all the setup for you. Alternatively, you can get a free EC2 instance from Amazon Web Services and setup a VPN server on it. Guaranteed reliability and speed.    Embed Quote

@@ -1,0 +1,2 @@
+★Are there any projects to provide a simplified more "standard" command line interface to git, ala "aptitude" for apt-get?I believe there's a sizable minority of git users who find the command line syntax complex, and the naming conventions confusing. E.g., terms and commands which don't stand for what they might seem, such as reset, revert, ref, refspec, etc. This contrasts with svn which has a "straightforward" and simpler interface.
+Git Workflow for Humans is one such project.

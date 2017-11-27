@@ -1,0 +1,2 @@
+★If f(a+b) = f(a) + f(b) and f is differentiable, what is f'(x)?Let be a continuous function such that , for all . Find the derivative of with respect to .
+Since, . Hence, , which implies . Hence, implies . Therefore,  , where m is the coefficient of x in the McLourine exapansion of the function f(x).    Embed Quote

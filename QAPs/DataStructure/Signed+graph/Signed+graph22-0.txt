@@ -1,0 +1,2 @@
+Does correlation imply causation or just higher risk?
+No. Basically, if A is correlated with B, then it could mean A causes B but it could also mean that B causes A or that C caused both A and B or that there was just a coincidence. This graph is a humorous example of two things being correlated that are almost certainly not causal: http://www.overthinkingit.com/wp... There is a whole Wikipedia entry about this that is in-depth but pretty verbose and not as clear as some of the best Wikipedia articles: http://en.wikipedia.org/wiki/Cor... Updated 230w ago • View Upvotes

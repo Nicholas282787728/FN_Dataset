@@ -1,0 +1,2 @@
+What is a segment tree and what are its applications?
+You can find a very good blog about segment trees at Let us code 

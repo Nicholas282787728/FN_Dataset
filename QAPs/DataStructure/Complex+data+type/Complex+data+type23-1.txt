@@ -1,0 +1,2 @@
+Debugging: In totalview debugger, is there a way to view  data inside STL containers (vectors/maps etc) in a logical fashion, i.e., for maps logical fashion would be a tabular view showing keys against values?
+I think eclipse works wonderfully for this. Btw, this is a question much suited for stackoverflow.com :) 

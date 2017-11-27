@@ -1,0 +1,2 @@
+★What is a coder's worst nightmare?
+One of my first research papers, the first question from the audience was: Didn't Knuth prove that what you're claiming is impossible? Could've been worse, I guess - at least the questioner wasn't Knuth :).

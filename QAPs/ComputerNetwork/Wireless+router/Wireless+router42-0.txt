@@ -1,0 +1,2 @@
+★What is the most important component for maximum wireless router range?Other than line of sight. Ie. Antenna decibel, a/b/g/n/ac generation, dual band, beam forming, number of antennas, etc
+Interference. Everything else in the world can be optimal and you put a microwave next to one end and it's all over.    Embed Quote

@@ -1,0 +1,2 @@
+★What are the best command line and text user interface apps for Linux?GUI apps can often take up too much memory or CPU. Command line programs or apps with a text-based user interface (for example, cMus or rtorrent) can be a speedy alternative to slower GUI apps.
+I prefer KDE as my desktop, but when I need the command line my go to application is Yakuake. The KDE Extragear - Yakuake Then it's just a matter of running the application.

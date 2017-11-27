@@ -1,0 +1,2 @@
+Where can I find some practice problems involving Segment Tree on TopCoder and Codeforces?
+You asked about TopCoder and CodeForces, but for additional practice, here are some problems from UVa OJ that can be solved using a segment tree: UVa 01232 - SKYLINE UVa 11297 - Census UVa 11402 - Ahoy, Pirates UVa 12532 - Interval Product Source: Competitive Programming 3 (book), Chapter 2 

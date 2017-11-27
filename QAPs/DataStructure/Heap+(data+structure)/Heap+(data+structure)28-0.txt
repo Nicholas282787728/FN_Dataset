@@ -1,0 +1,2 @@
+What *other* data structures must a programmer know (other than lists, queues, heaps, etc.)?
+My professor loved hash tables. We had to write tests and finals with hash tables. Probably good to know is double linked lists and trees. Stacks are something you will need when you code closer to the hardware. I am sure that others will add many more... . 315 Views · 2 Upvotes

@@ -1,0 +1,2 @@
+Which university is better for Masters in Computer Science - Rutgers or Stony Brook?
+I bet Rutgers would be a good choice for you since 1) Rutgers CS  graduate school is good 2) theoretical computing is especially excellent here Let's see who are here Michael Fredman Swastik Kopparty Martin Farach-Colton These guys are big names in algorithms, especially the first one (inventor of many algorithms you read on CLRS). The second one is a new faculty who is really smart like hell and the third is the director now. 

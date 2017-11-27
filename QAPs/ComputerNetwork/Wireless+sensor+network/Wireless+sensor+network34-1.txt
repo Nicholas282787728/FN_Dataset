@@ -1,0 +1,2 @@
+★What is mobility support for wireless sensor networks? I want to undrestand the concept.
+WSN is a field that subsumes mobility. However, generally, WSN nodes are assumed to be static. If they are mobile, they are limited to (for practical reasons) very specific applications like ZebraNet. WSN itself does not *support* mobility; it is an additional challenge beyond that for static WSN (which are already quite a challenge due to their energy constraints!)    Embed Quote

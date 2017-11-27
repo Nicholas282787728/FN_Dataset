@@ -1,0 +1,1 @@
+Given the equation (X*k +y) / (m*k+n) = 1, if X,y, m and n are integer numbers, |X ! = m. How do I prove that k is a rational number?Using discrete mathematicsI assume the second relation is supposed to state that X is not equal m. In which case you can prove it directly by expressing k as the ratio (n-y)/(x-m). 48 Views  Answer requested by 1 person

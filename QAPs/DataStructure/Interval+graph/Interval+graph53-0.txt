@@ -1,0 +1,2 @@
+Is this a typo in MyMathLab?Isn't this the upper sum, rather than the lower sum?
+There is material cut off above the cited portion, but it appears that expression is indeed an upper sum. 

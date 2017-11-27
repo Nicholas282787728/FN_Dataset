@@ -1,0 +1,1 @@
+What are the major differences between segment trees, interval trees, binary indexed trees and range trees?Would appreciate if someone could differentiate between them on the following points: 1. Definition/Key idea 2. Application Domain 3. Efficiency

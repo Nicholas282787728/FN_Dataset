@@ -1,0 +1,2 @@
+Which two programming languages together are powerful and cover the largest field in programming?
+Python. Difficult to argue you can do just about any high level thing you could want with python. Web dev, Data, Algorithms, Scripting etc. Worth mentioning Julia. This one can do most of what python can do and even a bit more when it come to parallelism (on GPUs) and back end implementation. Simply it is new so much less used then python at the moment. 

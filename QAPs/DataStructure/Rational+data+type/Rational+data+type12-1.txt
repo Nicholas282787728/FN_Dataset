@@ -1,0 +1,2 @@
+What is being done to improve PHP?
+Virtually every proposed or completed improvement to PHP just makes the language more like Python. So just use Python. 

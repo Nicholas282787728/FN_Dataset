@@ -1,0 +1,2 @@
+★What networking protocols are used in submarine communication cables?
+The other answers are both correct, but omit SONET, and less frequently, direct IP over Ethernet.  On top of everything is IP.

@@ -1,0 +1,2 @@
+What techniques can be used to perform exploratory data analysis on high dimensional data?
+PCA (principal component analysis) with a scree plot would be the first thing that I would turn to- see how many dimensions it takes to get to 95% of your dataset variance.  Related to factor analysis- see wiki below. Factor analysis    Embed Quote 

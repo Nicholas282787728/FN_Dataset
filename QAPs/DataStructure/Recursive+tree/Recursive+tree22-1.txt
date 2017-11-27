@@ -1,0 +1,2 @@
+How can I get the running time of the recursive equation merge sort for [math]T(n) = 2T(n/2) + n?[/math]
+You can use Master theorem You can use Recursion tree Method Below is the recursion tree for merge sort [Edit: Used Online LaTeX Equation Editor for latex stuff .You can click on images for clarity ] 

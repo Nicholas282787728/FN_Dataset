@@ -1,0 +1,2 @@
+What are the data structures used in data warehouse? In what way, they differ from data structures used in relational database?
+First of all you are comparing an elephant with horse. There is a big difference between Data warehousing and relational database. Data Warehousing is nothing but a mechanism to store historical organisational data under a unified schema at a single site. Data warehousing has broadly two categories. one is ETL and the other one is reporting. Relational databases are the container to store data warehouse. 

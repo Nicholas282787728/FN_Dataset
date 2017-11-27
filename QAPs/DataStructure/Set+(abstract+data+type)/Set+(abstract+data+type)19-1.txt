@@ -1,0 +1,2 @@
+Is there a good algorithm to find the overlap between two curves?
+I think it is just the abstract data type intersection. So just have each cruve in a set and use the logical operator && to see if they intersect in each others set. \U0001f47d 

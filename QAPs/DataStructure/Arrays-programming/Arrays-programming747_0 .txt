@@ -1,0 +1,1 @@
+How can I dynamically declare an array in Fortran 77?The short answer is: you can't. See, for instance, Fortran 77 Tutorial. The article says: "This is because Fortran - meaning Fortran 77 - does not have dynamic storage allocation." 1.3k Views  View Upvotes

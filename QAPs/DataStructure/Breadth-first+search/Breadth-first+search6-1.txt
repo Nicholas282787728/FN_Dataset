@@ -1,0 +1,2 @@
+What are the good ways to optimize BFS (breadth first search)?Imagine the real life graph like Facebook. How do we perform a BFS in large graph. Can we use technique like parallelism, divide and conqueror etc?
+Yes BFS is the suitable solution for this, but an efficient solution is bidirectional BFS , start a BFS from both nodes simultaneously and return if we meet in middle somewhere. 

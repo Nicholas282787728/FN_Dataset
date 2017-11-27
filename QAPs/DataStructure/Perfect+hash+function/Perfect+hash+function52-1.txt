@@ -1,0 +1,2 @@
+Does Flame imply SHA-1 is no-longer secure?
+No, the Merkle-Damgard construction is inherently flawed and thus SHA-1's inherent design implies it is no-longer secure. I should also mention the NSA cryptanalysis unit has had ASIC's since 2004. 

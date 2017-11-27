@@ -1,0 +1,2 @@
+★What is the minimum bandwidth needed to be considered "broadband"?
+Narrowband is 64K (a DS0), wide-band is 1.544M (a DS1), and broadband is anything higher than 1.544M. In the data world anything higher than 1.544M is broadband. In the Telecom world, broadband does not start until the DS3 and above level which is 54M.

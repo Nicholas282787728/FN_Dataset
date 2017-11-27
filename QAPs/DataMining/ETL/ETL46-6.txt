@@ -1,0 +1,2 @@
+★Which OpenSource ETL tool is easier to use & more agile? Pentaho Kettle/Jitterbit/Talend/Clover/Jasper/Rhino?Easy, meaning any technical person w/out B.I. background can use it. Agile meaning can be used in agile BI implementations
+Talend is Great. Jasper and Pentaho is mostly used open source ETL tool.    Embed Quote

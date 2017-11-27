@@ -1,0 +1,2 @@
+What is an intuitive explanation for bias-variance tradeoff?
+I find this useful to get a simple explanation of bias-variance tradeoff: Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning - Machine Learning Mastery Hope it helps you too. 743 Views

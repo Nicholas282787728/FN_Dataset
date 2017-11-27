@@ -1,0 +1,2 @@
+Why aren't cryptographic hash functions used in data structures?
+Cryptographic hash functions such as SHA1 are expensive to compute compared to the simple hash functions being used in most hash-tables. It turns out that in practice, if you want to make your code run fast, it's important to keep the hash-functions computations very simple and fast, and in fact, most implementations optimize for a faster hash function than for its hashing quality. 

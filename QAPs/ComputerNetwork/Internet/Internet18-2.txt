@@ -1,0 +1,2 @@
+★What startups are focused on the Internet of Things (IoT)?
+A couple others that haven't been mentioned: http://mocana.com (security) http://nest.com (connected thermostat) http://evrythng.net/ (platform) http://berglondon.com/ (platform and devices -Little Printer, BergCloud) http://thingm.com/ (connected lights) Self Plug: We are tracking the topic in general over at http://postscapes.com/

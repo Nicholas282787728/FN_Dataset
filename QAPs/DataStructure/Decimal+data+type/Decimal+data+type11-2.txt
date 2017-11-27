@@ -1,0 +1,2 @@
+Given is a structure in C++, struct database {int id_number; int age; float salary;}; Use this structure in the main program and store the ID number, age and salary of an employee and print it?Note: You are just required to provide a valid code. No outputs required.
+Also, complain about the use of a float for salary, which is never a good thing to do with money because of the rounding errors possible.   These days an int64 is OK, but more careful things make a large-range, decimal-correct abstract data type. 

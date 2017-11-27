@@ -1,0 +1,1 @@
+How do I design a hash function that hashes a finite list of integers to very few hash values?

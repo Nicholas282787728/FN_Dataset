@@ -1,0 +1,2 @@
+★What is the best method of smart meter data compression?
+Normally smart meter have microprocessors built in and some of these have compression algorithms baked in. Use those. Additionally, compression isn't your only tool. You can reduce payload size by playing around with the volume and frequency of the updates.

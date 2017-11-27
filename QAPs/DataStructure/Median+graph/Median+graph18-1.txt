@@ -1,0 +1,2 @@
+Hack Reactor: When you say the average income of HR grads is ~$103k, is that the mean or the median? If it's the mean then what is the median?
+I think it is safe to assume that the posted average is a mean 

@@ -1,0 +1,1 @@
+In graph theory, is there a method to compute the minimum number of dimensions the layout space must have so that no two edges ever intersect each other, assuming all edges are undirected segments and the layout space is euclidian?Does such a metric provide insights about the structure of the network? Does it have any known applications?

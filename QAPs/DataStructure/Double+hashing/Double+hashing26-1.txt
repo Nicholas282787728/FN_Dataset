@@ -1,0 +1,2 @@
+Which is the best site for preparing for Google interviews?
+CareerCup.com has the largest number of interview questions -- close to 10,000 questions for Software Engineers, broken down by company. That said, don't worry too much about whether a question was from Google or another tech company. There's no set list of "Google interview questions" -- interviewers each make up their own questions. Google interview questions only differ very slightly from Microsoft, Amazon, Facebook, etc. 

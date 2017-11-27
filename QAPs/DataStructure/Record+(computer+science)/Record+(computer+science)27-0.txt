@@ -1,0 +1,2 @@
+What is a record?
+A database row, is often called a record in a relational database context. If you talk to someone more theoretically inclined, he might use the word 'tuple' for the same thing. See Record (computer science). Typically this just means a row in a table. Updated 104w ago • View Upvotes

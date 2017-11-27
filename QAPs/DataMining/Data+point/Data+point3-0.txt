@@ -1,0 +1,2 @@
+How many data points do you need to make a trend?
+I don't think any number of data points guarantees a trend. Look at the scatter plot below - do you see a correlation? I don't think it's a stretch of the imagination to consider, say, 1 million more data points distributed similar to how the ones in the plot already are, and to say that there still isn't a correlation.    Embed Quote 

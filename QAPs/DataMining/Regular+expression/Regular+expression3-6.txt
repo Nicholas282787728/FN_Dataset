@@ -1,0 +1,2 @@
+★How does 'grep' preprocess a text file for efficient regular expression matching?
+AFAIK, grep uses Knuth–Morris–Pratt algorithm for Reg-ex matching (I read this info somewhere on the web). It runs in linear time after a preprocessing (more like building a finite state deterministic automaton) on the pattern that you want to check for. Thus, grep quickly checks for expressions in multiple files and within folders quickly since it reads the file just once. Try "grep -r <regex> *".    Embed Quote

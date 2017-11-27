@@ -1,0 +1,2 @@
+What are the seminal papers on data mining?
+Here's a good review of the Top 10 algorithms, with works cited: http://www.mendeley.com/research... Granted, the paper is a little old, but it identified the top 10 as: C4.5, k-Means, SVM, Apriori, EM, PageRank, AdaBoost, kNN, Naive Bayes, and CART, all of which are still heavily used today.    Embed Quote 

@@ -1,0 +1,2 @@
+What are some uses of hashing algorithms?
+The difficulty in deriving the key from the hash makes hashing useful in crypto-currencies where transactions are logged by the concept of Proof-of-work system. Bitcoin is an example. It uses two  SHA-256 back-to-back [Hash - Bitcoin]. 

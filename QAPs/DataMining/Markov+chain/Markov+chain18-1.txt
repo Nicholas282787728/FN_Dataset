@@ -1,0 +1,2 @@
+★How do you prove that a Markov chain is ergodic?Note that ergodic Markov Chain = irreducible Markov chain (with no transient states)
+For a finite state Markov chain, you can decide whether it's irreducible and aperiodic using graph search methods.  See http://www.ces.clemson.edu/~shie... for an overview of the methods and the references therein for the details.    Embed Quote

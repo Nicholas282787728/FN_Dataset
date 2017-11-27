@@ -1,0 +1,1 @@
+Which are examples of hash functions used in practice?

@@ -1,0 +1,1 @@
+What are good ways to store data in ram with any programming language? I want to use ram as a cache

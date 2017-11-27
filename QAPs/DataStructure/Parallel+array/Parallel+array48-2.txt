@@ -1,0 +1,2 @@
+What is the exact difference between parallel and concurrent programming?
+You might find Terminology: Parallelism and Concurrency sheds some light. 

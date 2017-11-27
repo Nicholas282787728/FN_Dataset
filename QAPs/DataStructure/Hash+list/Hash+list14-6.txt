@@ -1,0 +1,2 @@
+What are the advantages and disadvantages of using MongoDB vs CouchDB vs Cassandra vs Redis?
+First, you should see individual advantages of each kind: Mongo and Couch is document database. It will be beautiful with flexible database - schemaless. Redis is in-memory database. so, it is very fast like memcached. Besides, it support structure data like strings, map, hash, list, set, sorted set. So, you can manipulate with data more effective. Cassandra: Power of cassandra in my opinion is distributed. Updated 14 Jun 2012 • View Upvotes

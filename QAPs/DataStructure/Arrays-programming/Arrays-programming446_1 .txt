@@ -1,0 +1,1 @@
+What is the fastest way to find the minimum value of an array?If the array is sorted it would take O(1) to find the minimum element which is the 1st element of the array. If the array is not sorted it would require a single traversal of array which is of order O(n). 130 Views  View Upvotes

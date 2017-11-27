@@ -1,0 +1,2 @@
+★What is a good resource to learn how to perform principal component analysis and singular value decomposition in Python?
+Take a look here:http://scikit-learn.org/stable/m...    Embed Quote

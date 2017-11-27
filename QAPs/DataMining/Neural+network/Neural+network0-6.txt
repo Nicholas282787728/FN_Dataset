@@ -1,0 +1,2 @@
+★How do artificial neural networks learn?
+Just want to add to Gopalan's answer. The answer written is just for a small category of neural nets called feed-forward networks. The general model does not have to apply to all neural networks. For example Kohonen's networks does not try to optimize any goal function. Recurrent nets can not be train by backpropagation. Example of other networks: Hopfield nets family (Hopfield, Restricted Boltzmann, Deep Boltzmann), self-organizing nets (Kohonen's nets), etc.    Embed Quote

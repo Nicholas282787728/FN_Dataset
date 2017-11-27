@@ -1,0 +1,2 @@
+How can I make a visualization of a startup's refer-a-friend program?
+What Chloe suggested is good and here is another idea. Get a unique list of referrer IDs, and count how many users where referred by each referrer ID. Then create a Histogram What distribution does the chart show? Of those who refer other users what is the average (mean, median) number of users they refer? 

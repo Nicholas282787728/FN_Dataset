@@ -1,0 +1,2 @@
+What are some good blogs about algorithms and technical interviews?
+Here are some links I found Googling, hope they help: Nick's Blog Healthy Algorithms Algorithms Weekly by Petr Mitrichev Startup Builds a Clearinghouse for Unappreciated Algorithms | MIT Technology Review Technical Writing 

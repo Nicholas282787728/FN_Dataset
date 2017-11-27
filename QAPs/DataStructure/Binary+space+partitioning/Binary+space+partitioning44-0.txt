@@ -1,0 +1,2 @@
+What are the top 5 algorithms that I should be familiar with in order to do well in a junior developer interview?
+These are not necessarily the top anything, but if I was interviewing you, I may ask you to write one of them... A sort from first principles. Deduplication. Binary search. Substring search. As well as being able to write these, be prepared to discuss efficiency and optimisation. Be familiar with Big-O notation. 

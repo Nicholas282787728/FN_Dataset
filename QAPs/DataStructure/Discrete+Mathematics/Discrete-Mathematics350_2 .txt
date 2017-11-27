@@ -1,0 +1,1 @@
+Is P(Α∪B) a subset of P(Α) ∪P(B)?No, except if one of the two sets is a subset of the other. Otherwise, look at A∪B  A∪B , which is an element of P(A∪B)  P(A∪B) but not of P(A)  P(A) or of P(B)  P(B) . But the converse is true: P(A)∪P(B)  P(A)∪P(B) is a subset of P(A∪B)  P(A∪B) , 200 Views · View Upvotes

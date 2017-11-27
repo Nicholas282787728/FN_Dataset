@@ -1,0 +1,2 @@
+★What is static mac address?cisco switch
+It is the type of MAC address that you can define. If it is a static will remain in the MAC table even after the reboot but if it is dynamic it will got lost from the MAC table after the reload of the L2/L3 device    Embed Quote

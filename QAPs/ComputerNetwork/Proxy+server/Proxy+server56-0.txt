@@ -1,0 +1,2 @@
+★How do I use proxy server to compress data being sent and received?
+You can use the polipoid caching proxy for Android and add compression.    Embed Quote

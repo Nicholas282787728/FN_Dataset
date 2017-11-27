@@ -1,0 +1,2 @@
+★How do I access the FTP on my WordPress site?
+To access your wordpress site using FTP you need to have the following: Host Name — The IP address or domain name for your hosting account. FTP User Name —May be your hosting username or a specific ftp username. FTP Password — May also be your hosting password or a specific ftp password. Check your cPanel if unsure. Once you have this credentials use an FTP client, I personally suggest Filezilla - https://filezilla-project.org/ since it's fast and reliable. Hope this helps.

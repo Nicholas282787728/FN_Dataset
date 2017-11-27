@@ -1,0 +1,2 @@
+What is the difference between histograms and bar charts?
+A histogram is used for numerical data whereas a bar chart is for categorical data. Types of Statistical Data: Numerical, Categorical, and Ordinal 

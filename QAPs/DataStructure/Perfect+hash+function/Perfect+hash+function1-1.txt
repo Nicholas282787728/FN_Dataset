@@ -1,0 +1,2 @@
+How can a perfect hash function work as a bloom filter alternative?
+What does "Then keep  log2(1/e)  bit fingerprint of item in each cell." mean? If you have a perfect hash function on a set S and you just want to test membership queries, couldn't you just check the hash of the element you are looking for and then see if that bit has been set? I mean, why would you even have a false positive rate here? 

@@ -1,0 +1,2 @@
+★What other application servers can be alternatives to GlassFish?
+look into sprinsource tc server as well (tomcat on steroids), they also made some nice tools that go along with it. make sure you know what you need .. do you need web container or full blown app server?

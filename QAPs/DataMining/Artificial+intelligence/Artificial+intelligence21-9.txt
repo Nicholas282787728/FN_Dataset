@@ -1,0 +1,2 @@
+★How do I get started in Artificial Intelligence?
+I would recommend the course at Udacity. It covers broadly the various topics in AI. Logic, NLP, planning, ML, vision. From there you can decide which area you want to dive into.    Embed Quote 

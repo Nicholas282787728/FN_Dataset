@@ -1,0 +1,2 @@
+Write an algo to compare two string such that k mismatch are allowed. Suffix Tree?
+Find the length of the longest common subsequence, lcs.  true if max(strlen(str1), strlen(str2)) - lcs <= k, false otherwise 

@@ -1,0 +1,2 @@
+How do practical path-finding algorithms work on huge graphs?
+For huge graphs, the conventional sequential algorithms have a dreaded completion time. Therefore, attention is drawn to the parallel versions of these algorithms, which can utilize performance powers of a powerful multi-core system. This is a good example for BFS: Page on utexas.edu 

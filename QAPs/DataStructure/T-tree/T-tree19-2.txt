@@ -1,0 +1,2 @@
+Can you solve this simple mathematical puzzle?
+This is not a maths puzzle but a simple application of simultaneous equations. Let there be h horses & t trees. By 1st condition, h=t+3 By 2nd condition, h=2 (t-2) You can solve these equations by substitution to get t=7 & h=10. 

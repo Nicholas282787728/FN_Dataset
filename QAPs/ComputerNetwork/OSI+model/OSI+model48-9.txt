@@ -1,0 +1,2 @@
+★What's the best way to get started with firmware/embedded systems programming?
+Start with Arduino. Write the first program for LED Blinkingblinking, next as serial data communication. In three hours time and the lowest cost arduino Arduino (No no shield requirerequired) you can try a lot of C instructions. Add Answer

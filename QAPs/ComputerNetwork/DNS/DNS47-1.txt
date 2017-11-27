@@ -1,0 +1,2 @@
+★What DNS software do the root name servers run?The A-M servers
+The F root server runs BIND 9. See: http://www.isc.org/community/f-root

@@ -1,0 +1,2 @@
+What is a good explanation that can help programming beginners understand the concept of compounding key data structures like arrays, linked lists, hash tables, and binary trees?
+I had a lot of trouble dealing with data structures. What eventually came to my rescue was this : http://www.youtube.com/playlist?... It's a Berkeley course recorded and put online. Go through it and you'll be at a decent level. 

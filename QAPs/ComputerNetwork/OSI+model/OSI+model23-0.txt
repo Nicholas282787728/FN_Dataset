@@ -1,0 +1,2 @@
+★Do mobile networks follow the OSI model or TCP/IP or any other models?
+Modern mobile networks are all IP based.    Embed Quote

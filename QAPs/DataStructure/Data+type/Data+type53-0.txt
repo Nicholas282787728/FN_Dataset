@@ -1,0 +1,2 @@
+What's the size of char, int and float data types?
+Data type sizes depends on many factors like OS, target hardware and most importantly on compiler configuration. Below is a table of most commonly used data type sizes : If an OS is using 16-bit microprocessor architecture then int is of 2 bytes while in a 64-bit microprocessor, the compiler can decide to have int of size 8 bytes. ... (more)

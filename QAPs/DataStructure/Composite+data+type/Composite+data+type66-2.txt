@@ -1,0 +1,2 @@
+Under what circumstances would using a composite primary key be more appropriate than a single primary key given that almost all primary keys are single?
+I use composite surrogate keys often in the following situations: Time Variant data (ie. Type 6) Bridge Tables Fact Tables referenced by other tables 

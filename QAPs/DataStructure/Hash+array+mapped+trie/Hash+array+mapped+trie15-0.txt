@@ -1,0 +1,2 @@
+Why is data structure useful for a computer engineer to learn?
+Because all of us have grown impatient and need responsive machines/applications that help us do our work quickly. Be it retrieving that file a few nanoseconds faster or getting that result a wee bit quicker from your code, data structures have always played an important role and will continue to do so. 

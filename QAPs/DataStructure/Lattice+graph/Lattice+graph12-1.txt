@@ -1,0 +1,2 @@
+What is percolation?
+Simply the motion/filtration of a fluid through a porous substance. Such as when water flows through soil and permeable rock before coming to rest in an aquifer. Or when you run hot water through coffee grounds to produce coffee. 

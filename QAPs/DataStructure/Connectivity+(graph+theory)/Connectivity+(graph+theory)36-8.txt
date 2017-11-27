@@ -1,0 +1,2 @@
+What are the most ingenious theorems/deductions in graph theory?
+Not technically graph-theory, but nearby - from the Putnam Exam, 1989 (i think) : In the RxR plane, every point one of three possible colors.   The coloring scheme is unknown.   Are there necessarily two points, one inch apart, the same color? (Msg me for the answer.) 

@@ -1,0 +1,2 @@
+What are some beautiful data structures most programmers do not know?
+By following Mr Harry's links I found this one: List of data structures. There are quite a few gems in that list that I've never seen or heard mentioned in decades in the business. 

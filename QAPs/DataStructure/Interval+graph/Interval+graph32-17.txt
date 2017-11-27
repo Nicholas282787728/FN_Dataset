@@ -1,0 +1,2 @@
+What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
+The donkey theorem is also known as the triangle inequality theorem. It states that in a triangle ABC: a < b + c. The name comes from the idea that if you have a donkey standing at side A, and a hay stack at side C, it will ALWAYS be a shorter path for the donkey to go straight from A to C instead of from A to B to C. 

@@ -1,0 +1,2 @@
+In how many ways can you connect N non co-linear  points such that each of them is exactly connected to k other points ,where n>k?
+A graph of n non collinear points such that each vertex is connected to exactly k other vertices is called as a k-regular graph of n vertices [1]. I don't think a closed form for the number that you seek exists. Mathworld [2] gives the numbers for various n and k. There are some asymptotic results available for special cases like [3]. [1] Regular graph [2] Regular Graph -- from Wolfram MathWorld [3] Page on Anu 

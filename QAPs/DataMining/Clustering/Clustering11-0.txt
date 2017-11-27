@@ -1,0 +1,2 @@
+What are the best open source tools for unsupervised clustering of text documents?
+sofia-ml (https://code.google.com/p/sofia-ml/) has a well optimized and scalable C++ implementation of minibatch k-means clustering by D. Sculley who is the author of: Web-Scale K-Means Clustering http://www.eecs.tufts.edu/~dscul... This online / incremental / scalable variant of the traditional batch K-Means algorithm is also implemented in python / numpy / cython in scikit-learn: http://scikit-learn.org/dev/modu...).    Embed Quote 

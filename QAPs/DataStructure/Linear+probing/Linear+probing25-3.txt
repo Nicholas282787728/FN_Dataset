@@ -1,0 +1,2 @@
+How is a proton beam produced?
+A short note in addition to the answer of Robert Frost: In real accelerators they usually start with negative hydrogen ions, i.e. from protons with two electrons. Those are initially accelerated and then passed through a thin metal foil. In the foil they are stripped from both electrons, and are then further accelerated, already as protons. 

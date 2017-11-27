@@ -1,0 +1,2 @@
+★Should I EQ-boost low frequencies, to resemble a subwoofer?
+Your speakers aren't physically capable of producing that low and will not be able to emulate a subwoofer. The bass control probably boosts 100-400 hz and below, and you're increasing more low mids than actual bass. Better to get a sub. Also, your speakers are usually designed in a way where the port holes are necessary for accurate and efficient sound reproduction. Plugging them is probably of no benefit.  But if you can hear a difference and like it, that's all that matters.    Embed Quote

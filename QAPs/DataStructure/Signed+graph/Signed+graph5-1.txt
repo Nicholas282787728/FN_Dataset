@@ -1,0 +1,2 @@
+What are some of the most interesting areas of research in how graph/network theory apply to non-technology fields such a biology, finance, or sociology?
+I think topology applications, and research into them, are pretty cool 

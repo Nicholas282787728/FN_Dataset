@@ -1,0 +1,2 @@
+★Who are the main providers of interconnection for Comcast?Recent news about Level 3 suggests it probably isn't them. Who else, beyond Level 3 provide? (As in http://www.comcast.com/peering/ free or paid for)
+http://www.datacentermap.com/as/... Probably gives a pretty good idea...    Embed Quote

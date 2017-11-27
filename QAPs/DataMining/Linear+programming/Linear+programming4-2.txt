@@ -1,0 +1,2 @@
+★Why these two linear programs are not equal?
+The linear program might have more than one optimal solution. I haven't used matlab for optimization but there should be some way you can check all the optimal solutions. Hopefully, both versions of your program should have the same solutions.    Embed Quote

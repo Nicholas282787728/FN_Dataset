@@ -1,0 +1,2 @@
+What are some common mistakes to be avoided in Mathematics?Especially in Algebra, Coordinate Geometry, Calculus and Trigonometry.
+Losing sight of what each of the numbers in play at some intermediate stage of solving a problem actually represents (often caused by failing to indicate units of measurement, etc) - so leading to those numbers being combined / manipulated in ways that are meaningless given what they actually represent. Updated 27 Jul 2014

@@ -1,0 +1,2 @@
+Can the category (referring to category theory) be completely represented by a graph (directed or undirected)?Just going through the concepts of category theory, so thought that may be any category can be represented by a graph. Is it right to say that one is a generalization of another or just a different form of representation?
+A category is not just the graph but also the algebraic relationships between different arrows in the category. The forgetful functor from the category of categories to the category of graphs should give you the relation you're interested in. 

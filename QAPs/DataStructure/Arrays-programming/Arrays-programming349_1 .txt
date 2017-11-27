@@ -1,0 +1,1 @@
+How do I display top 5 numbers in an array in c++?What you mean by top 5 numbers? 1º - The five greater numbers? 2º - The first five numbers in the array? If first, there’s a cool algorithm: Quickselect If second, you can access a position of an array in that way: vetor[INDEX]. Remembering, arrays in C/C++ are zero-based. 181 Views · View Upvotes

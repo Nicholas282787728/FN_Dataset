@@ -1,0 +1,9 @@
+What is the SQL code to transform a data set?
+SQL Server Code: For the "test" table : 1
+2
+3
+4
+5
+6
+7
+ SELECT b.id, STUFF((SELECT ' '+ CAST(a.Characters AS VARCHAR(10)) FROM [test]  a WHERE a.id =  b.id FOR XML PATH('')), 1, 1,'') FROM (SELECT DISTINCT ID FROM [test]) b OUTPUT: Edit 1: As you are new to SQL, I would recommend that you read the following resources: 1. SQL Tutorial 2. SQL - CAST Function 4. STUFF (Transact-SQL) 3. FOR XML (SQL Server) Edit 2: If you need to decrease the number of whitespaces between each character, decrease the value of VARCHAR() in line 3.    Embed Quote 

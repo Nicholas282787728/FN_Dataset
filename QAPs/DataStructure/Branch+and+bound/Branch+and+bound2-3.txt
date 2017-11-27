@@ -1,0 +1,2 @@
+What are some good references for learning branch and bound algorithms?I need a reference which has explained things in clear and simple terms and solves a few examples using at least some pseudocode
+On Coursera there was a class named Discrete Optimization (i'm not sure if you can see the record of it)... i remember one of the first lectures explained branch and bound and it was very easy to understand. 

@@ -1,0 +1,2 @@
+Software engineering: How to generate a C++ function programmatically?
+If you know the length of the vectors involved at compile time, you can use template metaprogramming to unroll the loop involved in the dot product. 

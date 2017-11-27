@@ -1,0 +1,1 @@
+Is minimum spanning tree unique? Why?No. MST of a graph is not unique in general. Complete graph K4 can have 8 different MST. If the graph is tree then MST is the same since both share the same properties. 122 Views  View Upvotes

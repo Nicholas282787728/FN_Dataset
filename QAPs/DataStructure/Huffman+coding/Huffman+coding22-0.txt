@@ -1,0 +1,2 @@
+Why is the Huffman code classified as a prefix code?
+Because no code is a prefix of any other. This means that every code can be identified even though they are of different lengths. For example - the following code is a prefix code. A : 0 B : 10 C : 110 D : 111 At any given point of time as you read the bits, you never have a doubt whether to read one more bit or whether you have read all the bits for a symbol. 726 Views · 8 Upvotes

@@ -1,0 +1,2 @@
+How can I crunch big data sets with my laptop?
+You don't have to load this into R to process it, see ff, bigdata and bigvis    Embed Quote 

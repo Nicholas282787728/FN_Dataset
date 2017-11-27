@@ -1,0 +1,2 @@
+Does ice weigh more than water?If I had one gallon of water (about  8.35 lb.), then froze it, what would it weigh afterwards?
+It's total weight would be pretty much the same, it'd just expand by up to 9% (depending on the starting and ending temperatures), so it would be 9% less dense. I say "pretty much" because there's a tiny effect whereby the increased volume gives increased buoyancy in the air and so decreases the weight as measured. This would be like a 1 part in 10000 effect. 

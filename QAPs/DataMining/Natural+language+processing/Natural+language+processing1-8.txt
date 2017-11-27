@@ -1,0 +1,2 @@
+★Natural Language Processing: What are the most important research papers which all NLP students should definitely read?Which NLP research papers (no matter whether classic or state-of-the-art) do you recommend students to read, if you were a teacher/professor/adviser? And why?
+From statistical approach view, "A statistical approach to machine translation" by P.Brown et al., so called IBM-model paper, is important, I think. http://portal.acm.org/citation.c...    Embed Quote

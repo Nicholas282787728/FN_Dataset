@@ -1,0 +1,2 @@
+★When will IPv6 replace IPv4 completely on the planet?
+I am reminded of a speaker from a large financial institution that talked about the hundreds of legacy protocols that they support in the 21st century.  He mentioned that they disabled exactly one during his twenty year tenure: Ship to shore morse code for credit card payment. So, I think it is safe to say "never."  Just like there will always be some programs written in COBOL, FORTRAN and ADA, there will always be pockets of IPv4 where it just doesn't make sense to upgrade.    Embed Quote

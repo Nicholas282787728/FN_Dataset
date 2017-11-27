@@ -1,0 +1,1 @@
+If we negate the edge weights in a graph G=(V,E) G=(V,E) and then run Bellman Ford, does this compute longest paths?If its does not, then what does this compute? Why wouldn't it if shortest paths now correspond to shortest paths?Yes, and you can learn an application of this to the optimal currency exchange problem here. 114 Views  Answer requested by 1 person

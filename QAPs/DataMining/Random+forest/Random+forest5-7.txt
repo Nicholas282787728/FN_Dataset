@@ -1,0 +1,2 @@
+★Classification (machine learning): What are good libraries for random forest?Like in linear classification we have Liblinear and Vowpal Wabbit.
+Matlab's Statistics toolbox can also be used to implement Random forests. It provides the function called 'treebagger' for the same. To invokke this algo, set the argument 'NVarToSample' to any valid value but 'all'. Create ensemble of bagged decision trees    Embed Quote

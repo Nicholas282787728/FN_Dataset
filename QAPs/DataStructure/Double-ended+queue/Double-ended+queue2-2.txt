@@ -1,0 +1,2 @@
+Do any programming languages allow a pop from the bottom of the stack?
+No. Stack is a standard LIFO data structure. You can only pop the last inserted elements. What you need is a deque or double ended queue. It is a linear data structure that allows you to insert and delete from both ends. C++'s STL provides an implementation for this data structure. 

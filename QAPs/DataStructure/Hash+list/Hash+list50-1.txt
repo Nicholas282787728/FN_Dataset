@@ -1,0 +1,2 @@
+How does Twitter implement hashtags?Looking for details on technology stack, high level database schema, scalability limitations, etc.
+Originally Answered: How do you implement hashtags?Hashtag can easily be added as a feature of a search engine. Clicking a hashtag would query the index of tweets. Since twitter supports tweet search, that is a reasonable way to do that. 

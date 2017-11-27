@@ -1,0 +1,1 @@
+Given a set of intervals, is there an O(nlog(n))  algorithm for finding the interval which has the maximum number of intersections with other intervals?

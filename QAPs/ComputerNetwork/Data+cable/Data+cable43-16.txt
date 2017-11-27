@@ -1,0 +1,2 @@
+★What purpose does the small cylindrical module near the end of my laptop charger cable serve?
+It is called a ferrite (ceramic compound)  bead. In simple english it is a cheap form of interference filters. Cables (especially long ones) can sometimes act as receivers or transmitters of electromagnetic interferences. ( like an antenna). Such EMI can cause problems in the circuit of the devices. Sometimes having a ferrite bead is a regulatory requirement.

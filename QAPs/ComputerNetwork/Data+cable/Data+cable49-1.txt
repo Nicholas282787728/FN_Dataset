@@ -1,0 +1,2 @@
+★What are the names of the two cables I need to connect another HDD to my computer?
+Data and power More than likely a serial ata data and power cable but depending on age and type of system it could be different.

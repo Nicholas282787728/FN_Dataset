@@ -1,0 +1,2 @@
+C++ (programming language): How do you judge a C++ programmer by only 5 questions?
+Thanks for the A2A. I wont come up with the questions here, but I would construct them to test these areas specifically: C: For/while/do-while loops, if/switch, functions, pointers, macros, preprocessor, etc OOP: Inheritance, polymorphism, friends, virtual, abstract, overloading, etc. Templates: Function templates, class templates, specialisation, etc. STL: containers, iterators, algorithms, vector, list, map, etc. Other: exceptions, casting operators, new/delete, etc. 

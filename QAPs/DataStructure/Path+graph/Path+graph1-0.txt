@@ -1,0 +1,2 @@
+Graph Theory: can any one provide C++ code/detailed algorithm for classical decanting problem and finding euler path?
+You can check these links for Euler Path C++ Code USACO Riding The Fences Solution and Analysis @Problem 3.3.1 Riding the Fences another implementation @Page on Wordpress another implementation @Eulerian Circuits and Paths Have fun :D 

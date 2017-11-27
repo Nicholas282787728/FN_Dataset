@@ -1,0 +1,2 @@
+What is the best programming algorithm that you have ever created?
+I wrote a program to find the powerset of a given set using the concept of binary numbers. Though not extraordinary, was happy doing it.   Algorithm -   Suppose the set is - {1,2,3}   So here n is 3 as we have 3 elements.  ... (more)

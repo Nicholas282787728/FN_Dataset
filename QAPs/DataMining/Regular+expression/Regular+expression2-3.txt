@@ -1,0 +1,2 @@
+★What are good examples of regular expressions?
+Weird regular expressions which can be used to embed NP-complete problems in regex matching: http://perl.plover.com/NPC/NPC-3...  These might be good for stress testing and profiling, as it should be easy to generate extremely slow test cases.    Embed Quote

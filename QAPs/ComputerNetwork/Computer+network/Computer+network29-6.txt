@@ -1,0 +1,2 @@
+★What are some good interview questions asked from computer networks?I am a fresher.
+What is http and https ? Describe protocols . Main difference between IP4 and IP6 ? What is telnet ? How security certificate work ?how we can install a security certificate. Ports used by different protocols ? And again it depends upon the post on which you are applying  for. If it is core hardware based job then they can ask you for network designing and router design or more. Above lined questions asked during general interview for software engineer .

@@ -1,0 +1,2 @@
+★What is the best method for editing/managing metadata of digital photos?
+As a Windows user, probably your best bet is to use Picasa. It is simple and does everything you’ve mentioned plus much more. However, whether or not your metadata is preserved across platforms and web sites is entirely dependent upon them. There are standards for metadata, but if you upload a photo to a site that doesn’t use that information there isn’t much else you can do.    Embed Quote

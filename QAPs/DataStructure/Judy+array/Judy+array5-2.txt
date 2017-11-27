@@ -1,0 +1,2 @@
+Which is better, "Java for Dummies" or "Head First Java"?
+"Head First Java" - mainly because its unique way of explaining the things and exercises are better as well. 

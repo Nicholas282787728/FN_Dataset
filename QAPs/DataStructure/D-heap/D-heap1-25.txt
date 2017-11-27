@@ -1,0 +1,2 @@
+What books are a good introduction to game theory?
+If you want some training from the pro, "game theory" by Fudenberg & Tirole is the best. Books from academics in engineering or CS discipline are just applied game theory but not rigorous ones. 

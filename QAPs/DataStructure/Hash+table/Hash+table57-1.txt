@@ -1,0 +1,2 @@
+What would be the best resources to study about trees, graphs, hash tables, etc.?
+Data Structures forms the base of Computer Science and if you strong in Data structures it's very easy to nail any job placements. Some of the good resources to learn Data Structures would be : Data Structures and Algorithm Analysis in C by M. A. Weiss Data Structures - GeeksforGeeks - I personally like their website to study about Data structures.I highly advise you to learn the pseudo-code and try implementing it in any language of your preference. 2.7k Views · 7 Upvotes

@@ -1,0 +1,2 @@
+What is the coolest thing you can do with Mathematica?
+“Cool” is subjective so you can decide which of these qualifies. I think graphical, image processing and computer vision applications are cool. Courtesy of Mathematica Stack Exchange (Sort by votes): Help find a bright object on Mars! or How do I find Waldo with Mathematica? (from stackexchange.com) QR Code in shopping cart handle Generating visually pleasing circle packs Recovering data points from an image Artistic image vectorization xkcd-style graphs... (more)

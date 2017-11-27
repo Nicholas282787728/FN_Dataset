@@ -1,0 +1,1 @@
+Does adding n elements to an ArrayList take O(n) time or O(n^2) time?I assume you mean the data type ArrayList in Java. If add n elements to the end of an array list, one at a time, it takes time O(n) ON THE AVERAGE. 24 Views

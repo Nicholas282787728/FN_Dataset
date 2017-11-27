@@ -1,0 +1,2 @@
+★How useful is Facebook Chat as a communication channel for app developers?
+At Green Patch we built apps which attempted to use Facebook Chat as a communication channel similar to how we used the notifications or invite channels.  We found these to be abysmally ineffective at either acquiring or reengaging users. One possible explanation is that chat is an even more authentic channel of communication than the asynchronous messaging channels.  Highly authentic messaging channels are harder to use for sending canned app (bot-like) messages.

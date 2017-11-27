@@ -1,0 +1,2 @@
+How does the graph of a continuous function satisfying "f(x)=0 if x=integer" look?
+What do you mean the graph doesn't satisfy the first condition? It certainly looks to me like it does. Now, obviously, there are infinitely many functions that could possibly fit these criteria. The plotted function looks a lot like sin(πx)1+x 4    , which certainly satisfies the desired properties. 

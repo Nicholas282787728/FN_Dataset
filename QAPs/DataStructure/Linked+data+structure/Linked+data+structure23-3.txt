@@ -1,0 +1,2 @@
+Are basic data structures like linked lists, queues and stacks really used in software engineering projects?
+Certainly, you will use these data structures frequently as a software programmer but you will never have to write code for the data structure itself. In fact in most projects you won't be allowed to use your own implementation of the data structure and will have to use the standard library implementation. In the rare case where you end up working as a library developer only then will you code the data structure yourself. 

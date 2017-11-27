@@ -1,0 +1,2 @@
+★Data Compression: What are good ways to write a text file compressor in c++?
+Giving the outline for a  reasonably simple way : Text -> Burrows Wheeler Transform -> Huffman encoding -> Compressed Version Compressed Version -> Huffman decoding -> Reverse Burrows Wheeler Transform -> Gives back the original text. You could altogether ignore the Burrows Wheeler Step, however it improves the "compress-ability"  of text by bunching groups of similar characters together. Bzip uses Burrows Wheeler.

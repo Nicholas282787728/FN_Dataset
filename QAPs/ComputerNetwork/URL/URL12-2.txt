@@ -1,0 +1,2 @@
+★Why do some websites have a "#!" in their URL?Lately I've noticed with the redesign of Twitter that there is a /#!/ right after the domain once logged in. I've also seen this implemented on www.hypem.com now. I've been doing a little Googling, and I think this may relate to Python.
+In addition to links already posted in other answers, also see: http://www.isolani.co.uk/blog/ja... http://adactio.com/journal/4346/ http://blog.benward.me/post/3231... http://itsnat.sourceforge.net/ph... http://ajaxpatterns.org/Unique_URLs http://www.w3.org/DesignIssues/F...    Embed Quote

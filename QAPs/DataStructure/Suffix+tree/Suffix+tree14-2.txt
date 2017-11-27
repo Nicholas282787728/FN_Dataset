@@ -1,0 +1,2 @@
+Which book is best for advanced data structures like trie, suffix trees and many more?
+Fundamentals of Data Structures in C Horowitz, Sahni, Anderson-Freed. 

@@ -1,0 +1,2 @@
+What are the best books on algorithms and data structures?
+It depends on the programming language you use. 1- For example for Java programming you might read : Algorithms and Data Structures or Data Structures and Algorithms in Java 2- If you use C++ to program then Data Structures and Algorithms in C++ is a good one to read. 3- For Python users instead there is : Data Structures and Algorithms in Python ... (more)

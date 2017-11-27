@@ -1,0 +1,2 @@
+★Why do we square instead of using the absolute value when calculating variance and standard deviation?
+Most of the nice mathematical properties come from the fact that the L2-norm of a vector is invariant under a rotation of the coordinate axes, which is not the case of the L1-norm or any other Lp-norm.    Embed Quote

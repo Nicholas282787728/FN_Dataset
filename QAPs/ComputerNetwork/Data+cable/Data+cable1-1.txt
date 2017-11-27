@@ -1,0 +1,2 @@
+★Why do Apple iPods and iPhones use proprietary USB data cables?Or why can't they use microUSB cables like all new Smartphones, such as the BlackBerry.
+Apple designed the 30 pin dock connector many years ago to carry a wide variety of signals.  USB cables only carry power and serial communications.  The 30 pin dock connector also carries several formats of video, audio, and even legacy support for firewire syncing, although firewire is no longer supported by most devices.

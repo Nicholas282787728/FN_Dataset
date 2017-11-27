@@ -1,0 +1,2 @@
+What should I do/learn next?
+If you have time, learn more of C/C++ or Java. If you want to learn something new and powerful learn C#. There is a difference between knowing the path and walking the path. If you think you know enough, Start building something meaningful. 

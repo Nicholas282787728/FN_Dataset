@@ -1,0 +1,2 @@
+★Is jQuery a DSL?
+jQuery is a fairly typical example of an internal DSL. An internal DSL uses the syntax of its "host" language to provide an API that feels like a DSL. There's no absolute rule that says whether one API is a DSL and another is not. Sadly :)

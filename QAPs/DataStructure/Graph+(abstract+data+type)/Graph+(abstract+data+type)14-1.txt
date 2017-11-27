@@ -1,0 +1,2 @@
+What are the applications of set theory in computer science?
+One of the primary applications is database query design and processing. All queries onto RDBMS are in set notation and returned as sets. 

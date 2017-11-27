@@ -1,0 +1,2 @@
+What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
+Rolle's theorem If a real-valued function f is continuous on a closed interval [a, b], differentiable on the open interval (a, b), and f(a) = f(b), then there exists at least one c in the open interval (a, b) such that It's very obvious from the graphs. Updated 11 Jun 2014 • View Upvotes

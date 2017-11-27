@@ -1,0 +1,2 @@
+What is the integral of inverse sine?
+Let x=sin −1 (θ)  . Then sin(x)=θ  . Now we see that ∫sin −1 (θ)dθ=∫sin −1 (sin(x))d(sin(x))  =∫xcos(x)dx.  My explanation of the prior step is such that dsin(x)=cos(x)dx.  Now ∫xcos(x)dx=xsin(x)+cos(x)+C.  Now re-substitute: xsin(x)+cos(x)+C=θsin −1 (θ)+cos(sin −1 (θ))+C.  On Wolfram Alpha the answer is stated as ∫sin −1 (θ)dθ=θsin −1 (θ)+1−x 2  − − − − −  √ +C.  These are actually one and the same, since cos(sin −1 (θ))=1−x 2  − − − − −  √ .  See here for a very thorough explanation. 

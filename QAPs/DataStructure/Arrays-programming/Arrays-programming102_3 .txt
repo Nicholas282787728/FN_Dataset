@@ -1,0 +1,1 @@
+How can I find which number appears the maximum time in an array?Given size of array n, find the number p which appears the maximum time in an array. eg. n = 5 a[n] = {2,3,2,3,2} p = 2Create a map with key and value being integer . Increment the value of the given key by 1 while iterating through the array. Traverse through the map and print the key with max value. 90 Views

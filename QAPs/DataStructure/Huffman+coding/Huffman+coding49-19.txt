@@ -1,0 +1,2 @@
+What are the 10 algorithms one must know in order to solve most algorithm problems?
+It would be very hard to prescribe the top 10 algorithms, which would be useful in algorithm challenges as such. However, I have written a very similar answer, which has a lot of overlapping points to you question. Vijay Nadadur's answer to What general algorithms (not statistical or machine learning) should a data scientist know? Focus on dynamic programming, heaps, and tree traversals techniques. These should be most useful. 3.8k Views · 13 Upvotes · Answer requested by Wirawan Winarto

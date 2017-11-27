@@ -1,0 +1,2 @@
+How do I solve a maze with depth first search?
+Enter the maze If you have multiple ways, choose anyone and move forward Keep choosing a way which was not seen so far till you exit the maze or reach dead end If you exit maze, you are done. If you reach dead end, this is wrong path, so take one step back, choose different path. If all paths are seen in this, take one step back and repeat Few things, It goes deep first so it is called depth first search... (more)

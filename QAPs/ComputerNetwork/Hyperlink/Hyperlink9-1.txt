@@ -1,0 +1,2 @@
+★Can a hyperlink also have JavaScript that will execute onclick?
+Just to add to the other answers, there is a whole sub-genre of Javascript coding focussed on Bookmarklets - entire scripts written as URL strings (as shown in other answers) which can be bookmarked, or hyperlinked, and launched in the browser.  Some of these are extremely useful. Here are a couple of lists compiled by other people, for example: http://lifehacker.com/395697/top... http://www.macstories.net/roundu...    Embed Quote

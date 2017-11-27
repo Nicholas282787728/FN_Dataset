@@ -1,0 +1,2 @@
+★What are the best machine learning blogs or resources available?Looking for some regularly updated and high quality content blogs.
+You should always check the state of the art conference, journal, and Research groups (Stanford, UCB, UT, KAIST, etc) in the world. In terms of blogs, Deep Learning is a good one which introduces all related resources, news for this hot area.    Embed Quote

@@ -1,0 +1,2 @@
+What are the differences between expert systems and artificial neural networks?
+Artificial neural networks can be used to develop expert systems. There are many alternative techniques to develop such expert systems and ANN is one of such.    Embed Quote 

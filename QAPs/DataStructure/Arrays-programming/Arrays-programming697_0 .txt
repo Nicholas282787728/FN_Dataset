@@ -1,0 +1,1 @@
+Can you help me write an algorithm that distinguishes even numbers from odd numbers using an array?Here is an example in python. for number in nums:  If number % 2 == 0: evenNum  else: odd number 165 Views

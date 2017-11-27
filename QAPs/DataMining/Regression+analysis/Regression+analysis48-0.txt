@@ -1,0 +1,2 @@
+★Anyone using advanced algorithms to normalize energy consumption or just CDD/HDD regression analysis?Assume high-resolution interval weather data available.
+Where interval data is available, Gridium performs automatic modeling of commercial building energy use that captures variations in occupancy, day to day patterns and temperature. Our accuracy is very good, typically below 2% CV.    Embed Quote

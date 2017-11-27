@@ -1,0 +1,2 @@
+Software Engineering: What are good ways to avoid bugs while programming?
+From the Project Management and Product Management point of view: Avoid feature creep and scope creep. Hacking on existing code to change the program behavior later in the game is a recipe for bugs. Since this question is while programming - depending on your organization/culture/customers, prepare for these types of changes. Make the program modular so that you can move things around when necessary. Be ready to disagree and reject the changes to Engineering Management. 

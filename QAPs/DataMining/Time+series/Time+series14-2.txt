@@ -1,0 +1,2 @@
+★How do I learn about time series analysis?
+I'd recommend Rob J. Hyndman's blog (Hyndsight), he recommends lots of books there. He's one of the leading experts in the field. Also there's his book at Otexts: Forecasting: principles and practice. There were useful recommendations here in this question: What are some fantastic books on time series analysis? Tom Reilly's blog: Recent blog posts - Autobox Blog    Embed Quote

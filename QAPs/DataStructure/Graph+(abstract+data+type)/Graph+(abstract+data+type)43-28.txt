@@ -1,0 +1,2 @@
+Job Interview Questions: Which are the frequently asked interview questions for Java Engineers ?
+Originally Answered: What are good interview questions for Java developers?Try this test: http://tests4geeks.com/test/java This service allows to test the Java developer online and recieve the report on email. The test has 20 questions. Questions categories: Java Core OOP Algorithms and Data Structures Multi-Threading Memory Java Frameworks 

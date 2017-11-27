@@ -1,0 +1,2 @@
+★Hidden Markov Models: How do you implement speech recognition through hmm technology to implement it on matlab?
+There are some implementations of speech recognition in Matlab. For example, HMM Speech Recognition in Matlab High-order HMM in Matlab    Embed Quote

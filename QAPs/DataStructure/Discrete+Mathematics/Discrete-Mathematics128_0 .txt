@@ -1,0 +1,1 @@
+What is the difference between a discrete and a quantised quantity?This gets a little semantic; but since I like to mix metaphors and stretch similes, I'll go for "There is no difference!" The standing wave frequencies of a guitar string are discrete, so I use them as an example of "classical quantization". But some QM purists would disagree, I'm sure. 345 Views  View Upvotes

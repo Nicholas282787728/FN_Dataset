@@ -1,0 +1,2 @@
+For someone who has zero knowledge of programming, what would be the best approach to learning R?
+Data Camp has a free, interactive introduction to R: Introduction to R | DataCamp 

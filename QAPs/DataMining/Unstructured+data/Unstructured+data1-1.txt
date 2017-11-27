@@ -1,0 +1,2 @@
+★What is the difference between structured and unstructured data?
+For me, it's the manner in which data is gathered. Agriculture is the classic example of structured data - we lay out plots, randomize them within plots, may arrange split plots.  It is a designed, controlled, and manipulative experiment. Unstructured data is "observational."  There is survey/sampling design, but in these studies, you do not manipulate the experimental units directly.  Ecology, population genetics, and most of the data from the social sciences are classic examples.    Embed Quote

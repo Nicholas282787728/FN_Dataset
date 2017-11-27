@@ -1,0 +1,2 @@
+★What are some good models for predicting continuous response variables?Other than multiple linear regression?
+MARS (Multivariate adaptive regression splines) is useful for continuous response variables.  You will want to do feature selection through other means first to get better results and avoid over-fitting.    Embed Quote

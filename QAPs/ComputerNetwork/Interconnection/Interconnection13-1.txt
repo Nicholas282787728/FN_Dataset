@@ -1,0 +1,2 @@
+★Are the uploading speed and downloading speed interconnected?While downloading from Torrent many a times both the Uploading and Downloading speed get equal. Is there any way to reduce the upload speed and increase the other one?
+No. Both upload and download speed are given fixed independent bandwidth by your Internet Service Provider.    Embed Quote

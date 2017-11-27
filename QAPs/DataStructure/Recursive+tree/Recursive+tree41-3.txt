@@ -1,0 +1,2 @@
+What's the easiest way to recursively get a list of all the files in a directory tree in Python?
+for (dir, _, files) in os.walk("directory/to/scan/"):      for f in files:      path = os.path.join(dir, f)      if os.path.exists(path):          print path 

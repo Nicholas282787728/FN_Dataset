@@ -1,0 +1,2 @@
+★What is the difference between HTML and JavaScript?
+HTML marks the data. JavaScript adds interactivity.

@@ -1,0 +1,2 @@
+Why aren't artificial neural networks used for everything?
+Because there's generally better solutions available for most problems. While in theory multilayered neural networks can approximate any function, in practice you need a huge amount of training data and processing time to even approach something useful. In most cases it makes more sense to just use a human designed heuristic solution or alternatively a more modern machine learning approach such as SVMs or RandomForests.    Embed Quote 

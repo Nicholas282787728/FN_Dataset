@@ -1,0 +1,2 @@
+★Predictive Analytics: What tools do you use for Data Preparation, primarily for outlier detection and removal, Feature Selection etc. If you use R software, what packages do you use?
+I have recently moved to R from SAS . I am enjoying doing mundane job like data preparation in R because of its data visualization capabilities. I think basic R is good enough for data preparation to model fitting (Regression). If you need high quality graph you may explore graphical packages. Outlier treatment is beautifully explained by Jeong.    Embed Quote

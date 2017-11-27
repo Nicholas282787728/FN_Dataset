@@ -1,0 +1,1 @@
+What is Stack Overflow's answer sorting algorithm?The default sorting is by votes. But you can choose by time. If votes are same，it's sorted by random.   

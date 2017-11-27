@@ -1,0 +1,2 @@
+Which programming language is good to learn OOP?
+For Object Oriented Programming go for C# or Java. 

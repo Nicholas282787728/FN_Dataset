@@ -1,0 +1,1 @@
+What is the branch and bound algorithm technique?What is branch and bound algorithm technique and how is it related to dynamic programming ? Is it more efficient than dynamic programming ?

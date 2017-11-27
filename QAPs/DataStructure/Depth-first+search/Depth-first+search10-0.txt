@@ -1,0 +1,2 @@
+What is a DFS (Depth-First-Search) tree?
+Depth first search is not a type of tree, it's a pattern for exploring a tree. You start at the root and head for the leaf of your choice, without taking multiple paths as you go. Once there you do the minimum backtrack necessary to head for a different leaf you haven't examined yet. Repeat until any node or leaf you touch has the value or property you're searching for. 301 Views · 1 Upvote

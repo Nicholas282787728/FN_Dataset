@@ -1,0 +1,2 @@
+★Is computer networks a boring area?
+Add me to the list of people with a fierce passion for networking. It's true, the pace of innovation in the area has declined, and we're currently stuck in another hype cycle (this year: Software-defined Networking), but there is no shortage of interesting work. Put another way: would you like to work on Terabit Ethernet?  A petabit router? Native mobility? These are coming.

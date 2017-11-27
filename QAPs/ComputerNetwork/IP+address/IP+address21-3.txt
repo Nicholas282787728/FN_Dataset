@@ -1,0 +1,2 @@
+★How do I do fast local geolocation of an IP address?I need to determine a city, state, and country from an IP address very quickly, in a matter of milliseconds.  This speed requirement demands that I do it based on a local database.  I've downloaded the hostip.info database but I can't find any instructions on how to do lookups in it.  Does anyone have any suggestions?  A free option would be ideal.
+MaxMind GeoIP is standard and starts free.  Quova (http://quova.com) has better data.

@@ -1,0 +1,2 @@
+★What is soft Wi-Fi?
+Soft Wi-Fi is when the Wi-Fi features are implemented in software rather than in hardware. For example, a Soft AP (Access Point) is a Wireless Wi-Fi access point where the features are done all in software, making it simple to add these features to a Wi-Fi chip that doesn't otherwise has them. But, running this in software is less efficient than hardware.    Embed Quote

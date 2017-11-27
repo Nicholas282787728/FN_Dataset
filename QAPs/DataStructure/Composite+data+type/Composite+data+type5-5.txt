@@ -1,0 +1,1 @@
+What is the strongest argument for functional programming?Or is this paradigm completely obsolete in front of OOP.

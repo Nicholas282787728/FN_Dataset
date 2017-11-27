@@ -1,0 +1,2 @@
+★What does a prediction interval mean in logistic regression?Does a 95% prediction interval of 35% to 65% college acceptance for a given SAT score mean that 95% of students with that score get into 35% to 65% of programs they apply to?
+It means "we are 95% confident that the percentage of students accepted for a given SAT score is between 35% and 65%."    Embed Quote

@@ -1,0 +1,2 @@
+How do you avoid a hash table getting sparsely populated?
+Use a great hash function with a modulo which is a prime & as far from power of two as possible... Having said this many things also depend on data size and properties... B'day paradox is here to stay... 328 Views

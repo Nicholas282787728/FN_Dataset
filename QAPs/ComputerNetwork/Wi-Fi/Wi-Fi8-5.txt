@@ -1,0 +1,2 @@
+★Does Wi-Fi work underwater?
+RF tends to be degraded by water. However, I don't think a few inches of water will entirely block a wifi signal. After all, light is RF and it still manages to permeate water quite well.    Embed Quote

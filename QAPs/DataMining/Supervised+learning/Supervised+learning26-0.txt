@@ -1,0 +1,2 @@
+★Which computer vision datasets are often used in semi-supervised learning and/or transductive learning?
+I'm not sure that there are standard datasets for semi-supervised learning in particular; however, the dataset used in Alexei Efros' scene completion paper [1] is probably around the size you're looking for. [1] http://graphics.cs.cmu.edu/proje...    Embed Quote

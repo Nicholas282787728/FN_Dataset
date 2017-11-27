@@ -1,0 +1,2 @@
+★Support Vector Machines: What is the best way to implement an SVM using Hadoop?
+Our group has been working on this very problem: http://www.stanford.edu/~boyd/pa...    Embed Quote

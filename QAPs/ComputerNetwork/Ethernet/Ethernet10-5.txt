@@ -1,0 +1,2 @@
+★What are the benefits of using an ethernet cable over a wifi router?
+Steady connection and security. Also if you have a Gigabit Ethernet connection, it gives 1000Mbps which most WiFi can't even closely match.

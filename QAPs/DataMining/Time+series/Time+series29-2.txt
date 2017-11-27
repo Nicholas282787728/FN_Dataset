@@ -1,0 +1,2 @@
+★Database Systems: Which data formats are used to store time series?I've seen .pfiles in speech recognition. Aree there more common alternatives?
+To keep time series data, you'd need your variables and date (or time or date and time objects) in multiple columns.    Embed Quote

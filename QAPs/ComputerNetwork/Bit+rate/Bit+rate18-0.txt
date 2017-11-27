@@ -1,0 +1,2 @@
+★What are the encoding profiles (bit rates etc) used for video on BBC iPlayer and what is the bit rate of the mezzanine (source file)?
+This isn't a full answer: but if you right-click the iPlayer video console on the desktop, you can see some useful information including the bitrates. By toggling the "info console" from that menu, you'll also be able to see statistics on where they're serving the video from, and more statistics.

@@ -1,0 +1,2 @@
+How do you explain what an abstract data type is in Java to someone who likes Harry Potter?
+You make them read HPMOR first. 

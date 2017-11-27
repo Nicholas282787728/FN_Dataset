@@ -1,0 +1,1 @@
+What is the need of array variables?Go write programs! You’ll figure it out why you need them. 28 Views · View Upvotes

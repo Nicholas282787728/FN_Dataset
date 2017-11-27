@@ -1,0 +1,2 @@
+What are some of the best resources for learning advanced data structures like segment trees and binary indexed trees (Fenwick trees)?
+Topcoder has a good article on fenwick trees http://community.topcoder.com/tc... Infoarena, a romanian website has a good one on segment trees Google Translate 

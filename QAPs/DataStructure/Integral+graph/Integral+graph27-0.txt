@@ -1,0 +1,2 @@
+How do we know that the definite integral is the "area under/upper the graph" since the indefinite integrals are just an antiderivative? Where is the connection between the antiderivative and the area?
+I'll give you a hint. 1)   Think  how the definite integral  is defined.   Take the simplest construction - the  Riemann integral -  it's definition is exactly the definition of the aforementioned area, see Riemann sum. 2)  Use the theorem that Paul Olaru has indicated.  It relates  the definite integral and the antiderivative. 

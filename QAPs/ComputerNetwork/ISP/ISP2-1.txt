@@ -1,0 +1,2 @@
+★How safe & trustworthy are ISPs?Do you trust the connection your ISP supplies?  How can you check that your information is safe?
+Not at all. If you want safety from interception (deep packet inspection), and data integrity (against Man in the Middle (communications attack) attacks), encrypt everything, end to end. Even then, you're still going to be subject to traffic analysis (that's expensive to defeat). See also my answer to, Of the things that I do on the internet, what can my ISP see?    Embed Quote

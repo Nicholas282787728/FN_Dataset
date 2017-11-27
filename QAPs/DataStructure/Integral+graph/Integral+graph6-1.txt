@@ -1,0 +1,1 @@
+Why don't sites integrate Open Graph Actions more frequently?What's refraining them from adding custom open Graph Actions to their website? Complexity? Time? No interest?

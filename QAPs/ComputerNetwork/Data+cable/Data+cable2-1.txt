@@ -1,0 +1,2 @@
+★Why don't all data cables use MagSafe connections?i.e. a connector that isn't friction or clip fastened at the end.
+If all it did was charge, it would work better. Interrupting a sync can corrupt data and cause all kinds of problems. Also, the iPhone is small enough and light enough that any magnet strong enough to latch on would be too strong to break without taking the iPhone with it anyway. (Gently tug on a MacBook's MagSafe and see what I mean)

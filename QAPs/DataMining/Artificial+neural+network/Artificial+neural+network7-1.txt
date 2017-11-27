@@ -1,0 +1,2 @@
+What is better for creating artificial neural network - python or lisp?
+If you're interested in deep learning, performance is paramount. So you'd be better off with C or C++, or even better, with an existing library that harnesses GPUs or at least SIMD instructions. I know there are some pretty good python libraries for that (see this for example: Deep Learning Tutorials).    Embed Quote 

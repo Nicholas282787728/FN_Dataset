@@ -1,0 +1,2 @@
+★How can I improve the precision/recall of a Logistic Regression model?
+I'm unfamiliar with Kaggle, but a couple of immediate things to try are: 1) Train on more data. 2) Use additional/different features. Do some error analysis on your results. Are there any commonalities among the errors that you can translate into better features?    Embed Quote

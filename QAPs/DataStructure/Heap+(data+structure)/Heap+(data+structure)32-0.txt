@@ -1,0 +1,2 @@
+Should I read algorithms like FFT, Max-flow, and data structures like 'Heap' to excel in the ACM-ICPCs?
+Since when is Heap an algorithm? And to answer your question, yes. You should definitely be familiar with FFT and Flows. They often come mixed up with other problems types. 234 Views

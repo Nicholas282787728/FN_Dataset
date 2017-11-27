@@ -1,0 +1,2 @@
+★How long should the DHCP lease time be for a coffee / tea shop?
+Nearly all clients will release their IP address before it expires and most DHCP implementations will honor that an give them another increment of lease time.  So it really doesn't matter that much.  I'd suggest an hour unless you're running out of addresses.  If you are you can make it much shorter.

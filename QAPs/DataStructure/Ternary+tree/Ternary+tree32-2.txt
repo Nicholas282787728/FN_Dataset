@@ -1,0 +1,2 @@
+Should one do programming without having knowledge of data structures and algorithms? How can it be helpful?
+It is just a waste of time and effort to program without DS and algos. Main purpose of programming should be to solve problems rather than just learning the syntax and being in a notion that you can code which infact is of no use 

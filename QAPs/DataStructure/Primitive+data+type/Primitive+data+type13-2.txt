@@ -1,0 +1,2 @@
+What is type wrapper in Java?
+A type wrapper in Java is a class that allows you to use primitives as objects. If you want to create a LinkedList of Integers, for example, using LinkedList<int> will give you a compile error.  Instead, you have to use the wrapper class Integer (e.g. LinkedList<Integer>) 

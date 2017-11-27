@@ -1,0 +1,2 @@
+What kind of programs are best written in Haskell?
+Haskell excels in places where complex mathematical computations are required, and where code-correctness really matters. Aside, if you're one of those guys who care about clean and elegant code, then you'll never be disappointed with what Haskell has to offer. 

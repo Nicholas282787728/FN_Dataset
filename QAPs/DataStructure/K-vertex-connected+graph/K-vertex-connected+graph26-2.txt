@@ -1,0 +1,2 @@
+What are some examples of seemingly easy math problems that are actually very difficult?
+One meaning of "seemingly easy" is "easy to express". A very well known example is the "3N+1" problem. See "Collatz conjecture" in Wikipedia for a thorough description. It's good fun, mathematically speaking. 

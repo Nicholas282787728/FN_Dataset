@@ -1,0 +1,2 @@
+★How do you solve structural equations using partial least square algorithm (PLS-SEM)?
+Hope this may give you a good intro: Page on r-project.org    Embed Quote

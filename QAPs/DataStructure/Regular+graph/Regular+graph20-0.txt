@@ -1,0 +1,2 @@
+When will Facebook release the review function of Places? And will reviews be available via API?
+I saw a post referencing it was being worked on (12/2013) and was mentioned to check back regularly. Graph API Reference 

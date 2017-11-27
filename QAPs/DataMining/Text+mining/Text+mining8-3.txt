@@ -1,0 +1,2 @@
+★What's the best way to get into text mining?
+You can also use open source GUI tools like Weka and KNIME. Like Satish Verma said you have to first go through the books and basics of these machine learning algorithms    Embed Quote

@@ -1,0 +1,2 @@
+★What are the easiest and best web scraping tool for non-technical people?I want to collect data from a few sites and have it dumped into Excel in a semi-organized way. What tools exists for me to do this easily?
+https://scrape.it uses a wizard to guide the users on what they want to scrape. I'm convinced after spending 6 years in this industry that this is the best way to scrape websites. Our users agree that it is by far the easiest web scraping tool they have used. If you want to speak with them, send me a message.    Embed Quote

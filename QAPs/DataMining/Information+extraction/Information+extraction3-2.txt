@@ -1,0 +1,2 @@
+★What are the most powerful open source information extraction tools?What sort of information?  How is the data stored and formatted?
+Go to apache UIMA Pure information extraction You can choose gate for some basic text processing (NER,nlp) Other includes Nutch Scrappy Nltk Stanford tools    Embed Quote

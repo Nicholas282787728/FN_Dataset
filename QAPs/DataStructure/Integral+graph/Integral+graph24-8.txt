@@ -1,0 +1,2 @@
+My calculus teacher said that it's impossible to integrate the function sin(x 2 )  . How, then, is my TI-84 graphing calculator able to find the area underneath its curve between two points?
+sin(x 2 )  ? It won't say that integral of sin(x) is cos(x). But it will only tell you if you give limits int[sin(x),0,2pi]. It's using something called Numerical analysis. Computers use iterative methods. For example, to calculate an integral, if rectangular method is used, the function is approximated into rectangles of defined widths and then areas of each rectangles. 

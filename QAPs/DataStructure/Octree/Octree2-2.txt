@@ -1,0 +1,2 @@
+Can a self-taught programmer get a job without knowing data structures or algorithms?
+I think it depends what you mean by "knowing data structures and algorithms". Deep knowledge isn't necessarily required, but a programmer who is unfamiliar with the most common data structures - arrays/lists, maps/dictionaries, sets, stacks, queues - and when it makes sense to use them, is going to have a difficult time. 

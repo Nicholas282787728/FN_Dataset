@@ -1,0 +1,2 @@
+★Where does my wireless router and wireless network belong in the electromagnetic spectrum?
+WiFi uses microwaves. So its a bit further up the spectrum from infra red. But not quite at Radio. Depends on the router, as different WiFi specs use different frequencies. The main ones are: 2.4 GHz, 3.6 GHz, 4.9 GHz, 5 GHz.    Embed Quote

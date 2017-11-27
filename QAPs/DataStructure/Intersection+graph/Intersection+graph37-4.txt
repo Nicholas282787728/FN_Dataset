@@ -1,0 +1,2 @@
+Is 0  one of the answers of x x  √  =x  √  x   ?
+Your equation is equivalent to x  √ =x2   , removing the 0 solution due to non-well-defined-ness. We will now try to solve it. Square it (you will also add extra solutions, so we will later need to check them): 4x=x 2   . Remove the x=0 solution to get x=4. 4 4  √  =4 4  − −  √   is your only solution, both numbers being equal to 16. Edit: It has been pointed out that when the base is 1 the exponent could differ. And indeed x=1 is another solution: 1 1  √  =1 1  − −  √ =1  

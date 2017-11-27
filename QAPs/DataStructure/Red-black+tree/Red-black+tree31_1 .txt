@@ -1,0 +1,1 @@
+Do professional software engineers implement their own b-tree or red-black tree from scratch?If not, what existing library do people commonly use for these DS?Almost never. C++ STL uses red-black trees in the (ordered) map container. 

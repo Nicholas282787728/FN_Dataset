@@ -1,0 +1,2 @@
+★How will the switch to IPv6 affect programs that rely on using IPv4 addresses?
+Whether programs need modification or not depends on whether they parse IP Addresses directly, or merely handle them as opaque identifiers. If the latter, they should already be good for IPv6.

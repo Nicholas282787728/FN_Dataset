@@ -1,0 +1,2 @@
+★What are the best HTML5 frameworks?e.g. http://html5boilerplate.com/
+Take a look at SproutCore (http://www.sproutcore.com/), Sencha (http://www.sencha.com/) + Sencha Touch (http://www.sencha.com/products/t...) for mobile, 52Framework (http://www.52framework.com/) for webdev, Baker (http://bakerframework.com/) for ebook publishing.

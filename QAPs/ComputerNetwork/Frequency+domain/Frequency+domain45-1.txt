@@ -1,0 +1,2 @@
+★Why is the moving average a lowpass filter?
+Curve fitting is drawing optimal inference from the given data with the understanding that this inference is equally valid for other similar data - but it need not be so. For e.g inference drawn from signals in a trending market will fail miserably in a flat or a rangebound market (and vice-versa)

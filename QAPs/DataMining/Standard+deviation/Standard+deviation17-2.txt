@@ -1,0 +1,2 @@
+★Is one standard deviation always 34.1% regardless of the data set?Is 34.1% derived, defined, or an observation coming out of a normal distribution? ...Does 1sigma always equal 34% of the population?
+Actually it is 68.2% with 34.1% on either side. anyways, it is true only when the distribution is or assumed to be normal. It might not be the case for other distributions, like Weibull or exponential.    Embed Quote

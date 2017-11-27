@@ -1,0 +1,1 @@
+Which elements must be in R  so that it is reflexive, symmetric, or anti-symmetric?

@@ -1,0 +1,1 @@
+What are advantages and disadvantages of using Kiji framework(Which is built over Hadoop).?Will it have any impact on the running time?

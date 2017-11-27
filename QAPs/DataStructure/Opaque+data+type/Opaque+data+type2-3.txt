@@ -1,0 +1,2 @@
+When would you use void pointers in C?
+It is a bad idea[1],but you asked for it. You can make a generic container for a doubly linked list,by using a void pointer to point to data: struct list { 	            struct list *next; 	           struct list *prev; 	void *data;}; [1]Sameer Gupta's answer to Why is pointer arithmetic with void* considered bad? Followed by not it's not type safe,adding new objects ll need new memory allocation etc etc. 

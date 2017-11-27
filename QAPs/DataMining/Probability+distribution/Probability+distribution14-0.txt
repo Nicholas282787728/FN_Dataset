@@ -1,0 +1,2 @@
+★Can a Bayesian posterior probability distribution collapse in the same way as a quantum wavefunction?Say, you have new information N*, where P(X|N*) = 1. Does that effectively collapse the Bayesian posterior probability function?
+Yes!  The interpretation is entirely equivalent to that in quantum mechanics, too: once a perfect measurement has been made the state collapses to a state of complete certainty.  Of course, the complete certainty is conditioned on all of the model assumptions (in particular the likelihood and prior used).    Embed Quote

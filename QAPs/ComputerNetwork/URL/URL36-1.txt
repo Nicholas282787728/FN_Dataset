@@ -1,0 +1,4 @@
+★Is there a URL normalization gem for rails?Is there a gem that does something like http://en.wikipedia.org/wiki/URL...
+Ruby's standard URI::Generic#normalize will do some of what is mentioned in that Wikipedia article you refer to. For example: 1
+2
+ uri = URI.parse "HTTP://www.Example.com:80" uri.normalize Would return http://www.example.com/; note the uniform case, removal of the standard port 80, and the addition of the slash at the end. So this much normalization would not require a gem.    Embed Quote

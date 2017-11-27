@@ -1,0 +1,2 @@
+★How much resources would a Pattern recognition app for Android consume?
+Image recognition is generally CPU and RAM intensive.   Normally I wouldn't worry about speed at all until you've built your first prototype, but in this case I would do the image processing in the cloud because : It's known to be a resource hog. You may wish to use a library not in Java (like OpenCV or something.) As you make improvements to it (now it can count cars, bicycles and beer cans!) all of your users get that functionality without updating their app.    Embed Quote

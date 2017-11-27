@@ -1,0 +1,2 @@
+Are there more or less UFO sightings after the proliferation of photo-capable mobile devices?
+This is a distribution of UFO Sightings by year --> Explore site.  I have made an interactive map and database that lets you answer all your questions about UFO sightings and share the visualizations with the findings: UFO-sightings - Silk   (Data is from WIkipedia, if you want to collaborate on the project to make it better, add pictures, events, info or any idea you have: contact me!) 

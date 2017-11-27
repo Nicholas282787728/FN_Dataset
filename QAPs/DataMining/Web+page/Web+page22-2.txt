@@ -1,0 +1,8 @@
+★How can you make a web page using Python?
+Of course there are frameworks such as Django, Flask, Falcon (this one seems cool) etc. But if you only want to do some computation and show the result on browser, where using a full (even micro) framework is overkill, you can do something like this: 1
+2
+3
+4
+5
+6
+ import webbrowser # this is a built-in module a = 'Hello World' page = 'test.html' with open(page, 'a+') as f:  f.write('<p>' + a + '</p>') webbrowser.open(page)    Embed Quote

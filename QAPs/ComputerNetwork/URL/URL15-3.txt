@@ -1,0 +1,2 @@
+★Do URL shorteners affect Google indexing?Tweeting links to newly published pages can help them get indexed faster, but does it matter if a url shorterer is used or not?
+As Dirk Deimeke said, I don't think that URL shortener affects Google (and other search engine) indexing. For sure, the URL shortener engine has a good method for handling search engine crawlers request, and giving them the real URL.    Embed Quote

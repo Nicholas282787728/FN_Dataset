@@ -1,0 +1,2 @@
+How do I find the node that has the least maximum distance to all the other nodes in a tree?
+This is a tree structure, as there are R nodes and R-1 edges and the graph is connected Tree (graph theory). The problem can be reduced to find the center of the tree, which has been answered here Graph Theory: What is the most efficient algorithm for finding the center of a tree? The algorithm has O(n) time complexity, thus, will run within time limit. 

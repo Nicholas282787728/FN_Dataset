@@ -1,0 +1,2 @@
+What are some unsolved problems in mathematics?
+Originally Answered: Which easy to understand mathematical problems are still unsolved and why?Goldbach's conjecture is accessible to a high school freshman :    Every even number greater than 2 is the sum of two primes. "Why" is of course tricky, but there are many open problems concerning prime numbers. 

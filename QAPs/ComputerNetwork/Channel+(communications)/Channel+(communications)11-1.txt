@@ -1,0 +1,2 @@
+★How useful is Facebook Chat as a communication channel for app developers?
+It is a great method to push call-to-actions to friends of users who are active at that moment. Check out tinychat's integration which sends a link to your live chatroom to any Facebook friend who is online.

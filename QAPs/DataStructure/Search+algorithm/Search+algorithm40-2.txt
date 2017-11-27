@@ -1,0 +1,2 @@
+What factors does the search algorithm for the iTunes App Store take into account?
+The factors have been constantly changing. Here are some main factors : 1) Conversion rate for the keyword search. 2) Retention Rate 3) Keywords included in the app title. 4) the quality of users who have downloaded your app Sometimes Apple will punish some apps who use illegal ways to boost their search rankings. In that case, users won't be able to find your app through search keywords. The punishment period usually last for 7 days. AppCicada's... (more)

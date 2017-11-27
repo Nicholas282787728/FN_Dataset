@@ -1,0 +1,2 @@
+★What are some fantastic books on time series analysis?
+It depends how advanced you are in your understanding of time series, and what you want to get out of it. My all time favourite is Chris Brooks "Introductory Econometrics for Finance". He does a great job at explaining the major concepts of time series analysis, and providing step by step Eviews tutorials with screen shots on how to perform the analysis.    Embed Quote

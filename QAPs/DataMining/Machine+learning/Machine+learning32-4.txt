@@ -1,0 +1,2 @@
+★What are Kernels in Machine Learning and SVM?I'm trying to get into SVM, but I cannot get the idea of kernels. What are they and why do we need them?
+Here is an even shorter visualization of what an SVM does. Basically the trick is to to look for a projection to higher dimensional space where there is a linear separation of the data (others have posted much more detailed and correct answers so I just wanted to share the vid, not made by me).    Embed Quote

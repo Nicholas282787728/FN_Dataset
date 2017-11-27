@@ -1,0 +1,2 @@
+How are spreadsheet apps, like Excel, built under the hood in terms of software design, data representation, and persistence?
+The source code of LibreOffice Calc is fully and freely available to anyone - LibreOffice - Free Office Suite - and can answer all of your questions in great detail. You'll probably be able to find documentation that describes the rationale behind all decisions, too. Generally, when you want to learn something, the open source community has your back :) 

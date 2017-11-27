@@ -1,0 +1,2 @@
+★What are some common applications of linear programming in game theory?
+Common? LP is the bread and butter of game theory. You formulate the games as linear programs and then solve them using the simplex method. Solve = computing equilibrium. Either Nash or Stackelberg equilibrium. You may also formulate games as quadratic, convex or non-linear programs - the latter is unsolvable and you may have to linearize it to solve it approximately.    Embed Quote

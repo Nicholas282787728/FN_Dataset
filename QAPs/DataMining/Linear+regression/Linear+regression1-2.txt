@@ -1,0 +1,2 @@
+★When are random forests better than linear regression?
+If you don't have a lot of data and the linearity/additivity assumption underlying OLS is true(it often is!), then OLS will have a lower out of sample error than random forest frequently.    Embed Quote

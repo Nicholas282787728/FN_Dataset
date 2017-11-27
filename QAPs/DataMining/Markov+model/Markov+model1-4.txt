@@ -1,0 +1,2 @@
+★What is the best Python library for Hidden Markov Models?
+sklearn HMM is quite nice library. It was not maintained for a while, but now seem like it's okay.    Embed Quote

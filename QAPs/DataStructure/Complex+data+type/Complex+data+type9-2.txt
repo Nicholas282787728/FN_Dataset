@@ -1,0 +1,1 @@
+Give examples for NoSQL database?Mention a type and descripe what you use it for Example: key-value database, for: caching results for fast retrival Please include all NoSQL types!

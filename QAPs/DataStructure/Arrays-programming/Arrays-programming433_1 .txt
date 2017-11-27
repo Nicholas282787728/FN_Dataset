@@ -1,0 +1,1 @@
+What are the different types of Java and Arrays?Java : Standard Edition (Java SE) Enterprise Edition (Java EE) Mobile Edition (Java ME) Array: Single Dimensional Array = {“Ram” , “Shyam” , “Mohan”}; Multi Dimensional Array = {{“Ram”} , {“Shyam”} , {“Mohan”}}; 31 Views

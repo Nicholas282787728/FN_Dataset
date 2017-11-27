@@ -1,0 +1,1 @@
+If we have a binary heap of n elements and wish to insert more n elements (not necessarily one after another) into this heap, what would be the total time required for this?

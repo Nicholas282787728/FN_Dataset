@@ -1,0 +1,2 @@
+★Is correlation a good indicator for choosing parameters in a linear regression?
+I worked out an example showing the perils of this here: Does the risk of Type I error decrease by combining all variables into one model versus testing them all separately in different models?    Embed Quote

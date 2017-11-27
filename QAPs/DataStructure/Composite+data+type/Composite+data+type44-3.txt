@@ -1,0 +1,2 @@
+Functional Programming: What are monads and why are they useful?
+See Philip Wadler, Monads for Functional Programming (Wadler: Monads), or Tackling the Awkward Squad (Simon Peyton Jones: papers). There is nothing Haskell specific about this abstraction, but languages like Haskell and Scala have features that make it much easier to use effectively. 

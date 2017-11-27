@@ -1,0 +1,2 @@
+★Why do 32-bit Linux kernels only recognize 3GB of RAM?The question is that 2³² = 4GB but systems only recognize 3GB.
+Because other devices (like bios, usb, etc) also need to occupy address space so that they can be accessed by the cpu.

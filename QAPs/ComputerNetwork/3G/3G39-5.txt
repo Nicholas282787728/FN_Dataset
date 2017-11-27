@@ -1,0 +1,2 @@
+★Where is the disable 3G, enable 2G option on Samsung Galaxy Grand?Does anyone know how to disable 3G on a Samsung Galaxy Grand? Ideally I would want to disable 3G but continue using 2G to access internet/apps. At my work place 3G reception aint great hence there's constant switching from 3G to 2G and vice versa eventually resulting in a faster battery drain.
+By going to net work setting s u can opt 2g or 3g

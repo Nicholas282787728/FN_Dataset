@@ -1,0 +1,2 @@
+Can the % operater be used on all data types in C?
+No, It can be only used for Integer as mod will be integer. It is not applicable for float. Actually, for all these type related queries can be checked by doing small program for them. So try such queries you will get your answer. Good luck!! 41 Views

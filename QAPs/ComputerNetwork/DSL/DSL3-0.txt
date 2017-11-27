@@ -1,0 +1,2 @@
+★Gems for designing a Ruby DSL?What gems are out there to simplify creation of a DSL?  What patterns should I check out?  What common mistakes should be avoided?
+DSL is actually a large subject and you may want to check out Martin Fowler's catalog of DSL Patterns. That said, there are several ways to implement a DSL. Check out the source code of well known Rubygems such as RSpec, Rails itself, Nokogiri, and others to get a glimpse of how they are implemented. There is no one sure definitive way, of course.

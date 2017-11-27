@@ -1,0 +1,2 @@
+Functional Programming: What are monads and why are they useful?
+Chapter 5 of Functional Programming in JavaScript treats monads as design patterns commonly seen in functional programming. Monads are simply abstractions over data that provide additional layers of logic. For example, the Maybe (or Optional) monad for working with null types. The IO monad writing to files or console, the Try monad to simulate try-catch blocks. Monads bring composition into these otherwise un-composeable behaviors. 

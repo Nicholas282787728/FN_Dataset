@@ -1,0 +1,2 @@
+What is the simplest language with which to learn algorithms and data structures?
+Python Here's why. graph = {'A': ['B', 'C'],  'C': ['B'] } See Guido's article on how easy graph traversal appears. http://www.python.org/doc/essays... The same should apply to other rich dynamic languages such as Ruby. Eventually you want to write in C++ or Java, maybe even Javascript for performance. Updated 9 Apr 2011 • View Upvotes

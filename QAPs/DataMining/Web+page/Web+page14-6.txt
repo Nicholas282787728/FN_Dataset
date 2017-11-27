@@ -1,0 +1,2 @@
+★Why is HTML used in web pages?
+In simple words, HTML is used to change the look and style of the page, and to arrange the different objects like text, images, videos, links, etc., on the page.    Embed Quote

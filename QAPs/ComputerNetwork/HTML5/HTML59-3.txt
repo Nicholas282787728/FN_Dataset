@@ -1,0 +1,2 @@
+★Is Bootstrap a complement or an alternative to HTML5 Boilerplate or viceversa?In one corner we have Bootstrap and Foundation, in the other we have HTML5 Boilerplate and similar HTML/CSS starting templates. Can they be used together or do we have to pick a side?
+I think Initializr (http://www.initializr.com/) answers this question perfectly, proving that you can use the elements of each together. Workless is another Bootstrap/H5BP combo ( http://ikreativ.com/projects/wor...).

@@ -1,0 +1,2 @@
+How can a segment tree be built and queried non-recursively?
+Page on google.co.in 

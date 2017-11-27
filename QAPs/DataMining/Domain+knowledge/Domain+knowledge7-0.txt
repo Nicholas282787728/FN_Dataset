@@ -1,0 +1,2 @@
+★What kind of domain knowledge is required in expert testing?For a testing engineer,
+Test engineer should have Database knowledge, Business Knowledge, Basic Unix Knowledge and average mind :P PS: I have done Manual Testing for 1 year.    Embed Quote

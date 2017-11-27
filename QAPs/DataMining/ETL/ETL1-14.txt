@@ -1,0 +1,2 @@
+★Business Intelligence: ETL : which is the best open source ETL tool to start working ? specially if we are kick starting a BI project
+Pentaho DI is my recommendation. The best thing with Pentaho is that there is support available on the same. You pay for the support according to the package you require. MS BI is another option, again not free but relatively cheap . MS SSIS is a very powerful ETL tool and unless you are working with greater than 20 gigs of data can fit all your needs.    Embed Quote

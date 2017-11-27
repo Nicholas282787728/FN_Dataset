@@ -1,0 +1,2 @@
+What can be done with Ruby or Python that just can't be done with PHP?
+I also believe, there is nothing which Ruby / Python can do and php can not. Ruby has gems, python has eggs and PHP has "Pear". So almost similar. but as far as programming culture, Ruby is Awesome. I also like to code in Ruby. Not sure about python(But that is good too). So what extra Ruby has is it's developer friendly nature. 

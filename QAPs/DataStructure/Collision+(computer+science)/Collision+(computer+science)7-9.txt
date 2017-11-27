@@ -1,0 +1,2 @@
+How important is linear algebra in computer science?what is the relation between computer engineering and linear algebra
+Very important in Computer Vision for: camera modeling; epipolar geometry; calibration and self-calibration; pose estimation; structure-from-motion; and many other things. 

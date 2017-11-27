@@ -1,0 +1,2 @@
+Can you help me solve e x =1−x  ?
+Take Ln of both sides you get x=Ln 1-x. Ln is not defined when 1-x is less or equal to 0. And the x does not equal to Ln 1-x when x is greater than 0. The equation is only true when x = 0.  0= Ln 1= 0. So x is 0. Thank you Viktor Toth for pointing the misleading part. 

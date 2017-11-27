@@ -1,0 +1,1 @@
+Is there an EM algorithm for decision tree classifiers?EM is most useful for Maximum Likelihood Estimation of models with hidden random variables, e.g. HMM, Mixture model and many other real world problems. Decision tree is non-parametric model, so definitely No. 1.9k Views  View Upvotes

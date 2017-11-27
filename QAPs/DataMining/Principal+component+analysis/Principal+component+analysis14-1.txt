@@ -1,0 +1,2 @@
+★When is PCA (principal component analysis) not preferred as a preprocessing technique before using a machine learning algorithm?
+When you are concerned about explicability.    Embed Quote

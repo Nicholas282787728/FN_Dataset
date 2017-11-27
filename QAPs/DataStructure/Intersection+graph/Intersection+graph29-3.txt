@@ -1,0 +1,2 @@
+How can you solve 8 x +9 x =10 x   ?Without trial and error or approximation methods, please show details.
+I'd use Newton's method , with some appropriate simplifications: 8 x +9 x =10 x ⇒1+(98 ) x =(54 ) x   ⇒e xln1.25 −e xln1.125 −1=0  f ′ (x)f(x) =1.25 x ln1.25−1.125 x ln1.1251.25 x −1.125 x −1   

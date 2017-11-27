@@ -1,0 +1,2 @@
+What are data types in c?
+Originally Answered: What are the different data types in c? Helllo, Please check below links C - Basic Datatypes Datatypes in C Language C data types C Programming Data Types Hope above links are useful to you and all the best. 214 Views

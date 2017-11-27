@@ -1,0 +1,1 @@
+Why is the complexity of pop function of a standard C++ priority queue O(log n)?

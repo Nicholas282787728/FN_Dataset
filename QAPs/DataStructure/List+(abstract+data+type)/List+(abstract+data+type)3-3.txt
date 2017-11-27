@@ -1,0 +1,2 @@
+What are some "practice problems" that everyone should work on in-order to get better at programming (in any programming language)?
+CodeEval - Evaluations Made Easy provides the same server-side compiling and judging capabilities of Timus Online Judge, with the added bonus of, what I think, is a nicer UI. Also there are sponsored challenges that are regularly put up by companies, so you might just impress someone with your code enough to get you a job 

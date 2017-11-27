@@ -1,0 +1,1 @@
+Is there a Java library for a decision tree that accepts numeric values?I'm looking for a Java library for decision trees which accepts numeric attributes and classes/grades. Weka's J48 deals with discrete attributes but doesn't accept numeric ones.Previously, I used weka for decision tree computing. It's really a good open-source software. 558 Views

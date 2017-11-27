@@ -1,0 +1,2 @@
+★How common is it to be asked to implement Regular Expression matching in interview?
+I've been asked to implement a regular expression matcher for a subclass of regular expressions (involving the special symbols ^, $, ., and *). It's unnecessary to use automata for this. See the following article for a short solution in C: Page on Princeton Either way, though, this is definitely a hard-hitting question for a short 45-minute interview. There's no doubt about it.    Embed Quote

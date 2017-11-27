@@ -1,0 +1,1 @@
+Can structure variables be compared directly without accesssing each element of structure?Ideally, no. The compiler will generate code for element by element comparison. However, if you choose to store a hashcode for your structure, you can first check hashcode Nd then go for full structure matching only if the hashcdes are equal. 23 Views  View Upvotes

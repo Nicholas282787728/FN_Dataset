@@ -1,0 +1,2 @@
+★Are there ontologies for job types?A visualization tool or a catalog browser to scan and compare all different types of jobs and their skill analysis
+Good place to start is the UN standard ISCO-88 for classification of occupations. Most governments in the world classify its workforce by using this standard. National standards for classification of occupations are normally adaptations of the ISCO standard using the same occupation codes.    Embed Quote

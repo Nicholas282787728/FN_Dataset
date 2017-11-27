@@ -1,0 +1,2 @@
+★Does IQ in people follow a normal distribution?
+Not exactly.  IQ tests are constructed to have a mean of 100 and an standard deviation of 15. However, they are not exactly normally distributed (although they are close).  There is some evidence that the tails are fatter than normal and there is a right skew to the distribution. However, the center of the distribution is nearly exactly normal.    Embed Quote

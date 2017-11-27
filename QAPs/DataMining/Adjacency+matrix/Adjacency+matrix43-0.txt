@@ -1,0 +1,2 @@
+★Pattern Recognition: Why is Spectral Clustering named so? What does spectral refer to?
+Spectral Clustering is done using the Graph Laplacian of the data. It is the Eigenvalues and Eigenvectors of this matrix that give vital information about the connected components (the clusters) in the graph representing the data. The set of Eigenvalues of the Graph Laplacian (or Adjacency matrix) is called the 'Spectrum' of the Graph. This should explain the name "Spectral Clustering".    Embed Quote

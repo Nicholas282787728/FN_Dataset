@@ -1,0 +1,2 @@
+How can we solve the problem of collision in the hash?
+There are different methods, perhaps the following article/blog post will give you some general insights: The .NET Dictionary 

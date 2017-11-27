@@ -1,0 +1,2 @@
+What is the intuitive explanation of power law distributions?
+Another intuitive explanation is the phenomenon “rich get richer”. You can read this chapter from the well-known book Networks, Crowds, and Markets: Reasoning about a Highly Connected World. 102 Views

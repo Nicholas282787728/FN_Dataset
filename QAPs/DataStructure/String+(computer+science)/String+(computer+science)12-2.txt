@@ -1,0 +1,2 @@
+What is the difference in knowledge of a language (say JavaScript) between a non-computer science background programmer and a computer science engineer/scientist and how does it help?
+IMHO, the main difference is in how easy it is to move past Imperative Programming and get the other paradigms supported by the languange. With some brillian exceptions, the programmers without CS exposure had trouble getting polymorphism (object), first-class functions (functional), backtracking (logical) etc., end end up using powerful languages in an imperative Pascal-like fashion. 

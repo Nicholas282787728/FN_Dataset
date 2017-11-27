@@ -1,0 +1,2 @@
+Is it right to put it this way: math is the study of objects that are defined using sets?
+I mean, in the same way that computer science is the study of objects that are defined using strings of 0s and 1s. 

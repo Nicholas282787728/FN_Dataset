@@ -1,0 +1,2 @@
+Mathematical Fallacies: How does one explain the “π = 4” proof regarding a square reduced to a circle?
+Originally Answered: What's wrong in this?The perimeter of circle will be the sum of the pythagorean side of the small triangles, or the tangent So whats wrong in above derivation is that it is assuming that perimeter of circle is ((sum of (x^2) + (y^2)) root, whereas it should be sum of z^2. 4 = (sum of (x^2) + (y^2) ) ^ 1/2 pi = (sum of z^2) 4 - pi = (sum of (x^2) + (y^2) ) - (sum of z^2) 

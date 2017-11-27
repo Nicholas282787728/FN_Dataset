@@ -1,0 +1,2 @@
+★Does TCP use virtual circuit switching ?why it is the meaning in Todd lammle ccna r and s guide that tcp sets up a virtual circuit? what is the meaning ? is it actual virtual circuit switching or datagram approach
+No, it's not the actual Virtual Circuit Switching, it's just a virtual/logical path. Usually it's referred to as TCP session.

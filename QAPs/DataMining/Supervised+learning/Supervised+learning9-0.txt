@@ -1,0 +1,2 @@
+★Artificial Neural Networks: What are the effects of learning factors in supervised learning?
+In supervised learning, or learning with teacher, some important parameters that can affect learning is: The training set chosen. The sequence in which training set is presented to the network. The learning rate and how you are changing it. And finally the error correcting algorithm you are using.    Embed Quote

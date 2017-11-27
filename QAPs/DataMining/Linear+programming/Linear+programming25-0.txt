@@ -1,0 +1,2 @@
+★What are some good resources for studying string algorithms, geometry algorithms, FFT and Linear Programming?
+For strings I find the book by Dan Gusfield Algorithms on Strings, Trees and Sequences: Computer Science and Computational Biology is interesting and useful. Amazon.in - Buy Algorithms on Strings, Trees and Sequences: Computer Science and Computational Biology Book Online at Low Price in India    Embed Quote

@@ -1,0 +1,2 @@
+What is applied fuzzy logic?
+That would be some form of multi-dimensional inference systems like Mamdani or Sugeno for any real time system or embedded device, where the multi-variable rules take fuzzy values to give an output that is also fuzzy. Read up on conventional AC-temperature control systems which take discrete and fixed balues in contrast to fuzzy control systems that have a more continuous value graph and are hence better in term of efficiency and reducing latency. 

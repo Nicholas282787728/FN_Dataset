@@ -1,0 +1,9 @@
+★What is sleep sort?
+Just for fun, there is implementation in Erlang 1
+2
+3
+4
+ sort(L) ->     Parent = self(),     [ spawn_link(fun() -> receive after X*10 -> Parent ! X end end) || X <- L ],     [ receive X -> X end || _ <- L ]. Which can be written nicely as one expression in Erlang shell as well 1
+2
+3
+ [ receive X -> X end   || _ <- [ spawn_link(fun() -> receive after X*10 -> P ! X end end)             || P <- [self()], X <- L ] ].

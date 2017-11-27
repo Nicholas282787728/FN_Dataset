@@ -1,0 +1,2 @@
+Sorting Algorithms: Can anyone give me the easiest code for heap sort?
+IMO implementation would look something like Page on wikimedia.org  I could have written code for you but it wont help you much. Any code which you will write on your own , will be very easy for you. Anyways you can find the code online.  Let me know if you still need code. 

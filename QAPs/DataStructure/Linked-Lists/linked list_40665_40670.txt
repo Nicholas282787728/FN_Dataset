@@ -1,0 +1,1 @@
+why the pointer in link list be of structure type ? the node in a link list need to hold two thing : that make they struct , so a pointer to a node be a pointer to a struct . 

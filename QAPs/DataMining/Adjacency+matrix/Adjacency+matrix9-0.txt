@@ -1,0 +1,10 @@
+★How do I implement DFS traversal using adjacency matrix in a C program?
+1
+2
+3
+4
+5
+6
+7
+8
+ void dfs(int node){  vis[node] = 1;  for(i = 0; i < nodes; i++) {    if(adj[i][node] && !vis[i]) {      dfs(i);    }  } } Does that work ?    Embed Quote

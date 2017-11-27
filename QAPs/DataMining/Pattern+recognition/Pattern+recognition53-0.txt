@@ -1,0 +1,2 @@
+★What does pattern recognition mean and how is it used in technology?
+Pattern recognition or matching is used extensively in image processing by pixel counting method. Example automatic optical inspection systems etc. It also used in checking troop movements etc. Other application is weather monitoring. There are many more.    Embed Quote

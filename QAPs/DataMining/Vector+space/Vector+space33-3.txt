@@ -1,0 +1,2 @@
+★How do you prove a subspace of a finite-dimensional vector space is finite dimensional?
+Can not be anything else! Subspace of a finite-dimensional vector space is another vector space with dimension no larger than the original space.    Embed Quote

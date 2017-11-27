@@ -1,0 +1,2 @@
+★How does WiFi work?
+The core for WiFi is radio waves travelling at 2.4 GHz or 5Ghz. Understand how Radio works, and you're half done with Wireless Fidelity.    Embed Quote

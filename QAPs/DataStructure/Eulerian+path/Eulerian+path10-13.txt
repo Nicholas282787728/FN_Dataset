@@ -1,0 +1,2 @@
+What surprised you the most in your field of study?
+That software development management is so convinced that hardware enhancements are so continually certain that its not worthwhile to take time to optimize code both from the standpoint of memory use or speed. 

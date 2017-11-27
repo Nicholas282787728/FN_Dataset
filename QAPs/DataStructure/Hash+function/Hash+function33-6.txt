@@ -1,0 +1,1 @@
+How do I choose the right hashing function for a hashtable implementation?I am working on a project in C++ where I will have to store hundreds of thousands of String keys & pointer values in a hashtable. There are plenty of good Hashtable implementations but I'm not sure how to choose the right hashing function. Any advice?

@@ -1,0 +1,2 @@
+★What are some important papers on music information retrieval and music synthesis?
+Signal Processing for Music Analysis by Meinard Müller, Daniel P. W. Ellis, Anssi Klapuri and Gaël Richard. http://www.ee.columbia.edu/~dpwe...    Embed Quote

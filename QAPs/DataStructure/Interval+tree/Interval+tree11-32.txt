@@ -1,0 +1,2 @@
+What are the 10 algorithms one must know in order to solve most algorithm problems?
+Another interesting method very useful in various applications is Monte Carlo Method and also travelling salesmen algorithm. One can solve problems in Data analytics or mining using a Monte Carlo method. 

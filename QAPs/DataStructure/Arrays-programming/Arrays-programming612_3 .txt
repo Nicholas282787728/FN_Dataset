@@ -1,0 +1,1 @@
+Algorithms: An array of n elements contains only two distinct values. How many calls to the Partition subroutine are needed to completely sort this array? (Select ONE answer) A. O(l) B. O(log n) C. O(n) D. O(n log n)?Only one. Because after that the condition of low<high "Less than" and not "less than or equal to" becomes false. 226 Views  View Upvotes

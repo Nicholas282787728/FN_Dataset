@@ -1,0 +1,2 @@
+★Is there any cloud based API that one could use to extract information from a PDF invoice?
+Yes. Check out this list of PDF APIs - http://blog.mashape.com/post/660...    Embed Quote

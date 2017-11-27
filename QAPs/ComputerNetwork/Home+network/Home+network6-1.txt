@@ -1,0 +1,2 @@
+★Would Firesheep capture HTTP sessions of people connected to my protected home network?
+Best way to prevent firesheep from ruining your day is paying for a personal VPN network or creating your own with a home server. Airpcap cards, APR poisoning, and other man in the middle attacks would miss your traffic if you connected to a proper unforged certificate.

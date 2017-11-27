@@ -1,0 +1,2 @@
+★What does "standard mean of error" in statistical results mean?
+The standard error of the mean is the estimate of the standard deviation of the difference between the sample mean and the true mean.  That's a mouthful and takes a while to understand.  Take a look at: Standard error to get more information.    Embed Quote

@@ -1,0 +1,2 @@
+★Natural Language Processing: How would you programmatically parse a sentence and decide whether to answer "that's what she said"?Outline an algorithm that, given a sentence, returns true or false for whether a "that's what she said" is appropriate.
+First thoughts: roughly parse sentence , if (subject is generic object and object is speaker or the reverse) and ( sentence contains dimensionality and/or emotion related adjectives/adverbs/verbs) then TWSS.

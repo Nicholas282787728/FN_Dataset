@@ -1,0 +1,2 @@
+How can I crunch big data sets with my laptop?
+I would suggest two ways to analyze it using R on your laptop 1) Since it's a 1GB CSV file you could dump it into a MySQL db and use RMySQL/RODBC libraries to process a chunk of data at a time. 2) If you use a linux machine, setup a pseudo-distributed hadoop cluster or download a sandbox from Cloudera or Hortonworks, then install RHadoop on that and analyze the data. You could use this link for a RHadoop quick start. Install RHadoop on Hortonworks HDP 2.0    Embed Quote 

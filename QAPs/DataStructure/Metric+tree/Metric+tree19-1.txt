@@ -1,0 +1,2 @@
+Classification (machine learning): How do I define on a binary decision tree the threshold for each feature?
+There are many different ways to do this, gini index is probably the most popular (textbook introduction). I found this resource to be very informative in undergrad: Introduction to Data Mining: Pang-Ning Tan 

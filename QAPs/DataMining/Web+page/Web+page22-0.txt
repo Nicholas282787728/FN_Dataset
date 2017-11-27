@@ -1,0 +1,2 @@
+★How can you make a web page using Python?
+If you mean to compose and mark up a page in HTML for use as a webpage, that is something you can do with Python, but it's overkill. For example see lxml.html for how you'd use one library to do this. By contrast, you can use CommonMark (CommonMark), the grown-up successor to the Markdown style of formatting a plaintext document for easy conversion to HTML.    Embed Quote

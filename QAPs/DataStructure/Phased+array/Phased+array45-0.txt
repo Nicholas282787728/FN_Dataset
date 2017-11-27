@@ -1,0 +1,2 @@
+What will be the capacity of the OneWeb satellite constellation?
+According to the Wikipedia article (OneWeb satellite constellation), "Each satellite will be capable of generating 6 gigabits per second of throughput.[9] The antenna on each smallsat will be a phased array antenna measuring approximately 36 by 16 centimeters (14.2 by 6.3 in) and will provide Internet access at 50 megabits/second." 

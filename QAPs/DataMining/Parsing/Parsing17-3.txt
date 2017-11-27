@@ -1,0 +1,2 @@
+★What does parsing mean in Java?
+Parsing is used to convert the value of one data type to a value of another data type. As an example, String testString = "449"; Now to parse the string and convert it to integer value, we should use int i = Integer.parseInt( testString );   On the other way, Java compiler parses source code of .java file and creates tokens that match the java grammar. So, when we write wrong code, the java compiler's parsing process identifies the Error in code.    Embed Quote

@@ -1,0 +1,2 @@
+How do you implement breadth first search on a binary tree using just recursion and no explicit data structures such as a queue, stack, list etc.?
+Find the height of the tree. Now use a loop to from height = 1 to max height and print the nodes corresponding to a particular height in each iteration. But This will give O(n^2) time complexity. Using queue its only O(n) For (i=1 to max height)       Print all nodes of tree with height i 

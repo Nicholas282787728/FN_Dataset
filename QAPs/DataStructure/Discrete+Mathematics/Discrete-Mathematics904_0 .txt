@@ -1,0 +1,1 @@
+How is Discrete Mathematics used in computer science?Very short answer math logic. Mathematical reasoning and proof techniques. Unlike high school math, Discrete math is somehow real world math. It represents the math of computing and comes in handy when taking other higher level math courses. It is also fun unlike calculus which made me sleep 326 Views  View Upvotes

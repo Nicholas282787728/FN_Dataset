@@ -1,0 +1,2 @@
+★What does Ifttt think of adding a HTTP request channel?Adding a HTTP Request channel would allow developers to build their own custom channels. For example, you could connect your Pinboard to a custom script that saves the bookmark's HTML to a Dropbox. Developers could even publish these as recipes that anybody could use.
+See the recent reply by Geek Sniper "aka CEO" @Mashape Augusto Marietti to my question: Why doesn't Mashape make its APIs compatible with IFTTT?

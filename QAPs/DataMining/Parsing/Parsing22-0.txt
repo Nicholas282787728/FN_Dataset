@@ -1,0 +1,2 @@
+
+★★★★★According to me parse is a smart choice as a app back end.I started using parse in my all apps when I came to know about parse. It is cool as it is schema less and within 4 to 5 lines you can do all the communications with the server. Main features of parse: 1.Parse Analytics (To track down all the stats of App.) 2.Parse Push (Providing easy to use push notification service.) 3.Local Database etc.    Embed Quote

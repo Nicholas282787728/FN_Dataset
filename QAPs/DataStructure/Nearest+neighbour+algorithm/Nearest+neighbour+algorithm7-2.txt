@@ -1,0 +1,2 @@
+Which is your favorite computer vision algorithm and why?
+I would also go with SVM using HOG features. As Tomasz Malisiewicz points out, its simple usage combined with the complex problems it can solve is simply amazing! I also like Markov random fields (although MRF is a physics algorithm, with applications in computer vision). MRF provides a basis for modeling contextual constraints in image processing. It can be used with optimization principles to formulate and solve a variety of low-level computer vision problems. 

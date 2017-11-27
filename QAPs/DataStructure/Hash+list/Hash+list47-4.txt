@@ -1,0 +1,2 @@
+What is the simplest language with which to learn algorithms and data structures?
+Probably python, since its syntax so closely resembles the pseudocode usually used to teach algorithms. 

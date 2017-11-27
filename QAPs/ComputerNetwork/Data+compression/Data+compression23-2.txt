@@ -1,0 +1,2 @@
+★Is there still a long way to go in data compression algorithms?
+Communication infrastructure is broadbend, storage capacities rise day by day, for the same amount of money, data compression becomes less and less important, but, yes, there is a long way to go in data compression. It's the matter of time when somebody will come up with pretty clever algorithm for even bigger compression ratio than we have today.

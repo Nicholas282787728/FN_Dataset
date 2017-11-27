@@ -1,0 +1,2 @@
+★Why isn't supervised machine learning more automated?
+Development of machine learning code is not automated because it is an itearative process that requires fine tuning. Once the code is finalized, it can be and is automated. If designed proporaly, it will automatically learn based on new data and adjust the parameters accordingly. In that sense it can be more automated than traditional modeling techniques.    Embed Quote

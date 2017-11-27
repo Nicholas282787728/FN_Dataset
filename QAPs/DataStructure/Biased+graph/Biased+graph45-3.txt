@@ -1,0 +1,2 @@
+What is the most exciting new research in mathematics? What do mathematicians find exciting nowadays?
+Homotopy type theory, because it has the potential to unify computation and mathematical logic, and to make large-scale proof engineering a central part of mathematics. The HoTT Book 908 Views · 4 Upvotes

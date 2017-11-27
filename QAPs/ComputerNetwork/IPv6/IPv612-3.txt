@@ -1,0 +1,2 @@
+★Why should I switch over to IPv6?My ISP supports IPv6 (*), letting customers run a dual stack (IPv4 with IPv6). Why should I enable IPv6? It doesn't help alleviate my usage of an IPv4 address, for example. (*) Comcast Reaches Key Milestone in Launch of IPv6 Broadband Network
+Biggest reason IMHO: General preparedness, start getting experience.  I mean, 512k day just happened yesterday ... (Continued growth of the Internet and advancement in terms of services made available *is* the killer app for IPv6, but that is hard to make tangible to the average CEO ... )    Embed Quote

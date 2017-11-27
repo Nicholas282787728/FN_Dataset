@@ -1,0 +1,2 @@
+★HTML: What is HTML?
+HTML stands for Hyper-text markup language is a language that is used by the web pages to display any content in a web browser.  Web pages follow the rules of HTML in order to be displayed correctly in a Web browser. HTML syntax is based on list of tags that decide the page format and describe what is displayed on the web page.  In simple word we can understand that HTML is a language that is used to create documents on the world wide web.

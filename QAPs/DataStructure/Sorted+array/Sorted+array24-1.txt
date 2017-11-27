@@ -1,0 +1,2 @@
+What is the fastest algorithm for computing the kth smallest element in the union of two sorted lists of size m and n?
+Another solution that does log k comparisons: Compare the 2 middle elements. Assume A[k/2] < B[k/2]. Reduce the problem to finding the k/2th element in A[k/2:] and B[0:k/2]. Ben's solution might take 2 log k comparisons. 9.3k Views · 37 Upvotes

@@ -1,0 +1,2 @@
+★What are Kernels in Machine Learning and SVM?I'm trying to get into SVM, but I cannot get the idea of kernels. What are they and why do we need them?
+To add to the other answers, an RBF kernel, perhaps the mostly commonly used kernel, acts essentially as a low band pass filter that prefers smoother models. For a full mathematical justification of this fact check out Charles Martin's explanation.    Embed Quote

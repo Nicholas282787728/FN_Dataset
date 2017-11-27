@@ -1,0 +1,2 @@
+What mathematical or scientific principle have you discovered on your own only to later learn it was already known?
+In 4th grade I listed first 10 square numbers. When I calculated the difference between two consecutive numbers, I got the odd number series. I was curious and went on till 100 square, and I was so happy that the odd number series continued. But later in 7th grade I found the formula (a^2-b^2)=(a+b)(a-b), and hence difference between two consecutive squares is (2a+1), resulting the odd number series. 

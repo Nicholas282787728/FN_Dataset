@@ -1,0 +1,1 @@
+How can one order the numbers 1 through 17 so that the sum of any two consecutive numbers are always a square number? Also, how does one prove there is no such ordering for the numbers 1 through 18?

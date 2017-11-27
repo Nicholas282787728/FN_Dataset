@@ -1,0 +1,2 @@
+What are the frequently asked basic and complex queries ( SQL) during a tech interview?
+Usually, most of the things covered in a basic introductory SQL course/Database course are fair game (check this one out: SQL Tutorial), or some interview-specific subreddits (like CS Career Questions). You can also look at this community-driven article: Toptal SQL Interview Questions. Also, feel free to contribute or comment on some of the questions! 

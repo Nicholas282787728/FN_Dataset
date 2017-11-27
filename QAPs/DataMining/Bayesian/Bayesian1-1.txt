@@ -1,0 +1,2 @@
+★What is the difference between Bayesian and frequentist statisticians?
+Mathematically speaking, frequentist and Bayesian methods differ in what they care about, and the kind of errors they're willing to accept. Generally speaking, frequentist approaches posit that...                                         Read it on the Web.    Embed Quote Updated 14 Feb, 2013. 12,000 views.

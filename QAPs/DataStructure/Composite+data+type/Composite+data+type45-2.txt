@@ -1,0 +1,2 @@
+What is the difference between SimpleDB and DynamoDB?
+I am very interested at this question too. This webpage ,http://www.readwriteweb.com/clou... , seems to explain the birth of DynamoDB, in which it explains the drawback of Building DynamoDB alone and the ability of SimpleDB. I quote here "So Amazon's DynamoDB is meant to address the limitations of Dynamo and SimpleDB." LOOKING forward to a better answer. 

@@ -1,0 +1,1 @@
+Why do we not have a data transaction system that transfers data in forms of decimal systems rather than binary (0 and 1) in computers? What is the feasibility of having such type of data transaction?If we can do so, the processing efficiency increases and also the memory usage reduces.

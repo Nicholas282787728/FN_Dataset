@@ -1,0 +1,2 @@
+★What are the most interesting open-source projects in artificial intelligence and machine learning?What projects should people be paying attention to and studying?
+Dlib has a clean C++ API and a good selection state-of-the-art methods.  For example, there are easy to use tools for training structured prediction models or doing object detection in images. You can read about it in its Journal of Machine Learning Research paper Dlib-ml: A Machine Learning Toolkit or dive right in by looking at the more current dlib algorithm selection guide.    Embed Quote

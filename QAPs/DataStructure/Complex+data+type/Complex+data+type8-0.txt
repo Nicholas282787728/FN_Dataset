@@ -1,0 +1,2 @@
+What skills do self-taught programmers commonly lack?Or, to put it another way: what should a self-taught programmer study to get up to speed with his/her formally-educated peers?
+Numerical methods, performance analysis of algorithms (on paper, as opposed to profiling), and assorted fundamentals of computer science and machine architecture that are best expressed through examples, but inevitably wind up tripping such coders up at various times.  Eg: Python 2.6.1 (r261:67515, Jul  7 2009, 23:51:51) >>> 2.03 2.0299999999999998 

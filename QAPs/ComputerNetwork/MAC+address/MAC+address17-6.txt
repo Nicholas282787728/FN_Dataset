@@ -1,0 +1,2 @@
+★When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?
+Because the two identfiers serve different purposes. Not all ethernet traffic is IP and not all IP traffic is carried on ethernet.    Embed Quote

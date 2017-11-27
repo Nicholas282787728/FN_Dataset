@@ -1,0 +1,2 @@
+★What is the easiest way to do an FTP to FTP transfer online?I mean transferring online, so I don't want to download then reupload. But I can't write code or find a tool, anyone will help me? Thanks
+This might help: You need to use MyBackupBox to take Automated Website Backups to Dropbox without Plugin on any CMS . Visit BlogSolute for instructions on how to setup MyBackupBox using PuTTY (Telnet and SSH client).  Good luck!

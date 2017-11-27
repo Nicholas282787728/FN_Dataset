@@ -1,0 +1,2 @@
+How should I implement a social networking analysis directed graph in c++?
+How about having members in the User class that has data members like this: vector<User*> following; vector<User*> followers; 134 Views

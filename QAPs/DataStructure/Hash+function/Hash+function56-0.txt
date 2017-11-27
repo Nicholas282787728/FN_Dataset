@@ -1,0 +1,2 @@
+What is the one way property of cryptographic hash functions?
+It means given a hash value for a string, it is computationally very hard to get the string back. There is no known efficient algorithm to do this. 

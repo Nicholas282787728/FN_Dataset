@@ -1,0 +1,2 @@
+Job Interview Questions: Which are the frequently asked interview questions for Java Engineers ?
+The interviewers and I  love all or some of the following areas 1) OOPS 2) Collections(set vs map, arraylist vs vector) 3) HashMap 4) Garbage collection 5) final, finally, finalize 6) try catch 7) Multithread (synchronized keyword) 8) Singleton class with double locking 9) Classloaders 10) JMM I have put most of the concepts as part of my learning here Core Java interview Questions Hope this helps !! 

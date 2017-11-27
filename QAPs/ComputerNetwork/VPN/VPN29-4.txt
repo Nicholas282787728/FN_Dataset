@@ -1,0 +1,2 @@
+★How can I use a VPN in China?
+Use Witopia. Their IPsec is very affective and fast in China. Our IT manager have also configured OpenVPN on a DigitalOcean server , that also works pretty much fine.    Embed Quote

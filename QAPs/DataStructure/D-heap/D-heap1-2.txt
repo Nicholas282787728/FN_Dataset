@@ -1,0 +1,2 @@
+What books are a good introduction to game theory?
+Essentials of Game Theory by Kevin Leyton-Brown and Yoav Shoham. This is the best introduction to game theory.  It's written by a computer scientist working in game theory so I think it's accessible to a wider audience. It's also new, free, and online.  (Can also buy the physical book) http://www.gtessentials.org/ 

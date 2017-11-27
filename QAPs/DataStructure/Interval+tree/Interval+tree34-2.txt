@@ -1,0 +1,2 @@
+What are some examples of advanced algorithms you've learned in school that you've applied in a real work environment? Can you explain the gist or nature of this work to a kid?
+This isn't exactly "real work" but for some substantial projects, I've used algorithms learned in earlier classes. In our compiler, we used: -Union Find (register coalescing) -Several graph traversal algorithms (DFS, mostly) -Chordal graph coloring And for my kernel, we had: -Priority Queues -Hash Tables -A variant on linked-list cycle finding 

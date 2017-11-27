@@ -1,0 +1,1 @@
+What are the uses of self referential structures in C++?A self referential structure is used to create data structures like linked lists, stacks, etc. Eg. struct NODE { struct NODE new; /* 'new' declared variable */ int value; }; 11 Views  Answer requested by 1 person

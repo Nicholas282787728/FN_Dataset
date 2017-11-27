@@ -1,0 +1,2 @@
+★What are the differences between HTML5 and HTML?
+html is the language name used to create webpages and html5 is its most updated version covering set of rules you should follow to create your webpages so that all modern browsers can render them correctly. Refer to some basic html tags that you can use in your webpage - HTML Tags, HTML Code, HTML Elements

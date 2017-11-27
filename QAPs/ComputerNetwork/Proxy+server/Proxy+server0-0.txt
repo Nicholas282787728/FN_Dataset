@@ -1,0 +1,2 @@
+★What is a proxy server?
+Simply put, a proxy server redirects internet communications from one machine to another. For example, your workplace may block access to a site like quora.com, which resolves to the IP address 50.17.196.92 . One workaround would be to send your request to Quora to a different, innocent-looking IP address, one that is not known to be associated with Quora. That intermediate machine would then redirect your request to Quora, and would handle Quora's response and redirect that back to your computer.    Embed Quote

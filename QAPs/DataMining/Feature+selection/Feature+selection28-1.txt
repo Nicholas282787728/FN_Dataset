@@ -1,0 +1,2 @@
+★How can I perform feature selection for the features extracted to do human action recognition?
+A simple start would be to try out statistical significance test of the features but other quantities such as Mutual Information, Chi-squared criterion may also be used.    Embed Quote

@@ -1,0 +1,2 @@
+★Why do 32-bit Linux kernels only recognize 3GB of RAM?The question is that 2³² = 4GB but systems only recognize 3GB.
+I'd like to add that there are old motherboards which cannot address memory hidden by pci devices and frame buffers. I had an unfortunate experience with such a board and PAE nor 64bit kernel could not solve the problem - the available memory was about 3.3GB of 4GB. So if a motherboard claims to support 4GB of memory - most probably it's only 3.3GB.

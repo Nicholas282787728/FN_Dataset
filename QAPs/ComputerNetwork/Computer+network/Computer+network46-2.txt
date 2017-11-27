@@ -1,0 +1,2 @@
+★What is the difference between client socket and server socket (in computer networking)?
+If client was speaking, the server socket would be listening. Then the server socket would speak back and client socket would be listening. The difference is, that the client would initiate connection and only listen to responses while server socket would always listen and only speak as a response.

@@ -1,0 +1,2 @@
+What will be non-recursive algorithm for preorder traversal of a binary tree?
+Recursive traversal uses the memory stack, so for an iterative version you should explicitly use a stack. The ordering of push and pop statements inside the loop body is easy to figure out. 

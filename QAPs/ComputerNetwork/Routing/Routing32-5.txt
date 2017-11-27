@@ -1,0 +1,2 @@
+★What is the easiest/cheapest route to break into banking?
+I can't speak of banking in general. I think it depends on the country you want to work in. In my country's (Greece) banks prefer to work with Java/Oracle infrastructures or IBM/DB2. So, I guess the easiest/cheapest route is through a CS degree and having read and understood enough Java.    Embed Quote

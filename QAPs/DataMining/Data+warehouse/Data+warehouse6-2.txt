@@ -1,0 +1,2 @@
+★Are there any practical (near) real-time data warehouse solutions?And how do they work compared to a classical data warehouses, batch analytics platforms like Hadoop and stream processing engines like Storm or S4.
+There is now indeed a practical, near real-time data warehousing solution = Amazon Redshift . You can read about AirBNB's experience with RedShift and how they found it to differ from other data warehousing platforms: Redshift Performance & Cost .    Embed Quote

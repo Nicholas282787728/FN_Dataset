@@ -1,0 +1,2 @@
+★What purpose does the small cylindrical module near the end of my laptop charger cable serve?
+This is what is called a Ferrite bead. It is used to reduce interference (radio waves, high frequency noise etc) to and from electronic devices. It basically prevents the cable from acting as an antenna by acting as a low pass filter. If you cut it open you will find a black cylinder. The cylider is made of iron oxide commonly known as rust(hence the name ferrite). For more information you can refer: Ferrite bead

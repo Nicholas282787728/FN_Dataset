@@ -1,0 +1,2 @@
+★How accurate is mobile phone GPS?
+Depends on the country where the device is sold. Most governments restrict the GPS quality to a certain level to make sure the military and law enforcement gear has an edge over commercial stuff. In the US is is +-16 meters, in some other countries can be +-32 meters. Keep in mind that we are talking about the GPS quality in ideal conditions -- on an open plane with no buildings.    Embed Quote

@@ -1,0 +1,2 @@
+★Does Android support IPv6?
+Android 2.1 and later enable IPv6, but the applications themselves drive whether or not IPv6 is used, based on how they use the system calls.  There are a number of Android applications that end up being IPv4 only despite the fact that the platform can support IPv6.  This is caused by poor design choices such as the use of literal IPv4 addresses and explicit bypass of IPv6 capabilities.    Embed Quote

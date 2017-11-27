@@ -1,0 +1,2 @@
+★What are the advantages of support vector machines (SVM) compared with linear regression or logistic regression?
+- SVM maximizes margin, so the model is slightly more robust (compared to linear regression) - but more importantly: SVM supports kernels, so you can model even non-linear relations Edit: As Anonymous points out, you CAN use kernels for other methods. But for almost all SVM libraries, kernels are already implemented, well researched and documented, so it's far easier to use them with SVM.    Embed Quote

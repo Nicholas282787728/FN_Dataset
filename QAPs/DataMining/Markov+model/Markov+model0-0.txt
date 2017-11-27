@@ -1,0 +1,2 @@
+★What is a Markov model?
+a2a. A Markov model is a stochastic model that exhibits the Markov Property where a future state prediction is based on the present state, without needing any prior state information. Hidden Markov Models (HMM), hidden in the sense that there are no accessible external interfaces, are used in neural network models where the input and output layers 'hide' the middle layer(s), which not surprisingly are called hidden layer(s).    Embed Quote

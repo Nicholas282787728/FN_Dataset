@@ -1,0 +1,2 @@
+★What is data compression?
+The process of reducing the size of the digital representation of a signal.

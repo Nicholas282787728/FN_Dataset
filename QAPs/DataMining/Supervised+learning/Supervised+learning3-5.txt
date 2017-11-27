@@ -1,0 +1,2 @@
+★What are the best/most common supervised learning classification algorithms for time series data?Supposing your training data is a time series (with one or a few 'reading' values given at each time step), and certain intervals within this series are classified (into, let's say, 3 levels), what algorithm can best find a predictor function to 'recognize' these special intervals and classify them?
+The Most Frequently Used Classification Algorithm lists my answer in the file.    Embed Quote

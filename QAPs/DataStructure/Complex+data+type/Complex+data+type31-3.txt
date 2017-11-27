@@ -1,0 +1,2 @@
+Why do stack variables contain garbage values? Is there any way we can assign our whole stack to NULL?Why do local, stack-based variables have garbage values by default?
+Always zeroing stack would significantly decrease performance. As it is done, allocating stack variables is very fast because it only requires changing the stack pointer. If you need a variable zeroed, do it explicitly. 

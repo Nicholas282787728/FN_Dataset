@@ -1,0 +1,2 @@
+★What are some good books on machine learning?
+This here is an excellent resource. Machine Learning for Hackers: Drew Conway, John Myles White: 9781449303716: Amazon.com: Books The book follows a very intuitively pedagogical style, and the exercises are all in R, which lets you focus more on the machine learning concepts and less on the code.    Embed Quote

@@ -1,0 +1,2 @@
+What does 'semi-perfect' hash mean in C++ programming?
+This question has no context specific to C++. Perfect / semi-perfect hashing is an algorithms question. A perfect hash function for a given set is one which produces a distinct hash for each item in the set. A semi-perfect hash function allows for collisions with a pre-defined upper boundary: that is, the for the given set, no more than a given number of elements will share a single hash. 

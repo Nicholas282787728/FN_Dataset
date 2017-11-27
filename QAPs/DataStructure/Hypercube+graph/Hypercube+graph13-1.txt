@@ -1,0 +1,2 @@
+Do they use DFS, BFS algorithms or algorithms of such kind in routing?
+Dragos is on the right track.  Practically speaking, Dijkstra's SPF algorithm is the only one of these that's used for routing with an IGP. For BGP, the algorithm family is known as Path Vector, and thanks to its policy support features, becomes much less intriguing from a theoretical standpoint. 

@@ -1,0 +1,2 @@
+What is any number raise to the power of infinity? What is any number divided by infinity?
+For power:- 1.If number is greater than 1[or lim x->0+   x^infinity]and raised to power infinity then it is indeterminate. 2.If number is less than 1[or lim x->0-   x^infinity]and raised to power infinity then it is zero. 3.If number is equal to 1 and raised to power infinity then it is 1. For division:- 1.If number is finite and is divided by infinity than it is zero. 2.If number is infinite and is divided by infinity than it is indeterminy]y 

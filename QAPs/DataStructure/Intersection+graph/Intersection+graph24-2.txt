@@ -1,0 +1,2 @@
+How can I make a curve like this one (see the image attached)?
+the fundamental shape of these graphs are y = 1/x^n. The greater the value of n, the steeper the curve. Use Wolfram alpha and notice the shapes of 1/x, 1/x^2, 1/x^3 and so on 

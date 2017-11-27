@@ -1,0 +1,2 @@
+★What are some good resources for learning about statistical analysis?This is a follow-up on How do I become a data scientist?
+These two free online courses from Coursera and Udacity may be helpful Statistics One https://class.coursera.org/cours... Introduction to Statistics (ST101) http://www.udacity.com/overview/...    Embed Quote

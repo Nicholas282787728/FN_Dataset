@@ -1,0 +1,2 @@
+★What are some good fuzzy logic libraries in Java?
+Even though we have libraries for fuzzy logic, I prefer Levenshtein Algorithm. I've implemented my own fuzzy logic using Levenshtein algorithm. It gives the best result in fuzzy match.    Embed Quote

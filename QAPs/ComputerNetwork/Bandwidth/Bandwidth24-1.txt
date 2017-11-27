@@ -1,0 +1,2 @@
+★What is the bandwidth of a coaxial cable?I don't understand how the coaxial cable coming through my wall simultaneously carries the hundreds of channels received as part of a typical cable TV service.
+Andy Harrison is 100% in correct in all he is saying, but I'd like to expand on the subject by simply pointing you to: Multiplexing Basically, the MPEG streams that are coming down the pipe are pretty uniform, which means you can mux them very efficiently.

@@ -1,0 +1,2 @@
+How does one go about solving this area/integral problem?
+The other answers are helpful, but to be specific, if you are doing the absolute value, it is best to separate the integral into two integrals, "piecewise". You say tghe functions cross at zero. So, do one integral on [-1,0] and the other on [0,2]. 

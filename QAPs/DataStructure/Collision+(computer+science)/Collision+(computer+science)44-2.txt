@@ -1,0 +1,2 @@
+What are some of the best discrete mathematics books for programmers?
+I have only heard good things about Concrete Mathematics. Its co-written by Knuth so it definitely has the pedigree. 

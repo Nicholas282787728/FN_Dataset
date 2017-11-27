@@ -1,0 +1,2 @@
+★What is the best text analytics API + service?There are a lot of text analytics / text analysis APIs out there. What is your experience and what API do you think is the best one?
+Alchemy API is a good service. I find Alchemy api (Transforming Text Into Knowledge ) to be better than Open Calais (Home | OpenCalais)    Embed Quote

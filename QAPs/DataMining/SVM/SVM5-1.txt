@@ -1,0 +1,2 @@
+★What is the difference between regular SVM and structural SVM?
+http://www.robots.ox.ac.uk/~vedaldi/assets/svm-struct-matlab/tutorial/ssvm-tutorial.pdf awesome slides by andrea vedaldi    Embed Quote

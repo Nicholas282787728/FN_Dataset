@@ -1,0 +1,2 @@
+What are some must-take courses for a career in data analysis?
+I list some classes that would be useful for a career in data analysis / data science at What classes should I take if I want to become a data scientist? Note that you would definitely want some statistics classes if you're going to be doing data analysis! CS classes are generally helpful, and for math classes a strong understanding of linear and matrix algebra will help a lot.    Embed Quote 

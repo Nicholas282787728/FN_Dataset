@@ -1,0 +1,2 @@
+What are some good data sets to test clustering algorithms on?
+The 20 newsgroup data set http://people.csail.mit.edu/jren...    Embed Quote 

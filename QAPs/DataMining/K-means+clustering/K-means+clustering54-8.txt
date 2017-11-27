@@ -1,0 +1,2 @@
+★What are some Machine Learning algorithms that you should always have a strong understanding of, and why?I want this to be a general question that could cover different disciplines. If you have any algorithm from an application point of view, then please do mention that as well!
+Linear methods (linear regression, perceptron/winnow algorithm, logistic regression, linear SVM, naive Bayes) are the simplest ones and should be checked first; it might be the case that after performing some feature engineering, one of these approaches peforms well.    Embed Quote

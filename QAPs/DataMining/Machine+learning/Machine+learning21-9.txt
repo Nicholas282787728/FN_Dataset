@@ -1,0 +1,2 @@
+★How can you learn Mathematics for machine learning?What books, topics, resources are one stop for learning all mathematics necessary to start learning Machine Learning?
+For the foundations of data crunching, from Microsoft, 2014, Page on microsoft.com. Thank you, Microsoft, for sharing.    Embed Quote

@@ -1,0 +1,2 @@
+★How do I draw a shirt onto someone's 3D graphic model?
+I would also suggest to model the T-shirt and use a cloth solver so that the 3d model also wears the T-shirt.    Embed Quote

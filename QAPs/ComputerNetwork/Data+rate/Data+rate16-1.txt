@@ -1,0 +1,2 @@
+★What are the main technical reasons for a dramatic increase in network data rates in both wired and wireless networks?
+Here are a few thoughts. - Higher bandwidth last mile links, e.g., Fiber Optics in Verizon FiOS in wired, more spectrum and more spectrum bundling in wireless, channel bonding in DOCSIS 3.0 - Better Codecs and compression algorithms to send more data using fewer bits - Higher bandwidth in core networks

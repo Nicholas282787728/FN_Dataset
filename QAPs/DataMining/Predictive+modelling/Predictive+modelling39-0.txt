@@ -1,0 +1,2 @@
+★What are some of the application areas of predictive modeling/analytics in agriculture?
+Genetics is one big one.  Identifying superior alleles (gene variants), genotypes (lines), and combinations of alleles and lines is a predictive exercise. On the agronomic end of things, all of precision agriculture is a predictive exercise.  The problem: finding the right input, right place, right time, and right amount requires a lot of data to be crunched.    Embed Quote

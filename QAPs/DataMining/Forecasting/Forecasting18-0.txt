@@ -1,0 +1,2 @@
+★What are the most innovative demand forecasting models?
+Apart from statistical methods like Holts-Winter, ARIMA (and it's variation), machine learning techniques (regression, neural network, SVM) can be applied for demand forecasting. Along with this, machine learning can also be applied to - modeling spike caused in series due to external factors. - cluster different series based on similar patterns Cheers !    Embed Quote

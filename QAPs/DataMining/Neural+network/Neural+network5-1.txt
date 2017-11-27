@@ -1,0 +1,2 @@
+★What are neural networks?
+Neural Networks consists of Systems of  Inter-connected   "Neurons"  capable of Computing or Processing values from Inputs & also capable of machine learning & pattern recognitions. In simpler words Neural networks represent a class of Statistical algorithms which define & elaborates on Biological Neural networks mainly consisting of nervous system of animals particularly,  the brain.    Embed Quote

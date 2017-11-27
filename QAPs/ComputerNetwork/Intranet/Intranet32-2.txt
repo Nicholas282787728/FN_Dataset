@@ -1,0 +1,2 @@
+★What is the best way to organize the content on your intranet?I've seen topical intranets, role base intranets, conversational intranets, and organizational intranets (e.g. by the company's organizational hierarchy).  Which approaches do people find most useful? easiest to manage over time?
+Map your organization the way it works in offline mode. Departments and teams, as that is the way people will communicate. Additionally you can have additional communities (groups) around topic or area of interest, to enable inter departmental collaboration.

@@ -1,0 +1,1 @@
+How do I use algorithms and data structure in real life?Learn them. Read here, some are in plain English: Manohar Poreddy's answer to What algorithms should I know to become a good programmer? After learning them, then either you will use them, or, you will know you already you them. 170 Views  Answer requested by Nidhi Mittal Hada and Prem Chachlani

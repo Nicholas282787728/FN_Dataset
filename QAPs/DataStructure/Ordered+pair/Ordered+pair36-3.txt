@@ -1,0 +1,2 @@
+How would you read α := (m, n) ↦ mn: ℕ × ℕ  → ℕ?
+I would read it as "The function [math]\alpha[/math] is a function of two natural numbers [math]m[/math] and [math]n[/math] that is equal to the product of [math]m[/math] and [math]n[/math]". You could phrase it more technically as a function from the Cartesian product of two copies of the Natural Numbers to the Natural Numbers, or more colloquially as "Let [math]\alpha[/math] be defined as multiplication". 

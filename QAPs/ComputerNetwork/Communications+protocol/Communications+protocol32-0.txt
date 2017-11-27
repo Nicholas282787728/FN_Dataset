@@ -1,0 +1,2 @@
+★What networking protocols are used in submarine communication cables?
+Synchronous Digital Hierarchy (SDH) - Synchronous optical networking The transmission standards within the SDH are: STM-1 STM-4 STM-16 STM-64 STm-256

@@ -1,0 +1,2 @@
+★What are some good resources for a beginner to learn about random graph theory and spectral graph theory?
+I started here: MIT Algorithms Lecture 16 slides (Lecture 16 video: Greedy Algorithms, Minimum Spanning Trees). MIT Algorithms Lecture 17 slides (Lecture 17 video: Shortest Paths I: Properties, Dijkstra's Algorithm, Breadth-first Search). Then, there is Wikipedia: Graph theory, Spectral graph theory.    Embed Quote

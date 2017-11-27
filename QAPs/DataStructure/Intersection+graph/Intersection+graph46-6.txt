@@ -1,0 +1,2 @@
+What is the key feature missing in geolocation apps such as foursquare, Gowalla, SCVNGR, PlacePoP, etc?
+The main key feature missing from these apps are You only check-in, what happens after check-in? Foursquare can provide discount/deal/coupon upon check in instead of badges or maybe both Same apps can be used in SALE AND MARKETING field, there are companies which rely on employees who visit customer at their home or office. A forusquare type app can be used to track those employees and to measure there performance. This type of app can be provided as a SAAS. 

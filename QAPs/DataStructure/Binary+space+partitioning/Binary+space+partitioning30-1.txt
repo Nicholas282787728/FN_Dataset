@@ -1,0 +1,2 @@
+How do I create a database when the data structure is likely to evolve at a rapid pace?
+This situation has nothing to do with nosql or sql and has much to do with understanding and implementing different levels of abstraction in your model (i.e. meta modelling). The higher the abstraction the more your data structure is flexible and the more it looks like a meta model (a model describing - dynamically - your actual data structure). Follow up, I may figure out some examples. f. 

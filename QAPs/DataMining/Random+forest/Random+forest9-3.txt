@@ -1,0 +1,2 @@
+★What is the out of bag error in Random Forests?What does it mean? What's a typical value, if any? Why would it be higher or lower than a typical value?
+No offense, but the given explanation is already provided in Breiman's blog./ Could someone kindly elucidate the same process in simpler or statistical terms. Thanks    Embed Quote

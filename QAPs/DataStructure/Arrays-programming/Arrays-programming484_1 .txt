@@ -1,0 +1,1 @@
+How do I divide a Cstring into two arrays C++? (Cstring length is known)check this code........... char str[10]="abcdefghij"; int i=0; char str1[5],str2[5]; while(i<5) { str1[i]=str[i]; i++; } while(i<10) { str2[i]=str[i]; i++; } if you have any queries you can definitely ask me. Happy Coding :) 27 Views

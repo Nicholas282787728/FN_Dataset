@@ -1,0 +1,2 @@
+★How important is it for an Enterprise Architect to have business domain knowledge?
+Based on personal experience, it is pretty darn important because you need to have a sense of not only what is but what will be and/or could be and why all of that matters. The best Enterprise Architects I've been fortunate enough to work with have been very sharp on the business side as well.    Embed Quote

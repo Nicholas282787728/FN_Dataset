@@ -1,0 +1,2 @@
+What are hash tables and why are they useful?
+Hash tables are used for keeping values with a key. Just imagine a locker. You can only open them if you the keys. ... (more)

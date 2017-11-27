@@ -1,0 +1,2 @@
+★Why is the moving average a lowpass filter?
+Intuitively, it smooths out a signal, removing the high frequency components from it. Mathematically, the moving average is equivalent to convolution in the time domain with a rectangular function. In frequency domain, this multiplies the original Fourier transform by the sinc function, suppressing the higher frequencies, giving the characteristic of a low-pass filter.

@@ -1,0 +1,2 @@
+How do data types in programming languages help in building software?
+Data types allow you to catch some kinds of programming mistakes earlier. For example, we can represent "annual revenue" and "number of employees" as numbers, but if we just say that they're numbers, without giving them distinct types, there's nothing to prevent us from adding annual revenue to number of employees, which would be a meaningless computation. 

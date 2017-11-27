@@ -1,0 +1,2 @@
+★What are the top packages in R for forecasting with seasonality?
+First you can Holt-Winters exponential smoothing for forecasting. And "forecast" package can be preferred along with "forecast.HoltWinters()" for successful forecasting. Doubts if any, please comment.    Embed Quote

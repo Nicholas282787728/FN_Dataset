@@ -1,0 +1,2 @@
+How do Bayesian algorithms work for the identification of spam?Please provide an example or two.
+You can also consider using a Latent Dirichlet Allocation-like model for spam classification. LDA is easily extendable and can be used in an unsupervised learning setting. A search on google for "latent dirichlet allocation spam" should bring up literature on using LDA for spam filtering. 

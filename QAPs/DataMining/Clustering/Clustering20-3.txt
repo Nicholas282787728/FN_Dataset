@@ -1,0 +1,2 @@
+Can PCA be used for graph clustering or community mining?
+If you're willing to represent your graph as a similarity matrix, then yes. Spectral (i.e. PCA) decomposition of a similarity matrix is a powerful unsupervised learning technique. Two pertinent references: - Page on mit.edu - Spectral Feature Selection for Data Mining    Embed Quote 

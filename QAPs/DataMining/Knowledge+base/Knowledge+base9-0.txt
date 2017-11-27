@@ -1,0 +1,2 @@
+★What are some open source documentation / knowledge base systems?I'd like something like the Heroku or Github documentation sites: http://devcenter.heroku.com http://help.github.com
+I found one and it is called Raneto a Markdown powered Knowledgebase for Nodejs. Maybe it is not fit to your category as "systems", but Raneto is really simple and works.    Embed Quote

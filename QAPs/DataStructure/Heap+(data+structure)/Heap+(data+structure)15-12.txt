@@ -1,0 +1,2 @@
+What are the most important data structures in a tech interview?
+Undoubtedly, stacks and priority queues are the most important data structures for tech interviews. 1.8k Views

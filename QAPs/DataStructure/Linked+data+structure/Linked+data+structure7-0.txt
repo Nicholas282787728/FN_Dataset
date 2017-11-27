@@ -1,0 +1,2 @@
+What is the link or relation between linked-list, data structures and algorithmes?
+Data structure is a way you store data into the memory. Linked list is a kind of basic data structure. To make other kind of data structure you need either a linked list or array. It can be a tree or graph or anything. The operations you do on a data sturcture is called algorithms. There are many algorithms to sort a data structure,merge a ds,to find LCA of nodes or even find the shortest path among nodes in graph. There are nany many algorithms to mention which I cant here. 

@@ -1,0 +1,2 @@
+If dependent and independent variables are only ordinal data which regression model is perfect?
+Why limit yourself to regression models for ordinal data?  CART, Random Forests, TreeNet, and other supervised classifiers are great for this kind of data. 

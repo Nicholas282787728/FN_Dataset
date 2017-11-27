@@ -1,0 +1,2 @@
+What are good side projects to get better at data structures and algorithms?
+Although, personally I have not done the project, a couple of my friends tried doing this project and mentioned the need for control on data structures to complete it. They tried building a toy database on C/C++, right from storing data in the form of records. It involved a decent bit of complexity and heavy use of algorithms/datastructures like B+ trees etc. Their projects are uploaded on Github. Let me know if you need the links for them. I can hunt it down for you. 

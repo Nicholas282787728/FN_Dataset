@@ -1,0 +1,2 @@
+As we start planning the next edition of Introduction to Algorithms (CLRS), what should we add and what should we remove if the 4th edition cannot be larger than the 3rd edition?
+Add: Segment trees Line sweep Remove: Multithreaded Algorithms van Emde Boas Trees 4.4k Views · 25 Upvotes

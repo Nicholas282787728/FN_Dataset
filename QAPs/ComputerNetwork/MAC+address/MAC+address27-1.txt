@@ -1,0 +1,2 @@
+★How do I change my MAC address without root in Android Terminal Emulator?
+Without root access you cannot change the mac address    Embed Quote

@@ -1,0 +1,2 @@
+Which HDL is better: Verilog or VHDL?
+Both the HDL are still widely used, it depends on your comfort level with the HDL. For differences between Verilog and VHDL, you can check out this question on Quora What are the key differences between Verilog and VHDL? VLSI QnA 

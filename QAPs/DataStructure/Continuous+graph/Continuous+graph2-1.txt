@@ -1,0 +1,2 @@
+What is a removable discontinuity?
+A one point "hole" in the graph of a nearly continuous function.  Just plug in the hole and you have a real  honest to goodness unbroken continuous graph. 

@@ -1,0 +1,2 @@
+★Which is the best tool to migrate data, ETL or ORM?1. BI/BW  what happens to this stuff that’s already in BI / BW- with HANA in place?
+That's kind of like asking what is the best form of transportation: bicycle or car. It kind of depends on what you are trying to do. Typically, I'd find ORMs involved in transaction systems, while ETL is used more for batch analytics processing. ETL typically moves data from one persistence source to another, while ORM moves it from a persistence source to an in-memory object graph.    Embed Quote

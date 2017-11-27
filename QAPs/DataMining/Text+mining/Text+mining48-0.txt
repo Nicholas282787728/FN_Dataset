@@ -1,0 +1,2 @@
+★What is a R text mining software package that works with latest Facebook APIs?
+You can use the RFacebook package to access the Likes, Statuses, friends network. More information on this package can be found at CRAN - Package Rfacebook This example will give you a clear idea of how to use the package. Mining Facebook Data: Most "Liked" Status and Friendship Network This package is quiet similar to the twitteR package that's used to process the twitter tweets.    Embed Quote

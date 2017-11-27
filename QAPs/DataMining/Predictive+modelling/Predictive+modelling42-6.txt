@@ -1,0 +1,2 @@
+★What are methods to make a predictive model more robust to outliers?
+if you are dealing with classification problem, you can use SVMs with Ramp Loss. Ramp Loss is effective while training data contains outliers.    Embed Quote

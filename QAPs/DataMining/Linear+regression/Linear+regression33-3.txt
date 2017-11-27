@@ -1,0 +1,2 @@
+★What is the formula for finding the coefficient in linear regression with four independent variables?
+You have to calculate the inverse of the correlation matrix: correlation can be spanned on a 4x4 array, but I'm not sure about the inversion. All the details are here, including a needed discussion on what kind of estimator you want: http://en.wikipedia.org/wiki/Mul...    Embed Quote

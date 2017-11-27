@@ -1,0 +1,2 @@
+Who invented hash tables?
+Hash Table was invented by Hans Peter Luhn in the year 1953. This article explains the historical details Searching, Thread-count and a Thanksgiving Miracle 1.8k Views · 9 Upvotes

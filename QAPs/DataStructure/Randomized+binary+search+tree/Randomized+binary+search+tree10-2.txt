@@ -1,0 +1,2 @@
+Other than binary search, are there other code examples that have a running time of O(log n)?
+Codeforces 276 Div 1A they ask you the number with more ones in its binary representation in a given interval [a, b]. To do it you play with their digits, not the numbers themselves so the algorithm is logarithmic in terms of n, though linear in terms of the digits. Those type of problems are quite frequent. Another algorithm is ternary search for searching optima in convex functions. 

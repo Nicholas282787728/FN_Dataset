@@ -1,0 +1,2 @@
+★Why does my external speaker adopt radio frequency when I set the volume to zero?
+Without more details about the problem, I would have to assume there is a ground loop somewhere in your circuit.  You are most likely always getting that RF pickup, but it's just too quiet to hear when you have the volume up.    Embed Quote

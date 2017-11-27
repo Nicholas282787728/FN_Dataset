@@ -1,0 +1,2 @@
+How do you find a single colour that represents a segment of a hue histogram of an image?
+Alon Amit Rakshit Kothari please help 

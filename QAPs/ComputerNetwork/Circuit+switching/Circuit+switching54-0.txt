@@ -1,0 +1,2 @@
+★How do I add a single pole porch switch to a 3-way, 2 z-wave switch, 2 light fixture circuit?
+This may be one method to consider provided that you want the z-wave switches to also control the porch light when the 2-way porch light switch is ON.

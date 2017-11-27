@@ -1,0 +1,1 @@
+How do I use Elasticsearch with mysql database? I am currently experimenting with jdbc river, but will it be fast enough in production?

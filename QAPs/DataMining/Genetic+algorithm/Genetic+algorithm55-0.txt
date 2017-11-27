@@ -1,0 +1,2 @@
+★Have genetic algorithms been used for multivariate testing of web pages?There are a lot of systems that offer multivariate testing, but how do they actually test the individuals? Do they require testing of every possible individuals, or do they use genetic algorithms of some sort?
+I believe www.genetify.com is what you are looking for.    Embed Quote

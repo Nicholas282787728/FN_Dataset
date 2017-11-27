@@ -1,0 +1,2 @@
+★Which cameras record the most metadata?EXIF tag format with relevant metadata e.g. GPS position, elevation, exact direction and angle of each photograph, and any other relevant information.
+There is no EXIF standard for camera orientation and direction. So while a camera maker might make their own extension to the EXIF practices, there aren't any applications that would make use of this non-standard information. Read the second to last bullet item about this weakness of EXIF: http://en.wikipedia.org/wiki/Exi...    Embed Quote

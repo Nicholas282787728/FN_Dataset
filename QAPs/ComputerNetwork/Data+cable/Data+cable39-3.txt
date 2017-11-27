@@ -1,0 +1,2 @@
+★What makes USB 3.0 faster than USB 2.0?
+Its a bit difficult to answer as I am not an expert. But speed depends upon a number of factors like the protocol used, number of data lines,mode of transmission, hardware etc. Some of the key points that make USB 3.0 faster are Use of two unidirectional data lines as compared to USB 2.0. We can check by looking at the connector. USB 3.0 has 6 pins whereas USB 2.0 has 4.. Asynchronous connection request terminates the need of polling.

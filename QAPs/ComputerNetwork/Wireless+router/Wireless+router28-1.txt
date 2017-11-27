@@ -1,0 +1,2 @@
+★Why is the response time on my wireless router slow?
+Well normally this happen when it is from your ISP settings are like that in the wireless router. Normally from what you say it is the DNS server which is doing this try to change the dns server to Google DNS 8.8.8.8 and 8.8.4.4 as I troubleshoot this in my field of work as there has been such cases many times. hope this helps you out.    Embed Quote

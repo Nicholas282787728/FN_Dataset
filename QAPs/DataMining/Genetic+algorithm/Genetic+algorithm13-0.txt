@@ -1,0 +1,2 @@
+★Are genetic algorithms an example of machine learning?and why arent they covered in ML courses?
+No.  Genetic algorithms are a metaheuristic used for all kinds of optimization problems.  While they have applications in machine learning, they have as many applications elsewhere. The major reason for not covering them in an intro ML class is that there's only so much time, and there are other topics that are more important.    Embed Quote

@@ -1,0 +1,2 @@
+★What are the strongest predictive analytic tools at your company?
+The tools used most often and to the greatest effect: R; Python (which isn't really a tool) and the SciKit, NumPi, Pandas libraries; and Hadoop (which again is hard to classify as a tool). Throw in some visualization program or library like Tableau or d3.js and these things comprise an end-to-end analytics stack capable of using very large data sets to make predictions.    Embed Quote

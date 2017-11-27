@@ -1,0 +1,2 @@
+Is there a really hot database start-up out there?......a company specifically dealing with data mashes?
+Few more to add - MongoDB-as-a-Service StormDB | The Database Cloud 

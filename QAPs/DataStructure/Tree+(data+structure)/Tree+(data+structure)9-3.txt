@@ -1,0 +1,2 @@
+Is there any book, which has all the codes for all the data structures? At least for all the tree data structures?
+Yes, many such books, hundreds of which are online. Try Google. Here's a good one: The Algorithm Design Manual (see Programs link). 

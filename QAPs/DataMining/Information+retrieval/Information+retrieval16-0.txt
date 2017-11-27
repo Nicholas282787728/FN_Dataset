@@ -1,0 +1,2 @@
+★What are some great papers about information retrieval?
+There's a very important paper from 1975 called A vector space model for automatic indexing, which I found very lucid. I recently worked on implementing Explicit semantic analysis as part of my thesis. The paper Computing Semantic Relatedness using Wikipedia-based Explicit Semantic Analysis by Gabrilovich and Markovitch helped me immensely as it explains both their overall ideas and details of their particular implementation. There also a longer version available here.    Embed Quote

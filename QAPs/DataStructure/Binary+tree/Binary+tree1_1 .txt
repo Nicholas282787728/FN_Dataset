@@ -1,0 +1,1 @@
+What is a binary tree?A tree with not more than Two branches at any branching point. 

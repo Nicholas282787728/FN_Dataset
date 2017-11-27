@@ -1,0 +1,1 @@
+To what extent does functional programming require different data structures and algorithms?

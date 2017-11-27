@@ -1,0 +1,2 @@
+★What are some prominent companies that specialize in unstructured data?
+Sumo Logic(www.sumologic.com), a US based enterprise product startup working over log data analytics (Bigdata analytics) specializes in analysing unstructured Data.    Embed Quote

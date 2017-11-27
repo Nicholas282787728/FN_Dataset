@@ -1,0 +1,2 @@
+★What is the role of OSI layers when we open a webpage?
+While software and networing in particular can be thought of as consising of layers, it is not entirely clear that OSI's 7 layers is gospel. It is often difficult to map anything to layers 5 & 6. I would recomend understanding the layers that are there in you system. Note that there can be more than one layer with a given number in the case of VPNs for example.    Embed Quote

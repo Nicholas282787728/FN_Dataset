@@ -1,0 +1,2 @@
+★Web Scraping: How can one web-scrape a list of Nature articles for further processing (preferably with metadata if possible)?
+First, you must find the list of nature articles you want to scrape and see what format they are in. They will likely have an RSS feed associated with them so scraping might not be necessary.    Embed Quote

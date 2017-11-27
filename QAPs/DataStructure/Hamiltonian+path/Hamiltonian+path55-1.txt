@@ -1,0 +1,2 @@
+What are the important things for a CSE student to get a good campus placement?
+Companies with package <4 lpa Data structure till linked lists including strings, arrays (General concepts of queues and stack is required) Database ( basic queries like 2nd max , min etc) 1 object oriented language you are comfortable with (go for c++) Algorithms (searching , sorting) Communication skills 

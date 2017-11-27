@@ -1,0 +1,2 @@
+How do I optimally find total substrings in a given string whose sum is divisible by n?
+See the editorial when the codechef long ends This is a live contest -_- 

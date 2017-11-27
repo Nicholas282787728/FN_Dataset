@@ -1,0 +1,2 @@
+What are some of the best resources for learning advanced data structures like segment trees and binary indexed trees (Fenwick trees)?
+These ones are good !! Binary Indexed Tree Eureka!!: Segment Tree Eureka!!: July 2011 Clear and well explained !! 

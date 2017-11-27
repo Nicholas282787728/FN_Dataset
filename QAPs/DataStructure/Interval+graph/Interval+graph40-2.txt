@@ -1,0 +1,2 @@
+What are the rules and the concept of ARCTAN(X)?
+Arctan(x) is the inverse function of the tangent function tan(x). Wikipedia has an article on inverse trigonometric functions where you can refer to Inverse trigonometric functions 

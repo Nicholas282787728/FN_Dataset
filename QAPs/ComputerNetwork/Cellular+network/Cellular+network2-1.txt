@@ -1,0 +1,2 @@
+★What are promising technologies for next generation cellular networks?And how will these technologies improve upon current 3G/4G in future wireless networks (say in ~5 years from now)? Bandwidth / Availability / Response Times / Cost / Battery consumption etc.
+The idea of using white space spectrum for communication is gaining pace, specially in Europe. Here is an example World’s First City-Wide White Space Network Launched

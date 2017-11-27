@@ -1,0 +1,2 @@
+★How does Instapaper parse web pages?And how is it always so accurate?
+there are a few open source tools available that do similar article extraction tasks. https://github.com/jiminoc/goose... which was open source by Gravity.com has info on the wiki as well as the source you can view. There are dozens of unit tests that show the text extracted from various articles.    Embed Quote

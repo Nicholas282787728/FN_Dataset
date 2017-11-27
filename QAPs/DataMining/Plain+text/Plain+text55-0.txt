@@ -1,0 +1,2 @@
+★On what site can I get info about enciphering plain text using simple C language?
+You can google any cryptographic algorithm and you will be able to apply logic in C.    Embed Quote

@@ -1,0 +1,2 @@
+What are differences between large data set and data stream?
+Prime difference is the order of complexity of algorithms you can apply. Irrespective of size of large dataset you can always do O(n), O(n^2), O(n^3) computation without much overhead. The cost of computation rises with each stage but all of it remains feasible. With stream processing only type of complexity allowed is O(n), higher order is unfeasible. So simple stuff like finding uniques in the entire dataset becomes quite infeasible or atleast very very memory intensive.    Embed Quote 

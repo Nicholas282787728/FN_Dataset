@@ -1,0 +1,2 @@
+How do I compute floor functions?
+What language are you using? Many will have a built in implementation. If not it may be as easy as converting a decimal, single or double data type to an integer (or long if numbers greater than ~2 billion). 

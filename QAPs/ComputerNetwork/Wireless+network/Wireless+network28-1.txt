@@ -1,0 +1,2 @@
+★How can you alleviate interference problems on 802.11 wireless networks?Any good tips?  It gets to be a problem with lots of companies in an office building, each with one or two networks.  Would 802.11n be more robust than 802.11g?
+One easy tool that is useful for checking channel usage (and runs in browser): http://meraki.com/tools/stumbler/    Embed Quote

@@ -1,0 +1,2 @@
+Psychology of Everyday Life: What are some of the greatest examples of presence of mind?
+When Apollo 12 was hit by lightning 36 seconds after liftoff, the telemetry feed to flight control was knocked out. Flight controller John Aaron recognized the situation from his training and keyed his mic to tell the flight director, "Flight, EECOM, try SCE to 'AUX'". Alan Bean flipped the switch in the capsule and the telemetry data flow was restored. This saved the Apollo 12 mission from aborting. More of the story: http://en.m.wikipedia.org/wiki/J... Updated 13 Sep • View Upvotes

@@ -1,0 +1,2 @@
+What is the best way to learn algorithms? I want to prepare for a Google interview and I am willing to spend all of my free time learning.
+The below mentioned resources/procedures are for Technical/Programming Interviews, applicable for most Product Based Companies/Tech Startups.(Google & the Big 4) Competitive Coding :- Topcoder : Div 2 - 250, 500. Div 1 - 250. Note : Div 2 500 & Div 1 250 are almost equivalent. Codeforces :... (more)

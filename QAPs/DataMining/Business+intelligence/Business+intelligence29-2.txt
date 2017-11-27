@@ -1,0 +1,2 @@
+Are there any desktop business intelligence tools for data analytics?
+Take a look at BIME - http://www.bimeanalytics.com/ BIME is designed to be lightweight and work with your existing data solutions. Very competitive pricing compared to other BI tools. Free trial available to test if it works for your needs. While we still support a desktop version, we would like users to use the Cloud. No infrastructure or maintenance costs, all updates over the web.    Embed Quote Updated 13 Mar. 387 views.

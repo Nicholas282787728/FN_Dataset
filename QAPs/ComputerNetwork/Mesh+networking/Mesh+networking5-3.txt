@@ -1,0 +1,2 @@
+★What are mesh networks used for?
+Mesh networks are best used in large outdoor wireless deployments where it is unreasonable to run a cable to every AP.    Embed Quote

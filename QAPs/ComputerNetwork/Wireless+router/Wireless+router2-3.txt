@@ -1,0 +1,2 @@
+★Is it possible to increase the range of a wireless router?
+In short, yes, the easiest thing you can do is upgrade the antenna to add gain to the signal. There's also the option of increasing the transmit power, or utilizing repeaters. If you plan on supporting many users, then you'll need many APs otherwise there will be too much contention on the RF channel and no one will be able to use it.    Embed Quote

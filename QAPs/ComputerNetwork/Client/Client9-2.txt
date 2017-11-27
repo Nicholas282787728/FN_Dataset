@@ -1,0 +1,2 @@
+★What is the best IM client on Ubuntu?Web apps included
+Surprisingly Empathy does not support IRC (as of Ubuntu 10.04 Lucid) -- and so Pidgin (formerly pre-installed) had to be installed manually.

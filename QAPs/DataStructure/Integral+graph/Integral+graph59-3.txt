@@ -1,0 +1,2 @@
+What are the most useful gems to use in Rails?
+Here are some popular ones that I also use regularly... plataformatec/devise rails-api/active_model_serializers elabs/pundit 

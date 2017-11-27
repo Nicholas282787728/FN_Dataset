@@ -1,0 +1,2 @@
+What are the 10 algorithms one must know in order to solve most algorithm problems?
+Originally Answered: What are the algorithms one must know in order to solve most algorithm challenge puzzles?Ans of this question is already  provided in discussion form of CodeChef I'm just providing the link please see. Data Structures and Algorithms(80 Important algos tutorial and problems) What are the "must known" algorithms for online programming contests? 3.7k Views · 25 Upvotes

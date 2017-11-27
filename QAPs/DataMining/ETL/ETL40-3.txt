@@ -1,0 +1,2 @@
+★What is the most popular commercial ETL and data warehousing tool?
+The most popular ETL tools are Informatica Powercenter, IBM Datastage, and Oracle ODI.    Embed Quote

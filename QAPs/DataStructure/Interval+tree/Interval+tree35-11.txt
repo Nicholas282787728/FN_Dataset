@@ -1,0 +1,2 @@
+What types of technical questions are asked in developer interviews?
+We built a site that focuses on technical interview questions. It's called Interque Check it out. Still a work in progress. Feedback welcome. 

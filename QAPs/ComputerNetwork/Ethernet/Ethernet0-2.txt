@@ -1,0 +1,2 @@
+★What is Ethernet?Update: It would be more appreciable if the answer explains this networking terminology in a simple and easy to understand manner, maybe by giving an analogous example to Ethernet in real time applications.
+This is like a container shipping road network that is all single lane for both directions. So things can collide and then the sending computers go "oh crap" and resend. If collisions keep happening, the senders keep waiting longer and longer periods of time before trying again.

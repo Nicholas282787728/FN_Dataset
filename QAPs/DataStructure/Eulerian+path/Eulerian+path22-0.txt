@@ -1,0 +1,2 @@
+I'm looking for travelling salesman-style problems to solve using a genetic algorithm. What are suggestions for any such problems?Well, I'm not really that fussy. Any problem suitable for solving with a GA will suit me fine.
+If you don't mind that the problem can be reduced to Eulerian path problem, you could try solving one of gene assembly problems with TSP. Details 

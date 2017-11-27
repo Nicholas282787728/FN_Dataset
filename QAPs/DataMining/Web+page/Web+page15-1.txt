@@ -1,0 +1,2 @@
+★Why do my web pages look big?I did some HTML development using Bootstrap 3, but the pages appear way too large. Is there a way that I could possibly shrink the page sizes (or perhaps zoom out) to make it appear more normally sized?
+Your browser zoom might be set to a value larger than 100%  Test your site on another browser. People unintentionally change their browser zoom using the mouse scroll-wheel for example. You should be able to correct the zoom level in your browser menu under "view".    Embed Quote

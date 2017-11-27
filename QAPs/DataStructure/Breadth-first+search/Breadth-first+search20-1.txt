@@ -1,0 +1,1 @@
+Can breadth-first search have cross arcs, tree arcs, back arcs or forward arcs?

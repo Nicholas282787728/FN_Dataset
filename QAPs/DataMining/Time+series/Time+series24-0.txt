@@ -1,0 +1,2 @@
+★Are there good IPython notebooks on time series analysis?Preferably with applications in meteorology and climate
+There's an entire paper written in IPython format for detecting earthquakes: http://nbviewer.ipython.org/gith... Also see this collection of IPython notebooks for earth sciences: EarthPy. You can also browse this massive collection of notebook collections: ipython/ipython    Embed Quote

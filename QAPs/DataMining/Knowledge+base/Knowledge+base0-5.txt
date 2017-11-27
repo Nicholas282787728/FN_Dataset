@@ -1,0 +1,2 @@
+★What are good examples of Knowledge Base software (for customer support)?
+We use a product called ScrewTurn Wiki for our knowledge base. We like that we can host it ourselves and that it's free. More info on screwturn can be found here: http://www.screwturn.eu/ For small business or if you're looking for a customer support tool with an integrated KB, I'd look at Assistly and Zendesk.  I have more experience with Assistly, but I know that Zendesk is pretty good too.    Embed Quote

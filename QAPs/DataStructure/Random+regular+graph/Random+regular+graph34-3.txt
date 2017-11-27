@@ -1,0 +1,2 @@
+If reality is chaotic (e.g waves crashing on a rock forming a truly random pattern each time) then why, if I flip a coin 100 times, do the results trend to 50/50 heads/tails?
+The vast majority of length 100 sequences over the alphabet [math]\{0, 1\}[/math] have roughly equal numbers of zeroes and ones.  It's just simple counting. 

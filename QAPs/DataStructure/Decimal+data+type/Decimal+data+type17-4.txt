@@ -1,0 +1,2 @@
+What are the differences between the double and float data types?
+Originally Answered: What is the difference between a a single-precision floating point number and a double-precision floating point number?Reference: IEEE floating point 

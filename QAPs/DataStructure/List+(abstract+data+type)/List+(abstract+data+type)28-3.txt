@@ -1,0 +1,2 @@
+Which book(s) and other resources would you recommend for a beginner to understand Data Structures in C++?
+If you means implements these data structures yourself, I would like recommond you this book: Data structures and algorithm analysis. It covers common data structures, and not as CLRS cover almost all algorithm in programming. It contains less content. It's for beginners. :). 

@@ -1,0 +1,2 @@
+What is the simplest language with which to learn algorithms and data structures?
+At university (York UK) the algorithms and data structures module was taught using Ada, but they have since changed to Java. A strictly typed language like Ada helps when studying algorithms and data structures because it helps avoid silly bugs and debugging when it goes wrong, but I also agree with Lief in that the syntax for Python closely resembles pseudo code and practically it is quicker for prototyping small programs. 

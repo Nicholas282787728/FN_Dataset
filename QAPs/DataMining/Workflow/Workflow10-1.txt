@@ -1,0 +1,2 @@
+★What is a good Node js workflow, editor tools & framework?I am looking at switching from Django/Python and want to know what are the good tools and frameworks for web design in Node.js. I want to try on your development shoes and see if they fit.
+Express is the framework to use when you are building web apps using Node.js. An extensive list of other frameworks used on top of node is given here - Node.js Frameworks As for editor tools, you can use any editor which handles Javascript. As for me, I use Sublime Text with SublimeLinter and JsFormat    Embed Quote

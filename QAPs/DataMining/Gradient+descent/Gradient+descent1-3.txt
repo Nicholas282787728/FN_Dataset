@@ -1,0 +1,2 @@
+★What's the difference between gradient descent and stochastic gradient descent?
+The video below gives exactly what you are looking for with the algorithm. Also, what Abhishek wrote is spot on.    Embed Quote

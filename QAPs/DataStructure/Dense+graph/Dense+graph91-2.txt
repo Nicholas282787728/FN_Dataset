@@ -1,0 +1,1 @@
+What is the best machine learning algorithm for community detection?By communities I mean circles within a social network.

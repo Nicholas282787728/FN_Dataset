@@ -1,0 +1,1 @@
+What is the difference between statistical graphics and data visualization?It's not clear to me if statistical graphics is just a part of a larger set called data-visualization or if data-visualization is just a new term for statistical graphics ?

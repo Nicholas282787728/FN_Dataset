@@ -1,0 +1,2 @@
+What is your best description of pass by value vs. pass by reference?
+For any method both primitive data types and non-primitive data types can be passed as parameters. i.e. primitive data types like int, char, double can be passed as well as non-primitive data types like Student, Book, Bike can be passed as parameters. Passing primitive data types is usually referred as Pass By Value, where as passing non-primitive data types isPass By Reference. For more details visit 'Pass By Value' Vs 'Pass By Reference' 

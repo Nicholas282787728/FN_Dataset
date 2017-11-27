@@ -1,0 +1,2 @@
+How should I implement a social networking analysis directed graph in c++?
+"char" is a single (8-bit) character. It can't hold names longer than one 8-bit letter and excluded Unicode (non-Latin) letters. Your structure (class) only allows one follower per user. This seems like a programming assignment involving many-to-many graphs.  Consult your instructor.  You have multiple misconceptions here and I'm not willing to rework a semester's worth of computer science in a single Quora reply. 487 Views · 1 Upvote

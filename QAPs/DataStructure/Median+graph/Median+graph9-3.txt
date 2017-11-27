@@ -1,0 +1,2 @@
+Which mathematics topics should I learn to improve my algorithms skills and get started with competitive programming?
+This is one great link : Data Structures and Algorithms Hope it helps :) 

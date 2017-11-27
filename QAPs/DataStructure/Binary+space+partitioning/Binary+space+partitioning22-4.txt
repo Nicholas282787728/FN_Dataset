@@ -1,0 +1,2 @@
+What will happen if we use more than 4GB of memory in a 32-bit system?Will the system be able to use more than 4GB? In what condition can a system have more than 4GB of memory?
+Originally Answered: Why are 32-bit architectures limited to 4 GB of RAM?Because two to the thirty-second power works out to 4 billion bytes you can address with a thirty-two bit address register. 64 bit limit is two to the sixty-fourth, which makes for some 18-point-sparechange exabytes. Updated 9 Dec 2012 • View Upvotes

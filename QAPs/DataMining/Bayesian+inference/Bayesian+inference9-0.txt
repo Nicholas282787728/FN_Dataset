@@ -1,0 +1,2 @@
+What textbook would be best for getting up to speed with Bayesian inference?
+"Bayesian Data Analysis" by Andrew Gelman, John B. Carlin, Hal S. Stern, and Donald B. Rubin. http://www.stat.columbia.edu/~ge... Also, see this related question on CrossValidated: http://stats.stackexchange.com/q...    Embed Quote 

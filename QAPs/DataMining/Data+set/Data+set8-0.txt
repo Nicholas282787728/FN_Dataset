@@ -1,0 +1,2 @@
+How much data is enough when analyzing a data set?
+As long as you have a good sample, the amount doesn't matter. By a good sample I mean you need a data set that is a good representative of your domain. 1 million new data points from a particular subspace wouldn't be of any use and will bias your model.    Embed Quote 

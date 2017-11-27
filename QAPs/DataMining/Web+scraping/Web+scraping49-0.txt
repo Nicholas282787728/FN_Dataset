@@ -1,0 +1,2 @@
+★What are some good resources to learn web scraping with Python?
+You might want to look at Beautiful Soup We called him Tortoise because he taught us. and you can learn it by working through some of the provided examples here Beautiful Soup Documentation    Embed Quote

@@ -1,0 +1,2 @@
+What are good programming applications involving hash tables?
+Pretty much any time you want to map keys to values with constant time for lookup/add/remove. If you find yourself looping through a list to find an element, think if there's a way to store the elements with keys in a hash table (aka hash map, aka dictionary) instead (or in addition). For example, instead of: class Contacts { List<Person> contacts = new ArrayList<Person>();   void addContact(Person p) {... (more)

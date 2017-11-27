@@ -1,0 +1,2 @@
+★Will a USB power cable attached to my motorcycle battery constantly draw power and kill my battery?
+A cable connected to the battery won't affect its charge unless there's something really wrong with its insulation. The power supply that should be part of the cable (since USB uses 5 volts, not 12-14) will likely leak some current even with nothing plugged into the port - this can kill a battery over time if it's not very low (read: 1mA or less) so check to see what the no-load drain will be. Leaving a device plugged in likely will kill the battery.    Embed Quote

@@ -1,0 +1,2 @@
+★How does a URL-shortener work?
+URL shortening is a technique on the World Wide Web in which a uniform resource locator (URL) may be made substantially shorter in length and still direct to the required page. This is achieved by using an redirect on a domain name that is short, which links to the web page that has a long URL. For example, the URL "http://en.wikipedia.org/wiki/URL_shortening" can be shortened to "http://furl.in/urlwiki". As far as i know Create Short, Sweet and Secured Url work on php n mysql based shorting service    Embed Quote

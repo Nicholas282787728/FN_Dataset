@@ -1,0 +1,2 @@
+What is the “Basic Requirements for IPv6 Customer Edge Routers”?
+RFC 7084, Basic Requirements for IPv6 Customer Edge Routers, lists the minimum requirements  for all home IPv6 "edge" devices (cable modem, wireless router, etc.). The Home Networking (homenet) group in IETF is looking at expanded capabilities for more sophisticated home networking, especially around self-organizing IPv6 networks. 

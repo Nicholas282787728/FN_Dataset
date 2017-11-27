@@ -1,0 +1,2 @@
+Why does Haskell use "fst" and "snd" for extracting the zeroth and first elements of a tuple?
+I don't know Haskell, but I'd say first" refers to the element in a sequence that comes before all others. This has nothing to do with index numbers. By this logic, there is no such thing as the "zeroth". Consider that in PHP, stay indexes can start with any number you like,  eg 23. Then the element with the index 23 would be the first element, not the 23rd. 

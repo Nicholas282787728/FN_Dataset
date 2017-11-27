@@ -1,0 +1,2 @@
+★What are some real-world applications of genetic algorithms?Answers should point to specific usages, not potential ones.
+though they don't talk about specifics in the press releases i know from talking to one of the founders at a conference that there is quite a sprinkling of GA's in the core products of solveIT http://www.solveitsoftware.com/?...    Embed Quote

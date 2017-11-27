@@ -1,0 +1,2 @@
+What is the difference between OpenMP and Open MPI?
+Great answers from Grant Bartel  and William Emmanuel Yu . Naming confusions are common in the computing field. Similar sounding acronyms can easily trigger unintended contexts. Expanding similar sounding acronyms usually helps in clarifying their meaning. OpenMP = Open Multi-Processing. Open MPI = Open Message Passing Interface. Updated 6w ago • View Upvotes

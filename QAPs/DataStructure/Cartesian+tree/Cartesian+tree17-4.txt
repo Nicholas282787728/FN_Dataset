@@ -1,0 +1,2 @@
+Where can I find topic wise problems on data structures and algorithms?
+Let me tell you all that the technical questions which are asked for the placement in reputed companies must consist of "Data structures" and basic coding. And recently "InterviewBit"   has lauched his beta version to prepare those types of questions. Have a look at:   http://interviewbit.com/invite/hfjd 

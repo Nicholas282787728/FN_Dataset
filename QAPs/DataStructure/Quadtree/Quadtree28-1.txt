@@ -1,0 +1,2 @@
+Is there a startup that creates an API for developers to build Uber/Lyft/Sidecar-like location and logistics features into apps?
+There's Carma Carpooling. You can request to use their APIs on their developer page:  Carma API - Get there together Disclaimer: I'm currently participating on the Carma Axlr8r Program 

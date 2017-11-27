@@ -1,0 +1,2 @@
+★Why do 4G phones consume more battery?
+For Verizon, LTE 4G phones right now will consume more battery life (and also are thicker) because they require a two radios, one for 4G data, another for voice over your traditional 3G network. Same physical reason apply for Sprint WiMax 4G phones. Eventually voice will be sent over 4G, which means devices do not need a second radio, thinner and possibly better battery life.

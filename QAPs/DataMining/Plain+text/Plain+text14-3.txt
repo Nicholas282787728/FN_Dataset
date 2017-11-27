@@ -1,0 +1,2 @@
+★Is it possible for encrypted material to appear as if it were plain text?That is to a large extent it would not be considered to be encrypted by a casual, or non casual viewer
+Format-preserving encryption (FPE) schemes in cryptography is a category of encryption algorithms that encrypt in a way that the output (ciphertext) is in the same format as the input (plaintext). In this case you want to ciphertext to be an English dictionary word. This academic paper discusses such algorithms and their security in details.    Embed Quote

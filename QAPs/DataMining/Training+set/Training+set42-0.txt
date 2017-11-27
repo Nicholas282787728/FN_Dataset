@@ -1,0 +1,2 @@
+★In machine learning, is it better to train your model iteratively across several training/validation sets or is it better to just include all the data in your training set the first time and feed that through the model and why?
+I'm not sure how you would be able to determine how good your model was from this.  Certainly you would get different results based upon how your ordered your validation sets.    Embed Quote

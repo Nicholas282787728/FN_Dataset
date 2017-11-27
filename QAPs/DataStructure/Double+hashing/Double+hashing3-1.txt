@@ -1,0 +1,2 @@
+How is collision handled in HashMap?
+A collision happens when distinct keys produce the same hashCode() value. In this case, typically there are buckets at the mapped index. See here: Java - HashMap confusion about collision handling and the get() method 

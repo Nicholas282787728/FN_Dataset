@@ -1,0 +1,2 @@
+★What are some time series distance/dissimilarity measures?
+In addtion to those listed in What are some time series measures?, there's the important 'Dynamic Time Warping', the 'Longest common subsequence' and some 'Edit distance' measures.    Embed Quote

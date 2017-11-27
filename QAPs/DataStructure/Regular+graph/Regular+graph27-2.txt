@@ -1,0 +1,2 @@
+What are some useful computer related technical skills I can learn within a day?
+Get familiar with awk, sed, grep and unavoidably, regex. These are great utilities that will save you time and make your life easier. Get used to them and use them often, because they are easier to unlearn than to learn. 

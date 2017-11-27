@@ -1,0 +1,2 @@
+★How does one hack a wi-fi network?
+install the penetration OS kali linux Windows is unable to do such jobs WPA2 psk is really difficult to crack with lappy or pc if WPS is enabled id WPS is not enabled script like reaver can help u  hack into wifi networks But if password is wep it could be cracked easily  using airmon-ng script    Embed Quote

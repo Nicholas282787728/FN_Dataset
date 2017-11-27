@@ -1,0 +1,2 @@
+What are the must know things in Linux/Unix for a Java/J2EE developer?
+One should know the directories that hold application code, log files etc. One should know basic command to move around the operating system, open files , change permissions etc. Some knowledge of any of the editors , vi , vim etc. Some understanding regarding cron jobs , checking processes etc Ways to speed up your daily activities , like adding aliasis , commands in .bashrc so as to automate execution as soon as you login. 

@@ -1,0 +1,2 @@
+Can a covariance matrix have negative components within it and why?
+Yes.  The covariance between two random variables can be any real number.  The only restriction on covariance matrices is that they have to be symmetric and positive semidefinite.    Embed Quote 

@@ -1,0 +1,2 @@
+★What are the available APIs for NLP (Natural Language Processing)?What are the (open and commercial) available APIs for doing Natural Language Processing?
+I would recommend you using our new free NLP service called http://www.datumbox.com It offers a large variety of text analysis functions including Sentiment Analysis, Topic Classification, Keyword Extraciton, Adult Content Detection and more. All the services are available via our REST API which is very easy to use. Give it a try! :)    Embed Quote

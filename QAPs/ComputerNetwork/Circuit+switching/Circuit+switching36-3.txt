@@ -1,0 +1,2 @@
+★What are some good resources for learning about distributed computing? Why?This is a follow-up question on How do I become a data scientist?
+I have written an HPC textbook that is quite well received: HPC book and course and I'm working on an MPI/OMP parallel programming book: Parallel Computing Book

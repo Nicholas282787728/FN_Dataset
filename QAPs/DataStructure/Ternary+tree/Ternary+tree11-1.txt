@@ -1,0 +1,2 @@
+What are the best applications for Tries (the data structure)?
+Key-value stores (like dictionaries à la perl/python/ruby/lisp) with medium to high "prefix density" in the keyspace.  You need lots of strings to share common prefixes, else you'll be wasting memory and might as well use a hashtable.  They are also useful if you're going to want your keys sorted for something. Suffix Trees (and their alternate, memory efficient representation, suffix arrays) are really nothing more than a Trie into which one stores every suffix of a string. 

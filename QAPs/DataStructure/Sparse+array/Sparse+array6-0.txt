@@ -1,0 +1,2 @@
+How will you store an unstructured sparse matrix in an array?
+The most common way of storing an unstructured sparse matrix is in Compressed Row Storage (or occasionally the fully equivalent compressed columns storage). This uses three arrays: one for the nonzero element values, one (of equal length) of their column indices, and one for the pointers indicating where in the first two the rows start. I have already described this clearly enough in Data Structures so I suggest you start reading there. 

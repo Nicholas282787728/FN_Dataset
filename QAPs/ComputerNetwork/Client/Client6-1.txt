@@ -1,0 +1,2 @@
+★What's the best IRC client for Mac OS X?I've been using Colloquy, but wonder if there are better options.
+I was introduced to LimeChat a few weeks back and quickly became a fan. It has a lot of nice customizable features like what you would get with an irssi+tmux/screen solution, with the ease of use of something like colloquy. http://limechat.net/mac/

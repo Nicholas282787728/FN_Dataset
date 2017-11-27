@@ -1,0 +1,2 @@
+★What are the best resources to learn Weblogic application server?Please provide references to books, documentation, articles, blogs, videos,etc TIA
+You can refer this section of Weblogic Wonders BeginnersCorner

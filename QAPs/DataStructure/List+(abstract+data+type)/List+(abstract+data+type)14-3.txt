@@ -1,0 +1,2 @@
+How do you Explain "Abstract Data Types" in layman terms?
+An Abstract Data Type (ADT) is a general description or "abstraction" of the functionality and the supporting operations. The data structure is the means to how you implement this functionality. The time and space complexity are determined by your choice of data structure and your implementation of the data structure's operations. Common examples of ADTs include Dictionary, Queue, Stack, Tree, Graph, List, etc. 

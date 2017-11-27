@@ -1,0 +1,2 @@
+★What are the available APIs for NLP (Natural Language Processing)?What are the (open and commercial) available APIs for doing Natural Language Processing?
+You can check out the Python NLTK. If you're looking specifically for parsing tools, the Stanford NLP tools are great.    Embed Quote

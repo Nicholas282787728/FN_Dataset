@@ -1,0 +1,1 @@
+What would the equation be for a graph of a sin curve that gets larger with each cycle?If you want larger amplitude each cycle, you could use something of the form y = x*sinx It looks like this: Or perhaps you want a longer wavelength each time, in which case, you could use y=sinx 0.6   y=sin⁡x0.6 which looks like this: 204 Views · View Upvotes

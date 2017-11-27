@@ -1,0 +1,2 @@
+★If HTTPS is more secure than HTTP, why don't all websites use HTTPS?
+Encryption is less efficient. It uses more resources and make content non-cacheable aggravating the unicast problem.

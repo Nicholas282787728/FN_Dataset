@@ -1,0 +1,1 @@
+How do I duplicate an array based on a condition in php?Please clear your question what you really want 37 Views

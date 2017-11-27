@@ -1,0 +1,2 @@
+Is there a C++ data type that can hold numbers with more than 20 digits?
+No C++ data type supports number with more than 20 digits. With long long we can go up to ((2^64)-1 = 18446744073709551615). To represent more than 20 digits we can use libraries like HPA(High Precision Arithmetic Library). 

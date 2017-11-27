@@ -1,0 +1,1 @@
+How do I write a program that count the occurrence of each element in an int array of size 25?For C language!If the array size is relatively small and you want to have it done without much code, you can sort the array first. However it's a different story if you got a large array. 92 Views

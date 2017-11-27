@@ -1,0 +1,2 @@
+Learning to Program: What are are the push and pop operations in C? When do I need them?
+To understand the core part of memory u need to learn about stack which is a fashioned memory in which push pop operations are performed internally when it comes to assembly language u can find using debugger so when u perform stack operations u vil be getting to know about the  memory structure in computer. if u want to learn about push and pop operations and code for it. you can find it in google 

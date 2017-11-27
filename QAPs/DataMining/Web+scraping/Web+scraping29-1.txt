@@ -1,0 +1,2 @@
+★Is there a good web scraping framework in Clojure or Erlang?I.e. something like scrapy, but in Clojure instead of Python. I may end up using Scrapy, but because I will be processing results in Clojure, I'd like scrapping scripts to be in the same programming language.
+Diffbot released a number of libaries, including one for Clojure, earlier this year. Libraries are at Github: Diffbot Our service is primarily an automatic API for article / product / image extraction, though we offer the ability for you to build your own API to extract from any site.    Embed Quote

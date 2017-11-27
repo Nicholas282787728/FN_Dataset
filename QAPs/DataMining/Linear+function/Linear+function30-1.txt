@@ -1,0 +1,2 @@
+★Is it possible to vectorize any linear algebra function, for example that would otherwise need a for loop?
+You take the matrix given, subtract the Eigen value from the diagonal and you have a linear function. Now this can be manipulated like a vector.    Embed Quote

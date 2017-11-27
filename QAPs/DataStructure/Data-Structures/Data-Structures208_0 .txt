@@ -1,0 +1,1 @@
+Is there any open source implementation of k-common substring problem?k-common substring problem is described here.There are implementations of that algorithm in the external links section of the description link you provided ;). 22 Views

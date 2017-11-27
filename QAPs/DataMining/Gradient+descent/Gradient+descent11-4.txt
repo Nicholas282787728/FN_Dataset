@@ -1,0 +1,2 @@
+★Convex Optimization: Why use gradient descent when the normal equation exists?
+Inversing a large matrix is computationally expensive    Embed Quote

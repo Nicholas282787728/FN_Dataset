@@ -1,0 +1,2 @@
+What is a breadth first search?
+It's when you first search your neighbors, then your neighbors's neighbors, then your neighbors's neighbors's neighbors, etc., in that order. 

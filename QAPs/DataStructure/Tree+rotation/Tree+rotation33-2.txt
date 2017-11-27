@@ -1,0 +1,2 @@
+How can Data Structure and Algorithms be just studied in an easy way?
+As for a book, there is but one: Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein, otherwise known as CLRS. If you want another text, perhaps one with more examples in a specific language, I recommend Robert Sedgewick’s Algorithms in C++ or Algorithms in Java, as appropriate. I prefer CLRS as a text, but you might find these a better teaching aid. 

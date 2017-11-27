@@ -1,0 +1,2 @@
+How do you deal with large data sets in Excel?
+One idea is pulling your data out into an access database and then linking to that database in your excel file.  You can then generate your pivots based off that linked data.  This will also let you pull in just the data you need instead of the entire set provided you design your database efficiently.    Embed Quote 

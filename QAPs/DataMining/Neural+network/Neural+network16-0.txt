@@ -1,0 +1,2 @@
+★What is a neural network classifier?
+I have made a video on neural nets that requires only high school maths, but I did it in Chinese because my spoken English isn't that good: I'm considering to make a new version in English. Basically each neuron corresponds to a (linear) plane in high dimensional space, that divides the space into 2 halves.  A collection of neurons cut the space into regions, thus achieving the purpose of classification.    Embed Quote

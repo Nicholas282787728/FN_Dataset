@@ -1,0 +1,2 @@
+★How do I update my physical address with Google?On Android, it still thinks I'm living in another city and I can't find any option to change it from Gmail.
+https://www.google.com/calendar 'Settings' 'Country'Note: Google likes to auto-detect your country based on IP address but doesn't always get it right. The above will not update your Google+ Profile. The above may not update your Google 'language' settings    Embed Quote

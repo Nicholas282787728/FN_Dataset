@@ -1,0 +1,2 @@
+Why aren't artificial neural networks used for everything?
+First of all I use neural network for every data problem I have, because it is intuitive, easy to implement, of good performance, and numerically stable. But I want to add that statistical algorithms are often inter-connected, and what really makes them different are cost function and framework, not specific formula or training procedure. For example, Neal in the 90s showed that Gaussian Process has similar properties to ANNs with infinite hidden neurons. There is no need to stick to Neural Network.    Embed Quote 

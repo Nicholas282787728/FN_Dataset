@@ -1,0 +1,2 @@
+What are some of your favorite data structures?
+For utility: Hashmap For awesomness: Soft Heap. I dont even fully get how it works, but its awesome. 

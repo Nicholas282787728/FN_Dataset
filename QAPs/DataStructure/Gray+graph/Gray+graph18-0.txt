@@ -1,0 +1,2 @@
+How can we find all simple cycles in an undirected graph efficiently?
+Originally Answered: How do I find all simple cycles in an undirected graph efficiently?The main algorithm in An efficient algorithm for the symmetric principal minor assignment problem has to examine every simple chordless cycle in a particular graph, so it shouldn't be too bad to repurpose it to list those.  Once you have those you can form all of the simple cycles as unions of simple chordless cycles, but as others have mentioned there may be exponentially many simple cycles. 

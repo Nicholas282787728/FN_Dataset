@@ -1,0 +1,2 @@
+What is the importance of prime numbers in computer science?
+In addition to other uses mentioned in other answers, prime numbers may be used in Quadratic residue codes and Interleaving (disk storage). 

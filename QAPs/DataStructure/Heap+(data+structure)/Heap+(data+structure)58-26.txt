@@ -1,0 +1,2 @@
+What basic data structures and algorithms should one learn before starting competitive programming?
+Originally Answered: What are some basic algorithms for competitive programming?Divide & Conquer ,Dynamic Programming,backtracking,Greedy approach,Graph Algorithms etc.Bit of Mathematics would be of great help. Please go through the link for the details, Algorithm Tutorials 2.5k Views · 5 Upvotes

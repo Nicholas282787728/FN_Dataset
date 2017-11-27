@@ -1,0 +1,2 @@
+How do I start designing my own electric motor?
+Electric motors have been developed to a very high degree. It's unlikely that your idea is as good as existing designs, especially if you are not aware of the many things that have to done just right with magnetic materials, magnetic paths, air gaps, laminations, alloys, windings, shafts, and bearings.  A motor just won't work at all unless things are just right. 

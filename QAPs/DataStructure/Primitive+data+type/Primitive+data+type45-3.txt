@@ -1,0 +1,2 @@
+Which data type is used to store values as large as 100! In C?
+The easiest way is to store one digit per element of an integer array.  You write a few routines to do the math, just implement the way you do it on paper. 

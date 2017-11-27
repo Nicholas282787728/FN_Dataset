@@ -1,0 +1,2 @@
+What does e x   mean?
+As below have answered, e is a constant with special properties. differentiating e^x with respect to x [d(e^x)/dx] gives e^x. Similarly the integral of (e^x)dx is e^x+C. This makes e a very useful constant for LaPlace Transforms and has other uses in mathematics. 

@@ -1,0 +1,2 @@
+★What are the ways to make a infrared line follower robot without a micro controller?
+Using and logic over sensor data obtained and relays maybe.    Embed Quote

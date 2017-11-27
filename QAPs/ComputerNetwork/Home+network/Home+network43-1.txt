@@ -1,0 +1,2 @@
+★Which VPN service can you use to keep your entire home network secure from those that might be spying on you and with bad intentions?
+AirVPN is the VPN service I use and recommend. You'll need a business grade router with client OpenVPN support built-in, and enough encryption horsepower to not bog down.

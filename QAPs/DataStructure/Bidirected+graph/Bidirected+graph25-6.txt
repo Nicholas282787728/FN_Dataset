@@ -1,0 +1,2 @@
+If 1=5, 2=10, 3=15 4=20 then 5=?
+Originally Answered: If 1=5, 2=10, 3=15, 4=20, then 5=?Technically, you are redefining the meaning of = to something different from the actual mathematical meaning. Thus it is incorrect to say that = is commutative here, that is a=b needn't be true even if b=a. Hence the proper answer to this question would be 25 . However, for certain IQ tests, the expected answer is 1 as 1=5  is given in the question. 

@@ -1,0 +1,2 @@
+How are linked data structures (lists, trees, etc.) implemented in Java if Java doesn't have pointers?
+Nice question... and the answer is definitely related to references. I would like you to point to this post about reference types. More about Reference Types in Java - Techie Me 

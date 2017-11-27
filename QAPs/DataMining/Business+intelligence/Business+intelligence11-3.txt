@@ -1,0 +1,2 @@
+Business Intelligence: Who actually uses BI tools?
+The goal of what we're doing here at Looker is to extend BI and data discovery capabilities to everyone across the organization in a familiar, web-based UI. We have many customers where over 80% of the company uses Looker daily.    Embed Quote 

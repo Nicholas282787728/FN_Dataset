@@ -1,0 +1,2 @@
+When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?IP address is used to bring sanity, a method in madness to the whole world where the MAC addresses are distributed world wide in almost a random way. It is well known that any system will work efficiently  if there is order. IP addressing brings this order and makes the system so efficient. 
+If only MAC addresses are used, each router will have to hold billions of these addresses.

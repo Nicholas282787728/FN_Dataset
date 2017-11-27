@@ -1,0 +1,2 @@
+★Regular Expressions (computing): What is the correct way to pronounce "regex"?I can think of three possibilities: 1.) Reh-gex (hard g) 2.) Rej-ex 3.) Rejects
+#2 Regular expression    Embed Quote

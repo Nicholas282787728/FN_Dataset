@@ -1,0 +1,1 @@
+What is the order of strongly connected components? Why is it so?What do you mean by order? Order, in general terms, tends to refer to the number of vertices in a Graph. 30 Views

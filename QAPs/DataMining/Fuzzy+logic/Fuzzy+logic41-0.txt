@@ -1,0 +1,2 @@
+★What should be the approach to follow for sentiment analysis using fuzzy logic and neural networks?I was thinking about analyzing sentiments using neural networks and fuzzy logic. I don't know even if I can apply fuzzy logic for sentiment analysis. If possible, please guide me in the right direction.
+I answered a close question recently: What can I take as a project that involves fuzzy logic and neural networks? By the way, why using FS and NN for that if you don't have to? I'm not sure they are the best tools for that.    Embed Quote

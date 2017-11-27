@@ -1,0 +1,2 @@
+What is the importance of prime numbers in computer science?
+They are varied. The biggest one is in cryptography, which relies on things which are easy to do one way but hard to do in reverse. Multiplying two primes is one such thing; getting the answer is really easy, but given the answer, trying to figure out the 2 primes is hard. There are also applications in data structures, where using a prime number can make it less likely to get collisions, and similarly with hashing. 

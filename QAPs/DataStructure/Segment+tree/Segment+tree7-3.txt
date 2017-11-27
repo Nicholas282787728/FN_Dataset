@@ -1,0 +1,2 @@
+What is the simplest implementation of segment trees that you have seen?
+The implementation in the geeksforgeeks is very cumbersome.  It involves around 50 lines of code and 4 recursive calls. That makes it not possible to code in the given time. I saw this implementation in the Codeforces discussion blog. It has been written by a person with red rating on Codeforces. It doesn't involve any recursive call and it is hardly 10 lines of code. Efficient and easy segment trees - Codeforces Do give a thumbs up if it helps! 

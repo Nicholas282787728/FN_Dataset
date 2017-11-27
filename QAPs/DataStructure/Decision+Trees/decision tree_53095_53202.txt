@@ -1,0 +1,1 @@
+what to do when the information gain on decision tree be 0 for all possible split ? you should process all of the possible split and hope for information gain somewhere down the line . 

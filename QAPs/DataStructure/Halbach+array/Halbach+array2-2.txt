@@ -1,0 +1,2 @@
+Is it possible to create a magnetic field in one direction only?
+No way one can create magnetic field in one direction as they are closed continuous curves. That can also be concluded from the fact that magnetic monopoles do not exist. However we can get a good approximation of unidirectional magnetic field using a current carrying long solenoid. 

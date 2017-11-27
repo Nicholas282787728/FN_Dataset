@@ -1,0 +1,2 @@
+★Which of these two linear models is better, R square = 0.99 or R square = 0.7?In case you think the data is insufficient, what other data point do you need to find the better of the two models?
+If we only consider the R square value, the first model with 0.99 R-square is definitely better. The definition of R square is: how close the data are to the fitted regression line, higher the better.    Embed Quote

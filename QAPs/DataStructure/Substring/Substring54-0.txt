@@ -1,0 +1,2 @@
+In ElasticSearch, how do I exclude documents with a certain substring from search results?
+Hey, You can mention the same under must_not when you use bool query, it can be something like this, {"query":{"bool":{"must":[],"must_not":[{"query_string":{"default_field":"_all","query":"TEXT1  OR TEXT2 OR TEXT3 OR TEXT4"}}],"should":[{"match_all":{}}]}},"from":0,"size":10,"sort":[],"facets":{}} This will  exclude all the documents which have the above texts in it. Hope this will do the magic. 

@@ -1,0 +1,2 @@
+What do you use: BSD queue.h, Linux list.h or SGLIB?
+Hmm... whatever the python or java library ends up using underneath. It's been about 4 years since I have coded in C/ C++ and even then I used to end up writing my own queues and lists. So, to answer your question - directly I have never used any of the BSD queue.h, Linux list.h or SGLIB 

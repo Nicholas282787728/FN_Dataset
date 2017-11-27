@@ -1,0 +1,2 @@
+Is there any connection between string theory and the values of divergent series? What is it?
+No, there is no connection. Some calculations in string theory formally involve "divergent series", but the reason for this is that string theory is defined using a quantum field theory, and quantum field theory calculations involve "divergent series", most famously in the calculation of the Casimir effect. So this is by no means unique to string theory. See also: How can the use of divergent series in calculating the Casimir effect be clarified? 

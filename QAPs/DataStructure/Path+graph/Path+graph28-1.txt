@@ -1,0 +1,2 @@
+How do I get the shortest path from the bottom to the top of a graph?
+I think in this case a Breadth First Search would suffice. You would do something similar to this except instead of using some vertex as the goal state, you would set the far bank as the goal state. This could be accomplished by adding some dummy vertex [math]v_{goal}[/math] to each vertex adjacent to the far bank and then having your BFS find any [math]v_{goal}[/math]. The first [math]v_{goal}[/math] you find will necessarily be at the end of the shortest path to the far bank. 

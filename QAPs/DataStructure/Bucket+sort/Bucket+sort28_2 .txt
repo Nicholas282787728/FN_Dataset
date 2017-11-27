@@ -1,0 +1,1 @@
+Quick Sort, Heap Sort, Bucket Sort, Insertion sort, Selection sort, Radix sort are some of the basic sorting algorithms 

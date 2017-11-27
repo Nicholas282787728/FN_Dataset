@@ -1,0 +1,2 @@
+Where can I find large datasets open to the public?
+Recently I came across CERN's open data initiative. Having talked to a few guys that have worked there, I'm pretty sure these guys currently gather one of the largest datasets in the world! Have a look at CERN Open Data Portal Hope this helps! -w 16.7k Views · 40 Upvotes

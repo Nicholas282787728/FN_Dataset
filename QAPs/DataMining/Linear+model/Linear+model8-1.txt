@@ -1,0 +1,2 @@
+★What are the best ways to visualise Generalised Linear Models (GLM)?I often try and visualise models so a lay audience (such as policymakers) can easily understand and interpret results. How do others approach this?
+I usually stick to basic plots of the individual predictors vs. predicted value, and occasionally will include some 2 way interactions vs. predicted value.  Nothing more than that.  Anything more than that and you can get eyes glazing over.    Embed Quote

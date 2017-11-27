@@ -1,0 +1,2 @@
+★Is it possible that for military communication the protocols used are completely different to TCP/IP?Which won't allow a connection based on prevalent protocols.
+I believe for military communication encryption requirements/security constraints might be high otherwise they will be using normal protocols. As an analogy, Military truck work on same engineering principles as any other truck only its physical strength and ruggedness will be high.

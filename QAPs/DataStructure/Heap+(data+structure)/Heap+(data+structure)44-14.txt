@@ -1,0 +1,2 @@
+How do I start learning or strengthen my knowledge of data structures and algorithms?
+Originally Answered: What is best effective way to learn algorithms and data structures? Algorithms and Data Structures will teach you how to write them. (You don’t memorize lists of them, you write them as needed. There’s no “standard list of algorithms that every programmer has to know”.) 2.7k Views · 4 Upvotes · Answer requested by George Ghaleb

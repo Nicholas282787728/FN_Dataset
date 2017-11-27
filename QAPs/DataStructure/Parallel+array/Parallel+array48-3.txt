@@ -1,0 +1,2 @@
+What is the exact difference between parallel and concurrent programming?
+There is this Rob Pike's presentation (from the perspective of Go language) that differentiates between concurrency and parallelism: Concurrency is not Parallelism (it's better) 

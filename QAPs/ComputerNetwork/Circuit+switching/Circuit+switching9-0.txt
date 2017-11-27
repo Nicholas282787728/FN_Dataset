@@ -1,0 +1,2 @@
+★What is the switching circuit of NOR gate?
+A NOR gate delivers a low output when any of its inputs is high. So in the simplest form, it consists of two NPN transistors sharing a common collector resistor. If either or both of the transistor bases is high, the (common) collector is low. This is in fact the exact circuit used in the earliest integrated circuits (MC900 series RTL) in the 1960s.

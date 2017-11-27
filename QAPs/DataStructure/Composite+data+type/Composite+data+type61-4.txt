@@ -1,0 +1,1 @@
+What is the connection between immutable data and first class (or higher order) functions?

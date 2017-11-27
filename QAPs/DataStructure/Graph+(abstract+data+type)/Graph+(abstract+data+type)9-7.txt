@@ -1,0 +1,2 @@
+What is the application of linked lists in data structures?
+Have a look here: [1] : Page on duke.edu [2] : Page on ucf.edu 

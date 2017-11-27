@@ -1,0 +1,2 @@
+What is the trie abstract data type?
+The trie is not an abstract data type. It is a specific data structure, which may be used to implement a set or dictionary over strings, which are abstract data types, for which other data structures exist: in particular, hash tables. Besides this, this is basically the same question as: What is a trie? 1.4k Views · 9 Upvotes

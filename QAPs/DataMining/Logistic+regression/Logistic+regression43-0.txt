@@ -1,0 +1,2 @@
+★What does the bias term represent in logistic regression?
+The role of the bias is the same in a NN. See the Nate Kohl's excellent answer here.    Embed Quote

@@ -1,0 +1,2 @@
+Why does the healthcare industry use M/MUMPS instead of a more modern or more widely used programming language?
+Possibly the same reason the financial industry still uses COBOL. It's cheaper to maintain and build on top of what is already in place and works, than to rewrite everything from scratch. 

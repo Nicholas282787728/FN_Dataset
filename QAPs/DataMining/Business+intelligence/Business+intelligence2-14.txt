@@ -1,0 +1,2 @@
+Which business intelligence tools have the best user interface?
+Viur (http://www.viurdata.com) is a web-based BI tool that has a simple clutter-free GUI. I work there and one of our goals is to have the best user experience possible in order to allow non-techies to do analytical work.    Embed Quote 

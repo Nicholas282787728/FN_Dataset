@@ -1,0 +1,2 @@
+How do I sort array of pair<int, int> in C++ according to the first and the second element?
+It is the same as sorting anything else: std::sort (std::begin(a), std::end(a)); Or, pre-c++11 without boost, if a is a C-style array, std::sort(a, a + sizeof a / sizeof *a); Thank you for your feedback! Your response is private. Is this answer still relevant and up to date? YesNo 29.2k Views · 36 Upvotes

@@ -1,0 +1,2 @@
+What are some good references for learning branch and bound algorithms?I need a reference which has explained things in clear and simple terms and solves a few examples using at least some pseudocode
+Here are some references: 1. MIT OpenCourseware lecture on Branch & Bound 2. Branch and Bound 3. Lecture -  The University of Manchester 4. Branch and Bound explanation - Stack Exchange 5. YouTube Video - Application - Knapsack Problem 

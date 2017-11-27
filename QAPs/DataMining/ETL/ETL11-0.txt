@@ -1,0 +1,2 @@
+★What is the best source to learn about ETL and ETL Testing?
+A simple google search will give you a lot of information. But below are few of the blogs. ETLGuru - ETL Strategy for the Enterprise..by Sandesh Gawande iCEDQ Insights Hope this helps.    Embed Quote

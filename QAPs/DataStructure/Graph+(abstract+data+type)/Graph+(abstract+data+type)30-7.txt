@@ -1,0 +1,2 @@
+What is category theory?
+I don't know enough about it to answer, but I have a book to recommend: Conceptual Mathematics: A First Introduction to Categories (The first edition is much less expensive) From what I've seen this book, it presents a great explanation, that's accessible without a ton of background in Math. 

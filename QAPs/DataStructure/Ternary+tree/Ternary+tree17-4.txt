@@ -1,0 +1,2 @@
+How can I implement an English dictionary?
+I remember an old Symbian software MobiDictionary...they use a .dic file for their dictionary database in plaintext... If you can get hold of that...you are good to go. BUT DO CHECK COPYRIGHT RESTRICTIONS 

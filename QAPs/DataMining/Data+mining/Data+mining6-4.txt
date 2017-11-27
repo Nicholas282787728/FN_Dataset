@@ -1,0 +1,2 @@
+★What are examples of data mining and analysis of succesful Kickstarter projects?
+I recently analyzed the Top 50 projects in every category from 2013 and put the results in an infographic.  It gives you an idea of what success looks like in the different categories: Analyzing The Top 2013 Kickstarter Campaigns By Category    Embed Quote 

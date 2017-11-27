@@ -1,0 +1,2 @@
+Which machine learning algorithms for classification support online learning?
+You should also check laSVM: projects:lasvm [leon.bottou.org] 

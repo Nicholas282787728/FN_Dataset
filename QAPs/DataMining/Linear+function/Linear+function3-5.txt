@@ -1,0 +1,2 @@
+★What is an intuitive explanation of why kinetic energy is not a linear function of velocity?i.e., Why does it take more energy to accelerate an object from 20 to 21 miles per hour than from 10 to 11 miles per hour?
+A vector can never be equal to a scalar. Velocity is a vector, whereas kinetic energy is a scalar. The only way to make it a scalar is a dot product of a even number of velocity terms (v.v or v.v.v.v etc). So, we can't have a linear function of velocity.    Embed Quote

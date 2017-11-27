@@ -1,0 +1,2 @@
+How can we convert a binary heap to a binary search tree efficiently?
+If nothing else, you could just do a straight quicksort on the array. 

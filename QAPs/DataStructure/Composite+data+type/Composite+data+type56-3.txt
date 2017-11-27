@@ -1,0 +1,2 @@
+Why would someone use an SQL query when everything is available on GUI?
+Depends on the tool. 1. A GUI like Microstrategy, COGNOS, Tableau provides very basic SQL capability. 2. SAS EG GUI for query is a lot more powerful (all custom joins, nested queries, etc), and yes, I use it... well, right now, actually. So, thumbs up to this one. 

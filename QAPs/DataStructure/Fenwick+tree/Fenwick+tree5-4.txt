@@ -1,0 +1,2 @@
+CodeChef: What are some suggestions for problems where Binary Indexed Tree (BIT) / Fenwick Tree is the primary concept?I recently learned about BIT and want suggestions for problems that I may be able to solve using this concept.
+Adding to the Brian's list: At Spoj: DQUERY, YODANESS *, INVCNT *, MSE06H, MCHAOS. At codechef: SPREAD. I will keep updating the list in future. *Could be solved via merge sort. 

@@ -1,0 +1,2 @@
+When should you use the different GCC optimization flags (e.g. -O2)?I am new to code optimization and g++/gcc compiler flags. This question arose when I saw that OpenCV uses the "-O2" optimization instead of "-O3" on 32-bit Linux. What are the pros/cons of each optimization level?
+In the particular case you are citing, they claimed to have found a bug with -O3 on that particular platform.  It's entirely possible it really is buggy.  It's also entirely possible that they have a bug in their code that it only manifests itself under very special conditions. 

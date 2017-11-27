@@ -1,0 +1,1 @@
+How does a one-way hash function work?

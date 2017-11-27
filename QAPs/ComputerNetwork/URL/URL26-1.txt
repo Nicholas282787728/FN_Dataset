@@ -1,0 +1,2 @@
+★URL Scheduler Service out there?
+Most website monitoring sites can be used for this kind of pseudo cron service. If you're looking for a list, then  http://alternativeto.net/softwar...  lists alternatives to pingdom. disclosure: Developer for http://pingdipong.com . So, I'm not entirely impartial.    Embed Quote

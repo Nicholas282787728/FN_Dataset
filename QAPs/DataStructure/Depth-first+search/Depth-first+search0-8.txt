@@ -1,0 +1,2 @@
+What is the difference between depth-first-search and breadth-first-search? Why does DFS visit the node after removal from a stack while BFS visits the node before adding it to the queue?
+Obsessive vs. manic. 11.3k Views · 25 Upvotes

@@ -1,0 +1,2 @@
+How do I find the Kth shortest path from one node to another in a graph?
+(This is not optimal approach and may be wrong also)if there are no negative weight cycles then we can run Dijkstra to find shortest between one node to another then we can remove that path from the graph and maintain a data structure for storing that path then we can run DIJKSTRA again and find 2nd shortest path this way we can continue till all paths are discovered. 

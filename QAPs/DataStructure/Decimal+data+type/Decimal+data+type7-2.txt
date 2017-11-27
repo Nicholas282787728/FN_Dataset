@@ -1,0 +1,2 @@
+What are the things you must learn in C?
+You must learn Pointer. Pointer are a fundamental part of C. If you cannot use pointers properly then you have basically lost all the power and flexibility that C allows. The secret to C is in its use of pointers. 

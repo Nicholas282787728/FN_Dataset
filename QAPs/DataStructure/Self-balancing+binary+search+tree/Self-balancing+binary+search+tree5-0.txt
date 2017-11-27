@@ -1,0 +1,2 @@
+What is the typical implementation of an unordered_map and map in the C++ STL?
+Map is typically a self-balancing binary search tree. Operations are O(log N), and you can't in general do better (because you can use it to sort). Unordered_map is some kind of hash table, with insertion/lookup/removal taking constant time on average. Updated 24w ago • View Upvotes

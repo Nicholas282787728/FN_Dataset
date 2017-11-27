@@ -1,0 +1,2 @@
+★Wireless Technology: Who first developed practical multiuser MIMO systems for cellular networks?
+James Sungjin Kim has given a detailed academic answer. To complement that, you asked about "practical.. in the world"  in which case I think the answer would be 16e WiMAX, which did feature multi-user MIMO. That may not be as sophisticated as some of the schemes but it was implemented.

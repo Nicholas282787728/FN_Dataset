@@ -1,0 +1,2 @@
+What types of tree data structure should I know to solve interviews from Google and Facebook?
+See man!!!! What you have covered is more than enough you need not to cover anything more from trees and Google fb are not gonna ask you any troubling question they would just ask the questions which would check the strength of your fundamentals... Like they can ask you to make a program for a binary tree and correspondingly make a program which forms its mirror image. So just practice more and more questions on trees to clear your fundamentals. I hope it would help you.. 

@@ -1,0 +1,2 @@
+How do you judge a JavaScript programmer by only 5 questions?
+1.  What is a closure? 2.  What is the difference between a factory and a singleton? 3.  What is dependency injection? 4.  What are promises and what is an effective way to use them? 5.  How do you separate concerns in javascript? 

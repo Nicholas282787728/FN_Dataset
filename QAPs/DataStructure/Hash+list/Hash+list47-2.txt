@@ -1,0 +1,2 @@
+What is the simplest language with which to learn algorithms and data structures?
+For algorithms - python (because of availability of pre-implemented data structures and moreover graphs can be easily implemented in python using dictionary). Courses like Udacity | Free Online Courses, Advance your College Education & Career also prefers python to implement algorithms. For data structures - C (because data structures like tree, graphs, linked list etc deals with pointers and C can provide in depth experience with pointers) Updated 29 Jan 2013 • View Upvotes

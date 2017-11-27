@@ -1,0 +1,2 @@
+★What does it mean when standard deviation is higher than the mean?In stats, if the standard deviation is higher then the average, what does that tell you about your data?
+The standard deviation is a unit of measurement on the normal distribution. One standard deviation to the right from the mean, for example, contains about 34% of of the values within the distribution. The mean, on the other hand, is a measure of the average value in your distribution. Comparing the standard deviation to the mean is not a particularly meaningful comparison, I'm afraid.    Embed Quote

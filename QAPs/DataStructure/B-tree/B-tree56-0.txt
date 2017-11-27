@@ -1,0 +1,2 @@
+Can there be a case where a key is not present in leaf node of b+tree?
+In a standard B+ tree, any key that is present in the tree at all is present in a leaf node. 270 Views · 1 Upvote

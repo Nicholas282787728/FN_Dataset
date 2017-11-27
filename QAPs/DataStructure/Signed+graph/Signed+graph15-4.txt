@@ -1,0 +1,2 @@
+What are the best resources for learning data visualization?
+The best resource is absolutely Edward Tufte, the godfather of the field. His two most popular books will give you examples, theory, inspiration and reverence. There's no better place to start: http://www.amazon.com/Visual-Dis... http://www.amazon.com/Envisionin... For more, see: What's the best Edward Tufte book? 

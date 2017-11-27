@@ -1,0 +1,1 @@
+Is P(Α∪B) a subset of P(Α) ∪P(B)?If you mean power set, not for all cases. You can consider the order of some P(A) + P(B). You can compare to the order of some P(A U B). 28 Views  View Upvotes  Answer requested by Paul Robinson

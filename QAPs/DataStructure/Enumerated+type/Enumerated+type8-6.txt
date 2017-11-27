@@ -1,0 +1,2 @@
+Software Engineering: What are good ways to avoid bugs while programming?
+Get plenty of sleep, exercise regularly, eat healthy food, and take frequent breaks. 

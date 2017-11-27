@@ -1,0 +1,2 @@
+What are some real-life examples of Breadth and Depth First Search?
+Originally Answered: What are the real world applications of Breadth First Search?Finding the shortest path to another node. Dijkstra's algorithm can be interpreted as a breadth first search. Similarly, finding the closest common ancestor. Basically, anything that optimizes for minimal distance in some way. Because with breadth first search, you find "close by" things first. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 12.3k Views · 9 Upvotes

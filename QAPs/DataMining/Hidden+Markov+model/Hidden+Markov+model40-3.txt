@@ -1,0 +1,2 @@
+★Hidden Markov Models: How do you implement speech recognition through hmm technology to implement it on matlab?
+Hi Pranav!! How can I use HMM based speech recognition available at sourceforge for continuous speech @pranav jawale    Embed Quote

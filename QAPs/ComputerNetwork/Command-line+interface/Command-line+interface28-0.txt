@@ -1,0 +1,2 @@
+★I have an offline speech engine using CMU Sphinx 3 using command lines. How can I develop interfaces for the system and make it usable by users?Possible programming language to be used?
+Well you can just record the speech for a particular duration of time or check for a long silence in the speech. Once yoi have the speech data, you can preprocess it to remove noise and silence and give it to Sphinx to convert it to text. Analyze the text using Perl or Python and give the corresponding response.

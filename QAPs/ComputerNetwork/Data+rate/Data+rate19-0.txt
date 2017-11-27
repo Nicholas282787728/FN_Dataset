@@ -1,0 +1,2 @@
+★As data rates on I/Os go higher, wouldn't that make EMI a bigger issue?
+As data rates on I/Os go higher, wouldn't that make EMI a bigger issue? Yes. Different techniques are used to manage EMI including differential lines, shielded lines, and the lines are managed such that they meet good RF design principles through matching and avoiding vias.

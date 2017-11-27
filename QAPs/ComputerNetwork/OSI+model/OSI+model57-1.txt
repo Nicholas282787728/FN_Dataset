@@ -1,0 +1,2 @@
+★What is the difference (if any) between a wireless access point and a wireless router?
+An access point is better known as a bridge and works on Layer 2 on the OSI model. It simply takes the packets from one network segment and passes them onto another based on the destination MAC address at Layer 2. A router is a Layer 3 device, and works on IP addresses to move packets between different networks. For a wireless router, it is essentially a normal router but with a wireless access point built into it.    Embed Quote

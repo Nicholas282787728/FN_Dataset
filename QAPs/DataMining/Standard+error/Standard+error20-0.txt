@@ -1,0 +1,2 @@
+★Should you plot the standard deviation or standard error when using error bars for bar plots and/or time series?Why would one be more useful than the other?
+Thanks for A2A It doesn't really matter, as long as you are clear    Embed Quote

@@ -1,0 +1,2 @@
+Can we implement a double ended queue using an array?
+Yes. We can use circular array to implement double ended queue efficiently. We need to keep two pointer for front and back , which will be initialized to -1 when queue is empty. 

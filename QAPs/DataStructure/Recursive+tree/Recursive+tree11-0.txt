@@ -1,0 +1,2 @@
+What can be done to master recursion in tree traversals?
+See How to Design Programs (first or second edition). It will teach you where recursion comes from and how to write programs over it. The Design Recipe leads you directly to when recursion applies and how to use it in programs. It also makes the critical distinction between structural and generative recursion, which you need to understand. Tree recursion follows naturally from the structure of the data, and the book leads you to it in a logical progression. 

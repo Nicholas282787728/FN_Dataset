@@ -1,0 +1,2 @@
+What are some new Java 8 features that improve concurrency?
+Java 8 has a parallel sort for all primitive data types and this can used for all comparable objects Along with the introduction of lambda methods, the concurrentHashMap has received a face lift with various methods that resemble the reduce mehod of functional programming. The following link has a more detailed description. Concurrency Utilities Enhancements in Java SE 8 

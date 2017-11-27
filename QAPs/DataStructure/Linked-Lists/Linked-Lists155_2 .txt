@@ -1,0 +1,1 @@
+How can you enter into a circular linked list if you don't know the head?I think it is not possible to enter a list with out any reference to the list unless you know about the address of heap memory in which the list is stored. Usually while creating a cricular list either the head or the tail will be pointing to the list. 321 Views

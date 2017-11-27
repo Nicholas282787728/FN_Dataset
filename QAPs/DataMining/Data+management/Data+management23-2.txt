@@ -1,0 +1,2 @@
+Which vendor has progressed the most towards unified data management, through the merging of ETL, MDM and DQM?
+Informatica. Simple because it's their main and (almost) only focus.    Embed Quote 

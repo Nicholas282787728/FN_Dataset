@@ -1,0 +1,2 @@
+★What is the difference between supervised and unsupervised learning algorithms?
+In supervised learning, you have some data(X and Y values) and you have to predict result from that data. In  unsupervised learning, you have data but they are not in classified. You have to work on that data using clustering or some other  method.    Embed Quote

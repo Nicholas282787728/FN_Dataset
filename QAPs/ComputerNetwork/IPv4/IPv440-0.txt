@@ -1,0 +1,2 @@
+★What is the definition for dual-stack and tunneling approaches for IPv4 to IPv6 transition?
+Dual stack: The end host runs both V4 and V6 natively in parallel.  The rest of the network does too. Tunneling: V6 packets are wrapped in a V4 packet and tunneled to some other endpoint that speaks V6.

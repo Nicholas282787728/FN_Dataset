@@ -1,0 +1,2 @@
+★What is the best book for understanding switching theory and logic circuits?
+you may try Fundamentals of Switching Theory and Logic Design A Hands on Approach by JAAKKO T. ASTOLA

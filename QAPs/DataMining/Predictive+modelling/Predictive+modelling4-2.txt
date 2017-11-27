@@ -1,0 +1,2 @@
+★What is the best open source software to use for building predictive models?Any advice on techniques to train the model?  Segment the data?
+RapidMiner is in my opinion the best OSS for the job - http://rapid-i.com/ you can have Weka as a plugin for machine learning.    Embed Quote

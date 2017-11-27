@@ -1,0 +1,1 @@
+Somebody can give us some examples of an aperiodic markov chain? Why are aperiodic?

@@ -1,0 +1,2 @@
+★How does the NFC ecosystem work?What are Trusted Service Managers (TSMs)? What are service providers? What are some examples of the same?
+Rob Triggs wrote a really overview on how NFC works: What is NFC & how does it work? I also like the article on Apple Pay specifically written by John Beatty: How Apple Pay works and why it matters for developers    Embed Quote

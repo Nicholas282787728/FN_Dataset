@@ -1,0 +1,2 @@
+Is a HashSet a set based on hash table or a hash table based on set?
+HashSet is implemented using HashMap. Read more about this, http://www.javatechblog.com/java... 45 Views · 1 Upvote

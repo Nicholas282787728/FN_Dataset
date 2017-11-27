@@ -1,0 +1,2 @@
+★In 20 random studies that reject the null hypothesis with a p value of .05, will one of those studies (on average) erroneously reject a true null hypothesis?
+Yes.  This is one reason that it's important to have logical justifications for the hypotheses you are testing.  I immediately thought of this xkcd comic when I saw this question: xkcd: Significant    Embed Quote

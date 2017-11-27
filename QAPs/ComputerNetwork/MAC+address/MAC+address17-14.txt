@@ -1,0 +1,2 @@
+★When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?
+MAC is Unique but in a network you have to manage and planning its devices. If you use MAC only, managing this devices is impossible; because MAC addresses have not a regular structure address. But with using IP you can manage devices easily.    Embed Quote

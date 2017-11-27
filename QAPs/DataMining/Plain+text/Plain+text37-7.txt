@@ -1,0 +1,2 @@
+★What is the best plain text editor (equivalent to the MS Notepad) for Linux? Is there a simple program I can use for plain text that can be sent to Linux, Windows, and Apple machines?
+for CLI , USE nano , For GUI use gedit (both are typically peinstalled)    Embed Quote

@@ -1,0 +1,2 @@
+★Is it better to use the Critsend API or SMTP relay?
+SMTP relay is good to use.    Embed Quote

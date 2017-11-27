@@ -1,0 +1,2 @@
+What is the difference between primary key and unique key in MySQL?
+A table can have only one primary key, which must be unique. A table can have any number of secondary keys, which can be unique (no dups) or non-unique. 

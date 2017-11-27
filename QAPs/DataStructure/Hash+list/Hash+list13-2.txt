@@ -1,0 +1,1 @@
+Is it a breach of the Apple developers agreement to give an ad-network a list of MDF hashed UDIDs?that installed my app in a set time period; to help track installs where I wasn't integrated with their API/SDK.

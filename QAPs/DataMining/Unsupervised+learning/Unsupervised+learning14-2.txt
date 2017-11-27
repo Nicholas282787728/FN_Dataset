@@ -1,0 +1,2 @@
+★Support Vector Machines: Is it possible to use SVMs for unsupervised learning/density estimation?
+There iS also an unsupervised technique which applies the SVM  ideas of solving a convex optimization problem while maximizing the margin between clusters--it is  called Maximum Margin Matrix Factorization.  See http://ttic.uchicago.edu/~nati/mmmf I think this would be the closest equivalent of an unsupervised SVM    Embed Quote

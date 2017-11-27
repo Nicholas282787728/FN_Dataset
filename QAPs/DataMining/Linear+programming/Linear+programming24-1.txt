@@ -1,0 +1,2 @@
+★What is the most common programming language for solving linear programming problems?
+Python can work with linear models thru the PuLP package (Available here: Python Package Index ). PuLP relies on solvers which I belive are written in fortran, but you control it thru Python.    Embed Quote

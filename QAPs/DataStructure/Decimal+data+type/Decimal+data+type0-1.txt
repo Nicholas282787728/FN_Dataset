@@ -1,0 +1,2 @@
+What is the difference among float, double and decimal data types? And how do you decide which one to use?
+I would highly recommend reading kerninghan and ritchie. 

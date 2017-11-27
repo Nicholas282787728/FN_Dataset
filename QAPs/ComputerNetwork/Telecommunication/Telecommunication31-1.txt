@@ -1,0 +1,2 @@
+★What is the difference between medium and channel in telecommunication?
+Medium, assuming you mean transmission medium, refers to the material (sometimes air) that a signal sent through.  The channel normally refers to the specific frequency that the signal is using.  For example, a if we look at the coaxial portion of a cable TV system the medium is the coax wiring and the channels (frequencies) are from 54 MHz to 1 GHz.  North American television frequencies Transmission medium    Embed Quote

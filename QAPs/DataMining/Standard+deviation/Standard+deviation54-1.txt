@@ -1,0 +1,2 @@
+★How do you derive the Quantile equation for a Normal Variable X with mean = μ and standard deviation σ?
+How do I convert binary dependent variable into quantile level when applying binary quantile regression?    Embed Quote

@@ -1,0 +1,2 @@
+I recently noticed that some companies/developers, migrated or adopted Go language over Node.js. Why is that?
+Sometimes it is simply a matter of using the right tool for the job - I find myself doing most of my front-end stuff with Node, but cringe when I'm building a service if I can't use Go. My attraction to Go? There are some really serious power tools in the Go environment (formatting, debugging, test). Your workflow will be changed dramatically based on what language you end up running with, and oftentimes that is a major factor in the decision making process. 

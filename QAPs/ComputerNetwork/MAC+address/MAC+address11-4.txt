@@ -1,0 +1,2 @@
+★Why are MAC addresses unique when they are supposed to be used within a LAN? Are MAC addresses transmitted across the Internet also?
+If MAC Addresses are not unique then it is tough to identify particular system in LAN. Yes MAC Address can be transmitted across internet but, there is no need of it as there is IP Address to do all the work on networking layer.    Embed Quote

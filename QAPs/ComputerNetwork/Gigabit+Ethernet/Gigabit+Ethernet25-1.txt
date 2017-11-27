@@ -1,0 +1,2 @@
+★Why does Apple's MacBook Pro lack an Ethernet port?How can I overcome this issue?
+Partially, they decided that it wasn't worth making the Macbook Pro thicker just so it can accommodate a regular, full-size ethernet port. It might also be because they figure most people will eventually use 802.11ac wireless, which has a maximum theoretical speed of 1.3 Gbps (faster than gigabit ethernet).   You'll want one of these: Thunderbolt to Gigabit Ethernet Adapter

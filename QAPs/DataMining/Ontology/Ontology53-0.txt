@@ -1,0 +1,2 @@
+★Will the Universal Core military ontology project succeed?http://ucore.gov/ http://data.army.mil/datastrateg... http://en.wikipedia.org/wiki/UCore
+I am 90% sure having talked to some of the government folks involved in this a few months ago that the UCore project is being phased out in favor of NIEM. Having been involved in both efforts, the NIEM project has both more momentum, a better governance process and better tool/third-party support.  So, IMO, this is a good move.    Embed Quote

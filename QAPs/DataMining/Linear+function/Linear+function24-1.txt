@@ -1,0 +1,2 @@
+★Why are linear functions sometimes used as the output nodes of artificial neural nets, while the hidden nodes are instead non-linear? What is the reason for this difference?
+Great, thanks. This is what I suspected, just wondered whether there was anything that I might have been missing. Thanks again for your answer!    Embed Quote

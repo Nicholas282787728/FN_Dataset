@@ -1,0 +1,2 @@
+Who are the competitors to Microsoft's Yammer?
+You might also consider Convofy, which has Yammer/Socialcast features, plus chat and a unique document annotation / collaboration capability that enables it to go beyond basic info-sharing in the stream. http://www.convofy.com 

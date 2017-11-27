@@ -1,0 +1,2 @@
+How do I start game development in C/C++?
+You're in luck. Casey Muratori (formerly of RAD) is doing a series on this right now. See Handmade Hero for the details. Updated 44w ago • View Upvotes

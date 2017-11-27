@@ -1,0 +1,2 @@
+★What's the difference between a wildcard and a regular expression?
+This wiki article explains it well: Wildcard character. All strings made of wildcard characters are subset of Regular Expressions. Regular Expressions provide much richer way to express a set of strings.    Embed Quote

@@ -1,0 +1,2 @@
+How come in most C++ books they do not go over many data structures? Such as linked lists binary trees stacks, etc.
+Data structures are not language unique, for the most part.  Therefore, it makes more sense for a book to be written on the theory and application of data structures and a separate book to be written on the syntax and intricacies of languages. 

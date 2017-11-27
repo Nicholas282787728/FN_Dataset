@@ -1,0 +1,1 @@
+How do I find the capacity of an array list in Java?Please see these links as they have the best answer: Capacity of ArrayList How to get the capacity of the ArrayList in Java? 329 Views

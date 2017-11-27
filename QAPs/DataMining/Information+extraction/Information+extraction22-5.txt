@@ -1,0 +1,2 @@
+★What are the best schools for studying Natural Language Processing?
+University College London hired Sebastian Riedel, Ohio State has several people in speech and language and has just hired two more. Cambridge also has Bill Byrne, and several language-adjacent ML people (David MacKay, Zoubin Gharamani).    Embed Quote

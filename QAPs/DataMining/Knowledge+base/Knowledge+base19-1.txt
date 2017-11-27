@@ -1,0 +1,2 @@
+★What are some open source languages that are "knowledge based" like Wolfram Alpha?Followup to: Chris Jagers' answer to Wolfram Language: What is the significance of the Wolfram Language?
+If you just want to try it out, the Wolfram Programming Cloud offers a credit-based limited access system to the Wolfram Language/Mathematica for free.    Embed Quote

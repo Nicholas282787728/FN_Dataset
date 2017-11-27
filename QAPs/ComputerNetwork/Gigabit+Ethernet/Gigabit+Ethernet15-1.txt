@@ -1,0 +1,2 @@
+★What is the most inexpensive NAS solution that simply puts one SATA or USB 3.0 hard drive on a network with Gigabit ethernet, with support for SSH?Synology has a number of offerings, but they are overkill for this particular application, and all I need is something cheap and barebones as described.
+As Wojtek indicated raspberry pi is a good option for your purpose it is not for Gigabit. There is a new kid in this space. You can check out Hummingbird and intel's minnowboard for gigabit options.

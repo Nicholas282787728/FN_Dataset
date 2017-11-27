@@ -1,0 +1,2 @@
+Are systems people more likely to have a linked list as their favourite data structure? If so, why?
+If they do, then they suffer from chronic non-scalability. Most experienced systems people that I know are smarter than that and will pull out their favorite balanced binary tree at the drop of a hat. Most common Un*x distributions now include this as part of tree(3). There's no good reason not to use it. Edit: Thanks to Drew Eckhardt for pointing out that I bungled the man page. Oops. 

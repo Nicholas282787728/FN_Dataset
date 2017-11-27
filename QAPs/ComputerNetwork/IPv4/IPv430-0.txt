@@ -1,0 +1,2 @@
+★Why is there no iPv5 after iPv4?
+I have read about it in the book "Data Communications and Networking"   by Behrouz A. Forouzan:   IPv5 is an experimental protocol, based mostly on the OSI model that       never materialized.

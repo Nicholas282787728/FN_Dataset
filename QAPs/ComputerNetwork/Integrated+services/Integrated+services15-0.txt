@@ -1,0 +1,2 @@
+★Suggest the best approach to integrate ActiveMQ to SQL Server Integration Services?I am in need of consuming ActiveMQ messages every half an hour from a dedicated consumer which has been set up to push messages to our DataWarehouse. I would need a highly scalable architecture that can process messages possibly in parallel (dont mind sequential if it is too complex)
+have you looked into using Service Broker?    Embed Quote

@@ -1,0 +1,2 @@
+Does the following implementation for finding the longest common substring within two strings work?
+Hashes don't work that way.   Hashes are computed from all of the string, and in a non-reversible fashion.  So the hash of s[0] bears no relation to the hash of s or of any substring of s or of any other string. 

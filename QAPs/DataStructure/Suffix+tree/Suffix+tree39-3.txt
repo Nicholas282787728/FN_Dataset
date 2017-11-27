@@ -1,0 +1,2 @@
+What is the coolest data structure?
+Agree with Bloom Filters, Skip Lists, Suffix Trees (though I like Prefix-Suffix graphs better), I'd add Binary Heaps to the list: An efficient structure to support priority queues. Since it's a tree represented as a contiguous array, you can write it to disk and memory-map it back in a snap. Additionally, it supports one of my favorite sort algos : HeapSort. 

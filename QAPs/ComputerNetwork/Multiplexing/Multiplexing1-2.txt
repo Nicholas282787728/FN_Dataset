@@ -1,0 +1,2 @@
+★What is the purpose of time-division multiplexing (TDM)?From my understanding, multiplexing is used to increase communication speed, but I don't see how TDM does this.
+Like other forms of multiplexion its goal is for multiple signals to share the same physical channel.    Embed Quote

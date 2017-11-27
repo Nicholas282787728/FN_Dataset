@@ -1,0 +1,2 @@
+Is an Array an abstract data type?
+Of an abstract data type, you only know the interface: which operations are allowed. An array is not abstract because it stores the data as a contiguous block in memory. Because you know how an array works, you also know which operations will be fast (set the element at index 5 to 23), and which will be slow (removing the middle element). 409 Views · 4 Upvotes

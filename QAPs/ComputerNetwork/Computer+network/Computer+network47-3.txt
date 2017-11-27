@@ -1,0 +1,2 @@
+★What is the difference between host and server in terms of computer networking?
+Host and Server? You mean Client and Server? A host can be a server, and a server is in fact a host.

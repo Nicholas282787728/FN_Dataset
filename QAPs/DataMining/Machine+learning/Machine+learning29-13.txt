@@ -1,0 +1,2 @@
+★Why isn't supervised machine learning more automated?
+I took the machine learning class online from Standord, and I was more recently impressed by the google machine learning API https://developers.google.com/pr... . You upload your learning data set and the you have a machine learning API working right away. You can even fine tune the parameters and the type of algorithm to learn from the data set if I remember well. Have you tried it?    Embed Quote

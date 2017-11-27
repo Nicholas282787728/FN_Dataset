@@ -1,0 +1,2 @@
+★What's the difference between Genetic Algorithms and Genetic Programming?
+Genetic programming is the application of genetic algorithms to the optimization of programs, in the software engineering sense of the word. As such, genetic programming is technically one particular type of genetic algorithm. Typically, when reference is made to genetic algorithms, a bit-string representation is assumed, and when reference is made to genetic programming, an expression tree representation, often resembling those of the Lisp programming language, is assumed.    Embed Quote

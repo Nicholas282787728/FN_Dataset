@@ -1,0 +1,1 @@
+What is the best way to connect a SQL server with Android using a connection string?

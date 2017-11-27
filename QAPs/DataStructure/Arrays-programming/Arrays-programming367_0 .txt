@@ -1,0 +1,1 @@
+Is there any \0 in the last element in the array if it is not a string?‘/0’ is a character used to denote the end of a string . Other array types do not require the /0 , so other arrays do not have a /0 character . 43 Views · View Upvotes

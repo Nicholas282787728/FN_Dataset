@@ -1,0 +1,2 @@
+★How do Conditional Random Fields (CRF) compare to Maximum Entropy Models and Hidden Markov Models?I am interested in the sequence tagging task specifically.
+I found an interesting resource describing the poor and cons of MEM, HMM and CRF : Page on Umass My understanding is that CRF has the benefits of MEM complex features (can be highly correlated, no assumption of independence) and HMM state transition features.    Embed Quote

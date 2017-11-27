@@ -1,0 +1,2 @@
+How do you find a single colour that represents a segment of a hue histogram of an image?
+If I understood you question correctly, you can simply average colors of the segments to obtain the color representing it. Coming to the second part of your question, if the reason for generating a color pallete is to quantize (for compression) then Octree based color tree pruning is a good idea. Octree Color Quantization Provide more details if this is not what you are looking for. 

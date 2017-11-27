@@ -1,0 +1,2 @@
+★Which Operating System is the best for creating Artificial Intelligence projects, mainly, Fuzzy Logic?I want to know which operating systems are the best to do AI in, and why?
+Most big research systems (clusters, supercomputers...the works) that I know run on a form of Unix.    Embed Quote

@@ -1,0 +1,2 @@
+★In RFID technology, can receiver and transmitter work together to estimate the distance between them? If not what type of similar technology using Radio frequencies can enable this?
+if i want to develop a system using pnch card with gps system.. which tech of rfid is better???    Embed Quote

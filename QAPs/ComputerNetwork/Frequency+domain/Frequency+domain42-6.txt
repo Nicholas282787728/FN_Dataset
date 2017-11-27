@@ -1,0 +1,2 @@
+★What is the difference between an 'integrator' and a 'low pass filter' & 'differentiator' and a 'high pass filter'?
+They are fundamentally almost the same, with the difference lying in the limited gains. An integrator with limited low frequency gain is a low pass filter and a differentiator with limited high frequency gain is a high pass filter. Another difference I would like to add is that you will be interested in the slopy region of the integrator/differentiator function and the flat gain part for passing low/high frequencies.

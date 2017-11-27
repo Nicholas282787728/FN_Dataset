@@ -1,0 +1,2 @@
+What are some examples of problems for which a priority queue proves useful?
+Merging together a bunch sorted lists/iterators into one sorted list/iterator.  Used frequently in the guts of search engines for effecient implementation of boolean queries, phrase queries 2.2k Views · 5 Upvotes

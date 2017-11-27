@@ -1,0 +1,2 @@
+★What's a good method for storing arbitrary metadata?Examples might include GPS trip data, images, or JSON documents. The data should be able to be arbitrarily large and easily manipulated.
+Document DB like CouchDB or MongoDB    Embed Quote

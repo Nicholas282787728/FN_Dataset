@@ -1,0 +1,2 @@
+★Python for Machine Learning?
+Just in case your interest is in Neural Networks, do take note that sklearn dropped their ANN module in favour of PyBrain. Removed modules Module ann (Artificial Neural Networks) has been removed from the distribution. Users wanting this sort of algorithms should take a look into pybrain. Unfortunately, I've tried PyBrain a bit and I'd say it's a little rough around the edges, particularly in documentation. Links: 0.13.1 - scikit-learn 0.13.1 documentation PyBrain    Embed Quote

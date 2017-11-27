@@ -1,0 +1,2 @@
+What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
+Not a particular structure, but there's some really cool stuff in MIT's spring 2012 Advanced Data Structures class (Advanced Data Structures (6.851)). 

@@ -1,0 +1,2 @@
+★What are some good resources for learning about statistical analysis?This is a follow-up on How do I become a data scientist?
+This is a compilation of the books that I've compiled for my posts about learning data science (How do I become a data scientist?) The Elements of Statistical Learning (R focus) An Introduction to Statistical Learning (R focus) Think Stats (Python focus) These have official pdf versions available for free at data mining, inference, and prediction. 2nd Edition. Page on usc.edu Probability and Statistics for Programmers    Embed Quote

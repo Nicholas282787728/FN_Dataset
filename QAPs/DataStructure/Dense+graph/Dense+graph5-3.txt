@@ -1,0 +1,2 @@
+What is the difference in Kruskal's and Prim's algorithm?
+In Kruskal’s algorithm it begins with an edge, but in Prim's algorithm it start with a node. In Kruskal's Algorithm select the next edge in a haphazard way but in increasing order while in Prim's algorithm it move from one node to another. Kruskal's algorithm works on  both connected and disconnected graph while in Prim's algorithm restricted on connected graph. Kruskal's has a time complexity of O(logV) while Prim's time complexity is O(V2). 

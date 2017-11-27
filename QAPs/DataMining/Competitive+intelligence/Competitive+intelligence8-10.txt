@@ -1,0 +1,2 @@
+Competitive Intelligence: How do you keep track of market news and competitors?
+We use an RSS-reader in combination with Google Alerts and Page2RSS (for those web pages that lack RSS). We also share our market intelligence with customers (and the rest of the world), I describe it here: Content Curation: The tale of the 76 Twitter-accounts    Embed Quote 

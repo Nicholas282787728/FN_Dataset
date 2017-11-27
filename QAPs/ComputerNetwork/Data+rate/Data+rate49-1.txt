@@ -1,0 +1,2 @@
+★How can data transfer rate be defined in one line?
+the data which can be transmitted from one device to another.

@@ -1,0 +1,2 @@
+★What is an easy method for service discovery with IPv6?I've been working on a LAN messaging app for the last few years, when all of the sudden IPv6 came along. The application worked by initially sending out a UDP broadcast in IPv4, collecting peers who responded, and then using the established peers to pass messages in the network. IPv6 got rid of broadcasting. Are there any other easy ways for initial peer discovery?
+Have you looked at mDNSv6 or doing a link local multicast?    Embed Quote

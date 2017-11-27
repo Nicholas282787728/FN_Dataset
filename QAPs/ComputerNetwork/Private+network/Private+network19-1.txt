@@ -1,0 +1,2 @@
+★Does ARP spoofing only work for private networks?
+Arp spoofing works at layer 2. So it works at private and public networks.    Embed Quote

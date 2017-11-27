@@ -1,0 +1,1 @@
+How can I express a "class" (programming) in category theory?In programming we use classes to define objects through fields (data) and methods (behaviours). How this should be correctly written/expressed in mathematics/ category theory ? Is there studies/references on this particular problem ? What are the categories (names and properties) involved by classes ?

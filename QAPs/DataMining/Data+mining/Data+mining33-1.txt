@@ -1,0 +1,2 @@
+Are there any data mining options for NoSQL databases?
+Have a look at: Pig http://pig.apache.org/ Hive http://hive.apache.org/ Cascading http://www.cascading.org/ Cascalog https://github.com/nathanmarz/ca... Mahout http://mahout.apache.org/ Mapreduce & Hadoop Algorithms in Academic Papers (3rd update) http://atbrox.com/2010/05/08/map...    Embed Quote 

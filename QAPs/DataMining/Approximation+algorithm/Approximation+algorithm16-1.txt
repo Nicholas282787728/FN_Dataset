@@ -1,0 +1,2 @@
+★What is the significance of approximation algorithms? How should I study them?
+I'm going to assume that this is the same approximation type of stuff that i did in school.  Apologies if i am completely off base.  Its not an uncommon question.  These types of algorithms are used all through out math and engineering.    Embed Quote

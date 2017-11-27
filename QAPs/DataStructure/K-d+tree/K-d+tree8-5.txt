@@ -1,0 +1,2 @@
+Are there any algorithms of the order O(sqrt(n))?
+Chunk search is one of the first algorithms a CS student learns, typically - it involves searching the first element of a chunk of size n in a sorted list until it finds the chunk where the target likely is, and then searching that chunk. In its optimal state, where the chunk size is equal to the square root of the size of the list, chunk search is an O(sqrt(n)) algorithm. 

@@ -1,0 +1,2 @@
+★Are principal component analysis and linear regression interchangeable? If not, why? When is it recommended to use each one?I'm getting into Machine Learning and this question popped up into my mind.
+PCA is data &/or dimensionality reduction technique... Where as regression is prediction method.... They are not interchangeable    Embed Quote

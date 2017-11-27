@@ -1,0 +1,2 @@
+What is the key feature missing in geolocation apps such as foursquare, Gowalla, SCVNGR, PlacePoP, etc?
+They make you check in. We need automated check-ins (and social features for that matter). 

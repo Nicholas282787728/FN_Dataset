@@ -1,0 +1,2 @@
+★What are the most amazing applications of linear algebra?for example in the fields of computers science, 3d-animations, quantum mechanics, economics or engineering.
+Linear algebra includes  Markov chains http://en.wikibooks.org/wiki/Lin... That has applications ranging from data mining to stochastic processes to operation research used in everyday life decisions .    Embed Quote

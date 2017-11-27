@@ -1,0 +1,1 @@
+What are some tips, tricks and gotchas when using a binary tree search algorithm?When traversing a binary tree, make sure the node exists when dereferencing it, else you will have segfaults. Segfaults make Michael sad. :'( ...unless they are on purpose :p. Security is fun!!! 

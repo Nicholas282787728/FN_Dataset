@@ -1,0 +1,2 @@
+★What are some good uses for the WebRTC Peer-to-Peer Data API?Real-time Communication Between Browsers The Peer-to-peer Data API lets a web application send and receive  generic application data peer-to-peer.
+Files, data, chat, gaming and screen sharing. Everything would be possible using RTCDataChannel APIs. Snapping to Syncing.....RTCDataChanel at firefox nightly uses 16 streams by default....it is possible to transfer 100MB of data in less than one minute on slow internet connection (300KB/s --- i.e. 2MB DSL).    Embed Quote

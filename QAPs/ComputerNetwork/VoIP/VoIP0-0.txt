@@ -1,0 +1,2 @@
+★What is VoIP?
+VOIP  is a set of protocols ( for "signalling" and "media") designed to work over the Internet Protocol to achieve real-time voice communication, just like in classic telephony. In simple terms , "signalling" is the ability to dial the number of another service subscriber,  "media" is the voice itself. Both are carried through Internet links. SIP is an example of signalling protocol (widely used ) , RTP is an example of media protocol (widely used).    Embed Quote

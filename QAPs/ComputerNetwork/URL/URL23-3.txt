@@ -1,0 +1,2 @@
+★Do users pay attention to and interact with URL paths?Technical users appear to, but how much benefit is gained for regular users by having a well-crafted hierarchy of clean URLs for your website? Specifically, this is referring to the URL path - not the domain.
+I do, but I'm fairly technical. I use a Firefox extension called Locationbar². It's actually quite handy for navigating to URL paths. It's one of the first add-ons I install on a new machine. https://addons.mozilla.org/en-US...    Embed Quote

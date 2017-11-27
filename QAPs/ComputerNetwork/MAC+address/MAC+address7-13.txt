@@ -1,0 +1,2 @@
+★Why is there a MAC address and an IP address?
+Mac is an unique address layer 2 address . where as "IP" is re usable and layer 3 address , if you look at the TCP/IP stack packet processing happens from top to bottom in the sending side, and bottom to up in the receiving side so you will use the mac and IP to identify the packet physically and also logically    Embed Quote

@@ -1,0 +1,2 @@
+★What is the difference between a distributed system and a computer network?
+Distributed systems run on a underlying computer network. For example Distributed File system runs on a network of computers. For example Hadoop. Distributed systems provide localization, replication etc. Computer network is an important aspect of the distributed systems. For example with network multicast feature, we may not realize that distributed system.

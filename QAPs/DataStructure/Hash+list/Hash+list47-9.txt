@@ -1,0 +1,2 @@
+What is the simplest language with which to learn algorithms and data structures?
+Anything with a good visual debugger. It helps to be able to break into the execution and look at what is going on.  If you go for Python, PyDev (check out EasyEclipse or Eclipse), or maybe Visual Studio for other languages.  You can get reduced versions for free, and the debugger is very good. 

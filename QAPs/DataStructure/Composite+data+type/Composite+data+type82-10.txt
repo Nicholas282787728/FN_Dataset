@@ -1,0 +1,2 @@
+How many lines of code can a good programmer write in one hour?
+Good programmers avoid writing code.  It's hard to get right, hard to debug, hard to maintain, and expensive to document.  Better to use some other sucker's code who has already made that investment. On particularly productive days, a good programmer will delete more code than they write (especially if the person who had been writing the code was trying to impress folks with their hourly rate of production). 

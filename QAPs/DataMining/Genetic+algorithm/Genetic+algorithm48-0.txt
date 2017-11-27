@@ -1,0 +1,2 @@
+★What Java library do you use for genetic algorithms? Why?
+The Hadoop framework is a good choice for large scale problems.  For smaller problem, you can just code a given simulation directly on the core JVM for the most part.    Embed Quote

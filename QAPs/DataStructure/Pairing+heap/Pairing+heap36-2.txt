@@ -1,0 +1,2 @@
+What basic data structures and algorithms should one learn before starting competitive programming?
+Rather than worrying about learning which data structures and algorithms you need, I would recommend just solving problems. When you need an algorithms or data structure to solve a problem, look it up. That way you'll get experience solving problems, and you'll also learn the theory that you need. If you have trouble figuring out which algorithm/data structure to use for which problem, try using a categorized list like the one at uHunt :: UVa Hunting. 

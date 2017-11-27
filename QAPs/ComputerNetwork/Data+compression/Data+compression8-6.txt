@@ -1,0 +1,2 @@
+★How does file compression work?zip, tar, gz, rar etc. How does a file become 'smaller'?
+The computer looks for repeated patterns of bits and makes a table of shorter abbreviations for those longer patterns. Then, it writes the table followed by the file with the longer patterns replaced with the abbreviations. If the file contains a lot of repeated patterns of bits, it is easily compressed, but if the data is completely random, you simply cannot create a table of abbreviations that will save any space.

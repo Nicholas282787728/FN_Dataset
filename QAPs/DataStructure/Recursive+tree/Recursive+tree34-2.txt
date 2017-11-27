@@ -1,0 +1,2 @@
+What is the best method for tracing the recursive functions?
+Create a recursion tree :). List the values for each recursive call. Then backtrack to see how each node unwinds.xD. 

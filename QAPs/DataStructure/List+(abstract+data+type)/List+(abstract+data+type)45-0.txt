@@ -1,0 +1,2 @@
+What is Queue?
+A queue is an abstract data type that supports the enqueue and dequeue operations. Enqueue adds an element to the back of the queue, and dequeue removes an element from the front of the queue. This results in FIFO (first-in-first-out) processing of the queued elements. This is analogous to real-world queues (lines people wait in). Queues are typically implemented either using linked lists or using arrays. A linked-list implementation runs in O(1) worst-case time for both operations; an array implementation achieves the same bound but amortized. 

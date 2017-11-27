@@ -1,0 +1,2 @@
+★I want to know everything about high frequency trading and/or algorithmic trading, where do I start?
+Knowing everything about an always changing field is futile, but many people with technical backgrounds have used The Complete Guide to Capital Markets for Quantitative Professionals by Alex Kuznetsov as a primer.

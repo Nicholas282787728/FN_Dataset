@@ -1,0 +1,2 @@
+★How can you learn Mathematics for machine learning?What books, topics, resources are one stop for learning all mathematics necessary to start learning Machine Learning?
+There's a recent CMU course called Computer Science Theory for the Information Age which includes a lot of the math for machine learning.  There's also a draft textbook there which is well worth grabbing a copy of.    Embed Quote

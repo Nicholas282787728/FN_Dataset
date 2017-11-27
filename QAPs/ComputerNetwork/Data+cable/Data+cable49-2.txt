@@ -1,0 +1,2 @@
+★What are the names of the two cables I need to connect another HDD to my computer?
+HD power cable SATA or IDE data cable (mostly SATA)

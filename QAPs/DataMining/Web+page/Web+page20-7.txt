@@ -1,0 +1,11 @@
+★What is the easiest and the most efficient way to create your own web page?
+Most simple way - open a text file, write this code:  1
+2
+3
+4
+5
+6
+7
+8
+9
+ <!DOCTYPE html> <html>     <head>        <title>My website</title>     </head>     <body>       <p>Hello, World</p>      </body> </html> Save as .html file, open the file in a browser. Congratulations, you have created a webpage!    Embed Quote

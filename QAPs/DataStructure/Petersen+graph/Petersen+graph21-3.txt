@@ -1,0 +1,2 @@
+What is the relationship between systems biology and computational biology?
+Although b'ful explainations have been given already, bt I would jst give a simple one liner. . Systems biology = biology + " computational analysis" + high throughput techniques. Computational biology is somehow a subset of systems biology 

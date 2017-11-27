@@ -1,0 +1,2 @@
+Does MySQL create multiple B+/- tree structures for every table within a database?
+No. Generally a database will create an index for a table created with a Primary Key or as the result of a Create Index command. Many databases default to a B-Tree but offer other alternatives. There is no requirement that a table have an index, but in “good” design they usually do. 46 Views · 3 Upvotes

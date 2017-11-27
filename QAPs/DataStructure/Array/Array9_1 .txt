@@ -1,0 +1,1 @@
+If an array contains an empty array, is that array empty?à la SoleioNo, "empty" is equivalent to length == 0. An array containing (exactly) a single empty array has length 1. 

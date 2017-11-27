@@ -1,0 +1,2 @@
+★How does an ethernet switch work and how is it different from an ethernet repeater?
+Oversimplified: A switch is like a phone system and a hub (repeater) is like two-way radio system. In a phone system only the people on the call hear what is being said. In a two-way radio anyone near by can hear what is being said. The performance implications of routers vs hubs is similar. In a phone system ten phone calls let ten pairs of parties communicate. In a two-way radio system ten pairs of parties must take turns communicating and no conversation is private.

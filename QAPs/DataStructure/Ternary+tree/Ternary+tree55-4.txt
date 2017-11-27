@@ -1,0 +1,2 @@
+What would a computer do in this situation (see details)?
+yes - or how its trained Most computer systems are coded directly, and thats essentially like giving them instructions over how to act exactly. In this case the programming directly decides if to risk it or not. Sometimes, however, a computer runs a neural net that decides what it does. Thats far more like how humans learn stuff. If the computer uses such a neural network, then how it acts in any situation will be based on how its been trained to act. 

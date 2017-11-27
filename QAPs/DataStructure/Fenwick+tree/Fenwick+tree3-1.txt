@@ -1,0 +1,1 @@
+How can I visualize 3-dimensional Binary-Indexed Tree [Fenwick Tree]?

@@ -1,0 +1,2 @@
+What are the real world applications of Breadth First Search?
+Finding the shortest path to another node. Dijkstra's algorithm can be interpreted as a breadth first search. Similarly, finding the closest common ancestor. Basically, anything that optimizes for minimal distance in some way. Because with breadth first search, you find "close by" things first. 

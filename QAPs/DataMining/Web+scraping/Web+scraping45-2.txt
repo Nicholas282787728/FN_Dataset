@@ -1,0 +1,2 @@
+★What is the best Amazon AWS AMI for web scraping?
+The one where you can run your scrapping software on.    Embed Quote

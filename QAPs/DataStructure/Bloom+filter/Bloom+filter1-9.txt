@@ -1,0 +1,2 @@
+Why are some people so in love with Bloom filters?The extent to which people are obsessed with it is too high. What's the secret?
+It's an infinite hash-based storage with constant access time and a computable upper-bound for false positives. This makes it a very unique and very attractive construct. Updated 19 Feb 2011 • View Upvotes

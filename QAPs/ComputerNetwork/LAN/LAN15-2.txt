@@ -1,0 +1,2 @@
+★What is consider decent latency / RTT for WAN / LAN?For instance, is 8ms across 40 miles horrible? =)
+The latency on WAN is mainly caused by the long distance. The latency causes the delay on network, poor application performance. To learn more how to eliminate the effect of latency: WAN Optimization http://www.sangfor.net/products/...    Embed Quote

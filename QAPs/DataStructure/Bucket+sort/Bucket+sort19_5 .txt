@@ -1,0 +1,1 @@
+Yes there are, Like counting sort , bucket sort etc, Bt no comparision based soting algorithm cannot have average complexity less than nlogn 

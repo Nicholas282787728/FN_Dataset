@@ -1,0 +1,2 @@
+Is an Array an abstract data type?
+I'm not sure what is the definition of abstract data type, maybe an example would be: “a collection of elements with O(1) access time”? Then an array is a concrete data type, the elements are stored sequentially in memory, that's not abstract. 307 Views

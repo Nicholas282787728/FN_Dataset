@@ -1,0 +1,2 @@
+Which data type is better either float or double in c++?
+Both are used for real numbers. And if you higher precision then you can go for double else float will be enough. 28 Views

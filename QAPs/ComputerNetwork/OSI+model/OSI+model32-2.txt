@@ -1,0 +1,2 @@
+★Which networking model is earlier: TCP/IP or OSI?
+The ARPANET Reference Model is older; see Perspective on the ARPANET reference model (RFC 871), and The elements of networking style and other essays and animadversions on the art of intercomputer networking    Embed Quote

@@ -1,0 +1,2 @@
+Why is the traveling salesman problem NP complete?
+TSP isn't NP-complete because there is no polynomial time algorithm to check if the distance travelled is the shortest. See Traveling Salesperson: The Most Misunderstood Problem for more information. 

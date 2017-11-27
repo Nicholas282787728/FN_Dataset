@@ -1,0 +1,2 @@
+★Is there a better ETL approach? Data Warehouse is all about loading data from source to target. Traditionally, source system produces files and an ETL job loads those files into target system. Is there a better ETL approach which is not using file business?
+Connect directly and schedule the etl jobs to run at a rate that matches the update frequency of the source.  you can profile the source update dates to figure that out.    Embed Quote

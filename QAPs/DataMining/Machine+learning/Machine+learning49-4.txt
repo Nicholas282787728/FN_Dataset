@@ -1,0 +1,2 @@
+★What are the best machine-learning research groups in Europe?
+To add to Ferenc's list +Gatsby, I would add DTU Informatik (Mikkel Schmidt, Morten Mørup, Ole Winther, Lars Kai Hansen...). If the question includes Computer Vision, etc., there are notable groups that should be added.    Embed Quote

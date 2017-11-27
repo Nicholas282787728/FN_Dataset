@@ -1,0 +1,2 @@
+★How do you prove that "if X and Y are Markov chains, then X+Y is a Markov chain"?
+Indeed, this statement is false. A Markov chain is a process such that the distribution of only depends on the distribution of . The problem with is that even if one knows , there is no way one can know and . This means that in general one cannot find the distribution of from the knowledge of .    Embed Quote

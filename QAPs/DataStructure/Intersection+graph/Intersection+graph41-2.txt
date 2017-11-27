@@ -1,0 +1,2 @@
+What are some common mistakes to be avoided in Mathematics?Especially in Algebra, Coordinate Geometry, Calculus and Trigonometry.
+"Everything is distributive", so, for example sin(a+b) = sin(a)+sin(b). NOT!! Similar for logs, powers, reciprocals, almost any function. The only functions f from reals into reals for which f(a+b) = f(a) + f(b) is functions like f(x) = mx. That's it. NOTE: I must post a link to one of the first web sites I ever visited multiple times. And I still go there. Check out Common Errors in College Math 

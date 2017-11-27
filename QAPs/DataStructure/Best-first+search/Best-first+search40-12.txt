@@ -1,0 +1,2 @@
+What are the best books to learn algorithms and data structures? Are there any good blogs/posts on these? Which books explain these concepts in a simpler way?
+Cormen's book is really hard to understand unless you are good in math. 34.2k Views · 28 Upvotes

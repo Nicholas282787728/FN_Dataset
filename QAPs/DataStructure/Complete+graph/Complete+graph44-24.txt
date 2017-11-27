@@ -1,0 +1,2 @@
+What is the most esoteric programming language that you have tried?How did you learn about that programming language? What made you try programming using that language? Did you like programming using that language? Describe your experience.
+Another vote for Brainfuck. I wrote my own Brainfuck interpreter in C and then played around with for a while. All in all I believe it took maybe an hour to write the interpreter. 

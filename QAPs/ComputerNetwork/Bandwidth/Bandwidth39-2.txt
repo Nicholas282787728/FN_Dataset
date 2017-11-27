@@ -1,0 +1,2 @@
+★What home routers have built-in bandwidth monitoring?Plans are getting to have set limits, but I can monitor every Internet connected device individually.
+Any router running DD-WRT or Tomato firmwares.  These can range from $10-$150 depending on hardware variations. For instance, one of the inexpensive units are Linksys e series that are mostly compatible with the 3rd party linux firmwares.

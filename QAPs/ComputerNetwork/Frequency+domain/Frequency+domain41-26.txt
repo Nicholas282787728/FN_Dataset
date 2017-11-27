@@ -1,0 +1,2 @@
+★What are things that electronics and telecommunication engineers (ECE) know while other engineers don't?
+Ohm's law isnt really V=IR, its actually J=(sigma)E Frequency domain is more important than time domain (for communications engg) Probably the only ones to have used a DSO before fully learning how to operate a CRO. If something takes "seconds" to process, it shocks us. We are more used to milli, micro and nanoseconds. Will update as I remember :)

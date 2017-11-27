@@ -1,0 +1,2 @@
+What is the best website for learning about hash tables? And where can I find some of the questions, which uses those hash tables?
+You can learn about hashed sets from calculus for Java - Guide - UnorderedSets. Hash tables may be found at calculus for Java - Guide - Tables. Hash maps may be found at calculus for Java - Guide - Maps. All of these in-memory classes have been ported to form disk databases, see applied calculus. 161 Views

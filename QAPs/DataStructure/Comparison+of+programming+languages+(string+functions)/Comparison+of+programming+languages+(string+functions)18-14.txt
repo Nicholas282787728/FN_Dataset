@@ -1,0 +1,2 @@
+As a starting Python programmer I see a lot of praise for the Python language (and so far I can only agree). Isn't there anything bad to say about it? What is a real con?
+1. It is not type-safe (this is enough actually). 2. An average Python programmer produces a totally unreadable mess. There are only two good Python programmers in this world, Guido and Alex. 

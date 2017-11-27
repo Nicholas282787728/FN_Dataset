@@ -1,0 +1,2 @@
+Is covariance only a mathematical formula or is there any data in which I can see covariance?
+Standard deviation is interpretable, but variance has nice mathematical properties.  Correlation and covariance have the same relationship: you can make sense of the former, but you can work with the latter.    Embed Quote 

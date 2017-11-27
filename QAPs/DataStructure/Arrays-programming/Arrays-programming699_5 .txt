@@ -1,0 +1,1 @@
+What is an array?You can read this tutorial to clear your concepts on arrays and strings : Arrays and Strings - Code Monk - Prateek Garg and can participate in the contest which is purely based on arrays and strings : Link is here : Code Monk (Arrays & Strings) | Programming challenges in June, 2015 on HackerEarth 92 Views  View Upvotes

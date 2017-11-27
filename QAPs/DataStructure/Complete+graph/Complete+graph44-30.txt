@@ -1,0 +1,2 @@
+What is the most esoteric programming language that you have tried?How did you learn about that programming language? What made you try programming using that language? Did you like programming using that language? Describe your experience.
+MUMPS is my favorite computer programming language. The Ultimate Mumps program.  Is this self-documenting or what? XXXX    ;         ; P       R I N T S (A,L)=1,(S,T)=I N G         G I V E N A O       F A=L:L:S Q:U=A  R E S B=E L O W (A*A),! I       S (U,R,E)=T H 1 N K I T=S G O O D 

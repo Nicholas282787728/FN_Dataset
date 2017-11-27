@@ -1,0 +1,2 @@
+★On which frequency does 3G GSM work in India?Is any of the american frequency compatible with 3G frequencies in India? T-Mobile? AT&T?
+I just got the answer from my network provider. Any Cellphone with 3G radio of 2100Mhz would work. This includes all the European 3G phones. Nexus One, Nexus S, iPhone etc.

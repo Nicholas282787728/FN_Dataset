@@ -1,0 +1,2 @@
+★What are some fantastic books on time series analysis?
+I don't know if you are going to apply it to financial engineering, but if you do, and if you are at beginner level, I would suggest starting out with David Ruppert's Statistical and Data Analysis for Financial Engineering. I'm the sort of learner who wants to have a general idea of the topic before delving into proof and analysis, and I find this book extremely easy to follow. If you are at a higher level already, I think Hamilton's book is a better choice.    Embed Quote

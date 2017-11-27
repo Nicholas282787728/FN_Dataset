@@ -1,0 +1,2 @@
+★What are the differences between HTML5 and HTML?
+Bascially the Tag Difference HTML5 is extended Version of HTML and Have some new Tag. Look

@@ -1,0 +1,2 @@
+★What's the best way to get into text mining?
+A really easy way is to sign up for Semantria. It lets you analyze 10,000 documents for free, and runs in Excel, so no programming required. You'll see what a typical output is like, and can go from there. http://www.semantria.com    Embed Quote

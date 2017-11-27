@@ -1,0 +1,2 @@
+★How do you prove when L is a linear function?
+I believe both statements are part of the definition of a linear function , so the proof is trivial.    Embed Quote

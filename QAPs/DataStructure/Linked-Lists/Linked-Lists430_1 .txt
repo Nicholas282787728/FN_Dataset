@@ -1,0 +1,1 @@
+Can a linked list traversal run-time do better than O(n) - linear run-time?No o(n) is the best complexity you can get, since during traversal you need to "touch" n elements. 222 Views  View Upvotes

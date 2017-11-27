@@ -1,0 +1,2 @@
+★What can you learn from someone's IP address?
+Apart from the above things like location,etc , You can also find what all network services the computer (server) is running. http://nmap.org/

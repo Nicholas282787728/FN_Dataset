@@ -1,0 +1,2 @@
+What are some real-world applications using B-tree?
+B tree and B+ tree are used in real life to build up indexes to a huge volume of data thus making search operation in the database efficient. 4.1k Views · 9 Upvotes

@@ -1,0 +1,2 @@
+What are user-defined data types?
+Types of User defined methods i) Method without return any value  ii) Method with return values. Writing method: Syntax: modifier returnType methodName(Parameters) { // Method body }... (more)

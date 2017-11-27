@@ -1,0 +1,2 @@
+★Which Amazon EC2 instance is recommended for doing predictive modeling competitions?
+It depends on the competition. I have used the basic Unix free tier before, you need to be able to install R and Python.    Embed Quote

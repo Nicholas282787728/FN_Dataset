@@ -1,0 +1,2 @@
+★What's the relationship between linear and logistic regression?What are the similarities and differences?
+Linear regression: , usually use squared loss for regression problem, .  Logistic regression: , usually use logit loss for classification problem, where , ; or cross-entropy,, when Both models' parameters are linear combinations of feature vector .    Embed Quote

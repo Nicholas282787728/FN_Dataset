@@ -1,0 +1,2 @@
+Is 0  one of the answers of x x  √  =x  √  x   ?
+You could just take log of both side and solve two equations to give x=0,4 . Along with that it is clearly understood that x is not <=0 . But if it were, the real solutions would be x=0,4 . 

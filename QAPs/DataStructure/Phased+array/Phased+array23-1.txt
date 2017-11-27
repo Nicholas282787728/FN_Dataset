@@ -1,0 +1,2 @@
+What operating system is considered the most secure?
+An operating system is as secure as the human being sitting in front of it. That being said, I believe OpenBSD is the most secure OS right out of the box. Almost everything you do after that will decrease the security of the system. 

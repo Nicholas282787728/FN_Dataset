@@ -1,0 +1,1 @@
+What is the maximum size of an array that I can take on an online judge like CodeChef and Codeforces?If you make static size allocation then it ranges between 10^6-10^7 and while using dynamic memory allocation the size may be upto 10^8. Happy coding! Good luck 139 Views  View Upvotes

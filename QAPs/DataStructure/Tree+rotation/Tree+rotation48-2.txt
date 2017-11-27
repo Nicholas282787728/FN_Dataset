@@ -1,0 +1,2 @@
+What are some of the good sources to understand suffix tree, suffix array and their implementation?
+This should get you started: http://marknelson.us/1996/08/01/... http://stackoverflow.com/questio... http://www.csie.ntu.edu.tw/~kmch... http://www.cs.cmu.edu/~guyb/real... http://www.cs.helsinki.fi/u/ukko... http://www.amazon.com/Algorithms... I would also recommend that you learn about suffix arrays.  Suffix arrays can be generated in the same asymptotic time complexity as suffix trees, but are much more memory efficient. 

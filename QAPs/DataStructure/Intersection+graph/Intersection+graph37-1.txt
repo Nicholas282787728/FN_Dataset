@@ -1,0 +1,2 @@
+Is 0  one of the answers of x x  √  =x  √  x   ?
+Convention usually holds that x x   is not defined for x=0  .  That would imply that neither side of your equation is well-defined at x=0  so the equation would not be satisfied for that value of x  . I should mention that it is possible to use a different convention for 0 0   .  It isn't standard, but it's interesting to think about.  Take a look at Anders Kaseorg's answer to What is 0 0   (the zeroth power of zero)? 

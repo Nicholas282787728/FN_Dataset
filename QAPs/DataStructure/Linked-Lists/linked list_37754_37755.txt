@@ -1,0 +1,1 @@
+time complexity for search $ k-th $ element from start and end of a link list if you start from the beginning , it do not matter how big the list be , you have to go through the link a constant number of time no matter what . n = 100 , n = 1000 , do not matter , you just have to follow exactly 7 link -lrb- independent of n -rrb- . 

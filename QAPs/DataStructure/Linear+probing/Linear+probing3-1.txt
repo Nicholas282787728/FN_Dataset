@@ -1,0 +1,2 @@
+Competitive Programming: What is the quickest way to create a simple HashMap in C for use in the proof of concept programs?
+You've already got the idea down. You could have an array of pointers.  Each bucket could be an dynamic array. When a value is hashed to a certain bucket, you could loop through the array at that bucket and test if it's in there.  If it's not, you just add it to the end of the the array. 

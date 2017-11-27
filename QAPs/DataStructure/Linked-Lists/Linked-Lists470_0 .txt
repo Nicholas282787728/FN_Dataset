@@ -1,0 +1,1 @@
+How do I Insert a value at the end of a linked list?You have to set next for the last node to the new node, not just do EndNode=NewNode. This just sets the pointer on NewNode, but does not actually append anything to your list. 310 Views  View Upvotes

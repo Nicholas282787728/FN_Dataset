@@ -1,0 +1,2 @@
+What are some k-balanced binary search trees?
+I don't think if there is a specific name for them. However, why would you need a k-balanced binary search tree? Is there a real use for them(ie. something you can't already do with 1-balanced BST)? I don't think so. 

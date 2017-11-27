@@ -1,0 +1,2 @@
+How can I solve this problem? Please help!
+As stated, there is no guarantee that all the towns are connected with each other.  Assuming they are connected, your problem is "simply" the "travelling salesman problem".  For the m towns in question, simply calculate the shortest distance between each other (this is easy) and then solve the TSP on the network that remains.  There is however no efficient algorithm in general for the TSP. 

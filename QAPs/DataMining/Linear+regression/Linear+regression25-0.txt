@@ -1,0 +1,2 @@
+★What are the benefits of using ridge regression over ordinary linear regression?
+Ridge regression is often used when the independent variables are colinear. One issue with colinearity is that the variance of the parameter estimate is huge. Ridge regression reduces this variance at the price of introducing bias to the estimates.    Embed Quote

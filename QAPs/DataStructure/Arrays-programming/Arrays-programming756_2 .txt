@@ -1,0 +1,1 @@
+Why is my solution for adding two binary arrays not working?Its a simple mistake of indexing. Addition is done from LSB to MSB. Here you have done the opposite. Otherwise your code is fine. 365 Views  View Upvotes

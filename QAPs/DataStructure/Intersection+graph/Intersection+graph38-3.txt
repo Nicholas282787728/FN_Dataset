@@ -1,0 +1,1 @@
+Why does the sine of an angle has more than one solution? For example: sinβ=0.5 My textbook says there are two solutions for β, 30 degrees and 150, but my calculator with the function arcsin only gives me 30, why so?

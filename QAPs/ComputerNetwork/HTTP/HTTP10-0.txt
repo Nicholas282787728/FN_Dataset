@@ -1,0 +1,2 @@
+★What are the key differences between HTTP 1.0 and HTTP 1.1?
+Byte ranges, content negotiation, chunked encoding, protocol switching, message integrity checks, digest authentication, proxy authentication, better cache management with etags, caching directives, multi-homed servers, persistent connections. You can find more details in an W3C article called "What's New in HTTP/1.1" -- there appears to be a copy of it here: W3C Journal Volume 1 Number 4. And related material at: Apache Week. HTTP/1.1

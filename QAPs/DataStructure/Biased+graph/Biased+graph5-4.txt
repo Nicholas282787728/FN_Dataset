@@ -1,0 +1,2 @@
+Why does Windows still use NTFS? Why not ext4, the file system for Linux, since it actively prevents disk fragmentation?
+Both can implement both technology, but they had not because - of the licenses i presume. GPL is not compatible with microsofts licensing and so if they use that, they will be forced to go open source. And as with Philip’s answer, the architecture of both are very different. You cannot really compare apples to oranges. File system being an I/O system calls will ultimately depend on its underlying kernel. 1.2k Views · 2 Upvotes

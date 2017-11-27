@@ -1,0 +1,1 @@
+Can you solve the equation x+y+z=39 over the positive integers?If this is the only equation you have then I think there are many solutions to this as you can choose any two integers for x and y and z will equal 39-(x+y). for example let x = 1 , y = 1 then z = 37 and so on. 61 Views

@@ -1,0 +1,2 @@
+What is best primitive type to store password in java?
+Don't store passwords in plane text, use a one hash function with some salt and store the value in string format. 

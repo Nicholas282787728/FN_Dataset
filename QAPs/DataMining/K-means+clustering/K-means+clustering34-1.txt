@@ -1,0 +1,2 @@
+★How do I combine a k-means clustering algorithm for uncertain data along with Euclidean distance/Mahalanobis distance? Is this feasible?
+I have the script for K-means and Mahalanobis distance in R, How do I combine/integrate them to get more clear result?    Embed Quote

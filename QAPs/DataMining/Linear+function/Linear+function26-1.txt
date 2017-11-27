@@ -1,0 +1,2 @@
+★For linear function , why is it obvious that there is a bijection between its parameter w and the (mapper) function f? Is there an intuitive explanation to this?
+x has it own bases ei,so w of the dual space   also has bases ei*,and  (ei*, ej) =δij. For the linear function，we can have fi that fi(ej)=δij. So fi are the bases of f.And we can see the isomorphism between f and w. This seems to be more intuitive.    Embed Quote

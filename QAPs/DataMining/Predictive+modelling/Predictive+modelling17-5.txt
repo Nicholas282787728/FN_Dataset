@@ -1,0 +1,2 @@
+★How can I deal with missing values in a predictive model?
+If you want to replace missing values, the general idea is known as imputation and there are several approaches. http://en.m.wikipedia.org/wiki/I...    Embed Quote

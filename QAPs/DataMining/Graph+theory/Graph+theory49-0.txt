@@ -1,0 +1,2 @@
+★What are the practical applications of Menger's theorem of graph theory?
+The max-flow min-cut theorem can identify vulnerable point in communications and electrical networks.  It is also handy for sabotage.  What is the cheapest way to disable a distribution network?    Embed Quote

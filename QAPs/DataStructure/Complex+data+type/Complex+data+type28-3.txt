@@ -1,0 +1,2 @@
+What is the most powerful feature of C++ that other programming languages don't have?
+The ability to use pointers from C when needed to go deep (read system level) while at the same time having powerful api / libraries (such as STL) to build things up fast without having to code every thing from scratch. 

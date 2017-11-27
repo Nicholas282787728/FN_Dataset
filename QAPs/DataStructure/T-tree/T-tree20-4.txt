@@ -1,0 +1,2 @@
+What are some interesting git operations and commands?
+A very useful command to have when collaborating is: git blame <fileName> Essentially it provides an annotated view of your source file, displaying the user and timestamp of when they altered each line of the file. Another highly useful command is: git commit --amend This allows you to alter your previous commit message for those moments where you made a mistake. You can also use this as a way to add an files that did not make it into your most recent commit. 

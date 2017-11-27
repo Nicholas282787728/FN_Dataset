@@ -1,0 +1,2 @@
+What is the difference between a complete graph and a connected graph?
+A connected graph is one which has path from each vertex to every other. A complete graph has edge from each vertex to every other. The set of all complete graphs is a subset of the one with all connected graphs. I hope what I said makes sense. 

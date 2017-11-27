@@ -1,0 +1,2 @@
+★Is there any open source project for semantic web?
+There are many semantic web open source projects. To name just a few: Sesame http://www.openrdf.org/ - an RDF triple store Jena http://jena.apache.org/ - an RDF triple store Linked Media Framework https://code.google.com/p/lmf/ (disclaimer: I worked on that one) Pellet - http://clarkparsia.com/pellet/ - an OWL 2 reasoner D2R server - http://d2rq.org/d2r-server Paget - http://code.google.com/p/paget/ Semantic Media Wiki - http://semantic-mediawiki.org/wi... and many more ...    Embed Quote

@@ -1,0 +1,2 @@
+★What algorithms are common in IP routing?
+Most common is Dijkstra's algorithm (a.k.a., Shortest Path First or SPF). After that, there are a variety of lesser things to consider, such as: Retransmissions with Exponential backoff Sliding window protocol And of course, there's a whole lot of generic computer science.    Embed Quote

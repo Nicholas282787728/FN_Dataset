@@ -1,0 +1,2 @@
+What are the most important fundamental concepts in Computer Science?
+Randomization This is one of the greatest ideas in Computer Science. In fact, there is this entire domain of algorithms called Randomized Algorithms which use the idea and often come up with approximate solutions. I am not too knowledgeable about the domain, but surely, this is something that I too need to pick up in my near future. 

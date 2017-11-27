@@ -1,0 +1,1 @@
+Why does a derivative for the infinite power tower x^x^x^... exist?

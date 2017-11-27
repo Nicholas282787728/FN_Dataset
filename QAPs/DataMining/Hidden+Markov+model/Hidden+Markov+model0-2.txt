@@ -1,0 +1,2 @@
+★What is the best Python library for Hidden Markov Models?
+If you're looking for a python implementation that can also infer the number of hidden states from multivariate data (i.e., nonparametric Bayes), then try an implementation that I wrote: vb-ihmm Uses variational inference, which is faster than MCMC (though converges to a local optimum, so restarts are recommended). Also includes an example (using synthetic data) and visualisation module (for 2 dimensions).    Embed Quote

@@ -1,0 +1,2 @@
+What is the easiest way to extrapolate a data set?
+You should use a technique called regression. Depending on the type of data you can choose your regression function (e.g. if the data appears to be linear, you can use linear regression). Regression analysis Linear regression    Embed Quote 

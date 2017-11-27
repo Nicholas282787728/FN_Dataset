@@ -1,0 +1,2 @@
+★What is frequency domain in image processing?
+There's an option in Quora that lets you look at questions similar to your question. Anyway, What is the meaning of Fourier transform of an image ? Why is it important in image processing?

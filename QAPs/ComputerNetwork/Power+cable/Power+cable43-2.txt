@@ -1,0 +1,2 @@
+★If I splice an 18' 10/3 power cable onto the existing 6' smaller gauge cable from a woodworking machine, is the voltage drop determined as a percentage of the lengths of the different gauges? Or does the section of smaller gauge produce a voltage drop as if the entire run were the smaller gauge?
+If your main concern is voltage drop it appears to me voltage drop will not be an issue.  If you want to give me the number of phases, amperage and voltage I can give you a figure.    Embed Quote

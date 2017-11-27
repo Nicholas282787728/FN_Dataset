@@ -1,0 +1,2 @@
+★What are some good resources to get started with Information Retrieval? Why?
+I would recommended you start here: http://ww2.cs.mu.oz.au/mg/, this will give you a good overview of the basics. While it isn't the most up to date text on the topic, the writing is clear and concise.    Embed Quote

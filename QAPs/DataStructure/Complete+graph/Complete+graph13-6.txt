@@ -1,0 +1,1 @@
+How can I draw a complete graph of six vertices with the least amount of crossings and how do I prove it is the least?

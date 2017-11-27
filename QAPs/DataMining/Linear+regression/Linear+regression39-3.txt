@@ -1,0 +1,2 @@
+★What is a linear model in data mining? Is it a different term than linear regression?
+Hi, this question has been answered here - http://forum.cloudthat.in/apache...    Embed Quote

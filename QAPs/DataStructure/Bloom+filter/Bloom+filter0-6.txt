@@ -1,0 +1,2 @@
+What are the best applications of Bloom filters?
+Apache HBase uses bloom filter to boost read speed by filtering out unnecessary disk reads of HFile blocks which do not contain a particular row or column. Since HBase internally stores a logic row by separate key-value pairs for each column , user can choose to build bloom filters by either (1)ROW or (2) ROW＋COLUMN depending on the actual query patterns. 

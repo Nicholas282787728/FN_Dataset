@@ -1,0 +1,2 @@
+★What are some of the great projects implemented using the concepts of Graph Theory?Real Life Products or Projects that involve the usage of graphs for  implementing them.
+How about drug discovery? At www.etherapeutics.co.uk we take the approach of modelling disease in terms of a network, or graph, of interacting proteins. Network science, or graph theory, techniques are then used to analyse these models for suitable intervention points.    Embed Quote

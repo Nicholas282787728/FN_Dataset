@@ -1,0 +1,2 @@
+What are some easy to implement and powerful data structures?
+Bloom filters are both practical and really easy to implement -- it's just a very simple hash table used in a very clever way. Treaps, Splay trees, and Scapegoat trees are easy-to-implement binary search trees (here, "easy" is relative, in comparison to AVL or red-black trees). Skip lists are even simpler (but slightly less powerful). Suffix arrays are a powerful tool in stringology. A nearly-optimal algorithm to compute a suffix array can be implemented in under 20 lines of code. 

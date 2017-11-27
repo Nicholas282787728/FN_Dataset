@@ -1,0 +1,2 @@
+★In linear regression, why would a large standard deviation of Y increase the slope and why would a small standard deviation of X decrease the slope?
+Let me try explaining this visually. Consider a linear regression as shown below The equation displays the slope and intercept. If I move the top two points and bottom two points further away from the predicted line, it will increase the variance of Y. How do you think the predicted line would change? The lines turns anticlockwise and hence the slope increases as displayed on the image.    Embed Quote

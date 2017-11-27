@@ -1,0 +1,2 @@
+★What is the best way to learn about data compression algorithms?
+I agree with Helbert Corkmeyer. I do want to add that data compression is highly application oriented - this means that an algorithm\approach that will work for one field may not work for another. So there is a lot of testing & failing before succeeding.

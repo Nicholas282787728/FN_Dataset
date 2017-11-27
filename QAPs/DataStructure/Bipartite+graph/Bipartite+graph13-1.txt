@@ -1,0 +1,13 @@
+What are some known algorithms for finding a perfect match in a bipartite graph?There are three main algorithms to consider when doing this, it's all dependent on the number of vertices of the bipartite graph. As it gets too big, some algorithms will take too long to be feasible.
+
+Firstly, as the other posters have mentioned is the reduction to Max Flow. After determining the two halves, you add a super-source to one the sets and a super-sink to the other, ensuring all edges have capacity one. Recap the definition of Max-Flow, we want to push as much flow as possible, hence will be maximize in the maximal matching. This algorithm is dependent on how fast the Max-Flow algorithm is, and it tends to be slower. Moreover, to retrieve the set of matchings, a Breadth-First Search Traversal of the resulting graph needs to be done.
+
+Next, we have the augmenting path algorithm. The idea is to find an augmenting path (i.e. unmatched edge -matched edge-unmatched edge-matched edge....-unmatched edge) and flip the parity noting that it increase the number of edges matched. This gives a O(VE)O(VE) algorithm.
+
+Finally, we have Hopcroft-Karp. This is basically a more efficient version of the augmenting path algorithm. Instead of finding any augmenting path, it finds the most efficient augmenting path at any time. This properties causes the algorithm to speedup to O((¡ÌV)E)O((V)E) time.
+
+Note that all this algorithms are meant to find maximal matchings. Which you can determine whether it is perfect by checking the number of vertices. There is also another approach using Hall's Theorem:
+
+A Bipartite Graph has a Perfect Matching iff for every subset SS in either partition, the size of the set of neighbours of SS is at least as large as SS.
+
+This naively runs in exponential time, though.

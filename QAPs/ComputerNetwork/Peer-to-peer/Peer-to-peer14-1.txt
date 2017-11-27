@@ -1,0 +1,2 @@
+★How can I make a peer to peer file sharing program?
+TomP2P is a fairly mature distributed hash table library that implements (roughly) Kademlia. In other words, key/value store. It will also allow direct communication between peers if you needed that. An example: you might use the DHT as an index, and transfer files directly. How you do it is up to you. In addition it provides features for UPNP, firewall detection and port forwarding. Using this library will give you a great start. The bulk of the boilerplate is there for you. http://tomp2p.net    Embed Quote

@@ -1,0 +1,2 @@
+How do I draw a graph showing how a message is signed in combination with a hash function at the sender’s side and how a signature is verified by the receiver?
+Check out Digital Signature Algorithm (DSA) or the signing/verification part of RSA for the details. Their Wikipedia entries have good diagrams. 

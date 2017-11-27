@@ -1,0 +1,2 @@
+What are data types in c?
+Character : it is represented by char , and used for characters, e.g. char a; Integer : it's is a variable , it can be represented by any character like. Int a =1; Floating​ number : it is also a variable to declare some object , it is represented by float , Eg; Float a=2.6; Also more data types are there they are arrays and strings , but three data types are the primary these are derived data types . Array is character sting of a fixed length , Strings is a 1 dimensional array . 52 Views

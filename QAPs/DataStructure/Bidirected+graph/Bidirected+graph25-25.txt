@@ -1,0 +1,2 @@
+If 1=5, 2=10, 3=15 4=20 then 5=?
+If 1=5, then 5 should be equal to 1. ( Short answer pretty answers... no ifs no buts) But the purpose of operator"=" is ambiguous. If go the other way around... we might conclude that 5= 25. WHY? see the pattern.. 5, 10, 15, 20, 25 Another way is 5=25. see the difference. 5-1=4,                                    10-2=8,                                   15-3=12,                                   20-4=16, all the differences are multiples of 4 so the next in the series 25  i.e.                    25-5=20 

@@ -1,0 +1,1 @@
+Graph Theory: When is CG(Z p ,{−1,1,−i,i})≅CG(Z p ,{−1,1,−j,j})  for j≠i  and j,i≢0modp  ? (p is prime)CG(G,S)  is the Cayley Graph on the group G with S as the  generating set.Z p   is the additive group modulo p.

@@ -1,0 +1,2 @@
+★How can I optimize parameters of SVM (gamma and cost) for prediction on multiple training sets build from a parent set?
+Is it possibe to do the same using the e1071 library in R? I am familiar with the function tune function but not sure which values (or range of values) of gamma and cost to use. Working with huge possibilites of both gamma and cost takes massive time to run. Also, how to know the best kernel function that suits my data? I am new to machine learning world and I am still confused about that. Cheers    Embed Quote

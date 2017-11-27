@@ -1,0 +1,2 @@
+★Is there a layman's explanation of SVM primal form?
+Plot your data, then slice the graph with a samurai sword in a way that best separates your classes. If your data isn't well separated, figure out a function that bubbles one class up then slice sideways; this is called the kernel trick.    Embed Quote

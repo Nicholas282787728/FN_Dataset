@@ -1,0 +1,2 @@
+Computational Complexity Theory: What are some NP-complete problems involving complete graphs?
+Problems involving dense Bayesian networks tend to be pretty intractable, so that might be a good place to look. 

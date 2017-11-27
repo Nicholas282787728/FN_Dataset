@@ -1,0 +1,2 @@
+★What are some alternatives to the World Wide Web?i.e. other TCP/IP applications on the internet besides WWW
+You could really go on forever with this one - you're basically asking for any sort of application that runs over the Internet. Maybe a good starting point would be to examine /etc/services on a Unix box?    Embed Quote

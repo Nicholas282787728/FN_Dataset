@@ -1,0 +1,2 @@
+★If f(a+b) = f(a) + f(b) and f is differentiable, what is f'(x)?Let be a continuous function such that , for all . Find the derivative of with respect to .
+If is continuous and differentiable and holds for all , then we can conclude that is a linear function, i.e., is of the form , where . Therefore, the derivative of is the function .    Embed Quote

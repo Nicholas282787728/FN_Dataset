@@ -1,0 +1,2 @@
+★What are the supposed advantages of Toslink vs. copper for audio interconnects?
+If you are going to be converting back and forth from digital to analog and back more than once or twice, the advantage to to slink is that all the signals stay in digital which is relatively resistant to noise and loss. You also avoid multiplying AD and DA conversion errors. Does this make enough of a difference? Only your ears can tell you.    Embed Quote

@@ -1,0 +1,2 @@
+★What's the best way to get started with firmware/embedded systems programming?
+Start building things. More details are in the answer by Aniket Maithani. Do real things and not on pirated simulator software. And do not join any training institute. They usually cover 20-year-old technology. Get an industry mentor. Embedded is not marks. So avoid teachers. They can only help you clear tests. (Exceptions do exist, so use your judgment and do not shout at me.)    Embed Quote

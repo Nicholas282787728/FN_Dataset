@@ -1,0 +1,2 @@
+Do you need to know discrete mathematics to learn algorithms?
+What do you mean by "know discrete mathematics" and "learn algorithms"? (No, seriously.) If you want to competently judge the performance characteristics of algorithms, then you'll need some basic combinatorics. If you want to implement algorithms in a programming language, then you can do that without specialised mathematics training. 

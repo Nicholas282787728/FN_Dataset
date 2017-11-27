@@ -1,0 +1,2 @@
+Why doesn't C also provide default implementations for linked lists, trees, hash tables, sorting, etc. like Java does?
+Because C is C, and Java is Java. Java is a higher level language. It allows for things like memory management and built in structures. C is lower level and is very fast, but trickier to use. C may not have all the bells and whistles, but it does allow you full control. 750 Views · 1 Upvote

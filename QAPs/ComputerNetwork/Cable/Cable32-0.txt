@@ -1,0 +1,2 @@
+★Is it possible for a cable modem to acquire a virus?
+It is not terribly likely.  Since there is a substantial financial incentive to hack cable modems to allow theft of service, they have some of the most locked down software of any consumer devices, specifically around code signing and runtime integrity.  That said, it is an attractive target, and a determined adversary might find ways to compromise it.  Typically, that class of compromise relies on physical access. I'd be more worried about your home router.

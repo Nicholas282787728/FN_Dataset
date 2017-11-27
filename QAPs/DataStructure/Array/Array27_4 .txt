@@ -1,0 +1,1 @@
+Are arrays objects in Java?Yeah, arrays are objects in Java. If you have to use array in java you have to instantiate it. int[] a=new int[sizeOfArray]; 

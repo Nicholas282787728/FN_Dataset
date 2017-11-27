@@ -1,0 +1,2 @@
+★What is the deBroglie wavelength of a human being?
+This depends on the momentum of the person in question. The de Broglie wavelength is given by: . It would be absolutely tiny for any realistic measurable momentum that a person could have. You can easily put in some numbers and see. is the Planck constant, of course.    Embed Quote

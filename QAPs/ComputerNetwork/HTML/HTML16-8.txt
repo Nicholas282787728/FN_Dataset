@@ -1,0 +1,2 @@
+★Difference Between HTML and CSS?
+HTML makes the elements. CSS styles them and makes them look nice.

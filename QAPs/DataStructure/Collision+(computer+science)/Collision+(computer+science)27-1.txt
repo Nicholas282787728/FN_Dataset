@@ -1,0 +1,2 @@
+What are some computer science/engineering jobs or fields which saves lives everyday?
+One way to help save lives is by developing and maintaining life-critical EMRs and other eHealth software.   The more specialized the software is, the more likely your programs will benefit patients. Because, EMRs are designed to facilitate the communication flow from generalists to specialists.   For example, the system I work on has saved at least 2 lives in the immediate term, and due to the test data, it will save many more people in the long term. Updated Sun • View Upvotes

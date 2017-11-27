@@ -1,0 +1,2 @@
+★Can I use gradient descent for a linear function?
+Yes you can. But by definition a linear function has a constant gradient, so if you had no constraints you'll just keep moving in the same direction every iteration, and your variables are unbounded. If you had constraints, you'll eventually hit and stay on the boundary of the constraint set.    Embed Quote

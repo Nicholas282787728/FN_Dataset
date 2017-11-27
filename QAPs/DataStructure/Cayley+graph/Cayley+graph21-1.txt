@@ -1,0 +1,2 @@
+Why is Freebase proprietary?It would seem quite sensible to make the software behind Freebase free, as Freebase is part of an open data. But Freebase was always proprietary from the start. Why is that so?
+One of the main authors of the Freebase database engine, graphd, has created an open source graph database engine, cayley, which might be of interest. google/cayley 

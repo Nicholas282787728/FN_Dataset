@@ -1,0 +1,2 @@
+What is the best business intelligence tool for a ecommerce store running on Magento?
+Please review Sisense , however you need to gather some data in other format so sisense can read it. We been using it for last 6 month and our data analyst team has done an amazing job to give us insight info by analyzing data.    Embed Quote 

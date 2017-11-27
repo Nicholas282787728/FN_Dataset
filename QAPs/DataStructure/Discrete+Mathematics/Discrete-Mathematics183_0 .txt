@@ -1,0 +1,1 @@
+Are all tautologies logically equivalent? Discrete Math question.A logical formula is a tautology if it's always true, and two propositions are equivalent if they have the same truth values. So yes! 29 Views  View Upvotes

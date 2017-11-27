@@ -1,0 +1,2 @@
+★How much data can be stored on an NFC chip?There are supposedly going to be 40-50M NFC-enabled phones on the market in 2011. As a guide for app developers, how much data should they count on being able to store/access?
+This page has a simple comparison chart of the different NFC Chips available GoToTags NFC Software Documentation    Embed Quote

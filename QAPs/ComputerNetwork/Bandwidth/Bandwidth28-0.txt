@@ -1,0 +1,2 @@
+★Will bandwidth get cheaper and cheaper?
+This is a complex topic. The cost per bit transmitted will continue to drop, to a point. There is a floor out there, due to the fixed overhead of running a network (no matter how fast it's running) and a further limit due to the problem of decreasing price no longer supporting the need for increased investment to either create more bandwidth or more speed. At that point, we "run out" and the price starts to go up again until it's cost-effective to invest in more tech to make more bandwidth.

@@ -1,0 +1,2 @@
+★What are some good open source alternatives to CPLEX (linear program solver)?
+There are several open-source LP/IP/QP solvers at COIN-OR Projects.    Embed Quote

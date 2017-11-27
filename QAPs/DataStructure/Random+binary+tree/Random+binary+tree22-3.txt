@@ -1,0 +1,2 @@
+What is the logic for cracking the '2048 puzzle'?
+Well to exploit this game one can even think of playing it in the anti-2048 fashion... try to make your highest numbered tile have its number as low as possible when ur game is over... :D :P i made it upto 8...can we go at 4..?? something to think upon 

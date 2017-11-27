@@ -1,0 +1,2 @@
+★If HTTPS is more secure than HTTP, why don't all websites use HTTPS?
+1. You have to pay for the SSL certificate (ok, so you technically don't, but I always think it looks a little bit dodgy if you don't) 2. It uses more CPU cycles on both the browser and the server to encrypt/unencrypt the data. 3. On some sites (BBC/CNN for example) it's just not necessary.

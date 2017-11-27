@@ -1,0 +1,2 @@
+What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
+With so many data structures already mentioned, I want to add k-d Tree for its cool applications in searches involving a multidimensional search key..Its a special case of Binary Space Partitioning (BSP) Tree.For further reference wiki provide a good stuff to start with k-d tree. 

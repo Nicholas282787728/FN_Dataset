@@ -1,0 +1,1 @@
+How can I code in Python to have an 2D array such that each row stores all pixel from an image?All images in same folderA 2pixel x 2pixel white image Img = [ [255, 255], [255, 255]] 22 Views

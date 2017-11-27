@@ -1,0 +1,1 @@
+What precisely is the relation between Semantic Web and natural language processing?- How are semantic web triples or tuples generated, using NLP? - How is a text corpus, such as a book, parsed into semantic web triples or tuples? - Can a semantic web corpus be used in conventional NLP?

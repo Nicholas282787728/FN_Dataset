@@ -1,0 +1,2 @@
+★What are some practical applications of fuzzy logic?Are there any other commercial applications beyond machine controllers?
+Major areas include: - financial decision-making, like go/no-go on a loan or investment. - image processing (search YouTube for videos on edge detection). - animation (marching orcs and all that). I've toyed with applying it to graphic design.    Embed Quote

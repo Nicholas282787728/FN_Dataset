@@ -1,0 +1,2 @@
+What is Brian Bi's favorite algorithm?
+Hard to say, but one algorithm I like a lot is the Kärkkäinen–Sanders algorithm, a simple algorithm that computes the suffix array of a string in linear time. It sure is a lot easier than building a suffix tree. 

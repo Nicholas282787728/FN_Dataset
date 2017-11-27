@@ -1,0 +1,2 @@
+★How can you learn Mathematics for machine learning?What books, topics, resources are one stop for learning all mathematics necessary to start learning Machine Learning?
+See the list of books from Learning about Machine Learning, 2nd Ed., or Michael Jordan's list: Mike Jordan at Berkeley sent me his list on what people should learn for ML. The...Of course, correlating with these lists does not necessarily imply causation :), but these are good starting points.    Embed Quote

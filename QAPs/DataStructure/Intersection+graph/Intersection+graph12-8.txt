@@ -1,0 +1,2 @@
+Can you help me solve e x =1−x  ?
+The curved line is e^x and straight line is y=1-x.Clearly,they intersect at only one point i.e.(0,1).So,0 is the only solution. 

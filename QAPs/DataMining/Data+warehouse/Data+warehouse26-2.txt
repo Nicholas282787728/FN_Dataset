@@ -1,0 +1,2 @@
+★Which is the best open source/ free database management system for building a data warehouse?What is the best data warehousing / OLAP solution present in opensource and used by big companies?
+Hadoop + Hive comes to mind and #1 https://cwiki.apache.org/conflue...    Embed Quote

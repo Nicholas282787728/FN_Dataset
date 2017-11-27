@@ -1,0 +1,2 @@
+★Does Quora have a URL shortener?This is a follow-up question to Which URL shortener should I use?.
+I just noticed that Quora's started providing short URLs for sharing each question- http://qr.ae. Click any of the links under "Share Question" and then click on "URL".    Embed Quote

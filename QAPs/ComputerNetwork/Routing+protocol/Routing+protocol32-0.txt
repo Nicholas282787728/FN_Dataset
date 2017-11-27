@@ -1,0 +1,2 @@
+★What are some of the steps to writing an RIP (Routing Information Protocol) program in C?
+I don't know how much it will be of help. How to configure RIP Routing information protocol Cisco IOS IP Configuration Guide, Release 12.2  - Configuring Routing Information Protocol [Cisco IOS Software Release 12.2] How to configure Routing Information Protocol (RIP), Routing Information Protocol Version 2 (RIPv2) Lab Practice Routing Information Protocol (RIP)    Embed Quote

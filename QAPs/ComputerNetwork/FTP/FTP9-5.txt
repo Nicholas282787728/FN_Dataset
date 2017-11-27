@@ -1,0 +1,2 @@
+★How can I connect to an FTP server with a Mac?
+I think the fast fastest is Transmit, Cyberduck is good and Filezilla is really slowwslow.

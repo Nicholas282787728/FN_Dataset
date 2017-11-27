@@ -1,0 +1,2 @@
+What is the meaning of data types?
+Data type of a variable in any programming language is the type of data that you can (or you should) store in that variable. As you declare a variable with its data type, you reserve a space in computer’s memory of that many bytes. e.g. int x=4; declares a variable named x which is an integer. Common data types are: int, float, double, long int, char, (long long int). 148 Views · 1 Upvote

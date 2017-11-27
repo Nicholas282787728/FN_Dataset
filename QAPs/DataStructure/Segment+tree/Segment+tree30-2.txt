@@ -1,0 +1,2 @@
+What are some of the best resources for learning advanced data structures like segment trees and binary indexed trees (Fenwick trees)?
+I have recently written a post about Binary Indexed Tree. You can have a look at it @Binary Indexed Tree made Easy - Bhavesh Munot. 

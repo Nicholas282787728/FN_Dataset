@@ -1,0 +1,2 @@
+Does bottom up heap construction conserve the complete binary tree property?
+Okay. So complete binary trees are described here: www.informatics.susx.ac.uk/courses/dats/notes/html/node78.html So in bottom up heap construction we can keep dummy nodes with INF weight at the end and choose these in the first set that we choose we need to make sure that the total number of nodes is 2^h. In that way these nodes never propagate up and the complete binary tree property is conserved for the individual trees formed as well as the final tree. 

@@ -1,0 +1,2 @@
+Which data type is better either float or double in c++?
+If you feet are small and you require small size floaters then bigger floaters become useless. You can use bigger size too but it wont be appropriate or efficient. Would they? 23 Views

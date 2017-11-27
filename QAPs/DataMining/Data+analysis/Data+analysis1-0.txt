@@ -1,0 +1,2 @@
+Data Analysis: What is data analysis?
+Rather than spend my whole afternoon writing stuff that is already available, why don't you start by reading Data analysis, then go on to R (programming language) and Apache Hadoop.  You ought to take in some Statistics, Machine learning, and Data visualization as well. That should get you started.    Embed Quote 

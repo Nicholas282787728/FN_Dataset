@@ -1,0 +1,2 @@
+★What is regular expression for 'not' something?I have a list of URLS with hundreds of sub folders I need segmented  (/product1, /productN, /category1, /categoryN). What is the regex code for selecting everything except a specific folder?
+See also How would you make a regular expression match everything but a certain string?    Embed Quote

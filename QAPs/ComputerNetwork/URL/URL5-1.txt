@@ -1,0 +1,2 @@
+★What is a URL?
+In simple words, its an address (location) of where the corresponding content (not just websites, but also images, videos, etc) is located. Without the URL, something might exist on the internet, but it'd be inaccessible for someone to point it, and hence, not a part of Internet; or even an Intranet.    Embed Quote

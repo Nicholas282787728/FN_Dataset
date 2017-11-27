@@ -1,0 +1,2 @@
+★Are there any known implementations of Linear Programming in Robotics/AI/Computer Vision?I am just trying to relate LP to the field to hopefully be able to better relate the two.
+Reinforcement Learning : Value iteration and policy iteration can be formulated as an LP problem. These are used for trajectory planning in robotics like given a path and a user demonstration, can the system now do it automatically. For a detailed version refer pg 29 of notes from a robotics course at Berkeley. http://www.eecs.berkeley.edu/~pa...    Embed Quote

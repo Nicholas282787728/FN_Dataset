@@ -1,0 +1,1 @@
+Which data structure can be used for storing 3D information (only the coordinates) and is dynamic in nature?

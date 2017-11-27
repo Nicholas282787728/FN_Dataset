@@ -1,0 +1,2 @@
+Can the graph isomorphism problem be solved in polynomial time?
+László Babai  will be presenting a breakthrough result on Graph Isomorphism tomorrow! He has found a proof that the graph isomorphism problem can be solved in quasi- polynomial time. I think this problem is close to being placed in the class P. 

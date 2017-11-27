@@ -1,0 +1,1 @@
+Apart from introduction of object oriented programming, what other changes were made in c++ with regard to c?

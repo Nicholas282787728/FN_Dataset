@@ -1,0 +1,2 @@
+What are the algorithms to generate a random maze?
+See Rosetta Code for maze generation codes using the simple Depth-first search algorithm in 35 languages 

@@ -1,0 +1,2 @@
+★How can I extend my wireless network with an airport extreme and airport express?I have an airport extreme and airport express and can't seem to figure out how to repeat my wireless signal from my airport extreme to my airport express.
+Reset it, open the airport app, manage it, name it When it asks to set up wireless network, select other options. Extend network, choose network, authenticate, wait. I'm going by memory, but that should be it.    Embed Quote

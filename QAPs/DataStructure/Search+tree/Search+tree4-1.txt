@@ -1,0 +1,2 @@
+What are some practical applications of binary search trees?
+Std::map in C++ and TreeMap in java are implemented as height balanced binary search tree, more specifically as a red black tree. 

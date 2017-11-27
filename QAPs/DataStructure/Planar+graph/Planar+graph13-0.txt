@@ -1,0 +1,2 @@
+Is it planar a graph with 16 edges and 8 vertices with all degree 4?
+There is a planar graph with [math]16[/math] edges and [math]8[/math] vertices with all degree [math]4[/math]. The graph below is basically the cubic graph with [math]4[/math] added diagonals ([math]AH, DG, CF, BE[/math]). 

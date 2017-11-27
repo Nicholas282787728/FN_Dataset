@@ -1,0 +1,2 @@
+What are various collision detection methods in hashtables and how do you prevent or fix a collision? What is the best method?
+Others have listed various collision resolution algorithms, so I'll focus instead on the first part of your question. There is literally only one collision detection method: check the slot your hash value points to - is there something already there? 

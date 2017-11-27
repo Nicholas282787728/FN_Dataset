@@ -1,0 +1,1 @@
+In a linked list, which node will not contain any data?The head node. The head node doesn't contain any data. Its sole purpose is to mark/point to the starting point of the list which implies that only the pointer part of the head node will be assigned a value and not the data part. 152 Views  View Upvotes

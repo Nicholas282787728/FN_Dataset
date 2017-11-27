@@ -1,0 +1,1 @@
+How can we tell if a graph is more complex than any other graph?E.g. if a neural network in the brain of one type of insect is more complex than a neural network of some other type.

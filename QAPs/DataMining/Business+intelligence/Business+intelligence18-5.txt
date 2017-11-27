@@ -1,0 +1,2 @@
+What is the best Business Intelligence software in the marketplace?
+I would also suggest the following OLAP Server and Business Intelligence Reporting. These friends of mine are a small company delivering a highly salable Java based OLAP engine that can be integrated in thirds party solutions both on the server and on the client side. They support incremental data load which could work for your real-time need.    Embed Quote 

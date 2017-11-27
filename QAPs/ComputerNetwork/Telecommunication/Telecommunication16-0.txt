@@ -1,0 +1,2 @@
+★Is there something similar to an antenna for quantum telecommunication?
+Quantum communcations communications consists of two parts, a quantum part and a classical part. The quantum part is done by shipping two entangled particles to two difference different places. You can do it with an optical fiber, a FedEx truck, or just by shooting it there. The second part is done the way any other communication is done. It can use an antenna, a wire, or the same FedEx truck. You put the two parts together to transfer the entire quantum state.

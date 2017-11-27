@@ -1,0 +1,2 @@
+★What is the technology stack behind Parse?
+According to their jobs page: We use AWS, Ruby, Rails, MongoDB, Redis, MySQL, Chef, Nagios, Cacti, Capistrano, and HAProxy Plus their SDKs use Java (Android), Javascript (Web), and Objective-C (iOS). https://parse.com/jobs    Embed Quote

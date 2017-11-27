@@ -1,0 +1,2 @@
+★What are some general ways to improve multiple linear regression models?i.e. What are some ways to increase the adjusted R^2 of a model?
+To add to Melissa Dalis's helpful advice, I would recommend you check out this question here for possible transformations! What are some common transformations I can make in univariate regression? Also, I would suggest looking into the dataset and removing any outliers. Your model might be overfitting on those outliers instead of focusing on the main signal.    Embed Quote

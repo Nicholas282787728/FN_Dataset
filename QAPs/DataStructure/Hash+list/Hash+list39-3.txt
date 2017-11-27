@@ -1,0 +1,2 @@
+What is the fastest way to remove duplicates from a list in Python?Both for cases where maintaining order matters and doesn't matter.
+Taken from: (some nice little tricks) http://www.peterbe.com/plog/uniq... The below is my favorite if you dont care about keeping order:       return {}.fromkeys(seq).keys() 

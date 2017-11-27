@@ -1,0 +1,2 @@
+What's the best language to develop pie charts/line graphs?
+If you want to generate complex charts using csv or excel you can import and use R, Rstudio or python plotting - Matplotlib 1.5.3 documentation do you want to embed charts on web Application? if so you can use charts.js or just type in google js charts and there are plenty of results if you want to generate charts and then paste into a Power Point you can create a link between Power Point and Excel and generate charts there 270 Views

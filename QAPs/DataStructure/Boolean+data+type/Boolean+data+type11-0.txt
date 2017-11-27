@@ -1,0 +1,3 @@
+Why isn't the size of boolean data type in Java precisely defined? Although boolean qualifies as a primitive type of the Java virtual machine, the instruction set has very limited support for it. When a compiler translates Java source code into bytecodes, it uses ints or bytes (depending on some conditions and properties of virtual machine) to represent booleans.
+
+In the Java virtual machine, false is represented by integer zero and true by any non-zero integer. Operations involving boolean values use ints. Arrays of boolean are accessed as arrays of byte, though they may be represented on the heap as arrays of byte or as bit fields.

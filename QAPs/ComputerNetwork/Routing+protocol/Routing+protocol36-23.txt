@@ -1,0 +1,2 @@
+★What are some things that programmers and computer scientists know, but most people don't?
+Debugging a single error sometime takes more than 10 times the time required to write the entire program!    Embed Quote

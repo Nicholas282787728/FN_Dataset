@@ -1,0 +1,2 @@
+Who uses hash tables?
+The uses of hash tables are enormous. It is used almost everywhere when you need to find data from a set using a key value. One very widely used example would be of a database index. The index is nothing but a hash table of the primary key values of that table. Once you index a database your lookup performance increases drastically. 148 Views

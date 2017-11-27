@@ -1,0 +1,2 @@
+★Hyperlink in jpeg for an html email?I want to send a newsletter with hyperlinks in the jpeg banner. the banner can be html as well
+If the jpeg has one link, just use the href code, if it has more than one link, google imagemaps. I see a few programs/websites that offer that. But a better way is to slice the image. Feel free to contact me if you want to hire out the project.    Embed Quote

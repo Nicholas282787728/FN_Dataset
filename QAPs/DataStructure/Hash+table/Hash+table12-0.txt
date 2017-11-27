@@ -1,0 +1,2 @@
+How do I create my own hash table implementation in Python?
+Use a list of lists. Preliminaries A hash table maps a possibly infinite domain to a finite output range. ... (more)

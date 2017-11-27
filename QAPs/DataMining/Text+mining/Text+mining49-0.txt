@@ -1,0 +1,2 @@
+★What would be a suitable topic for a master thesis on graph/text mining?
+Maybe you want to tackle sentiment analysis with deep learning? There is a paper by Socher et al.    Embed Quote

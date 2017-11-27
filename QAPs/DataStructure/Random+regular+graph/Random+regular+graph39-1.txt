@@ -1,0 +1,2 @@
+What's a good "scripting" functional programming language?
+You can try out racket, it's a pretty practical scheme dialect with lots of libraries. 

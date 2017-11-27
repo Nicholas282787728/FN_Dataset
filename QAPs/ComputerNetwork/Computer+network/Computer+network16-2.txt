@@ -1,0 +1,2 @@
+★How do computer networks handle data overload?
+It's basically the same to how we handle traffic jams. If there is only one way out and that way is already saturated, data has to be buffered, queued and wait. If there can be more ways out, we can schedule data to some other routes.

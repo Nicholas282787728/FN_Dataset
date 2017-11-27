@@ -1,0 +1,2 @@
+★How many IP addresses are in a "IP Address Block (/28)"?This is a follow-up question to How many IP addresses are in a "Class C IP Block (/24)"?.
+4 bits of host address means 2^4 possible addresses (16). The all-ones host address is reserved for broadcast, and thus cannot be used for an actual host address, ergo you can have 15 hosts on a LAN with a /28 address block. The host zero address used to be a problem (it was used in old software as a broadcast address); see RFC 1122 - Requirements for Internet Hosts - Communication Layers, section 3.3.6

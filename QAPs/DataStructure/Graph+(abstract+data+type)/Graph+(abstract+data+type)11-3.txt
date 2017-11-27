@@ -1,0 +1,2 @@
+What are the core ideas behind TensorFlow?
+I think the core idea behind TensorFlow which separates it from similar libraries like Theano is its capabilities for distributed computation. Specifically you can write your code once and then run it on multiple GPUs or CPUs while training using whatever computational power you have. At test time you can even run your code on mobiles phones all without the need to rewrite the code. 

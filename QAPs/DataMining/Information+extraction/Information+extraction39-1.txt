@@ -1,0 +1,2 @@
+★How can I write software to extract information from social networks?For eg. The most common word tweeted in my timeline in the last month.
+Why don't you basically use that social network API's? For your example, twitter API has a method called GET statuses/user_timeline that lets you get up to 3,200 of your (or another unprotected user's) recent Tweets.   Most social networks have API's that lets developers create application that has some sort of integration to their social network, so take advantage of that.    Embed Quote

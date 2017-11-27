@@ -1,0 +1,2 @@
+★How are the bisecting K-means algorithm and hierarchical clustering algorithm different?Can you please refer to a book or paper or tutorial detailing this further?
+From a practical perspective, Page on norusis.com does a nice job explaining the differences (and appropriate use-cases) for K-means, hierarchical, and two-step clustering.    Embed Quote

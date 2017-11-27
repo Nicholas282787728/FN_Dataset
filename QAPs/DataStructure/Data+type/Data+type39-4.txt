@@ -1,0 +1,2 @@
+What data type should I use for n=10^18?
+for Java and C# you can use long up to 9*10^18 almost ( 9,223,372,036,854,775,808 to be exact)  and in mysql you can use bigint. 1k Views

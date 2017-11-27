@@ -1,0 +1,2 @@
+★How are ANOVA and regression related to each other?
+Mathematically they are identical.  Most stats packages will have a (slightly) different user interface for ANOVA.  But the "under the hood" math and the output will be identical.    Embed Quote

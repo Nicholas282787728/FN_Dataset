@@ -1,0 +1,2 @@
+What is the best data structure to store 3D coordinates?
+For 3D coordinates, you can use Octree - Octree. The generalised data structure is  K-D trees - k-d tree. Here, K is the number of dimensions. In this case, K = 3. 

@@ -1,0 +1,2 @@
+★What will be the next big thing in artificial intelligence in the next 10 to 20 years?
+I must add here a technical term  : unsupervised learning for tasks that need supervision. Researchers are employing neural nets (among others, but probably not HMM) for this. You must have heard of popular cat recognition by Google using neural nets. I believe, this is going to be next big in AI (it may be employed in any form, robotics, mobile solution among others).    Embed Quote

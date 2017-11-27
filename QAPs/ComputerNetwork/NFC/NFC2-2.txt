@@ -1,0 +1,2 @@
+★How is NFC better than Bluetooth?
+NFC is much simpler (pairs two devices in less than a tenth of a second) versus the 10+ step process of manually pairing with Bluetooth. There's a quick explanation of the differences including reading range at: http://www.buynfctags.com/pages/... And there's a more humorous write-up about eliminating the pain of Bluetooth with the power of NFC here: http://www.gototags.com/2011/04/... This article also talks about the ability to configure WiFi with NFC.    Embed Quote

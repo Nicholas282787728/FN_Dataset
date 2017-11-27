@@ -1,0 +1,2 @@
+What types of technical questions are asked in developer interviews?
+You might find some of these questions useful: Programming  Interview Questions - Microsoft, Amazon, Google, Facebook - Programs,  Code, Puzzles, Placement Tests- Answers/Hints at the end - the learning  point A collection of interview questions from Amazon, Microsoft, Google, Facebook interviews. Disclaimer: A small project of mine 

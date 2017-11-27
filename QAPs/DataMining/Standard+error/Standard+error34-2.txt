@@ -1,0 +1,2 @@
+★When conducting an experiment, should I repeat measurements on one sample from a batch, measure multiple samples of a batch once or repeat measurements for multiple samples of a batch, in order to determine the mean, variance and standard error?
+Multiple samples. The mean of sample means is close to the population mean and also the variance of sample means is smaller than the variance in sample from that sample's mean.    Embed Quote

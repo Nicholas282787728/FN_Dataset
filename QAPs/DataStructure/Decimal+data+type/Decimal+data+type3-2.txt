@@ -1,0 +1,1 @@
+What is the best way to store location data in MySQL?I've heard that Postgres has really good facilities for this

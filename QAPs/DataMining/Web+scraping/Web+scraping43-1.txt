@@ -1,0 +1,2 @@
+★Web Scraping: How can one web-scrape a list of Amazon reviews for further processing (preferably with metadata if possible)?
+This is a nuisance if you are writing a script from scratch. You are going to have to main that script when the website changes, it gets throttled etc. If your time is scarce for you, you can use a Web Data Extraction Tool that can makes it easy to create data extraction and do all the plumbing, maintenance work for you.    Embed Quote

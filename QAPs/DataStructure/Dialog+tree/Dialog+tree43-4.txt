@@ -1,0 +1,2 @@
+How do I break into the admin account from a guest account?
+You cannot do that. Period. Guest account runs in ring 3 which is one of the most under-priveleged access levels on windows. RING 0 = KERNEL RING 1 = SYSTEM RING 2 = ADMIN RING 3 = GUEST 

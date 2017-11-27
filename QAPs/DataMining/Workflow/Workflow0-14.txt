@@ -1,0 +1,2 @@
+★What are the most useful tips on design workflow/tools?
+Sorry for a textbook answer: Comprehensive planning and analysis ensures that designers and developers will provide what their users want. If you start to code your web pages without thorough planning and analysis, you run the risk of missing pertinent information. It is much less expensive to make corrections to a Web site in the early phases of a project development that it is to alter web pages that are completed.    Embed Quote

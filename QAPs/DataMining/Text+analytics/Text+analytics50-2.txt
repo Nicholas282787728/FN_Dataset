@@ -1,0 +1,2 @@
+★What is the best text analytics API + service?There are a lot of text analytics / text analysis APIs out there. What is your experience and what API do you think is the best one?
+You can now try and compare several of them simultaneously using NERD - http://nerd.eurecom.fr    Embed Quote

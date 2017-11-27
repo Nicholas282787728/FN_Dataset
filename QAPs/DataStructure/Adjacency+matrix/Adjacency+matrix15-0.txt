@@ -1,0 +1,2 @@
+How do I print adjacency matrix of a graph dynamically?For example, a graph has three nodes. If user inputs two data types (for example, some structure elements), the format of adjacency matrix is 2  . If user inputs three data types, format should be 3  . Thanks for replies.
+Use if/else statements if you want to make it a little more classy you can count the given elements and that count to use it for the drawing. "Beep book I see 5 elements so I will draw it 5 times beep boop" I'm not giving you code because if you do it yourself you will learn it. 

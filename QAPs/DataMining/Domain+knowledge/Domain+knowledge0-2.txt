@@ -1,0 +1,2 @@
+★What joke requires the most pieces of domain knowledge to understand?
+Q: What do you get when you cross a mountain climber and a mosquito? A: Nothing, you can't cross a scalar and a vector. The joke relies on knowing: 1) "Scaler" can be used to mean "one who climbs" 2) In biology, a disease-carrying organism (such as a mosquito) is called a vector. 3) In mathematics, you can't compute the cross-product of a scalar (something with only magnitude) and a vector (a quantity with magnitude and direction)    Embed Quote

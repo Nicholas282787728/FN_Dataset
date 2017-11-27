@@ -1,0 +1,2 @@
+Is it bad if it takes me a day to understand and implement hard programming structures like suffix arrays, suffix trees etc?
+No. That's roughly normal. We all hear stories of people writing thousands of lines of code in hours, but for the most part those are myths. Reality is about 20 lines of fully debugged code per working day. 

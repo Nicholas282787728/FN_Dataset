@@ -1,0 +1,2 @@
+How do tries differ from binary search trees?
+Binary Search Tree is ordered tree where each node has key. Trie node doesn't contains any key, rather node position in the tree defines the key with which it is associated. All the descendants of a node have a common prefix of the string associated with that node, and the root is associated with the empty string. Values are normally not associated with every node, only with leaves and some inner nodes that correspond to keys of interest.  Tries provides better search performance over BST. 

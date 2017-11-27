@@ -1,0 +1,1 @@
+What's the best way to delete duplicates from a sorted array in time and space?You can do it in O(log(n)) best case, but you need O(n) space 

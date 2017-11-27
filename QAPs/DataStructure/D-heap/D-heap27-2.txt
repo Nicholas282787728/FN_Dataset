@@ -1,0 +1,2 @@
+How often do software developers debug with core dumps of Java?
+Only when tasked with performance or stability tasks of a application and something is not to your satisfaction. I am not talking about system programming here but more from a web programming perspective. Dump analysis is often used to troubleshoot unexpected crashes in an app or memory leaks and such. And most of the time you will work with the app server vendor to figure out the issue 

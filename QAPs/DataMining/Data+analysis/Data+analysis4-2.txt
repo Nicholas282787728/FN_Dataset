@@ -1,0 +1,2 @@
+Which are some of the best Data Analysis tools?
+I'm really surprised that tableau (http://www.tableausoftware.com) didn't make it on this list.  It's great for visualizing data and for creating interactive dashboards that actually present data in a way that it can be mined effectively.  I've never seen a tool that makes aggregating, presenting, and interacting with large datasets across disparate data sources so simple. I would highly recommend giving it a test drive.    Embed Quote 

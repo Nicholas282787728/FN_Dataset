@@ -1,0 +1,2 @@
+Can an imperfect graph not have a perfect subgraph?
+If you mean G is an imperfect graph on n vertices and we wish to find a perfect subgraph on any number of vertices less than n, then the answer is no, since all possible graphs on two vertices, say, are perfect. 

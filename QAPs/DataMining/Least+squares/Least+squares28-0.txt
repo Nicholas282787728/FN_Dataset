@@ -1,0 +1,2 @@
+★How does Least Square Estimate in linear regression ties with MLE concept?
+The assumption behind standard least squares is that, conditional on , is normally distributed with mean and variance .  If you work out the MLE of , you get the least squares estimate.    Embed Quote

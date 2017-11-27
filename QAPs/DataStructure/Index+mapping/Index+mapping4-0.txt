@@ -1,0 +1,2 @@
+What companies are the top 10 players in the WebRTC emerging market?
+Hard to say. What exact criteria are you looking for? I term of listings, you can check out these resources: There's a new and growing index of vendors available: About WebRTC Index - Mapping the WebRTC ecosystem Tools directory at webrtcHacks: WebRTC Developer Tool Vendor Directory - webrtcHacks My own report (paid) on API platforms: Choosing a WebRTC API Platform - BlogGeek.me 

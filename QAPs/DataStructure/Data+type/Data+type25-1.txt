@@ -1,0 +1,2 @@
+What is the difference between a data type and an abstract data type (ADT)?
+Data Type A variable’s data type determines the values it may contain, plus the operations that may be performed on it. Data Types consists of: Primitive, Complex or Composite, and Abstract Data Types. An Abstract Data Type (ADT) It’s a data type, just like integers and booleans primitive data types. An ADT consist not only of operations, but also of values of the underlying data and of constraints on the operations. 301 Views

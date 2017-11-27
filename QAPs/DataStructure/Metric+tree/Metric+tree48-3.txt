@@ -1,0 +1,2 @@
+How do I know whether I am ready for a data science interview?
+I am an Electronics and Communication Engineer by education. After completing engineering, I worked with Accenture and slowly worked my way towards the field of data analytics. I have written this blog which will help beginners to start their careers in this field:- How to Start a Career in Analytics for Free? Once you are prepared and appearing for interviews, you can take some pointers from this blog of mine:- What to expect in an Analytics Interview? Cheers ! 

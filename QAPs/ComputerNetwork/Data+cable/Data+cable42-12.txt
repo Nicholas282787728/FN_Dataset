@@ -1,0 +1,2 @@
+★How do I transfer my files from Android to laptop?
+Install IP Messenger  on Desktop and your Android Mobile. If both the devices are connected to same WiFi you can transfer you files very fast. It supports multiple transfers at a time. Transfer can be done as a File / Folder. Both works. Desktop -> Desktop Desktop -> Android Mobile Android Mobile -> Desktop Android Mobile -> Android Mobile IP Messenger Desktop : IP Messenger   ( 500KB ) IP Messenger Android : Android Apps on Google Play IP Messenger Tutorial : Send Files or Messages to any computer in a network

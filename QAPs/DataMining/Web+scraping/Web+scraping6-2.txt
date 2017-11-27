@@ -1,0 +1,2 @@
+★What are the best web scraping open source tools?
+PhantomJS.org and CasperJS.org are fairly decent solutions imho.    Embed Quote

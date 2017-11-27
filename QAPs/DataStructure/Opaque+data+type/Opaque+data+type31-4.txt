@@ -1,0 +1,2 @@
+What are the worst code smells you have ever encountered as a developer?
+Being able to read the source code for the original UNIX  troff  was the Acid test (gold)  for code comprehension skills.  It you could navigate through the forest of uncommented code, consisting mostly-global 2-letter variable names; make fixes/enhancements without breaking something else, this put you in the varsity league of UNIX/C developers. 

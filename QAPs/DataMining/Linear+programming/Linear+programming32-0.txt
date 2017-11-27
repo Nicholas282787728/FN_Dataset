@@ -1,0 +1,2 @@
+★Linear Programming: How do we characterize the vertex of a convex polytope?
+There are three definitions of the "corner" of a polytope that turn out to be equivalent.  See http://math.sfsu.edu/serkan/math... for the definition and the proof of equivalence. There's no obvious relationship between the null space of and the vertices of the polytope.  The polytope does not have the same vertices as the polytope , but the linear constraints for both polytopes have the same nullspace.    Embed Quote

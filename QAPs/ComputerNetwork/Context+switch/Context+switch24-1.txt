@@ -1,0 +1,2 @@
+★What are the advantages of Sparrow over the Gmail web app?
+The killer feature for me is the ability to check multiple gmail accounts concurrently. Also keyboard shortcuts which are native to Mac OS X such as cmd-n for new mail, etc.

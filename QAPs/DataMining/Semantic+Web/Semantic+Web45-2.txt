@@ -1,0 +1,2 @@
+★What are the best universities for learning about the semantic web?I'm interested in a college program for the semantic web. Are there any universities with well-known programs in semantic web development?
+The University of Southampton is probably a good choice. It includes Sir Tim Berners-Lee, Prof Nigel Shadbolt and Dame Wendy Hall on its staff. In particular, take a look at their Web Science programme. http://webscience.ecs.soton.ac.uk/    Embed Quote

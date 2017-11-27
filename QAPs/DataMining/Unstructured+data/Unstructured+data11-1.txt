@@ -1,0 +1,2 @@
+★What can a business truly learn from unstructured data?My company (a large fortune 100 company) currently only analyzes structured data which is stored in relational databases. What business value could come from analyzing unstructured data via Hadoop?
+Nothing.    Embed Quote

@@ -1,0 +1,1 @@
+Why can't constant values be used to define an array's initial size?You can use constant variable to initialize the array size but before declaring array constant variable must be assigned some value. But you cannot access the data items in array using constant variable. 31 Views

@@ -1,0 +1,1 @@
+Can you tell me how to check whether a linked list is circular?Have a visited flag with each node. Traverse the linked list and keep marking visited nodes. If you see a visited node again then there is a loop. This solution works in O(n) but requires additional information with each node. 22 Views

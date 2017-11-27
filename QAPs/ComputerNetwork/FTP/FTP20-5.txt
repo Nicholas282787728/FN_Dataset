@@ -1,0 +1,2 @@
+★How can I connect to an ftp server with Linux?i want to know how file tranfer by ftp server
+Look up scp. You can use the terminal man pages: man scp.

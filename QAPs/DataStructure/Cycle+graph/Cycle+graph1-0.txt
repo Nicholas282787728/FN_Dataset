@@ -1,0 +1,2 @@
+What is exactly the length of a cycle in graph theory?Is it only the number of edges in the walk, including repetitions , or does it have something to do with the nodes?
+When there is no weight of edges then yes. If the weight of each edge is given then you will add the weight of each edge that consists of cycle. You should try reading some book on the topic. The questions you are asking are very very obvious ones. a little research should do the job. 

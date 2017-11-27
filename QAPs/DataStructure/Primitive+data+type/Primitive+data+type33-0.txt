@@ -1,0 +1,2 @@
+How is the wrapper class defined in terms of object-oriented programming and why is it required?
+Wrapper classes are used to convert any data type into an object. The primitive data types are not objects; they do not belong to any class; they are defined in the language itself. Sometimes, it is required to convert data types into objects in Java language. There are several Reasons : So that a null value is possible To include in a Collection To treat generically / polymorphically as an Object along with other Objects 

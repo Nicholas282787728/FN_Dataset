@@ -1,0 +1,2 @@
+★How would you configure and verify DHCP (IOS router), and configure router interfaces to use DHCP?
+How to verify? Plug a client into an interface in that router configured to use DHCP and see if you get issued an IP.

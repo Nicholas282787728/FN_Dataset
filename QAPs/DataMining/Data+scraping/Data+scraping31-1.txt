@@ -1,0 +1,2 @@
+Is there any way to scrape data from a LinkedIn public profile?
+So, API and ToS aside, this Ruby gem is fairly well maintained. https://rubygems.org/gems/linked...    Embed Quote 

@@ -1,0 +1,2 @@
+★Requirements Engineering: Who knows an example of low-level  specifications which used non-linear functions?
+Did you examine patents? They often have diagrams and citations. Google Patent Search (for example, Patent WO2012166757A2) USPTO (for example, the radio one) You may want to check with your legal dept. though -- sometimes it's not advised to look at prior patents. It used to be this way in larger corps, not sure is it's true in the university.    Embed Quote

@@ -1,0 +1,2 @@
+★Why does the normal distribution show up so often in nature?In layman's terms, please
+While nature doesn't "always" follow the normal distribution, there are still a large number of natural events that can be approximated as a normal distribution. The reason behind this follows from the Central limit theorem which says, "the mean of a sufficiently large number ofindependent random variables, each with finite mean and variance, will be approximately normally distributed".    Embed Quote

@@ -1,0 +1,1 @@
+What is an SRAM array?The arrangement of many SRAM one bit cells is called a SRAM array. Usually the aspect ratio or the way in which the cells of the SRAM cells are arranged is preferred to be a square rather than a rectangle. For example, 256Kb memory using SRAM array can be arranged with 2^9 rows and columns. 

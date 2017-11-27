@@ -1,0 +1,45 @@
+★What does parsing mean in Java?
+It means the same in just about any programming language - extracting useful information from some textual source format. As an example, consider the currency conversion table:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+ 094150520141605201413 036AUD001       5,181463       5,197054       5,212645 124CAD001       5,091068       5,106387       5,121706 203CZK001       0,275736       0,276566       0,277396 208DKK001       1,012566       1,015613       1,018660 348HUF100       2,493304       2,500806       2,508308 392JPY100       5,432082       5,448427       5,464772 578NOK001       0,932651       0,935457       0,938263 752SEK001       0,841858       0,844391       0,846924 756CHF001       6,182576       6,201180       6,219784 826GBP001       9,276141       9,304053       9,331965 840USD001       5,535115       5,551770       5,568425 978EUR001       7,558199       7,580942       7,603685 985PLN001       1,808614       1,814056       1,819498 This might get parsed to a JSON format like this:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+ {     "date": "2014-05-16",     "rates": [         {             "currency": "AUD",             "low": 5.181463,             "med": 5.197054,             "high": 5.212645         },         {             "currency": "CAD",             "low": 5.091068,             "med": 5.106387,             "high": 5.121706         },         {             "currency": "EUR",             "low": 7.558199,             "med": 7.580942,             "high": 7.603685         },         {             "currency": "USD",             "low": 5.535115,             "med": 5.551770,             "high": 5.568425         }     ] } Notice that: some of the data is kept some of the data is discarded (currencies that are not interesting) some of the data is transformed (date information was transformed from 094150520141605201413 to 2014-05-16, names like date, rates, low and med, high were added and decimal mark was changed from dot to comma    Embed Quote

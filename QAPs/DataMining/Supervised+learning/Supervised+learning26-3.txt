@@ -1,0 +1,2 @@
+★Which computer vision datasets are often used in semi-supervised learning and/or transductive learning?
+The MNIST dataset is the most popular one to be used in this regard. MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges I've ised this dataset to benchmark various ML algos, including semi-supervised RNTNs and stacked (deep) architectires.    Embed Quote

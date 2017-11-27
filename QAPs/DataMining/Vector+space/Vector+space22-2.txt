@@ -1,0 +1,2 @@
+★What are the prominent alternatives to the vector space model for representing and modeling text data?
+Tree based rather than vector based representation of semantic co-occurrence can be useful.    Embed Quote

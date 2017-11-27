@@ -1,0 +1,2 @@
+Why do we need to use a BigInteger class in programming contests when a double data type can hold values almost up to infinity?
+Because of floating point precision. Integer values are exact, floating point numbers are an approximation, but never exact. Here is a simple example: printf("0.3/3. == .1? "); if (0.3/3. == .1) printf("Yes\n"); else printf("No\n"); This will print 0.3/3. == .1? No which is not the result you expected and the big problem when working with floating point numbers. 

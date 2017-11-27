@@ -1,0 +1,2 @@
+★How do I implement wlan network on a PC and compare different transmission (routing) protocols like AODV, DINE, DSR and find the best one for a given scenario? What are the software that can be used.. except ns2 because its  difficult..Can it be done using packet tracer? If yes how??
+How about gns3. Might be it will helpful you.    Embed Quote

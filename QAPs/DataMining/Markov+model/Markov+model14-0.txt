@@ -1,0 +1,2 @@
+★What are some examples of how Hidden Markov Models are used in Quantitive Trading?
+HMMs are based on the well-known theories of Markov chains, but where  the states are assumed hidden, governing some observable output. HMMs  have mainly been used for speech recognition and communication systems,  but have lately also been utilized on financial time series with  encouraging results. Following post shows the experimental results of use of HMM for algorithmic currency trading in FOREX. http://liu.diva-portal.org/smash...    Embed Quote

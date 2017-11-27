@@ -1,0 +1,1 @@
+How do I write a program using recursion such that given an array , we have to find the last Index of 7?Here's a pseudo code to do the same: for (i=array.length - 1; i>0; i--) { if (array[i] == searchValue) print("Found at position: " + (i + 1)); } 23 Views

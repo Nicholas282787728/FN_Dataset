@@ -1,0 +1,2 @@
+★Can infrared imaging be used underwater?
+Water absorbs various infra red frequencies. It is actually more absorbent of IR than of visible light (water does absorb a very small amount of red due). The absorption pattern is both strong and fairly complex, so getting good IR signal that has passed through water is basically a nonstarter.    Embed Quote

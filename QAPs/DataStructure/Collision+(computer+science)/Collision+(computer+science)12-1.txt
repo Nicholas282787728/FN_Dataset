@@ -1,0 +1,2 @@
+What is the significance of the n-Queens problem in computer science?
+It's a "simple" example about how effective pruning can be to an exponential explosion.  If the n-Queens problem is programmed in a very naive way, the problem explodes in runtime even for small n.  If we used reflectional symmetry and an O(1) operation to check for collisions, then we can solve the problem much quicker. 

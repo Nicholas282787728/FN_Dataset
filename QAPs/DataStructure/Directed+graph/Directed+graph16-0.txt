@@ -1,0 +1,2 @@
+What is the degree of vertex in a directed graph?
+It is the in-degree + out-degree 1.4k Views · 1 Upvote

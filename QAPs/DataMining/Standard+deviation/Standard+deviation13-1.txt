@@ -1,0 +1,2 @@
+★Where can I find the volatility/Standard deviation of a stock?
+Get historical prices off Bloomberg or yahoo finance (left menu --> "Historical Prices").  I use monthly time period Export into excel and calculate monthly return Annualized vol formula is STDEV(<range of monthly returns>)*SQRT(12)    Embed Quote

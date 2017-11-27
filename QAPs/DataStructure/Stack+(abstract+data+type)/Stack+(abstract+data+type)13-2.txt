@@ -1,0 +1,2 @@
+What are abstract data types?
+You can think of it as a set of objects that is defined by their behavior and properties in most general terms, rather than by specifying their implementation in detail. Each object is a concrete implementation of the ADT that can be run on a certain machine. This allows you to reason about all implementations efficiently and to prove properties like termination, correctness and asymptotic runtime-behavior. 

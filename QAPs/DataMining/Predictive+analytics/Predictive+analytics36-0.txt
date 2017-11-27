@@ -1,0 +1,2 @@
+★What books/articles/guides on predictive analytics would you suggest?
+I always recommend the "Learning Machine Learning" series by Bradford Cross (he does predictive analytics at Flightcaster): http://measuringmeasures.com/blo... also look up What are the best blogs about data?    Embed Quote

@@ -1,0 +1,1 @@
+What are the advantages of using a decision tree for classification?Related: What are the disadvantages of using a decision tree for classification?Just adding to Peter Flom and Jeff Nelson answers Image courtesy: Comparing machine learning classifiers based on their hyperplanes or decision boundaries - Data Scientist in Ginza, Tokyo 2.5k Views  View Upvotes

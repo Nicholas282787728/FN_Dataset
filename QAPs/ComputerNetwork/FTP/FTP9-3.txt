@@ -1,0 +1,2 @@
+★How can I connect to an FTP server with a Mac?
+Transmit!!! You can also use the Finder, but it's not very stable. Finder > Go > Connect to Server

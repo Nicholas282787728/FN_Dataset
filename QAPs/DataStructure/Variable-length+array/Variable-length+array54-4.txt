@@ -1,0 +1,2 @@
+What's the difference between writing software for Windows and Unix?
+The windows 8 development environment created by microsoft allows you to program/make apps for Windows in different programming languages, like Java, C, C++ etc 

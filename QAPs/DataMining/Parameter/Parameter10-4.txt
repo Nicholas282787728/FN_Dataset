@@ -1,0 +1,6 @@
+★Why doesn’t "sizeof(a)/sizeof(a[0])" work for an array passed as a parameter?
+Anders' answer should just work. I only want to add a type-safe C++ solution. This is what people can do with the template trick: 1
+2
+3
+4
+ template <typename T, size_t N> char (&ArraySizeHelper(T (&)[N]))[N]; #define ARRAY_SIZE(x) (sizeof(ArraySizeHelper(x))) ARRAY_SIZE will fail to compile if compiler has silently converted the argument to a pointer.    Embed Quote

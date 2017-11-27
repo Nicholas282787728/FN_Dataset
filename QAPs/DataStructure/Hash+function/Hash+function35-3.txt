@@ -1,0 +1,1 @@
+What are "preimages" in the context of cryptographic hash functions?This is a follow-up question to How secure is MD5?.

@@ -1,0 +1,2 @@
+★What are the best blogs about the semantic web?Looking for insightful blogs about semantic web startups and technologies.
+Eric Franzon and Jennifer Zaino edit the superb blog http://semanticweb.com/ The Talis company’s blog, Nodalities, is a valuable resource for the latest developments in Linked Data research and practical implementations. http://blogs.talis.com/nodalities/ The insightful ReadWriteWeb technology blog is notable for its periodic coverage of Semantic Web / Linked Data coverage. http://www.readwriteweb.com    Embed Quote

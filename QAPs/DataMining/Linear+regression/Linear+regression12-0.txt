@@ -1,0 +1,2 @@
+★What is the state of the art in online linear regression?
+Online learning is the term you're looking for.  See here: http://www.cs.huji.ac.il/~shais/...    Embed Quote

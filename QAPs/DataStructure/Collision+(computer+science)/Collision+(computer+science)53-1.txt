@@ -1,0 +1,2 @@
+Is computer science without computers just maths?
+A2A Yes, there was Mathematics that is the foundation of Computer Science that was in place before the first electronic computer was built. Some of the math goes back centuries; however, the most important in my opinion was due to Church and Turing in the early 1930's, see Church–Turing thesis. Turing machines have infinite memories which is beyond the capability of hardware to provide. 

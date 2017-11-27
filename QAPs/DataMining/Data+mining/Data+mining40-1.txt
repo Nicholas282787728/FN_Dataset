@@ -1,0 +1,2 @@
+What are some good research topics in data mining?
+Identifying some diseases from the regular patterns made by multiple attributes of sequence data from human being suffering from those disease and to come up with a particular data model. The data for this research can be made available from 1000 genome project or from ncbi.    Embed Quote 

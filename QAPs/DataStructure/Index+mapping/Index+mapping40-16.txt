@@ -1,0 +1,2 @@
+What are some must-have software for programmers using Linux?
+Tools  vary from one's field of work to personal choices. The ones i love:- Atom : Code/text editor Atom.io GHex : Inspect and Edit Binary Files. Zim : Desktop Wiki TOR : polipo/vidalia BleachBit: Privacy tool Gigolo: Connecting to remote file systems Xplico: OS NFAT Firebug: can't simply do without it oh and, Clementine (especially its awesome 'Rain' mode when i want some serenity) 

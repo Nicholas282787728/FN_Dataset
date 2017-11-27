@@ -1,0 +1,2 @@
+★What are some techniques for pattern recognition in time variant data? (i.e. a signal)
+Most signal processing methods works well on time invariant series. You possibly need some dynamical model to work with time variant data. Like linear state space model, or more advanced Bayesian, graphic model.    Embed Quote

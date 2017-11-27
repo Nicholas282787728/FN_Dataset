@@ -1,0 +1,1 @@
+How is Discrete Mathematics used in computer science?Discrete mathematics provides computer scientists with the tools to craft and rigorously prove the validity of algorithms (so that your future self-driving car doesn't crash ;)). 130 Views  View Upvotes

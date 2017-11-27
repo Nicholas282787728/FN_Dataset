@@ -1,0 +1,2 @@
+What is the significance of planar graphs in computer science?
+One application is to draw graphs themselves in the most compact and appealing form! For. Eg. GraphViz needs planarity algorithms. 

@@ -1,0 +1,2 @@
+★When is AWS going to be upgraded to a 10 gigabit Ethernet network?i.e. not just "cluster compute" but regular instances This is a follow-up question to What is the current technology stack behind AWS?.
+You could probably narrow the question a bit but regarding 10Gbps ports availability at Equinix you would want to start by reviewing AWS Direct Connect. http://aws.amazon.com/directconn... And before you ask... no, there is no SLA.

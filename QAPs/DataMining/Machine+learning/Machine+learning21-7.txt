@@ -1,0 +1,2 @@
+★How can you learn Mathematics for machine learning?What books, topics, resources are one stop for learning all mathematics necessary to start learning Machine Learning?
+Here is my view on, how to learn enough math online for free. Teach yourself Machine Learning the hard way ! and follow up Teach yourself Machine Learning the hard way ! (Part 2) It lists many pre-requisites that you need to understand and also some of the advanced stuff in part2. I hope this helps.    Embed Quote

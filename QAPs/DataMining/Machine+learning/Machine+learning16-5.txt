@@ -1,0 +1,2 @@
+★What is the beauty of Machine Learning?Why all of a sudden all programmers are interested in Machine Learning?
+The most beautiful aspect of ML is the host of CS and Math topics that it requires, among which are Algorithms, Complexity Analysis, Programming, Convex Optimization, Probability Theory, Linear Algebra, Statistical Inference, Bayesian Statistics. It's gorgeous!    Embed Quote

@@ -1,0 +1,2 @@
+What is an intuitive explanation for bias-variance tradeoff?
+Very simple models don't change much from dataset to dataset, but they also can't get terribly close to the truth.  Very complicated models can easily be right on average, but they tend to change much more with small changes in the input.  Somewhere in the middle there's a sweet spot, with a relatively accurate model that's not too sensitive to the data. 3.4k Views · 35 Upvotes

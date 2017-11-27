@@ -1,0 +1,2 @@
+What are the 10 must-know algorithms and data structures for a software engineer?
+I agree with Andrew Kuan's comment above: read Kernigan and Richie.   I add to that Knuth's multi-volume "The Art of Computer Programming".   Algorithms may have improved at the margins since he wrote it, but it's still a major, enlightening body of work. 

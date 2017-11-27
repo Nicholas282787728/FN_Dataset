@@ -1,0 +1,2 @@
+What are the 10 algorithms one must know in order to solve most algorithm problems?
+According to me one must know at least following algorithms before jumping into any coding challenges. Permutation and combination of set elements Matrix multplication and operations like reversing.. Manipulating. Diagonal elements...transpose... Sorting algos few if not all Base conversion form any base to any other. Linked list manipulation. Stack management..pop..push etc.... (more)

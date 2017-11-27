@@ -1,0 +1,1 @@
+Why is C++ so annoying when dealing with arrays and vectors?Why is it not built with ease of use like Matlab?Those are not the proper data types for numeric vector processing such as that found in MATLAB or FORTRAN. Instead you can use std::valarray, which lets you directly add vectors together and things like that. 4.1k Views  View Upvotes

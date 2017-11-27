@@ -1,0 +1,2 @@
+What are some easy ways to imagine a 4D hypercube?
+Probably not easy but: N-teract-4 is my version of a Rubik cube except in four dimensions. There is quite a community of higher dimension Rubik cube fans. Magic Cube 4D Besides developing the javascript for the 2x2x2x2 cube, I also found the exercise of developing a Hamiltonian path visiting every corner of a tesseract once and only once useful.  In that case, simply imagining the tesseract as two nested wire frame cubes with each of their respective corners connected by wire was enough. 

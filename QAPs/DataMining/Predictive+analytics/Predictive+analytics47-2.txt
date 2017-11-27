@@ -1,0 +1,2 @@
+★What are the pro's and con's of using PMML as an interchange format for predictive analytics models?Is PMML flexible enough to represent most real-world predictive models? Is there a wide base of tools that support it? Are open source tools among these?  If you implement a model using a machine learning library in a standard programming language, is PMML interchange useful to you? Is PMML's value marketing fluff or real?
+I found a good Aug 2011 paper assessing efforts to gain conformance to the PMML standard: http://users.cis.fiu.edu/~lzhen0...    Embed Quote

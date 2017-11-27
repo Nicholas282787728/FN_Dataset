@@ -1,0 +1,2 @@
+★Does weather temperature follow a normal distribution?
+Temperature of a given place throughout the year will follow different distributions in different places.  In places close to the equator, where there is no large seasonal temperature variation, it might be close to normal. Farther from the equator, I doubt that the distribution is close to normal. It's probably between normal and uniform. Temperature across the globe on any given day might be close to normal Interesting question!  There must be data.    Embed Quote

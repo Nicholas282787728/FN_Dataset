@@ -1,0 +1,2 @@
+★What are the key differences between HTTP 1.0 and HTTP 1.1?
+Reuse of the TCP connection for multiple HTTP requests, leading to better network performance from ongoing measurement of congestion control parameters in TCP. One long TCP session is better than many short ones.

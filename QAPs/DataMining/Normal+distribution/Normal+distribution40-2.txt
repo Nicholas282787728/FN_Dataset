@@ -1,0 +1,2 @@
+★How can one establish whether residuals are normally distributed in statistics?
+In addition to eyeballing quantile-quantile plots, one can apply the Jarque–Bera test.  The Jarque-Bera statistic is , where is the sample skewness and is the sample kurtosis.  For a normal distribution, the JB statistic is chi-squared distributed with two degrees of freedom. By the way, this test is built into the Statistical Toolbox in MATLAB: Jarque-Bera test - MATLAB jbtest.    Embed Quote

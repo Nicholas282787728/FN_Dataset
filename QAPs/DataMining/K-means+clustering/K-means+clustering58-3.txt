@@ -1,0 +1,2 @@
+★What are the most popular algorithms in Information Retrieval at this time?
+A binary Rank SVM is fast and easy way to get good IR relevance.  You can train directly on the click stream, use all words as features, and avoid having to do topic modeling or other messy things.  In the words of Vapnik, "One should not try to solve a problem by posing an intermediate problem that is harder to solve" And since a rank SVM is a binary SVM under the hood, you can even train it transductively if you don't have a lot of click stream data yet    Embed Quote

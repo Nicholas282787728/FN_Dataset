@@ -1,0 +1,2 @@
+What basic data structures and algorithms should one learn before starting competitive programming?
+Programming and learning can go side by side.don't think about learning all the algorithms then solving problems. I suggest that pick a problem then learn and code it. For learning purpose start with SPOJ or Codechef easy problems . These type of questions has already been answered , like What are the "must known" algorithms for online programming contests? Data Structures and Algorithms Happy Coding :) 2.3k Views · 6 Upvotes

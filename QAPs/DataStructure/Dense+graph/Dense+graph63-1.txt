@@ -1,0 +1,2 @@
+Bulk Synchronous Parallel Computing: What kinds of BSP algorithms have been developed?
+Thanks for the A2A, Bill McColl has provided a nice list. To add to his list Page Rank & Bipartite Matching have  a nice BSP representation. 

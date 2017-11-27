@@ -1,0 +1,2 @@
+★After bridging to the physical network card of a host with a static IP address, what IP address will the VM get given the DHCP service is not supported by the academic network provider?
+It would fail to receive the dynamic address and have no address assigned and in case of Windows guest you may get a private IP assigned.

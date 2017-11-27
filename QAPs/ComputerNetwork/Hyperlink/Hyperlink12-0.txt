@@ -1,0 +1,2 @@
+★Why doesn't Hacker News allow hyperlink in text?Although there is some explanation in their FAQ, i just don't understand.
+Obviously I can't answer for PG but: HN does allow it in the comments. (http://your link) You can't do it in the Post text most probably because of spam issues.    Embed Quote

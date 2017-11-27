@@ -1,0 +1,2 @@
+★What is an ISP (Internet Service Provider)?
+An Internet Service Provider is the company that delivers internet service to users, usually a home or business and most often wired as of this writing. Well-known examples are AT&T, Comcast, and many other regional or local providers using switches and wires leased from the local telephone company but the actual Internet service provided by the Provider.    Embed Quote

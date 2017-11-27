@@ -1,0 +1,2 @@
+★What is the relationship between Ethernet and LAN?
+The former is one of the possible implementations of the latter.

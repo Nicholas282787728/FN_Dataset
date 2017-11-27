@@ -1,0 +1,2 @@
+How can I implement Rotating Trees and RotBoost in Python?
+borjaayerdi/AdaHERF Dude has code for Rotation FORESTS (Not "Trees"), and an additional Adaboosting implementation.  Pretty cool stuff. 

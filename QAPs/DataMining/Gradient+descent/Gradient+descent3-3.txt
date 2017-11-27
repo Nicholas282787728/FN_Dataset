@@ -1,0 +1,2 @@
+★What are the weaknesses of gradient descent?
+If you have a large data set computing the gradient is tedious because the entire data set is needed for each computation. It is not invariant to linear transformations.    Embed Quote

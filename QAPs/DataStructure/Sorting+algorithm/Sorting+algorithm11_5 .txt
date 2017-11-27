@@ -1,0 +1,1 @@
+Which sorting algorithms have the best case time complexity?Heap sort with the average time complexity of O(n*log(n)). 

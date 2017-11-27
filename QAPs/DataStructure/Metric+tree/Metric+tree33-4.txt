@@ -1,0 +1,2 @@
+When should I use Boosting instead of SVM?
+As others have said, SVMs have been very fashionable since their appearance, given their good performance and solid theoretical base. An adequate kernel choice can offer very good results. Boosting on the other hand, is a meta-learning technique, i.e. something you put on top of a set of learners to form an ensemble. So SVMs and Boosting are not directly comparable: You can form an ensemble that includes SVMs, among other machine learning algorithms. At least those are my 5 cents. 

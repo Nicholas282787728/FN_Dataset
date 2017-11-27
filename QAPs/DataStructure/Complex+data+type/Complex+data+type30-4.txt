@@ -1,0 +1,1 @@
+Can a purely procedural language be turned into an object-oriented language? If yes, how?

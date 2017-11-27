@@ -1,0 +1,2 @@
+How can I get the running time of the recursive equation merge sort for [math]T(n) = 2T(n/2) + n?[/math]
+T(n)=2T(n/2)+n;          2(2T(n/4)+n/2) +n       = 2^2T(n/2^2)+ n+n       = 2^2T(n/2^2)+ 2*n       = 2^iT(n/2^i) + i*n ;     put n / 2^i = 1  => i= log(n) T(n) = 2^( log(n) )T(1) + log(n) * n          = log(n)T(1) + n*log(n)           =O(n log(n))  Ans. Simple,No need to memorise any formula. 

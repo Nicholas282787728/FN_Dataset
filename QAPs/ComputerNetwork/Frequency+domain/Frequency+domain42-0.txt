@@ -1,0 +1,2 @@
+★What is the difference between an 'integrator' and a 'low pass filter' & 'differentiator' and a 'high pass filter'?
+You call it an integrator if you are looking at it in the time domain. You call it a low pass filter if you look at it in the frequency domain. Same again likewise for hi pass and differentiator.

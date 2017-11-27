@@ -1,0 +1,2 @@
+★What is a good write up on principal component analysis or similar methods?
+Here ya go: Biplots in Practice by Michael Greenacre, free at: Multivariate Statistics    Embed Quote

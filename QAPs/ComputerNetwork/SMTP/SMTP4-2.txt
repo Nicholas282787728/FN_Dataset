@@ -1,0 +1,2 @@
+★What hosted SMTP services are available to outsource your outgoing email delivery to increase deliverability?Especially if you send a lot of email. How do they compare? This is a follow-up question to What techniques can I use to prevent emails sent from my web site from being marked as spam and increase deliverability?.
+I'm currently investigating http://sendgrid.com/ for this. I know a lot of commercial email providers (Silverpop, Lyris, etc) provide SMTP or XML gateway MTA's to provide for this as well.    Embed Quote

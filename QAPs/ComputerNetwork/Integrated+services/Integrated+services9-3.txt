@@ -1,0 +1,2 @@
+★Which hosted continuous integration services show you individual Java test results?
+Hi there, I'm on the Customer Success team at Solano Labs, maker of Solano CI. To follow up on Satyajit's comment, if your test suite produces JUnit-compatible XML reports, you can enable our JUnit parser by annotating your test command with the `junit` type. You can find out JUnit docs here: JUnit - Solano CI documentation. Hope that's helpful!    Embed Quote

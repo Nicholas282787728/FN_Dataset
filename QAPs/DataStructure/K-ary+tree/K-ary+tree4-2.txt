@@ -1,0 +1,1 @@
+How would several people secretly agree on a common private key?I imagine these people generating their own private/public keys to safely share information 1:1, but what about 1:N sharing within the group without encrypting the message more than once?

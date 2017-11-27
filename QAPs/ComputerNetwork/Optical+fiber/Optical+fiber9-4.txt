@@ -1,0 +1,2 @@
+★Can electricity be transmitted through optical fibers (optical fibre electrical transmission)?
+Well yes but it would be pointless, at least the way I imagine it. Electricity would be sent through an LED that would transmit photons that would travel hundreds of miles thrpugh an optical cable to fall upon a photodiode which would convert the light into electricity, only much less. Have you heard of solar power? :|    Embed Quote

@@ -1,0 +1,2 @@
+Where can I find implementations of standard data structures and algorithms in C++?
+You can check out TopCoder tutorials (Algorithm Tutorials) and Cookbook (TopCoder Forums). Note though that using these implementations is a quick and neat way to get yourself banned from competitions. Most of them (except GCJ-like contests I think) completely prohibit usage of code written not by you. Making sure are no errors in this way... well, very bad idea. The point is that you have to learn these algorithms, not to find them elsewhere ready (and even for this you need our help!!!). 

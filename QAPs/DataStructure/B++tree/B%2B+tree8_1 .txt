@@ -1,0 +1,1 @@
+What's the cost of searching an element in B Tree and B+ Tree?Searching in any tree takes an amount of time proportional to the height of the tree. B and B+ trees are balanced trees so given a B or B+ tree with nodes, the height of these trees is . Therefore, it should take time in the worst case to find an element because both B and B+ trees have a height of . 

@@ -1,0 +1,2 @@
+What searching algorithm does Ctrl+F use to find words and substrings on a webpage?
+Depends on the browser. On Quora, this has been previously discussed for Chrome: How does Google Chrome search text (Ctrl^ F) on a page so quickly? 

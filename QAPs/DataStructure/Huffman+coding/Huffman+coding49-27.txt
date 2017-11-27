@@ -1,0 +1,2 @@
+What are the 10 algorithms one must know in order to solve most algorithm problems?
+I would add, that it helps to know several different programming languages. That includes interpreted languages like python, ruby, and even php, TeX, and postscript. Different languages have different built-in data structures and support various algorithms. Finally: Learn regular expressions and how to use them efficiently. 5.6k Views · 18 Upvotes

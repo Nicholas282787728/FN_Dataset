@@ -1,0 +1,1 @@
+In the graph theory what is the use of the formula V-E + F = 2?The equation holds iff the graph is planar. For detailed proof see Euler characteristic. It helps to determine the structural properties of the graph. 109 Views  View Upvotes

@@ -1,0 +1,2 @@
+★Can function be used as a parameter of another function?
+There are subtle things here.. when you write the function name followed by brackets inside the function parameter space, you are not passing the function as arguement but are passing the value returned by the function. In case you want to pass the function as parameter, I would recommend using pointers to function if you are using C. There are languages like python where you can pass the function directly as if it was a variable.    Embed Quote

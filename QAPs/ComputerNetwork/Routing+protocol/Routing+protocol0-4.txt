@@ -1,0 +1,2 @@
+★What internal routing protocol do ISPs use?
+iBGP is not an IGP. It is used to propagate exterior routes within AS while IGP (IS-IS, OSPF, or in some cases EIGRP/IGRP) is used to propagate interior routing information. The address resolution is performed in two steps: first, iBGP FIB is used to resolve destination address into the remote destination "loopback" address, and then IGP FIB is used to resolve this address into next hop address on a connected network.    Embed Quote

@@ -1,0 +1,2 @@
+What are the greatest dashboard designs, and why?I am looking for some cool dashboard designs following the latest design trends and UI Patterns. Dashboards mainly displaying the analytics, performance graphs and the most vital information.
+Beta of GoSquared version 4. There is a lot more to come but hopefully on it's way to being a great Dashboard. - https://www.gosquared.com/dashbo... Also a third party app built on the GoSquared API by Korelogic. - https://www.gosquared.com/ipad/ Updated 23 Jan 2013 • View Upvotes

@@ -1,0 +1,2 @@
+★What else is a finite state machine used for except language parsing?
+CPU cache misses are handled by snooping protocol in Centralized Memory Architectures. In this as well as distributed architectures, the state of caches are handled using FSMs.

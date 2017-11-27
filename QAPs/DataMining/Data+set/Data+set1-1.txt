@@ -1,0 +1,2 @@
+As a data scientist, how do you start investigating a data set?
+I often start by looking at the correlations of all of the variables with each other .  That often will result in throwing out a large percentage of the variables which are redundant or meaningless.  That makes it easier to start making basic assumptions about the data.    Embed Quote 

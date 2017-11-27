@@ -1,0 +1,2 @@
+★What is the difference between pattern recognition and machine learning?
+I would say PR is a sub-category of ML: the difference being the features that are extracted. Simply put, ML involves extracting useful features from data and building a statistical model. In PR, those features usually being extracted using advanced filtering, signal processing, time-frequency analysis etc, where as other applications of ML such as Natural Language Processing might use word counts, bag-of-words, etc. In the end your you're using features to create a model.

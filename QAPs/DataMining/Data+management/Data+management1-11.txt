@@ -1,0 +1,2 @@
+What is the best master data management software right now?
+Each MDM tool has its own pros and cons. To really compare and to pick one for your requirement, i would suggest you to refer: "Magic Quadrant for Master Data Management of Product Data Solutions"...    Embed Quote 

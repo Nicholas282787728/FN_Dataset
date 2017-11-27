@@ -1,0 +1,2 @@
+★Is it correct to use Principal Component Analysis (PCA) on a set of random images, or is it a method only to be used for face recognition?
+Principle component analysis is a statistical tool which highlights the axes of greatest variance. In principle this can work for any classification task.    Embed Quote

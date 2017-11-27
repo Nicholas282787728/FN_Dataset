@@ -1,0 +1,1 @@
+Is there a more efficient method of moving my first two values to the end of a linked list?The best way of adding / moving nodes to the end of a linked list is to keep a pointer to the end of the list. This way, pushing to the end of a list can be done in constant - O(1) O(1) - time. 90 Views

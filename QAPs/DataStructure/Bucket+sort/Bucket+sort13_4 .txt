@@ -1,0 +1,1 @@
+Counting sort, radix sort, and bucket sort are all good choices and should be better than n log n. I would ask the clarifying question "what do you mean by efficient - computational or memory?" 

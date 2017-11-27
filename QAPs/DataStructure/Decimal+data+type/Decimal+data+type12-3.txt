@@ -1,0 +1,2 @@
+Why does the size of 'a' equal 4 bytes?
+Output1:  when we take sizeof(a)->it prints the size of data type of a. So size of char is printed 1byte. Output2: And when we take sizeof 'a' -> When a alphabet is stored like this it is converted to equalivalent asci value I.e 97 which is integer .hence when we take size of 'a' the size of integer is printed 4bytes. 

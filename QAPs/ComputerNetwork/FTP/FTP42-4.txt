@@ -1,0 +1,2 @@
+★How do I access the FTP on my WordPress site?
+If you looking FTP within the wordpress section install wp-FileManager It will do all your ftp operations.

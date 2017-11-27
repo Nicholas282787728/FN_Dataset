@@ -1,0 +1,2 @@
+Can you solve this simple mathematical puzzle?
+Let no. of trees be x, and horses be y.   According to the first condition, y=x+3 According to the second condition, y=2(x-2)   by solving the above two equations, you will get x=7 and y=10   So, there are seven trees and ten horses. 

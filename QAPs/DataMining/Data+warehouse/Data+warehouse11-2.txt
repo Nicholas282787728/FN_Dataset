@@ -1,0 +1,2 @@
+★What is the difference between a database and data warehouse?Why should I have a separate database and data warehouse?
+Here's an interesting article from Health Catalyst that discusses data warehousing as it applies to the healthcare industry. It speaks to organizations that have a database that would be better served by employing a functioning data warehouse. Clinical Data Warehouse: Why You Need One    Embed Quote

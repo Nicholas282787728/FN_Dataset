@@ -1,0 +1,2 @@
+What is the best software for phylogenetic tree construction?
+I think PHYLIP is a great software package. It is free and open-source. I am working on making a GUI for some of its components.. 

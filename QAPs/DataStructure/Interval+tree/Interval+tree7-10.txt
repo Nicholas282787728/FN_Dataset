@@ -1,0 +1,2 @@
+What are the real world applications of some advanced data structures?
+Good source is CMU's class "Algorithms in the Real World". Slides etc. available at Algorithms in the "Real World" 

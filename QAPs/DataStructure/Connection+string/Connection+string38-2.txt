@@ -1,0 +1,2 @@
+What are some examples of domain specific languages?Such as CSound for example.
+Makefiles, as well as it's newer generation counterparts Ant, Rake, etc. HTML, Postscript, PDF, TeX Database connection strings A REST-style API built around URLs, e.g. Twitter Simula, the predecessor of OOP, is arguably a DSL before OOP became a general purpose way of representing programs Protocols such as SMTP are arguably DSLs 

@@ -1,0 +1,2 @@
+★What are the proofs that the IQ curves follow a normal distribution?
+There is this interesting tendency of social phenomena to follow a power law while natural phenomena to follow a normal distribution. Based on that we should expect IQ scores to be a power law.    Embed Quote

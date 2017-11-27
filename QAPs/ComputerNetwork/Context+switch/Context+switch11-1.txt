@@ -1,0 +1,2 @@
+★What's the difference between a context switch, a process switch and a thread switch in Linux?
+Tony Li's answer gives a good overview of the differences. Context switch is a somewhat informal term to describe switching from one context to another. It could be switching from thread to thread, process to process or even VM to VM. If you want to know the internals, I suggest reading the Section 3.3. of  Understanding the Linux Kernel. Also, see Context switch internals on StackOverflow.

@@ -1,0 +1,2 @@
+What approaches should one follow when solving a problem be it a puzzle, riddle, programming or a real life problem?Also what are the different ways (strategies or methodologies) to attack problems? Please provide an algorithmic approach. If multiple methods or strategies  exists depending on different scenarios then mention them as well. Also it'll be helpful if one can give examples on how to apply it to a problem.
+Here is Calvin's answer to that! 

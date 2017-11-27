@@ -1,0 +1,2 @@
+★What problems in biology involve the collection and analysis of multi-terabyte data sets?
+Pretty much most modern large scale genomic analyses using next-gen sequencing will be in the multi-TB range (I've seen 200 TB data sets).  Some of the largest microarray datasets start pushing TBs as well, especially for GWAS studies.  If I am not mistaken dbGAP is several TBs and the 1000 genomes project data is much greater than > 20 TB's and growing.    Embed Quote Updated 6 Nov, 2010. 335 views.

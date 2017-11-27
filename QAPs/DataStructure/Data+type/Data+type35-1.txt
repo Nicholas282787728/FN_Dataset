@@ -1,0 +1,2 @@
+Is array a data type or data structure?
+An array is stored so that the position of each element can be computed from its index tuple by a mathematical formula. The simplest type of data structure is a linear array, also called one-dimensional array. Hope it helps :) 743 Views · 1 Upvote

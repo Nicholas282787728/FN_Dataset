@@ -1,0 +1,2 @@
+★What can be an easy data set, and where can I find it for a dissertation on "Text Mining with Pig or Hive"?
+Social media should be ok. Shouldn't you first start with a question you want to answer?    Embed Quote

@@ -1,0 +1,2 @@
+What should every programmer know about hash tables and hash functions?
+There is a blog explaining internal math behind hash table. Numbers Programmers Should Know About Hash In short, the load factor(no. key / no. bucket) is very important in a hash table implementation. As far as I know a usually used load factor is 0.75. Higher than 0.75 makes collision rate increase very quickly. If load factor is 1 no. key == no. bucket, key distribution is like below, and 37%(1/e) buckets are empty. And following is how collision rate(red) changes as load factor increase.... (more)

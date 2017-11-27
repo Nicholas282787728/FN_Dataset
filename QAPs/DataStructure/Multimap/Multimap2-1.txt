@@ -1,0 +1,2 @@
+What do you replace STL with when working millions of items in a multimap?
+some distributed architecture? Map/Reduce? 

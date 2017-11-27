@@ -1,0 +1,1 @@
+What's the difference between array and pointer in C/C++?One major difference here i would like to highlight is that: You can assign NULL to a pointer but u cant assign NULL to an array; 

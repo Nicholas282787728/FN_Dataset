@@ -1,0 +1,2 @@
+What are the fields where big data analysis is used?
+The term Big data came to exist when the data growth exponentially increased and conventional database management tools or data processing tools become inefficient to handle those complex set of datas. The big data analysis is not used at any particular field,it can be used at any field where big set of structured or unstructured data results    Embed Quote 

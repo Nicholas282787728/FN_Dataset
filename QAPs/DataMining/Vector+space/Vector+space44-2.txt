@@ -1,0 +1,2 @@
+★Why is the matrix vector space written like R^(m×n)? For example, isn't a square 2x2 matrix really still contained in R^2?
+Consider how many degrees of freedom a 2x2 matrix has. There are four slots containing four numbers, each of which is independent of the other three. So the space of all 2x2 real matrices can be characterized by four real numbers; hence, you need .    Embed Quote

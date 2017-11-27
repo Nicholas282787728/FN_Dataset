@@ -1,0 +1,2 @@
+★Is it possible to install and use FreeBSD without FTP support?I have been curious to know if FreeBSD can be installed on a system that is behind a proxy that does not allow FTP ( but allows HTTP/HTTPS). Is it possible to install FreeBSD and install packages ? If yes how ?
+pkg_add retrieves packages from ftp.FreeBSD.org if invoked with "-r" switch. You may change the package sites by setting PACKAGEROOT environment variable to a mirror that supports HTTP. Assuming you are using csh shell: setenv PACKAGEROOT http://ftp.uk.freebsd.org/ pkg_add -r vim-lite

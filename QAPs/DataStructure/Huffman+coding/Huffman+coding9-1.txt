@@ -1,0 +1,2 @@
+What is the relationship between a Huffman code and the Fibonacci series?
+At first I thought nothing. But after poking around the internet I found this. And the general consensus of the internet being, “You will find that the worst case for lengths of Huffman codes are reached when the input counts follow a Fibonacci sequence.” Never thought about it much myself so I gave it a go and made a tree from a Fibonacci sequence. It was the most unbalanced tree possible. 188 Views · 1 Upvote · Answer requested by Ran Dvir

@@ -1,0 +1,2 @@
+Are questions on suffix trees common in programming interviews?
+Hello !!! Yes they are. On a more important note you must know them irrespective of whether they will be asked in interviews or not.. 

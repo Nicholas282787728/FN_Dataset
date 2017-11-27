@@ -1,0 +1,2 @@
+Is "hello world" a string or strings?
+It is a string. More precisely, a string of characters. Think of it as a list or array of characters. A string (of characters) contains many characters in a particular order. "Hello world" (a string) represented as a list of characters would look like this: ['H', 'e', 'l', 'l', 'o', ' ', 'w', 'o', 'r', 'l', 'd'] 

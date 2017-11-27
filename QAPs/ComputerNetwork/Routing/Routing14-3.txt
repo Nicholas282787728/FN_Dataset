@@ -1,0 +1,2 @@
+★What are network routing protocols?
+A network routing protocol is simply a technique or an algorithm which is used to determine how a packet gets across from its source to a destination. This algorithm might be simultaneously implemented on all intermediate nodes in the network to facilitate the transfer of packet from source to destination.    Embed Quote

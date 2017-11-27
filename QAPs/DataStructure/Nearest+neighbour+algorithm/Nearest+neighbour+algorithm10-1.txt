@@ -1,0 +1,2 @@
+What is the simplest artificial intelligence pseudocode algorithm?
+I'd say knn and A*. The fantastic fact about knn is that its performance has been shown to be half of the optimal bayesian decisiin. That means that half of all the information you need for optimal classification of a test data, liws in only 1 training sample (the nearest neighbor). 

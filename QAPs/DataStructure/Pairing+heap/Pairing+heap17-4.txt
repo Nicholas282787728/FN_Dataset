@@ -1,0 +1,2 @@
+What is an interesting data structure for programming that most programmers haven't heard of?
+Rope (data structure) maybe. It is even available at C++ SGI STL (rope<T, Alloc>). 

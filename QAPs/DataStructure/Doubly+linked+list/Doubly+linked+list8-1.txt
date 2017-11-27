@@ -1,0 +1,2 @@
+What is the advantage of converting a given binary tree to a doubly-linked list?
+A doubly-linked list is an appropriate data structure for a deque (double-ended queue). Of course, in all my years of programming, I don't think I've ever actually needed to use a deque. And I certainly wouldn't have started with a binary tree and then converted it to a deque. 

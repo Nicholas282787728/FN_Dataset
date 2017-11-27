@@ -1,0 +1,2 @@
+★Can you use a VPN on an iPhone or iPad?
+If your asking if it connects to VPN's then yes but depends on the VPN product, Cisco is built in and if you use Juniper then there is the Juniper Pulse app (free) both I have used and worked really well.    Embed Quote

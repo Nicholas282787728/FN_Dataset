@@ -1,0 +1,2 @@
+What does the following statement mean in Scala?
+Well, for starters you just defined a self-recursive function (basically a recursion) The return type "Int" is inconsequential to this, that is, i can also write "def x : {} = x " which is also a self-recursive function. This issue is documented in Warning for trivial infinite looping method definition This also applies to self-recursive variables i.e. "var x : Int = x" or "var x : {} = x" where the former is initialized to 0 and the latter is a reference i.e. null (follow's Scala initialization rules) 

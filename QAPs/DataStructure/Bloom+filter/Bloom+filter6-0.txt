@@ -1,0 +1,2 @@
+Why do bloom filters have multiple hash functions?
+It's basically to reduce the chance of false positives, which is a possibility in probabilistic data structures such as Bloom Filter. If you have more hash functions, there is less chance that different inputs will correspond to exactly similar sequence of hashed values. 

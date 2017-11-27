@@ -1,0 +1,2 @@
+★What problems are expected to arise if we shift from IPv4 to IPv6  completely ?
+There are going to be plenty of devices that are hardcoded to only understand IPv4. These will all have issues. I personally think it'll be a very very long time before IPv4 goes away, even if we start the transition today due to all the legacy devices.

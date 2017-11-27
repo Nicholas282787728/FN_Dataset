@@ -1,0 +1,2 @@
+What happens when a non existant key is fed to a Perfect Hash Function? What can be done to detect such non existant keys?
+Bloom filters can efficiently tell if a key is *not* in a set. 

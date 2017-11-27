@@ -1,0 +1,2 @@
+★Which is best for a corporate intranet, WordPress, MediaWiki, or Open Atrium?
+MediaWiki is very good but requires someone knowledgeable to build templates for the real end users because otherwise it is a bit too technical. I don't know WordPress and Open Atrium.

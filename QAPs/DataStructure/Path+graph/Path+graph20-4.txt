@@ -1,0 +1,2 @@
+What is an algorithm to find a longest path in a unweighted directed acyclic graph?
+replacing the edge weights with  ((LCM of all edges)/(weight  of  the  edge))  makes the longest edge as smallest and smallest edge as longest. The whole increasing order of edge weights now gets inverted. Now you can you use the shortest path algorithms and find the shortest paths. The shortest path you have got is actually your longest path! Now again taking the LCM of edges / weight of edge gives you back the edges you started with. 

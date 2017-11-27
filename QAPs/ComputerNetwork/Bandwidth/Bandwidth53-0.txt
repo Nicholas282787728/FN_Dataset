@@ -1,0 +1,2 @@
+★What is the minimum bandwidth needed to be considered "broadband"?
+I believe the definition used by ITU and others when they describe statistics (eg "broadband penetration") is 2Mbps. This can be (normally will be) contended (shared) I know in the past some people used other definitions (eg for a while UK govt used 512Kbps in order to make its numbers look better) but afaik 2Mbps is now pretty consistent.

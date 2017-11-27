@@ -1,0 +1,2 @@
+★What are the weaknesses of gradient descent?
+It is freaking slow and requires manual parameter tuning. See Extreme learning machines for a good alternative in the context of training neural networks    Embed Quote

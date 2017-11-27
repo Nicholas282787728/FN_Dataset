@@ -1,0 +1,1 @@
+How are arrays reversed in Java?I would use the following, given an array ‘a’: Collections.reverse(Arrays.asList(a)); Note that you have to import java.util.Collections. (import java.util.Collections;) 5 Views

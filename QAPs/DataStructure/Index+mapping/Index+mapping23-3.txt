@@ -1,0 +1,1 @@
+If I add a document to Elasticseach index, and the document has one more field than the mapping defined for the index, what would happen?

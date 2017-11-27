@@ -1,0 +1,1 @@
+Can you resize a basic array?In short: no. You can reuse the variable name to declare a new array of a new length. I would recommend using an ArrayList. It is a list, so you can add to it and take away from it all you want to. 28 Views  View Upvotes

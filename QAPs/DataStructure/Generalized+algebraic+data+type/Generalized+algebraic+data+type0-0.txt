@@ -1,0 +1,1 @@
+What are some uses of generalized algebraic data types (GADTs)? GADT gives stronger type guarantees than regular ADT. I have written a small code for nonempty list in Ocaml. You can see that hdd function does not complain about Empty constructor, because type system guarantees that it is nonempty list.

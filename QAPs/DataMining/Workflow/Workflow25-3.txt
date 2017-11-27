@@ -1,0 +1,2 @@
+★What are existing software systems for managing workflows?
+Take a look at http://casual.pm/ Casual helps visualize and manage simple workflows.    Embed Quote

@@ -1,0 +1,2 @@
+I'm ready to solve about 500-1000 problems. But I'm confused about the online judge. I know basic algorithms but I want to master them. Which website should be the best?
+There are few good Online Judges like 1. Sphere Online Judge (SPOJ) 2. Codechef 3. Codeforces 4. UVa Online Judge 5. A2 Online Judge You can choose any one and start practicing . 

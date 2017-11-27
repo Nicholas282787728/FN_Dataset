@@ -1,0 +1,2 @@
+Does Swift overcome the limitations of Objective-C?Syntax and readability aside. Instead: how it compiles and performs.
+As far as I am aware, Objective-C has essentially no limitations, only drawbacks or inelegant syntax. 

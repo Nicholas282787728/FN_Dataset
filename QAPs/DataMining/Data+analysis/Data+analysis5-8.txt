@@ -1,0 +1,2 @@
+How do I learn data analysis for Python?
+One thing missing from your question is your experience with data analysis. How's your general math, statistics, and analytical skill set? Knowing how to code is a small part of being a good data analyst. If you're lacking in general math, stats, analytical skills, then take a step back and work on this core skill set development. Of course, if you've god mad data analysis skills, then skip to any of these great answers.    Embed Quote 

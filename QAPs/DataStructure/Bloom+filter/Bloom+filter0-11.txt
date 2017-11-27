@@ -1,0 +1,2 @@
+What are the best applications of Bloom filters?
+Bloom filters have found recent application is embedded systems sensor networks and Internet of Things, especially motes to test for whether a mote can communicate to another mote in the same Ad-hoc network. This is being used by militaries across the globe to set up remote monitoring networks as well as space agencies like NASA and ISRO. 

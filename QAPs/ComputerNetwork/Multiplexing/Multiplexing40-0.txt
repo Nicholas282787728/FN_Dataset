@@ -1,0 +1,2 @@
+★How is multiplexing and demultiplexing of signals done in telephone exchanges?
+A time division multiplexing -the PCM( Pulse Code Modulation)  system is used.  For e.g, a system with 24 channel frame accommodates 24 independent input channels from different users. The digitized voice data is placed in respective channels during a particular time slot. DeMuxing is in the opposite way.    Embed Quote

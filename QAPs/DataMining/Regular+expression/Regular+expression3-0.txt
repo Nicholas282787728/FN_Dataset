@@ -1,0 +1,44 @@
+★How does 'grep' preprocess a text file for efficient regular expression matching?
+I don't think grep does any preprocessing of the input file; it certainly doesn't have to, regular expression matching is pretty efficient as it is. Instead of sifting through all the world's different grep implementations looking for evidence of preprocessing that probably isn't there, though, I will argue this with a small experiment for illustration, because I think it's more fun than just saying that expression matching works in linear time. We can try matching a regular expression without grep, so just grab a copy of the collected works of Shakespeare: 1
+2
+ # I'm going to do everything in a somewhat UNIX-y way throughout % wget http://www.gutenberg.org/ebooks/100.txt.utf-8 According to Words Shakespeare Invented, The Bard came up with the words "lonely" and "lower", so let us match the regular expression 'lo(nely|wer)', and find out how often they occur in there. Regular expressions have a correspondence with deterministic finite automata, so we can draw the expression as a graph of its automaton: The idea is that you start in a numbered state (1), read a character, move to the next state if an arc is labelled with what you read, and repeat the procedure. Implicitly, there should be a bunch of arcs from states 2-8 going back to the start state (labelled with "anything else"), but we can leave those out of the figure for the sake of clarity, and remember them. Similarly, let's quietly add a state 0 with an arc from 0 to 1 that is taken when there's a blank space, so that we actually make it the regular expression ' lo(nely|wer)'. The reason to do so is that 'lower' appears in 'flower', 'follower', and other places, so putting a space in is to narrow the search, and not drawing it in the figure is because I have a hard time making an obvious drawing of a space character. It's a slightly broken way to get space-separated words, but it's simple, and you can surely work out the changes in the graph to fix it up how you like anyway. A nice thing about graphs is that they can be written as tables, so if we take all the 256 values a character can have as columns, and make a row for each of our 10 states, the arcs can be written as the destination state in table entry (state, character). The algorithm for matching text, then, becomes a matter of storing which state we're in, reading a character, and changing state according to the table. Here's our regular expression in C, I've hard-coded the table for the expression, since this is just an illustration:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+ #include <stdio.h> #include <string.h> char table[10][256]; void setup_table ( void ) {     /* Start with everything has arcs to state 0 */     memset ( table, 0, 10*256 );     /* Add the arcs from our automaton */     table[0][' '] = 1;     table[1]['l'] = 2;     table[2]['o'] = 3;     table[3]['n'] = 4;     table[3]['w'] = 7;     table[4]['e'] = 5;     table[5]['l'] = 6;     table[6]['y'] = 9;     table[7]['e'] = 8;     table[8]['r'] = 9; } int main ( ) {     int state = 0, character;     setup_table();     while ( !feof(stdin) )     {         /* Match text */         character = getchar();         state = table[state][character];         /* Recognize if we've reached a complete match */         if ( state == 9 )         {             printf ( "Hooray, we found one!\n" );             state = 0;         }... (more)Loading...

@@ -1,0 +1,2 @@
+★What are the non commercial uses of virtual private networks?
+They let you use streaming services no matter what country you are in at the time - the service thinks you're wherever the VPN server is They can be used to provide anonymity They let you secure traffic that would otherwise be unsecured without having to deal with certificates. Maybe remote access to your home network.    Embed Quote
