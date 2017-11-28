@@ -1,0 +1,3 @@
+Lafferty, McCallum and Pereira[1] define a CRF on observations and random variables as follows:
+Let be a graph such that , so that is indexed by the vertices of . Then is a conditional random field when the random variables , conditioned on , obey the Markov property with respect to the graph: , where means that and are neighbors in .
+What this means is that a CRF is a undirected graphical model whose nodes can be divided into exactly two disjoint sets and , the observed and output variables, respectively; the conditional distribution is then modeled.

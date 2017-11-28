@@ -1,0 +1,3 @@
+There are many algorithms for processing strings, each with various trade-offs. Some categories of algorithms include:
+String searching algorithms for finding a given substring or pattern String manipulation algorithms Sorting algorithms Regular expression algorithms Parsing a string Sequence mining
+Advanced string algorithms often employ complex mechanisms and data structures, among them suffix trees and finite state machines.

@@ -1,0 +1,5 @@
+Given subspaces U and W of a vector space V, then their intersection U �?#160;W := {v �?#160;V : v is an element of both U and W} is also a subspace of V.
+Proof:
+Let v and w be elements of U �?#160;W. Then v and w belong to both U and W. Because U is a subspace, then v + w belongs to U. Similarly, since W is a subspace, then v + w belongs to W. Thus, v + w belongs to U �?#160;W. Let v belong to U �?#160;W, and let c be a scalar. Then v belongs to both U and W. Since U and W are subspaces, cv belongs to both U and W. Since U and W are vector spaces, then 0 belongs to both sets. Thus, 0 belongs to U �?#160;W.
+For every vector space V, the set {0} and V itself are subspaces of V.
+If V is an inner product space, then the orthogonal complement of any subspace of V is again a subspace.

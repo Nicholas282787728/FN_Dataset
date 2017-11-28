@@ -1,0 +1,5 @@
+The pseudo code was given in a sequential form, but Yang and Deb provides a vectorized implementation which is very efficient.[10] In the real world, if a cuckoo's egg is very similar to a host's eggs, then this cuckoo's egg is less likely to be discovered, thus the fitness should be related to the difference in solutions. Therefore, it is a good idea to do a random walk in a biased way with some random step sizes. For Matlab implementation, this biased random walk can partly be achieved by
+stepsize=rand*(nest(randperm(n),:)-nest(randperm(n),:)); new_nest=nest+stepsize.*K;
+where K=rand(size(nest))>pa and pa is the discovery rate. A standard CS matlab can be found here http://www.mathworks.com/matlabcentral/fileexchange/29809-cuckoo-search-cs-algorithm[11]
+An object-oriented software implementation of cuckoo search was provided by Bacanin[12] On the other hand, a modified cuckoo search algorithm is also implemented for unconstrained optimization problems.[13]
+An open source implementation of Modified Cuckoo Search can be found here http://code.google.com/p/modified-cs/

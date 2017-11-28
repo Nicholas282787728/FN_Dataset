@@ -1,0 +1,1 @@
+Double hashing is a computer programming technique used in hash tables to resolve hash collisions, in cases when two different values to be searched for produce the same hash key. It is a popular collision-resolution technique in open-addressed hash tables. Double hashing is implemented in many popular libraries.

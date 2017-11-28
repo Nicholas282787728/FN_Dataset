@@ -1,0 +1,7 @@
+Many different semiparametric regression methods have been proposed and developed. The most popular methods are the partially linear, index and varying coefficient models.
+Although the parameters of a regression model are usually estimated using the method of least squares, other methods which have been used include:
+Bayesian methods, e.g. Bayesian linear regression Percentage regression, for situations where reducing percentage errors is deemed more appropriate.[21] Least absolute deviations, which is more robust in the presence of outliers, leading to quantile regression Nonparametric regression, requires a large number of observations and is computationally intensive Distance metric learning, which is learned by the search of a meaningful distance metric in a given input space.[22]
+Comparison of the Theil–Sen estimator (black) and simple linear regression (blue) for a set of points with outliers.
+A large number of procedures have been developed for parameter estimation and inference in linear regression. These methods differ in computational simplicity of algorithms, presence of a closed-form solution, robustness with respect to heavy-tailed distributions, and theoretical assumptions needed to validate desirable statistical properties such as consistency and asymptotic efficiency.
+Some of the more common estimation techniques for linear regression are summarized below.
+Many different semiparametric regression methods have been proposed and developed. The most popular methods are the partially linear, index and varying coefficient models.

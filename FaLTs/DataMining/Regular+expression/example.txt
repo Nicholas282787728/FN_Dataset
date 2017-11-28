@@ -1,0 +1,14 @@
+The specific syntax rules vary depending on the specific implementation, programming language, or library in use. Additionally, the functionality of regex implementations can vary between versions.
+
+Because regexes can be difficult to both explain and understand without examples, interactive web sites for testing regexes are a useful resource for learning regexes by experimentation. This section provides a basic description of some of the properties of regexes by way of illustration.
+
+The following conventions are used in the examples.[37]
+
+metacharacter(s) ;; the metacharacters column specifies the regex syntax being demonstrated
+=~ m//           ;; indicates a regex match operation in Perl
+=~ s///          ;; indicates a regex substitution operation in Perl
+Also worth noting is that these regexes are all Perl-like syntax. Standard POSIX regular expressions are different.
+
+Unless otherwise indicated, the following examples conform to the Perl programming language, release 5.8.8, January 31, 2006. This means that other implementations may lack support for some parts of the syntax shown here (e.g. basic vs. extended regex, \( \) vs. (), or lack of \d instead of POSIX [:digit:]).
+
+The syntax and conventions used in these examples coincide with that of other programming environments as well.[38]

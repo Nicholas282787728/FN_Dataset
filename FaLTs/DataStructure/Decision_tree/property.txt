@@ -1,0 +1,13 @@
+Among decision support tools, decision trees (and influence diagrams) have several advantages. Decision trees:
+
+    Are simple to understand and interpret. People are able to understand decision tree models after a brief explanation.
+    Have value even with little hard data. Important insights can be generated based on experts describing a situation (its alternatives, probabilities, and costs) and their preferences for outcomes.
+    Allow the addition of new possible scenarios
+    Help determine worst, best and expected values for different scenarios
+    Use a white box model. If a given result is provided by a model.
+    Can be combined with other decision techniques.
+
+Disadvantages of decision trees:
+
+    For data including categorical variables with different number of levels, information gain in decision trees are biased in favor of those attributes with more levels.[5]
+    Calculations can get very complex particularly if many values are uncertain and/or if many outcomes are linked.

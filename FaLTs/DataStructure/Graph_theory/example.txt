@@ -1,0 +1,2 @@
+The network graph formed by Wikipedia editors (edges) contributing to different Wikipedia language versions (vertices) during one month in summer 2013[3]
+for example, to measure actors' prestige or to explore rumor spreading, notably through the use of social network analysis software. 

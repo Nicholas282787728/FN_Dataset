@@ -1,0 +1,3 @@
+Any toroidal graph has chromatic number at most 7.[3] The complete graph K7 provides an example of toroidal graph with chromatic number 7.[4]
+Any triangle-free toroidal graph has chromatic number at most 4.[5]
+By a result analogous to Fáry's theorem, any toroidal graph may be drawn with straight edges in a rectangle with periodic boundary conditions.[6] Furthermore, the analogue of Tutte's spring theorem applies in this case.[7] Toroidal graphs also have book embeddings with at most 7 pages.[8]

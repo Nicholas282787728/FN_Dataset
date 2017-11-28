@@ -1,0 +1,1 @@
+ADTrees were introduced by Yoav Freund and Llew Mason.[1] However, the algorithm as presented had several typographical errors. Clarifications and optimizations were later presented by Bernhard Pfahringer, Geoffrey Holmes and Richard Kirkby.[2] Implementations are available in Weka and JBoost.

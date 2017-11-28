@@ -1,0 +1,6 @@
+Feature selection techniques are used for four reasons:
+
+simplification of models to make them easier to interpret by researchers/users,[1]
+shorter training times,
+to avoid the curse of dimensionality,
+enhanced generalization by reducing overfitting[2] (formally, reduction of variance[1])

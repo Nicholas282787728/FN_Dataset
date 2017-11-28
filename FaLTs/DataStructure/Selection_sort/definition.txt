@@ -1,0 +1,1 @@
+selection sort is a sorting algorithm, specifically an in-place comparison sort.

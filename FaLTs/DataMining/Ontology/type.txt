@@ -1,0 +1,6 @@
+Philosophers can classify ontologies in various ways, using criteria such as the degree of abstraction and field of application:[8]
+
+Upper ontology: concepts supporting development of an ontology, meta-ontology
+Domain ontology: concepts relevant to a particular topic or area of interest, for example, to information technology or to computer languages, or to particular branches of science
+Interface ontology: concepts relevant to the juncture of two disciplines
+Process ontology: inputs, outputs, constraints, sequencing information, involved in business or engineering processes

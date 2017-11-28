@@ -1,0 +1,1 @@
+The canonical examples of array programming languages are APL, J, and Fortran. Others include: D, A+, Analytica, Chapel, IDL, Julia, K, Q, Mata, Mathematica, MATLAB, MOLSF, NumPy, GNU Octave, PDL, R, S-Lang, SAC, Nial and ZPL.

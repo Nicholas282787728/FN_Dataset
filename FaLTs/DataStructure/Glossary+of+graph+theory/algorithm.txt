@@ -1,0 +1,11 @@
+This is a list of graph algorithms with links to references and implementations.
+The graph libraries included are igraph, NetworkX, and Boost Graph Library.
+Algorithms
+
+    Bellman–Ford algorithm
+    Dijkstra's algorithm
+    Ford–Fulkerson algorithm
+    Kruskal's algorithm
+    Nearest neighbour algorithm
+    Prim's algorithm
+    Depth-first search

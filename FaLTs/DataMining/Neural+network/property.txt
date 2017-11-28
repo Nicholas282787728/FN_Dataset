@@ -1,0 +1,35 @@
+Using ANNs requires an understanding of their characteristics.
+
+Choice of model: This depends on the data representation and the application. Overly complex models slow learning.
+Learning algorithm: Numerous trade-offs exist between learning algorithms. Almost any algorithm will work well with the correct hyperparameters for training on a particular data set. However, selecting and tuning an algorithm for training on unseen data requires significant experimentation.
+Robustness: If the model, cost function and learning algorithm are selected appropriately, the resulting ANN can become robust.
+ANN capabilities fall within the following broad categories:[citation needed]
+
+Function approximation, or regression analysis, including time series prediction, fitness approximation and modeling.
+Classification, including pattern and sequence recognition, novelty detection and sequential decision making.
+Data processing, including filtering, clustering, blind source separation and compression.
+Robotics, including directing manipulators and prostheses.
+Control, including computer numerical control.
+Computational power[edit]
+The multilayer perceptron is a universal function approximator, as proven by the universal approximation theorem. However, the proof is not constructive regarding the number of neurons required, the network topology, the weights and the learning parameters.
+
+A specific recurrent architecture with rational valued weights (as opposed to full precision real number-valued weights) has the full power of a universal Turing machine,[213] using a finite number of neurons and standard linear connections. Further, the use of irrational values for weights results in a machine with super-Turing power.[214]
+
+Capacity[edit]
+Models' "capacity" property roughly corresponds to their ability to model any given function. It is related to the amount of information that can be stored in the network and to the notion of complexity.[citation needed]
+
+Convergence[edit]
+Models may not consistently converge on a single solution, firstly because many local minima may exist, depending on the cost function and the model. Secondly, the optimization method used might not guarantee to converge when it begins far from any local minimum. Thirdly, for sufficiently large data or parameters, some methods become impractical.
+
+Generalization and statistics[edit]
+Applications whose goal is to create a system that generalizes well to unseen examples, face the possibility of over-training. This arises in convoluted or over-specified systems when the capacity of the network significantly exceeds the needed free parameters. Two approaches address over-training. The first is to use cross-validation and similar techniques to check for the presence of over-training and optimally select hyperparameters to minimize the generalization error. The second is to use some form of regularization. This concept emerges in a probabilistic (Bayesian) framework, where regularization can be performed by selecting a larger prior probability over simpler models; but also in statistical learning theory, where the goal is to minimize over two quantities: the 'empirical risk' and the 'structural risk', which roughly corresponds to the error over the training set and the predicted error in unseen data due to overfitting.
+
+
+Confidence analysis of a neural network
+Supervised neural networks that use a mean squared error (MSE) cost function can use formal statistical methods to determine the confidence of the trained model. The MSE on a validation set can be used as an estimate for variance. This value can then be used to calculate the confidence interval of the output of the network, assuming a normal distribution. A confidence analysis made this way is statistically valid as long as the output probability distribution stays the same and the network is not modified.
+
+By assigning a softmax activation function, a generalization of the logistic function, on the output layer of the neural network (or a softmax component in a component-based neural network) for categorical target variables, the outputs can be interpreted as posterior probabilities. This is very useful in classification as it gives a certainty measure on classifications.
+
+The softmax activation function is:
+
+{\displaystyle y_{i}={\frac {e^{x_{i}}}{\sum _{j=1}^{c}e^{x_{j}}}}} y_{i}={\frac {e^{x_{i}}}{\sum _{j=1}^{c}e^{x_{j}}}}

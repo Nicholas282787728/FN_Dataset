@@ -1,0 +1,136 @@
+Training a neural network model essentially means selecting one model from the set of allowed models (or, in a Bayesian framework, determining a distribution over the set of allowed models) that minimizes the cost criterion. There are numerous algorithms available for training neural network models; most of them can be viewed as a straightforward application of optimization theory and statistical estimation.
+Most of the algorithms used in training artificial neural networks employ some form of gradient descent. This is done by simply taking the derivative of the cost function with respect to the network parameters and then changing those parameters in a gradient-related direction.
+Evolutionary methods,[3] gene expression programming,[4] simulated annealing,[5] expectation-maximization, non-parametric methods and particle swarm optimization[6] are some commonly used methods for training neural networks.
+See also: machine learning
+Machine learning algorithms can be organized into a taxonomy based on the desired outcome of the algorithm or the type of input available during training the machine.
+Supervised learning generates a function that maps inputs to desired outputs (also called labels, because they are often provided by human experts labeling the training examples). For example, in a classification problem, the learner approximates a function mapping a vector into classes by looking at input-output examples of the function. Unsupervised learning models a set of inputs, like clustering. See also data mining and knowledge discovery. Here, labels are not known during training. Semi-supervised learning combines both labeled and unlabeled examples to generate an appropriate function or classifier. Transduction, or transductive inference, tries to predict new outputs on specific and fixed (test) cases from observed, specific (training) cases. Reinforcement learning learns how to act given an observation of the world. Every action has some impact in the environment, and the environment provides feedback in the form of rewards that guides the learning algorithm. Learning to learn learns its own inductive bias based on previous experience.
+Below is an example of a learning algorithm for a (single-layer) perceptron. For multilayer perceptrons, where a hidden layer exists, more complicated algorithms such as backpropagation must be used. Alternatively, methods such as the delta rule can be used if the function is non-linear and differentiable, although the one below will work as well.
+When multiple perceptrons are combined in an artificial neural network, each output neuron operates independently of all the others; thus, learning each output can be considered in isolation.
+We first define some variables:
+denotes the output from the perceptron for an input vector . is the bias term, which in the example below we take to be 0. is the training set of samples, where: is the -dimensional input vector. is the desired output value of the perceptron for that input.
+We show the values of the nodes as follows:
+is the value of the th node of the th training input vector. .
+To represent the weights:
+is the th value in the weight vector, to be multiplied by the value of the th input node.
+An extra dimension, with index , can be added to all input vectors, with , in which case replaces the bias term. To show the time-dependence of , we use:
+is the weight at time . is the learning rate, where .
+Too high a learning rate makes the perceptron periodically oscillate around the solution unless additional steps are taken.
+The appropriate weights are applied to the inputs, and the resulting weighted sum passed to a function that produces the output y.
+Given:
+training set: where number of iterations
+Initialize
+For :
+From the family of weak classifiers �? find the classifier that maximizes the absolute value of the difference of the corresponding weighted error rate and 0.5 with respect to the distribution :
+
+where .
+I is the indicator function.
+If , where is a previously chosen threshold, then stop. Choose , typically . Update:
+
+where is the normalization factor:
+
+which ensures that will be a probability distribution (i.e., the sum over all x equals one)
+Output the final classifier:
+
+Note that the equation to update the distribution is constructed so that:
+
+Thus, after selecting an optimal classifier for the distribution , the examples that the classifier identified correctly are weighted less and those that it identified incorrectly are weighted more. Therefore, when the algorithm is testing the classifiers on the distribution , it will select a classifier that better identifies those examples that the previous classifier missed.
+The inputs to the alternating decision tree algorithm are:
+A set of inputs where is a vector of attributes and is either -1 or 1. Inputs are also called instances. A set of weights corresponding to each instance.
+The fundamental element of the ADTree algorithm is the rule. A single rule consists of a precondition, a condition, and two scores. A condition is a predicate of the form "attribute <comparison> value." A precondition is simply a logical conjunction of conditions. Evaluation of a rule involves a pair of nested if statements:
+1  if(precondition)
+2      if(condition)
+3          return score_one
+4      else
+5          return score_two
+6      end if
+7  else
+8      return 0
+9  end if
+Several auxiliary functions are also required by the algorithm:
+returns the sum of the weights of all positively labeled examples that satisfy predicate returns the sum of the weights of all negatively labeled examples that satisfy predicate returns the sum of the weights of all examples that satisfy predicate
+The algorithm is as follows:
+1  function ad_tree
+2  input Set of  training instances
+3 
+4   for all 
+5  
+6   a rule with scores  and , precondition "true" and condition "true."
+7   
+8   the set of all possible conditions
+9  for
+10       get values that minimize 
+11      
+12      
+13      
+14       new rule with precondition , condition , and weights  and 
+15      
+16  end for
+17  return set of
+The set grows by two preconditions in each iteration, and it is possible to derive the tree structure of a set of rules by making note of the precondition that is used in each successive rule.
+Training a neural network model essentially means selecting one model from the set of allowed models (or, in a Bayesian framework, determining a distribution over the set of allowed models) that minimizes the cost criterion. There are numerous algorithms available for training neural network models; most of them can be viewed as a straightforward application of optimization theory and statistical estimation.
+Most of the algorithms used in training artificial neural networks employ some form of gradient descent. This is done by simply taking the derivative of the cost function with respect to the network parameters and then changing those parameters in a gradient-related direction.
+Evolutionary methods,[3] gene expression programming,[4] simulated annealing,[5] expectation-maximization, non-parametric methods and particle swarm optimization[6] are some commonly used methods for training neural networks.
+See also: machine learning
+Clustering algorithms can be categorized based on their cluster model, as listed above. The following overview will only list the most prominent examples of clustering algorithms, as there are probably a few dozen (if not over 100) published clustering algorithms. Not all provide models for their clusters and can thus not easily be categorized. An overview of algorithms explained in Wikipedia can be found in the list of statistics algorithms.
+A fair number of algorithms have been proposed for conceptual clustering. Some examples are given below:
+CLUSTER/2 (Michalski & Stepp 1983) COBWEB (Fisher 1987) CYRUS (Kolodner 1983) GALOIS (Carpineto & Romano 1993), GCF (Talavera & Béjar 2001) INC (Hadzikadic & Yun 1989) ITERATE (Biswas, Weinberg & Fisher 1998), LABYRINTH (Thompson & Langley 1989) SUBDUE (Jonyer, Cook & Holder 2001). UNIMEM (Lebowitz 1987) WITT (Hanson & Bauer 1989),
+More general discussions and reviews of conceptual clustering can be found in the following publications:
+Michalski (1980) Gennari, Langley, & Fisher (1989) Fisher & Pazzani (1991) Fisher & Langley (1986) Stepp & Michalski (1986)
+Bansal et al.[3] discuss the NP-completeness proof and also present both a constant factor approximation algorithm and polynomial-time approximation scheme to find the clusters in this setting. Ailon et al.[4] propose a randomized 3-approximation algorithm for the same problem.
+CC-Pivot(G=(V,E+,E-))
+Pick random pivot i �?V
+   Set , V'=Ø
+   For all j �?V, j �?i;
+       If (i,j) �?E+ then
+            Add j to C
+       Else (If (i,j) �?E-)
+            Add j to V'
+   Let G' be the subgraph induced by V'
+   Return clustering C,CC-Pivot(G')
+The authors show that the above algorithm is a 3-approximation algorithm for correlation clustering.
+Evolutionary algorithms have been used to avoid local optimal decisions and search the decision tree space with little a priori bias.[17][18]
+Similar techniques differ in the implementation details and the nature of the particular applied problem.
+Genetic algorithm - This is the most popular type of EA. One seeks the solution of a problem in the form of strings of numbers (traditionally binary, although the best representations are usually those that reflect something about the problem being solved), by applying operators such as recombination and mutation (sometimes one, sometimes both). This type of EA is often used in optimization problems. Genetic programming - Here the solutions are in the form of computer programs, and their fitness is determined by their ability to solve a computational problem. Evolutionary programming - Similar to genetic programming, but the structure of the program is fixed and its numerical parameters are allowed to evolve. Gene expression programming - Like genetic programming, GEP also evolves computer programs but it explores a genotype-phenotype system, where computer programs of different sizes are encoded in linear chromosomes of fixed length. Evolution strategy - Works with vectors of real numbers as representations of solutions, and typically uses self-adaptive mutation rates. Memetic algorithm - It is the hybrid form of population based methods. Inspired by the both Darwinian principles of natural evolution and Dawkins�?notion of a meme and viewed as a form of population-based algorithm coupled with individual learning procedures capable of performing local refinements. The focus of the research study is thus to balance been exploration and exploitation in the search. Differential evolution - Based on vector differences and is therefore primarily suited for numerical optimization problems. Neuroevolution - Similar to genetic programming but the genomes represent artificial neural networks by describing structure and connection weights. The genome encoding can be direct or indirect. Learning classifier system
+Generate the initial population of individuals randomly - first Generation Evaluate the fitness of each individual in that population Repeat on this generation until termination (time limit, sufficient fitness achieved, etc.): Select the best-fit individuals for reproduction - parents Breed new individuals through crossover and mutation operations to give birth to offspring Evaluate the individual fitness of new individuals Replace least-fit population with new individuals
+Main article: Evolutionary algorithm
+Evolutionary algorithms form a subset of evolutionary computation in that they generally only involve techniques implementing mechanisms inspired by biological evolution such as reproduction, mutation, recombination, natural selection and survival of the fittest. Candidate solutions to the optimization problem play the role of individuals in a population, and the cost function determines the environment within which the solutions "live" (see also fitness function). Evolution of the population then takes place after the repeated application of the above operators.
+In this process, there are two main forces that form the basis of evolutionary systems: Recombination and mutation create the necessary diversity and thereby facilitate novelty, while selection acts as a force increasing quality.
+Many aspects of such an evolutionary process are stochastic. Changed pieces of information due to recombination and mutation are randomly chosen. On the other hand, selection operators can be either deterministic, or stochastic. In the latter case, individuals with a higher fitness have a higher chance to be selected than individuals with a lower fitness, but typically even the weak individuals have a chance to become a parent or to survive.
+The approach is strongly related to density networks which use importance sampling and a multi-layer perceptron to form a non-linear latent variable model. In the GTM the latent space is a discrete grid of points which is assumed to be non-linearly projected into data space. A Gaussian noise assumption is then made in data space so that the model becomes a constrained mixture of Gaussians. Then the model's likelihood can be maximized by EM.
+In theory, an arbitrary nonlinear parametric deformation could be used. The optimal parameters could be found by gradient descent etc.
+The suggested approach to the nonlinear mapping is to use a radial basis function network (RBF) to create a nonlinear mapping between the latent space and the data space. The nodes of the RBF network then form a feature space and the nonlinear mapping can then be taken as a linear transform of this feature space. This approach has the advantage over the suggested density network approach that it can be optimised analytically.
+During training, a node receives a temporal sequence of spatial patterns as its input. The learning process consists of two stages:
+Spatial pooling identifies frequently observed patterns and memorizes them as coincidences. Patterns that are significantly similar to each other are treated as the same coincidence. A large number of possible input patterns are reduced to a manageable number of known coincidences. Temporal pooling partitions coincidences that are likely to follow each other in the training sequence into temporal groups. Each group of patterns represents a "cause" of the input pattern (or "name" in On Intelligence).
+During inference (recognition), the node calculates the set probabilities that a pattern belongs to each known coincidence. Then it calculates the probabilities that the input represents each temporal group. The set of probabilities assigned to the groups is called a node's "belief" about the input pattern. (In a simplified implementation, node's belief consists of only one winning group). This belief is the result of the inference that is passed to one or more "parent" nodes in the next higher level of the hierarchy.
+"Unexpected" patterns to the node do not have a dominant probability of belonging to any one temporal group, but have nearly equal probabilities of belonging to several of the groups. If sequences of patterns are similar to the training sequences, then the assigned probabilities to the groups will not change as often as patterns are received. The output of the node will not change as much, and a resolution in time is lost.
+In a more general scheme, the node's belief can be sent to the input of any node(s) in any level(s), but the connections between the nodes are still fixed. The higher-level node combines this output with the output from other child nodes thus forming its own input pattern.
+Since resolution in space and time is lost in each node as described above, beliefs formed by higher-level nodes represent an even larger range of space and time. This is meant to reflect the organization of the physical world as it is perceived by human brain. Larger concepts (e.g. causes, actions and objects) are perceived to change more slowly and consist of smaller concepts that change more quickly. Jeff Hawkins postulates that brains evolved this type of hierarchy to match, predict, and affect the organization of the external world.
+More details about the functioning of Zeta 1 HTM can be found in Numenta's old documentation.[1]
+Example of k-NN classification. The test sample (green circle) should be classified either to the first class of blue squares or to the second class of red triangles. If k = 3 (solid line circle) it is assigned to the second class because there are 2 triangles and only 1 square inside the inner circle. If k = 5 (dashed line circle) it is assigned to the first class (3 squares vs. 2 triangles inside the outer circle).
+The training examples are vectors in a multidimensional feature space, each with a class label. The training phase of the algorithm consists only of storing the feature vectors and class labels of the training samples.
+In the classification phase, k is a user-defined constant, and an unlabeled vector (a query or test point) is classified by assigning the label which is most frequent among the k training samples nearest to that query point.
+Usually Euclidean distance is used as the distance metric; however this is only applicable to continuous variables. In cases such as text classification, another metric such as the overlap metric (or Hamming distance) can be used. Often, the classification accuracy of "k"-NN can be improved significantly if the distance metric is learned with specialized algorithms such as Large Margin Nearest Neighbor or Neighbourhood components analysis.
+A drawback to the basic "majority voting" classification is that the classes with the more frequent examples tend to dominate the prediction of the new vector, as they tend to come up in the k nearest neighbors when the neighbors are computed due to their large number.[2] One way to overcome this problem is to weigh the classification taking into account the distance from the test point to each of its k nearest neighbors. Another way to overcome this drawback is possible by one level of abstraction in data representation. In this way, for example with a SOM , each node of SOM becomes a representative (cluster center) of a group of similar points, regardless of their density in the original training data set. Then, in the next step, instead of a direct KNN, one can apply the same procedure to the nodes of the trained SOM.
+KNN is a special case of a variable-bandwidth, kernel density "balloon" estimator with a uniform kernel.[3] [4]
+Large Margin Nearest Neighbors optimizes the matrix with the help of semidefinite programming. The objective is twofold: For every data point , the target neighbors should be close and the impostors should be far away. Figure 1 shows the effect of such an optimization on an illustrative example. The learned metric causes the input vector to be surrounded by training instances of the same class. If it was a test point, it would be classified correctly under the nearest neighbor rule.
+The first optimization goal is achieved by minimizing the average distance between instances and their target neighbors
+.
+The second goal is achieved by constraining impostors to be one unit further away than target neighbors (and therefore pushing them out of the local neighborhood of ). The resulting inequality constraint can be stated as:
+
+The margin of exactly one unit fixes the scale of the matrix . Any alternative choice would result in a rescaling of by a factor of .
+The final optimization problem becomes:
+
+Here the slack variables absorb the amount of violations of the impostor constraints. Their overall sum is minimized. The last constraint ensures that is positive semi-definite. The optimization problem is an instance of semidefinite programming (SDP). Although SDPs tend to suffer from high computational complexity, this particular SDP instance can be solved very efficiently due to the underlying geometric properties of the problem. In particular, most impostor constraints are naturally satisfied and do not need to be enforced during runtime. A particularly well suited solver technique is the working set method, which keeps a small set of constraints that are actively enforced and monitors the remaining (likely satisfied) constraints only occasionally to ensure correctness.
+Some of the more prominent manifold learning algorithms are listed below (in approximately chronological order). An algorithm may learn an internal model of the data, which can be used to map points unavailable at training time into the embedding in a process often called out-of-sample extension.
+Even if the issue of exploration is disregarded and even if the state was observable (which we assume from now on), the problem remains to find out which actions are good based on past experience.
+This article is in a list format that may be better presented using prose. You can help by converting this article to prose, if appropriate. Editing help is available. (May 2012)
+The most widely used classifiers are the neural network (multi-layer perceptron), support vector machines, k-nearest neighbours, Gaussian mixture model, Gaussian, naive Bayes, decision tree and RBF classifiers.[citation needed]
+Examples of classification algorithms include:
+Linear classifiers Fisher's linear discriminant Logistic regression Naive Bayes classifier Perceptron Support vector machines Least squares support vector machines Quadratic classifiers Kernel estimation k-nearest neighbor Boosting (meta-algorithm) Decision trees Random forests Neural networks Gene Expression Programming Bayesian networks Hidden Markov models Learning vector quantization Proaftn
+Given a set of training examples of the form , a learning algorithm seeks a function , where is the input space and is the output space. The function is an element of some space of possible functions , usually called the hypothesis space. It is sometimes convenient to represent using a scoring function such that is defined as returning the value that gives the highest score: . Let denote the space of scoring functions.
+Although and can be any space of functions, many learning algorithms are probabilistic models where takes the form of a conditional probability model , or takes the form of a joint probability model . For example, naive Bayes and linear discriminant analysis are joint probability models, whereas logistic regression is a conditional probability model.
+There are two basic approaches to choosing or : empirical risk minimization and structural risk minimization.[5] Empirical risk minimization seeks the function that best fits the training data. Structural risk minimize includes a penalty function that controls the bias/variance tradeoff.
+In both cases, it is assumed that the training set consists of a sample of independent and identically distributed pairs, . In order to measure how well a function fits the training data, a loss function is defined. For training example , the loss of predicting the value is .
+The risk of function is defined as the expected loss of . This can be estimated from the training data as
+.
+Transduction algorithms can be broadly divided into two categories: those that seek to assign discrete labels to unlabeled points, and those that seek to regress continuous labels for unlabeled points. Algorithms that seek to predict discrete labels tend to be derived by adding partial supervision to a clustering algorithm. These can be further subdivided into two categories: those that cluster by partitioning, and those that cluster by agglomerating. Algorithms that seek to predict continuous labels tend to be derived by adding partial supervision to a manifold learning algorithm.

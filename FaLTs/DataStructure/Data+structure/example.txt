@@ -1,0 +1,2 @@
+A hash table.
+ relational databases commonly use B-tree indexes for data retrieval,[3] while compiler implementations usually use hash tables to look up identifiers.

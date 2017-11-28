@@ -1,0 +1,7 @@
+In this table, n is the number of records to be sorted. The columns "Average" and "Worst" give the time complexity in each case, under the assumption that the length of each key is constant, and that therefore all comparisons, swaps, and other needed operations can proceed in constant time. "Memory" denotes the amount of auxiliary storage needed beyond that used by the list itself, under the same assumption. The run times and the memory requirements listed below should be understood to be inside big O notation, hence the base of the logarithms does not matter; the notation log2 n means (log n)2.
+These are all comparison sorts, and so cannot perform better than O(n log n) in the average or worst case.
+Theoretical computer scientists have detailed other sorting algorithms that provide better than O(n log n) time complexity assuming additional constraints, including:
+
+    Han's algorithm, a deterministic algorithm for sorting keys from a domain of finite size, taking O(n log log n) time and O(n) space.[14]
+    Thorup's algorithm, a randomized algorithm for sorting keys from a domain of finite size, taking O(n log log n) time and O(n) space.[15]
+    A randomized integer sorting algorithm taking O ( n log ⁡ log ⁡ n ) {\displaystyle O{\bigl (}n{\sqrt {\log \log n}}{\bigr )}} O{\bigl (}n{\sqrt {\log \log n}}{\bigr )} expected time and O(n) space.

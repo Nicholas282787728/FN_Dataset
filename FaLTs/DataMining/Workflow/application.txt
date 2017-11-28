@@ -1,0 +1,2 @@
+Main article: Workflow application
+Many software systems exist to support workflows in particular domains. Such systems manage tasks such as automatic routing, partially automated processing and integration between different functional software applications and hardware systems that contribute to the value-addition process underlying the workflow.

@@ -1,0 +1,12 @@
+By now there are several established techniques to design approximation algorithms. These include the following ones.
+
+Greedy algorithm
+Local search
+Enumeration and dynamic programming
+Solving a convex programming relaxation to get a fractional solution. Then converting this fractional solution into a feasible solution by some appropriate rounding. The popular relaxations include the following.
+Linear programming relaxations
+Semidefinite programming relaxations
+Primal-Dual Methods
+Dual Fitting
+Embedding the problem in some metric and then solving the problem on the metric. This is also known as metric embedding.
+Random sampling and the use of randomness in general in conjunction with the methods above.

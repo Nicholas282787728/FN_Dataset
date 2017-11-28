@@ -1,0 +1,1 @@
+Search functions are also evaluated on the basis of their complexity, or maximum theoretical run time. Binary search functions, for example, have a maximum complexity of O(log(n)), or logarithmic time. This means that the maximum number of operations needed to find the search target is a logarithmic function of the size of the search space.

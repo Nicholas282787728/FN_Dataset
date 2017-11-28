@@ -1,0 +1,14 @@
+List of applications and frameworks that use skip lists:
+
+    MemSQL uses skiplists as its prime indexing structure for its database technology.
+    Cyrus IMAP server offers a "skiplist" backend DB implementation (source file)
+    Lucene uses skip lists to search delta-encoded posting lists in logarithmic time.[citation needed]
+    QMap (up to Qt 4) template class of Qt that provides a dictionary.
+    Redis, an ANSI-C open-source persistent key/value store for Posix systems, uses skip lists in its implementation of ordered sets.[7]
+    nessDB, a very fast key-value embedded Database Storage Engine (Using log-structured-merge (LSM) trees), uses skip lists for its memtable.
+    skipdb is an open-source database format using ordered key/value pairs.
+    ConcurrentSkipListSet and ConcurrentSkipListMap in the Java 1.6 API.
+    Speed Tables are a fast key-value datastore for Tcl that use skiplists for indexes and lockless shared memory.
+    leveldb, a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values
+
+Skip lists are used for efficient statistical computations of running medians (also known as moving medians). Skip lists are also used in distributed applications (where the nodes represent physical computers, and pointers represent network connections) and for implementing highly scalable concurrent priority queues with less lock contention,[8] or even without locking,[9][10][11] as well as lockless concurrent dictionaries.[12] There are also several US patents for using skip lists to implement (lockless) priority queues and concurrent dictionaries.

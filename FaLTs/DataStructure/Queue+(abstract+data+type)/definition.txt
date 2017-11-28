@@ -1,0 +1,26 @@
+In the "imperative" view, which is closer to the philosophy of imperative programming languages, an abstract data structure is conceived as an entity that is mutable �?meaning that it may be in different states at different times. Some operations may change the state of the ADT; therefore, the order in which operations are evaluated is important, and the same operation on the same entities may have different effects if executed at different times �?just like the instructions of a computer, or the commands and procedures of an imperative language. To underscore this view, it is customary to say that the operations are executed or applied, rather than evaluated. The imperative style is often used when describing abstract algorithms. This is described by Donald E. Knuth and can be referenced from here The Art of Computer Programming.
+The abstract list type L with elements of some type E (a monomorphic list) is defined by the following functions:
+nil: () �?L cons: E × L �?L first: L �?E rest: L �?L
+with the axioms
+first (cons (e, l)) = e rest (cons (e, l)) = l
+for any element e and any list l. It is implicit that
+cons (e, l) �?l cons (e, l) �?e cons (e1, l1) = cons (e2, l2) if e1 = e2 and l1 = l2
+Note that first (nil ()) and rest (nil ()) are not defined.
+These axioms are equivalent to those of the abstract stack data type.
+In type theory, the above definition is more simply regarded as an inductive type defined in terms of constructors: nil and cons. In algebraic terms, this can be represented as the transformation 1 + E × L �?L. first and rest are then obtained by pattern matching on the cons constructor and separately handling the nil case.
+A stack is a basic computer science data structure and can be defined in an abstract, implementation-free manner, or it can be generally defined as a linear list of items in which all additions and deletion are restricted to one end that is Top.
+This is a VDM (Vienna Development Method) description of a stack:[4]
+Function signatures:
+init: -> Stack
+  push: N x Stack -> Stack
+  top: Stack -> (N U ERROR)
+  remove: Stack -> Stack
+  isempty: Stack -> Boolean
+(where N indicates an element (natural numbers in this case), and U indicates set union)
+Semantics:
+top(init()) = ERROR
+  top(push(i,s)) = i
+  remove(init()) = init()
+  remove(push(i, s)) = s
+  isempty(init()) = true
+  isempty(push(i, s)) = false

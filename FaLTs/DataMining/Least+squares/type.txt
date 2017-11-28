@@ -1,0 +1,36 @@
+Linear least squares[edit]
+Main article: Linear least squares
+A regression model is a linear one when the model comprises a linear combination of the parameters, i.e.,
+
+{\displaystyle f(x,\beta )=\sum _{j=1}^{m}\beta _{j}\phi _{j}(x),} f(x,\beta )=\sum _{{j=1}}^{m}\beta _{j}\phi _{j}(x),
+where the function {\displaystyle \phi _{j}} \phi _{j} is a function of {\displaystyle x} x.
+
+Letting
+
+{\displaystyle X_{ij}={\frac {\partial f(x_{i},{\boldsymbol {\beta }})}{\partial \beta _{j}}}=\phi _{j}(x_{i}),} X_{{ij}}={\frac  {\partial f(x_{i},{\boldsymbol  \beta })}{\partial \beta _{j}}}=\phi _{j}(x_{{i}}),
+we can then see that in that case the least square estimate (or estimator, in the context of a random sample), {\displaystyle {\boldsymbol {\beta }}}  \boldsymbol \beta is given by
+
+{\displaystyle {\boldsymbol {\hat {\beta }}}=(X^{T}X)^{-1}X^{T}{\boldsymbol {y}}.} {\displaystyle {\boldsymbol {\hat {\beta }}}=(X^{T}X)^{-1}X^{T}{\boldsymbol {y}}.}
+For a derivation of this estimate see Linear least squares (mathematics).
+
+Non-linear least squares[edit]
+Main article: Non-linear least squares
+There is, in some cases, a closed-form solution to a non-linear least squares problem ¨C but in general there is not. In the case of no closed-form solution, numerical algorithms are used to find the value of the parameters {\displaystyle \beta } \beta  that minimizes the objective. Most algorithms involve choosing initial values for the parameters. Then, the parameters are refined iteratively, that is, the values are obtained by successive approximation:
+
+{\displaystyle {\beta _{j}}^{k+1}={\beta _{j}}^{k}+\Delta \beta _{j},} {\beta _{j}}^{{k+1}}={\beta _{j}}^{k}+\Delta \beta _{j},
+where a superscript k is an iteration number, and the vector of increments {\displaystyle \Delta \beta _{j}} \Delta \beta _{j} is called the shift vector. In some commonly used algorithms, at each iteration the model may be linearized by approximation to a first-order Taylor series expansion about {\displaystyle {\boldsymbol {\beta }}^{k}} {\boldsymbol  \beta }^{k}:
+
+{\displaystyle {\begin{aligned}f(x_{i},{\boldsymbol {\beta }})&=f^{k}(x_{i},{\boldsymbol {\beta }})+\sum _{j}{\frac {\partial f(x_{i},{\boldsymbol {\beta }})}{\partial \beta _{j}}}\left(\beta _{j}-{\beta _{j}}^{k}\right)\\&=f^{k}(x_{i},{\boldsymbol {\beta }})+\sum _{j}J_{ij}\,\Delta \beta _{j}.\end{aligned}}} {\displaystyle {\begin{aligned}f(x_{i},{\boldsymbol {\beta }})&=f^{k}(x_{i},{\boldsymbol {\beta }})+\sum _{j}{\frac {\partial f(x_{i},{\boldsymbol {\beta }})}{\partial \beta _{j}}}\left(\beta _{j}-{\beta _{j}}^{k}\right)\\&=f^{k}(x_{i},{\boldsymbol {\beta }})+\sum _{j}J_{ij}\,\Delta \beta _{j}.\end{aligned}}}
+The Jacobian J is a function of constants, the independent variable and the parameters, so it changes from one iteration to the next. The residuals are given by
+
+{\displaystyle r_{i}=y_{i}-f^{k}(x_{i},{\boldsymbol {\beta }})-\sum _{k=1}^{m}J_{ik}\,\Delta \beta _{k}=\Delta y_{i}-\sum _{j=1}^{m}J_{ij}\,\Delta \beta _{j}.} {\displaystyle r_{i}=y_{i}-f^{k}(x_{i},{\boldsymbol {\beta }})-\sum _{k=1}^{m}J_{ik}\,\Delta \beta _{k}=\Delta y_{i}-\sum _{j=1}^{m}J_{ij}\,\Delta \beta _{j}.}
+To minimize the sum of squares of {\displaystyle r_{i}} r_{i}, the gradient equation is set to zero and solved for {\displaystyle \Delta \beta _{j}} \Delta \beta _{j}:
+
+{\displaystyle -2\sum _{i=1}^{n}J_{ij}\left(\Delta y_{i}-\sum _{k=1}^{m}J_{ik}\,\Delta \beta _{k}\right)=0,} {\displaystyle -2\sum _{i=1}^{n}J_{ij}\left(\Delta y_{i}-\sum _{k=1}^{m}J_{ik}\,\Delta \beta _{k}\right)=0,}
+which, on rearrangement, become m simultaneous linear equations, the normal equations:
+
+{\displaystyle \sum _{i=1}^{n}\sum _{k=1}^{m}J_{ij}J_{ik}\,\Delta \beta _{k}=\sum _{i=1}^{n}J_{ij}\,\Delta y_{i}\qquad (j=1,\ldots ,m).} {\displaystyle \sum _{i=1}^{n}\sum _{k=1}^{m}J_{ij}J_{ik}\,\Delta \beta _{k}=\sum _{i=1}^{n}J_{ij}\,\Delta y_{i}\qquad (j=1,\ldots ,m).}
+The normal equations are written in matrix notation as
+
+{\displaystyle \mathbf {(J^{T}J)\,\Delta {\boldsymbol {\beta }}=J^{T}\,\Delta y} .\,} {\displaystyle \mathbf {(J^{T}J)\,\Delta {\boldsymbol {\beta }}=J^{T}\,\Delta y} .\,}
+These are the defining equations of the Gauss¨CNewton algorithm.

@@ -1,0 +1,1 @@
+In graph theory, a k-tree is an undirected graph formed by starting with a (k + 1)-vertex complete graph and then repeatedly adding vertices in such a way that each added vertex has exactly k neighbors that, together, the k + 1 vertices form a clique.

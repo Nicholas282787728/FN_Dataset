@@ -1,0 +1,4 @@
+Analysis can take into account the decision maker's (e.g., the company's) preference or utility function, for example:
+
+The basic interpretation in this situation is that the company prefers B's risk and payoffs under realistic risk preference coefficients (greater than $400K—in that range of risk aversion, the company would need to model a third strategy, "Neither A nor B").
+Ternary search tree Ternary heap An infinite ternary tree containing all primitive Pythagorean triples is described in Tree of primitive Pythagorean triples and in Formulas for generating Pythagorean triples. The root node contains triple [3,4,5].[2]

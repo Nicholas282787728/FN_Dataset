@@ -1,0 +1,1 @@
+In the mathematical domain of graph theory, a bidirected graph (introduced by Edmonds & Johnson 1970)[1] is a graph in which each edge is given an independent orientation (or direction, or arrow) at each end.

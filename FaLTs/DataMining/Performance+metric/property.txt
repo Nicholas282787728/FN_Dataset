@@ -1,0 +1,1 @@
+The line goes through the "center of mass" point (x, y). The sum of the residuals is equal to zero, if the model includes a constant: The linear combination of the residuals, in which the coefficients are the x-values, is equal to zero:

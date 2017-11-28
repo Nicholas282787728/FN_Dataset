@@ -1,0 +1,13 @@
+The IGMP protocol is implemented on a particular host and within a router. A host requests membership to a group through its local router while a router listens for these requests and periodically sends out subscription queries. The FreeBSD,[note 1] Linux[note 2] and Windows operating systems support IGMP at the host side.
+For the server side implementation, the Linux case uses a daemon such as mrouted to act as an IGMP Linux router. There are also entire routing suites (such as XORP or Quagga), which turn an ordinary computer into a full-fledged multicast router.
+Two implementations of the Media Gateway Control Protocol are in common use. The names of both are abbreviations of the protocol group:
+MGCP is described in RFC 3435.[4] H.248/Megaco is described in RFC 3525.[5] [ Obsoleted by: RFC 5125.[6]]
+Although similar in architecture, MGCP and H.248/Megaco are distinctly different protocols and are not interoperable. H.248/Megaco and MGCP protocols are complementary to H.323 and Session Initiation Protocol. Both H.323 and SIP can be referred to as "intelligent endpoint protocols". H.248/Megaco and MGCP can be referred to as "device control protocols".[7] [8]
+The SCTP reference implementation runs on FreeBSD, Mac OS X, Windows, Linux.[6]
+The following operating systems implement SCTP:
+AIX Version 5 and newer Generic BSD with external patch at KAME project Cisco IOS 12 DragonFly BSD since version 1.4 FreeBSD, version 7 and above, contains the reference SCTP implementation[7] HP-UX, 11i v2 and above[8] Linux kernel-based 2.4 and newer QNX Neutrino Realtime OS,[9] 6.3.0 to 6.3.2 but not 6.4.0 and above[10] Sun Solaris 10 and above[11]
+Third-party drivers:
+Microsoft Windows: The SctpDrv kernel driver is a port of the BSD SCTP stack to Windows[12]
+Userspace library:
+The SCTP library[13] Windows XP port[14] Oracle Java SE 7
+One way to overcome the processing power requirements of TCP is to build hardware implementations of it, widely known as TCP Offload Engines (TOE). The main problem of TOEs is that they are hard to integrate into computing systems, requiring extensive changes in the operating system of the computer or device. One company to develop such a device was Alacritech.

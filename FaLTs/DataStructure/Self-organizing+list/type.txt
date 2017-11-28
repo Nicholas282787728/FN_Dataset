@@ -1,0 +1,9 @@
+record DoublyLinkedNode {
+    prev // A reference to the previous node
+    next // A reference to the next node
+    data // Data or a reference to data
+ }
+record DoublyLinkedList {
+     DoublyLinkedNode firstNode   // points to first node of list
+     DoublyLinkedNode lastNode    // points to last node of list
+ }

@@ -1,0 +1,4 @@
+Balance factors can be kept up-to-date by knowing the previous balance factors and the change in height – it is not necessary to know the absolute height. For holding the AVL balance information, two bits per node are sufficient.[7]
+The height h of an AVL tree with n nodes lies in the interval:[8]
+    log2(n+1) ≤ h < c log2(n+2)+b
+with the golden ratio φ := (1+√5) ⁄2 ≈ 1.618, c := 1⁄ log2 φ ≈ 1.44,  and  b := c⁄2 log2 5 – 2 ≈ –0.328. This is because an AVL tree of height h contains at least Fh+2 – 1 nodes where {Fh} is the Fibonacci sequence with the seed values F1 = 1, F2 = 1.

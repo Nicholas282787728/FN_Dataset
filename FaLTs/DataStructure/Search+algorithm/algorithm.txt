@@ -1,0 +1,2 @@
+Examples of algorithms for this class are the minimax algorithm, alpha–beta pruning, * Informational search [7] and the A* algorithm.
+Examples include Dijkstra's algorithm, Kruskal's algorithm, the nearest neighbour algorithm, and Prim's algorithm.

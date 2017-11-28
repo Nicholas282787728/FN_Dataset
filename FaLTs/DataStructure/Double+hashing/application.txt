@@ -1,0 +1,11 @@
+Double hashing with open addressing is a classical data structure on a table {\displaystyle T} T. Let {\displaystyle n} n be the number of elements stored in {\displaystyle T} T, then {\displaystyle T} T's load factor is {\displaystyle \alpha ={\frac {n}{|T|}}} \alpha = \frac{n}{|T|}.
+
+Double hashing approximates uniform open address hashing. That is, start by randomly, uniformly and independently selecting two universal hash functions {\displaystyle h_{1}} h_{1} and {\displaystyle h_{2}} h_{2} to build a double hashing table {\displaystyle T} T.
+
+All elements are put in {\displaystyle T} T by double hashing using {\displaystyle h_{1}} h_{1} and {\displaystyle h_{2}} h_{2}. Given a key {\displaystyle k} k, determining the {\displaystyle (i+1)} (i+1)-st hash location is computed by:
+
+{\displaystyle h(i,k)=(h_{1}(k)+i\cdot h_{2}(k))\mod |T|.}  h(i,k) = ( h_1(k) + i \cdot h_2(k) ) \mod |T|.
+
+Let {\displaystyle T} T have fixed load factor {\displaystyle \alpha :1>\alpha >0} \alpha: 1 > \alpha > 0. Bradford and Katehakis[1] showed the expected number of probes for an unsuccessful search in {\displaystyle T} T, still using these initially chosen hash functions, is {\displaystyle {\frac {1}{1-\alpha }}} \frac{1}{1-\alpha} regardless of the distribution of the inputs. More precisely, these two uniformly, randomly and independently chosen hash functions are chosen from a set of universal hash functions where pair-wise independence suffices.
+
+Previous results include: Guibas and Szemer¨¦di[2] showed {\displaystyle {\frac {1}{1-\alpha }}} \frac{1}{1-\alpha} holds for unsuccessful search for load factors {\displaystyle \alpha <0.319} \alpha < 0.319. Also, Lueker and Molodowitch[3] showed this held assuming ideal randomized functions. Schmidt and Siegel[4] showed this with {\displaystyle k} k-wise independent and uniform functions (for {\displaystyle k=c\log n} k = c \log n, and suitable constant {\displaystyle c} c).

@@ -1,0 +1,1 @@
+As an example, the goodput or data transfer rate of a V.92 voiceband modem is affected by the modem physical layer and data link layer protocols. It is sometimes higher than the physical layer data rate due to V.44 data compression, and sometimes lower due to bit-errors and automatic repeat request retransmissions.

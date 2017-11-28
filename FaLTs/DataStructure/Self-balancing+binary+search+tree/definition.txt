@@ -1,0 +1,35 @@
+In the "imperative" view, which is closer to the philosophy of imperative programming languages, an abstract data structure is conceived as an entity that is mutable �?meaning that it may be in different states at different times. Some operations may change the state of the ADT; therefore, the order in which operations are evaluated is important, and the same operation on the same entities may have different effects if executed at different times �?just like the instructions of a computer, or the commands and procedures of an imperative language. To underscore this view, it is customary to say that the operations are executed or applied, rather than evaluated. The imperative style is often used when describing abstract algorithms. This is described by Donald E. Knuth and can be referenced from here The Art of Computer Programming.
+A directed edge refers to the link from the parent to the child (the arrows in the picture of the tree). The root node of a tree is the node with no parents. There is at most one root node in a rooted tree. A leaf node has no children. The depth of a node n is the length of the path from the root to the node. The set of all nodes at a given depth is sometimes called a level of the tree. The root node is at depth zero. The depth (or height) of a tree is the length of the path from the root to the deepest node in the tree. A (rooted) tree with only one node (the root) has a depth of zero. Siblings are nodes that share the same parent node. A node p is an ancestor of a node q if it exists on the path from the root to node q. The node q is then termed as a descendant of p. The size of a node is the number of descendants it has including itself. In-degree of a node is the number of edges arriving at that node. Out-degree of a node is the number of edges leaving that node. The root is the only node in the tree with In-degree = 0. All the leaf nodes have Out-degree = 0.
+The Cartesian tree for a sequence of distinct numbers can be uniquely defined by the following properties:
+The Cartesian tree for a sequence has one node for each number in the sequence. Each node is associated with a single sequence value. A symmetric (in-order) traversal of the tree results in the original sequence. That is, the left subtree consists of the values earlier than the root in the sequence order, while the right subtree consists of the values later than the root, and a similar ordering constraint holds at each lower node of the tree. The tree has the heap property: the parent of any non-root node has a smaller value than the node itself.[1]
+Based on the heap property, the root of the tree must be the smallest number in the sequence. From this, the tree itself may also be defined recursively: the root is the minimum value of the sequence, and the left and right subtrees are the Cartesian trees for the subsequences to the left and right of the root value. Therefore, the three properties above uniquely define the Cartesian tree.
+If a sequence of numbers contains repetitions, the Cartesian tree may be defined by determining a consistent tie-breaking rule (for instance, determining that the first of two equal elements is treated as the smaller of the two) before applying the above rules.
+An example of a Cartesian tree is shown in the figure above.
+The abstract list type L with elements of some type E (a monomorphic list) is defined by the following functions:
+nil: () �?L cons: E × L �?L first: L �?E rest: L �?L
+with the axioms
+first (cons (e, l)) = e rest (cons (e, l)) = l
+for any element e and any list l. It is implicit that
+cons (e, l) �?l cons (e, l) �?e cons (e1, l1) = cons (e2, l2) if e1 = e2 and l1 = l2
+Note that first (nil ()) and rest (nil ()) are not defined.
+These axioms are equivalent to those of the abstract stack data type.
+In type theory, the above definition is more simply regarded as an inductive type defined in terms of constructors: nil and cons. In algebraic terms, this can be represented as the transformation 1 + E × L �?L. first and rest are then obtained by pattern matching on the cons constructor and separately handling the nil case.
+A stack is a basic computer science data structure and can be defined in an abstract, implementation-free manner, or it can be generally defined as a linear list of items in which all additions and deletion are restricted to one end that is Top.
+This is a VDM (Vienna Development Method) description of a stack:[4]
+Function signatures:
+init: -> Stack
+  push: N x Stack -> Stack
+  top: Stack -> (N U ERROR)
+  remove: Stack -> Stack
+  isempty: Stack -> Boolean
+(where N indicates an element (natural numbers in this case), and U indicates set union)
+Semantics:
+top(init()) = ERROR
+  top(push(i,s)) = i
+  remove(init()) = init()
+  remove(push(i, s)) = s
+  isempty(init()) = true
+  isempty(push(i, s)) = false
+A free tree or unrooted tree is a connected undirected graph with no cycles. The vertices with one neighbor are the leaves of the tree, and the remaining vertices are the internal nodes of the tree. The degree of a vertex is its number of neighbors; in a tree with more than one node, the leaves are the vertices of degree one. An unrooted binary tree is a free tree in which all internal nodes have degree exactly three.
+In some applications it may make sense to distinguish subtypes of unrooted binary trees: a planar embedding of the tree may be fixed by specifying a cyclic ordering for the edges at each vertex, making it into a plane tree. In computer science, binary trees are often rooted and ordered when they are used as data structures, but in the applications of unrooted binary trees in hierarchical clustering and evolutionary tree reconstruction, unordered trees are more common.[1]
+Additionally, one may distinguish between trees in which all vertices have distinct labels, trees in which the leaves only are labeled, and trees in which the nodes are not labeled. In an unrooted binary tree with n leaves, there will be n �?#160;2 internal nodes, so the labels may be taken from the set of integers from 1 to 2n �?#160;1 when all nodes are to be labeled, or from the set of integers from 1 to n when only the leaves are to be labeled.[1]

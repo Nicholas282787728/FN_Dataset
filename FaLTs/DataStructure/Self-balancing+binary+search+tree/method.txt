@@ -1,0 +1,5 @@
+Binary trees can be constructed from programming language primitives in several ways.
+A dual structure with 14,12,4,10,8 as the members of DEPQ.[1]
+In this method two different priority queues for min and max are maintained. The same elements in both the PQs are shown with the help of correspondence pointers. Here, the minimum and maxmimum elements are values contained in the root nodes of min heap and max heap respectively.
+Removing the min element: Perform removemin() on the min heap and remove(node value) on the max heap, where node value is the value in the corresponding node in the max heap. Removing the max element: Perform removemax() on the max heap and remove(node value) on the min heap, where node value is the value in the corresponding node in the min heap.
+

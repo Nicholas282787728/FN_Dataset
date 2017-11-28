@@ -1,0 +1,8 @@
+Given an undirected graph G = (V, E), a set of random variables X = (Xv)v �?#160;V indexed by V  form a Markov random field with respect to G  if they satisfy the Local Markov properties:
+Pairwise Markov property: Any two non-adjacent variables are conditionally independent given all other variables:
+
+Local Markov property: A variable is conditionally independent of all other variables given its neighbours:
+where ne(v) is the set of neighbours of v, and cl(v) = {v} �?ne(v) is the closed neighbourhood of v.
+Global Markov property: Any two subsets of variables are conditionally independent given a separating subset:
+where every path from a node in A to a node in B passes through S.
+The above three Markov properties are not equivalent to each other at all. In fact, the Local Markov property is stronger than the Pairwise one, while weaker than the Global one.

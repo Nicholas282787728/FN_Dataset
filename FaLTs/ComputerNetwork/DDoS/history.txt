@@ -1,0 +1,1 @@
+The scale of DDoS attacks has continued to rise over recent years, by 2016 exceeding a terabit per second.

@@ -1,0 +1,1 @@
+A simple example of an approximation algorithm is one for the Minimum Vertex Cover problem, where the goal is to choose the smallest set of vertices such that every edge in the input graph contains at least one chosen vertex. 

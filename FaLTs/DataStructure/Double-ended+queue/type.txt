@@ -1,0 +1,4 @@
+This differs from the queue abstract data type or First-In-First-Out List (FIFO), where elements can only be added to one end and removed from the other. This general data class has some possible sub-types:
+An input-restricted deque is one where deletion can be made from both ends, but insertion can be made at one end only.
+An output-restricted deque is one where insertion can be made at both ends, but deletion can be made from one end only.
+Both the basic and most common list types in computing, queues and stacks can be considered specializations of deques, and can be implemented using deques.

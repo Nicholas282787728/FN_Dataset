@@ -1,0 +1,1 @@
+Edges of these three types may be called, respectively, extraverted, introverted, and directed. The "directed" edges are the same as ordinary directed edges in a directed graph; thus, a directed graph is a special kind of bidirected graph.

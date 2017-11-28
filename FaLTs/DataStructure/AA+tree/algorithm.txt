@@ -1,0 +1,1 @@
+Parallel algorithms for constructing red–black trees from sorted lists of items can run in constant time or O(loglog n) time, depending on the computer model, if the number of processors available is proportional to the number of items. Fast search, insertion, and deletion parallel algorithms are also known.[7]

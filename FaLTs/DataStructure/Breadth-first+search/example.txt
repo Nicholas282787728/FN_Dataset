@@ -1,0 +1,46 @@
+Binary tree:
+
+Depth-first
+Preorder traversal sequence: F, B, A, D, C, E, G, I, H (root, left, right) Inorder traversal sequence: A, B, C, D, E, F, G, H, I (left, root, right) Postorder traversal sequence: A, C, E, D, B, H, I, G, F (left, right, root)
+Breadth-first
+Level-order traversal sequence: F, B, G, A, D, I, C, E, H
+For the following graph:
+
+a depth-first search starting at A, assuming that the left edges in the shown graph are chosen before right edges, and assuming the search remembers previously visited nodes and will not repeat them (since this is a small graph), will visit the nodes in the following order: A, B, D, F, E, C, G. The edges traversed in this search form a Trémaux tree, a structure with important applications in graph theory.
+Performing the same search without remembering previously visited nodes results in visiting nodes in the order A, B, D, F, E, A, B, D, F, E, etc. forever, caught in the A, B, D, F, E cycle and never reaching C or G.
+Iterative deepening is one technique to avoid this infinite loop and would reach all nodes.
+The canonical application of topological sorting (topological order) is in scheduling a sequence of jobs or tasks based on their dependencies; topological sorting algorithms were first studied in the early 1960s in the context of the PERT technique for scheduling in project management (Jarnagin 1960). The jobs are represented by vertices, and there is an edge from x to y if job x must be completed before job y can be started (for example, when washing clothes, the washing machine must finish before we put the clothes to dry). Then, a topological sort gives an order in which to perform the jobs.
+In computer science, applications of this type arise in instruction scheduling, ordering of formula cell evaluation when recomputing formula values in spreadsheets, logic synthesis, determining the order of compilation tasks to perform in makefiles, serialization, and resolving symbol dependencies in linkers.
+The graph shown to the left has many valid topological sorts, including: 7, 5, 3, 11, 8, 2, 9, 10 (visual left-to-right, top-to-bottom) 3, 5, 7, 8, 11, 2, 9, 10 (smallest-numbered available vertex first) 3, 7, 8, 5, 11, 10, 2, 9 5, 7, 3, 8, 11, 10, 9, 2 (fewest edges first) 7, 5, 11, 3, 10, 8, 9, 2 (largest-numbered available vertex first) 7, 5, 11, 2, 3, 8, 9, 10
+Binary tree:
+
+Depth-first
+Preorder traversal sequence: F, B, A, D, C, E, G, I, H (root, left, right) Inorder traversal sequence: A, B, C, D, E, F, G, H, I (left, root, right) Postorder traversal sequence: A, C, E, D, B, H, I, G, F (left, right, root)
+Breadth-first
+Level-order traversal sequence: F, B, G, A, D, I, C, E, H
+
+Expansion showing the explored set and the frontier (priority queue): Start Node: A Goal Node: G
+Step 1 Frontier:
+Node A Cost 0
+Explored: -
+Step 2 Expand A Frontier:
+Node D B Cost 3 5
+Explored: A
+Step 3 Expand D Frontier:
+Node B E F Cost 5 5 5
+Explored: A D
+Step 4 Expand B Frontier:
+Node E F C Cost 5 5 6
+Explored: A D B
+Step 5 Expand E Frontier:
+Node F C Cost 5 6
+Explored: A D B E
+
+Note: B was not added to the priority queue because it was already explored
+Step 6 Expand F Frontier:
+Node C G Cost 6 8
+Explored: A D B E F
+Step 7 Expand C Frontier:
+Node G Cost 8
+Explored: A D B E F C
+Step 8 Expand G Found the path: A to D to F to G

@@ -1,0 +1,1 @@
+In graph theory, a dipole graph (also called a dipole or bond graph) is a multigraph consisting of two vertices connected with a number of parallel edges.

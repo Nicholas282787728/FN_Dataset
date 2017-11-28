@@ -1,0 +1,1 @@
+ The interface is usually implemented with a command line shell, which is a program that accepts commands as text input and converts commands into appropriate operating system functions.

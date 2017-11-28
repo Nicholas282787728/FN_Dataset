@@ -1,0 +1,3 @@
+Popular data structures implementing this type of tree include:
+AA tree AVL tree Red-black tree Scapegoat tree Splay tree Treap
+Top Trees have been implemented in a variety of ways, some of them include implementation using a Multilevel Partition (Top-trees and dynamic graph algorithms Jacob Holm and Kristian de Lichtenberg. Technical Report), and even by using Sleator-Tarjan s-t trees, Fredericksons Topology Trees (Alstrup et al. Maintaining Information in Fully Dynamic Trees with Top Trees).

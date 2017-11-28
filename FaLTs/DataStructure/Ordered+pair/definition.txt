@@ -1,0 +1,11 @@
+In some introductory mathematics textbooks an informal (or intuitive) definition of ordered pair is given, such as
+
+For any two objects a and b, the ordered pair (a, b) is a notation specifying the two objects a and b, in that order.[3]
+
+This is usually followed by a comparison to a set of two elements; pointing out that in a set a and b must be different, but in an ordered pair they may be equal and that while the order of listing the elements of a set doesn't matter, in an ordered pair changing the order of distinct entries changes the ordered pair.
+
+This "definition" is unsatisfactory because it is only descriptive and is based on an intuitive understanding of order. However, as is sometimes pointed out, no harm will come from relying on this description and almost everyone thinks of ordered pairs in this manner.[4]
+
+A more satisfactory approach is to observe that the characteristic property of ordered pairs given above is all that is required to understand the role of ordered pairs in mathematics. Hence the ordered pair can be taken as a primitive notion, whose associated axiom is the characteristic property. This was the approach taken by the N. Bourbaki group in its Theory of Sets, published in 1954. However, this approach also has its drawbacks as both the existence of ordered pairs and their characteristic property must be axiomatically assumed.[3]
+
+Another way to rigorously deal with ordered pairs is to define them formally in the context of set theory. This can be done in several ways and has the advantage that existence and the characteristic property can be proven from the axioms that define the set theory. One of the most cited versions of this definition is due to Kuratowski (see below) and his definition was used in the second edition of Bourbaki's Theory of Sets, published in 1970. Even those mathematical textbooks that give an informal definition of ordered pairs will often mention the formal definition of Kuratowski in an exercise.

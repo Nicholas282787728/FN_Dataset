@@ -1,0 +1,8 @@
+In those contexts where standard error of the mean is defined not as the standard deviation of the sample mean, but as its estimate, this is the estimate typically given as its value. Thus, it is common to see standard deviation of the mean alternatively defined as:
+
+{\displaystyle {\text{s}}_{\bar {x}}\ ={\frac {s}{\sqrt {n}}}} {\displaystyle {\text{s}}_{\bar {x}}\ ={\frac {s}{\sqrt {n}}}}
+The standard deviation of the sample mean is equivalent to the standard deviation of the error in the sample mean with respect to the true mean, since the sample mean is an unbiased estimator. Therefore, the standard error of the mean can also be understood as the standard deviation of the error in the sample mean with respect to the true mean (or an estimate of that statistic).
+
+Note: the standard error and the standard deviation of small samples tend to systematically underestimate the population standard error and standard deviation: the standard error of the mean is a biased estimator of the population standard error. With n = 2 the underestimate is about 25%, but for n = 6 the underestimate is only 5%. Gurland and Tripathi (1971) provide a correction and equation for this effect.[5] Sokal and Rohlf (1981) give an equation of the correction factor for small samples of n < 20.[6] See unbiased estimation of standard deviation for further discussion.
+
+A practical result: Decreasing the uncertainty in a mean value estimate by a factor of two requires acquiring four times as many observations in the sample. Or decreasing the standard error by a factor of ten requires a hundred times as many observations.

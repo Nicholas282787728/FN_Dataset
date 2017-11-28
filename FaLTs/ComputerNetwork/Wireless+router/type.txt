@@ -1,0 +1,9 @@
+A typical ADSL router (Netgear DG632)
+A router usually provides:
+Internet protocol routing Network address translation (NAT) DHCP functions firewall functions LAN connectivity like a network switch
+Most routers are self-contained components, using internally stored firmware. They are generally OS-independent (i.e. can be used with any operating system).
+Wireless routers perform the same functions as a router, but also allow connectivity for wireless devices with the LAN, or between the wireless router and another wireless router. (The wireless router-wireless router connection can be within the LAN or can be between the LAN and a WAN.)
+A modem (e.g. DSL modem, Cable modem) provides none of the functions of a router. It merely allows Ethernet traffic to be transmitted across telephone lines, cable wires, optical fibers, or wireless radio frequencies. On the receiving end is another modem that re-converts the transmission format back into digital data packets.
+This allows network bridging using telephone, cable, optical, and radio connection methods. The modem also provides handshake protocols, so that the devices on each end of the connection are able to recognize each other. However, a modem generally provides few other network functions.
+A USB modem plugs into a single PC and allows a connection of that single PC to a WAN. If properly configured, the PC can also function as the router for a home LAN. An internal modem can be installed on a single PC (e.g. on a PCI card), also allowing that single PC to connect to a WAN. Again, the PC can be configured to function as a router for a home LAN.
+A wireless access point can function in a similar fashion to a modem. It can allow a direct connection from a home LAN to a WAN, if a wireless router or access point is present on the WAN as well.

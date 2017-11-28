@@ -1,0 +1,3 @@
+The most important algorithms for solving this problem are:
+Dijkstra's algorithm solves the single-source shortest path problems. Bellman–Ford algorithm solves the single-source problem if edge weights may be negative. A* search algorithm solves for single pair shortest path using heuristics to try to speed up the search. Floyd–Warshall algorithm solves all pairs shortest paths. Johnson's algorithm solves all pairs shortest paths, and may be faster than Floyd–Warshall on sparse graphs. Perturbation theory finds (at worst) the locally shortest path.
+Additional algorithms and associated evaluations may be found in Cherkassky et al.[1]

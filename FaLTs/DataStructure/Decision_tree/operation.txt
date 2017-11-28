@@ -1,0 +1,1 @@
+There are a variety of different operations that can be performed on binary trees. Some are mutator operations, while others simply return useful information about the tree.

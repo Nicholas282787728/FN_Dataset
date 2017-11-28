@@ -1,0 +1,42 @@
+According to original authors, the advantages of random forest are[6]:
+It is one of the most accurate learning algorithms available. For many data sets, it produces a highly accurate classifier.[7] It runs efficiently on large databases. It can handle thousands of input variables without variable deletion. It gives estimates of what variables are important in the classification. It generates an internal unbiased estimate of the generalization error as the forest building progresses. It has an effective method for estimating missing data and maintains accuracy when a large proportion of the data are missing. It has methods for balancing error in class population unbalanced data sets. Prototypes are computed that give information about the relation between the variables and the classification. It computes proximities between pairs of cases that can be used in clustering, locating outliers, or (by scaling) give interesting views of the data. The capabilities of the above can be extended to unlabeled data, leading to unsupervised clustering, data views and outlier detection. It offers an experimental method for detecting variable interactions.
+Most algorithms describe an individual instance whose category is to be predicted using a feature vector of individual, measurable properties of the instance. Each property is termed a feature, also known in statistics as an explanatory variable (or independent variable, although in general different features may or may not be statistically independent). Features may variously be binary ("male" or "female"); categorical (e.g. "A", "B", "AB" or "O", for blood type); ordinal (e.g. "large", "medium" or "small"); integer-valued (e.g. the number of occurrences of a particular word in an email); or real-valued (e.g. a measurement of blood pressure). If the instance is an image, the feature values might correspond to the pixels of an image; if the instance is a piece of text, the feature values might be occurrence frequencies of different words. Some algorithms work only in terms of discrete data and require that real-valued or integer-valued data be discretized into groups (e.g. less than 5, between 5 and 10, or greater than 10).
+The vector space associated with these vectors is often called the feature space. In order to reduce the dimensionality of the feature space, a number of dimensionality reduction techniques can be employed.
+The inputs to the alternating decision tree algorithm are:
+A set of inputs where is a vector of attributes and is either -1 or 1. Inputs are also called instances. A set of weights corresponding to each instance.
+The fundamental element of the ADTree algorithm is the rule. A single rule consists of a precondition, a condition, and two scores. A condition is a predicate of the form "attribute <comparison> value." A precondition is simply a logical conjunction of conditions. Evaluation of a rule involves a pair of nested if statements:
+1  if(precondition)
+2      if(condition)
+3          return score_one
+4      else
+5          return score_two
+6      end if
+7  else
+8      return 0
+9  end if
+Several auxiliary functions are also required by the algorithm:
+returns the sum of the weights of all positively labeled examples that satisfy predicate returns the sum of the weights of all negatively labeled examples that satisfy predicate returns the sum of the weights of all examples that satisfy predicate
+The algorithm is as follows:
+1  function ad_tree
+2  input Set of  training instances
+3 
+4   for all 
+5  
+6   a rule with scores  and , precondition "true" and condition "true."
+7   
+8   the set of all possible conditions
+9  for
+10       get values that minimize 
+11      
+12      
+13      
+14       new rule with precondition , condition , and weights  and 
+15      
+16  end for
+17  return set of
+The set grows by two preconditions in each iteration, and it is possible to derive the tree structure of a set of rules by making note of the precondition that is used in each successive rule.
+Given a standard training set D of size n, bagging generates m new training sets , each of size n�?/i> < n, by sampling examples from D uniformly and with replacement. By sampling with replacement, it is likely that some examples will be repeated in each . If n�?/i>=n, then for large n the set is expected to have the fraction (1 - 1/e) (�?3.2%) of the unique examples of D, the rest being duplicates.[1] This kind of sample is known as a bootstrap sample. The m models are fitted using the above m bootstrap samples and combined by averaging the output (for regression) or voting (for classification).
+The naive version of the algorithm is easy to implement by computing the distances from the test sample to all stored vectors, but it is computationally intensive, especially when the size of the training set grows. Many nearest neighbor search algorithms have been proposed over the years; these generally seek to reduce the number of distance evaluations actually performed. Using an appropriate nearest neighbor search algorithm makes k-NN computationally tractable even for large data sets.
+The nearest neighbor algorithm has some strong consistency results. As the amount of data approaches infinity, the algorithm is guaranteed to yield an error rate no worse than twice the Bayes error rate (the minimum achievable error rate given the distribution of the data).[7] k-nearest neighbor is guaranteed to approach the Bayes error rate, for some value of k (where k increases as a function of the number of data points). Various improvements to k-nearest neighbor methods are possible by using proximity graphs.[8]
+According to original authors, the advantages of random forest are[6]:
+It is one of the most accurate learning algorithms available. For many data sets, it produces a highly accurate classifier.[7] It runs efficiently on large databases. It can handle thousands of input variables without variable deletion. It gives estimates of what variables are important in the classification. It generates an internal unbiased estimate of the generalization error as the forest building progresses. It has an effective method for estimating missing data and maintains accuracy when a large proportion of the data are missing. It has methods for balancing error in class population unbalanced data sets. Prototypes are computed that give information about the relation between the variables and the classification. It computes proximities between pairs of cases that can be used in clustering, locating outliers, or (by scaling) give interesting views of the data. The capabilities of the above can be extended to unlabeled data, leading to unsupervised clustering, data views and outlier detection. It offers an experimental method for detecting variable interactions.

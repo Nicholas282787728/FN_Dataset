@@ -1,0 +1,1 @@
+IPsec can be implemented in a host-to-host transport mode, as well as in a network tunnel mode.

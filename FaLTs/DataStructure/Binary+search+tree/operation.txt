@@ -1,0 +1,1 @@
+Binary search trees support three main operations: insertion of elements, deletion of elements, and lookup (checking whether a key is present).

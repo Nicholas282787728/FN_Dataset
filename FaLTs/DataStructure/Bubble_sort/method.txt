@@ -1,0 +1,2 @@
+Bubble sort and insertion sort are both O(n^2) sorts.
+"efficient Bubble sort" is really an oximoron (unless its a pre-sorted array) If at all you want to use Bubble sort, try bidirectional bubble sort

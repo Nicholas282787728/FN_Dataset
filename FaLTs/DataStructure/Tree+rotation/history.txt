@@ -1,0 +1,7 @@
+Historically, the first randomized algorithm was a method developed by Michael O. Rabin for the closest pair problem in computational geometry.[3] The study of randomized algorithms was spurred by the 1977 discovery of a randomized primality test (i.e., determining the primality of a number) by Robert M. Solovay and Volker Strassen. Soon afterwards Michael O. Rabin demonstrated that the 1976 Miller's primality test can be turned into a randomized algorithm. At that time, no practical deterministic algorithm for primality was known.
+
+The Miller-Rabin primality test relies on a binary relation between two positive integers k and n that can be expressed by saying that k "is a witness to the compositeness of" n.
+
+Observe that this implies that the primality problem is in Co-RP.
+
+If one randomly chooses 100 numbers less than a composite number n, then the probability of failing to find such a "witness" is (1/4)100 so that for most practical purposes, this is a good primality test. If n is big, there may be no other test that is practical. The probability of error can be reduced to an arbitrary degree by performing enough independent tests.

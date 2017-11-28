@@ -1,0 +1,7 @@
+Inline links[edit]
+An inline link displays remote content without the need for embedding the content. The remote content may be accessed with or without the user selecting the link.
+
+An inline link may display a modified version of the content; for instance, instead of an image, a thumbnail, low resolution preview, cropped section, or magnified section may be shown. The full content will then usually be available on demand, as is the case with print publishing software ¨C e.g., with an external link. This allows for smaller file sizes and quicker response to changes when the full linked content is not needed, as is the case when rearranging a page layout.
+
+Anchor[edit]
+An anchor hyperlink is a link bound to a portion of a document[2]¡ªgenerally text, though not necessarily. For instance, it may also be a hot area in an image (image map in HTML), a designated, often irregular part of an image. One way to define it is by a list of coordinates that indicate its boundaries. For example, a political map of Africa may have each country hyperlinked to further information about that country. A separate invisible hot area interface allows for swapping skins or labels within the linked hot areas without repetitive embedding of links in the various skin elements.

@@ -1,0 +1,6 @@
+Different biclustering algorithms have different definitions of bicluster.[5]
+They are:
+Bicluster with constant values (a), Bicluster with constant values on rows (b) or columns (c), Bicluster with coherent values (d, e).
+a) Bicluster with constant values 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 b) Bicluster with constant values on rows 1.0 1.0 1.0 1.0 1.0 2.0 2.0 2.0 2.0 2.0 3.0 3.0 3.0 3.0 3.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 c) Bicluster with constant values on columns 1.0 2.0 3.0 4.0 5.0 1.0 2.0 3.0 4.0 5.0 1.0 2.0 3.0 4.0 5.0 1.0 2.0 3.0 4.0 5.0 1.0 2.0 3.0 4.0 5.0
+d) Bicluster with coherent values (additive) 1.0 4.0 5.0 0.0 1.5 4.0 7.0 8.0 3.0 4.5 3.0 6.0 7.0 2.0 3.5 5.0 8.0 9.0 4.0 5.5 2.0 5.0 6.0 1.0 2.5 e) Bicluster with coherent values (multiplicative) 1.0 0.5 2.0 0.2 0.8 2.0 1.0 4.0 0.4 1.6 3.0 1.5 6.0 0.6 2.4 4.0 2.0 8.0 0.8 3.2 5.0 2.5 10.0 1.0 4.0
+The relationship between these cluster models and other types of clustering such as correlation clustering is discussed in.[6]

@@ -1,0 +1,74 @@
+This article may be confusing or unclear to readers. In particular, the discussion below uses "element", "value", "key", "separator", and "separation value" to mean essentially the same thing. The terms are not clearly defined. There are some subtle issues at the root and leaves. Please help us clarify the article; suggestions may be found on the talk page. (February 2012)
+(packs rectangles into an R-tree) Step 1. Calculate the Hilbert value for each data rectangle Step 2. Sort data rectangles on ascending Hilbert values Step 3. /* Create leaf nodes (level l=0) */
+While (there are more rectangles) generate a new R-tree node assign the next C rectangles to this node
+Step 4. /* Create nodes at higher level (l + 1) */
+While (there are > 1 nodes at level l) sort nodes at level l �?0 on ascending creation time repeat Step 3
+The assumption here is that the data are static or the frequency of modification is low. This is a simple heuristic for constructing an R-tree with 100% space utilization which at the same time will have as good response time as possible.
+Parallel algorithms for constructing red–black trees from sorted lists of items can run in constant time or O(loglog n) time, depending on the computer model, if the number of processors available is proportional to the number of items. Fast search, insertion, and deletion parallel algorithms are also known.[7]
+We can describe lookup (and membership) easily. Given a recursive trie type, storing an optional value at each node, and a list of children tries, indexed by the next character, (here, represented as a Haskell data type):
+data Trie a =
+      Trie { value    :: Maybe a
+           , children :: [(Char,Trie a)] }
+We can look up a value in the trie as follows:
+find :: String -> Trie a -> Maybe a
+    find []     t = value t
+    find (k:ks) t = case lookup k (children t) of
+                        Nothing -> Nothing
+                        Just ct -> find ks ct
+In an imperative style, and assuming an appropriate data type in place, we can describe the same algorithm in Python (here, specifically for testing membership). Note that children is map of a node's children; and we say that a "terminal" node is one which contains a valid word.
+def find(node, key):
+    for char in key:
+        if char not in node.children:
+            return None
+        else:
+            node = node.children[char]
+    return node.value
+A simple Ruby version:
+class Trie
+  def initialize
+    @root = Hash.new
+  end
+ 
+  def build(str) 
+    node = @root    
+    str.each_char do |ch|
+      node[ch] ||= Hash.new
+      node = node[ch]
+    end
+    node[:end] = true
+  end
+ 
+  def find(str) 
+    node = @root
+    str.each_char do |ch|
+      return nil unless node = node[ch]
+    end
+    node[:end] && true
+  end
+end
+A compiling Java version:
+public class MinimalExample{
+    private interface Node {
+        public static final Node EMPTY_NODE = new Node() {
+            @Override public String getValue() { return ""; }
+            @Override public boolean containsChildValue(char c) { return false; }
+            @Override public Node getChild(char c) { return this; }
+        };
+        public String getValue();
+        public boolean containsChildValue(char c);
+        public Node getChild(char c);
+    }
+ 
+    public Node findValue(Node startNode, String value) {
+        Node current = startNode;
+        for (char c : value.toCharArray()) {
+            if (current.containsChildValue(c)) {
+                current = current.getChild(c);
+            } else {
+                current = Node.EMPTY_NODE;
+                break;
+            }
+        }
+        return current;
+    }
+}

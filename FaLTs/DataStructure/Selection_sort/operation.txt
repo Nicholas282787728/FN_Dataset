@@ -1,0 +1,2 @@
+If, rather than swapping in step 2, the minimum value is inserted into the first position 
+However, this modification either requires a data structure that supports efficient insertions or deletions, such as a linked list

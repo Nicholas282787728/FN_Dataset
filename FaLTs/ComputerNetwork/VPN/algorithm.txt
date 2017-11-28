@@ -1,0 +1,7 @@
+VPNs cannot make online connections completely anonymous, but they can usually increase privacy and security. To prevent disclosure of private information, VPNs typically allow only authenticated remote access using tunneling protocols and encryption techniques.
+
+The VPN security model provides:
+
+Confidentiality such that even if the network traffic is sniffed at the packet level (see network sniffer and deep packet inspection), an attacker would only see encrypted data
+Sender authentication to prevent unauthorized users from accessing the VPN
+Message integrity to detect any instances of tampering with transmitted messages

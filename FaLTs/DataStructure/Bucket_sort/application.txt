@@ -1,0 +1,2 @@
+the uses of different sorting algorithms such as bucket sort in real-life scenarios
+some tips, tricks and gotchas when using bucket sort

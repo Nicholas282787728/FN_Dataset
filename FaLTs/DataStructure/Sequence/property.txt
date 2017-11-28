@@ -1,0 +1,1 @@
+There are many different notions of sequences in mathematics, some of which (e.g., exact sequence) are not covered by the definitions and notations introduced below.

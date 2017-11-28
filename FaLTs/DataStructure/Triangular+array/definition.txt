@@ -1,0 +1,1 @@
+In mathematics and computing, a triangular array of numbers, polynomials, or the like, is a doubly indexed sequence in which each row is only as long as the row's own index.

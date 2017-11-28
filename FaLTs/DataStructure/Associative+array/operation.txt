@@ -1,0 +1,423 @@
+In an associative array, the association between a key and a value is often known as a "binding", and the same word "binding" may also be used to refer to the process of creating a new association.
+The operations that are usually defined for an associative array are:[1][2]
+Add or insert: add a new {key, value} pair to the collection, binding the new key to its new value. The arguments to this operation are the key and the value. Reassign: replace the value in one of the (key,value) pairs that are already in the collection, binding an old key to a new value. As with an insertion, the arguments to this operation are the key and the value. Remove or delete: remove a (key,value) pair from the collection, unbinding a given key from its value. The argument to this operation is the key. Lookup: find the value (if any) that is bound to a given key. The argument to this operation is the key, and the value is returned from the operation. If no value is found, some associative array implementations raise an exception.
+In addition, associative arrays may also include other operations such as determining the number of bindings or constructing an iterator to loop over all the bindings. Usually, for such an operation, the order in which the bindings are returned may be arbitrary.
+A multimap generalizes an associative array by allowing multiple values to be associated with a single key.[5] A bidirectional map is a related abstract data type in which the bindings operate in both directions: each value must be associated with a unique key, and a second lookup operation takes a value as argument and looks up the key associated with that value.
+A HAMT is an array mapped trie where the keys are first hashed in order to ensure an even distribution of keys and to ensure a constant key length.
+In a typical implementation of an array mapped trie, each node may branch to up to 32 other nodes. However, as allocating space for 32 pointers for each node would be expensive, each node instead contains a bitmap which is 32 bits long where each bit indicates the presence of a path. This is followed by an array of pointers equal in length to the Hamming weight of the bitmap.
+Consider just leaving the element there, marking it “deleted,�?possibly to be re-used for a future insertion.
+Find the element to be deleted. If the element is not in a leaf node remember its location and continue searching until a leaf, which will contain the element’s successor, is reached. Then swap the leaf element with the one to be deleted, and delete the element node. It is simplest to make adjustments to the tree from the top down, as the element to be deleted is pursued that guarantee that the leaf node found is not a two-node, so that we can delete something from it and leave it there.
+The adjustments we make on the way to a leaf are as follows: Assume, without loss of generality, that the child we are about to go to is the leftmost.
+If we're at the root
+If the root and both children are two-nodes, combine all three elements into the root, making a 4-node and shortening the tree. Otherwise, if the root and left child are two-nodes, the right child isn't a two-node. Perform a left rotation to make the left sibling a 3-node, and move to the left child.
+From now on, we can be sure that we're at a node which is not a 2-node.
+If the leftmost child is not a 2-node, just move to it. If the adjacent sibling is not a 2-node, perform a left rotation using its leftmost element to make the left child a 3-node. Otherwise, add the leftmost element of the parent and the single element of the sibling to the left node, making it a 4-node, and discard the empty sibling. Go to the left-most child.
+Deletion in a 2�?�? tree is O(log n), assuming transfer and fusion run in constant time ( O(1) ).[1][3]
+To insert a value, we start at the root of the 2�?�? tree:
+If the current node is a 4-node: Remove and save the middle value to get a 3-node. Split the remaining 3-node up into a pair of 2-nodes (the now missing middle value is handled in the next step). If this is the root node (which thus has no parent): the middle value becomes the new root 2-node and the tree height increases by 1. Ascend into the root. Otherwise, push the middle value up into the parent node. Ascend into the parent node. Find the child whose interval contains the value to be inserted. If that child is a leaf, insert the value into current node and finish. Otherwise, descend into the child and repeat from step 1.[1][2]
+In an associative array, the association between a key and a value is often known as a "binding", and the same word "binding" may also be used to refer to the process of creating a new association.
+The operations that are usually defined for an associative array are:[1][2]
+Add or insert: add a new {key, value} pair to the collection, binding the new key to its new value. The arguments to this operation are the key and the value. Reassign: replace the value in one of the (key,value) pairs that are already in the collection, binding an old key to a new value. As with an insertion, the arguments to this operation are the key and the value. Remove or delete: remove a (key,value) pair from the collection, unbinding a given key from its value. The argument to this operation is the key. Lookup: find the value (if any) that is bound to a given key. The argument to this operation is the key, and the value is returned from the operation. If no value is found, some associative array implementations raise an exception.
+In addition, associative arrays may also include other operations such as determining the number of bindings or constructing an iterator to loop over all the bindings. Usually, for such an operation, the order in which the bindings are returned may be arbitrary.
+A multimap generalizes an associative array by allowing multiple values to be associated with a single key.[5] A bidirectional map is a related abstract data type in which the bindings operate in both directions: each value must be associated with a unique key, and a second lookup operation takes a value as argument and looks up the key associated with that value.
+If the node is a leaf or has only one child, remove it. Otherwise, replace it with either the largest in its left sub tree (in order predecessor) or the smallest in its right sub tree (in order successor), and remove that node. The node that was found as a replacement has at most one sub tree. After deletion, retrace the path back up the tree (parent of the replacement) to the root, adjusting the balance factors as needed.
+As with all binary trees, a node's in-order successor is the left-most child of its right subtree, and a node's in-order predecessor is the right-most child of its left subtree. In either case, this node will have zero or one children. Delete it according to one of the two simpler cases above.
+
+In addition to the balancing described above for insertions, if the balance factor for the tree is 2 and that of the left subtree is 0, a right rotation must be performed on P. The mirror of this case is also necessary.
+The retracing can stop if the balance factor becomes �? or +1 indicating that the height of that subtree has remained unchanged. If the balance factor becomes 0 then the height of the subtree has decreased by one and the retracing needs to continue. If the balance factor becomes �? or +2 then the subtree is unbalanced and needs to be rotated to fix it. If the rotation leaves the subtree's balance factor at 0 then the retracing towards the root must continue since the height of this subtree has decreased by one. This is in contrast to an insertion where a rotation resulting in a balance factor of 0 indicated that the subtree's height has remained unchanged.
+The time required is O(log n) for lookup, plus a maximum of O(log n) rotations on the way back to the root, so the operation can be completed in O(log n) time.
+Pictorial description of how rotations cause rebalancing tree, and then retracing one's steps toward the root updating the balance factor of the nodes. The numbered circles represent the nodes being balanced. The lettered triangles represent subtrees which are themselves balanced BSTs
+After inserting a node, it is necessary to check each of the node's ancestors for consistency with the rules of AVL. The balance factor is calculated as follows: balanceFactor = height(left-subtree) - height(right-subtree). For each node checked, if the balance factor remains �?, 0, or +1 then no rotations are necessary. However, if balance factor becomes less than -1 or greater than +1, the subtree rooted at this node is unbalanced. If insertions are performed serially, after each insertion, at most one of the following cases needs to be resolved to restore the entire tree to the rules of AVL.
+There are four cases which need to be considered, of which two are symmetric to the other two. Let P be the root of the unbalanced subtree, with R and L denoting the right and left children of P respectively.
+Right-Right case and Right-Left case:
+If the balance factor of P is -2 then the right subtree outweighs the left subtree of the given node, and the balance factor of the right child (R) must be checked. The left rotation with P as the root is necessary. If the balance factor of R is -1 (or in case of deletion also 0), a single left rotation (with P as the root) is needed (Right-Right case). If the balance factor of R is +1, two different rotations are needed. The first rotation is a right rotation with R as the root. The second is a left rotation with P as the root (Right-Left case).
+Left-Left case and Left-Right case:
+If the balance factor of P is 2, then the left subtree outweighs the right subtree of the given node, and the balance factor of the left child (L) must be checked. The right rotation with P as the root is necessary. If the balance factor of L is +1 (or in case of deletion also 0), a single right rotation (with P as the root) is needed (Left-Left case). If the balance factor of L is -1, two different rotations are needed. The first rotation is a left rotation with L as the root. The second is a right rotation with P as the root (Left-Right case).
+Tree rotations
+Basic operations of an AVL tree involve carrying out the same actions as would be carried out on an unbalanced binary search tree, but modifications are preceded or followed by one or more operations called tree rotations, which help to restore the height balance of the subtrees.
+If deleting an element from a leaf node has brought it under the minimum size, some elements must be redistributed to bring all nodes up to the minimum. In some cases the rearrangement will move the deficiency to the parent, and the redistribution must be applied iteratively up the tree, perhaps even to the root. Since the minimum element count doesn't apply to the root, making the root be the only deficient node is not a problem. The algorithm to rebalance the tree is as follows:[citation needed]
+If the right sibling has more than the minimum number of elements Add the separator to the end of the deficient node Replace the separator in the parent with the first element of the right sibling Append the first child of the right sibling as the last child of the deficient node Otherwise, if the left sibling has more than the minimum number of elements Add the separator to the start of the deficient node Replace the separator in the parent with the last element of the left sibling Insert the last child of the left sibling as the first child of the deficient node If both immediate siblings have only the minimum number of elements Create a new node with all the elements from the deficient node, all the elements from one of its siblings, and the separator in the parent between the two combined sibling nodes Remove the separator from the parent, and replace the two children it separated with the combined node If that brings the number of elements in the parent under the minimum, repeat these steps with that deficient node, unless it is the root, since the root is permitted to be deficient
+The only other case to account for is when the root has no elements and one child. In this case it is sufficient to replace it with its only child.
+If the database does not change, then compiling the index is simple to do, and the index need never be changed. If there are changes, then managing the database and its index becomes more complicated.
+Deleting records from a database doesn't cause much trouble. The index can stay the same, and the record can just be marked as deleted. The database stays in sorted order. If there are a lot of deletions, then the searching and storage become less efficient.
+Insertions are a disaster in a sorted sequential file because room for the inserted record must be made. Inserting a record before the first record in the file requires shifting all of the records down one. Such an operation is just too expensive to be practical.
+A trick is to leave some space lying around to be used for insertions. Instead of densely storing all the records in a block, the block can have some free space to allow for subsequent insertions. Those records would be marked as if they were "deleted" records.
+Now, both insertions and deletions are fast as long as space is available on a block. If an insertion won't fit on the block, then some free space on some nearby block must be found and the auxiliary indices adjusted. The hope is that enough space is nearby such that a lot of blocks do not need to be reorganized. Alternatively, some out-of-sequence disk blocks may be used.
+Many logical operations on BDDs can be implemented by polynomial-time graph manipulation algorithms.
+conjunction disjunction negation existential abstraction universal abstraction
+However, repeating these operations several times, for example forming the conjunction or disjunction of a set of BDDs, may in the worst case result in an exponentially big BDD. This is because any of the preceding operations for two BDDs may result in a BDD with a size proportional to the product of the BDDs' sizes, and consequently for several BDDs the size may be exponential.
+Both the insert and remove operations modify the heap to conform to the shape property first, by adding or removing from the end of the heap. Then the heap property is restored by traversing up or down the heap. Both operations take O(log n) time.
+There are three possible cases to consider:
+Deleting a leaf (node with no children): Deleting a leaf is easy, as we can simply remove it from the tree. Deleting a node with one child: Remove the node and replace it with its child. Deleting a node with two children: Call the node to be deleted N. Do not delete N. Instead, choose either its in-order successor node or its in-order predecessor node, R. Replace the value of N with the value of R, then delete R.
+As with all binary trees, a node's in-order successor is the left-most child of its right subtree, and a node's in-order predecessor is the right-most child of its left subtree. In either case, this node will have zero or one children. Delete it according to one of the two simpler cases above.
+Deleting a node with two children from a binary search tree. The triangles represent subtrees of arbitrary size, each with its leftmost and rightmost child nodes at the bottom two vertices.
+Consistently using the in-order successor or the in-order predecessor for every instance of the two-child case can lead to an unbalanced tree, so good implementations add inconsistency to this selection.
+Running time analysis: Although this operation does not always traverse the tree down to a leaf, this is always a possibility; thus in the worst case it requires time proportional to the height of the tree. It does not require more even when the node has two children, since it still follows a single path and does not visit any node twice.
+Here is the code in Python:
+def findMin(self):
+    '''
+    Finds the smallest element that is a child of *self*
+    '''
+    current_node = self
+    while current_node.left_child:
+        current_node = current_node.left_child
+    return current_node
+ 
+def replace_node_in_parent(self, new_value=None):
+    '''
+    Removes the reference to *self* from *self.parent* and replaces it with *new_value*.
+    '''
+    if self.parent:
+        if self == self.parent.left_child:
+            self.parent.left_child = new_value
+        else:
+            self.parent.right_child = new_value
+    if new_value:
+        new_value.parent = self.parent
+ 
+def binary_tree_delete(self, key):
+    if key < self.key:
+        self.left_child.binary_tree_delete(key)
+    elif key > self.key:
+        self.right_child.binary_tree_delete(key)
+    else: # delete the key here
+        if self.left_child and self.right_child: # if both children are present
+            # get the smallest node that's bigger than *self*
+            successor = self.right_child.findMin()
+            self.key = successor.key
+            # if *successor* has a child, replace it with that
+            # at this point, it can only have a *right_child*
+            # if it has no children, *right_child* will be "None"
+            successor.replace_node_in_parent(successor.right_child)
+        elif self.left_child or self.right_child:   # if the node has only one child
+            if self.left_child:
+                self.replace_node_in_parent(self.left_child)
+            else:
+                self.replace_node_in_parent(self.right_child)
+        else: # this node has no children
+            self.replace_node_in_parent(None)
+Here is the code in C++.
+template <typename T>
+bool BST<T>::Delete(const T & itemToDelete)
+{
+        return Delete(root, itemToDelete);
+}
+ 
+template <typename T>
+bool BST<T>::Delete(Node<T>* & ptr, const T& key)               //helper delete function
+{
+        if (ptr==nullptr)
+        {
+                return false;   // item not in BST
+        }
+ 
+        if (key < ptr->data)
+        {
+                Delete(ptr->LeftChild, key);
+        }
+        else if (key > ptr->data)
+        {
+                Delete(ptr->RightChild, key);
+        }
+        else
+        {
+                Node<T> *temp;
+ 
+                if (ptr->LeftChild==nullptr)
+                {
+                        temp = ptr->RightChild;
+                        delete ptr;
+                        ptr = temp;
+                }
+                else if (ptr->RightChild==nullptr)
+                {
+                        temp = ptr->LeftChild;
+                        delete ptr;
+                        ptr = temp;
+                }
+                else    //2 children
+                {
+                        temp = ptr->RightChild;
+                        Node<T> *parent = nullptr;
+ 
+                        while(temp->LeftChild!=nullptr)
+                        {
+                                parent = temp;
+                                temp = temp->LeftChild;
+                        }
+                        ptr->data = temp->data;
+                        if (parent!=nullptr)
+                                Delete(temp,temp->data);
+                        else
+                                Delete(ptr->rightChild,ptr->RightChild->data);
+                }
+        }
+}
+Insertion begins as a search would begin; if the key is not equal to that of the root, we search the left or right subtrees as before. Eventually, we will reach an external node and add the new key-value pair (here encoded as a record 'newNode') as its right or left child, depending on the node's key. In other words, we examine the root and recursively insert the new node to the left subtree if its key is less than that of the root, or the right subtree if its key is greater than or equal to the root.
+Here's how a typical binary search tree insertion might be performed in C++:
+void insert(int value)
+{
+    if(root == NULL)
+        root = new Node(value);
+    else
+        insertHelper(root, value);
+}
+ 
+void insertHelper(Node* node, int value)
+{
+    if(value < node->key)
+    {
+        if(node->leftChild == NULL)
+            node->leftChild = new Node(value);
+        else
+            insertHelper(node->leftChild, value);
+    }
+    else
+    {
+        if(node->rightChild == NULL)
+            node->rightChild = new Node(value);
+        else
+            insertHelper(node->rightChild, value);
+    }
+}
+or, alternatively, in Java:
+public void InsertNode(Node n, double key) {
+        if (n == null)
+            n = new Ｎode(key);
+        else if (key < n.key) {
+            if (n.left == null) {
+                n.left = new Node(key);
+            }
+ 
+            else {
+                InsertNode(n.left, key);
+            }
+        }
+ 
+        else if (key > n.key) {
+            if (n.right == null) {
+                n.right = new Node(key);
+            }
+            else {
+                InsertNode(n.right, key);
+            }
+        }
+    }
+The above destructive procedural variant modifies the tree in place. It uses only constant heap space (and the iterative version uses constant stack space as well), but the prior version of the tree is lost. Alternatively, as in the following Python example, we can reconstruct all ancestors of the inserted node; any reference to the original tree root remains valid, making the tree a persistent data structure:
+def binary_tree_insert(node, key, value):
+     if node is None:
+         return TreeNode(None, key, value, None)
+     if key == node.key:
+         return TreeNode(node.left, key, value, node.right)
+     if key < node.key:
+         return TreeNode(binary_tree_insert(node.left, key, value), node.key, node.value, node.right)
+     else:
+         return TreeNode(node.left, node.key, node.value, binary_tree_insert(node.right, key, value))
+The part that is rebuilt uses Θ(log n) space in the average case and O(n) in the worst case (see big-O notation).
+In either version, this operation requires time proportional to the height of the tree in the worst case, which is O(log n) time in the average case over all trees, but O(n) time in the worst case.
+Another way to explain insertion is that in order to insert a new node in the tree, its key is first compared with that of the root. If its key is less than the root's, it is then compared with the key of the root's left child. If its key is greater, it is compared with the root's right child. This process continues, until the new node is compared with a leaf node, and then it is added as this node's right or left child, depending on its key.
+There are other ways of inserting nodes into a binary tree, but this is the only way of inserting nodes at the leaves and at the same time preserving the BST structure.
+Here is an iterative approach to inserting into a binary search tree in Java:
+private Node m_root;
+ 
+public void insert(int data) {
+    if (m_root == null) {
+        m_root = new TreeNode(data, null, null);
+        return;
+    }
+    Node root = m_root;
+    while (root != null) {
+        // Choose not add 'data' if already present (an implementation decision)
+        if (data == root.getData()) {
+            return;
+        } else if (data < root.getData()) {
+            // insert left
+            if (root.getLeft() == null) {
+                root.setLeft(new TreeNode(data, null, null));
+                return;
+            } else {
+                root = root.getLeft();
+            }
+        } else {
+            // insert right
+            if (root.getRight() == null) {
+                root.setRight(new TreeNode(data, null, null));
+                return;
+            } else {
+                root = root.getRight();
+            }
+        }
+    }
+}
+Below is a recursive approach to the insertion method.
+private Node m_root;
+ 
+public void insert(int data){
+    if (m_root == null) {
+        m_root = new TreeNode(data, null, null);        
+    } else {
+        internalInsert(m_root, data);
+    }
+}
+ 
+private static void internalInsert(Node node, int data){
+    // Choose not add 'data' if already present (an implementation decision)
+    if (data == node.getKey()) {
+        return;
+    } else if (data < node.getKey()) {
+        if (node.getLeft() == null) {
+            node.setLeft(new TreeNode(data, null, null));
+        } else {
+            internalInsert(node.getLeft(), data);
+        }
+    } else {
+        if (node.getRight() == null) {
+            node.setRight(new TreeNode(data, null, null));
+        } else {
+            internalInsert(node.getRight(), data);
+        }       
+    }
+}
+Operations on a binary search tree require comparisons between nodes. These comparisons are made with calls to a comparator, which is a subroutine that computes the total order (linear order) on any two keys. This comparator can be explicitly or implicitly defined, depending on the language in which the BST is implemented.
+Another solution is to keep a flag indicating whether the most recent operation was a read or a write. If the two pointers are equal, then the flag will show whether the buffer is full or empty: if the most recent operation was a write, the buffer must be full, and conversely if it was a read, it must be empty.
+The advantages are:
+Only a single bit needs to be stored (which may be particularly useful if the algorithm is implemented in hardware) The test for full/empty is simple
+The disadvantage is:
+You need an extra variable Read and write operation must share the flag, so it probably require synchronization in multi-threaded situation.
+Another solution is to keep a flag indicating whether the most recent operation was a read or a write. If the two pointers are equal, then the flag will show whether the buffer is full or empty: if the most recent operation was a write, the buffer must be full, and conversely if it was a read, it must be empty.
+The advantages are:
+Only a single bit needs to be stored (which may be particularly useful if the algorithm is implemented in hardware) The test for full/empty is simple
+The disadvantage is:
+You need an extra variable Read and write operation must share the flag, so it probably require synchronization in multi-threaded situation.
+The basic operations on a deque are enqueue and dequeue on either end. Also generally implemented are peek operations, which return the value at that end without dequeuing it.
+Names vary between languages; major implementations include:
+operation common name(s) Ada C++ Java Perl PHP Python Ruby JavaScript insert element at back inject, snoc Append push_back offerLast push array_push append push push insert element at front push, cons Prepend push_front offerFirst unshift array_unshift appendleft unshift unshift remove last element eject Delete_Last pop_back pollLast pop array_pop pop pop pop remove first element pop Delete_First pop_front pollFirst shift array_shift popleft shift shift examine last element Last_Element back peekLast $array[-1] end <obj>[-1] last <obj>[<obj>.length - 1] examine first element First_Element front peekFirst $array[0] reset <obj>[0] first <obj>[0]
+A double-ended priority queue features the follow operations:
+isEmpty() Checks if DEPQ is empty and returns true if empty. size() Returns the total number of elements present in the DEPQ. getMin() Returns the element having least priority. getMax() Returns the element having highest priority. put(x) Inserts the element x in the DEPQ. removeMin() Removes an element with minimum priority and returns this element. removeMax() Removes an element with maximum priority and returns this element.
+If an operation is to be performed on two elements having the same priority, then the element inserted first is chosen. Also, the priority of any element can be changed once it has been inserted in the DEPQ.[3]
+Main article: Operations on graphs
+There are several operations that produce new graphs from old ones, which might be classified into the following categories:
+Elementary operations, sometimes called "editing operations" on graphs, which create a new graph from the original one by a simple, local change, such as addition or deletion of a vertex or an edge, merging and splitting of vertices, etc. Graph rewrite operations replacing the occurrence of some pattern graph within the host graph by an instance of the corresponding replacement graph. Unary operations, which create a significantly new graph from the old one. Examples: Line graph Dual graph Complement graph Binary operations, which create new graph from two initial graphs. Examples: Disjoint union of graphs Cartesian product of graphs Tensor product of graphs Strong product of graphs Lexicographic product of graphs
+Heaps are usually implemented in an array, and do not require pointers between elements.
+The operations commonly performed with a heap are:
+create-heap: create an empty heap heapify: create a heap out of given array of elements find-max or find-min: find the maximum item of a max-heap or a minimum item of a min-heap, respectively (aka, peek) delete-max or delete-min: removing the root node of a max- or min-heap, respectively increase-key or decrease-key: updating a key within a max- or min-heap, respectively insert: adding a new key to the heap merge: joining two heaps to form a valid new heap containing all the elements of both.
+Different types of heaps implement the operations in different ways, but notably, insertion is often done by adding the new element at the end of the heap in the first available free space. This will tend to violate the heap property, and so the elements are then reordered until the heap property has been reestablished. Construction of a binary (or d-ary) heap out of given array of elements may be performed faster than a sequence of consecutive insertions into originally empty heap using the classic Floyd's algorithm, with the worst-case number of comparisons equal to 2N �?2s2(N) �?e2(N) (for a binary heap), where s2(N) is the sum of all digits of the binary representation of N and e2(N) is the exponent of 2 in the prime factorization of N.[1]
+If after deleting an interval from the tree, the node containing that interval contains no more intervals, that node may be deleted from the tree. This is more complex than a normal binary tree deletion operation.
+An interval may overlap the center point of several nodes in the tree. Since each node stores the intervals that overlap it, with all intervals completely to the left of its center point in the left subtree, similarly for the right subtree, it follows that each interval is stored in the node closest to the root from the set of nodes whose center point it overlaps.
+Normal deletion operations in a binary tree (for the case where the node being deleted has two children) involve promoting a node further from the root to the position of the node being deleted (usually the leftmost child of the right subtree, or the rightmost child of the left subtree). As a result of this promotion, some nodes that were above the promoted node will become descendents of it; it is necessary to search these nodes for intervals that also overlap the promoted node, and move those intervals into the promoted node. As a consequence, this may result in new empty nodes, which must be deleted, following the same algorithm again.
+When manipulating linked lists in-place, care must be taken to not use values that you have invalidated in previous assignments. This makes algorithms for inserting or deleting linked list nodes somewhat subtle. This section gives pseudocode for adding or removing nodes from singly, doubly, and circularly linked lists in-place. Throughout we will use null to refer to an end-of-list marker or sentinel, which may be implemented in a number of ways.
+Implementation of the list data structure may provide some of the following operations:
+a constructor for creating an empty list; an operation for testing whether or not a list is empty; an operation for prepending an entity to a list an operation for appending an entity to a list an operation for determining the first component (or the "head") of a list an operation for referring to the list consisting of all the components of a list except for its first (this is called the "tail" of the list.)
+Both the insert and remove operations modify the heap to conform to the shape property first, by adding or removing from the end of the heap. Then the heap property is restored by traversing up or down the heap. Both operations take O(log n) time.
+To delete a string x from a tree, we first locate the leaf representing x. Then, assuming x exists, we remove the corresponding leaf node. If the parent of our leaf node has only one other child, then that child's incoming label is appended to the parent's incoming label and the child is removed.
+To insert a string, we search the tree until we can make no further progress. At this point we either add a new outgoing edge labeled with all remaining elements in the input string, or if there is already an outgoing edge sharing a prefix with the remaining input string, we split it into two edges (the first labeled with the common prefix) and proceed. This splitting step ensures that no node has more children than there are possible string elements.
+Several cases of insertion are shown below, though more may exist. Note that r simply represents the root. It is assumed that edges can be labelled with empty strings to terminate strings where necessary and that the root has no incoming edge.
+Insert 'water' at the root Insert 'slower' while keeping 'slow' Insert 'test' which is a prefix of 'tester' Insert 'team' while splitting 'test' and creating a new edge label 'st' Insert 'toast' while splitting 'te' and moving previous strings a level lower
+Radix tries support insertion, deletion, and searching operations. Insertion adds a new string to the trie while trying to minimize the amount of data stored. Deletion removes a string from the trie. Searching operations include exact lookup, find predecessor, find successor, and find all strings with a prefix. All of these operations are O(k) where k is the maximum length of all strings in the set. This list may not be exhaustive.
+A programming language that supports record types usually provides some or all of the following operations:
+Declaration of a new record type, including the position, type, and (possibly) name of each field; Declaration of variables and values as having a given record type; Construction of a record value from given field values and (sometimes) with given field names; Selection of a field of a record with an explicit name; Assignment of a record value to a record variable; Comparison of two records for equality; Computation of a standard hash value for the record.
+Some languages may provide facilities that enumerate all fields of a record, or at least the fields that are references. This facility is needed to implement certain services such as debuggers, garbage collectors, and serialization. It requires some degree of type polymorphism.
+The selection of a field from a record value yields a value.
+Insertion begins by adding the node as any binary search tree insertion does and by coloring it red. Whereas in the binary search tree, we always add a leaf, in the red–black tree leaves contain no information, so instead we add a red interior node, with two black leaves, in place of an existing black leaf.
+What happens next depends on the color of other nearby nodes. The term uncle node will be used to refer to the sibling of a node's parent, as in human family trees. Note that:
+property 3 (all leaves are black) always holds. property 4 (both children of every red node are black) is threatened only by adding a red node, repainting a black node red, or a rotation. property 5 (all paths from any given node to its leaf nodes contain the same number of black nodes) is threatened only by adding a black node, repainting a red node black (or vice versa), or a rotation.
+Note: The label N will be used to denote the current node (colored red). At the beginning, this is the new node being inserted, but the entire procedure may also be applied recursively to other nodes (see case 3). P will denote N's parent node, G will denote N's grandparent, and U will denote N's uncle. Note that in between some cases, the roles and labels of the nodes are exchanged, but in each case, every label continues to represent the same node it represented at the beginning of the case. Any color shown in the diagram is either assumed in its case or implied by those assumptions.
+Each case will be demonstrated with example C code. The uncle and grandparent nodes can be found by these functions:
+struct node *grandparent(struct node *n)
+{
+        if ((n != NULL) && (n->parent != NULL))
+                return n->parent->parent;
+        else
+                return NULL;
+}
+ 
+struct node *uncle(struct node *n)
+{
+        struct node *g = grandparent(n);
+        if (g == NULL)
+                return NULL; // No grandparent means no uncle
+        if (n->parent == g->left)
+                return g->right;
+        else
+                return g->left;
+}
+Case 1: The current node N is at the root of the tree. In this case, it is repainted black to satisfy property 2 (the root is black). Since this adds one black node to every path at once, property 5 (all paths from any given node to its leaf nodes contain the same number of black nodes) is not violated.
+void insert_case1(struct node *n)
+{
+        if (n->parent == NULL)
+                n->color = BLACK;
+        else
+                insert_case2(n);
+}
+Case 2: The current node's parent P is black, so property 4 (both children of every red node are black) is not invalidated. In this case, the tree is still valid. property 5 (all paths from any given node to its leaf nodes contain the same number of black nodes) is not threatened, because the current node N has two black leaf children, but because N is red, the paths through each of its children have the same number of black nodes as the path through the leaf it replaced, which was black, and so this property remains satisfied.
+void insert_case2(struct node *n)
+{
+        if (n->parent->color == BLACK)
+                return; /* Tree is still valid */
+        else
+                insert_case3(n);
+}
+Note: In the following cases it can be assumed that N has a grandparent node G, because its parent P is red, and if it were the root, it would be black. Thus, N also has an uncle node U, although it may be a leaf in cases 4 and 5.
+Case 3: If both the parent P and the uncle U are red, then both of them can be repainted black and the grandparent G becomes red (to maintain property 5 (all paths from any given node to its leaf nodes contain the same number of black nodes)). Now, the current red node N has a black parent. Since any path through the parent or uncle must pass through the grandparent, the number of black nodes on these paths has not changed. However, the grandparent G may now violate properties 2 (The root is black) or 4 (Both children of every red node are black) (property 4 possibly being violated since G may have a red parent). To fix this, the entire procedure is recursively performed on G from case 1. Note that this is a tail-recursive call, so it could be rewritten as a loop; since this is the only loop, and any rotations occur after this loop, this proves that a constant number of rotations occur.
+void insert_case3(struct node *n)
+{
+        struct node *u = uncle(n), *g;
+ 
+        if ((u != NULL) && (u->color == RED)) {
+                n->parent->color = BLACK;
+                u->color = BLACK;
+                g = grandparent(n);
+                g->color = RED;
+                insert_case1(g);
+        } else {
+                insert_case4(n);
+        }
+}
+Note: In the remaining cases, it is assumed that the parent node P is the left child of its parent. If it is the right child, left and right should be reversed throughout cases 4 and 5. The code samples take care of this.
+Case 4: The parent P is red but the uncle U is black; also, the current node N is the right child of P, and P in turn is the left child of its parent G. In this case, a left rotation that switches the roles of the current node N and its parent P can be performed; then, the former parent node P is dealt with using case 5 (relabeling N and P) because property 4 (both children of every red node are black) is still violated. The rotation causes some paths (those in the sub-tree labelled "1") to pass through the node N where they did not before. It also causes some paths (those in the sub-tree labelled "3") not to pass through the node P where they did before. However, both of these nodes are red, so property 5 (all paths from any given node to its leaf nodes contain the same number of black nodes) is not violated by the rotation. After this case has been completed, property 4 (both children of every red node are black) is still violated, but now we can resolve this by continuing to case 5.
+void insert_case4(struct node *n)
+{
+        struct node *g = grandparent(n);
+ 
+        if ((n == n->parent->right) && (n->parent == g->left)) {
+                rotate_left(n->parent);
+                n = n->left;
+        } else if ((n == n->parent->left) && (n->parent == g->right)) {
+                rotate_right(n->parent);
+                n = n->right;
+        }
+        insert_case5(n);
+}
+Case 5: The parent P is red but the uncle U is black, the current node N is the left child of P, and P is the left child of its parent G. In this case, a right rotation on G is performed; the result is a tree where the former parent P is now the parent of both the current node N and the former grandparent G. G is known to be black, since its former child P could not have been red otherwise (without violating property 4). Then, the colors of P and G are switched, and the resulting tree satisfies property 4 (both children of every red node are black). Property 5 (all paths from any given node to its leaf nodes contain the same number of black nodes) also remains satisfied, since all paths that went through any of these three nodes went through G before, and now they all go through P. In each case, this is the only black node of the three.
+void insert_case5(struct node *n)
+{
+        struct node *g = grandparent(n);
+ 
+        n->parent->color = BLACK;
+        g->color = RED;
+        if (n == n->parent->left)
+                rotate_right(g);
+        else
+                rotate_left(g);
+}
+Note that inserting is actually in-place, since all the calls above use tail recursion.
+Read-only operations on a red–black tree require no modification from those used for binary search trees, because every red–black tree is a special case of a simple binary search tree. However, the immediate result of an insertion or removal may violate the properties of a red–black tree. Restoring the red–black properties requires a small number (O(log n) or amortized O(1)) of color changes (which are very quick in practice) and no more than three tree rotations (two for insertion). Although insert and delete operations are complicated, their times remain O(log n).
+In many implementations, a stack has more operations than "push" and "pop". An example is "top of stack", or "peek", which observes the top-most element without removing it from the stack.[5] Since this can be done with a "pop" and a "push" with the same data, it is not essential. An underflow condition can occur in the "stack top" operation if the stack is empty, the same as "pop". Often implementations have a function which just returns if the stack is empty.
+A number of additional operations on strings commonly occur in the formal theory. These are given in the article on string operations.
+Search for bounding node of the value to be deleted. If no bounding node is found then finish. If the bounding node does not contain the value then finish. delete the value from the node's data array
+Now we have to distinguish by node type:
+Internal node:
+If the node's data array now has less than the minimum number of elements then move the greatest lower bound value of this node to its data value. Proceed with one of the following two steps for the half leaf or leaf node the value was removed from.
+Leaf node:
+If this was the only element in the data array then delete the node. Rebalance the tree if needed.
+Half leaf node:
+If the node's data array can be merged with its leaf's data array without overflow then do so and remove the leaf node. Rebalance the tree if needed.
+Search for a bounding node for the new value. If such a node exist then check whether there is still space in its data array, if so then insert the new value and finish if no space is available then remove the minimum value from the node's data array and insert the new value. Now proceed to the node holding the greatest lower bound for the node that the new value was inserted to. If the removed minimum value still fits in there then add it as the new maximum value of the node, else create a new right subnode for this node. If no bounding node was found then insert the value into the last node searched if it still fits into it. In this case the new value will either become the new minimum or maximum value. If the value doesn't fit anymore then create a new left or right subtree.
+If a new node was added then the tree might need to be rebalanced, as described below.
+The Forest updates are all carried out by a sequence of at most Internal Operations, the sequence of which is computed in further time.
+Merge Here and are Mergeable Clusters, it returns as the parent cluster of and and with boundary vertices as the boundary vertices of . Updates to are carried out accordingly.
+Split: Here is . This deletes the cluster from and methods are then called to update and .
+The next two functions are analogous to the above two and are used for base clusters.
+Create: Creates a cluster for the edge . Sets . Methods are then called to compute .
+Eradicate: is the edge cluster . It deletes the cluster from the top tree. The is stored by calling a user defined function, as it may also happen that during a tree update, a leaf cluster may change to a path cluster and the converse.
+Enumerating all the items Enumerating a section of a tree Searching for an item Adding a new item at a certain position on the tree Deleting an item Pruning: Removing a whole section of a tree Grafting: Adding a whole section to a tree Finding the root for any node

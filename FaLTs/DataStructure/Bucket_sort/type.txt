@@ -1,0 +1,5 @@
+The most common variant of bucket sort operates on a list of n numeric inputs between zero and some maximum value M and divides the value range into n buckets each of size M/n.
+ProxmapSort works by dividing an array of keys into subarrays via the use of a "map key" function that preserves a partial ordering on the keys
+Another variant of bucket sort known as histogram sort or counting sort adds an initial pass that counts the number of elements that will fall into each bucket using a count array. 
+The Postman's sort is a variant of bucket sort that takes advantage of a hierarchical structure of elements, typically described by a set of attributes. 
+The shuffle sort[6] is a variant of bucket sort that begins by removing the first 1/8 of the n items to be sorted, sorts them recursively, and puts them in an array. 

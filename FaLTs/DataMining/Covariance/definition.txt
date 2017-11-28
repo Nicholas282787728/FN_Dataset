@@ -1,0 +1,12 @@
+The covariance between two jointly distributed real-valued random variables x and y with finite second moments is defined[2] as
+
+where E[x] is the expected value of x, also known as the mean of x. By using the linearity property of expectations, this can be simplified to
+
+For random vectors and (of dimension m and n respectively) the m×n covariance matrix is equal to
+
+where mT is the transpose of the vector (or matrix) m.
+The (i,j)-th element of this matrix is equal to the covariance Cov(xi, yj) between the i-th scalar component of x and the j-th scalar component of y. In particular, Cov(y, x) is the transpose of Cov(x, y).
+For a vector of m jointly distributed random variables with finite second moments, its covariance matrix is defined as
+
+Random variables whose covariance is zero are called uncorrelated.
+The units of measurement of the covariance Cov(x, y) are those of x times those of y. By contrast, correlation coefficients, which depend on the covariance, are a dimensionless measure of linear dependence. (In fact, correlation coefficients can simply be understood as a normalized version of covariance.)

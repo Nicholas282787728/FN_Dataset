@@ -1,0 +1,1 @@
+In antenna theory, a phased array usually means an electronically scanned array; a computer-controlled array of antennas which creates a beam of radio waves which can be electronically steered to point in different directions, without moving the antennas.

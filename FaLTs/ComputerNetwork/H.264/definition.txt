@@ -1,0 +1,1 @@
+H.264 or MPEG-4 Part 10, Advanced Video Coding (MPEG-4 AVC) is a block-oriented motion-compensation-based video compression standard. As of 2014 it is one of the most commonly used formats for the recording, compression, and distribution of video content.[1] It supports resolutions up to 4096¡Á2304, including 4K UHD.

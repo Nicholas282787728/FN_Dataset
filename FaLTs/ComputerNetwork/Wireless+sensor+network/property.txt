@@ -1,0 +1,19 @@
+The main characteristics of a WSN include:
+
+Power consumption constraints for nodes using batteries or energy harvesting. Examples of suppliers are ReVibe Energy[16] and Perpetuum[17]
+Ability to cope with node failures (resilience)
+Some mobility of nodes (for highly mobile nodes see MWSNs)
+Heterogeneity of nodes
+Homogeneity of nodes
+Scalability to large scale of deployment
+Ability to withstand harsh environmental conditions
+Ease of use
+Cross-layer design[18][19][20]
+Cross-layer is becoming an important studying area for wireless communications.[19] In addition, the traditional layered approach presents three main problems:
+
+Traditional layered approach cannot share different information among different layers, which leads to each layer not having complete information. The traditional layered approach cannot guarantee the optimization of the entire network.
+The traditional layered approach does not have the ability to adapt to the environmental change.
+Because of the interference between the different users, access conflicts, fading, and the change of environment in the wireless sensor networks, traditional layered approach for wired networks is not applicable to wireless networks.
+So the cross-layer can be used to make the optimal modulation to improve the transmission performance, such as data rate, energy efficiency, QoS (Quality of Service), etc.[19] Sensor nodes can be imagined as small computers which are extremely basic in terms of their interfaces and their components. They usually consist of a processing unit with limited computational power and limited memory, sensors or MEMS (including specific conditioning circuitry), a communication device (usually radio transceivers or alternatively optical), and a power source usually in the form of a battery. Other possible inclusions are energy harvesting modules,[21] secondary ASICs, and possibly secondary communication interface (e.g. RS-232 or USB).
+
+The base stations are one or more components of the WSN with much more computational, energy and communication resources. They act as a gateway between sensor nodes and the end user as they typically forward data from the WSN on to a server. Other special components in routing based networks are routers, designed to compute, calculate and distribute the routing tables.

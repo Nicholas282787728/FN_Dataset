@@ -1,0 +1,3 @@
+A dipole graph containing n edges is called the order-n dipole graph, and is denoted by Dn. The order-n dipole graph is dual to the cycle graph Cn.
+
+The honeycomb as an abstract graph is the maximal abelian covering graph of the dipole graph D3, while the diamond crystal as an abstract graph is the maximal abelian covering graph of D4.

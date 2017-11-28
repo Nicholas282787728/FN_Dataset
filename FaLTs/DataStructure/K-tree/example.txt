@@ -1,0 +1,2 @@
+The complete graph on n vertices is the Kneser graph KGn,1.
+The Kneser graph KG2n �?1,n �?1 is known as the odd graph On; the odd graph O3 = KG5,2 is isomorphic to the Petersen Graph.

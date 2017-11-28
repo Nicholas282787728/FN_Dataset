@@ -1,0 +1,14 @@
+The standard deviation is invariant under changes in location, and scales directly with the scale of the random variable. Thus, for a constant c and random variables X and Y:
+
+
+
+The standard deviation of the sum of two random variables can be related to their individual standard deviations and the covariance between them:
+
+where and stand for variance and covariance, respectively.
+The calculation of the sum of squared deviations can be related to moments calculated directly from the data. The standard deviation of the sample can be computed as:
+
+The sample standard deviation can be computed as:
+
+For a finite population with equal probabilities at all points, we have
+
+This means that the standard deviation is equal to the square root of (the average of the squares less the square of the average). See computational formula for the variance for proof, and for an analogous result for the sample standard deviation.

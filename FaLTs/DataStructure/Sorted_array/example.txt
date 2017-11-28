@@ -1,0 +1,8 @@
+To insert the value "25" into this 2�?�? tree:
+
+Begin at the root (10, 20) and descend towards the rightmost child (22, 24, 29). (Its interval (20, �? contains 25.) Node (22, 24, 29) is a 4-node, so its middle element 24 is pushed up into the parent node.
+
+The remaining 3-node (22, 29) is split into a pair of 2-nodes (22) and (29). Ascend back into the new parent (10, 20, 24). Descend towards the rightmost child (29). (Its interval (24, �? contains 25.)
+
+Node (29) has no leftmost child. (The child for interval (�? 29) is empty.) Stop here and insert value 25 into this node.
+

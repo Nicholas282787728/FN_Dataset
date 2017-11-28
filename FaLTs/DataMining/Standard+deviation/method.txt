@@ -1,0 +1,17 @@
+See also: Algorithms for calculating variance
+The following two formulas can represent a running (continuous) standard deviation. A set of three power sums s0, s1, s2 are each computed over a set of N values of x, denoted as x1, ..., xN:
+
+Note that s0 raises x to the zero power, and since x0 is always 1, s0 evaluates to N.
+Given the results of these three running summations, the values s0, s1, s2 can be used at any time to compute the current value of the running standard deviation:
+
+Similarly for sample standard deviation,
+
+In a computer implementation, as the three sj sums become large, we need to consider round-off error, arithmetic overflow, and arithmetic underflow. The method below calculates the running sums method with reduced rounding errors.[7] This is a "one pass" algorithm for calculating variance of n samples without the need to store prior data during the calculation. Applying this method to a time series will result in successive values of standard deviation corresponding to n data points as n grows larger with each new sample, rather than a constant-width sliding window calculation.
+For k = 0, ..., n:
+
+where A is the mean value.
+
+Sample variance:
+
+Standard variance:
+

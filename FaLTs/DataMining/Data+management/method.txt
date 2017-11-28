@@ -1,0 +1,13 @@
+Integrated data management (IDM) is a tools approach to facilitate data management and improve performance. IDM consists of an integrated, modular environment to manage enterprise application data, and optimize data-driven applications over its lifetime.[5][6][7][8] IDM's purpose is to:
+
+Produce enterprise-ready applications faster
+Improve data access, speed iterative testing
+Empower collaboration between architects, developers and DBAs
+Consistently achieve service level targets
+Automate and simplify operations
+Provide contextual intelligence across the solution stack
+Support business growth
+Accommodate new initiatives without expanding infrastructure
+Simplify application upgrades, consolidation and retirement
+Facilitate alignment, consistency and governance
+Define business policies and standards up front; share, extend, and apply throughout the lifecycle

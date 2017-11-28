@@ -1,0 +1,2 @@
+This means that the maximum number of operations needed to find the search target is a logarithmic function of the size of the search space.
+ Especially the influence of the penalty values assigned for the mismatch, the insertion and the deletion on the algorithm has been analyzed. 

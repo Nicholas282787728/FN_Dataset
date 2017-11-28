@@ -1,0 +1,335 @@
+Deletion is the process whereby a node is removed from the tree. Only certain nodes in a binary tree can be removed unambiguously.[6]
+Nodes can be inserted into binary trees in between two other nodes or added after an external node. In binary trees, a node that is inserted is specified as to which child it is.
+There are a variety of different operations that can be performed on binary trees. Some are mutator operations, while others simply return useful information about the tree.
+There are three possible cases to consider:
+Deleting a leaf (node with no children): Deleting a leaf is easy, as we can simply remove it from the tree. Deleting a node with one child: Remove the node and replace it with its child. Deleting a node with two children: Call the node to be deleted N. Do not delete N. Instead, choose either its in-order successor node or its in-order predecessor node, R. Replace the value of N with the value of R, then delete R.
+As with all binary trees, a node's in-order successor is the left-most child of its right subtree, and a node's in-order predecessor is the right-most child of its left subtree. In either case, this node will have zero or one children. Delete it according to one of the two simpler cases above.
+Deleting a node with two children from a binary search tree. The triangles represent subtrees of arbitrary size, each with its leftmost and rightmost child nodes at the bottom two vertices.
+Consistently using the in-order successor or the in-order predecessor for every instance of the two-child case can lead to an unbalanced tree, so good implementations add inconsistency to this selection.
+Running time analysis: Although this operation does not always traverse the tree down to a leaf, this is always a possibility; thus in the worst case it requires time proportional to the height of the tree. It does not require more even when the node has two children, since it still follows a single path and does not visit any node twice.
+Here is the code in Python:
+def findMin(self):
+    '''
+    Finds the smallest element that is a child of *self*
+    '''
+    current_node = self
+    while current_node.left_child:
+        current_node = current_node.left_child
+    return current_node
+ 
+def replace_node_in_parent(self, new_value=None):
+    '''
+    Removes the reference to *self* from *self.parent* and replaces it with *new_value*.
+    '''
+    if self.parent:
+        if self == self.parent.left_child:
+            self.parent.left_child = new_value
+        else:
+            self.parent.right_child = new_value
+    if new_value:
+        new_value.parent = self.parent
+ 
+def binary_tree_delete(self, key):
+    if key < self.key:
+        self.left_child.binary_tree_delete(key)
+    elif key > self.key:
+        self.right_child.binary_tree_delete(key)
+    else: # delete the key here
+        if self.left_child and self.right_child: # if both children are present
+            # get the smallest node that's bigger than *self*
+            successor = self.right_child.findMin()
+            self.key = successor.key
+            # if *successor* has a child, replace it with that
+            # at this point, it can only have a *right_child*
+            # if it has no children, *right_child* will be "None"
+            successor.replace_node_in_parent(successor.right_child)
+        elif self.left_child or self.right_child:   # if the node has only one child
+            if self.left_child:
+                self.replace_node_in_parent(self.left_child)
+            else:
+                self.replace_node_in_parent(self.right_child)
+        else: # this node has no children
+            self.replace_node_in_parent(None)
+Here is the code in C++.
+template <typename T>
+bool BST<T>::Delete(const T & itemToDelete)
+{
+        return Delete(root, itemToDelete);
+}
+ 
+template <typename T>
+bool BST<T>::Delete(Node<T>* & ptr, const T& key)               //helper delete function
+{
+        if (ptr==nullptr)
+        {
+                return false;   // item not in BST
+        }
+ 
+        if (key < ptr->data)
+        {
+                Delete(ptr->LeftChild, key);
+        }
+        else if (key > ptr->data)
+        {
+                Delete(ptr->RightChild, key);
+        }
+        else
+        {
+                Node<T> *temp;
+ 
+                if (ptr->LeftChild==nullptr)
+                {
+                        temp = ptr->RightChild;
+                        delete ptr;
+                        ptr = temp;
+                }
+                else if (ptr->RightChild==nullptr)
+                {
+                        temp = ptr->LeftChild;
+                        delete ptr;
+                        ptr = temp;
+                }
+                else    //2 children
+                {
+                        temp = ptr->RightChild;
+                        Node<T> *parent = nullptr;
+ 
+                        while(temp->LeftChild!=nullptr)
+                        {
+                                parent = temp;
+                                temp = temp->LeftChild;
+                        }
+                        ptr->data = temp->data;
+                        if (parent!=nullptr)
+                                Delete(temp,temp->data);
+                        else
+                                Delete(ptr->rightChild,ptr->RightChild->data);
+                }
+        }
+}
+Insertion begins as a search would begin; if the key is not equal to that of the root, we search the left or right subtrees as before. Eventually, we will reach an external node and add the new key-value pair (here encoded as a record 'newNode') as its right or left child, depending on the node's key. In other words, we examine the root and recursively insert the new node to the left subtree if its key is less than that of the root, or the right subtree if its key is greater than or equal to the root.
+Here's how a typical binary search tree insertion might be performed in C++:
+void insert(int value)
+{
+    if(root == NULL)
+        root = new Node(value);
+    else
+        insertHelper(root, value);
+}
+ 
+void insertHelper(Node* node, int value)
+{
+    if(value < node->key)
+    {
+        if(node->leftChild == NULL)
+            node->leftChild = new Node(value);
+        else
+            insertHelper(node->leftChild, value);
+    }
+    else
+    {
+        if(node->rightChild == NULL)
+            node->rightChild = new Node(value);
+        else
+            insertHelper(node->rightChild, value);
+    }
+}
+or, alternatively, in Java:
+public void InsertNode(Node n, double key) {
+        if (n == null)
+            n = new Ｎode(key);
+        else if (key < n.key) {
+            if (n.left == null) {
+                n.left = new Node(key);
+            }
+ 
+            else {
+                InsertNode(n.left, key);
+            }
+        }
+ 
+        else if (key > n.key) {
+            if (n.right == null) {
+                n.right = new Node(key);
+            }
+            else {
+                InsertNode(n.right, key);
+            }
+        }
+    }
+The above destructive procedural variant modifies the tree in place. It uses only constant heap space (and the iterative version uses constant stack space as well), but the prior version of the tree is lost. Alternatively, as in the following Python example, we can reconstruct all ancestors of the inserted node; any reference to the original tree root remains valid, making the tree a persistent data structure:
+def binary_tree_insert(node, key, value):
+     if node is None:
+         return TreeNode(None, key, value, None)
+     if key == node.key:
+         return TreeNode(node.left, key, value, node.right)
+     if key < node.key:
+         return TreeNode(binary_tree_insert(node.left, key, value), node.key, node.value, node.right)
+     else:
+         return TreeNode(node.left, node.key, node.value, binary_tree_insert(node.right, key, value))
+The part that is rebuilt uses Θ(log n) space in the average case and O(n) in the worst case (see big-O notation).
+In either version, this operation requires time proportional to the height of the tree in the worst case, which is O(log n) time in the average case over all trees, but O(n) time in the worst case.
+Another way to explain insertion is that in order to insert a new node in the tree, its key is first compared with that of the root. If its key is less than the root's, it is then compared with the key of the root's left child. If its key is greater, it is compared with the root's right child. This process continues, until the new node is compared with a leaf node, and then it is added as this node's right or left child, depending on its key.
+There are other ways of inserting nodes into a binary tree, but this is the only way of inserting nodes at the leaves and at the same time preserving the BST structure.
+Here is an iterative approach to inserting into a binary search tree in Java:
+private Node m_root;
+ 
+public void insert(int data) {
+    if (m_root == null) {
+        m_root = new TreeNode(data, null, null);
+        return;
+    }
+    Node root = m_root;
+    while (root != null) {
+        // Choose not add 'data' if already present (an implementation decision)
+        if (data == root.getData()) {
+            return;
+        } else if (data < root.getData()) {
+            // insert left
+            if (root.getLeft() == null) {
+                root.setLeft(new TreeNode(data, null, null));
+                return;
+            } else {
+                root = root.getLeft();
+            }
+        } else {
+            // insert right
+            if (root.getRight() == null) {
+                root.setRight(new TreeNode(data, null, null));
+                return;
+            } else {
+                root = root.getRight();
+            }
+        }
+    }
+}
+Below is a recursive approach to the insertion method.
+private Node m_root;
+ 
+public void insert(int data){
+    if (m_root == null) {
+        m_root = new TreeNode(data, null, null);        
+    } else {
+        internalInsert(m_root, data);
+    }
+}
+ 
+private static void internalInsert(Node node, int data){
+    // Choose not add 'data' if already present (an implementation decision)
+    if (data == node.getKey()) {
+        return;
+    } else if (data < node.getKey()) {
+        if (node.getLeft() == null) {
+            node.setLeft(new TreeNode(data, null, null));
+        } else {
+            internalInsert(node.getLeft(), data);
+        }
+    } else {
+        if (node.getRight() == null) {
+            node.setRight(new TreeNode(data, null, null));
+        } else {
+            internalInsert(node.getRight(), data);
+        }       
+    }
+}
+Operations on a binary search tree require comparisons between nodes. These comparisons are made with calls to a comparator, which is a subroutine that computes the total order (linear order) on any two keys. This comparator can be explicitly or implicitly defined, depending on the language in which the BST is implemented.
+Insertion begins by adding the node as any binary search tree insertion does and by coloring it red. Whereas in the binary search tree, we always add a leaf, in the red–black tree leaves contain no information, so instead we add a red interior node, with two black leaves, in place of an existing black leaf.
+What happens next depends on the color of other nearby nodes. The term uncle node will be used to refer to the sibling of a node's parent, as in human family trees. Note that:
+property 3 (all leaves are black) always holds. property 4 (both children of every red node are black) is threatened only by adding a red node, repainting a black node red, or a rotation. property 5 (all paths from any given node to its leaf nodes contain the same number of black nodes) is threatened only by adding a black node, repainting a red node black (or vice versa), or a rotation.
+Note: The label N will be used to denote the current node (colored red). At the beginning, this is the new node being inserted, but the entire procedure may also be applied recursively to other nodes (see case 3). P will denote N's parent node, G will denote N's grandparent, and U will denote N's uncle. Note that in between some cases, the roles and labels of the nodes are exchanged, but in each case, every label continues to represent the same node it represented at the beginning of the case. Any color shown in the diagram is either assumed in its case or implied by those assumptions.
+Each case will be demonstrated with example C code. The uncle and grandparent nodes can be found by these functions:
+struct node *grandparent(struct node *n)
+{
+        if ((n != NULL) && (n->parent != NULL))
+                return n->parent->parent;
+        else
+                return NULL;
+}
+ 
+struct node *uncle(struct node *n)
+{
+        struct node *g = grandparent(n);
+        if (g == NULL)
+                return NULL; // No grandparent means no uncle
+        if (n->parent == g->left)
+                return g->right;
+        else
+                return g->left;
+}
+Case 1: The current node N is at the root of the tree. In this case, it is repainted black to satisfy property 2 (the root is black). Since this adds one black node to every path at once, property 5 (all paths from any given node to its leaf nodes contain the same number of black nodes) is not violated.
+void insert_case1(struct node *n)
+{
+        if (n->parent == NULL)
+                n->color = BLACK;
+        else
+                insert_case2(n);
+}
+Case 2: The current node's parent P is black, so property 4 (both children of every red node are black) is not invalidated. In this case, the tree is still valid. property 5 (all paths from any given node to its leaf nodes contain the same number of black nodes) is not threatened, because the current node N has two black leaf children, but because N is red, the paths through each of its children have the same number of black nodes as the path through the leaf it replaced, which was black, and so this property remains satisfied.
+void insert_case2(struct node *n)
+{
+        if (n->parent->color == BLACK)
+                return; /* Tree is still valid */
+        else
+                insert_case3(n);
+}
+Note: In the following cases it can be assumed that N has a grandparent node G, because its parent P is red, and if it were the root, it would be black. Thus, N also has an uncle node U, although it may be a leaf in cases 4 and 5.
+Case 3: If both the parent P and the uncle U are red, then both of them can be repainted black and the grandparent G becomes red (to maintain property 5 (all paths from any given node to its leaf nodes contain the same number of black nodes)). Now, the current red node N has a black parent. Since any path through the parent or uncle must pass through the grandparent, the number of black nodes on these paths has not changed. However, the grandparent G may now violate properties 2 (The root is black) or 4 (Both children of every red node are black) (property 4 possibly being violated since G may have a red parent). To fix this, the entire procedure is recursively performed on G from case 1. Note that this is a tail-recursive call, so it could be rewritten as a loop; since this is the only loop, and any rotations occur after this loop, this proves that a constant number of rotations occur.
+void insert_case3(struct node *n)
+{
+        struct node *u = uncle(n), *g;
+ 
+        if ((u != NULL) && (u->color == RED)) {
+                n->parent->color = BLACK;
+                u->color = BLACK;
+                g = grandparent(n);
+                g->color = RED;
+                insert_case1(g);
+        } else {
+                insert_case4(n);
+        }
+}
+Note: In the remaining cases, it is assumed that the parent node P is the left child of its parent. If it is the right child, left and right should be reversed throughout cases 4 and 5. The code samples take care of this.
+Case 4: The parent P is red but the uncle U is black; also, the current node N is the right child of P, and P in turn is the left child of its parent G. In this case, a left rotation that switches the roles of the current node N and its parent P can be performed; then, the former parent node P is dealt with using case 5 (relabeling N and P) because property 4 (both children of every red node are black) is still violated. The rotation causes some paths (those in the sub-tree labelled "1") to pass through the node N where they did not before. It also causes some paths (those in the sub-tree labelled "3") not to pass through the node P where they did before. However, both of these nodes are red, so property 5 (all paths from any given node to its leaf nodes contain the same number of black nodes) is not violated by the rotation. After this case has been completed, property 4 (both children of every red node are black) is still violated, but now we can resolve this by continuing to case 5.
+void insert_case4(struct node *n)
+{
+        struct node *g = grandparent(n);
+ 
+        if ((n == n->parent->right) && (n->parent == g->left)) {
+                rotate_left(n->parent);
+                n = n->left;
+        } else if ((n == n->parent->left) && (n->parent == g->right)) {
+                rotate_right(n->parent);
+                n = n->right;
+        }
+        insert_case5(n);
+}
+Case 5: The parent P is red but the uncle U is black, the current node N is the left child of P, and P is the left child of its parent G. In this case, a right rotation on G is performed; the result is a tree where the former parent P is now the parent of both the current node N and the former grandparent G. G is known to be black, since its former child P could not have been red otherwise (without violating property 4). Then, the colors of P and G are switched, and the resulting tree satisfies property 4 (both children of every red node are black). Property 5 (all paths from any given node to its leaf nodes contain the same number of black nodes) also remains satisfied, since all paths that went through any of these three nodes went through G before, and now they all go through P. In each case, this is the only black node of the three.
+void insert_case5(struct node *n)
+{
+        struct node *g = grandparent(n);
+ 
+        n->parent->color = BLACK;
+        g->color = RED;
+        if (n == n->parent->left)
+                rotate_right(g);
+        else
+                rotate_left(g);
+}
+Note that inserting is actually in-place, since all the calls above use tail recursion.
+Read-only operations on a red–black tree require no modification from those used for binary search trees, because every red–black tree is a special case of a simple binary search tree. However, the immediate result of an insertion or removal may violate the properties of a red–black tree. Restoring the red–black properties requires a small number (O(log n) or amortized O(1)) of color changes (which are very quick in practice) and no more than three tree rotations (two for insertion). Although insert and delete operations are complicated, their times remain O(log n).
+Search for bounding node of the value to be deleted. If no bounding node is found then finish. If the bounding node does not contain the value then finish. delete the value from the node's data array
+Now we have to distinguish by node type:
+Internal node:
+If the node's data array now has less than the minimum number of elements then move the greatest lower bound value of this node to its data value. Proceed with one of the following two steps for the half leaf or leaf node the value was removed from.
+Leaf node:
+If this was the only element in the data array then delete the node. Rebalance the tree if needed.
+Half leaf node:
+If the node's data array can be merged with its leaf's data array without overflow then do so and remove the leaf node. Rebalance the tree if needed.
+Search for a bounding node for the new value. If such a node exist then check whether there is still space in its data array, if so then insert the new value and finish if no space is available then remove the minimum value from the node's data array and insert the new value. Now proceed to the node holding the greatest lower bound for the node that the new value was inserted to. If the removed minimum value still fits in there then add it as the new maximum value of the node, else create a new right subnode for this node. If no bounding node was found then insert the value into the last node searched if it still fits into it. In this case the new value will either become the new minimum or maximum value. If the value doesn't fit anymore then create a new left or right subtree.
+If a new node was added then the tree might need to be rebalanced, as described below.
+The Forest updates are all carried out by a sequence of at most Internal Operations, the sequence of which is computed in further time.
+Merge Here and are Mergeable Clusters, it returns as the parent cluster of and and with boundary vertices as the boundary vertices of . Updates to are carried out accordingly.
+Split: Here is . This deletes the cluster from and methods are then called to update and .
+The next two functions are analogous to the above two and are used for base clusters.
+Create: Creates a cluster for the edge . Sets . Methods are then called to compute .
+Eradicate: is the edge cluster . It deletes the cluster from the top tree. The is stored by calling a user defined function, as it may also happen that during a tree update, a leaf cluster may change to a path cluster and the converse.
