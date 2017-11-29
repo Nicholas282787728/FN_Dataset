@@ -1,2 +1,0 @@
-★On which frequency does 3G GSM work in India?Is any of the american frequency compatible with 3G frequencies in India? T-Mobile? AT&T?
-19xx MHz for uplink and 21xx MHz for downlink. This document could be useful to know frequencies allotted to each operator in each service area - wpc.dot.gov.in/DocFiles/3G%20spectrum%20allotment%20details.pdf

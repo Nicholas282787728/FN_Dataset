@@ -1,2 +1,0 @@
-★How would linear regression be described and explained in layman's terms?
-Least squares has a cute physical interpretation.  The minimization of the squared deviation is analogous to the minimization of a quadratic potential which implies a linear force.  Least squares can then be thought of as the ground state of a rigid rod (or plane in higher dimensions) connected to each point with perfect springs.  . Each point pulls the rod towards it, and the least squares fit is the position of the rod that equilibrates all of the forces.

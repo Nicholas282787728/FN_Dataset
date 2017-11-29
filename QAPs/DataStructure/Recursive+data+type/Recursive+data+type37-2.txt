@@ -1,2 +1,0 @@
-What does the following statement mean in Scala?
-Int is the return type of the recursive method loop. In Scala an explicit return type is required for recursive functions. In this case it is an infinite recursion which will never return. In other languages such code will cause a stack overflow. In Scala we have tail recursion elimination which means it just runs forever in an infinite loop. 

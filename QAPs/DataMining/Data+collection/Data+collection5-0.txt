@@ -1,2 +1,0 @@
-What iPhone/Android apps are used for research and data collection?
-Take a look at MetricWire. We have a web interface where you can design your study personally without having to talk with a developer. Also supports geo-fencing and location tracking. The app can also run in the background without the need to be connected to an internet connection, and send push notifications/reminders when needed.  Mobile Data Collection Made Easy    Embed Quote 

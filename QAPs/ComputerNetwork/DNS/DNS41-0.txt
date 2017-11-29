@@ -1,2 +1,0 @@
-★Who hosts your .io DNS?.io domans require at least one of the name servers to be located in the Indian Ocean. GoDaddy, my normal registrar/DNS host doesn't have that. I can't find any info on whether AWS does either. Who do you use for hosting .io DNS?
-I'd vouch for Gandi too. They're great in many aspects: good prices, great support, an honest company, good admin interfaces, etc.

@@ -1,2 +1,0 @@
-★Are polynomials linear functions?
-Better question - are linear functions polynomials? YES. Your original question - not in general. Linear functions are special case of polynomials, namely first order polynomials.    Embed Quote

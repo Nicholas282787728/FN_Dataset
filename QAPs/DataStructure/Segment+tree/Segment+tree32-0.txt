@@ -1,2 +1,0 @@
-What is the best tutorial on implementing segment trees with lazy propagation?
-Here: Let us code: Segment Trees Once you know segment trees, life starts to get dangerous. 

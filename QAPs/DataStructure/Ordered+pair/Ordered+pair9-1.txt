@@ -1,2 +1,0 @@
-Cos(a+b) =1/e and cos(a-b) =1. How can I find the no. of ordered pairs of (a,b), where -pi<= a,b <=pi?
-The requirement that [math]\cos{(a-b)}=1[/math] is very special. Only two values of a-b in the specified range meet the requirement: [math]a-b =\frac{\pi}{2}[/math] [math]a-b =-\frac{\pi}{2}[/math] If we take the first alternative and simple trigonometric identities we quickly find that [math]\sin{(2b)}=\frac{1}{e}[/math] I'm sure you can take it from there. 

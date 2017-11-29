@@ -1,2 +1,0 @@
-Is there any way to scrape data from a LinkedIn public profile?
-Does anybody know why a website such as Rapportive or Connect6° DOES NOT violate LinkedIn's TOS? Looking at the way these two websites work, I am pretty sure they must "scrape," or at least do something similarly, in order to get basic infos such as name, job title, company, LinkedIn's profile pictures of the target person searched by their users?    Embed Quote 

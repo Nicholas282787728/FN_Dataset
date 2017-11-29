@@ -1,2 +1,0 @@
-What are the best websites a programmer should visit?
-http://norvig.com/ By Google's director of research! There are lots of code snippets, articles, and essays. Here are my favorites: Python 21 line industry strength spell checker: How to Write a Spelling Corrector Famous keynote at Berkeley's CS commencement: http://norvig.com/speech.html Teach yourself programming in 10 years!: http://norvig.com/21-days.html His daughter's Java Applet Game: http://norvig.com/Pugdom/index.html Updated 66w ago • View Upvotes

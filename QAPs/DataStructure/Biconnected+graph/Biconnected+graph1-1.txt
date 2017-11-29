@@ -1,2 +1,0 @@
-How can we find those points which are forming a cycle in a graph?
-Tarjan's algorithm for finding SCC (strongly connected components) is probably what you are looking for. Tarjan's strongly connected components algorithm 

@@ -1,2 +1,0 @@
-★How do you you find a rogue DHCP server on a large network?
-It depends on how this network is setup. but, If you can get on a client pc that obtained a rogue address then you could logon to what would then be your default gateway? There you could disable the DHCP server if that is your standard config.

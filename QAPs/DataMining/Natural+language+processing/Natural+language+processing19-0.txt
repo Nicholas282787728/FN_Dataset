@@ -1,2 +1,0 @@
-★What are some good resources for getting started learning about natural language processing?This is a follow-up question to What are some good books on natural language processing and semantic analysis?.  I'm interested not just in textbooks, but papers, blogs, basic programming toolkits, etc.
-speech and language processing  by  Daniel Jurafsky and  James H. Martin (http://www.cs.colorado.edu/~mart...)    Embed Quote

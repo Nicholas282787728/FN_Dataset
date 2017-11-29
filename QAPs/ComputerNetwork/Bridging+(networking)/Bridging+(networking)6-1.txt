@@ -1,2 +1,0 @@
-★What are the usual common business cases for Linux networking bridging?
-I'm speculating but it would be very useful for network routers and switches (many of which run a Linux kernel).

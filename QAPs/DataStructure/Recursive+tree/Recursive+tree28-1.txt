@@ -1,2 +1,0 @@
-What would be the space complexity of a recursive inorder traversal of a binary tree?
-As you've mentioned. Space complexity is O(d) where d is the depth of the binary tree. 

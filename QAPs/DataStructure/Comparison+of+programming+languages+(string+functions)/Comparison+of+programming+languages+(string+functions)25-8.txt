@@ -1,2 +1,0 @@
-Why are Java 8 lambda expressions regarded as a big change in the Java programming language?
-Java 8 - Working with Collections, Streams and Lambda expressions - Code Snippets 

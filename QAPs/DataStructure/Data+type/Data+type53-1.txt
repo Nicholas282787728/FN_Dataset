@@ -1,2 +1,0 @@
-What's the size of char, int and float data types?
-The size of char, int and float are 1,2 and 4 respectively. But size may vary from compiler to compiler. To check out what's the size of char, int and float on your compiler, try the following code. #include<stdio.h> int main() { printf("int=%d\nchar= %d\nFloat=%d",sizeof(int),sizeof(char),sizeof(float)); return 0; } 485 Views

@@ -1,2 +1,0 @@
-★How much bandwidth is used in league of legends?
-Any network monitoring program can measure the bandwidth of the game Generally the game doesn't require much bandwidth as all the sounds,models and pictures Are already downloaded. If your having ping issues that are caused by other apps that uses the network. Netlimiter is a great app that I used to use ( before I quit the game)

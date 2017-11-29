@@ -1,2 +1,0 @@
-Which data type is better either float or double in c++?
-As the name implies, a double has 2x the precision of float. In general a double has 15 decimal digits of precision, while float has 7. So it depends on your Variable if you need more precision you should use Double, but if your variable does not have to do much then Float is better, as it also takes less space in memory. (Generally in big programs space is taken into consideration so it is okay to use any) Follow my Blog 117 Views · 1 Upvote

@@ -1,2 +1,0 @@
-★What are the available APIs for NLP (Natural Language Processing)?What are the (open and commercial) available APIs for doing Natural Language Processing?
-My company, NeedTagger, offers a simple text classification API, Social Signals, that identifies more than 70 types of commercial intent expressed on Twitter: https://needtagger.3scale.net/    Embed Quote

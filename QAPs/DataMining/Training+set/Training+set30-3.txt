@@ -1,2 +1,0 @@
-★When I model logistic regression on my train set it works, but when I do it on the test it fails. The variables are the same. What is the problem?
-factor Headline has new levels The above means the response in the test data has extra labels. labels(train$dependent) should be the same to labels(test$dependent).    Embed Quote

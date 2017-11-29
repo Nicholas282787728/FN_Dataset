@@ -1,2 +1,0 @@
-Where can we find free data sets of organized information?
-Google Public Data http://www.google.com/publicdata... Amazon AWS Public Data Sets http://aws.amazon.com/publicdata... Internet Archive Web Crawl Data Set http://blog.archive.org/2012/10/... Stack Overflow DB Dump http://blog.stackoverflow.com/ca... IMDb DB Dump http://www.imdb.com/interfaces GitHub Data Set https://github.com/blog/1112-dat... Wikipedia Dumps http://dumps.wikimedia.org/ People could help more if you are looking for a specific type or topic of data sets.    Embed Quote 

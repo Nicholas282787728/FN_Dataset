@@ -1,2 +1,0 @@
-★Mathematical Modeling: How are Markov chains applied when the transitions may change the structure of the state space?
-This looks like a time-inhomogeneous Markov chain if you squint hard enough.  How hard is hard enough?    Embed Quote

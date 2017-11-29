@@ -1,2 +1,0 @@
-★What's the best IRC client for Mac OS X?I've been using Colloquy, but wonder if there are better options.
-My choice would be Adium on Mac and Pidgin on Linux.

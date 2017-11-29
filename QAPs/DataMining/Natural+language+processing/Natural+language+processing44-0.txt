@@ -1,2 +1,0 @@
-★What is the future of natural language processing?
-The future of natural language processing is the as-yet largely unattempted part of 'processing': natural language *generation*. (98% of NLP to date is natural language understanding.)    Embed Quote

@@ -1,2 +1,0 @@
-★What is the difference between graph theory and network theory?According to Wikipedia, network theory is a subset of graph theory, but it's not clear to me how that is exactly.
-Graph theorists are interested in arbitrary questions about graphs, whereas network theorists are more interested in questions that are relevant to the situations that are modeled by networks.  Things like Kirchhoff's theorem or the De Bruijn–Erdős theorem or Cayley graphs are definitely part of graph theory, but probably not terribly interesting to most network theorists.    Embed Quote

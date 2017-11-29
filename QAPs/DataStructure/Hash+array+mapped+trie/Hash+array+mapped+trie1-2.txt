@@ -1,2 +1,0 @@
-How would you build a shared data structure for high-performance and availability?
-This problem falls nicely into the strengths of Clojure. Clojure and its immutable, persistent data structures are designed for shared access with good performance characteristics. http://blakesmith.me/2012/05/15/... http://clojure.org/data_structures 

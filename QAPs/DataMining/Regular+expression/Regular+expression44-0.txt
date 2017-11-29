@@ -1,2 +1,0 @@
-★What are some useful regular expressions?
-\b[\w.%+-]+@[\w.-]+\.[a-zA-Z]{2,6}\b    Embed Quote

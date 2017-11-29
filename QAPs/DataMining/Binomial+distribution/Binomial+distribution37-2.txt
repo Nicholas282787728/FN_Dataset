@@ -1,2 +1,0 @@
-If three coins are tossed simultaneously, what is the probability of getting at least two heads?
-Atleast 2 head = Exactly 2 heads + all 3 heads All three heads is (1/2)*(1/2)*(1/2)=1/8 Exactly 2 heads = probability of 2 heads and 1 tail* the order they can show up =(1/2)*(1/2)*(1/2)*3C2=3/8 Total probability=(1/8)+(3/8)=1/2    Embed Quote 

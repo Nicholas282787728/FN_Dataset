@@ -1,1 +1,0 @@
-What is the maximum bound for creating a red black tree insertion?It is balanced tree , so insertion should be complexity of log(n) i.e height of tree if number of nodes is n. 47 Views

@@ -1,2 +1,0 @@
-Does a radio transmitter use more power when many receivers are tuned to its frequency than when there are no receivers?
-No, radio transmissions are "broadcast" by design, which means that the transmitter simply throws out energy for the receivers to catch and process. Think of it as a sprinkler watering the garden - a fraction of the water spent (power) actually waters the grass (receivers), while the rest is simply lost on evaporation/barren patches etc. 

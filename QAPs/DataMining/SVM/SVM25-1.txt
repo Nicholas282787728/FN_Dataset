@@ -1,2 +1,0 @@
-★What is the difference between distance-based classifiers and SVM?
-SVMs (in particular non-calibrated vanilla SVMs) can be thought of as distance-based classifiers. The kernel expansion and maximum margin hyperplane are smoke and daggers for your question. They simply change the representation of the problem and how it is solved, but nothing more. At the end of the day the distance to the hyperplane is calculated.    Embed Quote

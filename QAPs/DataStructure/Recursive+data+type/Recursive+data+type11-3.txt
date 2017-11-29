@@ -1,2 +1,0 @@
-Is C++ a low level language?
-Yes, it is. As the matter of fact, it is high-level, general purpose language, that also provides the facilities for low-level memory manipulation. General purpose basically means that it lies in wide range of layers spectrum, starting very close to machine and ending very close to user, in a GUI. More details here: C++ 

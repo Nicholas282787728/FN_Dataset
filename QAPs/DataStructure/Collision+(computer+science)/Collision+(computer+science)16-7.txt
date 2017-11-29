@@ -1,2 +1,0 @@
-How do I go about learning how to make games?
-Given that you already know fundamentals of programming, pick one game that seems simple [Pong?] and implement it in your favorite language [you'll probably need some GUI library too]. The more frustrations, the merrier will success be. For complicated, 3d or FPS, or just modern games as we know them today, you'll probably need fair amount of physics knowledge and almost surely fair amount of maths. Linear algebra, data structures, algorithms. Happy coding and problem solving. 

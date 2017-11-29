@@ -1,2 +1,0 @@
-Is this a valid way of proving that [math]\displaystyle\int^b_{a}xdx=\frac{b^2-a^2}{2}[/math]?
-A loose proof, although you don't need to show from first principles that [math] x^2 [/math] is integrable, since it is (absolutely) continuous. There is nothing wrong with building a result on previous ones. If you had said "from first principles" - you'd have much more work to do. 

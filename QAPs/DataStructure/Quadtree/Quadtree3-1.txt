@@ -1,2 +1,0 @@
-Can proof assistants like Coq be used to prove an algorithm implementation such as QuadTree?
-In fact, coq is often used to prove algorithm. For example, merge sort is in the standard library with proof. It can also proof algorithm's complexity (A Coq-Formalized Proof of Quicksort's Average-case Complexity). If you have good tactic, you can even generate the algorithm instead of writing it out(seven tree in one is a great example of this). 

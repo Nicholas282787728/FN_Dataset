@@ -1,2 +1,0 @@
-★What is an IP address?
-For IPv4, it's a 32-bit number, usually printed in dotted decimal notation. It's normally assigned by your ISP using DHCP.

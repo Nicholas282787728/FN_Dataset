@@ -1,2 +1,0 @@
-★What is the best Twitter client for Linux?
-I like using Tweetdeck. It is not a strictly Linux client, it's an Adobe AIR application. But due to it's cross-platform nature,  it helps to have the same client with all my settings when I'm sometimes on Windows as well.

@@ -1,2 +1,0 @@
-How do you output the nodes from a binary search tree given a range?
-let the range be [a,b] Do an inorder traversal of the tree and for each node with value x such that x>=a and x<=b print x Updated 159w ago • View Upvotes

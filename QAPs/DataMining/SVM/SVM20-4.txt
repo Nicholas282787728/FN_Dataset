@@ -1,2 +1,0 @@
-★What is the best way to train a SVM on a very large dataset?
-Vowpal Wabbit (Fast Learning) easily handles large feature sets but i am not sure if that answers your questions.    Embed Quote

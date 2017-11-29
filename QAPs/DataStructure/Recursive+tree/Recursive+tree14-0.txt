@@ -1,2 +1,0 @@
-Can someone trace this simple recursive function by drawing the recursive list/tree?
-Your problem is that 1/2 is 0 with integer division. So f(1/2*n) = f(0*n) = f(0) = 0. So f is 0 for every even number. Every odd number has f equal to 1 plus f of an even number, so f is 1 for every odd number. You likely want f(n/2) rather than f(1/2*n). 

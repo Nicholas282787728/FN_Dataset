@@ -1,2 +1,0 @@
-★How does computer networking work?
-networking works by sending packets of data through computing devices, such as ethernet cables and routers, routers for example then interpret this data and send it to the relevant destination. When data is sent over a network the data is split up into small pieces which is what the packets are, these packets go through a cable to a router, switch or server for example and the data is then sent to you, there are so many ways in which a network functions its hard to define in one summary.

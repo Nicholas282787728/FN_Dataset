@@ -1,2 +1,0 @@
-"Tree S is a subtree of T if both inorder and preorder traversals of S are substrings of inorder and preorder traversals of T respectively." What is the proof of correctness of this idea?
-This seems like one thats intuitively obvious.  A tree can be "flattened" by traversal.  If one tree flattened, is an in order subset of the second tree flattened, then the one tree is definitionally an in order subset of the other. 

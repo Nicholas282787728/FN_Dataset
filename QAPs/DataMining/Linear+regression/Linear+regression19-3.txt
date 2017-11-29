@@ -1,2 +1,0 @@
-★I am creating a multi-linear regression to forecast electricity consumption in a multi-tenanted office building. The best R2 value is 61% (aiming for 75%), hence am considering non-linear regression. Any advice on the form of non-linear regression to try?
-why don't you transform your variables (x², log(x),...) and use linear regression? Did you ad interaction variables?    Embed Quote

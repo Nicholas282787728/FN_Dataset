@@ -1,2 +1,0 @@
-★Wireless Communication: What is the difference between TDD  and FDD?
-TDM (Time division multiplexing) - Multiplexing uplink and downlink channels on time axis) TDMA (Time division multiple access) - accommodating network access (network resources) for multiple users by scheduling thier access at different times Same goes for FDD vs FDMA. You may see all combinations like TDD/TDMA, TDD/FDMA, FDD/TDMA, FDD/FDMA in different networks.    Embed Quote

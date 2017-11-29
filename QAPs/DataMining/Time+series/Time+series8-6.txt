@@ -1,2 +1,0 @@
-★What is the best way to store time series data in MongoDB?
-Here is a good written blog post on this topic by Sandeep Parikh, Solutions Architect at MongoDB and Kelly Stirman, Director of Products at MongoDB : Schema Design for Time Series Data in MongoDB It is in line with what Jared has written in his answer.    Embed Quote

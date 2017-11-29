@@ -1,1 +1,0 @@
-Are numbers discrete or continuous?Which numbers? Natural numbers, whole numbers, integers, etc are discrete. Rational numbers, real numbers, etc are continuous. So the answer depends on what type of numbers you are talking about. 24 Views

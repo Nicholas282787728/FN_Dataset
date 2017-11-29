@@ -1,2 +1,0 @@
-How do I prove this without graphs?
-Let N be less than both the roots, now the sign of f(N) will be the same as f(-infinity) since there is no root between -infinity and N. And we know that the sign of f(-infinity) is the same as the sign of 'a' so the sign of f(N) is the same as the sign of 'a', therefore a*f(N)>0 (since if 'a' is negative then so is f(N) or if 'a' is positive then so if f(N)) you can use the same logic if both roots are less than N :) 

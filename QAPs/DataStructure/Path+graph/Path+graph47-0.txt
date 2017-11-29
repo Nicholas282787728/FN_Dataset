@@ -1,2 +1,0 @@
-What are some algorithms to find all paths of length L in an acyclic graph?
-For an unweighted graph, having an adjacency matrix of the graph and then multiplying it to itself L times will give you all the node pairs that have length of L between them. Interesting question if the graph is weighted. Will have to do a bit of search The problem seems to be NP-Hard for finding all path between two nodes of  length L. Definitely finding all path wont have an efficient algorithm In a weighted undirected graph, how do I find a fixed length path between two nodes? 

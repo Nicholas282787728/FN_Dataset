@@ -1,2 +1,0 @@
-★Why isn't DNS centralized?
-The predecessor of DNS was a single hosts file. It even used to be a single HOSTS.TXT file (managed by SRI) distributed to all the hosts to keep them up to date. It was tedious and had latency (and other reasons mentioned by Phillip Remaker) but it could be done.

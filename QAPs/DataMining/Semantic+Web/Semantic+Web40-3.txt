@@ -1,2 +1,0 @@
-★Semantic Web: Is there a need for a curated central repository for ontologies?
-I think the purpose of 'curated' and 'central' means 'validated' and 'evaluated' ontologies that maybe commonly reused. A centralized resource needs a lot of money to maintain, maybe some organization can do that for specific purpose. In this case the ontologies are selected.    Embed Quote

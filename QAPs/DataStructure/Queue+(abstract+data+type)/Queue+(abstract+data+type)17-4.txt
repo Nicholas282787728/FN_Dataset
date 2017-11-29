@@ -1,2 +1,0 @@
-Why does Java consider a stack to be a type of queue?
-I'm not sure about Java specifically, since it's been years since I've done any serious Java work (not counting a personal project for which Java was chosen for lack of more palatable options), but a lot of standard libraries have been combining their stack and queue classes as a nod to the fact that the implementations and concepts of both structures are almost identical and that designs that use either structure often flip-flop between the two during the implementation process. 

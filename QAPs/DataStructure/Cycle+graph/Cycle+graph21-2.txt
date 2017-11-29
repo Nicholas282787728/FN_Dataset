@@ -1,2 +1,0 @@
-I wrote a code to find a cycle inside an undirected graph. It prints if the graph has a cycle or not. How can I make it print the edges of the cycle in the format (I, j)?The code in the first comment.
-Mess up the parent value at the node where you found the loop and then traverse the parent array from the last node, till you find the mess. You have your loop. 

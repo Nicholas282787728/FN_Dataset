@@ -1,2 +1,0 @@
-★What are the differences in regular expressions between different languages?I mean, for example, what's the difference between JS Regexp and Ruby's.
-I am not comfortable with regular expression but when ever I have a doubt I refer this List of all regex implementations?    Embed Quote

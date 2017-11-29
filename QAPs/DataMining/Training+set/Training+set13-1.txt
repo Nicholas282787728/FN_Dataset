@@ -1,2 +1,0 @@
-★How many different classes can we practically have within a training set, whilst using the KNN algorithm?E.g. Is 700 possible?
-I have read that kNN doesn't perform well due to the fact that in the presence of a large set (50k) and several classes, the runtime is too slow. One way to speed up it is by using kd-tree how much could be relevant the difference? Addionally which could be another algorithm that equally perform well?    Embed Quote

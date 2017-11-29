@@ -1,2 +1,0 @@
-What is the significance of the projective plane in mathematics?
-I'm a little surprised that nobody has mentioned another simple answer: when you classify surfaces, the projective plane is one of them. It just one of the basic building blocks of geometry. The nice thing is that this surface has all kinds of nice properties mentioned in other answers. The other answer is that it is the simplest mathematical object that is non-orientable. It displays a very basic property of manifolds (or violates it if you think orientability is normal). 

@@ -1,2 +1,0 @@
-★What are some good jokes about computer networks?
-If you want to trace your destination, throw TTL =1 packet, throw TTL=2 packet, throw TTL=3 packet and keep on throwing until your destination throws you.

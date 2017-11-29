@@ -1,2 +1,0 @@
-Can data structures be implemented in Python?
-Python gives you some powerful, highly optimized data structures,  both as built-ins and as part of a few modules in the standard library (lists and dicts, of course, but also tuples, sets, arrays in module array, and some other containers in module collections). Combinations of these data structures (and maybe some of the functions from helper modules such as heapq and bisect) are generally sufficient to implement most richer structures that may be needed in real-life programming; 

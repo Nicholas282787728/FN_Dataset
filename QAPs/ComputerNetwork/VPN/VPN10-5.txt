@@ -1,2 +1,0 @@
-★What is vpn?
-If an enterprise sends its employee out of the campus....some where else from the campus... and if that employee want to connect to the servers of the enterprise then it would be some how impossible for him to connect... but Virtual Private Network provides that facility to employee to connect enterprise server using public network in a secure manner...    Embed Quote

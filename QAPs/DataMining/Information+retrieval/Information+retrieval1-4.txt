@@ -1,2 +1,0 @@
-★What are some good resources to get started with Information Retrieval? Why?
-Go to the SIGIR (Special Interest Group in Information Retrieval) website (http://www.sigir.org/index.html). There is plenty of information on resources (software and books), events, mailing list, and publications.    Embed Quote

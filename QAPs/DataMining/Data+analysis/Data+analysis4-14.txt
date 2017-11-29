@@ -1,2 +1,0 @@
-Which are some of the best Data Analysis tools?
-Sebastian is correct. It depends on the data you are trying to analyze and what you are trying to do with. Excel is probably a good starting point for most people. If you need to run statistics, R is worth a look. Very often data needs to be transformed and structured before you can run analytics. If you have programming background, then Python has extensive libraries for data manipulation and analysis. There are many ways to skin a cat. It all depends on the cat and how you want to skin it.    Embed Quote 

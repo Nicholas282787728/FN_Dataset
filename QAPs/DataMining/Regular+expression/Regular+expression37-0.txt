@@ -1,8 +1,0 @@
-★Regular expressions: How to match a string with numbers and dates in Python?How do I write a pattern (regex) so that strings like ' Downey, Allen B (Version 1.6.6 - May 2012). Think Python: How to Think Like a Computer Scientist. ISBN 978-0-521-72596-5.' follow the pattern ?
-Try this: 1
-2
-3
-4
-5
-6
- testString = "Downey, Allen B (Version 1.6.6 - May 2012). Think Python: How to Think Like a Computer Scientist. ISBN 978-0-521-72596-5." regex = re.compile("\S+, \S+ \S \(Version \d+.\d+.\d+ - (?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) 20\d{2}\)\. [^.]*\. ISBN \d{3}-\d-\d{3}-\d{5}-\d\.") if regex.match(testString) is not None:     print "This string matches." else:     print "Not a match!"    Embed Quote

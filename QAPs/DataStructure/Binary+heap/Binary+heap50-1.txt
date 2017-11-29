@@ -1,1 +1,0 @@
-What's the most efficient way to find the kth smallest element in a min-heap?This is not homework. I just saw this somewhere and thought it was interesting. Note: Obviously, klogn is the trivial solution. I believe you can do this in klogk, but I'm not exactly sure how.

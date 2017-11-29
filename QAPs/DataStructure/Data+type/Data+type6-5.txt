@@ -1,2 +1,0 @@
-What are user-defined data types?
-User defined data types are data types which are created by user manually and not present there in the compiler already so iser have to define its working. There are three mechanisms for doing this in C: using typedef using structures using unions For more info on these or how to use them and there syntax visit this link http://eleceng.dit.ie/frank/Intr... 431 Views

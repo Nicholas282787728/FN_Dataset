@@ -1,1 +1,0 @@
-Haskell (programming language): What are generalized algebraic datatypes (GADTs)?Asger's two-step guide to learning GADTs: Try to implement parser combinators in Haskell.When you get stuck, look up GADTs and realize that they solve that type problem you were having in #1.

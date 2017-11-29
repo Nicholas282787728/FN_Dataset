@@ -1,2 +1,0 @@
-★Where do properties of matrices, vector spaces, etc. come from?
-This Linear Algebra is a course by Prof. Gilbert Strang of MIT who discusses some of these things in details and motivates the definitions with examples.    Embed Quote

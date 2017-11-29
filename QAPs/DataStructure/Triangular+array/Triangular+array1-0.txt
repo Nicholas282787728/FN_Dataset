@@ -1,2 +1,0 @@
-I have a mathematical conjecture that is basically a triangular array but I don't know how to show the world. I discovered it since I was 9 below
-It's not quite clear what your question is -- but this triangle is formed from  the diagonals of a multiplication table i.e. the nth row contains all products of the form [math]k\cdot (n-k)[/math]for[math] k=1,2,\ldots n-1[/math].  It does indeed have many nice properties. 

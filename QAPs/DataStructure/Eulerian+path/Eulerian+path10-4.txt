@@ -1,2 +1,0 @@
-What surprised you the most in your field of study?
-Wireless Communication The minimum power required by a GSM (2G) receiver to detect data with 99.999% accuracy is just about 6.3x10^-14 watts (-102 dBm). If your cellphone operated at this level for 24 hours a day, 365 days an year, it would use up a grand total of 2 microJoules of energy in receiving data. This energy is equivalent to lifting a grain of sand by about a feet! The mind appropriately boggles Updated 22 Apr 2014 • View Upvotes

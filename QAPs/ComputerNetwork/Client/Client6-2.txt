@@ -1,2 +1,0 @@
-★What's the best IRC client for Mac OS X?I've been using Colloquy, but wonder if there are better options.
-I like Colloquy: http://colloquy.info/  May not be the most "hacker-like" (terminal-like) interface, but it has nice Mac-friendly GUI.

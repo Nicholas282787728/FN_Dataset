@@ -1,2 +1,0 @@
-★What programming languages are suitable for natural language processing?
-java is best for machine learning because it  lot of open source project for machine are written in java and easy to use (like Scalable machine learning and data mining (mahout , Stanford nlp , opennlp , uima , gate, mallet ) and many other are also their and you can easily use that.    Embed Quote

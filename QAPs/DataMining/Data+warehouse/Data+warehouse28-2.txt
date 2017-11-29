@@ -1,2 +1,0 @@
-★What features of a relational database are most useful when building a data warehouse?
-Like to add few more items  to the lists below - Bulk load utility - A matured query optimizer and execution engine. That would consider table statistics and optimized join/aggregate operators. (In the world of bigdata, not everyone provides this)    Embed Quote

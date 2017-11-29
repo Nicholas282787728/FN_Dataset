@@ -1,2 +1,0 @@
-Business Intelligence: What are some good BI tools for MySQL?
-You can also try esProc (http://www.raqsoft.com/product-e...). It can access various database including MySQL. It's also very easy to use and good for data visualization. Its step by step computing mode is great for complex computing.    Embed Quote 

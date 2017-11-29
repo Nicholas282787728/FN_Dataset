@@ -1,2 +1,0 @@
-How do I apply the breadth first search algorithm?
-Google is your friend here. Post your progress, to get better help. 

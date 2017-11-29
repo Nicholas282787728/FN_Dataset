@@ -1,2 +1,0 @@
-★What is the switching circuit of NAND gate?
-Not quite understand the question... if you want to know the switching circuit inside the NAND gate, it looks like this: or if you want to build a switch using NAND gate, I thinks it is just a flip-flop

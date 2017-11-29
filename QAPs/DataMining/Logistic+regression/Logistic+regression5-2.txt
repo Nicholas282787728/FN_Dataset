@@ -1,2 +1,0 @@
-★Why is the output of logistic regression interpreted as a probability?
-Several people have given you formulas. Perhaps that is what you want. But perhaps you mean "Why do we need to do it this way?" Briefly, using ordinary regression (OLS, linear regression) when the dependent variable is a dichotomy a) Violates the assumptions and b) Can give ridculous predictions (below 0 or above 1). For more see this page on my blog: Page on statisticalanalysisconsulting.com    Embed Quote

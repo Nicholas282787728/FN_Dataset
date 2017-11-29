@@ -1,2 +1,0 @@
-★What is the best book about computer networking?
-Tanenbaum   /    Ross and Kurose :both are good

@@ -1,2 +1,0 @@
-★What are some good exercises with solutions about SVM?
-There's a couple of questions on SVMs in HW2 of CMU's 10-701 machine learning course, 10-701 Machine Learning. This is a course designed for graduate students so the questions are more focused on the underlying optimization problem.    Embed Quote

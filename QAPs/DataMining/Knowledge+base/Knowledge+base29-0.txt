@@ -1,2 +1,0 @@
-★What knowledge base software (for customer support) does Square use?Or does Square build it their own?
-I am pretty sure they went for their own, or it is a highly customized Zendesk    Embed Quote

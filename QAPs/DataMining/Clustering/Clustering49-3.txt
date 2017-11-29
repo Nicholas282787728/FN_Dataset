@@ -1,2 +1,0 @@
-What are the best command-line tools for managing a small Linux cluster?
-Server configuration management - puppet, cfengine or chef Command and package deployment tools - custom scripts using gnu parallel or pssh to deploy Monitoring - cacti, nagios or ganglia. Package deployment can be done using puppet and chef too iirc. It is definitely worth putting in time to take a look at these amazing tools. You can try chef at opscode.com for free.    Embed Quote 

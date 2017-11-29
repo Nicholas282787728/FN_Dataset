@@ -1,2 +1,0 @@
-What things do I need to know about Java memory model for a tech interview?
-Read JSR 133   about compiler reordering, volatile keyword , happens before contract and few examples and applications 

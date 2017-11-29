@@ -1,2 +1,0 @@
-★HTML5: What are the most important client-side (HTML5/CSS/JavaScript) libraries and why?I defer to the quora community to define "important" through the use of upvotes, as that's largely inevitable anyways.
-you can do with almost everything, u can build ur own libraries with time n be proud about it, n u can control the size of your libraries, but THE one library that i never could do without, is jquery! it changed how we write javascript all together

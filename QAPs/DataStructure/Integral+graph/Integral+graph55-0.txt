@@ -1,2 +1,0 @@
-How does one go about solving this area/integral problem?
-You're almost right, but as you mentioned in the question details, you need to take the absolute value inside your integral. The two graphs cross each other at x = 0. 

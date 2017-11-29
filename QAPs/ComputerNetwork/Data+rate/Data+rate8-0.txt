@@ -1,2 +1,0 @@
-★What data rate does Netflix on Android require for a smooth playback experience?
-Some where around 500kbps(phone) and 1350kbps(tablets) would give you excellent quality, if you have lower we usually gracefully degrade to lower bitrates (100kbps).

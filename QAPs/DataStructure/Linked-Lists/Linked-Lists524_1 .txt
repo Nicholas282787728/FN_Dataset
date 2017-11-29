@@ -1,1 +1,0 @@
-In a linked list, which node will not contain any data?The header node. It doesn't contain any data. Merely a placeholder. Some times can contain the total number of nodes in the linked list. 135 Views  View Upvotes  Answer requested by Sandeep Kadam

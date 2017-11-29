@@ -1,2 +1,0 @@
-★Does the Xbox 360 support IPv6?I've been looking into getting into a Comcast IPv6 trial, but if my 360 doesn't support IPv6, it can take some tinkering for it to work. Microsoft hasn't responded emails or tweets about this question.
-Even though the Xbox 360 and Xbox Live do not (yet) support IPv6, note that xbox.com does. xbox.com has address 65.55.42.140 xbox.com has IPv6 address 2a01:111:f009::3b03 The Xbox One does support IPv6.    Embed Quote

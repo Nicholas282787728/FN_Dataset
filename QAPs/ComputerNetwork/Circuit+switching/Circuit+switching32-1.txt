@@ -1,2 +1,0 @@
-★What do I need to replace 4 light switches on the same circuit?
-You need two 3-ways and two 4-ways. the wiring goes in this sequence: Source to 3W to 4W to 4W to 3W back to source. The light can be anywhere on the circuit.   Don't forget your wallet. 4-ways ain't cheap.

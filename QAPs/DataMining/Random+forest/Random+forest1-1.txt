@@ -1,2 +1,0 @@
-★When are random forests better than linear regression?
-One word: Interpretation. Everybody who knows any sort of analysis understands regression and can interpret the results in a heartbeat!  Random forests, in contrast, are black boxes derived by machine-learning.    Embed Quote

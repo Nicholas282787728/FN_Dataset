@@ -1,2 +1,0 @@
-What are the real world applications of Breadth First Search?
-Operations done by ATC is a classic example for BFS. Yes, Web crawlers in distributed computing follows BFS approach. 

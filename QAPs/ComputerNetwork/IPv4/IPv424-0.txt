@@ -1,2 +1,0 @@
-★Why does USPS need 16 million public IPv4 addresses?
-The USPS almost certainly doesn't need that many, it's just that, as your link shows, large blocks were given out like candy back in the day when the supply seemed inexhaustible, and nobody (e.g., Congress) has made the USPS give them up.

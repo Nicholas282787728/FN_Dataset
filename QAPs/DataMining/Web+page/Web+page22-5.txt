@@ -1,2 +1,0 @@
-★How can you make a web page using Python?
-If you already know python,  there's an entire course on udacity.com where you can learn to make a complete website including learning html, css, javascript. https://www.udacity.com/course/c... There's an introduction programming course to learn python as well.   https://www.udacity.com/course/c...    Embed Quote

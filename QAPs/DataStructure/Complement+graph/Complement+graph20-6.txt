@@ -1,2 +1,0 @@
-Why aren't graph databases more popular?Graphs seem like a really natural way to express and query data in many domains.
-There was a time when they (graph databases) ruled the (database) world supreme. See CODASYL.  And they didn't cut the job satisfactorily enough for users to stick with it.  They were replaced with SQL systems because those, even as half-baked relational as they are, proved to be much more powerful than the old tree- and graph-based systems. Updated 13 Jul

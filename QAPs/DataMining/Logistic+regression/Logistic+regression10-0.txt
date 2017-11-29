@@ -1,2 +1,0 @@
-★Why is logistic regression so important for machine learning?
-It's a very simple classification algorithm that runs quickly and usually works well.    Embed Quote

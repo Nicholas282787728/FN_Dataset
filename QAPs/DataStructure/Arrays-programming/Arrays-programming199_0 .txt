@@ -1,1 +1,0 @@
-Are 2d arrays working?Works for me............ #include <iostream>  int main() { int **arr = new int*[1000];  for (int i=0;i<1000;i++) arr[i] = new int[1000];  arr[2][3]=100;  std::cout<<arr[2][3]<<std::endl; } Produces: mneal@lilith:/home/mneal% ./a.out 100 432 Views  View Upvotes  Answer requested by 1 person

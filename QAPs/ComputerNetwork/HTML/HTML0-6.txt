@@ -1,2 +1,0 @@
-★HTML: What is HTML?
-From What is HTML?: HyperText Markup Language can be thought of as the native tongue of all web browsers. It’s how our Internet Explorers, our Chromes, and our FireFoxes know how to read, interpret, and display web pages on our computer screen. HTML as a programming language was originally created back in the 1990’s by a wonderful scientist named Sir Timothy John “Tim” Berners-Lee. You can read about Timothy Berners-Lee here. His story is quite fascinating.

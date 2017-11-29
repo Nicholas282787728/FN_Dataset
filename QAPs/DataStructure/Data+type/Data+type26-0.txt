@@ -1,2 +1,0 @@
-A data type is stored as an 6 bit signed integer. Which of the following cannot be represented by this data type: -12, 0, 32 or 64?
-2^6 = 64. So you can represent 64 values. This means 0 to 63 for unsigned integer and -32 to 31 for signed integer (twos complement). Thank you for your feedback! Your response is private. Is this answer still relevant and up to date? YesNo 6.6k Views · 22 Upvotes · Answer requested by Devi Sindhu

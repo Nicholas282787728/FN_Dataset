@@ -1,2 +1,0 @@
-Can Business Intelligence (BI) meet business expectations?
-If your BI can't grow and evolve to keep up with your business, you're doing it wrong.  BI shouldn't be a big, monolithic, "one solution for all" IT project.  Instead it should be an ad-hoc collection of small, adaptable, tactical solutions  which enable and empower business users to generate their own intelligence.  Self-service, cloud-based SaaS BI solutions support this type of BI much better than "enterprise" platforms    Embed Quote 

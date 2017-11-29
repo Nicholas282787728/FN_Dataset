@@ -1,1 +1,0 @@
-I found some topics missing in the book CLRS by Thomas Cormen, like cuckoo hashing, then from cuts and flows like the minimum cost problem, weighted matching, Hall's theorem and then something like skip lists. Wouldn't it be better if these topics were added to the book?

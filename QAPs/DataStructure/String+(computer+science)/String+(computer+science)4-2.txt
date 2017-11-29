@@ -1,2 +1,0 @@
-Computer Science Homework Question: How do I check a string for just letters in Java?
-Here's something to get you started: 	 for (int x = 0; x < name.length()-1; x++) {		 	if (!Character.isLetter(name.charAt(x))) {		 			 System.out.println("Name must consist of letters only.");		 			 break;		 		 } 		 	} 

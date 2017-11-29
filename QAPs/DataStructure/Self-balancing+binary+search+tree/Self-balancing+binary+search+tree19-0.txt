@@ -1,2 +1,0 @@
-What's the best C program to convert a BST tree to an AVL tree?
-AVL tree is a self-balancing Binary Search Tree (BST) where the difference between heights of left and right subtrees cannot be more than one for all nodes. So, I guess any algorithm with a linear time complexity will be best as every node has to be traversed atleast once. A normal bfs/dfs might do the job. I have never worked with AVL trees and i guess there must be many codes available online. Just Google it! :) 

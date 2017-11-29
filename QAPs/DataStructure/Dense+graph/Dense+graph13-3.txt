@@ -1,1 +1,0 @@
-Is O(n^2) the lower limit for any graph algorithm using an adjacency matrix as the DS?

@@ -1,2 +1,0 @@
-★How is an atom smaller than light if the wavelength of a photon is the distance between the orbits that the electrons jumps between?
-The wavelength of a given photon is determined by its energy: . The energy of a photon produced when an electron transitions from a higher energy level to a lower energy level is equal to the difference in the two energy levels. The energy levels aren't proportional to the distance from the nucleus.    Embed Quote

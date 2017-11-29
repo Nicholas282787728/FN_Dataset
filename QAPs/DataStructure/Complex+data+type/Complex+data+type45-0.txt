@@ -1,2 +1,0 @@
-What is the significance of the abstract data type in computer science?
-The abstract data type is part of computer science's way of dealing with abstraction. Data types and their coupled operations (frequently masquerading under the name 'object') allow us to bundle together complexity, wrap a bow on it, and produce a single, simplified representation of that particular concept. This allows us to keep our thinking organized, which allows us to scale to ever-larger programs. 

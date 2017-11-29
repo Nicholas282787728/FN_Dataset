@@ -1,2 +1,0 @@
-If f(x)=7x+12  , what is f −1 (x)  ?
-f(x)=7x+12 Put y in place of f(x). y=7x+12 Switch x and y. x=7y+12 Solve for y. x-12=7y (x-12)/7=y Put in the f^-1(x) notation. f^-1(x)=(x-12)/7 Voila c'est fait! Thanks for the A2A. 

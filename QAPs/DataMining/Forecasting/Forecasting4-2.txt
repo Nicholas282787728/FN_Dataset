@@ -1,2 +1,0 @@
-★Who has the best forecasting software on the market?And why?  Ideally looking for a software package, not library for R or Python.
-Depending on what specifically you're looking for in a forecast model - not really a package either but ... check out what's going on with http://Leve.rs    Embed Quote

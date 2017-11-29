@@ -1,2 +1,0 @@
-★Why is it called Linear Programming?Where is the programming part? A better name would be Linear Optimisation?
-http://en.wikipedia.org/wiki/Mat... "The term programming in this context does not refer to computer programming. Rather, the term comes from the use of program by the United States military to refer to proposed training and logistics schedules, which were the problems Dantzig studied at that time."    Embed Quote

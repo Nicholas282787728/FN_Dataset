@@ -1,2 +1,0 @@
-What are data types in c?
-Data types are  used for declaring variables or functions.There are different types data types,They are int float double ... (more)

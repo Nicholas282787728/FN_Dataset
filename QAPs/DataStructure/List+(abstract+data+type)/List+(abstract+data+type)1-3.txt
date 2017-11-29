@@ -1,2 +1,0 @@
-Are linked lists data structures or abstract data types? Why?
-LinkedList can be both ADT and DS in ADT abstract means that ADT can be use without knowing "what is actual data" 

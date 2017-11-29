@@ -1,2 +1,0 @@
-★What is a URL?
-A URL is verbal depiction of some server's IP address. Since text is easier to remember than numbers, the system of URLs was introduced so that ppl can remember websites.    Embed Quote

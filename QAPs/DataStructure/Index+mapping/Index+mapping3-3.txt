@@ -1,1 +1,0 @@
-Is tensor index raising and lowering a mapping?

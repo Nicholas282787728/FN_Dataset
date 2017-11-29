@@ -1,2 +1,0 @@
-How many data structures are there?
-How many would you like there to be? 

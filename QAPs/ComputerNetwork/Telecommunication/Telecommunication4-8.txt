@@ -1,2 +1,0 @@
-★What are things that electronics and telecommunication engineers (ECE) know while other engineers don't?
-That what we see on our music player when we play a song is actually representation of Frequency spectra of a Tone-Frequency modulated wave! It's not there just because it looks good. That the tone that plays when you press number buttons on your telephone, are distinct and have individual frequencies defined for them. They are not any random tones, and this frequency assignment serves a purpose when making a call.    Embed Quote

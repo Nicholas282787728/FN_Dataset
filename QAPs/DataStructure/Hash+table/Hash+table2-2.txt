@@ -1,2 +1,0 @@
-How do Facebook, Quora and other companies handle hash table collisions?
-Basically what Adrian said. Most engineers are probably using either the standard library or their own internal version of the equivalent, so they don’t implement their own hash table. Also, at Facebook/Google scale, hash collision is probably expected. so the associative array is probably implemented as some kind of self-balancing tree or variations of. 95 Views

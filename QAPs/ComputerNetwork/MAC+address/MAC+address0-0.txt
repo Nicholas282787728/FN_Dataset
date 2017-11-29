@@ -1,2 +1,0 @@
-★What is a MAC address?
-A MAC address is an L2 (link layer) address that allows other computers to send a packet to a specific other computer on the same link layer. For current networks, this is always an Ethernet address, and is a 48 bit entity that is globally unique. Part of the address is assigned to a hardware manufacturer and part is assigned to be unique by that manufacturer. Please see: MAC address    Embed Quote

@@ -1,1 +1,0 @@
-How a 2 decimal array is initialized in c?I am using float data type. #include<stdio.h> main() {  int i,j;  float a[5][5];  for(i=0;i<5;i++)  {  for(j=0;j<5;j++)  {  scanf("%.2f",&a[i][j]);  }   }  return 0; } 88 Views

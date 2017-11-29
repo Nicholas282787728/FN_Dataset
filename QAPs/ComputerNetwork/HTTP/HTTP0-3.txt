@@ -1,2 +1,0 @@
-★What is HTTP?
-In simple words its a protocol in which clients(typically browsers) and servers agree to talk to each other in the language of Hyper Text(Super Text). To  explore it deeply one might have to understand TCP/IP (a protocol of routing and information dispatching) as HTTP works over TCP/IP.

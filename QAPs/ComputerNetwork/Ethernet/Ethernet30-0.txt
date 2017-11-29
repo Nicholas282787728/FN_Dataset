@@ -1,2 +1,0 @@
-★When does it make sense to use WLAN instead of Ethernet?
-If costs are about the same, an ethernet network has an added level of security. I work in a building with 50+ start-ups, some of them competitors. A lot of start-ups don't have an IT-security guru available to apply anything more than dumb passwords for wireless networks. I wouldn't let my company run wireless in this building or any others like it unless I had someone to maintain a wireless security system with active monitoring..

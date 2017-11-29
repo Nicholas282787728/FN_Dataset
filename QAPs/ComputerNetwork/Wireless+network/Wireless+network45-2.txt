@@ -1,2 +1,0 @@
-★What is the best way to diagnose packet loss in a wireless network?
-Assuming you have a Linux host, run mtr on it pointing to anything that you know is available. For open networks, I use 8.8.8.8 (Google DNS). This will tell you which device is dropping packets. Once you know that, you can login to the device and debug. Common causes are: Some access control list dropping packets A bad antenna on either side Low signal strength on either side due to interference or some blocking    Embed Quote

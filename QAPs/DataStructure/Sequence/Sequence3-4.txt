@@ -1,2 +1,0 @@
-Look at this sequence: 80, 10, 70, 15, 60, ... What number should come next?
-20 This series has 2 internal series within it. 1st series being 80,70,60 which follows a arithmetic backward progression of d=10. 2nd series being 10,15 which follows another arithmetic sequence of d=Page on 5.sonext number will be 20 as per the second series. 

@@ -1,2 +1,0 @@
-What is void data type?
-void is nothing but nothing …it means it return no datatype …. void return none of values … 149 Views

@@ -1,2 +1,0 @@
-What are the top 10 algorithms every researcher in Machine Learning should know about?
-1. Stochastic gradient descent with back propagation 2. Adadelta 3. Max pooling and dropouts 4. Expectation Maximization 5. Viterbi & Baum Welch algorithms 6. Page rank 7. K-means 8. Principal component analysis 9. Contrastive Divergence 10. <<still waiting for that magic algorithm that can train recurrent neural nets quickly and effectively>> Updated 27w ago • View Upvotes

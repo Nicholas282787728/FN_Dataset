@@ -1,2 +1,0 @@
-★How do I transfer my files from Android to laptop?
-Bittorrent Sync is a GREAT program. You simply setup a folder on your computer to sync with a folder on your phone. Any time you put something in one folder, the devices contact each other through the Internet and sync the file so it's in both folders. It works on Android, iOS, Windows, Mac, Linux. I just had to use it today. My aunt's phone messed up and the store wanted us to do a factory reset. Because that device didn't allow computer connections (for security reasons), this worked extremely well.

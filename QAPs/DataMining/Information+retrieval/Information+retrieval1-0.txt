@@ -1,2 +1,0 @@
-★What are some good resources to get started with Information Retrieval? Why?
-The recommended textbook for the IR class I took was this one: http://nlp.stanford.edu/IR-book/... I've heard it recommended a few times by people at different schools, so it seems that there's a consensus that this is a decent modern textbook.    Embed Quote

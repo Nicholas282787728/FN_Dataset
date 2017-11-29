@@ -1,1 +1,0 @@
-What is the best way to annotate some parts of a map to be impenetrable (like walls, desks and etc.) for navigation? What is the most effective way to index the map overlay information for querying (for example, if the location (17,28) is penetrable)?

@@ -1,2 +1,0 @@
-★How much on an effect will IPv6 have on the average user?I tried to access http://ipv6.google.com/ and i'm unable to. Does it have to do with my internet provider or my PC.
-You should visit (http://test-ipv6.com/) to test your IPv6 capability.  This would be best way to see if you would be affected.  In general the ISOC studies estimate that "around 0.05% of all clients up to 0.5%" of internet users to a site will be unable to reach the content. (http://isoc.org/wp/ispcolumn/?p=322)    Embed Quote

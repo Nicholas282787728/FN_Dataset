@@ -1,2 +1,0 @@
-★What is the evil twin method in wireless networking?
-Evil twin is when a compromised access point is created. The motive behind creating such a network is to steal your data. The data passes through equipment which is controlled by people who are fraudulent and are after your details (bank account information and passwords, etc).  So, when you are connected to a site with an unencrypted connection, all of your data will be accessible to the people who set up the access point. It's like phishing, in a different way.    Embed Quote

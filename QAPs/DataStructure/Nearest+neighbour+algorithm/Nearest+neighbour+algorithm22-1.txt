@@ -1,2 +1,0 @@
-When is a random forest a poor choice relative to other algorithms?
-Random Forest is usually less accurate than Boosting/GBM on wide range of tasks, and usually slower in the runtime. 

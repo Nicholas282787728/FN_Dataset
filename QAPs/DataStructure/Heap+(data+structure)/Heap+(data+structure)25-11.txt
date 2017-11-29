@@ -1,2 +1,0 @@
-What are the 10 algorithms one must know in order to solve most algorithm problems?
-Start with these- Divide and conquer, dynamic programming - It is a must know algorithm as most of problems need it's knowledge (complete knowledge). greedy method, linear programming, Dijkstra's algorithm, Floyd--Warshall algorithm and Either Kruskal's or Prim's algorithm Binary Search and Sorting algorithms, Graphs, Trees,... (more)

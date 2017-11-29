@@ -1,2 +1,0 @@
-★What Helpdesk software has a knowledge base, ticket system, and supports multiple languages?Mandarin, Spanish, German, English, French, etc. This is a follow-up question to What ecommerce software/ platform would you recommend for a small startup?.
-Try http://www.freshdesk.com. It is already translated into all the languages you mentioned except Mandarin which can be done in a few days if required.    Embed Quote

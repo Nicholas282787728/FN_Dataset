@@ -1,2 +1,0 @@
-★Could Azure Machine Learning really disrupt the data science space by making predictive analytics ubiquitous?
-I think Sean Owen has nailed it - Azure Machine Learning is no more game changing than the Google or BigML offering.  It will make machine learning more available, and less scary, but not ubiquitous.    Embed Quote

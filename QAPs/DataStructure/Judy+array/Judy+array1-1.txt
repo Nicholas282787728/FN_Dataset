@@ -1,2 +1,0 @@
-What are the best ideas for Data Structure project?
-Deamortized binary counter. Deamortization - Part 1: Redundant Number Systems 

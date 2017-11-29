@@ -1,2 +1,0 @@
-★In Google Adwords, what are the meanings of the "gclid" and "aclk" parameters? How are they different?
-Sorry to dust off this thread on your but I think there may be more to this than listed above. I know this because I've been tracking referral links for a product we are building out and using our site as a baseline that we can control. We DO NOT advertise this site on Google Adwords however we are getting referral links containing 'http://google.com/aclk'. It's very strange. Any ideas?    Embed Quote

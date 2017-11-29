@@ -1,2 +1,0 @@
-How do I learn data analysis for Python?
-i would just like to add some thing more to the answers below - Learn Pandas , its an amazing library and highly useful ,it gives a nice DataFrame object which is provided by R. Also there are some amazing pycon talks on data analysis that you can find on @pyvideo.org - Home    Embed Quote 

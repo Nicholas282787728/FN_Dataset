@@ -1,2 +1,0 @@
-★If I use a VPN (a virtual private network), will it protect my computer against malware?
-No - it'll hide your dns and IP address but not protect against malware. Browsing and working through a VPS will protect your computer though    Embed Quote

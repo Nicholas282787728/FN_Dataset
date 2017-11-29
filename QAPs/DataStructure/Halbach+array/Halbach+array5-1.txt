@@ -1,2 +1,0 @@
-How can we amplify magnetic fields?
-I am not sure if we can do that but assuming that it is possible,it should not be called magnetic amplifier.Magnetic amplifier means the usual amplifier used to amplify the electrical signals.Since early in the 20th century the old vacuum tube amplifiers have been replaced by new magnetic amplifiers where magnetic materials are used as core materials. 

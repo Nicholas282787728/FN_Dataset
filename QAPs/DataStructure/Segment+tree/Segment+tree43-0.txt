@@ -1,2 +1,0 @@
-What are good tutorials for learning segment tree and BIT structure for ICPC? And what are good problems for practice?
-Topcoder's tutorial is pretty good. (the formatting is buggy - centered - since the last site change, but the content is very good) 

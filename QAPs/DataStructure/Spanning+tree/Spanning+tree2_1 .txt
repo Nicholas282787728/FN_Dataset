@@ -1,1 +1,0 @@
-What are some properties of minimum spanning trees?They compute the max-min path between any 2 nodes which is the path on which the maximum edge is minimized. 

@@ -1,2 +1,0 @@
-Does a graph that is continuous and closed but not bounded exist? If not, why does the extreme value theorem need the graph to be bounded?
-The function f(x)=x  is continuous.  Its graph, that is the set {(x,x)|x∈R}  , is a closed subset of R 2   .  The graph is not bounded, and the function has no extreme values. 

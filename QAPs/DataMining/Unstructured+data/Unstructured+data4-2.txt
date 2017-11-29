@@ -1,2 +1,0 @@
-★What are some good examples of unstructured data domains?where much more work is needed.
-Physician's chart notes. These are stored either on paper or in free-text fields in EHRs and EMRs. Outpatient chart notes contain an immense amount of information about the onset and evolution of disease, and can helps us better understand how we can intervene early in the course of disease, prior to the onset of symptoms or signs in the patient.    Embed Quote

@@ -1,2 +1,0 @@
-★What is the difference between pattern recognition and machine learning?
-I think PR is a subset of ML as ML addresses a gamut of problems while PR is basically concerned about recognition/classification type of problems. For instance multilayer perceptron in ML can be used as a tool to learn a function that is too compex to be represented analytically. This for  me is not a PR problem. In PR view point multi-layer perceptron is a tool for classification or recognition of a class of data    Embed Quote

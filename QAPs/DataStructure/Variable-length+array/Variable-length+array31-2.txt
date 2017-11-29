@@ -1,2 +1,0 @@
-My interviewer asked me what is there In C which is not in C++ and then he said if C++ includes all the features of C then why on the earth we teach C??
-Here's another: C has a specification for its ABI, C++ doesn't. That means any C program can be linked to in a consistent manner. Any C++ program is dependent on the compiler (and even the version of the compiler as new name/type mangling schemes are introduced). 

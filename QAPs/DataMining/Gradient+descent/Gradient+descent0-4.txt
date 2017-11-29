@@ -1,2 +1,0 @@
-★What are some fast gradient descent algorithms?Follow-up on: http://hunch.net/?p=119
-One of the fastest first-order methods for L1 minimization that I have found is this one here: http://scholar.google.ca/citatio...    Embed Quote

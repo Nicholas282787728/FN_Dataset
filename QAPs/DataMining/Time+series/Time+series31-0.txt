@@ -1,2 +1,0 @@
-★What time series database does the stock market use?
-I don't know about what "the stock market" uses specifically but wall street firms who store time series data about the financial markets tend to use KDB: http://kx.com/.    Embed Quote

@@ -1,2 +1,0 @@
-★High frequency trading (HFT) in finance - what is it?I mean, not a dictionary type definition, i.e. HFT is algorithmic automated trading of financial instruments at low latency, but in practical sense. How does it work? Is it similar to frontrunning?
-You may find my answer to a related question helpful: John Roberson's answer to Is there any credible evidence that Flash Boys is wrong?

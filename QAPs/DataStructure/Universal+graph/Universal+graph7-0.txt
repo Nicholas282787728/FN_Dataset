@@ -1,2 +1,0 @@
-University of Oxford: What is a way to add the 50-100 most important books (essential knowledge) in the Very Short Introductions series by Oxford University Press on a graph or tree?
-It's not really a clean tree and is more like a web with many nodes having many other predecessor nodes. If you draw it out as a graph you'll see a big nasty set of nodes and links with no clean canonical structure at all.  It's not going to be something clean like a hierarchy of college courses with prerequisites. 

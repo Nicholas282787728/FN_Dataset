@@ -1,2 +1,0 @@
-What are the advantages of using C++ over C?
-The primary advantages are: Native support for object oriented programming A somewhat richer standard library Historically, C++ also had the advantage of allowing you to redeclare variables in the midst of code and one line comments, though as of the C99 standard, C compilers support these as well. 

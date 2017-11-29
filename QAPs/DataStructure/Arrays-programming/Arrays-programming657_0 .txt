@@ -1,1 +1,0 @@
-How do I return the character array using a function and store it to another character array?Use pointers.. That is eg. char A[50] ; Then... return A And... char B [20] ; Then apply concept of pointers 72 Views

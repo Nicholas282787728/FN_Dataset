@@ -1,2 +1,0 @@
-★How do I apply supervised learning methods to time series classification?
-Most of the time series prediction / classification models use Hidden Markov Model. You can use some sampling mechanism to take take the samples from the data points and then assign label to each samples. In this way you can increase the number samples to train the or test the model. Usually 60:20:20 is the normal split for training, testing and cross validation set. Like in the previous answers, you can try Gaussian Processes, example : Gaussian Mixture Model.    Embed Quote

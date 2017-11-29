@@ -1,2 +1,0 @@
-★Why is standard deviation not a measure of central tendency?
-Measures of central tendency tell you where the center of your distribution is (according to various interpretations of the word "center"), whereas standard deviation is a measure of the distance from that center, irrespective of the center's position.    Embed Quote

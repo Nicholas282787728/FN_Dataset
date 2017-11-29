@@ -1,2 +1,0 @@
-★Which is better for data analysis: R or Python?
-This is a contentious issue. For what it's worth, an article in Nature has recommended Python for scientific programming and data science: http://www.nature.com/news/progr... Personally, I do not know R. I have used Python extensively to know that it is good for prototyping and data science but its dynamic typing and lack of multithreading make it less than ideal for production code.    Embed Quote 

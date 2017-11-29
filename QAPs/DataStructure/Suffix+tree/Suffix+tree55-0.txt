@@ -1,2 +1,0 @@
-Where can I find the implementation of compressed trie?
-If you look carefully, a Suffix tree and Compressed trie are almost the same. Although, I have never actually implemented a Trie, i recommend these pages: 1. A trie: Page on emory.edu 2 A suffix tree(read only relevant parts): Page on duke.edu 3. Why trie=suffix tree?: Pattern Searching | Set 8 (Suffix Tree Introduction) - GeeksforGeek 4. hence suffix tree implementation: Looking for the suffix tree implementation in C#? (not available easily on net it seems) 

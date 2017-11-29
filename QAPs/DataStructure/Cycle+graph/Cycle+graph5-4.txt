@@ -1,2 +1,0 @@
-How can DFS and BFS be used to find out if there are cycles in a graph?
-Originally Answered: What is the best way to determine whether a graph has a cycle using DFS or similar?A Graph has a cycle if it is Strongly connected. You can use both DFS & BFS for whether a graph has a cycle. Graph has cycle if graph has a back edge (which point from a node to one of its ancestors) compared to DFS's spanning tree. But for practical applications Tarjan's strongly connected components algorithm works well 

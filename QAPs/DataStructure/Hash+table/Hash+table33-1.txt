@@ -1,2 +1,0 @@
-Why is a hash table faster than a for loop?
-Why is a 4GHz processor faster than a Porsche? You are comparing two very different things, a data structure and a syntactic iteration construct. They are not at all comparable, nor mutually exclusive; e.g. you might populate or iterate over a hash table using a for loop. 1.8k Views · 8 Upvotes

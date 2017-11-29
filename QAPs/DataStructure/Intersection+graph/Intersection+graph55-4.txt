@@ -1,2 +1,0 @@
-How can I solve this equation: 2 x =x  ?
-If you graph both functions on desmos graphing calculator, you get the following screen: As you can see, these functions never will intersect. Thus there is no real solution. 

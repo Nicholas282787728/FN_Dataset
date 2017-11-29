@@ -1,2 +1,0 @@
-★What are the best beginning books about Pattern Recognition and Machine Learning?
-"pattern recognition" by sergios theodoridis and konstantinos koutroumbas is very lucidly written and a good starting point for beginners.    Embed Quote

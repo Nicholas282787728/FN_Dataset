@@ -1,2 +1,0 @@
-How can an ordered pair be defined in terms of a set?
-The standard method is to define [math](a, b) = \{a, \{a, b\}\}[/math].  We can then define larger tuples by methods analogous to [math](a, b, c) = (a, (b, c))[/math]. 

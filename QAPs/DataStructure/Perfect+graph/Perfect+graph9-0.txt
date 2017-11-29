@@ -1,2 +1,0 @@
-What are some known algorithms for finding a perfect match in a bipartite graph?
-Check if the both the disjoint node sets are of equal size. Reduce it to a max flow problem as mentioned here [1].  If the flow value is equal to the left edge set you have a perfect matching. To find the matching, just output the edges with a positive flow on them. [1] Matching (graph theory) 

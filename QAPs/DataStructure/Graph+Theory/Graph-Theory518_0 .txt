@@ -1,1 +1,0 @@
-Which shortest path algorithm is the fastest for unweighted undirected graphs?Breadth-first search. It is linear in the graph size, you can’t do any better than that if you need to read the input first. 453 Views · View Upvotes · Answer requested by Oğuz Gül

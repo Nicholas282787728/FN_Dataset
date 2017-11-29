@@ -1,2 +1,0 @@
-★What are the IP addresses of Gmail's image proxy servers?
-As far as I can tell Google uses the domains: ci3.googleusercontent.com ci4.googleusercontent.com ci5.googleusercontent.com ci6.googleusercontent.comfor image proxy servers. These resolve to the IP addresses: 173.194.113.10 173.194.113.11 173.194.113.12    Embed Quote

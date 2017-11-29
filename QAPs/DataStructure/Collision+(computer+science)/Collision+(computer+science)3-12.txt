@@ -1,2 +1,0 @@
-What are some good computer science final year project ideas?
-Originally Answered: What are some project topics for my final year project in computer science?You can try creating fingerprint authentication service  for web application using fprint on Linux. Google 'libfprint'.  I actually used node-webkit and libfprint and its daemon using d-bus service to create fingerprint verification for a voting software I wrote. 

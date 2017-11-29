@@ -1,2 +1,0 @@
-★Why is L1 metric better than L2 metrics in convex linear programming?
-l1 is linear but l2 is not linear    Embed Quote

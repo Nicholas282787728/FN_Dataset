@@ -1,8 +1,0 @@
-Main articles: Probability space and Probability measure
-In the measure-theoretic formalization of probability theory, a random variable is defined as a measurable function X from a probability space to measurable space . A probability distribution is the pushforward measure, P, satisfying X*P = PX �? on .[clarification needed]
-The distribution of a random variable X with distribution function F is said to have a long right tail[1] if for all t > 0,
-
-or equivalently
-
-This has the intuitive interpretation for a right-tailed long-tailed distributed quantity that if the long-tailed quantity exceeds some high level, the probability approaches 1 that it will exceed any other higher level: if you know the situation is bad, it is probably worse than you think.
-All long-tailed distributions are heavy-tailed, but the converse is false, and it is possible to construct heavy-tailed distributions that are not long-tailed.

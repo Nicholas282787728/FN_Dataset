@@ -1,2 +1,0 @@
-★In an ANOVA, what does a significant p value mean?Newbie question. In a simple (say one-way) ANOVA, what does a significant p value mean? That the groups are the different? Or that the groups are the same?
-It means that the probability of obtaining an F statistic of that magnitude, or larger, when the null hypothesis is true, is less than your p-value cutoff. That is, you have found evidence that the means of the groups differ in the population. In short, different.    Embed Quote

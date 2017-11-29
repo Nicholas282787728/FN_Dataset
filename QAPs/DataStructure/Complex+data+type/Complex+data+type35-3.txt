@@ -1,1 +1,0 @@
-How are hash tables implemented in Linux Kernel? How do they work for different data types and structures?Are they generic enough of handle all data types or are they re-implemented at places? Also which hashing schemes do they use?

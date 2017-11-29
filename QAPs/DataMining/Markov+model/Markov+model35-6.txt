@@ -1,2 +1,0 @@
-★What are some good resources for learning about Hidden Markov Models?
-A really good source for understanding basics quickly through an example. HMM : Viterbi algorithm - a toy example http://homepages.ulb.ac.be/~dgon...    Embed Quote

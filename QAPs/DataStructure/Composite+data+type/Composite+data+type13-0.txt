@@ -1,2 +1,0 @@
-Functional Programming: What are type lenses?
-A2A.  I'm not an expert in Haskell, but this stackoverflow discussion and the linked video are interesting: Functional lenses 

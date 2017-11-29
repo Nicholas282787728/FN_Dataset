@@ -1,2 +1,0 @@
-★How do I find the mean of the reciprocal of the normal distribution?i.e. of 1/NormalDistribution[[Mu], [Sigma]]
-It doesn't exist.    Embed Quote

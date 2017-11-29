@@ -1,1 +1,0 @@
-What will happen if we use more than 4GB of memory in a 32-bit system?Will the system be able to use more than 4GB? In what condition can a system have more than 4GB of memory?

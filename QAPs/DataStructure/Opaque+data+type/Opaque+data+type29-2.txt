@@ -1,2 +1,0 @@
-What’s wrong with OpenID?
-OpenID is a great standard and addresses a real problem. What’s wrong with it is that the steps for any user to actually authenticate are confusing and time consuming, which presents a significant enough challenge as to negate the most obvious benefits of replacing single site logins. Updated 64w ago • View Upvotes

@@ -1,2 +1,0 @@
-What are the most important concepts in C and C++ that should be learnt and understood before a programming interview?I don't have much time left for my interviews. So please suggest to me the concepts I must know before going for the interview.
-Pointers. If you can really understand them and their practical use, you know 99% of C/C++. Other than that, know the usual concepts like different operators, classes, inheritance, polymorphism and STL if you still have time. 

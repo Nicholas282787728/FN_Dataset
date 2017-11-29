@@ -1,2 +1,0 @@
-Other than binary search, are there other code examples that have a running time of O(log n)?
-How about addition on integers? If you consider the input size to be the magnitude of the arguments rather than the number of digits, addition takes log time. 

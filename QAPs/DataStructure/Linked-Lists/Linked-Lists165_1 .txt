@@ -1,1 +1,0 @@
-What are good ways to delete node in a singly linked list (whose head is not known)?Copy the value of the next node to the current node. The case where this will not work is when the node to be deleted is the tail. 3.1k Views  View Upvotes

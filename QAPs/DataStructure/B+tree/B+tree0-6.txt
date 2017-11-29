@@ -1,2 +1,0 @@
-What are the advantages of B+ Trees over B Trees?
-In binary tree every node has maximum 2 child and minimum 0 and binary search tree is the type of binary tree where left child of node is smaller than parent node and right child of node is grater than parent node . and B tree and B+ tree is used for database purpose . In a B tree you can store both keys and data in the internal/leaf nodes. But in a B+ tree you have to store the data in the leaf nodes only Binary search tree B+ tree ... (more)

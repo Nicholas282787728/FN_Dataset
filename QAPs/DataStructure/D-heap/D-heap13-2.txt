@@ -1,2 +1,0 @@
-How can I quickly sort an array of elements that is already sorted except for a small number of elements (say, up to 1/4 of the total) whose positions are known?
-Use Two-way replacement selection as it already preserves the sorting order when the sorted batches have an order, no matter if they are forward or backward, and there are still a few unsorted elements. This was a work  done by Data Management Group. DAMA-UPC 

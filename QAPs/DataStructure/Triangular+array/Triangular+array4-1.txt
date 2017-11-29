@@ -1,2 +1,0 @@
-Is the program of matrix triangular in the C language?
-Could you elaborate a bit more? So far I could gather that your question is on Matrix(2-D arrays) operations. Thanks for the A2A. 

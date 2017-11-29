@@ -1,2 +1,0 @@
-What would a graph of a function that is continuous and differentiable at all points except x=1  and x=3  look like?
-Let f:R→R  be defined by                                    f(x) :=\sgn((x−1)(x−3))=\sgn(x 2 −4x+3)   where \sgn  is the sign function. A plot of the graph of f  is illustrated below 

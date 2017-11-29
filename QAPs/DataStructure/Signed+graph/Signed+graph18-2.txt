@@ -1,2 +1,0 @@
-How do you determine points of inflection from a graph of the derivative of a function?
-The vertices (turning points; local maxima and minima) on the graph of the derivative are in general the inflection points on the graph of the underlying function. 

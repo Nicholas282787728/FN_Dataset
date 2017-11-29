@@ -1,2 +1,0 @@
-★What is the best open source software for knowledge management?
-Tinderbox has a lot of representational power. Prototype inheritance, persistent queries, lots of adaptation. It's built to scale, too. http://www.eastgate.com/Tinderbox/    Embed Quote

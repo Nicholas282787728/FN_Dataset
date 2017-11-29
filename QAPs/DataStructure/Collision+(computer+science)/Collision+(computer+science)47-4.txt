@@ -1,2 +1,0 @@
-How can I explain Computer Science Engineering to a layman?
-Originally Answered: Can any person currently doing his/her Btech in CS tell me what is CS all about in laymen terms?Read this book "The elements of computing systems", where the authors attempt to teach CS course from first principles. A video where the author talks about the book and the course 

@@ -1,1 +1,0 @@
-Do the graphs of the two equations y=x and y=1/x have tangent lines that are perpendicular to each other at their point of intersection?

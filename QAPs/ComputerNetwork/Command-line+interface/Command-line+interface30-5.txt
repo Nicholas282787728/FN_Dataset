@@ -1,2 +1,0 @@
-★What are some awesome/cool GEMs to use in Rails?
-Awesome Ruby  just visit it

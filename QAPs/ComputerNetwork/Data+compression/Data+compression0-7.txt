@@ -1,2 +1,0 @@
-★Is there a theoretical limit to data compression?If so, how was it found?
-Phrased like this this question is meaningless, compression only makes sense relative to a realm of possibles texts with assorted probabilities, of which "compression" offers a different encoding than the "original" input format and over which some metric common to both the input and compressed format allows comparison to be made.

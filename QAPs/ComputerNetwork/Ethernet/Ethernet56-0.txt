@@ -1,2 +1,0 @@
-★Is there an ethernet hub/switch inside HDMI devices?I read on a HDMI cable that it can carry ethernet data. What kind of devises or application is it intended for? Is it possible to avoid connecting all my HDMI linked devise to my ethernet network if one of them is already linked? (pulled from the comments below the question.
-Yes, HDMI can carry Ethernet.  Cool, eh? Most devices today do NOT make use of this and I don't know of any that interconnect the HDMI Ethernet to any other network interface at all.

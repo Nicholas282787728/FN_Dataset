@@ -1,2 +1,0 @@
-What is an intuitive explanation of Huffman coding?
-Say your country is at war and can be attacked by two enemies(or both at the same time) and you are in charge of sending out messages every hour to your country's military head if you spot an enemy aircraft. Instead of sending long messages you decide to send codes instead, like the following: 00 - No aircraft spotted 01 - Enemy 1 aircraft spotted 10 - Enemy 2 aircraft spotted 11 - Both Enemy 1 aircraft and Enemy 2 aircraft spotted ... (more)

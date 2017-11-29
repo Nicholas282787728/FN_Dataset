@@ -1,2 +1,0 @@
-★What are the most interesting applications of Markov chains?Besides writing Bob Dylan songs.
-The one that arguably affects you the most on a day-to-day basis is PageRank, which is one of the main factors in determining the authoritativeness or centrality of websites on the World Wide Web.    Embed Quote

@@ -1,2 +1,0 @@
-★Does electricity travel through a wire at less than the speed of light? If so, at what speed?
-There are two ways to answer this, though in both cases the answer is no. One way is to consider the speed at which the electrons move. In this case, the answer is emphatically no. Electrons in a conductor move at speeds below a metre per second. The other is the speed at which the impulse to start moving travels down the wire. This is the speed at which signals propagate. And this, while it will vary with the materiel, is of the order of half the speed of light.

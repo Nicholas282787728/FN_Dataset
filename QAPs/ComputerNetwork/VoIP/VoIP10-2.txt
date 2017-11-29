@@ -1,2 +1,0 @@
-★Is Viber using SIP as a signalling VoIP protocol ?This is a follow-up question to How is Viber going to make money?.
-I’m under the impression they’re using MVTS, which is a SIP-based SBC. I would guess they’re using TLS maybe and hence all data is encrypted and none of our traces will show up something useful… Again, I could be wrong. More Resources on Is Viber using SIP as a signalling VoIP protocol: http://www.rapidsoftsystems.com/ http://www.mobilemage.com/2011/0...    Embed Quote

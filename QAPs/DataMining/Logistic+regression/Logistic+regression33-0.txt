@@ -1,2 +1,0 @@
-★Which is better for binary classification, SVM or logistic regression?
-There is no simple answer to this; SVM and LR each work better in different data sets.  This paper Page on www.emis.de has a nice summary.    Embed Quote

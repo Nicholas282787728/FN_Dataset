@@ -1,2 +1,0 @@
-What are the most useful gems to use in Rails?
-Hirb is a cool gem that allows you to view your active record queries in a nice, clean tabular format: cldwalker/hirb Updated 13 Feb • View Upvotes

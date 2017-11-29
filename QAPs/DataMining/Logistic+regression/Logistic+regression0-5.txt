@@ -1,2 +1,0 @@
-★What is the difference between logistic regression and Naive Bayes?
-Andrew Ng does a pretty good job of explaining the details in his video lecture, the associated notes are here: http://www.stanford.edu/class/cs...    Embed Quote

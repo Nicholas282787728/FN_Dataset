@@ -1,2 +1,0 @@
-★How does deep learning work and how is it different from normal neural networks and/or SVM?And also, how does one go about starting to understand them (papers/blogs/articles) ?
-Deep learning  vs. neural networks: see How true is this slide on deep learning? How does deep learning work: see What are the best resources to learn about deep learning? Deep learning vs. SVM: see https://www.coursera.org/course/...    Embed Quote

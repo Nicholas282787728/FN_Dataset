@@ -1,2 +1,0 @@
-Any idea about studying data structures using c++?
-My favorite is a Trie (A ternary search tree). A very useful data structure that will get you started in C++ 

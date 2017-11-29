@@ -1,2 +1,0 @@
-★What is difference between 2G and 3G?
-1G was analog voice 2G is digital voice + SMS 2.5G is digital voice and access to mobile data (ok for email but limited for web) 3G is digital voice + acceptably fast data, fast enough for browsing to be usable, allow online maps or Quora. 4G is much faster data over an IP wireless network.

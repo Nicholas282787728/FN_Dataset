@@ -1,2 +1,0 @@
-What is data type in Java?
-Data is the representation of anything. so it can be either constant or variables. So from the basic mathematical definition: Constant: Entity whose value can not be changed. Variable: Entity whose value can be changed. consider we have an equation: (x−5)(x+5)=0  (x−5)(x+5)=0 then the value of x will be -5 and 5.... (more)

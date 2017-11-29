@@ -1,2 +1,0 @@
-★Is redundancy that important on a telecommunications network?
-One of our Techies Sanjeeth Kumar R wrote a great post on this same question and how we solve this at our product which deals with a lot of telecom related redundancy. You can read more on the blog here - Keeping Exotel Highly Available He brings in his experience of working with CISCO as well, and hence its a great outlook, hope it helps folks.    Embed Quote

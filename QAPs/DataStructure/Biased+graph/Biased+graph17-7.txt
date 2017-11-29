@@ -1,2 +1,0 @@
-What are the concise meaning and interpretation of bias and variance in machine learning and statistics?
-"With four parameters I can fit an elephant, and with five I can make him wiggle his trunk." - John von Neumann 697 Views · 2 Upvotes

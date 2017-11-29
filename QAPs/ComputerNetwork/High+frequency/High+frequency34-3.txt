@@ -1,2 +1,0 @@
-★I want to know everything about high frequency trading and/or algorithmic trading, where do I start?
-Read read read..then read some more. Books: "The Problem of HFT" "Broken Markets" "Dark Pools" Sites: nanex.net CalibratedConfidence.com Sanglucci.com floatingpath.com Great twitter follows: @nanexllc @calconfidence @themissal @joesaluzzi @tripledtrader @b__zimm Every week I write a story called HFT Shenanigans on floatingpath.com where I highlight HFT gone wrong and attempt to explain why, in simplest terms possible. Hope this helps!

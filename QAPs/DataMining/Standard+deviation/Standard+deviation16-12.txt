@@ -1,2 +1,0 @@
-★Why do we square instead of using the absolute value when calculating variance and standard deviation?
-hm    Embed Quote

@@ -1,2 +1,0 @@
-★How do I draw a shirt onto someone's 3D graphic model?
-You can model clothing using rigging and texturing techniques with Blender, and there are many tutorials on this. This is assuming you have the human torso model to begin with. But if you wanted a more cut-and-paste solution, it seems like the only way would be to purchase software. Marvelousdesigner looks promising.    Embed Quote

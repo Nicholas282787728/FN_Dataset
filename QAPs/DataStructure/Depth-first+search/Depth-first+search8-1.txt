@@ -1,2 +1,0 @@
-How do I solve a maze with depth first search?
-I present you a simple algorithm (which some technical people call depth first search) that solves any maze having perpendicular walls, blindfolded. While walking, lean on your right wall. That's all you have to do. If the maze has an exit, you'll find the exit. If not, you'll eventually get back to the entrance. And all the while, you're blindfolded. (You know what, a mouse solving a maze is not such a big deal after all.) 3k Views · 6 Upvotes

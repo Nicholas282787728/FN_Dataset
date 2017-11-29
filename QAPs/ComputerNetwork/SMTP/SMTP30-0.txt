@@ -1,2 +1,0 @@
-★What is the SMTP server to send email programatically via outlook.com?
-You can find the settings here: Set up an email app with Outlook.com - Microsoft Windows Help    Embed Quote

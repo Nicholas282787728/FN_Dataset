@@ -1,2 +1,0 @@
-★Front-end: What's the best workflow?What's your workflow? Gulp, grunt, yeoman, sass, less, stylus, atomic design, jade, Boostrap? Tell me.
-jQuery for shorter JS, Bootstrap for responsiveness, CodeKit for auto-refresh and for compiling less files, Chrome Dev Tools for debugging, Chrome browser and Sublime Text for the IDE.    Embed Quote

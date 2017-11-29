@@ -1,2 +1,0 @@
-★Does Amazon Web Services support IPv6?Can I give an EC2 instance a public IPv6 address? Can I access S3 over IPv6? If not, when?
-They have just announced the support of IPv6 for all Elastic Load Balancers in the US East (Northern Virginia) and EU (Ireland) regions. Check out the announcement on their blog: http://aws.typepad.com/aws/2011/...    Embed Quote

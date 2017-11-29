@@ -1,2 +1,0 @@
-What is an intuitive explanation of spectral clustering in the context of machine learning?
-I recently wrote a blog post on the subject: The Smallest Eigenvalues of a Graph Laplacian In simple terms, the spectral clustering operations are a dimension-reduction step that make clusters pop out. Once these clusters pop out you can use k-means to retrieve them. How these clusters pop out is a tweak of linear algebra. If you work through the derivation (I have done that in my blog post), it'll clarify the underlying concepts. 

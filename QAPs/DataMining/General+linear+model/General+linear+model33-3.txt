@@ -1,2 +1,0 @@
-★Why can a regression function not handle non-linear relationships? Is there another form of regression that is designed for non-linear relationships?
-Sure, you could do a regression where your function is polynomial.    Embed Quote

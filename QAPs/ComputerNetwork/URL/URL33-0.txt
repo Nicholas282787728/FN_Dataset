@@ -1,2 +1,0 @@
-★How to normalize url in python?
-Use urllib.urlencode() http://docs.python.org/2/library...    Embed Quote

@@ -1,2 +1,0 @@
-★What are some languages for specifying graphical models?
-An entire new set of languages are being developed for probabilistic programming. Check out Probabilistic Programming Some of the languages listed on it are somewhat old, but the space is heating up again.    Embed Quote

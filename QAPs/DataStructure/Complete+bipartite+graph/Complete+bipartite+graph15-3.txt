@@ -1,1 +1,0 @@
-Is there any theorem that relates the number of perfect matching in a non bipartite graph with its permanent?

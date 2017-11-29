@@ -1,2 +1,0 @@
-Other than binary search, are there other code examples that have a running time of O(log n)?
-Since the question doesn't mention anything about pseudo polynomial algorithms, finding the nth root of a number 'm' is also logarithmic in time but dependent on the value of m. 

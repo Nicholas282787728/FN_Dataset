@@ -1,1 +1,0 @@
-Hash Functions: What are the advantages of SHA-3 over SHA-1?

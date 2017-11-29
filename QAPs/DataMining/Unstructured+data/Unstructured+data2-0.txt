@@ -1,2 +1,0 @@
-★Is DynamoDB good for unstructured data?
-Depends on how fast you need the information.   We found that S3 seemed like where we wanted to keep unstructured text -- but if we needed to read several of these files on s3 to paint a page -- the lag from s3 was not acceptable.    We had much improved performance when we kept a compressed version of the text in dynamo - and unpacked it when we needed it.  As part of our process - we were already reading that row in dynamo for the structured information - so it was one less read.    Embed Quote

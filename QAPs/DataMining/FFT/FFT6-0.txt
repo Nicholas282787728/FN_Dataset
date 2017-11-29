@@ -1,2 +1,0 @@
-★What is a good tutorial for understanding the 'butterfly diagrams' used for FFT?This is a butterfly diagram.
-This Powerpoint Presentation from the Texas Instruments website gives a detailed explanation of all the calculations and identities used in the derivation. It's quite similar to how I studied it. Chapter 19 Fast Fourier Transform (FFT) Cheers!    Embed Quote

@@ -1,1 +1,0 @@
-Is it possible to have all black nodes in a red-black tree?Red node will have only black children but Black node can have red as well as black children. So, yes, there can be a Red-Black tree where all nodes are black. Edits are welcome!! 

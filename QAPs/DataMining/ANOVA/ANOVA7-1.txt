@@ -1,2 +1,0 @@
-★What's the basic difference between ANOVA, regression testing, and t-test?I read today that all three were developed independently about the same time period, and perform the same basic function but in different ways.
-The t test is a special case of ANOVA with just two groups, and ANOVA is a special case of regression where the predictors are indicators of group membership and functions of that.    Embed Quote

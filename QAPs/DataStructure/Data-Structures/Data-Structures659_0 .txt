@@ -1,1 +1,0 @@
-Is data structure and algorithm different for different languages?They are essentially the same, that’s why our Specialization on Data Structures and Algorithms allows to submit programming exercises in one of 10 different languages: C, C++, C#, Haskell, Java, JavaScript, Python2, Python3, Ruby, and Scala. 219 Views · View Upvotes

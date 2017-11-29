@@ -1,2 +1,0 @@
-What are the most popular machine learning algorithms used in the industry?
-Most of the machine learning algorithms used in industry are customized version of the popular literature algorithms like Support Vector Machines, Collaborative Filtering, Random Forests, Decision Trees, K Nearest Neighbours, Naive Bayes, K means clustering etc. 

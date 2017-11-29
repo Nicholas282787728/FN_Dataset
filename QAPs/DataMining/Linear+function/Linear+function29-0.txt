@@ -1,2 +1,0 @@
-★Why does deep learning/architectures use only non-linear activation function in the hidden layers?I think for feature representation they only use non-linearity functions  in the hidden layers, such as sigmoid. Only the output is a linear  classifier. Is this why they solve high complex problems and they transfer their features via several non-linear functions to better features that are easily divided by a linear classifier?
-A linear combination of linear classifiers is equivalent to a single linear classifier.    Embed Quote

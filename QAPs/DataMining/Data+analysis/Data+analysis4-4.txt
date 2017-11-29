@@ -1,2 +1,0 @@
-Which are some of the best Data Analysis tools?
-Data Mining/Analytic Tools Used This poll had a record number of participants (over 1,100), with 43% using only commercial software, 32% only free software, 25% both. The average number of tools per user was 2.2. RapidMiner, R, and Excel are again the most popular tools, with SAS remaining the top commercial tool. Source: http://www.kdnuggets.com/polls/2...    Embed Quote 

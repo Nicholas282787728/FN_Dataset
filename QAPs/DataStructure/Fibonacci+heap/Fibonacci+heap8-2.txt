@@ -1,2 +1,0 @@
-Why is there no Fibonacci heap implementation in the Standard Java API?
-I know there is no Fibonacci heap in the standard Java API, but there are a few open-source ones. I did some experiment using Fibonacci heap based Priority Queue for the Dijkstra's algorithm. You can see how these open-source implementations perform during the execution of the algorithm. Here is the link for my blog post "Experimenting with Dijkstra's algorithm" and for the experiment's GitHub page "gabormakrai/dijkstra-performance". 358 Views

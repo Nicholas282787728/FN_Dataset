@@ -1,2 +1,0 @@
-What are abstract data types in data structures?
-ADT is simply a data type whose values are derived from some other data types and are manipulated through a set of operations on the basis of some constraints. 

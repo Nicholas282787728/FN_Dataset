@@ -1,2 +1,0 @@
-★How does Instapaper parse just the main body text of a web page?Was it an off the shelf package or custom html parsing?
-http://blog.instapaper.com/post/...    Embed Quote

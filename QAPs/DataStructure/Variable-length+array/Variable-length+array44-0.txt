@@ -1,2 +1,0 @@
-How do I send a character buffer length stored in a integer variable using socket programming? Also, can I use the same socket to send the character buffers stored in an array format?
-Sockets just send an area of memory to another computer. You can format the data in that area any way you want. You could send just raw binary data if yo know the other end will have the same "endianness".     Otherwise to be more portable you should send the length as ascii numerals, say ten digits:    sprintf( outbuf, "%10d\n%s", bytecount, bytearray ); 

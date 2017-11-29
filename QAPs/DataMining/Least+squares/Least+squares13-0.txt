@@ -1,2 +1,0 @@
-★What are properties of weighted least squares estimators?
-They are the unique solutions of the problem that defines them: minimization of a quadratic function. Plus, they are very simple to compute.    Embed Quote

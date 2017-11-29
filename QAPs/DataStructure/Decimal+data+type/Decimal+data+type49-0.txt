@@ -1,2 +1,0 @@
-What is the function of the var in JavaScript?
-It is a keyword used for defining a variable of different data types namely number(with or without decimals), string, array and objects. 

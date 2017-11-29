@@ -1,2 +1,0 @@
-What books do you recommend to get introduced in the data mining "world"?
-I like "Applied Predictive Modelling" by M. Kuhn and K. Johnson. Introduction to Statistical Learning by Hastie and Tibshirani is also helpful. :)    Embed Quote 

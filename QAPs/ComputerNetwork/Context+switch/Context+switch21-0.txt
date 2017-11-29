@@ -1,2 +1,0 @@
-★What would happen if a thread is somehow put on the runqueue in the middle of thread switch where context switch has not happened yet?Any difference from doing so after the switch is complete?
-It would get a extra time slice... unless there was some other reason why this is bad no real harm done.

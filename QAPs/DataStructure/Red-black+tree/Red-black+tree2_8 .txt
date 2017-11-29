@@ -1,1 +1,0 @@
-What are some real-world applications of Red-Black trees today?Can anyone point to real-world applications and places where red-black trees are used today?Red black tree used in syntax trees in major compilers and os implementation of sorted dictionary. 

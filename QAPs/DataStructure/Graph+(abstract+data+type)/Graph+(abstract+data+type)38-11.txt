@@ -1,2 +1,0 @@
-What is the most recommended coding language for creating full blown human AI?
-I think the best language would be "English". You don't have to build the entire system in 1 programming language. Half-way through the evolution, natural language can take over the task of 'programming the system'. 

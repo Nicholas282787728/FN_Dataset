@@ -1,2 +1,0 @@
-★Why should I use an existing ETL vs writing my own in Python for my data warehouse needs?I've been reading the Kimball Group Reader and they strongly recommend I use an existing ETL. Looking at solutions such as Kettle, SnapLogic, and Talend it seems their GUIs complicate the solution instead of making it easier to model and understand.
-I have worked with Talend and QlikView within ETL. The largest difference is the GUI in Talend for ETL. The Talend GUI makes the development and deployment much more transparent.    Embed Quote

@@ -1,1 +1,0 @@
-Is there an easy method to determine if a graph is planar or not?I can't find a subgraph that is K5 or K3,3 to use the kuratowski theorem .Is there another way to determine if it is not planar?Every planer graph can be colored in almost 4 color, so if graph chromatic number >4 then it’s not a planer, otherwise it may be planer 155 Views · View Upvotes

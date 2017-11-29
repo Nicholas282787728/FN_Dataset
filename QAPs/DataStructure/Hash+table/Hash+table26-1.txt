@@ -1,2 +1,0 @@
-How is a Hash Table implemented in Java?
-A hash table in Java uses the .hashCode() method of the object to generate an integer index for an internal array. If there is a collision, it uses linear chaining to resolve the collision, by appending the element to the end of the linked list at that array index. 706 Views · 2 Upvotes

@@ -1,2 +1,0 @@
-What are the 10 must-know algorithms and data structures for a software engineer?
-The most important algorithms are tree traversal,hashing,sorting,statistics,bloom filters,data compression algorithm,topological sort,support vector machines,physics simulation,unification and the most important data structure concepts are graphs,stack/queue,map,heaps,arrays,tree,recursion,file structure,list. 

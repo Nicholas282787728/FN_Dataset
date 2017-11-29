@@ -1,2 +1,0 @@
-Does C++ have a built-in associative array?
-Looks like you are looking for C++ map. Here is a good intro: map - C++ Reference If you are looking for unordered keys, then go for unordered map as mentioned here: unordered_map - C++ Reference Hope this helps. 

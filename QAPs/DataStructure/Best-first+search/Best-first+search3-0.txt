@@ -1,2 +1,0 @@
-Is it best to make a class for a depth first search function in C ++?
-Not necessary. Depth first search can be used in many situations and written in very simple way. It will waste your time when you solve some complex problems, such as in ACM contest. But it is a good habit to make a class when you write a big project, which, however, makes you debug easily whenever you find mistakes. 64 Views

@@ -1,2 +1,0 @@
-How do I prepare for a software engineering job interview?This is a follow-up question to What's the best way to prepare for job interviews?
-Lots of good in-depth points have been made already, so I'll toss a quick one in - If you're in college or going to be in college, pay attention during your elementary data structures and algorithms class(es). You should have everything you learn in Introductory Data Structures and Algorithms burned into your cortex. Here's the syllabus for ours: http://www.eecs.umich.edu/~sugih... (It's essentially point [1] in Justin's answer above) 

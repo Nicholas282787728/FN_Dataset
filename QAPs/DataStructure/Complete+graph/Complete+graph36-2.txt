@@ -1,2 +1,0 @@
-How much abstract algebra background is needed before delving into algebraic combinatorics?
-There is one way to find out: dive in! Part of the fun of learning is finding connections you never knew existed, so by looking up terminology you're unfamiliar with, you can gradually piece together not only the subject itself but also its significance to surrounding material. 

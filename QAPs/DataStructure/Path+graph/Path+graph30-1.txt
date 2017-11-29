@@ -1,2 +1,0 @@
-How can we find second smallest path between two nodes in a weighted/unweighted graph efficiently?
-Have you tried out K shortest path routing with k=2? 

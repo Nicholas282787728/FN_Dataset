@@ -1,2 +1,0 @@
-★Does it make sense to perform Principal Components Analysis (PCA) before clustering, if the original data has too many dimensions?Is it theoretically unsound to try to cluster data with no correlation?
-Ideally, your algorithms wouldn't converge on uncorrelated data (it would be the equivalent of "over-fitting" in neural-network modeling).  So, I would guess, yes, it is theoretically unsound not to give some kind of minimal hint to drive the separation, otherwise you're separating based on an accident of your sample data.    Embed Quote

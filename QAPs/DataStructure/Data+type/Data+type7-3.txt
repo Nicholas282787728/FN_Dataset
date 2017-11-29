@@ -1,2 +1,0 @@
-What is data type?
-If you open your mobile phone contacts, each entry has many different data associated with it. Ex, contact name, contact number, contact photo.. Each of this field is different. And so they have to be stored and retrieved differently. 215 Views · Answer requested by Thejo Vyas

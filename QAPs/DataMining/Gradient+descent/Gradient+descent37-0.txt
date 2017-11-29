@@ -1,2 +1,0 @@
-★Is stochastic gradient descent online? How do I intuitively prove that it converges?
-it does not converge unless the optimization problem is convex    Embed Quote

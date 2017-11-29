@@ -1,2 +1,0 @@
-What are the most important data structures in a tech interview?
-Short answer: stack, queues and hash set. Here are some more categories with sample problems. Basically, it's all about practice. There is no silver bullet data structure i.e. you learn one or two data structures are now you're ready for interviews. Arrays Binary Search Linked List Reverse a singly linked list Intersection Point of Two Lists Math & Stats... (more)

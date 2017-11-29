@@ -1,2 +1,0 @@
-What are some good websites to learn data structures and algorithms?
-Originally Answered: What is the best resource to learn data structure and algorithm (must contain practice assignments too)? I’ve stumbled across Coursera, but does it cover all the essential details about DSA?If you have not seen these videos by Shai Simonson, you are definitely missing the best lectures on Algorithms. http://www.aduni.org/courses/alg... 8.7k Views · 9 Upvotes

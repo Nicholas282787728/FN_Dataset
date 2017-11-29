@@ -1,2 +1,0 @@
-★Is there a theoretical limit to data compression?If so, how was it found?
-If your only talking about only the upper limit it is for classic compression Shannon's Limit (Shannon–Hartley theorem) for compression that is based on knowledge of what was compressed it is whatever the upper limit for erasure codes is.   I have heard reports of better then 95%.

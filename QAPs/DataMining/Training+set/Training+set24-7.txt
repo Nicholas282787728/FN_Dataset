@@ -1,2 +1,0 @@
-★How can one improve a classifier (random forest), when there is no overfitting + optimal parameter selection but performance on the test set is much lower than on the training set?
-When you said "performance on test set is much lower than training set" that says that by definition there is overfitting. Did you try other methods like a regularized SVM or logistic regression?    Embed Quote

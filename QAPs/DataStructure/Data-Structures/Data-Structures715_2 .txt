@@ -1,1 +1,0 @@
-Have you ever coded a real life application solely using linked lists?No. This violates one of the most important guidelines in programming. “Use the right tool for the job.” I can think of very few applications where that's the only tool needed. 206 Views · View Upvotes

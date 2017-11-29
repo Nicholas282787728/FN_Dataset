@@ -1,2 +1,0 @@
-★Can quadratic assignment problem be solved use dynamic or linear programming?
-Quadratic assignment is NP-hard, so don't expect any efficient solution.    Embed Quote

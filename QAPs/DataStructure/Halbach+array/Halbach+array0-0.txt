@@ -1,2 +1,0 @@
-Will putting electromagnets in halbach array produce a stronger magnetic field?
-Halbach array is intended to create magnetic field in one direction whilst it is almost zero on the other side. For the same set of electromagnets arranged in halbach configuration the magnetic field must be much higher that when are random. 

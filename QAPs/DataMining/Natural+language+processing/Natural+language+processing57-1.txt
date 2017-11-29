@@ -1,2 +1,0 @@
-★Natural Language Processing: What are good algorithms related to sentiment analysis?
-There is an algorithm called the concept matrix (created by Lexalytics and Semantria) which derives its semantic knowledge from a 7TB ontology containing every single wikipedia page. Here are links to both pages if you want to look at the specifics of this technology: Semantria: Concept Matrix and Deep Learning Lexalytics: Concept Matrix | Lexalytics    Embed Quote

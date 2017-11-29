@@ -1,2 +1,0 @@
-What is a slow pointer and a fast pointer in a linked list?
-slow pointer and a fast pointer is mostly used in case of identifying whether loop is present in Linked list. Nice and detailed explanation on, How to detect loop in linked list, How to identify start node of loop in linked list and remove loop in linked list. Detect loop, Identify start node of loop and remove loop in linked list. 

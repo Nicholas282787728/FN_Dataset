@@ -1,2 +1,0 @@
-Cryptography: What are the use cases for double sha256 hashing?
-I'm not aware of any. The use of SHA-256 in the bitcoin protocol is somewhat unique and there are probably more robust constructions for that purpose. 

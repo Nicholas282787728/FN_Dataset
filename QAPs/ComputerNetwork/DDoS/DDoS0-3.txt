@@ -1,2 +1,0 @@
-★Is a DDoS attack illegal?What laws govern the legality of DDoS attacks? How do laws work for attacks across national borders?
-It is illegal to DDoS attack a 3rd party, but it is legal to do load testing on your own systems to ensure your cyber-defenses are working. Such legal tests are done with full agreement of upstream carriers and protection providers.

@@ -1,2 +1,0 @@
-★What is the best text analytics API + service?There are a lot of text analytics / text analysis APIs out there. What is your experience and what API do you think is the best one?
-At BITEXT, we offer a full API for Entity Extraction, Concept Extraction, Text Categorisation and Sentiment Analysis in Spanish, English and Portuguese. Other languages, like Italian and French, coming soo. You have all the relevant information here: Bitext API " Sentiment Analysis and Text Analytics for Social Media including some links to freely test the API.    Embed Quote

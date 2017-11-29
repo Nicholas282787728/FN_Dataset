@@ -1,2 +1,0 @@
-★How does iOS perform intra-app communication ? Is it secure?
-It's called extensions. A  subsystem manages the back and forth to ensure the correct memory address is being accessed.

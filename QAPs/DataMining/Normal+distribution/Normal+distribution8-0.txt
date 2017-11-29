@@ -1,2 +1,0 @@
-★Sorting normally distributed items?Given the mean and standard deviation of the size of a set of balls, I am asked to sort them out in 3 tiers, from the biggest to smallest. If it is given that the proportion of the size of balls is 10%, 60%, 30% from the largest respectively, how do I find out the minimum size of the balls from the different tiers?
-You need to find the 10th and 70th quantiles of a standard normal distribution and then adjust for the mean and standard deviation of the data you're actually working with.    Embed Quote

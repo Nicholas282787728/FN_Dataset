@@ -1,2 +1,0 @@
-Is an interger an example of an abstract data type?
-Formally I don't know. But perhaps more importantly, there are 2 aspects: integer data type is using abstraction, e.g. because the underlying byte[] can be low-endian or big-endian (most significant bytes at the start or at the end) in general you hear about abstract data type as abstracting data structures API from their implementation, for instance behind a Collection interface, you can have an array based list, a linked list, or a dynamically generated unordered collection such as map.values() 

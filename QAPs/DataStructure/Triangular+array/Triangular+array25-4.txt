@@ -1,2 +1,0 @@
-How would you find all the Pythagorean triplets in an array of n numbers?
-Take example 3,4,5 are triplet. So Step 1: in array find even number /2 and its prime factorization Step 2 : mark them A, and C. (here 4 => 2 and 1). Step 3 : p=A^2 - C^2 and q=A^2 + C^2. Step 4 : Find p and q both together in one scan in Array, if found triplet is there else it is not there. PS : This is Euclid's formula :) 

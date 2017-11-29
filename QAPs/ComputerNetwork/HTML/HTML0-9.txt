@@ -1,2 +1,0 @@
-★HTML: What is HTML?
-HTML is an application of the Standard Generalized Markup Language (SGML) which is the International Standard (ISO 8879) for text markup. HTML is a markup language for describing web documents (web pages). HTML stands for Hyper Text Markup Language A markup language is a set of markup tags HTML documents are described by HTML tags Each HTML tag describes different document content Read More detail from here.   http://en.wikipedia.org/wiki/HTML Contact -Manoj Dhanotiya

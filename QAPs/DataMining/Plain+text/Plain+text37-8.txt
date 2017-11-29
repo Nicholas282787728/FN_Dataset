@@ -1,2 +1,0 @@
-★What is the best plain text editor (equivalent to the MS Notepad) for Linux? Is there a simple program I can use for plain text that can be sent to Linux, Windows, and Apple machines?
-I was referred to use Notepad++ when i was learning python on windows since you dont want anything to fancy and powerful since you are just learning. Now i moved over to linux and use Notepadqq, the ubuntu equivalent of notepad++. I am pretty happy with it    Embed Quote

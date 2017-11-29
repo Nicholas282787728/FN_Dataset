@@ -1,2 +1,0 @@
-★How can I access my hard drive on another computer outside my home network?I have a dedicated media centre with 250GB worth of audio and video. I'd like to access this computer's shared directories while at places like starbucks, which are outside my home network.
-You can use various remote support tools such as Logmein, gosupportnow, GoToMyPC etc. for remotely accessing computers outside your home network.

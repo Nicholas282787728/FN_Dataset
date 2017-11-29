@@ -1,2 +1,0 @@
-★What is the best FTP client for Mac OS?other than Filezilla
-Another free option is AnyClient. It also supports secure file transfer protocols like sftp and ftps

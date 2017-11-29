@@ -1,2 +1,0 @@
-★Why doesn’t "sizeof(a)/sizeof(a[0])" work for an array passed as a parameter?
-in short.. when you pass a[] in a function it will decay into pointer to an int . and so you got sizeof (pointer to int)/sizeof(int).    Embed Quote

@@ -1,2 +1,0 @@
-How are Combinatorics and Topology connected?
-The most basic connection arises in graph theory with the Euler characteristic when one studies planar graphs. From then on, there are several generalizations that lead to a lot of cool mathematics :) but I guess that's like the first link. 

@@ -1,2 +1,0 @@
-★How does one plug in a Ethernet cable into a tablet that has no Ethernet port?
-You'll need a USB->Ethernet adapter and the proper drivers.

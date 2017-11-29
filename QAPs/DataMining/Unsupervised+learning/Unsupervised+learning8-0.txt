@@ -1,2 +1,0 @@
-★Is data mining just unsupervised learning?
-Data mining, an interdisciplinary subfield of computer science, is the computational process of discovering patterns in data sets involving methods at the intersection of artificial intelligence, machine learning, statistics, and database systems (source, Data mining). Unsupervised learning is  one of the  techniques that can be used to find patterns in unlabelled data sets.    Embed Quote

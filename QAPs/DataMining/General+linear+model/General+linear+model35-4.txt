@@ -1,2 +1,0 @@
-★Growth Hacking: How do you find insights like Facebook's "7 friends in 10 days" to grow your product faster?Assuming one tracks core product engagement actions and has data scale, how does one (having SQL chops) uncover tipping points like these for a (generic) Web app?
-I figured out this growth hacking technique in order to create a  targeted mailing list using Facebook and Excel. The method is quiet  unorthodox but it get's the job done. If you want to know more and read  this article: The Facebook Growth Hack    Embed Quote

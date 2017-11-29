@@ -1,2 +1,0 @@
-Where can I find some practice problems involving Segment Tree on TopCoder and Codeforces?
-A2 Online Judge This is the set of 60 questions on segment trees from Ahmed Aly's site. Hope this solves your problem and thanks for A2A 

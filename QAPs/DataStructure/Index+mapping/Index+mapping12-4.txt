@@ -1,1 +1,0 @@
-What is the algorithm/data structure used by Lucene to compute the term frequency of documents?It looks like use the Map structure to compute the term frequency, but I wanted to know the more detailed answer.

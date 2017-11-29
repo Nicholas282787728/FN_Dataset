@@ -1,2 +1,0 @@
-★What is the Internet of Things?
-Explained simply, the Internet of Things is the concept that devices are connected and transfer data to the Internet and/or other devices. Devices, as envisioned in IoT, can include just about anything — an oven, a thermostat, and even a belt buckle — but at the moment connected cars and wearable devices dominate the conversation. What is IoT & Why Should I Care: A Quick Guide Internet of Things - A Developer's Mandate

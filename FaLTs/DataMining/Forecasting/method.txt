@@ -1,4 +1,0 @@
-Time series methods use historical data as the basis of estimating future outcomes.
-Moving average Weighted moving average Kalman filtering Exponential smoothing Autoregressive moving average (ARMA) Autoregressive integrated moving average (ARIMA)
-e.g. Box-Jenkins
-Extrapolation Linear prediction Trend estimation Growth curve

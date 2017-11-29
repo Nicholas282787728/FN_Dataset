@@ -1,1 +1,0 @@
-In a T20 cricket game, there is a moving camera on top of the ground. This camera is placed to get the top view and it keeps moving on the connected strings. I want to know whats the rule when the ball touches the camera or the connected strings?

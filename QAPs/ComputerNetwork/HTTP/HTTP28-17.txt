@@ -1,2 +1,0 @@
-★If HTTPS is more secure than HTTP, why don't all websites use HTTPS?
-Because HTTPS is slower, and in a Google world, slower = lower rankings.

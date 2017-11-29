@@ -1,2 +1,0 @@
-★Are there some example applications and/or algorithms where some unsupervised learning technique is initially applied to improve a supervised learning effort?I am not referring to "semi-supervised learning" where you have many data points and relatively fewer labels. I'm asking if there are cases where given sufficiently labelled training data, unsupervised learning principles could be applied.
-In Image classification, first unsupervised learning is applied on images then supervised learning to reduce the number of data points in an image.    Embed Quote

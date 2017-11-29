@@ -1,2 +1,0 @@
-How do B-Trees work?
-They work by partitioning the search space in a hierarchical format in a way that with the changes to the search space (addition/deletion of items), the hierarchical search structure stay balanced. That will make sure the search performance is always bounded but at the same time it can result in more computational overhead at the change time. 482 Views

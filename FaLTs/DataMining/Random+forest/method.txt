@@ -1,3 +1,0 @@
-Here is a short list of incremental decision tree methods, organized by their (usually non-incremental) parent algorithms.
-Although the parameters of a regression model are usually estimated using the method of least squares, other methods which have been used include:
-Bayesian methods, e.g. Bayesian linear regression Percentage regression, for situations where reducing percentage errors is deemed more appropriate.[21] Least absolute deviations, which is more robust in the presence of outliers, leading to quantile regression Nonparametric regression, requires a large number of observations and is computationally intensive Distance metric learning, which is learned by the search of a meaningful distance metric in a given input space.[22]

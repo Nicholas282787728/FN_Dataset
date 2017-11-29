@@ -1,2 +1,0 @@
-Is it possible to implement Rang Minimum Query using Binary Indexed Tree? Using Segment Tree is more complicated than BIT
-Yes, it is possible. 

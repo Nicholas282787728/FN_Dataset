@@ -1,2 +1,0 @@
-★Which are the frequently asked interview questions for Java Engineers ?
-Bad interviewers who don't understand programming will give you pop quizzed on things like inheritance, abstract classes, interfaces, etc. etc. The good interviewers ask you about your interests and why you are a programmer.    Given a choice of which company to work for, always pick the one with good interviewers.

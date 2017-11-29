@@ -1,2 +1,0 @@
-What are the most popular machine learning algorithms used in the industry?
-This is kind of a weird question to ask (and thus hard to answer), for it's similar to asking the slightly more general question "What type of math is most common within industry?"  There is such a wide variance of math used, and it depends most on what the task is.  Along the same lines, industry is huge and covers many fields.  Are we talking about software development companies, financial firms, robotic companies, newspaper agencies, actuary jobs? 

@@ -1,2 +1,0 @@
-★What is the regular expression to extract 'What is (123+43)?' in the regular expression extractor of JMeter?
-Ok. This one works What is \((.+?)\)\? Then for follow up question, this one works ${__javaScript(${sec},result)} where sec refers to 123+43    Embed Quote

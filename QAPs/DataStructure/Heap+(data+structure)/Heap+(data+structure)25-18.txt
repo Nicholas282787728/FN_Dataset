@@ -1,2 +1,0 @@
-What are the 10 algorithms one must know in order to solve most algorithm problems?
-Bipartite matching Divide and conquer Dynamic programming Fast Fourier transforms Greedy algorithms Heaps Huffman coding Induction... (more)

@@ -1,2 +1,0 @@
-★If the training sets in Leave One Out Cross Validation (LOOCV) are highly correlated by only differing in one observation, why does this result in a high variance of the average of errors?
-For LOOCV, there is only 1 test sample.  Thus, the error rate is either 0% or 100%.  For K-Fold Cross validation, assuming a test set of 10 samples and error rate of 50%, the error rate would have a distribution around 50% (e.g., 40%, 50%, 60%, etc).  Thus, comparing LOOCV to K-Fold CV, LOOCV has a higher variance in error rate.    Embed Quote

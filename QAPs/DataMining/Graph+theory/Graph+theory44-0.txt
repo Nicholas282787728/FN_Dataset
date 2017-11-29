@@ -1,2 +1,0 @@
-★What are the best resources (books, courses) on graph theory for software engineers?This is a follow-up question to What are the best resources to learn about graph theory?.
-Check out this free online book on graph theory and algorithms:  http://code.google.com/p/graph-t...    Embed Quote

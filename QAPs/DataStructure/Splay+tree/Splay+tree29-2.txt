@@ -1,2 +1,0 @@
-What are some useful but lesser known data structures?
-WeakHashMap (Java) - "An entry in a WeakHashMap will automatically be removed when its key is no longer in ordinary use [outside the WeakHashMap itself]." 

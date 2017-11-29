@@ -1,2 +1,0 @@
-★Which VoIP services offer high-quality voice?In Verizon FiOS: How clear is FiOS digital voice?, it is stated that FiOS uses the same compression algorithm as traditional landline service. Are there service providers who deliver better quality, ideally with both wider-band codec and some traffic policy / QoS
-You can get a great breakdown of all the different VoIP services that are available here: http://www.voip-info.org/wiki/vi... It includes pricing, reviews, sound quality, customer service ratings, and more.    Embed Quote

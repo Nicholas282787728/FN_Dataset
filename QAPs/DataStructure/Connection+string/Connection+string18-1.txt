@@ -1,2 +1,0 @@
-Can it be safe to connect four identical strings of decorative lights for which packaging states a maximum of three?
-Connecting four string of lights is safe. As your packaging states that you can connect three only then the wires are not good enough to carry that much voltage safely. So,  you should go with the instructions printed on package. 

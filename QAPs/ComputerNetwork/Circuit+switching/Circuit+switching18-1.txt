@@ -1,2 +1,0 @@
-★What are the best historical analogies to SDN?Like SAN vs. NAS?
-Here are a few. a.  1980s: AT&T's Network Control Point b.  1990s: Cambridge's Tempest Project c.  2000s: IETF's FORCES Working Group AT&T's Routing Control Platform 4D and Ethane

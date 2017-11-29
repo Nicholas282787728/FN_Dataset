@@ -1,2 +1,0 @@
-★Which parsing technique does Quora use to parse the data in the Android app?
-Use fiddler to tap. Data is in json.    Embed Quote

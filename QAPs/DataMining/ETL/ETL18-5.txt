@@ -1,2 +1,0 @@
-★Is there a better ETL approach? Data Warehouse is all about loading data from source to target. Traditionally, source system produces files and an ETL job loads those files into target system. Is there a better ETL approach which is not using file business?
-You could consider using a stream processor to perform ETL continuously as new records arrive. The benefit here is the ability to not only transform data but to run analytics that power alerts & dashboards as the data arrives.    Embed Quote

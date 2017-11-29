@@ -1,2 +1,0 @@
-★Is Viber using SIP as a signalling VoIP protocol ?This is a follow-up question to How is Viber going to make money?.
-According to my hackings it is a proprietary binary protocol.    Embed Quote

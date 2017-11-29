@@ -1,2 +1,0 @@
-How do I narrow down my topic (route planning using a graph algorithm) for my software project in an object-oriented programming course?
-1. X-Y grid 2. All paths have same capacity 3. All paths are bidirectional. 

@@ -1,2 +1,0 @@
-★Information Retrieval: What is the state of the art in document summarization?References please!
-There is a good overview by Karen Spärck Jones: Automatic summarising: The state of the art. Inf. Process. Manage. 43(6): 1449-1481 (2007).    Embed Quote

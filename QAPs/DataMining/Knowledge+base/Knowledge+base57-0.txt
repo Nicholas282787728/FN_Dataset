@@ -1,2 +1,0 @@
-★What is the difference between a database and knowledge base?
-A database engine is a piece of software that manages stored data.  (Often called "databases" when people are being lazy.) A database is the data managed by one or more database engines that has a related schema or common set of applications using it. A knowledge base is a type of database, and this name is typically used with applications that involve some sort of AI functionality such as expert systems data stores or machine learning stores.  Knowledge base    Embed Quote

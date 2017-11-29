@@ -1,2 +1,0 @@
-What are the top 10 algorithms every software engineer should know by heart?
-No such thing. Algorithms are a path to solving a problem, knowing lots of algorithms is like knowing lots of routes you can drive, it doesn’t make you any better a driver. Obviously if you want to pass an interview which expects you know algorithms, then just play the game and learn what they want you to learn. 5.6k Views · 41 Upvotes

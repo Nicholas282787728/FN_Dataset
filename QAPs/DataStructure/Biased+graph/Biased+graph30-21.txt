@@ -1,2 +1,0 @@
-What are some of the best algorithms?
-An AI That Can Mimic Any Artist The first image is the Afremov’s Rain Princess : and the another image is an imitation(drawn by computer algorithm): What’s fascinating is that a computer algorithm automatically “painted” the imitation, given only a photograph of the dome and the image of Rain Princess as input.... (more)

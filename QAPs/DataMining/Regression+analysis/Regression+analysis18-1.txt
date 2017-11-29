@@ -1,2 +1,0 @@
-★How do you run a regression analysis in Excel with multiple dummy variables?
-It is really hard to explain by typing, how to run regression analysis on multiple dummy variables is well described in Microsoft's book, Data Analysis and Business Modeling, Chapter 61 (Forecasting in the Presence of Special Events).    Embed Quote

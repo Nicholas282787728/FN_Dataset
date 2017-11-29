@@ -1,2 +1,0 @@
-★What causes Google Apps mail to bounce with a DNS error?
-Are you letting them host your MX domain? If so, you may have screwed up your MX record.

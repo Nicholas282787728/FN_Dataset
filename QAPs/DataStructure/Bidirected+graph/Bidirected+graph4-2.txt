@@ -1,1 +1,0 @@
-What is the difference between a cyclic and an acyclic graph in graph theory?

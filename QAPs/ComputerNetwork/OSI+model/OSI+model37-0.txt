@@ -1,2 +1,0 @@
-★Is it possible to build an application layer with third party APIs on top of ISDN?
-Sure. From an OSI model perspective, it's just another bearer service. OSI model    Embed Quote

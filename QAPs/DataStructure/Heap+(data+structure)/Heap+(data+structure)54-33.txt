@@ -1,2 +1,0 @@
-What algorithms and data structures should any software engineer know?
-Originally Answered: What are the 10 "must-know" algorithms and data structures for a software engineer?Been one - never found any "must know" algorithm. What you need to know depends on what you're doing.  A software engineer working on optical practice management software has to know different algorithms than one working on detecting broken rice grains. Your question is like, "What subjects does a teacher need to know?" 554 Views · 2 Upvotes

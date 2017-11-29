@@ -1,2 +1,0 @@
-★Who is working on HTML5 Document Viewers?
-Has anyone used Viewer.JS ? Seems interesting since it isnt tied to any backend, and is open source.

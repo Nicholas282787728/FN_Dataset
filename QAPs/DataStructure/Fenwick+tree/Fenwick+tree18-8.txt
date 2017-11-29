@@ -1,1 +1,0 @@
-Sorting Algorithms: What are some of the best and easily implementable data structures that support finding the kth largest element quickly?

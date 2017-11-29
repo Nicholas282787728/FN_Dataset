@@ -1,1 +1,0 @@
-What is meant by vertical order traversal of a tree? What is the exact and forma definition of vertical order traversal?Hope this picture clarifies the doubt, vertical lines are vertical traversal of tree. 

@@ -1,2 +1,0 @@
-★FROM Address at the SMTP Level?Is it possible to have an SMTP server change the FROM address of an email, masking the master account? POBox told me that it was possible with their service, depending upon "how you set up your email client".
-You can do this exact thing with SmtpLogic (SMTP Logic) very easily.  Check out this blog post: Applet of the Week: Replace Sender Applet    Embed Quote

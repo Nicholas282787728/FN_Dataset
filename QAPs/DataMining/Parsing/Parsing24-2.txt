@@ -1,2 +1,0 @@
-★How does Instapaper parse just the main body text of a web page?Was it an off the shelf package or custom html parsing?
-Not sure about Instapaper per-se, but here's an interesting paper on doing this type of extraction, from HP Labs: http://www.hpl.hp.com/people/pin...    Embed Quote

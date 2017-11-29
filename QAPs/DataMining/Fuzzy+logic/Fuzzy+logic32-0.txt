@@ -1,2 +1,0 @@
-★What are the coolest applications of fuzzy logic control systems?Can you give an example of how it's applied?
-This depends only on your imagination! You can apply Fuzzy in almost everything, when you talking about control systems. In my opinion, a cool application to use fuzzy is in Electric motors control. For example, you have to control speed and the torque in which the motor will operate.    Embed Quote

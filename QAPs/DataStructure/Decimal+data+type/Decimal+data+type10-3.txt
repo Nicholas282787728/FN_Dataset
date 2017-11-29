@@ -1,1 +1,0 @@
-What happens when I cast an integer pointer to a character pointer and vice versa in C?

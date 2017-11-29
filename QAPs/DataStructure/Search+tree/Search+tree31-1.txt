@@ -1,2 +1,0 @@
-Does a binary search tree allow a duplicate vertex?
-I think that you have duplicate keys, not duplicate vertices, in most of those cases. To complement Eugene's fine answer, one option is to use more information on the keys. Suppose we're storing products ordered by price in the BST. Then, for equally priced products, we use an unique product ID to break ties. 

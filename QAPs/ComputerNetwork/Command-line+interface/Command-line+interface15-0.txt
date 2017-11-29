@@ -1,2 +1,0 @@
-★Why did Microsoft Windows offer such a terrible command line interface through most of the 90s and 2000s?Before Powershell.
-These are true same people that brought you Bob, Clippy and Windows ME. What did you expect?

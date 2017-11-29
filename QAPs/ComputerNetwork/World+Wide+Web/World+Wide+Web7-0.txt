@@ -1,2 +1,0 @@
-★What are some alternatives to the World Wide Web?i.e. other TCP/IP applications on the internet besides WWW
-The internet used to live on FTP and NNTP. Both are still used, but NNTP is a shadow of its former self. Telnet used to be used frequently, but is largely supplanted by SSH. Billions of emails are sent using SMTP every day.    Embed Quote

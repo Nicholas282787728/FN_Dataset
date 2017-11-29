@@ -1,2 +1,0 @@
-★What is the easiest and the most efficient way to create your own web page?
-Don't fool yourself, there are no shortcuts. Of course you can use one of the hundreds of tools that offer websites in a visual way. One hour or another it will come to code, so learn to code in HTML, CSS and JavaScript. Then building a static webpage will be easier and primarily a design decision.    Embed Quote

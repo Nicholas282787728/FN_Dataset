@@ -1,1 +1,0 @@
-How to determine if at least one square can be made from a given set of n coordinate points in less than or equal to O(n^2) complexity?Square need not to be parallel to x-y axis.

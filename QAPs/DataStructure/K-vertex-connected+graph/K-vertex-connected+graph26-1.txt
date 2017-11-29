@@ -1,2 +1,0 @@
-What are some examples of seemingly easy math problems that are actually very difficult?
-It depends on what you mean by seemingly easy. If you mean easy to comprehend the question, but difficult to get the answer, then I think Fermat's Last Theorem takes the cake. Fermat's Last Theorem: There exists no solution in positive integers a, b, and c satisfying the equation [math]a^n + b^n = c^n[/math] for any integer value of n greater than two. It is so easy to understand the theorem. But it took 358 years and deep, arcane mathematics to prove. 

@@ -1,2 +1,0 @@
-How do I learn data mining?
-I may recommend the book "Data Mining: Concepts and Techniques" for starters. After reading and understand the whole contents in that book, reading more classic papers is preferred. At any time, don't forget to make friends with mathematics, especially statistics and probability theory.    Embed Quote 

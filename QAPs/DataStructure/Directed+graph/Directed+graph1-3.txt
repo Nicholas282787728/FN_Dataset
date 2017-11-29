@@ -1,2 +1,0 @@
-How do I detect a cycle in a directed graph?
-A depth first traversal (DFS) of the tree can be used to detect a cycle in a directed graph. When DFS is applied over a directed and connected graph, it will yield a tree. If the tree contains a back edge, we can say that the graph has a cycle present. More explanation on back edge : Assume node 'v' in an ancestor of node 'u' in a tree. An edge (u,v) is said to be a back edge. Basically, a back edge is an edge which is from a node to itself(self loop) or to an ancestor. ... (more)

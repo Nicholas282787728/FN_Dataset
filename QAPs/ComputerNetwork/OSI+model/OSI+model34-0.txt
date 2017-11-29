@@ -1,2 +1,0 @@
-★What OSI layer does IPSec work on?
-On the TCP/IP model it is at the IP layer. The two protocols used by IPSec include IP protocols 50 and 51 (AH and ESP). In the OSI model this translates to the Network layer (layer 3).    Embed Quote

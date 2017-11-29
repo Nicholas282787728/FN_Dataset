@@ -1,2 +1,0 @@
-★How can I throttle LAN bandwidth?
-CBQ does a pretty decent job of handling this. http://sourceforge.net/projects/...    Embed Quote

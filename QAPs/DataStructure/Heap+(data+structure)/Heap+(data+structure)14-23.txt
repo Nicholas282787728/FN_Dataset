@@ -1,2 +1,0 @@
-As we start planning the next edition of Introduction to Algorithms (CLRS), what should we add and what should we remove if the 4th edition cannot be larger than the 3rd edition?
-What should you remove: Nothing. What should you add: Some basics: Recursion Backtracking. Memory management. Templates.... (more)

@@ -1,1 +1,0 @@
-How do I solve this equation? x 3 −⌊x⌋=3 **EDIT: I also employed the same approach as many of the other people who have answered and drew a rough graph and tried some values for floor(x), but what I'm asking is, is there any general method to do this? In this question we got an answer for floor(x)=1 but the trial and error may not be easy each time.

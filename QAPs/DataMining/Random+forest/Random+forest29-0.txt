@@ -1,2 +1,0 @@
-★What is the method for training a tree in the random forest algorithm?Is it a C4.5, or CART algorithm?
-You can use any of the above trees. In fact Random Forests can be extended to incorporate a whole range of tree algorithms. See - Janu Verma's answer to Machine Learning: Does Random Forests algorithm work only with Breiman's CART algorithm?    Embed Quote

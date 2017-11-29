@@ -1,2 +1,0 @@
-What are the real world applications of some advanced data structures?
-De Bruijn graph - used in genome assembly for very short reads. I have always found this quite exotic. 

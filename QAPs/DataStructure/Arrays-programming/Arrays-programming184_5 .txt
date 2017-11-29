@@ -1,1 +1,0 @@
-How do I print pascal's triangle in C++ using 2D arrays?link provided below can be helpful. Write a program to print the following output.(Pascal triangle) 250 Views

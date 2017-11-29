@@ -1,2 +1,0 @@
-What are the advantages and disadvantages of using MongoDB vs CouchDB vs Cassandra vs Redis?
-In addition to the other answers, this might help you: High Scalability - High Scalability - 35+ Use Cases for Choosing Your Next NoSQL Database 

@@ -1,2 +1,0 @@
-What is the best software for phylogenetic tree construction?
-I second the recommendation of MEGA: http://megasoftware.net. I also recommend GALAXY (http://usegalaxy.org), and this blog looks to have some useful information about different tree algorithms and workflows in GALAXY: http://phylogalaxy.blogspot.com. 398 Views

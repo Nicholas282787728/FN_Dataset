@@ -1,2 +1,0 @@
-What are the differences between C and C++? Which one should I learn first?
-The main difference is the object-oriented programming paradigm. C has structs to group related data together, but C++ also has classes that group data and code together. There is also other useful things like inheritance and Polymorphism. Templates are another useful addition to C++. 

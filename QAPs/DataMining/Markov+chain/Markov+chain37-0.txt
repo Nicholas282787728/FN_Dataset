@@ -1,2 +1,0 @@
-★In what condition is the stationary distribution of a Markov Chain unique?
-When the Markov Chain (the matrix) is irreducible and aperiodic, then there is a unique stationary distribution.    Embed Quote

@@ -1,2 +1,0 @@
-★How can I exclude external traffic from Google Analytics without an IP address?I want to exclude my current clients as traffic to my site which they use daily. Their are over 200 so filtering their IP addresses is not practical.
-Are you sure that your clients' IP addresses are completely random? If they're within a range (as they would be if they're all in the same building or, potentially, area), you can use regular expressions to exclude a whole range of IPs. It's easy to implement and doesn't require any action by your clients.

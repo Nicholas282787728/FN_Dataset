@@ -1,2 +1,0 @@
-★What are some Machine Learning algorithms that you should always have a strong understanding of, and why?I want this to be a general question that could cover different disciplines. If you have any algorithm from an application point of view, then please do mention that as well!
-I would say 1. Naive Bayes 2. Neural Nets 3. Support Vector Machines 4. K-mean clustering 5. Kernel Methods/Tricks 6. Decision Trees/Forests 7. Boosting algorithms. not in any order. 8. Gaussian Mixture models    Embed Quote

@@ -1,2 +1,0 @@
-What are some current efforts, investments, products or startups focusing on technologies to turn unstructured data i.e. web content, into structured data, Semantic Web, Linked Data?
-There is a company called importIO where anyone (developers, nondeverlopers) can unlock the data from multiple websites at once with barely any efforts. What makes it even better is that it is free! Updated 93w ago • View Upvotes

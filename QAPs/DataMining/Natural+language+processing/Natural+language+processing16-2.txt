@@ -1,2 +1,0 @@
-★Natural Language Processing: Why did Google share their "ngrams" data for free?
-Google has a history of disclosing proprietary information for the good of humanity.   Google shared its Power usage effectiveness (PUE) of its data centers and the techniques used to achieve this, in the interest of saving energy worldwide.  At the time of disclosure, Google was 40% more efficient than the typical data center.  It was the green thing to do.    Embed Quote

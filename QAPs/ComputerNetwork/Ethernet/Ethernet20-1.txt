@@ -1,2 +1,0 @@
-★Is there any significance of "ether" in "Ethernet"?
-Ethernet was developed at Xerox PARC between 1973 and 1974. It was inspired by ALOHAnet, which Robert Metcalfe had studied as part of his PhD dissertation.The idea was first documented in a memo that Metcalfe wrote on May 22, 1973, where he named it after the disproven luminiferous ether as an "omnipresent, completely-passive medium for the propagation of electromagnetic waves" Source : Ethernet Luminiferous aether

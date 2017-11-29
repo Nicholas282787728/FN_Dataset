@@ -1,2 +1,0 @@
-★Who are the rising stars in machine learning?This is a follow-up question to Who are the rising stars in theoretical computer science?
-Yann LeCun (Facebook), Geoffrey Hinton (Google/U. Toronto), Yoshua Bengio (U. Montreal), Andrew Ng (Baidu)    Embed Quote

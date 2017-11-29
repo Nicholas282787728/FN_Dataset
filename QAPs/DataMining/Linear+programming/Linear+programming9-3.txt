@@ -1,2 +1,0 @@
-★Why is L1 metric better than L2 metrics in convex linear programming?
-'Better' depends on what you are looking for in your solution. penalties promote sparse solutions - while promote minimum energy solutions. The metric you choose implies a prior in the Bayesian sense.    Embed Quote

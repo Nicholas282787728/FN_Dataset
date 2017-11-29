@@ -1,2 +1,0 @@
-★How can I plot a neural network in MATLAB?
-A number of user-submitted graph theory packages on Matlab-central can do this. I remember graphing something similar before with gaimc, I'm not sure about weights though. A google search brought up gplot, wgplot, and grtheory.    Embed Quote

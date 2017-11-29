@@ -1,2 +1,0 @@
-★Could there be an open source equivalent to Parse (the cloud backend)?
-BAASBOX seems a good candidate: Open Source Backend as a Service [Found on a list of BAAS providers here: Short Sighted Silicon Valley Limits Potential of Data Markets]    Embed Quote

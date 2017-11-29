@@ -1,1 +1,0 @@
-Is the size of head node zero if it points to null in a linked list?No. It still has some data in it. The only way it may be 0 is if the linked list is NULL. 127 Views  View Upvotes

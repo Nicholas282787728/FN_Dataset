@@ -1,2 +1,0 @@
-★What is the best way to store time series data in Redis?
-I'm totally late, but right now i'm using hashes to store time series. I found that to retrieve 500k+ elements it's really faster with hashes than with the other datatypes. To keep it sorted i simply use a timestamp as the key.    Embed Quote

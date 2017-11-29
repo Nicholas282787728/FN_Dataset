@@ -1,2 +1,0 @@
-What books do you recommend to get introduced in the data mining "world"?
-you can also start from this http://www.stat.cmu.edu/~cshaliz... you can find lecture slides and R code. the book that they use is "Principles of Data Mining" by Hand, Mannila and Smyth http://mitpress.mit.edu/catalog/...    Embed Quote 

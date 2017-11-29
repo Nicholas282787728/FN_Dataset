@@ -1,2 +1,0 @@
-★Why is FTP called unsafe?File Transfer Protocol has been an old way of uploading and downloading files but very recently developers have been saying that is is not safe. Any reason for that. If that is not safe, then what would be the best alternative?
-better you can is sftp

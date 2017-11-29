@@ -1,1 +1,0 @@
-What are propositions in discrete mathematics?Something that is claimed--but not yet proven--is a proposition, with the proof making it a theorem. 65 Views  View Upvotes

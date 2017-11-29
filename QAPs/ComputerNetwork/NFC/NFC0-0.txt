@@ -1,2 +1,0 @@
-★What is NFC?
-NFC (Near Field Communication) is a short-range high frequency wireless communication technology which enables the exchange of data between devices over about a 10 centimeter (around 4 inches) distance. NFC is primarily aimed at usage in mobile phones. Read more: http://en.wikipedia.org/wiki/Nea...    Embed Quote

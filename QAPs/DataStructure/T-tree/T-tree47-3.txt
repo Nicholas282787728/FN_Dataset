@@ -1,2 +1,0 @@
-"How can I implement Graph/Tree algorithms in java ?"
-Refer to Coding Recipies Trees : Coding Recipies: Trees Graphs: Coding Recipies: Graphs 

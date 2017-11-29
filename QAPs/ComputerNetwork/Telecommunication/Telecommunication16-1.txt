@@ -1,2 +1,0 @@
-★Is there something similar to an antenna for quantum telecommunication?
-I am not an expert in this particular area, can just provide a brief contribution. As far as I know current implemenations rely only on optical fiber. Photons can also be sent over open air/space and something similar to what an antenna does might be built for this purpose. Somebody in the field of quantum physics can surely provive a better answer.    Embed Quote

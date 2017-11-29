@@ -1,2 +1,0 @@
-★How is NFC better than Bluetooth?
-One way that I know of (that NFC beats bluetooth) is that in reading smarttags etc, making it communicate with smartcards and readers. One focus on a smartpaper/card and you can get all the info regarding that (similar to barcode but more advanced here). This should help you : http://en.wikipedia.org/wiki/Nea...    Embed Quote

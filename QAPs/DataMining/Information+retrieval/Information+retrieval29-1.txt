@@ -1,2 +1,0 @@
-★What project can be done that involves information retrieval and concurrent programming?
-You can contribute to concourse– a schemaless and distributed version control database with automatic indexing, acid transactions and full-text search.    Embed Quote

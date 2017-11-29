@@ -1,2 +1,0 @@
-What is the first little bit of math that made you realize that math is beautiful?
-For me, it was the fact that Where F n   is the n th   Fibonacci number and Phi is the Golden ratio. 

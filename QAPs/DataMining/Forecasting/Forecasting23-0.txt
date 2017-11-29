@@ -1,2 +1,0 @@
-★What is the future of weather forecasting?Will it become more accurate? How much do we know?
-Undoubtedly weather forecasting will get better--both long range outlooks and short range predictions. Weather forecasting is largely simulation driven, and as we learn more about weather, we learn that there are many inputs to the models that we need to account for. Currently the models cover enough to make pretty good predictions out to one week, but as we get more computing power, we will be able to add more inputs and the predictions will improve accordingly.    Embed Quote

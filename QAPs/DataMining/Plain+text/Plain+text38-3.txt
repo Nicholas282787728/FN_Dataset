@@ -1,2 +1,0 @@
-★Are there any customer support help desk tools that come with fuzzy search of knowledge-base (plain text as well as attachments)?
-STOIC has a helpdesk application (STOIC Support) that provides fuzzy search on all database content as well as all documents stored on Google Drive. All documents attached to support tickets are stored in Google Drive, indexed automatically, and fully searchable.    Embed Quote

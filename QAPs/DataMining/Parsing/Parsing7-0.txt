@@ -1,2 +1,0 @@
-★Could there be an open source equivalent to Parse (the cloud backend)?
-With Usergrid, we took the Wordpress model since we think people should always have a choice to run their infrastructure themselves, so Usergrid is available both open source and as a cloud service.  It's available on GitHub under an Apache License and is the same code as we use in our cloud version.  You can find the source code at https://github.com/apigee/usergr...    Embed Quote

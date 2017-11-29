@@ -1,2 +1,0 @@
-What is the biggest data type we can declare in C?
-Basically there are two types of data types in c - Or lets say three - And there sizes are -... (more)

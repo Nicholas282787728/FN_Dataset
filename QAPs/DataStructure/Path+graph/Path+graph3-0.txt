@@ -1,2 +1,0 @@
-What are the practical applications of determining the longest path in a graph?
-Static timing analysis (STA) and their variants, including statistical STA (SSTA), in electronic design automation (EDA). It is used to find the critical paths in a digital integrated circuit (IC), or VLSI system. 

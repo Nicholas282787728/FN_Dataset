@@ -1,2 +1,0 @@
-★How are genetic algorithms/programming being used in the field of Robotics?
-genetic algorithm is used when its difficult to model the environment mathematically or the environment changes so drastically that it cant be accurately predicted. Genetic algorithm Genetic Algorithm Tutorial this is small demo of genetic algorithm.    Embed Quote

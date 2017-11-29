@@ -1,2 +1,0 @@
-★What are some really cool problems that involve "least squares and Eigenvalue problems"?
-Vibration analysis of compressors in refrigerators looks like a pretty "cool" application for eigenvalues :-)    Embed Quote

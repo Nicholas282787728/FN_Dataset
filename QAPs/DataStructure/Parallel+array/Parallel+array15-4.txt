@@ -1,2 +1,0 @@
-Is it possible to run multiple if conditions using a for loop?
-Yes you can. You can also use else clause with for loop in Python 

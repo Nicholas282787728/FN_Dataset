@@ -1,2 +1,0 @@
-★What would be a roadmap to learning predictive analytics?I am trying to acquire some basic mastery of predictive analytics. What would be a good reading list and road map for self-study for a graduate (first degree) in pure mathematics like me? What prerequisite fields should I learn first?
-I've started with this: https://www.coursera.org/course/... The course is over, but I care more about the knowledge than the credit. Supposed to be a graduate level course, and it does make recourse to some math.    Embed Quote

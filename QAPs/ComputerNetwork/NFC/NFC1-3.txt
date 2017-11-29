@@ -1,2 +1,0 @@
-★Is NFC a form of RFID?
-NFC and RFID has an overlap, when an NFC reader can communicate with an RFID tag. However, NFC has much broader capabilities to operate peer to peer and RFID has much more potential range and bigger choice of frequencies to operate on. NFC got more popular these days as big expectations raised for the rollout of mobile phone contactless payments, which are based on an NFC chip embedded in the handsets.    Embed Quote

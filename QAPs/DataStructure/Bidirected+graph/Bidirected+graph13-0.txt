@@ -1,2 +1,0 @@
-Graph Theory: What algorithm we use to find degree of separation between two people?
-This is the single source shortest path problem on an unweighted graph ... so breadth first search. 

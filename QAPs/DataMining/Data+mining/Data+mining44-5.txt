@@ -1,2 +1,0 @@
-What are some good project ideas related to data mining?
-Try computing the Probability of Default of a loan customer based on his repayment pattern.    Embed Quote 

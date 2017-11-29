@@ -1,2 +1,0 @@
-★What is the best way to train a SVM on a very large dataset?
-In your case, 5000 samples shouldn't push the limit of what your computer can handle (especially considering that cross-validation will reduce the number you train on each time). However, 500 features may be a problem. Like Ahmed Fetait, I recommend you use a dimensionality reduction technique to get the number of features down. PCA is an easy way to do this (i.e., princomp() in MATLAB) but there are many other options as well. Good luck.    Embed Quote

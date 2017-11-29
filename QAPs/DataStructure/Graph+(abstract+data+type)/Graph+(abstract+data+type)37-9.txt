@@ -1,2 +1,0 @@
-Is recursion actually useful? I can't find any reason to use it. Why do some people love to use it?
-Because some problems are recursive by nature. Implementing them recursively is great. But sometimes they map horribly to recursive solutions. Be careful about using recursion thoughtlessly. 

@@ -1,2 +1,0 @@
-★What are the best text mining software that can product tags or keywords?
-So basically, my need is that - lets say I have a blog (average 1000 words for each arcile), now whenever I post this, I want a text miner to parse the text to get the relevant key words, ideally under different buckets. Instance - this is a name of location, person, etc. If there is an any open source tool that you know of, pls recommend one    Embed Quote

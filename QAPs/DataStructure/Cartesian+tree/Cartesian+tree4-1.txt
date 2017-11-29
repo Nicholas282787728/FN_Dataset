@@ -1,2 +1,0 @@
-Are there any good tutorial blogs on Codeforces?
-There is a list of most if not all Tutorials: Good Blog Post Resources about Algorithm and Data Structures  - Codeforces Editorial List: ALL CodeForces Rounds Tutorial - Codeforces Some other links: Non-recursive Implementation of Range Queries and Modifications over Array - Codeforces Efficient and easy segment trees - Codeforces Some other site links: Data Science Tutorials Data Structures and Algorithms Programming Camp Syllabus I'll update when I find more links 

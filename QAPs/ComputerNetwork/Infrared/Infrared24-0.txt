@@ -1,2 +1,0 @@
-★Can infrared light store data?
-If you mean can infrared light transmit data, then yes, certainly!  Optic fibers are widely used these days to transfer information, with IR light used in more commercial fibers because of its better signal and transfer properties.  As the hardware on either side of the fiber improves, we can use even longer wavelength light to transmit data with less loss. Source: HowStuffWorks "How Fiber Optics Work"    Embed Quote

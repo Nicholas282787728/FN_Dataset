@@ -1,2 +1,0 @@
-★What is the simplest way of parsing XBRL in Python?
-One of the simplest ways of parsing XBRL in Python is just to leverage the open source Python code made available at Arelle (dot org). Free python code frrom from a leading XBRL developer.

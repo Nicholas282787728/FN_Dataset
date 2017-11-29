@@ -1,2 +1,0 @@
-How was the Four Colour Theorem proved?
-By an exhaustive  set of mutually exclusive cases.  It was a computer aided proof and probably the first of its kind. 

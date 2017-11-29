@@ -1,2 +1,0 @@
-Why would anyone like to use a red black tree when a hash table can do the job perfectly?
-Red-black trees are more efficient for operations that depend on the ordering of elements. | | Hash table Red black tree ----------+------------------------------------------- insert | O(1) O(log n) lookup | O(1) O(log n) delete | O(1) O(log n) first | O(n) O(log n)... (more)

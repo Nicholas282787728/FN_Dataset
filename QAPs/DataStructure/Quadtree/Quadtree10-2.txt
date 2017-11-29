@@ -1,2 +1,0 @@
-What is the best data structure for a 2D real-time game for drawing and collisions?
-The set can be used if the game is such that it should flag on any duplicate (x,y) coordinate since the set does not allow duplicate value. If there is no fixed number of coordinates that you are intending for storing you can use the concept of dynamic arrays. Try this link: it may be helpful Amit’s Game Programming Information 

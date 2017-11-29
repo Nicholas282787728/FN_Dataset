@@ -1,1 +1,0 @@
-Does a graph that is continuous and closed but not bounded exist? If not, why does the extreme value theorem need the graph to be bounded?

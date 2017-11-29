@@ -1,2 +1,0 @@
-Career Advice: Embedded systems or VLSI design?
-It's much harder to get a job in chip design. But embedded is a lot more software than some people would truly care for. Both are offered as graduate-level courses, and it is impossible to absorb everything in 3 months. In the long run with seniority levels, the difference between (good) ASIC vs. embedded engineers would close a lot. Updated 76w ago • View Upvotes • Asked to answer by Gaurav Saraswat

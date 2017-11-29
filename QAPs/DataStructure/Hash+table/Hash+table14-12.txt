@@ -1,2 +1,0 @@
-Why do hash tables need to store the key of a record?
-Any hashing algorithm can give the same hash code for two or more different keys. This is called a collision and it is also the reason to store the key. The given key and the actual key are compared after computing the hash code. You can lookup for some implementations of hash tables to get a better understanding. 244 Views

@@ -1,2 +1,0 @@
-★Why is L1 metric better than L2 metrics in convex linear programming?
-Optimization problems involving norms aren't linear programs.    Embed Quote

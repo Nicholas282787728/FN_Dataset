@@ -1,2 +1,0 @@
-What techniques can be used to perform exploratory data analysis on high dimensional data?
-There are many techniques available as such for exploratory data analysis as mentioned by others or you can find on wiki/textbooks. However, be mindful that high dimensional data suffers from 'curse of dimensionality' where the notion of 'closeness' among data becomes hazy as the dimensionality grows!  This area is still evolving... And it depends what you are looking for.    Embed Quote 

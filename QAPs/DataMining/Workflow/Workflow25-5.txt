@@ -1,2 +1,0 @@
-★What are existing software systems for managing workflows?
-These systems also know as BPMS (Business Process Management System). You can find a list of Open Source BPM systems here http://www.adoptos.com/OSSLinks/4 And here one can find giant list here http://bpm-directory.omg.org/ven...    Embed Quote

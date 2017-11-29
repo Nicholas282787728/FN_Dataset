@@ -1,2 +1,0 @@
-★Are the uploading speed and downloading speed interconnected?While downloading from Torrent many a times both the Uploading and Downloading speed get equal. Is there any way to reduce the upload speed and increase the other one?
-Yes ! you can limit the upload speed in utorrent . In 'preferences>bandwidth>maximum upload rate' limit this to 1 kbps or open utorrent on the footer where u can see 'U:3.2kb/T:2.5 mb' , right click and limit the speed to minimum . Although you can't limit  upload speed of your connection provided by your service provider .    Embed Quote

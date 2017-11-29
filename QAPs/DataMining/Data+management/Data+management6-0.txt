@@ -1,2 +1,0 @@
-What are the biggest challenges in master data management (MDM)?
-There are 3 big challenges: 1) Integrating a variety of independently generated sources cost effectively at scale - scaling to 100s or 1000s of sources 2) Applying business context rather than IT context to the integration and allowing for several different versions of the truth based on context.  3) Adapting to the changes in sources rapidly    Embed Quote 

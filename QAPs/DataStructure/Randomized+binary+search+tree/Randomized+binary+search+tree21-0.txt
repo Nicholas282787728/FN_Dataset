@@ -1,2 +1,0 @@
-Is there any reason why I should use Binary Search Trees over Red-Black trees?
-A red-black tree is a binary search tree. A BST that is not balanced is generally considered a liability. So red-black trees are pretty much always a better option. You can also use splay trees. They are more efficient than red-black trees in some applications. They are BSTs too, but randomized. Cool stuff! 

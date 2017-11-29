@@ -1,2 +1,0 @@
-★What is the typical working scenario to use bridged network cards?
-Transparent firewalls.

@@ -1,2 +1,0 @@
-What's the size of char, int and float data types?
-Char is always one byte irrespective of the machine platform and OS. int and float are machine dependent. 262 Views

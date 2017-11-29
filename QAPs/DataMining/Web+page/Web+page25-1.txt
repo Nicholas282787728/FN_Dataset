@@ -1,2 +1,0 @@
-★Which are some of the best web data scraping tools?What are the best tools (free/paid) to scrape large amounts of data from webpages and store it in required formats?  The tool preferably should be automated to look for new data at specific intervals.
-Disclaimer: I'm the co-founder of kimono : Turn websites into structured APIs from your browser in seconds - we built it to be the easiest and quickest way to create a web scraper straight from your browser. Use it for free.    Embed Quote

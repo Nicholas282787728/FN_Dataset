@@ -1,2 +1,0 @@
-★What is the total input and output bandwidth of the human brain?
-This reference calculates the maximum bandwidth for the spinal cord to ~ 1 gigbyte/s. How much data and how fast can the spinal cord transmit to your brain? [Archive]  Mind you you'd probably die within minutes if all neurons fired at maximum rates.

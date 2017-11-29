@@ -1,2 +1,0 @@
-★How does DHCP work?
-Guo's answer is poetic, but accurate.  A host arriving on a particular area sends out a broadcast packet requesting an IP address.  The DHCP server assigns one and replies to the request.  There's much more protocol detail if you're interested, but that's the gist of it.

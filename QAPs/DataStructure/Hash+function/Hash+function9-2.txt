@@ -1,1 +1,0 @@
-What is the hash function used in unordered_map STL?

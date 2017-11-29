@@ -1,2 +1,0 @@
-★Why is Andreessen Horowitz's URL a16z.com?
-I think Chad Little is basically right. But I18n isn't the only thing I've seen abbreviated this way.  For example, at Amazon, p13n = personalization.  So it might just be using that abbreviation technique rather than strictly a play on i18n.    Embed Quote

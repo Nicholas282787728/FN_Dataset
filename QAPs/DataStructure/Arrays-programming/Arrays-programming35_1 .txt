@@ -1,1 +1,0 @@
-What searching algorithm would you apply for the following array and why?Given an array of integers: 12,15,5,14,1,8,6,19,21,18. What searching algorithm would you apply for this array and why?A simple sequential search because it's so short and sequential search is easy to implement. Additionally one cannot use binary search because the list is not sorted. 184 Views  View Upvotes

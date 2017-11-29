@@ -1,2 +1,0 @@
-★Which sites have the best URL design?
-Letterboxd.com. It's a film review site where users can add movies to their collection and review it. The URL structure is extremely brilliant because it's very much simple. For example: 1) To see a film's detail the URL would be: letterboxd.com/<filmname> 2) To see a user's profile: letterboxd.com/<username> 3) To see a user's review of a film: letterboxd.com/<username>/film/<filmname> 4) For user's likes: letterboxd.com/<username>/likes Straightforward, comprehensible and SEO friendly.    Embed Quote

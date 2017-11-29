@@ -1,2 +1,0 @@
-What are the greedy algorithms every programmer should know?
-Kruskal's minimum spanning tree algo. connect n ropes with minimum cost Dijkstra's shortest path algorithm 787 Views · 2 Upvotes · Answer requested by Abhinav Prince

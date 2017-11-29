@@ -1,2 +1,0 @@
-★What IP address does a client use as source IP address while making a DHCP request and where does the DHCP server send the reply to?
-DHCP requests are operated in the Data Link layer and the source IP is always 0.0.0.0 and the dest. IP is set to broadcast.

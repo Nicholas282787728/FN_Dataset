@@ -1,2 +1,0 @@
-★Can we combine two wi-fi networks?
-If they both have WAN access to different gateways and are both set to DHCP, this is not advised. If you have 2 network routers about would like to extend the range of the one that is managing DHCP, you can do this. if you need both to manage DHCP,  you would need a bridge. Or another switch between them.    Embed Quote

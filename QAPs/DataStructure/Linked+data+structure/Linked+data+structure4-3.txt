@@ -1,2 +1,0 @@
-What is your favorite video lecture series on Algorithms and Data Structures?
-Best introductory course I've seen is Introduction to Algorithms (SMA 5503) from MIT. For folks less inclined on analysis part, https://www.coursera.org/course/... and https://www.coursera.org/course/... are good place to start. For advanced course, I second Debasish Ghosh's answer to What is your favorite video lecture series on Algorithms and Data Structures?. Also see ECS 222A - Algorithms - Fall 2007 - Gusfield. 

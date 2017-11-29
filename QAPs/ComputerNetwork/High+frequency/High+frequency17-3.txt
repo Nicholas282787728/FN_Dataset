@@ -1,2 +1,0 @@
-★How are algorithms developed for high frequency trading mechanisms?
-Read Flash Boys. Basically hft firms get you buy order, use their speed advantage to buy before you have a chance to buy, and sell you for a slightly higher price. It's marginal, and may mean little to you, but in very high volume it means billions.

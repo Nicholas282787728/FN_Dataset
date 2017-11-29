@@ -1,2 +1,0 @@
-How can I scrape data from an E-commerce store?
-I use import.io for web scraping and data extraction. They have a tutorial on how to do exactly what you're asking: In the video they show you how to use the free tool to scrape the following data from an ecommerce store: Item name Price Product image I've done this before and I can help you (or anyone else reading this) set it up and scrape a competitor's website for data. Pick a time here and let's talk: Free growth hacking consultation    Embed Quote 

@@ -1,2 +1,0 @@
-★What device is good for an FTP server?
-A server running 24x7 would be the best for this job. Run a server based OS such as windows server, Linux red hat server, etc. and run a FTP server on it. All thought this is expensive I'd just run a FTP server on a MacBook Pro (these heat up less compared to windows based machines) and leave it on 24x7. Although the space is less compared to server machines overall it's much cheaper. There is a catch thou--I'll have to get static IP from my ISP for this purpose if I need it as a dedicated server!!

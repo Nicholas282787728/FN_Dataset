@@ -1,2 +1,0 @@
-★How should I create HTTP proxy server?
-This is a really good tutorial on Setting up a web server from Labnol.org  How to Setup your own Proxy Server for Free.    Embed Quote

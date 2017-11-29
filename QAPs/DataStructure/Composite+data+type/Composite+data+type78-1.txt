@@ -1,2 +1,0 @@
-What is eBay's architecture?
-This is a nice article on eBay's architecture & how it evolved over a decade : High Scalability - High Scalability - Ebay history and architecture 

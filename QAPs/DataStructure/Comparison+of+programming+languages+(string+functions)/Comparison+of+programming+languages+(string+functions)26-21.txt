@@ -1,2 +1,0 @@
-Which have been some of the most funniest/craziest Vivas that you have appeared for at NSIT?
-In our 3rd year during VHDL final prac;- Prof: ek gau ke unpad aadmi ko kaise samjhoge XOR gate kya hota ? Student 1: Sir XOR gate mein same input denge to zero output.. Prof: Vo to unpad hai usse kaise btaoge input output kya hota hai ? Student 2: Sir do switch hai dono ON hai to light off hai and dono OFF hai tab bhi. Prof: Vo unpad hai usse switch and light ka concept nahi pta.. 

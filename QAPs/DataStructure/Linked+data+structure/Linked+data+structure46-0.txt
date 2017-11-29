@@ -1,2 +1,0 @@
-How come in most C++ books they do not go over many data structures? Such as linked lists binary trees stacks, etc.
-C++ is much extensive as it inherits the features of C too, it is not possible to write a C++ book covering all the main features of language plus an extensive focus on Data Structures. DS itself is broad area. The most extensive book on CPP I have ever gone through is C++ How to program by Dietel. It resides more than 1800 pages without covering any detailed analysis of any of DS.  

@@ -1,2 +1,0 @@
-★What are some examples of the VoIP applications?
-My understanding is that Republic Wireless is routing calls through AWS. Twilio also heavily uses AWS.    Embed Quote

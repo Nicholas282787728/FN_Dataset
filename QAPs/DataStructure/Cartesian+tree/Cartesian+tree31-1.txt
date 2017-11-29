@@ -1,2 +1,0 @@
-Does acceleration cause spacetime curvature?
-Acceleration absolutely, positively causes spacetime curvature. One of the most studied examples is that of a rotating black hole. What's really cool about rotating black holes is that they have two event horizons, the second called the Ergosphere. Inside the first event horizon no object can escape the black hole's grip. In the ergosphere, it's possible to escape, but inside you must have some angular momentum. So once you cross that line, you'll start spinning around no matter what! 

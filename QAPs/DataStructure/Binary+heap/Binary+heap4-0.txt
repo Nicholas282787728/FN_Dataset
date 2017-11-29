@@ -1,2 +1,0 @@
-How can we convert a binary heap to a binary search tree efficiently?We have to do this inplace. Heap is represented as an array. So basically, we need to convert heap array such that array[i] > array[2*i] and array[i] < array[2*i + 1]. array[2*i] and array[2*i + 1] are left child and right child of array[i] respectively.
-If nothing else, you could just do a straight quicksort on the array. 

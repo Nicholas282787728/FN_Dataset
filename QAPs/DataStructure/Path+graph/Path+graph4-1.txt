@@ -1,2 +1,0 @@
-What is the difference between a walk and a path in graph theory?
-A walk is a sequence of edges and vertices, where each edge's endpoints are the two vertices adjacent to it. A path is a walk in which all vertices are distinct (except possibly the first and last). Therefore, the difference between a walk and a path is that paths cannot repeat vertices (or, it follows, edges). 

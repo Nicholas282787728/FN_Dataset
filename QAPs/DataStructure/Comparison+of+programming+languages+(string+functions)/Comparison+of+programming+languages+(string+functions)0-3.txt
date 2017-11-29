@@ -1,2 +1,0 @@
-How does Python compare to C#?In terms of performance, ease of use, syntax, libraries etc.
-Python is plenty fast for 90% of programming tasks ... and its awesome to use.  basically there are very few instances where I have a genuine need to go with a lower level language. (most of the time python is too slow its big data, and with that stuff your best bet is a language centered around concurrency (go, etc) 

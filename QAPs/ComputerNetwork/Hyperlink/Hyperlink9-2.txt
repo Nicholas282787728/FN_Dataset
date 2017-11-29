@@ -1,2 +1,0 @@
-★Can a hyperlink also have JavaScript that will execute onclick?
-While the other answers are right, there is also the larger issue of whether you should be using JavaScript this way at all. For the same reasons it's better to use an external stylesheet, or at least a separate <style> tag, rather than using the style attribue directly in HTML, it's better to separate your JavaScript from your HTML, and respond to clicks by adding event listeners via JS.    Embed Quote

@@ -1,2 +1,0 @@
-★How are algorithms developed for high frequency trading mechanisms?
-Let's use common sense: if someone was an expert in developing algos for HF strategies, would they in their right mind post a step by step process for the world to see? The more people that use a strategy, the less abnormal returns that are available. It wouldn't be logical for a HF trader to post any strategy or instructions for development.

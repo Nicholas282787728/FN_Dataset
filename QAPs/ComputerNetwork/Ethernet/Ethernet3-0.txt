@@ -1,2 +1,0 @@
-★Why is there no micro Ethernet connector standard?We have micro USB (super-endorsed by EU), micro HDMI, and the Apple connectors getting smaller too... what's up with networking?
-The micro versions of connectors were driven by ultraportables and handheld devices.  Most of these were developed after wi-fi was common and robust.  There was no need to have a smaller networking port because people used wireless networking.  Small single-board computers like Raspberry Pi are a niche market, and they don't have enough need to create, test, and standardize on a new connector.

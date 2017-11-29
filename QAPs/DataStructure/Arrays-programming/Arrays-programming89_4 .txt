@@ -1,1 +1,0 @@
-How do you insert and search array with undefined size in C?Insertion is at the end of current last position (how to use malloc and calloc functions here?). Also, how to search array with undefined size?Just use malloc. 23 Views

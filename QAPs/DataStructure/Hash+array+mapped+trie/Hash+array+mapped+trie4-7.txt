@@ -1,1 +1,0 @@
-How does functional programming knowledge improve imperative programming, software engineering, and system architecture?How does knowledge of functional programming improve one's skills even when it is not used directly?

@@ -1,2 +1,0 @@
-★Is there an intuitive explanation for the difference between standard deviation and sample standard deviation?
-This is not a full answer to the question but just a supplement. Well, all the answers are helpful in different ways, but it is well worth mentioning they didn't directly point out one important thing, the factor is introduced to make the sample variance an unbiased estimator for population variance, which is a huge deal. It is not so hard to prove that, A quick search using google, found me a proof: Page on harvard.edu    Embed Quote

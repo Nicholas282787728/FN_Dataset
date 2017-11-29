@@ -1,2 +1,0 @@
-When will a ray tracing chip be available in the mainstream market?
-I think multi-cores CPU with inherent RayTracing functions will replace nowadays' GPU totally in 5-10 years. Intel's Larrabee, http://en.wikipedia.org/wiki/Lar...,  is capable to run 3D games smoothly. 

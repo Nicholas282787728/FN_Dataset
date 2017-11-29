@@ -1,2 +1,0 @@
-Given a preorder traversal of a binary search tree, how can we reconstruct binary search tree efficiently?
-We can do it in O(n). logic is simple .we can use the logic of checking is tree is bst or not. in this logic we use the upper limit and lower limit of every node of the tree. for example limit of roots left child will be 0 to root->data and for right child will be root->data to infinity. So, lyk dis we will put the nodes from preorder array to tree using dis logic 

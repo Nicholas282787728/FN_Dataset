@@ -1,2 +1,0 @@
-Why are B-trees and its variants, the preferred data structures for database or filesystem implementations?
-B-Trees are like sharks.  They appeared 400 million years ago (at least in computer-years), and are pretty darn good at what they do, so they haven't needed to evolve all that much since then. New algorithms have appeared that are better at specific tasks (and worse or inappropriate for others), but for a general-purpose disk-based search structure, B-Trees are still hard to beat. 406 Views · 3 Upvotes

@@ -1,2 +1,0 @@
-How do you judge a JavaScript programmer by only 5 questions?
-1. What is asynchronous?    Many developer don't know what is this. 2. What is closure?   That is popular question I met. 3. Are "null" and "undefined" same?   Some guy i met they think that same. 4. Do you know any js framework?   if you are js developer you must know some popular framework and know how to use it. 5. Can you tell me know any problem you have when you work with js?   If you didn't have any problem when work with js that mean you don't know it. Updated 10 Jul • View Upvotes

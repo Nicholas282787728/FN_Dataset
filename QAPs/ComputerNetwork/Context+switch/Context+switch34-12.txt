@@ -1,2 +1,0 @@
-★Computer Programming: Do larger screen sizes make programming easier? If so, why?
-Yes, because you can a) fit more code on a single screen, reducing your need to use working memory*, b) render the code in a larger font, making it easier to read for a longer time, or c) do both a and b. I don't find multiple monitors helpful. My workflow substitutes window swapping. * In your own personal brain.

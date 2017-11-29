@@ -1,2 +1,0 @@
-★A DHCP reply message (from server) can be sent as (select all that apply): A. Broadcast B. Multicast C. Unicast?
-Well, as part of a dhcp request to a server, the client will want to send its own MAC address and expect in return stuff like ip addresses that the client can be assigned out of the network pool, and other important configuration data like the location of the boot image in a dhcp boot. This data would be of little use to anyone but the client under consideration - so, I'll bet on unicast.

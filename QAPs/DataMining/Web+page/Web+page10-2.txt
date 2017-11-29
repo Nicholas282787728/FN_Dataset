@@ -1,2 +1,0 @@
-★What is the fastest loading web page?As part of my job in a phone store, I often need to load some web page, any web page, on a bunch of phones to test if they are connected to the internet. These phones are on pretty slow data connections, so even Google can take quite a while to load. What is the quickest loading web page to test connectivity? Right now I use Useit.com because it seems pretty simple. It loads quite a bit faster than Google.
-My guess would be Google home page.    Embed Quote

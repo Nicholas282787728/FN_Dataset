@@ -1,7 +1,0 @@
-★What are good examples of regular expressions?
-My favorite regular expression is the one that can determine whether a unary string of "1"s is prime or not:  /^1?$|^(11+?)\1+$/ Example check in python: 1
-2
-3
-4
-5
- import re def regex_prime(n):     """n is an integer to test for primality"""     return not re.match(r"^1?$|^(11+?)\1+$", "1" * n) http://www.noulakaz.net/weblog/2...    Embed Quote

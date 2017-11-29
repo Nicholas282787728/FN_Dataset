@@ -1,2 +1,0 @@
-★What is the most commonly available tool that can measure & characterize the noise floor of the 2.4 GHz radio frequency band?
-I've used the Tek MDO4000B series. They did some very interesting stuff to get away with 8-bit DACs and still provide 100dB sensitivity. Brief tech note here -> Page on tek.com Not cheap. 4054B-3 (my choice) is about $17,400.    Embed Quote

@@ -1,2 +1,0 @@
-How many data types are there in Java?
-Primitive data type boolean char byte short int long float... (more)

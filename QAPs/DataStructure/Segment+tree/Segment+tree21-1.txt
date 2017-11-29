@@ -1,2 +1,0 @@
-Is there a way to solve SPOJ.com - Problem GSS1  without segment trees?
-I think segment trees will be necessary... it maximum subarray in range problem.. check out Page on e-maxx.ru. segment trees it gives a very nice tutorial on this problem 

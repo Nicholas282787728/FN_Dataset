@@ -1,2 +1,0 @@
-★What is an application of vector space in computer science?
-The vector space model is a standard topic in information retrieval.    Embed Quote

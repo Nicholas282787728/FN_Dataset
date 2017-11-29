@@ -1,2 +1,0 @@
-What is the "Arrow's impossibility theorem" in layman's terms, and what is its practical significance?
-A really simple view of Arrow's theorem (since you said "layman's terms") In any  voting system based on ranks (as opposed to ratings) when there are more than two candidates it is possible for a paradox to occur whereby A beats B, B beats C and C beats A. 

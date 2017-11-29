@@ -1,2 +1,0 @@
-★What is the best VoIP infrastructure service, API or open source solution to use for a mobile VoIP app?The mobile app is a SIP client.
-We too at ShowKit offer a pay as you grow VoIP and Screen Sharing platform for in-app calls within your iOS apps. Please check us out if you ever get a chance :)    Embed Quote

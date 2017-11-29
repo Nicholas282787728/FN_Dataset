@@ -1,2 +1,0 @@
-Is it possible to pass an associative array with a shortcode attribute?
-To the best my knowledge, the answer to your question is no. However, you can pass a string, delimited by a comma, pipe (|) or similar, and then use PHP explode() function (http://php.net/manual/en/function.explode.php) to get that into an array. You can fake the associative array: arg1|foo,arg2|bar,args|etc. You can also serialize the array so it's a string. 

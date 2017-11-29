@@ -1,2 +1,0 @@
-★What is the relationship between Ethernet and LAN?
-Ethernet is a Local Area Network (LAN) technology. So is Token Ring, Fiber Distributed Data Interface (FDDI), and Wi-Fi.

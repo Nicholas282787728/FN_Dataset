@@ -1,2 +1,0 @@
-★What is the best Twitter client for Linux?
-If you like terminals, you can use TTytter

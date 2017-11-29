@@ -1,2 +1,0 @@
-★Does a random variable need to follow a probability distribution in order for its standard deviation to be computable?
-Yes. The standard deviation is defined in terms of expected value of a derived random variable. More specifically You need a probability distribution on the sample space in order to take an expected value of a random variable.    Embed Quote

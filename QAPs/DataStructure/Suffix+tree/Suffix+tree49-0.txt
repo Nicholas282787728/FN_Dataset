@@ -1,2 +1,0 @@
-In the 5th lecture of Fall 2013 MIT 6.854, is the trie (k-level buckets) same as other tries like suffix trie?
-A trie is a tree data structure where children are indexed by an enumerated type instead of by the outcome of a comparison.  In the k-level buckets, the enumerated type is (ranges of) integers; in a suffix tree the enumerated type is alphabetical characters. 

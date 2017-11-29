@@ -1,1 +1,0 @@
-Is it possible to implement two stack using array?Yes For stack A use topA=-1 For stack B use topB=11 (Assume array size = 11) To push element at stack A increment topA To push element at stack B decrement topB if topA+1==topB or topB-1==topA then stack A/stack B/array is full. 41 Views  View Upvotes

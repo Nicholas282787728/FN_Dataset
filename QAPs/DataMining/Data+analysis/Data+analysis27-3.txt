@@ -1,2 +1,0 @@
-How do I perform data analysis / machine learning in Python?
-I used this (Data Mining Fruitful & Fun) library. I'd say the API is pretty straight forward but I can't really comment on the documentation since it's been a lot of time since I did ML. But I remember having a good time working with the library and not too many wtf moments.    Embed Quote 

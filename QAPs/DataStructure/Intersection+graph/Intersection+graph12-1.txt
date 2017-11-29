@@ -1,2 +1,0 @@
-Can you help me solve e x =1−x  ?
-Well, maybe there's a complex solution for this. Let's say x=a+ib  e a+ib =1−(a+ib)  e a [cos(b)+isin(b)]=1−(a+ib)  So you have two variables a and b, in two equations: e a cos(b)=1−a  e a sin(b)=−b  This is how far I could reach. Don't know if these equations have a solution. Edit: Eliminating a from the above equations, you get: −bcot(b)+ln(−bcosec(b))−1=0  Here's what wolfram gives for this equation: ​ So apparently there are more than one complex solution to this. 

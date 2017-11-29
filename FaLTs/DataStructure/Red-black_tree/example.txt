@@ -1,2 +1,0 @@
-An example of a red–black tree
-The same red–black tree as in the example above, seen as a B-tree.

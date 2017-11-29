@@ -1,2 +1,0 @@
-★What are the options for wireless mesh networking?Ideally, I'm looking for some sort of mesh repeater than can also broadcast 802.11b/g/n.
-All respect to meraki (and I like them), you should also check out the open-source version, open-mesh (I'm not affiliated) http://open-mesh.com/.  Basically you can buy their little routers for like $20 and they have a dashboard to set up your network.  I guess it's only b/g, but it's a slick little product.  It runs OLSR under the hood, and it totally open source: they're openwrt based.    Embed Quote

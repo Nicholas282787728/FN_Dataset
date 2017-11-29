@@ -1,2 +1,0 @@
-★Could Quora be integrated with Yammer to create enterprise knowledge management?
-Yes, Quora can be integrated with Yammer to create enterprise knowledge management. In fact, a solution like this already exists and is being used by companies like Logitech and AllState. Tootin' my own horn here, but Bloomfire.com lets people post nuggets of knowledge in text, videos, docs, etc. (a la Yammer), then facilitates a Q&A on the side (a la Quora).    Embed Quote

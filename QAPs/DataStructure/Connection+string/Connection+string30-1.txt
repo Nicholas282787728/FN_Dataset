@@ -1,2 +1,0 @@
-How can I create a database using Java, as I have to design an online library management system using Java only?
-Maybe you need an embedded database system written in Java? There are some, included Java DB, which is an Apache Derby modified and supported by Oracle. Using such libraries you can avoid the need for a separate database system and achieve maximum portability. Scalability and performance could be a concern, though. 

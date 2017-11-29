@@ -1,2 +1,0 @@
-Why in many programming contests the answer is required to be printed modulo 1000000007?
-It's the first prime grater than 10^9. Kumar's answer precisely covers why it's needed at all. To add to it I would say sometimes back when the servers weren't that powerful we used to have 10^8+7 instead. Don't be surprised to find 10^10+19 in future. Updated 103w ago • View Upvotes

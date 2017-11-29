@@ -1,1 +1,0 @@
-What is the proof of Graph Isomorphism problem not belonging to P nor NP-Complete provided P! =NP?Can you suggest any reading for the proof?

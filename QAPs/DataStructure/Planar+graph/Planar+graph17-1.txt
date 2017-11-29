@@ -1,2 +1,0 @@
-Is there an easy method to determine if a graph is planar or not?
-Kuratowski's theorem states that a graph is planar if and only if it doesn't contain a subgraph isomorphic to a subdivision of [math]K_5[/math] or [math]K_{3,3}[/math]. 

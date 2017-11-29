@@ -1,2 +1,0 @@
-Which is better for analyzing large data sets, R or Mathematica?
-You should also look at the bigmemory family of packages. I've found bigmemory+biganalytics to be a little easier to get started with than sqldf, but both are really excellent packages. http://bigmemory.org/    Embed Quote 

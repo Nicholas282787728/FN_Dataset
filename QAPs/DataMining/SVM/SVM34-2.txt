@@ -1,2 +1,0 @@
-★How can I implement SVM in R using multicores?
-I would use the open source machine learning library: scikit which has SVM support: w 1.2. Support Vector Machines Then in R bind the functionality you want to through an R extension: Writing R Extensions that way you're not re-inventing the wheel, and you get your goal of SVM with multicore support through the R environment    Embed Quote

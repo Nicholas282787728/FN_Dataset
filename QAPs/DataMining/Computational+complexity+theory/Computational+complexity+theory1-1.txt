@@ -1,2 +1,0 @@
-Computational Complexity Theory: Is the traveling salesman problem solvable?
-It is solvable, but it takes a while - exponential worst case time as it currently stands. As other answers have mentioned, state of the art heuristic algorithms do quite well on the problem. The biggest issue is nobody really knows how to analyze how these algorithms work precisely or even really how to describe a "worst case".    Embed Quote 

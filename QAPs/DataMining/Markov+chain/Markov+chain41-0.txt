@@ -1,2 +1,0 @@
-★What is the relationship between Markov chains and branching processes?
-Every branching process is a continuous-time Markov chain.    Embed Quote

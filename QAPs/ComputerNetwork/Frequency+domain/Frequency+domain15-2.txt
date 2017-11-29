@@ -1,2 +1,0 @@
-★In OFDM, (if IFFT is used to convert signals from frequency domain to time domain) how do we take the IFFT of the input signals without transferring them into frequency domain first?If I'm wrong, at which block of the OFDM flow diagram does the input signal first gets transferred to frequency domain in order to take IFFT effectively?
-The modulation happens in frequency domain... I mean the bit stream gets modulated according to the modulation scheme, the resultant iq samples are in frequency domain. So from here you can convert it to time domain using ifft.

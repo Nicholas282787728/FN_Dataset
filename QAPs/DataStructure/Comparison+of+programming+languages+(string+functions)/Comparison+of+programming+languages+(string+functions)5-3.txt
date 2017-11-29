@@ -1,2 +1,0 @@
-What are the best programming practices and coding standards independent of programming languages?
-There is a meta-principle:  Keep it Simple and Keep it Clean.  It is a motto rather than specific practice but it points the way to better design and better code. 

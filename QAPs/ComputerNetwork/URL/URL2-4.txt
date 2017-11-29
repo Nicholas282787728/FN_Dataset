@@ -1,2 +1,0 @@
-★What is the best URL shortener?
-I too am big fan of owning your own short urls.   YOURLS by Ozh Richard is great for that.  http://yourls.org/ If your using WordPress Pretty Link by Blair Williams is even better (easier to setup and use), free & for sale versions http://blairwilliams.com/pretty-...    Embed Quote

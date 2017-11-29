@@ -1,1 +1,0 @@
-What are some good graph databases which are open source and have a lot of support to integrate with nodejs?Basically I am looking for a database which has a very good pricing for startups and has a lot of support in the community. Also, mention why these databases are good.

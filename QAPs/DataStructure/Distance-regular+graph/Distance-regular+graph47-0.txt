@@ -1,2 +1,0 @@
-Do you have to sync a Fitbit Flex the same day as the steps were counted?
-No. It will keep track of everything quite nicely until you get back to sync. I rarely sync with my phone, and often I'll travel for several days at a time. When I return home and get close to my PC (with the dongle) it backfills all of the information since the last sync.  It will even keep track of sleep if you were diligent in switching between sleep mode each night. 

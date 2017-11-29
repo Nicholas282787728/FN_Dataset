@@ -1,2 +1,0 @@
-What are some computer science/engineering jobs or fields which saves lives everyday?
-I can tell you about a job I once did. I was a developer for a company that made real-time, embedded software for use in intensive-care monitoring systems. This was a real life-saver; any bugs could have been fatal. 

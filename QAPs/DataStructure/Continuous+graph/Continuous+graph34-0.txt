@@ -1,2 +1,0 @@
-Which function gives the best looking graph of all?
-For me, its the continuous-everywhere-differentiable-nowhere Weierstrass function. Each infinitesimal point in its graph is a replica of the original plot, just like fractals. Updated 17 Aug 2013 • View Upvotes

@@ -1,2 +1,0 @@
-★How can I monitor and extract information from multiple Facebook pages?I'm looking for a way to collect/scrape data from multiple Facebook pages such as data listed in FB contacts, recent wall posts, etc.
-The telnet client will let you get the source code of a webpage. There are command-line commands to save the output to a file instead of being displayed on the computer screen. You could run Telnet from Java using the Runtime class and it's methods. This would enable you to monitor Facebook pages at whatever interval you like.    Embed Quote

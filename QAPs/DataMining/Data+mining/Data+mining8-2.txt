@@ -1,2 +1,0 @@
-What is a good book on machine learning / data mining to give to a layman?
-For a layman, the first part of the book Data Mining: Practical Machine Learning Tools and Techniques (Third Edition) Ian H. Witten, Eibe Frank, Mark A. Hall, 2011. is a good introductory text. The main advantage for a layman is that he can run experiments using the WEKA software with a very easy to use graphical interface without doing any programming. Also it is written using the minimum mathematical formalism.    Embed Quote 

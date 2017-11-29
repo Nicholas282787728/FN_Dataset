@@ -1,2 +1,0 @@
-★What is the difference between HTML and JavaScript?
-Very big HTML is just for design and blocks of the page - JS is a lot more that just HTML

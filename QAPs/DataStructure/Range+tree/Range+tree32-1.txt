@@ -1,2 +1,0 @@
-I need a "C" implementation (source code) of min-max kd trees, with range search and nearest neighbour search functionality?
-See FLANN. http://www.cs.ubc.ca/research/flann/ 

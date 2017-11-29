@@ -1,2 +1,0 @@
-★Can Hidden Markov Models be used as binary classifiers? If yes, how?
-I think this is the way I'd do it. There maybe a better way: I would do MAP estimation. I would create two HMMs, one for each class. Get the features from the training set for each class and learn the parameters using Expectation-Maximization. Then for the test sample, extract features and and for both the models get the posterior probability. Classify the sample as the class with higher posterior probability.    Embed Quote

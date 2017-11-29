@@ -1,2 +1,0 @@
-★Do some Internet providers capture (not block) SMTP port 25?
-Yes and some even have automatic processing of it    Embed Quote

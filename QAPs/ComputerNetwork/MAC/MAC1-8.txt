@@ -1,1 +1,0 @@
-When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?MAC addresses are needed for communication within the Local Area Network. IP address comes into the picture when the packet has to be routed to a different network.

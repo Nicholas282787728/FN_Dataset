@@ -1,2 +1,0 @@
-★When I model logistic regression on my train set it works, but when I do it on the test it fails. The variables are the same. What is the problem?
-Mainly two reasons come to mind: 1. You are overfitting on the training data. 2. Your training and testing data are not sampled independently from the same distribution. But as Peter Flom said it's hard to give the right answer without knowing more details.    Embed Quote

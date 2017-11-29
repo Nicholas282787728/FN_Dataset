@@ -1,2 +1,0 @@
-★What are some advantages of using neural networks over decision trees?references to benchmarks on specific datasets would be very helpful
-neural network can learn arbitrary boundary, while decision trees only detect boundary like rectangle. decision tree can do simple feature selection while neural network can do more complicated dimension reduction.    Embed Quote

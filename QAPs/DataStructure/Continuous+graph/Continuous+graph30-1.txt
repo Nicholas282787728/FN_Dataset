@@ -1,2 +1,0 @@
-Which mathematics courses may be useful for a Computer Science student ?
-Related: Igor Markov's answer to What are the most important fields of math to learn if I want to do research in graph algorithms? Also note that Discrete Mathematics courses include Combinatorics and Graph Theory, but they typically start with Logic and proof techniques. 

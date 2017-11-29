@@ -1,2 +1,0 @@
-Are there any algorithms of the order O(sqrt(n))?
-If you have a network of N nodes and you want to communicate a message to all of them in only two steps, you do it by each node talking to O(sqrt(n)) nodes in both steps. 

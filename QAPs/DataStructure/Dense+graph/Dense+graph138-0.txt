@@ -1,2 +1,0 @@
-What fluids or materials reduce their volume when the temperature rise?Preferably by a reversible process
-Heat shrink tubing does precisely this. It is commonly used to hold electrical wires in place, provide insulation, or a number of other purposes in engineering applications. In this video, you can watch a HUGE piece of heat shrink in action under a heat gun: Unfortunately, I don't think the process is reversible. 

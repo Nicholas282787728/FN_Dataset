@@ -1,2 +1,0 @@
-How does one determine the number of clusters that are hidden in a given data set?
-What I did is to use PCA. I find the Principle Components of the data and  finding the significant ones as a cluster number for the given data set. 

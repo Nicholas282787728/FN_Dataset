@@ -1,2 +1,0 @@
-When do programmers specify data types?
-For security and optimization (performance, storage, memory) Here’s when you use FLOAT over a DOUBLE - when you do NOT need precision afforded by DOUBLE in your calculations; you will save some memory bits and some CPU cycles. Float - 32 bit (7 digits) Double - 64 bit (15-16 digits) Decimal - 128 bit (28-29 significant digits) 59 Views · 2 Upvotes · Answer requested by Kyo Sho

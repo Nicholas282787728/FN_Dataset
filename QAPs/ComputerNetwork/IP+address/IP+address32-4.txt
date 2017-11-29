@@ -1,2 +1,0 @@
-★Can one track my real IP address when I use VPNs?
-Your ISP can track you using VPN and its because of DNS Leaks which can result in your ISP being able to 'see' and monitor your online activity even though you think you are safely protected by an encrypted VPN tunnel. Therefore beside "Split Tunneling", "Secure DNS option" would also be the Key.

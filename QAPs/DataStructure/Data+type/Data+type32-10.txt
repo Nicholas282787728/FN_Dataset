@@ -1,2 +1,0 @@
-Can the % operater be used on all data types in C?
-No. It is used in Arithmetic and compound Assignment operators. 57 Views

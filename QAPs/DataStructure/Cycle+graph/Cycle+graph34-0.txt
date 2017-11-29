@@ -1,2 +1,0 @@
-Given an undirected graph and an edge, what is the fastest algorithm for determining whether the graph has a cycle containing the edge?
-You just check if the two nodes are in the same connected component after removing that edge. Is this homework? 

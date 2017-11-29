@@ -1,2 +1,0 @@
-Which is better, SQL or NoSQL?
-It can't be answered with yes or no unless you have certain task in mind. SQL is more general purpose and far more widely used, but NoSQL can be better for certain things, like storing and retrieving diverse files, blogs, forums and other data that tends to be less structured than relational data usually is. 

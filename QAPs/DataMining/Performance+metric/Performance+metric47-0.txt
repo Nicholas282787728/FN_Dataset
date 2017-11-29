@@ -1,2 +1,0 @@
-★When monitoring MySQL performance, which metrics are most important to watch?Some monitoring tools can collect literally hundreds of metrics about MySQL performance. Which of these are most important to watch to in order to learn about problems as quickly as possible, and to diagnose the cause of the problem?
-Feel free to comment here. But if you prefer, I've cross-posted this question on LinkedIn Answers, and there are a couple of responses so far: http://j.mp/cgRQPg    Embed Quote

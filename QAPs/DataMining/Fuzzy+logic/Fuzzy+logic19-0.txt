@@ -1,2 +1,0 @@
-★What is a good (preferably brief) introduction to fuzzy logic?I have followed courses on logic, statistics and statistical physics - looking for a simple introduction with examples and/or exercises.
-Look up Fuzzy Logic on Wikipedia.  There is a bibliography and several references given in the Wiki article. Fuzzy logic    Embed Quote

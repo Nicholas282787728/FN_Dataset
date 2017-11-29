@@ -1,2 +1,0 @@
-★How often are approximation algorithms used in practice?
-Very often, as many optimization problems are NP-hard but have huge practical importance.    Embed Quote

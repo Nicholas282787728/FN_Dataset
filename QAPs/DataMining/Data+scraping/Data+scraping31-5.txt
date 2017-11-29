@@ -1,2 +1,0 @@
-Is there any way to scrape data from a LinkedIn public profile?
-Yes, there are many ways to scrape data from public profiles on linkedin. See scrapy-linkedin for an example using scrapy and saving data to mongo.    Embed Quote 

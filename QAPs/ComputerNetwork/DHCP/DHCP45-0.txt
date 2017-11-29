@@ -1,2 +1,0 @@
-★What can be a research topic on TCP/IP or DHCP protocol for first-time researchers?
-If I have to restrict in these two, I'd suggest you explore (1) adaptation of tcp/ip in IoT/m2m (especially over wireless), (2) a new dhcp suitable for SDN.

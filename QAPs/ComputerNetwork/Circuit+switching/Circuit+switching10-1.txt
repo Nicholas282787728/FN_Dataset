@@ -1,2 +1,0 @@
-★What are driver circuits for power switch?
-There are many dedicated ic's for driving fets or transistors. If u r using a circuit made of descrite components if needs to include these for sure to protect the FET. 1. A snubber circuit for protecting switch against dv/dt 2. If the switch is driven by voltage u need to have an under voltage lockout or else for some reason if the turn on voltage is low it will damage the switch U can always do a search in digikey to find a dedicated driver based on ur requirements.

@@ -1,2 +1,0 @@
-What does root expansion in Linux mean? How is it carried out?
-i did root partition expansion on my raspberry pi, it means the root partition get's expanded (in my case to cover the entire sd card) How this is carried out? The same way many partition tools work, i don't have a technical answer for that. 

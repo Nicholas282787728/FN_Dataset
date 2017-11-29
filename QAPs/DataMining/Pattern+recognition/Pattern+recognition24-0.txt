@@ -1,2 +1,0 @@
-★What is a good introductory article/textbook on the subject of statistical pattern recognition?
-Try The Elements of Statistical Learning, available for free online: http://www-stat.stanford.edu/~ti.... Prereqs are linear algebra/basic probability theory. Book is lucid at explaining methods, but no proofs. There are good examples and sample data sets available online.    Embed Quote

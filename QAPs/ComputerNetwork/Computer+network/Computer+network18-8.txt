@@ -1,2 +1,0 @@
-★Skyfall (2012 movie): Why would Q attach the computer of a known cyberterrorist to the MI6 computer network?Is he the worst digital forensics investigator in history?
-There is definitely a logic behind that. In order to solve the obfuscated code and multiple running processes on the laptop, Q needs high computational power that the laptop probably doesn't have individually. He probably hooked up the computer to another distributed network through the MI6 network in order to get more computational power and solve the code more quickly.

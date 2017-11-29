@@ -1,2 +1,0 @@
-What product categories generate most volume in a grocery store?
-Out of the list you provide as examples, foods that are perishable in a short time such as bread and milk would be obvious answers, but not sugar or salt which have a long shelf life and generally not consumed in the volumes of bread and milk. For our grocery shopping we buy bread, milk, fruit, veg, meat, etc, multiple times per week however salt and sugar only a few times per year. 

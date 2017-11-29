@@ -1,2 +1,0 @@
-How do data analysts at companies like Facebook and Twitter run queries on extremely large data sets?
-Some companies use Apache Pig (part of Hadoop) to analyze large data sets in a high-level language. It also has features like parallel execution.    Embed Quote 

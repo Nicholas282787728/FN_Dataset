@@ -1,2 +1,0 @@
-What is the algorithm to perform insertion in a B Tree?
-Hi, here you go !  Insertion & deletion have been nicely explained CSci 340: B+-trees Hope this helps :-) 468 Views

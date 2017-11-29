@@ -1,2 +1,0 @@
-How do artificial neural networks learn?
-Universal approximation theorem by cybenkos perspective but simplified. It approximates any continuous function with bounded error. Here is a simplified explaination of cybenkos result at stackexchange. You might need to know how two layer neural network can approximate any boolean function. Universal Approximation Theorem - Neural Networks    Embed Quote 

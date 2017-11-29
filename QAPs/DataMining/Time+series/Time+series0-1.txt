@@ -1,2 +1,0 @@
-★What are some fantastic books on time series analysis?
-If you want to learn about state-of-the art within time series analysis I recommend reading University of California Riverside Professor Eamonn Keogh's papers[1] and tutorials[2], or papers that cite his papers[3]. [1] http://www.cs.ucr.edu/~eamonn/se... [2] http://www.cs.ucr.edu/~eamonn/tu... [3] http://scholar.google.com/schola...    Embed Quote

@@ -1,2 +1,0 @@
-★What is the limit on the length of an IEC power cable as defined in the standard?To be more specific, a cord such as one you'd find powering a PC or monitor in the United States of America.
-A length of six feet is common, but I don't know that there is a defined length limit.  The current limit is 10 amperes.    Embed Quote

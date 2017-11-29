@@ -1,8 +1,0 @@
-Some first examples of families of distance-transitive graphs include:
-
-The Johnson graphs.
-The Grassmann graphs.
-The Hamming Graphs.
-The folded cube graphs.
-The square rook's graphs.
-The simplest asymptotic family of examples of distance-transitive graphs is the Hypercube graphs.

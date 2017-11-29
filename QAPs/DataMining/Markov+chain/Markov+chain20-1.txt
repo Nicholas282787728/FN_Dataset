@@ -1,2 +1,0 @@
-★How do I explain Markov chains to a 10-year-old?
-I'd explain Markov chains by comparing it to a board game.  Grab a single game piece or a chess pawn, then draw up the state space on a piece of paper as positions that that piece can occupy.  Then, the state transitions are the possible moves the piece can make, governed by the roll of a die.  For example, to transition from state 1 to 2, might require a roll of two or less, to move from state 1 to state 3 a roll of 3 or more, and so on for all the possible transitions.    Embed Quote

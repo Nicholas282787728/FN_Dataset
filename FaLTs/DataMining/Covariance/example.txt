@@ -1,8 +1,0 @@
-The sample covariances among K variables based on N observations of each, drawn from an otherwise unobserved population, are given by the K-by-K matrix {\displaystyle \textstyle {\overline {\mathbf {q} }}=\left[q_{jk}\right]} {\displaystyle \textstyle {\overline {\mathbf {q} }}=\left[q_{jk}\right]} with the entries
-
-{\displaystyle q_{jk}={\frac {1}{N-1}}\sum _{i=1}^{N}\left(X_{ij}-{\bar {X}}_{j}\right)\left(X_{ik}-{\bar {X}}_{k}\right),} {\displaystyle q_{jk}={\frac {1}{N-1}}\sum _{i=1}^{N}\left(X_{ij}-{\bar {X}}_{j}\right)\left(X_{ik}-{\bar {X}}_{k}\right),}
-which is an estimate of the covariance between variable j and variable k.
-
-The sample mean and the sample covariance matrix are unbiased estimates of the mean and the covariance matrix of the random vector {\displaystyle \textstyle \mathbf {X} } \textstyle \mathbf {X} , a vector whose jth element (j = 1, ..., K) is one of the random variables. The reason the sample covariance matrix has {\displaystyle \textstyle N-1} \textstyle N-1 in the denominator rather than {\displaystyle \textstyle N} \textstyle N is essentially that the population mean {\displaystyle \operatorname {E} (X)} \operatorname {E}(X) is not known and is replaced by the sample mean {\displaystyle \mathbf {\bar {X}} } \mathbf {\bar {X}} . If the population mean {\displaystyle \operatorname {E} (X)} \operatorname {E}(X) is known, the analogous unbiased estimate is given by
-
-{\displaystyle q_{jk}={\frac {1}{N}}\sum _{i=1}^{N}\left(X_{ij}-\operatorname {E} (X_{j})\right)\left(X_{ik}-\operatorname {E} (X_{k})\right).} {\displaystyle q_{jk}={\frac {1}{N}}\sum _{i=1}^{N}\left(X_{ij}-\operatorname {E} (X_{j})\right)\left(X_{ik}-\operatorname {E} (X_{k})\right).}

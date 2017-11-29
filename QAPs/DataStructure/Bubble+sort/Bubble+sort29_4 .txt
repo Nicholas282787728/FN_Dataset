@@ -1,1 +1,0 @@
-Why is selection sort said to be better than bubble sort though both are of order n square? I dont see a significant difference in their algo. Plz explain?bubble sort is complicative to trace & understand working 

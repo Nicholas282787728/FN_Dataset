@@ -1,2 +1,0 @@
-How is F# going at the moment? Is there any application built with F#?
-Tachyus, a Data Start-Up for Oil Industry, Raises $6 Million From Founders Fund)At Tachyus (tachyus.com), we are using 100% F# to build the back end of our plat... The XBox Live TrueSkill algorithm, as well as the whole Achievements system, the ranking system and the matchmaking system surrounding it - Source: Page on stackexchange.com 

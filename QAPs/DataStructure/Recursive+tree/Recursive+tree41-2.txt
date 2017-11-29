@@ -1,2 +1,0 @@
-What's the easiest way to recursively get a list of all the files in a directory tree in Python?
-1. Use the os module: python -c "import os; print os.listdir("./")" 2. Use the glob module python -c "import glob; print glob.glob("./")" listdir will just give you the list of files, glob will append the path of these files to the list Updated 239w ago • View Upvotes

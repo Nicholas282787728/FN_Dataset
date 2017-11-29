@@ -1,2 +1,0 @@
-★What is the difference between switching and routing?
-Although,they more or less do the same thing,they operate at different levels on the OSI layers.Switches operate at the data link layer which is level 2 and Routers operate at Network layer Which is the level 3 of the OSI reference model.This is the basic difference.However there are other differences too.You can check that here http://www.webopedia.com/DidYouK... If you wanna know more about the OSI layers,then this is the link http://en.wikipedia.org/wiki/OSI...    Embed Quote

@@ -1,2 +1,0 @@
-★What is the difference between '>' and '#'? Is the command line interfaced in Linux?
-As Max says, it's mainly a difference of convention. Historically, > (sometimes %) is the unprivileged prompt while # indicates elevated privileges (typically 'root' or 'enable' on network switches). You can change these to anything you want, by setting environment variables like PS1 and PROMPT

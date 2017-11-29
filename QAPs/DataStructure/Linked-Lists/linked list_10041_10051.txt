@@ -1,1 +1,0 @@
-multithreaded access to a persistent link list datum structure such list be intend to be immutable - the shared node will never be write to . there be no problem with several thread read from the same memory location . 

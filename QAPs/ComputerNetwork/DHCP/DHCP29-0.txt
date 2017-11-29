@@ -1,2 +1,0 @@
-★Can I use my AP's DHCP server?
-I'm not familiar with those specific models, but my guess is no.  Unless the AP's DHCP server can give out a custom default gateway, then you are going to have issues. What I generally do is if the AP is also a router, disable DHCP, and make sure the cable connecting it to the network is plugged into a switch port of the AP, not the WAN port.  Then I just use the DHCP server of my router. Is there a reason why you don't want to use the DHCP server on your modem?

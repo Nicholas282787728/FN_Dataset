@@ -1,2 +1,0 @@
-★What is an IP address?
-It's an address assigned to any machine plugged to the internet.

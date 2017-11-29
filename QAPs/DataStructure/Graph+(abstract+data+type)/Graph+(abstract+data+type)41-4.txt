@@ -1,2 +1,0 @@
-What are currently the hot topics in computer science research?Especially in academic research
-John Hopcroft, a Turing award winner, wrote an insightful paper titled 'The Future of Computer Science' detailing how topics in Computer Science have evolved over the course of last few decades and what are the current hot topics in the field. He and his students analyzed corpus of publications and found out such hot topics. The paper is available for free here: http://www.cs.cornell.edu/~lwang... Updated 16 Sep 2013 • View Upvotes

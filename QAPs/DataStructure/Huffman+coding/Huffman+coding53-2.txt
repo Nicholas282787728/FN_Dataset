@@ -1,2 +1,0 @@
-What are the greedy algorithms every programmer should know?
-Well there are many...I would like to point out few of them: 1.KMST(Kruskal's minimum spanning tree) 2.Huffman coding(preferably efficient version of the algorithm for sorted Input) 3.PMST(Prim's minimum spanning tree) 4.PMST for adjacency line representation 5.Dijkstra's shortest path(its one of the popular one) 6.Graph colouring 588 Views · 2 Upvotes

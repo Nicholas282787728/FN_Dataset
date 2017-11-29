@@ -1,2 +1,0 @@
-★How do I set up my own proxy server on Windows?
-use http://proxyninjas.com to set up your own proxy server in Windows. They will give you all the details.    Embed Quote

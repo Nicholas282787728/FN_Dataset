@@ -1,2 +1,0 @@
-★What is a good programming language to use for web scraping?
-You could use java with jsoup api for web scraping. Sometimes, combination of crawler4j and jsoup api works best depending on application needs. For instance, you could use crawler4j to get all the links on a webpage and then scrap data from them using jsoup api    Embed Quote

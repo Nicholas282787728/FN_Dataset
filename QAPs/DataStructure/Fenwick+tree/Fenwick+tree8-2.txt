@@ -1,2 +1,0 @@
-What are some good resources to understand a binary indexed tree (Fenwick tree)?
-I am sure if you read carefully one of them will be sufficient to make you understand. Binary Indexed Trees Basic Binary Indexed Tree (English version) - Codeforces BIT:Using a binary indexed tree? Binary Indexed Tree or Fenwick tree - GeeksforGeeks 

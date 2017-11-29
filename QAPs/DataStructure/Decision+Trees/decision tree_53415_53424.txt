@@ -1,1 +1,0 @@
-be random forest turing-complete ? random forest be useful only for input of a give size , so they be not really eligible for turing-completeness . however , any function on input of size $ n $ can be compute by a decision tree , so in that sense the model be complete -lrb- though in practice we limit the depth of the tree -rrb- . 

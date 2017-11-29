@@ -1,2 +1,0 @@
-★What is a URL?
-It is an acronym for Uniform Resource Locator - and simply put is the alpha numerically represented address of a file (resource) on the internet. It might point to any sort for a resource like a database or just a static HTML page or a file. Further reading with details here : What Is a URL? (The Java™ Tutorials > Custom Networking > Working with URLs) What is URL (Uniform Resource Locator)? - Definition from WhatIs.com    Embed Quote

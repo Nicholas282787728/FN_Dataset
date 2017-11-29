@@ -1,2 +1,0 @@
-★What are some semantic web and linked data infrastructure companies?
-AllegroGraph: http://www.franz.com/agraph/alle.... Still remember Allegro Lisp you played with in school? The same company. Sesame: http://www.openrdf.org/, free and open source.    Embed Quote

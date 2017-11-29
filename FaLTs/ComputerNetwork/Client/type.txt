@@ -1,2 +1,0 @@
-Client types and their features Relies on local storage Relies on local CPU Fat client Yes Yes Hybrid client No Yes Thin client No No
-In one classification, client computers and devices are either fat clients, thin clients, or hybrid clients.

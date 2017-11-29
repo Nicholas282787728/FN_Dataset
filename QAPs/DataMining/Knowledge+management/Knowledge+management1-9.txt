@@ -1,2 +1,0 @@
-★What is the best open source software for knowledge management?
-LogicalDOC http://www.logicaldoc.com is mainly a document management system (DMS) that works on multiple platforms focused on the fast retrieval of information. However, it can be used to create a knowledge base, thanks to the traditional organization of documents into folders, metadata, tags and full-text search. Complementary tools such as the MS Office and Outlook add-ins as well the mobile applications will broaden the spectrum of Use.    Embed Quote

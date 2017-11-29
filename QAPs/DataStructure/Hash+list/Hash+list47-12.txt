@@ -1,2 +1,0 @@
-What is the simplest language with which to learn algorithms and data structures?
-I was taught data structure by using Java language. In my opinion, the best language language to learn data structure is the one which make whether the access is random access or sequential access to be explicit. C and C++ have pointer, Java has reference. So they are good candidates. 

@@ -1,2 +1,0 @@
-Any ideas for a simple artificial intelligence/machine learning project?
-It might be fun to to build a neural network which runs on a GPU? You could use pixel values in frame buffers to encode state, use shaders to perform the logic, and generally benefit from all of that performance.    Embed Quote 

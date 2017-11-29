@@ -1,2 +1,0 @@
-What are some of the best algorithms?
-Bogosort Bogosort is a sorting algorithms. As Wikipedia best sums it in pseudocode: while not isInOrder(deck):     shuffle(deck) Sure, you may have your preference about sorting algorithms, with your fancy big O notations and all this. But this one is different. This one is all about the uncertain nature of our universe, it's all about probabilities and quantum theories.... (more)

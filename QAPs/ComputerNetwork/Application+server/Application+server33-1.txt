@@ -1,2 +1,0 @@
-★What is the Best Hosting for Real Time Mobile Application Server?
-I ended up hosting it on Linode beginner plan. Its performs good, in fact awesome so far. No hiccups, no regrets.

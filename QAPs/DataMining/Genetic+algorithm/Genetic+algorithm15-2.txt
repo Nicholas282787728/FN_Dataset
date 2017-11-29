@@ -1,2 +1,0 @@
-★How can I learn genetic algorithm using MATLAB (to be precise).I want to optimize a response which has multiple factors.
-Hi, I'm looking for a GA code but those made from scratch, where is the best website to look for it? Thanks. (I'm new in this community)    Embed Quote

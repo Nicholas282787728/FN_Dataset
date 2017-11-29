@@ -1,2 +1,0 @@
-★What are some of the most interesting vector spaces?
-I suppose you could ask: "what are the most interesting uses of vector spaces as an abstract representation of some real world entity?". An example answer might be: the bag-of-words representation of a document. Another example: function spaces (e.g. wavelets). You could also ask: "what additional structures, when added to a vector space, enable the most interesting mathematics?" For example, putting a metric on the space. But, yeah, it's a little nonsensical as asked. What were you trying to get at?

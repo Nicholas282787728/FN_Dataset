@@ -1,2 +1,0 @@
-What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
-See  Thomas Cormen's answer to What is Professor Thomas Cormen's favorite algorithm? 

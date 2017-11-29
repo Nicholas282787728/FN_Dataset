@@ -1,2 +1,0 @@
-How do you allocate memory dynamically without using malloc or new?
-Which OS ? Basically you ask the underlying OS some pages/blocks of memory. Look here: How does a memory allocator (such as malloc or new) work? How does it ask the OS for allocating a new block of memory? Under the hood at least on recent hardware it uses memory management hardware, whose role is to map physical memory to userspace memory (and manage page faults if needed, for instance for virtual memory). 

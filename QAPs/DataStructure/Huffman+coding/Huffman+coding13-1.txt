@@ -1,2 +1,0 @@
-Why is the Huffman coding algorithm considered as a greedy algorithm?
-Greedy algorithm is an algorithm that follows the problem solving mechanism  of making the locally optimal solution at each stage with thinking  of finding a global optimum solution for the problem and In Huffman coding in every stage we try to find the the prefix free binary code and try to minimize expected code word for optimum solution for compress the data. Thank you for your feedback! Your response is private. Is this answer still relevant and up to date? YesNo 815 Views · 2 Upvotes

@@ -1,2 +1,0 @@
-★How does YouTube use machine learning?Obviously Google using machine learning on YouTube. What are your assumptions?
-Quick answers IMHO: 1) recommended videos when you are done with a video, or on your youtube homepage. 2) automatically generated playlists of songs 3) advertisements alongside videos All three seem to be some version of recommender systems to my novice mind. You could try googling some papers on these topics, or published by people attached to these products.    Embed Quote

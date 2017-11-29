@@ -1,2 +1,0 @@
-★How does Facebook deal with DDoS attacks?
-Most sites like FB don't discuss attack mitigation publicly in case the data could help attackers. Same goes for ISPs. There have been slides presented at conferences and that's about all I've seen. Best way to learn is to work for such organizations, IMO.

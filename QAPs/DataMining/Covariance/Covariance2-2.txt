@@ -1,2 +1,0 @@
-What is an intuitive explanation of covariance?
-The correlation between two random variables is a dimensionless measure of the strength of the linear relationship between them.  The covariance is a measure that takes the correlation and scales it by a number that represents the combined spread of the two random variables.  Covariance is a little more difficult to interpret, which is why we usually report correlations, but it has nice algebraic properties that make it appealing for doing theory.    Embed Quote 

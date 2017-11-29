@@ -1,2 +1,0 @@
-★What is NFC?
-Near Field Communication -  NFC basically is an improved version of Bluetooth communication (short range communication). Benefits over bluetooth: - No power needed - Much Lower Costs to produce ( NFC tags cost 10 cents vs around $5 for a bluetooth tag) Bluetooth has a (much) larger range though. NFC is ideal for businesscards - simply tap a NFC enabled business card against an NFC enabled phone and your contact details are transferred to the phone!    Embed Quote

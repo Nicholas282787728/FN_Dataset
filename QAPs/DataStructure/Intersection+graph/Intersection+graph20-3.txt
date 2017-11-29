@@ -1,2 +1,0 @@
-Why are there no solutions to the equation x 2 +6x+9 − − − − − − − − −  √ =x  ? Wouldn't x=−3/2  be a solution?
-As a function, sqrt is generally interpreted to the positive square root, so sqrt(9/4)=3/2. If you were to take the negative square root, x=-3/2 would be a solution. 

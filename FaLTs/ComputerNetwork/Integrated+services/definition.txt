@@ -1,1 +1,0 @@
-In computer networking, IntServ or integrated services is an architecture that specifies the elements to guarantee quality of service (QoS) on networks. IntServ can for example be used to allow video and sound to reach the receiver without interruption.

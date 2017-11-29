@@ -1,2 +1,0 @@
-★What is the difference between a URL and HTTP?
-URL (Uniform Resource Locator) :- Also known as a web address when used with HTTP it is a specific character string that constitutes a reference to a resource. HTTP (Hyper Text Transfer Protocol) :- It is an application protocol for distributed, collaborative, hypermedia information systems. it define how messages are formatted and transmitted. https://sdwebsolution.com/    Embed Quote

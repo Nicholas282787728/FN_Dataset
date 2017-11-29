@@ -1,2 +1,0 @@
-★I have an Arduino that has an Ethernet shield and a network server that can host a website for the local network. How can I control the output of each pin of Arduino, using a webpage with a secured communication?
-I m working on a project similar to yours see if this helps.  I have created a php server on my PC and the data entered by the user is saved in a configuration file and this configuration file is monitored by arduino. It changes the pin output according to the data in that file. Tell me if this is useful, I can provide you more data.

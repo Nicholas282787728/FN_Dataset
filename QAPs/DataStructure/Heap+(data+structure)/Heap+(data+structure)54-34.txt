@@ -1,2 +1,0 @@
-What algorithms and data structures should any software engineer know?
-Algorithms, in no particular Order. Depth-first Search Breadth-first Search. Huffman encoding algorithm Kruskal, Prim Algorithm (Minimum spanning Tree) Dijkstra Algorithm (Finding the shortest path) Dynamic Programming and Greedy Algorithms... (more)

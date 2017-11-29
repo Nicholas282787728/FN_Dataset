@@ -1,2 +1,0 @@
-★Why can't any computers on my home network access my LAN Minecraft World?
-Does it work when all devices are wired to your router, instead of wireless? In that case, double check you aren't connected to a 'guest' network on your router, and that your router's settings don't indicate any kind of separation between your wired and wireless interfaces (let us know the model of your router if you are not sure). Otherwise, do you have any firewall software installed? Norton, McAfee, that sort of thing?

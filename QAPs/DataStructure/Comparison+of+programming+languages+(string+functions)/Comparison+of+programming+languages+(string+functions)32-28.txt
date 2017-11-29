@@ -1,2 +1,0 @@
-What is the difference between a compiler and an interpreter?
-Originally Answered: What are the major differences between compilers and interpreters?A2A. Avinash has pointed out the differences. Basically interpreter goes through the code line by line and stops whenever it encounters an error whereas compiler goes through the entire code together and enlists all the errors together. Also compiler generates binary code while interpreter generates intermediate code (like bytecode in case of Java). 

@@ -1,2 +1,0 @@
-★What other application servers can be alternatives to GlassFish?
-If you are using Amazon EC2 you might also consider Elastic BeanStalk (which is really an optimized+customized version of Tomcat). JBoss is as good or better in some cases than GlassFish. But for most cases Tomcat should serve you just fine.

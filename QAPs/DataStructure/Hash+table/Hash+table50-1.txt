@@ -1,2 +1,0 @@
-What are some good hash table libraries for C?
-Why not use: std::hash - cppreference.com Though I tend to prefer std::map 105 Views

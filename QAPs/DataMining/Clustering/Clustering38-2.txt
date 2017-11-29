@@ -1,2 +1,0 @@
-How do you load data into a Hadoop cluster?
-Since you mentioned that you have CSV files, I can provide a suggestion If you have a hive setup you can put the local dataset directly using Hive load command in hdfs. You will need to use "Local" keyword when writing your load command. LOAD DATA [LOCAL] INPATH 'filepath' [OVERWRITE] INTO TABLE tablename [PARTITION (partcol1=val1, partcol2=val2 ...)] Other than this the suggestions suggested by Anil Kumar Muppalla of using command line HDFS load, Flume or Sqoop are the ones I would have suggested by default.    Embed Quote 

@@ -1,1 +1,0 @@
-How does the graph theory operate?That is a very complex question and there are ALOT of good sources. There are two good beginning books either ALCS (Intro. to Algrothms) or Data Structures in Java vol. 3 (I think that is the right volume). In general though the best way to think about graph theory is it is the math of playing "connect the dots with lines" 118 Views

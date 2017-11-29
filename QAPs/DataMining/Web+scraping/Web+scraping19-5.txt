@@ -1,2 +1,0 @@
-★What are the biggest differences between web crawling and web scraping?
-web scraping search and get specific information E.g.  PriceAlert, ThePriceMiner web crawling search and get generic information Google, Bing, etc.    Embed Quote

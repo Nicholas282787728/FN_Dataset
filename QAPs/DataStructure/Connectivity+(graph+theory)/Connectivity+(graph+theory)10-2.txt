@@ -1,2 +1,0 @@
-Is it regular to learn Graph algorithms before DP?
-Seems like many people have no in depth knowledge of algorithms. DP is heavily  connected to graph theory. When you need to solve something using DP you face to following problem. How am I supposed to represent state, so that number of states are as few as possible ( actually number of states + number of transitions + etc but it's not our concern ), so that relationship(stateX needs answer on {states}) between states makes DAG (Directed Acyclic Graph). If relationship is not DAG, DP can do nothing. 

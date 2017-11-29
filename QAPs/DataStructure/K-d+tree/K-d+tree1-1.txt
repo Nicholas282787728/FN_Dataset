@@ -1,1 +1,0 @@
-What is the difference between k-d tree and binary space partitioning tree?

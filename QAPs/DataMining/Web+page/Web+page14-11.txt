@@ -1,2 +1,0 @@
-★Why is HTML used in web pages?
-HTML was designed to share information visually between computers on a network in the form of web pages.    Embed Quote

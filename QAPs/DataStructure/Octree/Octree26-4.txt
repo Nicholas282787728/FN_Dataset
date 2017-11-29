@@ -1,2 +1,0 @@
-Can I learn algorithms by just writing code?
-Will you discover every useful algorithm just by coding on your own? No. If you use Google and other resources however, you can learn some algorithms as you code. You may want to use a resource that teaches algorithms through coding challenges, see this sample module I created: Sorting Algorithms. 

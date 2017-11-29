@@ -1,2 +1,0 @@
-★What are some techniques for pattern recognition in time variant data? (i.e. a signal)
-A very popular algorithm for comparing signals with varying speeds is Dynamic Time Warping (DTW). It successfully detects patterns in time series data even when there are variations in time/speed. DTW has been used for pattern recognition in numerous areas, such as speech recognition, speaker recognition, analyzing bio-medical signals and even for detecting patterns in stock market data!    Embed Quote

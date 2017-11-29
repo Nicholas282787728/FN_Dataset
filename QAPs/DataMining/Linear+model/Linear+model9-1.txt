@@ -1,2 +1,0 @@
-★Is R^2 a good criterion for selecting a neural network or non-linear models?
-No. As Ricardo Monti mentions, R^2 can already be pretty bad for building linear models; if anything, R^2 is worse for neural networks and non-linear models, which are more flexible and hence more prone to over-fitting. Neural networks are typically used for predictive models (rather than variable/feature selection) - given that, I would suggest using a cross-validation scheme.  These are already built into many software.    Embed Quote

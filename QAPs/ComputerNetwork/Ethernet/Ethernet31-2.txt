@@ -1,2 +1,0 @@
-★How does the Raspberry Pi connect to the Internet without an Ethernet slot?
-Though i have a Rpi B model, which has a ethernet interface, i still use a WiFi dongle and connect to that.  The only change i have made is to ensure the WiFi card is connected with a static IP instead of using DHCP.  It works wonderfully.

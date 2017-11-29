@@ -1,2 +1,0 @@
-How do I implement a C-code to remove duplicate elements from an array and what will be the complexity of such an algorithm?
-It's linear.  1. Build a hash table 2. Put the items in, ignoring duplicates 3. Take the items out 

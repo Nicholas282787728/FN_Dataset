@@ -1,2 +1,0 @@
-★Is there any open-source web scraping tool such as Scrapinghub or DiffBot?
-I wrote https://github.com/jjk3/scrape-i... a while back, it used to be a commercial application but I decided to open source it. The company supporting one of the component stopped support it so you will need to find a way to work around that.    Embed Quote

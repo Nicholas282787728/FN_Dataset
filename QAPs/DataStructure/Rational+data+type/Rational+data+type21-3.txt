@@ -1,2 +1,0 @@
-How can the number [math]e[/math] be irrational (follows no pattern) if its Taylor Series representation is constructed using a beautiful pattern?
-An "irrational number" will have no repeating patterns in its decimal expansion, but it can certainly have "patterns" that never repeat. It must have at least one such pattern, actually, by most classical definitions of the word "pattern" - how can you arrange numbers in a string without forming some sort of "pattern", regardless of whether or not it repeats? Updated 4w ago

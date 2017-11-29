@@ -1,2 +1,0 @@
-How do I use switch case if there are three letters inside the case?
-Switch statement is not meant for string comparison. The most easy and natural thing to do in c would be to use strcmp with an else-if statement, e.g: if (!strcmp("ABC", str))    do_this();else if (!strcmp("DEF", str))    do_that();else    do_default(); If you have too many tree-letters combinations and speed is a problem, I would suggest using a hash map O(1). Maybe a BST would be a more appropriate solution if strings length is likely to change. 

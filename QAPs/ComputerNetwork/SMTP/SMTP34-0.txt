@@ -1,2 +1,0 @@
-★How do I setup a SMTP account with Microsoft Server 2003?I am running Microsoft Server 2003.
-If you are talking about creating an SMTP account (e-mail address) to send e-mail with you will need Microsoft Exchange server to create the e-mail address. Windows Server 2003 has the ability to use SMTP service (in IIS 6.0) to send e-mail to another SMTP server like Exchange. This does not allow you to receive or manage e-mail accounts, for that you would need Exchange (or some other messaging application).    Embed Quote

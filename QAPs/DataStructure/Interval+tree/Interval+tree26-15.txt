@@ -1,1 +1,0 @@
-What are some good tutorials on segment trees?

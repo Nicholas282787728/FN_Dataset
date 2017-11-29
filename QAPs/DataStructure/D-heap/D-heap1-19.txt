@@ -1,2 +1,0 @@
-What books are a good introduction to game theory?
-Most other responses seem to address a non-technical approach. If you're interested in a more straight-up Game Theory introduction, but one that keeps the math fun and light I highly recommend: The Compleat Strategyst by J.D. Williams (yes, that's how it's spelled). 

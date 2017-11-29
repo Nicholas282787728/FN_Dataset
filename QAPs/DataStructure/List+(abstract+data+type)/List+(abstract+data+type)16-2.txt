@@ -1,2 +1,0 @@
-What is Redis?
-Redis is a memory-based key/value storage just like memcached. But Redis supports more data structure, such as key/list, key/set and key/sorted set. You can ether use Redis as a cache service, or as a permanent storage. Even though it bases on memory, it can store more data bigger than memory through page-switch or virtual memory. 

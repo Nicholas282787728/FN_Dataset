@@ -1,2 +1,0 @@
-★What algorithms are common in IP routing?
-Another really common routing algorithm is simple distance vector. BGP is a distance vector protocol, as is RIP. EIGRP is as well, mostly. :-)    Embed Quote

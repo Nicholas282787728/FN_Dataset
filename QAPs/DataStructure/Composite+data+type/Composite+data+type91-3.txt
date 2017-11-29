@@ -1,2 +1,0 @@
-What are the frequently asked basic and complex queries ( SQL) during a tech interview?
-Some of the most common SQL queries I have seen on interviews are: 1) joining more than 3 tables (Solution) 2) finding duplicate records from a table (Solution) 3) second highest salary of employee using rownum (Solution) This article, 10 Frequently asked SQL Query Interview Questions, also contains lots of frequently asked SQL queries from interviews. 

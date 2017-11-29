@@ -1,2 +1,0 @@
-★Is it weird that a web page designer uses Illustrator not Photoshop?
-Not at all. If it's weird to prefer Photoshop or Illustrator it's bizarre to think you need either of them at all when you can design in-browser. With the plethora of breakpoints we now have to consider, not to mention motion design, designing in-browser is usually the best way to form ideas and execute them, especially if you want a swifter, smoother development and QA process.    Embed Quote

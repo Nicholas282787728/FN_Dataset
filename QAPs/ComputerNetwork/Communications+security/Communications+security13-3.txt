@@ -1,2 +1,0 @@
-★In the public key cryptography, what is the number of keys required for secure communication between n parties ?Please give specific answers, Expertise needed!
-In my understanding it's: n+C(2, n) Each party has one key pair. Using asymmetric cipher they exchange symetric key K (number of those keys is equals to number of combinations of 2 items from n items - each two parties need one key). Obviously, you need to change the K key regularly to keep it safe. Therefore the number is actually infinite over time ;)

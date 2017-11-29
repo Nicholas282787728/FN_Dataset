@@ -1,2 +1,0 @@
-How do I map one set of Cartesian coordinates to another set of Cartesian coordinates?
-General mapping between coordinate systems (translations, rotations, scaling, inversion): https://en.wikipedia.org/wiki/Ca... It sounds like you are creating circular regions about each of the five points (all of radius 10 meters) and then asking into which of these various coordinates might fall. You can simply test each coordinate pair using the general equation for a circle cetered at (a, b). This can easily be done in any general programming language. 

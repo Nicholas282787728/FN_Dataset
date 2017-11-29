@@ -1,2 +1,0 @@
-What is data mining?
-Data mining is an interdisciplinary subfield of computer science, is the computational process of discovering patterns in large data sets involving methods at the intersection of artificial intelligence, machine learning, statistics, and database systems    Embed Quote 

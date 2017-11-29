@@ -1,2 +1,0 @@
-★Is there any kind of web ontology for "semantic news"?
-rNews [1] has been recently proposed by the International Press Telecommunications Council (IPTC) as a standard for RDFa metadata for news there is also an OWL ontology for rNews [2] [1] http://dev.iptc.org/rNews [2] http://dev.iptc.org/files/rNews/...    Embed Quote

@@ -1,2 +1,0 @@
-Dennis takes care of private swimming pools. He charges $50 to travel to a home and then $30 per hour. The equation t = 50 + 30h models the total charge t for h hours of service. Which ordered pair (h, t) is NOT a solution for the equation?
-All you have to do is plug the four "h" values (2, 8, 3, and 10) into the function, calculate t for each, then check which of the four answers doesn't have a correct "t" value. 

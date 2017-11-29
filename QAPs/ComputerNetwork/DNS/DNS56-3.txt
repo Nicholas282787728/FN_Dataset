@@ -1,2 +1,0 @@
-★Domain Name System (DNS): Which is better, Bind or PowerDNS?
-Trying to step outside of my PowerDNS shoes. I'd say that if you are into comparisons, you might find it more useful to compare PowerDNS with NSD or Unbound, as they are in my opinion of far higher quality than BIND. PowerDNS excels when you have a lot of zones, NSD will win if you have a few big ones.

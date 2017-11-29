@@ -1,2 +1,0 @@
-★How would it be possible to double the speed of light in a hollow optical fiber?
-Light travels slower in glass than in vacuum, because the photons are constantly being absorbed and re-emitted by the glass atoms. A hollow glass fiber should allow light to propagate nearly as fast as in vacuum, compared to a solid core glass fiber where light travels around half as fast. So you can double the speed of a solid glass fiber compared to a well designed hollow glass fiber, but not vice versa. See this recent article for more information: Page on nature.com    Embed Quote

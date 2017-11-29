@@ -1,2 +1,0 @@
-The sequency of the number is 17. If the second number is 3. What is the first number?
-A sequence is essentially ordinal (regardless of  how the subscripts are written).  There is a first time, a second terms and so on.  So the answer is 17. It is ordinally the first term. 

@@ -1,2 +1,0 @@
-What does e x   mean?
-e^x... is a function which actually means the sum of an infinite series whose any arbitrarily chosen nth term is xⁿ/n! (As sin(x) means the ratio of lenght of a side of a right triangle (opp. to the angle) to the longest side. Which basically means sin(x) is simply a ratio.Nothing very spooky.) e^x =  summation of xⁿ/n! for n=0 to n=∞ where x can be any number and n is always a non nengative & non rational number. 

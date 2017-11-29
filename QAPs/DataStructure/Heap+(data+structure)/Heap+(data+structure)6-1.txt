@@ -1,2 +1,0 @@
-Why does the heap data structure does not get importance in many of the data structure and algorithm books?
-Because it has the tendency to get fragmented after a while, impacting performance and efficiency. 65 Views

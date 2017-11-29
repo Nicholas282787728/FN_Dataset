@@ -1,2 +1,0 @@
-Should I learn advanced data structures like Red-Black/AVL Trees, Suffix Arrays, etc. for coding interviews? I am a 4th year B.Tech undergrad. Any help/pointers would be appreciated.
-There is no actual need to learn them but u should have basic idea when and where to use them and moreover u shd have command over all the advantages and disadvantages of such data structure. 

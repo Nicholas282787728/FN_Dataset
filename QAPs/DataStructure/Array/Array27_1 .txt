@@ -1,1 +1,0 @@
-Are arrays objects in Java?Except primitive types, everything is object in Java. Arrays are not any exception here. Even primitive types have object wrappers. 

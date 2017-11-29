@@ -1,1 +1,0 @@
-How is it possible to write Haskell modules for composite algebraic data types?How is it possible to write Haskell modules for composite algebraic data types? Say that I have a person ADT module that one of its fields is an Address ADT. Is import Address enough to do the job?

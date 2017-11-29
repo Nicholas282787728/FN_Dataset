@@ -1,1 +1,0 @@
-What do I need to add to this C code to show the content of the array using a pointer?#include <stdio.h> int main() {  int arr[] = {1, 2, 3, 4, 5};  int *ip;  int i;  ip = arr;  for( i=0; i<5; i++)  printf("%d: %d \n", i, ip[i]);  return 0; } just add the bold characters. 58 Views  View Upvotes

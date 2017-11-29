@@ -1,2 +1,0 @@
-How do I transition from Haskell to Java?
-By suffering miserably.  The upside is that you'll come to understand better than almost all of your colleagues why Java (and oop more generally) is junk. 

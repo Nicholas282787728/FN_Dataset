@@ -1,2 +1,0 @@
-Why does Windows still use NTFS? Why not ext4, the file system for Linux, since it actively prevents disk fragmentation?
-Because until quite recently, it could perform all of the required tasks and rather well on top of fulfilling the requirements. The new filesystem introduced with Server 2016, ReFS (REsilient FileSystem) adds guaranteed replicas, which NTFS cannot. But NTFS will continue on for at least a few more rounds, as it serves its initial purpose incredibly well: to secure and manage access controls. 1.4k Views · 1 Upvote

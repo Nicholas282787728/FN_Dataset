@@ -1,1 +1,0 @@
-How do I understand red-black trees?You need to understand binary search trees first. R-B trees are just BSTs with a colour variable in each node and rules for re-balancing after each insertion or deletion. 61 Views

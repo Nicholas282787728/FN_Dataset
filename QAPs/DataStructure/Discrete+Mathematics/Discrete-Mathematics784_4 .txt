@@ -1,1 +1,0 @@
-Can you prove O(log(n!))=O(nlogn)  O(log⁡(n!))=O(nlog⁡n) ?Yes. log(n!)=log(n(n−1)(n−2)...2(1))≤log(n n )=nlogn  log⁡(n!)=log⁡(n(n−1)(n−2)...2(1))≤log⁡(nn)=nlog⁡n 259 Views · View Upvotes

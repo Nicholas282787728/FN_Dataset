@@ -1,2 +1,0 @@
-★Do mirrors reflect ultraviolet and infrared light too?
-It probably will reflect IR through UVA. Maybe not UVB. Definitely not UVC unless it is borosilicate glass (Pyrex(r)).  If it is float glass with the float side out the TiN it floated on will leave TiO which will fluoresce under UVC.    Embed Quote

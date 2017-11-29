@@ -1,2 +1,0 @@
-What are the algorithms to generate a random maze that ensures there is always a path between the starting and ending point?
-See Rosetta Code for maze generation codes using the simple Depth-first search algorithm in 35 languages 3.6k Views · 2 Upvotes

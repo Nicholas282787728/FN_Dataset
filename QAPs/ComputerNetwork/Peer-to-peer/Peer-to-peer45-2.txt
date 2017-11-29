@@ -1,2 +1,0 @@
-★Why doesn't Valve adopt a Peer-to-Peer method of distributing Steam games?
-Security would be a headache in a p2p distribution network.    Embed Quote

@@ -1,2 +1,0 @@
-★Pattern Recognition: What are some machine learning resources for a beginner?I am looking for any good source to learn pattern recognition source and easy to understand.
-class for ML https://www.coursera.org/course/ml Lecture notes nicely explained: http://cs229.stanford.edu/materi... After those:   Linear Algebra and its applications - gilbert strang. ( MUST ) patern recognition and machine learning - BISHOP convex optimization - Boyd MLaPP - kevin murphy pattern classification - duda hart stork Lots of resources here: http://dk-techlogic.blogspot.in/...    Embed Quote

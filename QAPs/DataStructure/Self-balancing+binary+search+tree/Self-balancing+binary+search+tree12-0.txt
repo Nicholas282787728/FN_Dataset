@@ -1,2 +1,0 @@
-What is the Big-O for operations in a Hashmap?
-Hash table lookups are O(1) in the average case, and O(n) in the worst case. Hash tables are just one implementation of associative arrays. Associative arrays (also known as dictionaries or maps) are the abstract data structure mapping keys to values. Implementations of associative arrays using self-balancing binary search trees have lookup that is O(log n) in the worst case. 

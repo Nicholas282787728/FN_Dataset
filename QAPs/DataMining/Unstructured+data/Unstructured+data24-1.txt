@@ -1,2 +1,0 @@
-★What are examples of interesting applications of text/NLP analysis on unstructured data in the social entrepreneurship/non profit space?
-I haven't come across a full fledged application in this space, but the indirect use of  application of NLP i.e. Machine Translation, Transliteration is good example of how this is making the digital space inclusive.    Embed Quote

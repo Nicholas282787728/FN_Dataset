@@ -1,2 +1,0 @@
-★Why isn't DNS centralized?
-Name one thing related to the internet that is centralised? I can't. It is simply how the internet is designed. DNS is a service in the same way HTTP is. It is designed to be decentralised and redundant.

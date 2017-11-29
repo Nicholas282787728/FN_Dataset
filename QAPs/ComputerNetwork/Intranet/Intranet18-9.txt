@@ -1,2 +1,0 @@
-★What comes next in enterprise social networks and Intranets?Products like Yammer and Salesforce Chatter are still in their infancy. What will come next? What are the issues the existing problems do not solve well?
-First, intranets and social networks come together in "Social intranets". That is already happening. Next, we have new protocols, that let different enterprise social networks communicate with each other.

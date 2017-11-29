@@ -1,9 +1,0 @@
-The abstract list type L with elements of some type E (a monomorphic list) is defined by the following functions:
-nil: () �?L cons: E × L �?L first: L �?E rest: L �?L
-with the axioms
-first (cons (e, l)) = e rest (cons (e, l)) = l
-for any element e and any list l. It is implicit that
-cons (e, l) �?l cons (e, l) �?e cons (e1, l1) = cons (e2, l2) if e1 = e2 and l1 = l2
-Note that first (nil ()) and rest (nil ()) are not defined.
-These axioms are equivalent to those of the abstract stack data type.
-In type theory, the above definition is more simply regarded as an inductive type defined in terms of constructors: nil and cons. In algebraic terms, this can be represented as the transformation 1 + E × L �?L. first and rest are then obtained by pattern matching on the cons constructor and separately handling the nil case.

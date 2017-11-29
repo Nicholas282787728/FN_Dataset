@@ -1,2 +1,0 @@
-How do I learn data analysis for Python?
-Good question. I've been wondering the same thing myself. I've been working through the material at Quantitative Economics. As the name suggests, it's oriented towards economics, but my own interest is broader and I've still found it quite useful.    Embed Quote 

@@ -1,2 +1,0 @@
-In layman's terms, what is lazy propagation in a segment tree?
-Segment Trees - Lazy Updates This has slides which might help you ) 

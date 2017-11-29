@@ -1,2 +1,0 @@
-★How are MAC addresses assigned?In particular, I'm interested to learn how one might map a MAC address to a specific vendor.
-The first 3 bytes (24 bits) of a MAC address specify an OUI (Organizationally Unique Identifier) which is assigned by the IEEE Registration Authority. The current list of vendors and their OUI assignments are: http://standards.ieee.org/regaut... http://en.wikipedia.org/wiki/Org...    Embed Quote

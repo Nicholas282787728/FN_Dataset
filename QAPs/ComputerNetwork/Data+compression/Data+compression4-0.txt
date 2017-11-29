@@ -1,2 +1,0 @@
-★Is data compression a dual of learning? If not, why?Just like the reverse version of MDL
-I don't know that you can call them duals, but in general, if you can compress well you can learn well, and vice versa.  Chapter 2 of Kearns & Vazirani discusses one direction of this in some detail, but the main result is given in Wikipedia's article on Occam learning.

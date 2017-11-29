@@ -1,2 +1,0 @@
-★How can compressive sensing techniques be applied to a supervised learning application?
-One segment of machine learning literature I've come across is the application of compressed sensing to project high-dimensional label vectors to a low dimensional space and learning classifiers over the reduced space. Here are a couple of papers on the topic: Multilabel Classification via Compressed Sensing [Hsu et al, NIPS 2009] Page on papers.nips.cc Multilabel Classification using Bayesian Compressed Sensing [Kapoor et al, NIPS 2012] Page on microsoft.com    Embed Quote

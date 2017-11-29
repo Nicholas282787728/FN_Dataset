@@ -1,2 +1,0 @@
-★What are the must read papers on data mining and machine learning?
-Wu, Xindong, et al. "Top 10 algorithms in data mining." Knowledge and Information Systems 14.1 (2008): 1-37. This paper shows many important algorithms in data mining. You can study this algorithms one by one.    Embed Quote

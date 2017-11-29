@@ -1,2 +1,0 @@
-★What is a good introduction to data warehouse?technologies, companies, markets, application, notable people, etc.
-You can read a great article by SiSense: BI AND ANALYTICS WITH OR WITHOUT A DATA WAREHOUSE It explains: Modern BI/Analytics architectures, with and without a data warehouse The advantages and disadvantages of traditional data warehousing Traditional architectures, with and without a data warehouse Read here for more info: Free Whitepaper: Business Intelligence & Analytics    Embed Quote

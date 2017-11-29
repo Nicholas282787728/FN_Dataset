@@ -1,2 +1,0 @@
-Are there any minimal functional programming languages?
-TCL? TCL was the first language I used on UNIX, it's friendly and you get a simple GUI toolkit with it (TK). It really depends what you mean by 'minimal', TCL is actually pretty big and rich, but it's simple to use, and friendly to the beginner. 

@@ -1,2 +1,0 @@
-What is data type in Java?
-Data type refers to the type of data in main memory of a computer. It specifies the values which can be stored in an identifier. For help in Java, follow: What is Java? - KnowledgeTPoint 139 Views · 2 Upvotes

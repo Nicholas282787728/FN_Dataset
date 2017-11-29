@@ -1,2 +1,0 @@
-Competitive Intelligence: How can I monitor activity on my competitors' websites?
-Today much of the sites have RSS feeds, but when a site that does not have this type of technology, you can use a tool such as http://page2rss.com/ to create a RSS feed from a simple url. Then you need to use any Rss reader to follow the feed.    Embed Quote 

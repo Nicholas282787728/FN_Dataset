@@ -1,2 +1,0 @@
-★Front-end: What's the best workflow?What's your workflow? Gulp, grunt, yeoman, sass, less, stylus, atomic design, jade, Boostrap? Tell me.
-Grunt, sass, bootstrap. (Just from what you've listed) Also adding Brackets editor, git (github app or command line), jquery and bootstrap javascript plugins.    Embed Quote

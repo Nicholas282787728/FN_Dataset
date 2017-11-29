@@ -1,2 +1,0 @@
-What is the best way to implement an autocomplete search feature when dealing with large data sets?
-Check out Sphinx, Lucene, or Solr. I used Sphinx for autocompleting partial string matches from a database of 5.6 million records, and it was able to return results via AJAX calls in ~300 ms. Sphinx http://sphinxsearch.com/ Lucene http://lucene.apache.org/java/do... Solr http://lucene.apache.org/solr/    Embed Quote 

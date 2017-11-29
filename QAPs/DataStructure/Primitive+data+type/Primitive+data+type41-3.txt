@@ -1,2 +1,0 @@
-Why is the Boolean data type absent in C?
-Because C originally modelled "machine types" and a Boolean isn't a machine type (at least on any machine we commonly use*). The closest you can get in C is a 1-bit-wide bitfield. (* - I recently learned that the PowerPC has something very close, though, in the bits of the condition register, which can be manipulated without using the wider GPR's.) Updated 66w ago • View Upvotes

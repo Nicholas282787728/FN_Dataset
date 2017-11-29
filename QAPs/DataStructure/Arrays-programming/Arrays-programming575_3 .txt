@@ -1,1 +1,0 @@
-How do I print pascal's triangle in C++ using 2D arrays?Each element is sum of above two consecutive elements. So, assign a unique index to each of them. 555 Views

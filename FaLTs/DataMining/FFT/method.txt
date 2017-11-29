@@ -1,1 +1,0 @@
-Random multinomial logit (RMNL) Sparse regression, LASSO Regularized trees e.g. regularized random forest implemented in the RRF package Decision tree Memetic algorithm Auto-encoding networks with a bottleneck-layer Many other machine learning methods applying a pruning step.

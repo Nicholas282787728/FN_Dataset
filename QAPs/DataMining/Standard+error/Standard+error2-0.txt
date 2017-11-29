@@ -1,2 +1,0 @@
-★What is the significance of standard error?
-Standard error of a sample statistic is an estimate of the standard deviation of the sampling distribution of that sample statistic. It helps you to find out confidence intervals for that statistic at different significance levels.    Embed Quote

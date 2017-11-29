@@ -1,2 +1,0 @@
-Who are the best VCs in the field of analytics / data mining / databases?
-I created a map of Big Data VCs with the Crunchbase data. It's not possible to drill down to the individual investments, but maybe this could serve as an overview to the landscape: Big Data Investment Map 2014    Embed Quote 

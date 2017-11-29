@@ -1,2 +1,0 @@
-★How are IP addresses allotted to computers?
-There are two levels to this question. Your modem assigns your computer an internal IP address (due to NAT) using typically DHCP, which dynamically selects and renews IPs. Your ISP itself has a block of IP addresses which they own. Using DHCP they provide your modem with an IP address.

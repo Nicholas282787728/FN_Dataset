@@ -1,2 +1,0 @@
-★Are there any startups putting theirs business focus to explore the Clay Shirky "It's Not Information Overload. It's Filter Failure." insight?
-This is what we are trying to do with Needium. Our model is to use Twitter as a data stream of needs instead of as a medium where you need to follow someone (or have them follow you). We did not start (conceptually) from "there's too much let's remove some", it was more "there is so much relevant info you are not seeing" but the end result is the same.    Embed Quote

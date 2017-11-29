@@ -1,2 +1,0 @@
-How do you judge a JavaScript programmer by only 5 questions?
-(1) Do they know how to debug JavaScript and optimize CPU time and memory leaks using Google Developer Tools? (2) Do they consider dependency management and scoping? (3) Are they able to recreate any random jQuery Plugin you pick? (4) Check how well they understand in-built functions. (5) Linting and Unit Testing. Functional programming will carry bonus points :p 

@@ -1,2 +1,0 @@
-What are some technological things that even computer programmers do wrong?I will get things started. Kilobytes (KB), Megabytes (MB), Gigabytes (GB) are used incorrectly. These are human (base-10) numbers, so each represents 1,000. Computers use binary (base-2), so each should represent 1,024. The proper notation is Kibibytes (KiB), Mebibytes (MiB), Gibibytes (GiB). The same applies for bits.
-Fix problems with my PC. I still have no idea how the damn thing works, and just call the IT department whenever it misbehaves. Oh, and Microsoft Excel formulas. Pure voodoo. 

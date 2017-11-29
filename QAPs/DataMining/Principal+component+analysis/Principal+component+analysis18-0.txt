@@ -1,2 +1,0 @@
-★What are the motivations for the use of "Principal Components Analysis" besides the computational ease of finding them?
-If you see data that looks like this: Are you really saying that the two principal component vectors (superimposed) do not appear to arise organically from the data?  Should we analyze the data based on its original coordinates instead?    Embed Quote

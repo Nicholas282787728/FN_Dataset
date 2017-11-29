@@ -1,2 +1,0 @@
-★What progress has there been in reinforcement learning and neural networks?
-DeepMind have recently developed a RL algorithm that uses deep learning that can learn to play any Atari game. Page on toronto.edu DeepMind Technologies    Embed Quote

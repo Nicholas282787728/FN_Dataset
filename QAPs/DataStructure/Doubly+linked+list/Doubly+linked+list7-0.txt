@@ -1,2 +1,0 @@
-Why is a Java LinkedHashMap or LinkedHashSet backed by a doubly-linked list?
-One obvious advantage is deletion in O(1) time. 

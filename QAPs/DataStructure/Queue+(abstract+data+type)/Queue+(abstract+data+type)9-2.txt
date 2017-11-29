@@ -1,2 +1,0 @@
-What is Queue?
-Consider a regular queue,say a queue in front of a ticket counter and let all the person in the queue be the elements in the array. Now,a new guy(insertion of an element) comes.Where will he stand? Ofcourse in the back.Similarly when a new element is inserted it is added at the rear position of the array. Now the guy at the front gets the ticket and leaves(deletion).Deleting an element is done from the front. Now the second element(guy) is at front,therefore increment the front variable so that the front variable points to the second guy. 

@@ -1,2 +1,0 @@
-What is a program in C/C++/Java to find the shortest path between two nodes in a graph input as an adjacency matrix and the nodes traversed in that shortest path?
-It depends upon the edge weights. If the graph has unit edge weights, it can be easily done with Breadth-first search. If the graph has non-negative edge weights, Dijkstra's algorithm is what you are looking for. If the graph can have negative edge weights, look into Bellman–Ford algorithm. 

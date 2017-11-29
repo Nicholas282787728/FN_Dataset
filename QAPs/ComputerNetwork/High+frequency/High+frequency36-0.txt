@@ -1,2 +1,0 @@
-★How is game theory used in high frequency trading?
-The same way game theory is used in regular trading- bartering. Basically, trading/HFT is a very simplistic form of bartering/exchange. Understand how to barter; understand how to trade.

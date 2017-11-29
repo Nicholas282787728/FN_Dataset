@@ -1,2 +1,0 @@
-★Linux Kernel: How much processor time does a process switching cost to the process scheduler?Assume a linux scheduler.
-This is a good broad answer: The Birth & Death of JavaScript Ignore the title.  It's relevant to the question.  According to a paper by Microsoft, it may be 25%+ if you count overhead from virtual memory as well as the context switching and scheduling.

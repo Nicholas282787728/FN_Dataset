@@ -1,1 +1,0 @@
-How do I check if array is empty or not?If an array is empty, it looks like you can't check it's length using ".length". What's the best way to check if an array is empty? 139 Views  View Upvotes

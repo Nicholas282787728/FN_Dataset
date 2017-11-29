@@ -1,2 +1,0 @@
-What are some limitations/disadvantages of functional programming?
-I would select any language based on its fit with the specific problem to be handled. The more complex the processing, the more likely I would be to use a functional programming language. By contrast, the more the program was typical of most web applications (which I often characterize as an elaborate user interface to nothing), the less likely I would be to use a functional programming language. 

@@ -1,2 +1,0 @@
-★Business Intelligence: ETL : which is the best open source ETL tool to start working ? specially if we are kick starting a BI project
-Try Scriptella ETL(http://scriptella.javaforge.com) - An open source (Apache licensed!) fast, powerful and a simple ETL written in Java. It provides one-liner integration with Java and also supports Spring.    Embed Quote

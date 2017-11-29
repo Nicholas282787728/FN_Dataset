@@ -1,2 +1,0 @@
-What are the top ten things a beginner must know about JavaScript?
-Javascript is a language first class! It is possible: var integer = 1; var string = "value"; var fn = function() { /* function code */ }; Updated 1 Nov 2014 • View Upvotes

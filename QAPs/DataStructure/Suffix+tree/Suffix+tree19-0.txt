@@ -1,2 +1,0 @@
-What is a Java implementation of the Longest Common Substring problem using suffix trees in linear time?
-Algorithms 4th edition by Robert Sedgewick and Kevin Wayne is a great book for studying data structures and algorithms(especially if you are familiar with Java). I have found the code examples in the book to be very helpful and clean. Here is the Longest Common Substring code. LongestCommonSubstring.java SuffixArray.java You might also see other algorithms implementations in the book here. Java Algorithms and Clients. 

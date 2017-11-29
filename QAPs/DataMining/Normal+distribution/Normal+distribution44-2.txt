@@ -1,2 +1,0 @@
-★What are the proofs that the IQ curves follow a normal distribution?
-The tests are built/calibrated to follow it. If the test doesn't have results that follow normal distribution curve then it means it's biased somewhere. It doesn't serves its purpose.    Embed Quote

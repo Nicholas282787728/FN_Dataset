@@ -1,2 +1,0 @@
-★Why is ANOVA called ANOVA when it should be ANOME (analysis of means, because it compares means, not variances?)
-Because while it compares means, it analyzes variances. Suppose you have 3 groups and one measurement. Then there will be some variation within each group and some between the groups. ANOVA compares the variation between to the variation within.  If the former is large compared to the latter, then there is a lot of evidence of a group difference. If the former is small relative to the latter, then there is much less evidence.    Embed Quote

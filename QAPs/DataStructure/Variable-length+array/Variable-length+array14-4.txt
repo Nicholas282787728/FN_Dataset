@@ -1,2 +1,0 @@
-What is the best comment to a programmer who is still stuck at C-language (rather than C++)?
-If he is able to do his job using C only, who are we to make any comment. 

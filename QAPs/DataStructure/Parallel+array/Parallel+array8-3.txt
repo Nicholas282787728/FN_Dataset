@@ -1,2 +1,0 @@
-Object-Oriented Programming: Is it possible to learn Java without learning C/C++?
-Java was the first language I learned.  The first language is always the hardest, because you have to learn the principals of programming along with it, but I managed and I'm sure most other people could too. 

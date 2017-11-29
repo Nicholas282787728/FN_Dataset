@@ -1,2 +1,0 @@
-★What is the difference between telecommunication and networking?
-Tele = Distance . Telecommunication is communication at a distance. This may be through cable, through satellite, through wireless and even through telepathy ;-) Networking is the media enabling this communication. The network nodes may be telephone exchanges, satellites or various computer servers    Embed Quote

@@ -1,2 +1,0 @@
-How can we make it possible that two websites, hosted on a single server, use a single database?
-YEAH RANJITH IS RIGHT BUT IN I THINK IT DEPENDS ON YOUR HOSTING SERVER WHICH YOU ARE USING BECAUSE THEY HAVE THEIR OWN COMPLICATIONS WITHOUT EXPLANATION. 

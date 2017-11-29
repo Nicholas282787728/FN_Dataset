@@ -1,2 +1,0 @@
-What is the best, reasonably priced business intelligence application?
-Well the question would be - what should the BI you are looking for look like? There are a few reasonably priced tools in the market for SMBs now, but what exactly you will require them to do? Would that be a visualization or maybe advanced analytics? If you just require some analytics, I would recommend PowePivot which is totaly free with your purchase of Microsoft Office Excel license!    Embed Quote 

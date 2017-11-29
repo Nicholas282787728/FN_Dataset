@@ -1,2 +1,0 @@
-What does the word "topological" mean in your field of research?
-Where I'm sitting (High Performance Computing), 'topological' most often refers to properties of the organization of elements supported by an interconnection technology, i.e. the spatial or logical structure of a Network topology. 

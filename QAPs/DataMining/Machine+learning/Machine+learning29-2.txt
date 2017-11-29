@@ -1,2 +1,0 @@
-★Why isn't supervised machine learning more automated?
-The simple answer is that (1) the input data is usually requires extensive pre-processing (2) the features space is not always obvious (3) mis- labelled data can cause significant errors and (4) adding spurious features can have disastrous results We tried to automate this away back in 2000 http://es.slideshare.net/charles...    Embed Quote

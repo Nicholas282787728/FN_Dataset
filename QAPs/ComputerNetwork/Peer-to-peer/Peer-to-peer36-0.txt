@@ -1,2 +1,0 @@
-★Is there any payment solution for peer-to-peer online marketplaces in Europe?Such as Balanced in U.S
-I agree with Justin Benson, both in enthusiasm to provide a shameless plug for my company since I was asked to answer this question, and in recommendations for GoCardless and PayPal as sufficient options for processing payments for marketplaces in  Europe.  That said, Balanced does have plans to launch in Canada, the UK and EU soon. We're collecting feedback via Github. Please share your thoughts: Balanced Github Forum    Embed Quote

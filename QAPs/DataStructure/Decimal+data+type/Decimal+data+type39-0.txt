@@ -1,2 +1,0 @@
-Why do we need to use a BigInteger class in programming contests when a double data type can hold values almost up to infinity?
-While double can hold big values, it cannot hold them in a precise manner. It will probably store the same 1000000000000000000000000000000000000 and 1000000000000000000000000000000000001. BigInteger, on the other hand, will precisely remember the number, and will give you the right value. 

@@ -1,2 +1,0 @@
-★Can multiple small speakers, instead of a single big speaker be used to generate low frequencies at moderate volume levels?
-Please note that the size of the speakers has direct bearing on its frequency response. Smaller the speaker( I mean the diaphragm), better is the high frequency response. They are tweeters. Bigger the speaker, better is the Low frequency response. They are woofers. So, in your case, the low frequency , the Bass may suffer.    Embed Quote

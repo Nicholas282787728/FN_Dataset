@@ -1,2 +1,0 @@
-★Who will be the leading companies of the Internet of Things?Everything relating to the ethos of connecting the worlds devices to the web makes sense. I wonder in what timeframe it will play out? And who will be the leaders of this wave of technology.
-IoT demands open standards and open software. Kaa project is an example of a 100% royalty-free IoT platform. The platform is created for or building, managing, and integrating connected things with the Internet of Everything. It is licenced under Apache 2.0. To learn more, please visit: Kaa Open Source IoT Platform

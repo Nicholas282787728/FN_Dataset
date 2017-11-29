@@ -1,2 +1,0 @@
-★Will I ever be able to reach a respectable level as a software engineer if I am not proficient with command-line and Unix environments?
-The unix environment *looks* tough, but in all honesty it's just patience and persistence that will get you good at it. It's definitely not rocket science. It's been through the scrutiny of the open source community and has survived the test of time which has optimized it for ease of use and efficiency. Just use it more regularly, and you'll be fine.

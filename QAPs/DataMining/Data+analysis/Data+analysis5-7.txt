@@ -1,2 +1,0 @@
-How do I learn data analysis for Python?
-I was recently pointed at the "Gallery of Interesting Python notebooks" as a good place to put a set of IPython notebooks I had built. There is a section on Statistics, Machine Learning and Data Science that can be useful as a learning tool: [https://github.com/ipython/ipyth...]    Embed Quote 

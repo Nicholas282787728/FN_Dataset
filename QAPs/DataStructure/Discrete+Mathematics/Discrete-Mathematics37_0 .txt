@@ -1,1 +1,0 @@
-What are the applications of discrete math in computer science?Set and graph theory, combinatorics, formal logic, that sort of thing. I honestly think of Discrete as basically CS, hardly even normal math.. 221 Views  View Upvotes  Answer requested by Yash Sharma

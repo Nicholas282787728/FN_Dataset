@@ -1,2 +1,0 @@
-★Do Play Framework support comet?I mean 2 way channel communication as Tornado?
-It's implement by AJAX long polling but not 2 way channel communication such as Lift Comet. Play will support Response streaming in the feature.

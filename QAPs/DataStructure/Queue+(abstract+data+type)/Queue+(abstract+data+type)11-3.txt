@@ -1,2 +1,0 @@
-In OOP, what is the difference between an abstract data type and a class or object?
-An object is like a television. A class is like the blueprints for the television. An abstract data type is a TV show - it can't exist on its own, but can be added to the television. 

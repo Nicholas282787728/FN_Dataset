@@ -1,2 +1,0 @@
-★What is the best free online service for a simple CMS?
-For simple sites made by non-IT-people there is www.Edicy.com where you can get up and running immediately, its all hosted, no hassle, you can change design and tweak the site design and delegate content updating later as you grow. If you are building site with large news/blog component then wordpress is probably better. There is also number of 1-page / 1-user type of sites for very small sites and you have number of options if you want to host the site yourself.    Embed Quote

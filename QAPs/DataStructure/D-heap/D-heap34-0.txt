@@ -1,2 +1,0 @@
-What do "call" and "pass" mean in Java?I hear these terms "call" and "pass" a lot but confused on what they actually mean. Could someone please provide a Java code example of when something is "called" and when something is "passed". Thank you
-"Call" means invoke a function, i.e. myFavoriteFunction(); . You "pass" variables into functions. myFavoriteFunction(a). In this example, a was passed into myFavoriteFunction. 

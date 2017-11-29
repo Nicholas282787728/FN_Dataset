@@ -1,2 +1,0 @@
-★How can I connect to an FTP server with a Mac?
-AnyClient is another good FTP client.  Platform independent and supports FTP, FTPS, SFTP and Amazon S3.   http://www.anyclient.com

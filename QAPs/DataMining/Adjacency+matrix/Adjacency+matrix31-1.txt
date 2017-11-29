@@ -1,2 +1,0 @@
-★What are some cool applications of eigenvectors?Bonus points for anything that is really "out there."
-Eigenface decomposition of a 2013 Korean beauty pageant contest: Miss Daegu 2013 Contestants Face Morphing The author of that article uses some standard techniques from image processing, such as eigendecomposition to find the spectrum of eigenvalues, whose rapid decay indicates low rank, and also orders the images in order of similarity, or maximum alternating dissimilarity.    Embed Quote

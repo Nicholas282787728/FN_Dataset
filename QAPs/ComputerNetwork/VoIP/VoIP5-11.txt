@@ -1,2 +1,0 @@
-★What is the best VoIP infrastructure service, API or open source solution to use for a mobile VoIP app?The mobile app is a SIP client.
-I will recommend opensip.org as server & on mobile client you should use PJSIP codec in your softphone development. And hire a good VoIP mobile application development for your future project.. Let me know if i can help out. All the best    Embed Quote

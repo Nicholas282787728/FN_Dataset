@@ -1,2 +1,0 @@
-Where can i get stock market data set for data anlysis?
-Try looking at Quandl (http://www.quandl.com). It's a 'search engine' of 5,000,000 curated financial, social, and economical data sets. Bonus, you can download directly to Python, MATLAB, Excel, R, and others.    Embed Quote 

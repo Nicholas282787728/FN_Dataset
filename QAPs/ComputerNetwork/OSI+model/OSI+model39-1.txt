@@ -1,2 +1,0 @@
-★Does the Internet use the TCP/IP or the OSI model?
-They are not alternatives; they are different things. OSI is a model: it can describe any protocol or architecture. TCP/IP is a specific protocol    Embed Quote

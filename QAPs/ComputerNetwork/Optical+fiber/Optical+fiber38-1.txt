@@ -1,2 +1,0 @@
-★What is the difference between 100 MBPS on optic fiber and 100 MBPS on coaxial cable?
-Tony Li has given a good answer but as I was asked to answer: Coaxial cable is more liable to interference than optical fibre Fibre has less loss and can cover longer distances without amplification Coax cable has a higher cost per meter because of the cost of copper Fibre generally has a higher termination cost because putting the connectors on isn't as easy as copper Fibre can be upgraded to speeds far beyond coax Fibre is possibly lighter weight    Embed Quote

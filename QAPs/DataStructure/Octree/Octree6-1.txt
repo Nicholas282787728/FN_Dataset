@@ -1,2 +1,0 @@
-What is one way programming has helped you look at the world differently?
-Programmers walk around wondering how systems are built. Is the store cash register an embedded system, or a linux app, or maybe even a web app?  Why does the airport checkin computer look like it was built in the 1970s, and why does the flight attendant have to type for 5 minutes just to read your ticket? What controls the "Jumbotron" display and what language are the animations designed in? Inquiring minds want to know. 

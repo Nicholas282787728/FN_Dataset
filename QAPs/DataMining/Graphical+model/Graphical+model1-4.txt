@@ -1,2 +1,0 @@
-★What are some applications of Probabilistic Graphical Models?
-Web Information Extraction - Extracting structured data from html pages. This paper describes the use of Hierarchical CRFs for Web Information Extraction - http://research.microsoft.com/pu... Applications of extracting information from the web include: Local Search - where business entities (business name, address, phone, etc.) are extracted from web-pages. Product Comparison Shopping - where the product attributes (prices, etc.) are extracted from multiple web-sites for a product you want to buy.    Embed Quote

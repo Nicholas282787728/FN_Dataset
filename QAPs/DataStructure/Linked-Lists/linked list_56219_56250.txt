@@ -1,1 +1,0 @@
-how to find middle element of link list in one pass ? by use 2 pointer . increment one at each iteration and other at every second iteration . when 1st pointer point to end of link list , go 2nd pointer will point to the middle mode of link list . 

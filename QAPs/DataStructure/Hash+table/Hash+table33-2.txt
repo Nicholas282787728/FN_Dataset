@@ -1,2 +1,0 @@
-Why is a hash table faster than a for loop?
-As a SQL Developer the the question that I interpreted when I saw it is "Why are hash table lookups faster than a nested loop lookup?". This answer should encompass that. In Big O notation a nested loop is O(N^2) whereas a Hash Join is O(N) (Or O(1) if you have a good implementation of hashes) if you have your hash table sorted this will get you a linear performance gain over a quadratic or better if ordered. Easy cheat sheet for it. Big-O Algorithm Complexity Cheat Sheet ... (more)

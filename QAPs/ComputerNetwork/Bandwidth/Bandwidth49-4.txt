@@ -1,2 +1,0 @@
-★How much would it cost to crawl 1 billion sites using rented AWS servers/bandwidth?
-You might not be able to crawl it so easily with Amazon. To do it fast, you'll need multiple instances working in parallel and Amazon limits you to 20 instances. That being said, if you're thinking at billion level, I'm sure you could negotiate something custom with Amazon but, frankly, I'd use a prebuilt third party service for this. Try Bobik for instance (www.usebobik.com)

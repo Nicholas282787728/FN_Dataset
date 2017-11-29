@@ -1,2 +1,0 @@
-What is Redis?
-Please find details on How to instal Redis server on Fedora/CentOS server. How to Install and Configure Redis-Server on Centos/Fedora Server 

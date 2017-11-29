@@ -1,2 +1,0 @@
-★Why are the wireless sensor network standards (Zigbee, Zwave) mostly based on 802.15.04? What characteristics of 802.15.04 make it a favorite for wireless sensors?
-Says who?  I recently had a detailed conversation with reps of a well established silicon vendor.  The company had spent major capital in this space.  BLE, not surprising really, has the most traction by far of any of the competing technologies in this space.    Embed Quote

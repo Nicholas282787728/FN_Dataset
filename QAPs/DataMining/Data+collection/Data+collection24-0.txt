@@ -1,2 +1,0 @@
-Which is the best way to do mobile data collection?
-My company mParticle just posted a piece on the 10 Commandments of app tagging, which is the first step of mobile app data collection. It's a good framework for thinking about mobile app data. 10 Commandments of Mobile App Tagging (part 1 of 2) – mParticle Blog    Embed Quote 

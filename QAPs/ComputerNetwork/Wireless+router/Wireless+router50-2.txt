@@ -1,2 +1,0 @@
-★How do I get a better signal from my wireless router?
-You could try a beercantenna. Signal strength is dependent on quality of the components, RF saturation point, other noise in the environment, physical obstructions, and the 802.11 standards that are mutually supported, ie (do the router and device support n, ac etc)    Embed Quote

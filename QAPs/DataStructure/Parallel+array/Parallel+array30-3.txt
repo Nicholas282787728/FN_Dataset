@@ -1,2 +1,0 @@
-Are all O(n) algorithms "Embarrassingly parallel"?
-No, take for example the task of calculating the maximum number in a list. This can easily be implemented using a sequential O(n) algorithm but is not embarrassingly parallel since in a parallel algorithm, communication between subtasks is required to get the final answer. 

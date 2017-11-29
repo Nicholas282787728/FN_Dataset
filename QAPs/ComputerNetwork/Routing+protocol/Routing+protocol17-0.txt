@@ -1,2 +1,0 @@
-★How do I study the code of Optimized Link State Routing Protocol (OLSR)?
-Download one of the implementation of the OLSR protocl for linux distro go to link OLSR Routing Protocol (RFC3626)    Embed Quote

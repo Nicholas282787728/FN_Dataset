@@ -1,2 +1,0 @@
-★I have RJ45 cable connection from my ISP, but I have router with DSL (means RJ11) port. Can I connect it?
-No. You can however mod one of the ethernet (RJ45) outputs ports in the dsl router to an ethernet input port and then plug the ISP line in it.

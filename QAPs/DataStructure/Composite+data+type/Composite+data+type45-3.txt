@@ -1,2 +1,0 @@
-What is the difference between SimpleDB and DynamoDB?
-From an hardware prospective DynamoDB is made with SSDs. Updated 5 Nov 2013 • View Upvotes

@@ -1,2 +1,0 @@
-How do I find if a perfect matching exists in a graph G?
-There is a simpler way than running the maximum matching algorithm and checking if it's perfect or not. Check the Tutte matrix. You can randomly choose the X[i][j]. Since we only need to check whether its determinant is zero, we can do all operations of Gaussian Elimination (used to calculate the determinant) modulo a large prime, such as 10^9 + 7. This way we can solve the problem in O(V^3). 

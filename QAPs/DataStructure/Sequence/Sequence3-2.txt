@@ -1,2 +1,0 @@
-Look at this sequence: 80, 10, 70, 15, 60, ... What number should come next?
-The answer wiki is wrong. Any number can come next. This is a "read my mind" game and we are not in a position to be successful in reading the mind of the perpetrator (the OP or the exam author or homework author the OP is quoting). I have answered similar questions before, and given explanations of why any number will do:  Ill-posed Problems: What is the next number in the series: 1,3,8,15,120,...? 

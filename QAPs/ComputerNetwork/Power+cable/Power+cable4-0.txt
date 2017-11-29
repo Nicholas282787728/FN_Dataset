@@ -1,2 +1,0 @@
-★What does the transformer on my laptop power cable do?To be specific: does this convert the (presumably powerful) current from the wall socket into something less lethal to humans and electronics?
-It converts the higher voltage alternating current to lower voltage direct current which can be used to charge the battery and run the electronic circuits within the computer. Most of the components in the laptop require 12 Volts or less to operate. The transformer is external to reduce the size and carrying weight of the machine more than as a safety measure.    Embed Quote

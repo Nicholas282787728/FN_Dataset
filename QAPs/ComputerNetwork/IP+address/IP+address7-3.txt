@@ -1,2 +1,0 @@
-★How are IP addresses mapped to location?http://whatismyipaddress.com/ tells me I am in Stanford, CA.  How does it know this, based on IP address?
-All IP addresses are registered worldwide so there will be no duplicates. Depending on the ISP, a set of addresses are registered for a city, or for a region, but most times they wrongly assign addresses.

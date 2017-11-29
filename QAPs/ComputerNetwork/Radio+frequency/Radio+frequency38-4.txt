@@ -1,2 +1,0 @@
-★What is the most commonly available tool that can measure & characterize the noise floor of the 2.4 GHz radio frequency band?
-Any those realtek chipset tv dongles that gets into that range can used as a spectrum analyzer with the right software.    Embed Quote

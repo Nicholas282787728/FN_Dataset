@@ -1,2 +1,0 @@
-★What is the state of the art of the unsupervised learning? And the online unsupervised learning ? Are there any good papers or materials suggested to read?
-the state of unsupervised learning is very exciting to me see my blog for something good to read, and references therein about the latest developments in convex nmf Advances in Convex NMF: Part 1 Linear Programming    Embed Quote

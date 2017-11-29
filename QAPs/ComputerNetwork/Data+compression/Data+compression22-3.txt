@@ -1,2 +1,0 @@
-★Data Compression: Does bzip2 work as well on gzipped files as it does on uncompressed files?Is there any difference in net compression depending on whether you apply better compression algorithms in sequence or start with the raw data and go straight to the best compression algorithm?
-Compressing compressed data will almost certainly never work. In fact in a compression library I wrote, we would uncompress PDF files (which use ZIP inside) and recompress them with better algorithms to reduce size.

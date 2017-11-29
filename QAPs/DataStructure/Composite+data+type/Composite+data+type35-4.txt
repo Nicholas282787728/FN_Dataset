@@ -1,2 +1,0 @@
-What are the key differences between NASA's MAVEN and ISRO's Mangalyaan Mars Orbiter mission?
-Here is a spec by spec comparision of ATLAS-V and PSLV-C25: Is it justified if ATLAS-V (MAVEN) and PSLV-C25 (MOM) are compared? 

@@ -1,2 +1,0 @@
-★How can autoencoders be applied in a reinforcement learning setting?
-I believe auto-encoders learning procedure is based on reinforcement of average reconstruction cost of the given instances. If you define something more specific, please enhance the question    Embed Quote

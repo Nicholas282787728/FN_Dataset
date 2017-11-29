@@ -1,2 +1,0 @@
-What is a lattice in discrete mathematics?
-A lattice is a partially ordered set with some additional conditions.  That's probably what you're running into. 

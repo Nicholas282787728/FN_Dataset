@@ -1,2 +1,0 @@
-Is hash table a linear data structure?
-yes it is a linear data structure. But in some implementation particularly for small data the it can be non linear. for small data the hash function constant time is reduced, this increases the collision so there the data will be stored in some other non linear data structures like a b-tree. 397 Views · 1 Upvote · Answer requested by Chetan Kamani

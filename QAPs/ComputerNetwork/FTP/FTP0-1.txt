@@ -1,2 +1,0 @@
-★What is FTP?
-It is acronym for File Transfer Protocol. FTP is used to transfer files between computers on the network. FTP is most commonly used to download a file from a server using the internet or uploading a file to a server

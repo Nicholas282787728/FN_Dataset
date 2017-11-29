@@ -1,2 +1,0 @@
-★How to normalize url in python?
-you can use t.replace(" ","+") replace space character by "+". If there is use case of multiple spaces you can first split using space and then join using +    Embed Quote

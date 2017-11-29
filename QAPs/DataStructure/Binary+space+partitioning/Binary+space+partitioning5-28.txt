@@ -1,2 +1,0 @@
-What are some of the most ingenious algorithms in computer science?added bonus if the algorithm runs in constant time
-There is an algorithm which finds all the palindromes in a sequence in linear time by building upon symmetric properties, and using mathematical induction. Name of the Algorithm is Manacher's Algorithm. Here's a very nice tutorial about it: http://www.leetcode.com/2011/11/... . 

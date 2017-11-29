@@ -1,2 +1,0 @@
-★Why is the whole cellular network called cellular?Like idea cellular..why cellular
-Because current telecommunication networks protocols divide the whole area of coverage area into individual cells (basically a unit of uniformly divide area)  with a Base station in each one as per the range of transmitting/receiving antenna. Hence the name "CELLULAR NETWORKS" is derived from here. For more info check out : Telecom Infrastructure/Networks

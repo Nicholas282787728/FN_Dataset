@@ -1,2 +1,0 @@
-★What happen if suddenly Android support open mesh network for it wi-fi tethering in their next release?
-Cellphones wouldn't make a particularly good platform for open mesh networking.  The Wifi antenna has high energy consumption when it's active, so a cell phone would only last 2 or 3 hours if it was actively routing on an open mesh network.    Embed Quote

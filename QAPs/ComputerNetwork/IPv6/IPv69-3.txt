@@ -1,2 +1,0 @@
-★How will IPV6 affect China's Great Firewall?
-This 'bug' of GFW has been there for years. One of the reasons I could think of is that IPv6 is available only in colleges and research institutes in China until very recently. They need access to the Internet rather than a whitelisted subset, and GFW let them do so. When ISPs offer IPv6 addresses to home and business users at scale, this 'bug' would be immediately fixed.    Embed Quote

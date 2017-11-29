@@ -1,2 +1,0 @@
-★Routing Protocols: Do Cisco or Juniper routers log LDP state changes?  In other words, is there a log file that tracks all label state changes on a {label,next hop} granularity which can provide a change history?
-I don't think by default.  Perhaps sending the debug output to a syslog server, and then executing a "debug mpls ldp prev-label"?  That might get you closer to what you're looking for.    Embed Quote

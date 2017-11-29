@@ -1,2 +1,0 @@
-★What is a low-cost alternative to GPRS for very low data rate apps?
-You could try the low data-rate networks that are used for pagers -- good coverage, and not so popular these days, so might be very low cost.

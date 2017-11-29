@@ -1,2 +1,0 @@
-In theoretical computer science, what is considered a sparse graph?
-A sparse graph is one with a relatively small number of edges. 

@@ -1,2 +1,0 @@
-★How can I configure static DHCP on a Netgear WNDR3400v3?
-what exactly you want to do....as the anonymous said..the name itself tell you all DYNAMIC. Host Config Protocol.....how would you be able to do static on that....maybe if you could tell what exactly you want to do would be great. cheers

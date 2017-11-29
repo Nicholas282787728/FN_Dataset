@@ -1,2 +1,0 @@
-★How do I use IPv6 in Windows 7?I use openDNS and have Windows 7. When i go to, for instance, v6.facebook.com or ipv6.google.com it doesn't work. How do I use IPV6 in Windows 7?
-The Windows 7 computer needs to establish a 6to4, ISATAP or Teredo tunnel to an IPv6 capable network (which is generally not a good idea unless you need to reach IPv6 only hosts), or the Windows 7 device needs to be directly attached to  an IPv6 capable subnet, which is unusual for most networks.  Your next question should be "My service provider is $ISP, how do I get IPv6 from them?"    Embed Quote

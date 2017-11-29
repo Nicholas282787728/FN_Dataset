@@ -1,2 +1,0 @@
-★How do I learn about time series analysis?
-Hamilton's book is the classic: Time Series Analysis: James Douglas Hamilton: 9780691042893: Amazon.com: Books.  It has a reputation for being a bit dry, but in my opinion, it is the best resource for learning time series in a thorough way.  I would recommend just ploughing through that book, coupled with getting your hands on some actual time series of interest and running the tests mentioned in the book in R as you learn about them.    Embed Quote

@@ -1,2 +1,0 @@
-★What is the best Twitter client for Linux?
-Even when the distro that i use had a client by default, I personally install turpial when I want to use the microblogging

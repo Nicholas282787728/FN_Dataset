@@ -1,2 +1,0 @@
-★What is my IP address?What is my Google hangouts ip address
-These days the ip address is very irelevant, you don't have to worry about it unless you are testing a proxy or something else, which is a bad thing to do. Simple, you can use a website like http://www.ipgp.net or http://hostip.info or http://www.ripe.net or any other website. Another way still simple is to go to your active connection in your taskbar, and select status, go to details and you can see your assigned ip address, but in some cases it is not the same with the public IP address you get.

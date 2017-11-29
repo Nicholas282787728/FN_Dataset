@@ -1,1 +1,0 @@
-Hypothetically, how much storage would be required to store a complete data dump of the Facebook Social Graph?Please presume that we are aiming for something usable... not just a minimum storage requirement. :)

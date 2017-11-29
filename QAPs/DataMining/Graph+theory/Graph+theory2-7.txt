@@ -1,2 +1,0 @@
-★What are the best resources to learn about graph theory?Introductory material with an aim of understanding structure of social networks.
-For the basics this book is amazing http://www.amazon.com/Discrete-M.... This is available as a ebook here http://www.cse.iitd.ernet.in/~ba... For a grad student text : Book by Reinhard Diestel is brilliant http://diestel-graph-theory.com/    Embed Quote

@@ -1,2 +1,0 @@
-★Hidden Markov Models: What are some fast HMM implementations?
-For a PGM, belief propagation algorithms are pretty fast.    Embed Quote

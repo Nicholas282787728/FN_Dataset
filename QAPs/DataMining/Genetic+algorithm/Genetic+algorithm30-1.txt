@@ -1,2 +1,0 @@
-★Which artificial algorithm is better? Genetic algorithm or Particle swarm optimization? and why?
-You cannot comment on the algorithm method directly. It depends on a lot of factors such as Data set involved, Initial approximation from where the iteration begins, Objective functions involved, threshold levels. You may see certain research manuscripts where they talk GA performs better compared to PSO or vice versa. But that is restricted to their work. In short, it cannot be generalized!    Embed Quote

@@ -1,2 +1,0 @@
-★Do you know of any sign-in & registration forms that show password as plain text (unmasked)?Jakob Nielsen suggested it in 2009 ("Stop Password Masking"), and Luke W concurs this to be a good idea, but are there any real-world implementations of such "visible password" fields?
-Nope. Not as of this writing. :)    Embed Quote

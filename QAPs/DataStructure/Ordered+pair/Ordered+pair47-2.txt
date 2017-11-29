@@ -1,2 +1,0 @@
-How does the square root of a negative number have an "imaginary" answer?
-What is in a name? Well, we have to call the numbers whose squares are negative real numbers something different than "real" numbers because there are no real numbers whose squares are negative! By giving them a name and making a "unit" to go with them, we can do algebra and manipulate them pretty much like any other numbers. It turns out they have some really nice properties and structure, although we do have to give up the idea of ordering them the way we can with the real numbers. 

@@ -1,2 +1,0 @@
-How can I use a segment tree when the associative property doesn't hold good?
-Persistent segment trees can do this task Refer this awesome editorial of FRBSUM of codechef JAN14 long challenge which deals with a similar problem. FRBSUM - Editorial 

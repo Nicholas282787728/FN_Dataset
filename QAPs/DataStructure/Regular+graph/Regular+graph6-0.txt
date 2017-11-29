@@ -1,2 +1,0 @@
-The Technological Singularity: Is there a website with a regularly updated graph showing how we are progressing on a Moore's Law / MIPS per $1000 computer performance scale?
-TOP500 is quite good. It is updated twice a year and presents list of 500 fastest supercomputers in the world. It does not include prices, but you can assume that prices of supercomputers remain more or less constant (adjusted to inflation). You can see that during the last 20 years performance of supercomputers doubled each 14 months. So yes, we are keeping up with Moore's Law. Performance Development 

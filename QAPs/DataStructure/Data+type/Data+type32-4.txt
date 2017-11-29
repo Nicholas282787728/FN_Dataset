@@ -1,2 +1,0 @@
-Can the % operater be used on all data types in C?
-No, It is only use to find the remainder of any integer data type value not any other data type like float etc.. ‘% ‘ operator is the arithmetic operator. Basically used in arithmetic operation. 75 Views

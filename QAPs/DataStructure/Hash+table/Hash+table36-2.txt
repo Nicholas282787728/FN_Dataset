@@ -1,2 +1,0 @@
-As of August 2012, what is the current state of the art in distributed hash tables?
-It’s Nov 17 and there are tool specific (if not universal standard) file formats exclusively to store DHT routing tables. See Technical Notes - aria2 1.33.1 documentation for diagrams and DETAILS.IT also boasts a file format for storing download progress information. 33 Views

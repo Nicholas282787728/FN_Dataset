@@ -1,2 +1,0 @@
-★Where can I get information retrieval / NLP paper dataset?
-Try looking at the Text-Retrieval Conference. (http://trec.nist.gov/)    Embed Quote

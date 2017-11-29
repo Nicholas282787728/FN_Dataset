@@ -1,2 +1,0 @@
-How do I design a class for implementing the stack data structure of dynamic length (decided during object creation)?
-Firstly Stack is not a "Data Structure", it is an "Abstract Data Type" Implement it internally as a single linked list, with the size of Stack as parameter to the constructor of you class 

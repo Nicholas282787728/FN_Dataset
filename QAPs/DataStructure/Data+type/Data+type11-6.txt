@@ -1,2 +1,0 @@
-What is data type in Java?
-Java Guide Java Step by Step Videos - YouTube In short dataType in any language represents two things Type of data (int, char, reference dataType, etc) Set of related operations on that data (eg in string dataType you have pre-defined function to concatinate, or in int, ‘+’ is used for addition, etc) 107 Views · 1 Upvote

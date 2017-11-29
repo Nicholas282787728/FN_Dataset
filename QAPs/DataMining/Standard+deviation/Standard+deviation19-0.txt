@@ -1,2 +1,0 @@
-★How do I solve for standard deviation here?
-Variance (the square of the Standard Deviation) can be calculated using the formula E(X^2) - (E(X))^2. Here X is the Random Variable which which is the # of bottles of soda. So the Expectation of X^2, E(X^2) = (0 * 0.3) + (1 * 0.4) + (4 * 0.2) + (9 * 0.1) = 2.1 The Mean (Expectation of X), E(X) = (0 * 0.3) + (1 * 0.4) + (2 * 0.2) + (3 * 0.1) = 1.1 So the Variance = 2.1 - (1.1 * 1.1) = 0.89 The Standard Deviation = Square root of 0.89 = 0.94. So the SD is 0.9 bottles    Embed Quote

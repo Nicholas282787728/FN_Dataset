@@ -1,2 +1,0 @@
-★Is one standard deviation always 34.1% regardless of the data set?Is 34.1% derived, defined, or an observation coming out of a normal distribution? ...Does 1sigma always equal 34% of the population?
-No.  If your data follows an exponential distribution, then roughly 86.5% of your data will be within one standard deviation of the mean.  Note that the normal distribution has 68% of its data within one standard deviation of the mean, not 34%.    Embed Quote

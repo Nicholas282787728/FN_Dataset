@@ -1,2 +1,0 @@
-What is the difference between short int and long int data types and float & double data type?
-They are just the same data type but with a large data width. For example, float occupies 2 bytes whereas double or double float occupies 4 bytes so that you can store larger amount value into the double variable type. Hope it helps. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 1k Views · 1 Upvote

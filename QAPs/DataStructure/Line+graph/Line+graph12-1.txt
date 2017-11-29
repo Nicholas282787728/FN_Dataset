@@ -1,2 +1,0 @@
-How can you make a double line graph in Excel?
-You would have to setup your data as two different series. Select the first one and enter it into the graph, and then select the next data range and have Excel plot the second one on the same graph. Excel will plot the data ranges as two different lines in different colors. 734 Views

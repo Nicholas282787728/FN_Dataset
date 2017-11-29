@@ -1,2 +1,0 @@
-★What sort of companies work on developing data compression, source coding and error correction?
-The obvious ones are those companies that are related to storage and tele-communications.

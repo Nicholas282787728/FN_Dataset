@@ -1,2 +1,0 @@
-What are some problems with hash tables?
-One problem that comes to my head first, Could be allocating memory in advance even before having a prior knowledge on how much memory will be required. This could be problematic when allocating more memory than required. Starting small, and allocating more memories as it goes, by doubling the hashtable's bucket size, could be a workaround. 

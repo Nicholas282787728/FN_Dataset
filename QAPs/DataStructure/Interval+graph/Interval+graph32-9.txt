@@ -1,2 +1,0 @@
-What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
-Bolzano's theorem! If a function f is continuous on [a,b], positive in a and negative in b, there exists some c on that interval for which f(c) = 0. In human language: kicking a ball through a window will break it. Updated 15 Jan • View Upvotes

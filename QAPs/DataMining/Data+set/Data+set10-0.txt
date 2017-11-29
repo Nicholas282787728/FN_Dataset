@@ -1,2 +1,0 @@
-Which is better for analyzing large data sets, R or Mathematica?
-You can definitely go with R if you 'only' have 1.25 gb of data. Try the data.table package (http://datatable.r-forge.r-proje...) which is very fast compared to a lot of other options out there.    Embed Quote 

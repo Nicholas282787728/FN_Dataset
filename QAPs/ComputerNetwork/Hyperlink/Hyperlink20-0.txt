@@ -1,2 +1,0 @@
-★Microsoft Word: Auto hyperlink TOC?Is there a way to have it so you can set a style so the table of contents automatically hyperlinks to the sections of the document?
-Follow the steps in this article. How to create a table of contents in Microsoft Word    Embed Quote

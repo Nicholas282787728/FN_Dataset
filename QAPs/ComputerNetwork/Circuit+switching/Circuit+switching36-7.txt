@@ -1,2 +1,0 @@
-★What are some good resources for learning about distributed computing? Why?This is a follow-up question on How do I become a data scientist?
-To add to Alex's post, here's a link that I found useful: http://book.mixu.net/distsys/ebo... The author explains the concepts articulately and points the reader to useful links.

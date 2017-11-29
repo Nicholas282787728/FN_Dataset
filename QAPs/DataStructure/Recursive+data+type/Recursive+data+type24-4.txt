@@ -1,2 +1,0 @@
-Java (programming language):  Which data type is used to store values as large as [math]100![/math] ?
-BigInteger data types 

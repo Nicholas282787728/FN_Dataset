@@ -1,2 +1,0 @@
-★What are some best practices when writing ETLs?
-I would like to reiterate 2 things.. 1. Metadata 2 Error logging    Embed Quote

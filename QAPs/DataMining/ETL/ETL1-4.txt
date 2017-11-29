@@ -1,2 +1,0 @@
-★Business Intelligence: ETL : which is the best open source ETL tool to start working ? specially if we are kick starting a BI project
-Only the one that suitable to you is the best. I'd like to use esProc and esCalc. They have totally free version. Both of them have very friendly UI and capable of complex computing without modeling beforehand. That means you could do real-time analysis conveniently. Here are more information: http://www.raqsoft.com/product-e... You can free download from: http://www.raqsoft.com/download.... Hope this could help you.    Embed Quote

@@ -1,2 +1,0 @@
-How do I solve a maze with depth first search?
-If you know about simple backtracking, then you're pretty much set. That is, recursively. 2.6k Views

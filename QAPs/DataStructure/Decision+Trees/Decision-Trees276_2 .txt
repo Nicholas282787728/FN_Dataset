@@ -1,1 +1,0 @@
-Is a decision tree just a fancy name for a sequence of if-else-if-else -if-else statements?The final model is a specific series of if-then rules, the one that optimized for your fit criteria (cost function). 79 Views

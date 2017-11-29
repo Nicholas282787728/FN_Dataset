@@ -1,2 +1,0 @@
-What are some must-have software for programmers using Linux?
-ESSENTIAL TOOLS FOR A *PROGRAMMER* 1. Sublime. 2. Eclipse IDE. Even if you don't use it for cutting code, it serves as an ideal goto-client for CVS, SVN and GIT. 3. Qt Creator (for C/C++ development). Many people assume that it's only for use with Qt - nothing could be further from the truth. What you have is a very lean, mean, compiler agnostic coding machine with an XML project format and built-in support for Valgrind. And it's free. 

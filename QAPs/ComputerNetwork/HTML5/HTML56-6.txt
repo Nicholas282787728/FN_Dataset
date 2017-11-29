@@ -1,2 +1,0 @@
-★What's a good engine to use for HTML5 games?
-Another one not mentioned here is Crafty (http://craftyjs.com), which uses an Entity/Component model, contrary to several other engines already listed. Development takes place on Github (https://github.com/louisstow/Crafty) and is distributed under MIT and GPL licences.

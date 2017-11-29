@@ -1,2 +1,0 @@
-How do you solve this equation using the a graphing calculator? 5^X = 1000
-If you mean graphically, then you can use whatever plotting functions you have available and plot 5^x - 1000, looking for where it crosses 0. If you mean using the numerical functions on the calculator, then this is a problem for logarithms: x=log1000/log5.  You can use either the "log" function or the "ln" function in the place of log above. 

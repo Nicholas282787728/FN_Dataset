@@ -1,1 +1,0 @@
-The most common variant of bucket sort operates on a list of n numeric inputs between zero and some maximum value M and divides the value range into n buckets each of size M/n. If each bucket is sorted using insertion sort, the sort can be shown to run in expected linear time (where the average is taken over all possible inputs).

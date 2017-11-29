@@ -1,2 +1,0 @@
-★Is my laptop more vulnerable to intrusions over public Wi-Fi or over a cellular network (hotspot)?
-If your computer is set to openly share, then yes. If you set your network settings as private then no.

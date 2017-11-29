@@ -1,2 +1,0 @@
-★Why is the probability of a normally distributed variable being an exact value 0?I understand that it's like taking the area of an infinitesimally small rectangle, but it seems unsatisfying as surely there has to be at least some chance in a lot of situations of X being an exact value.
-Area under the probability density function gives you the probability. At any one point this area is 0. Keep in mind that the Gaussian is an idealization. Real observations are ultimately discrete.    Embed Quote

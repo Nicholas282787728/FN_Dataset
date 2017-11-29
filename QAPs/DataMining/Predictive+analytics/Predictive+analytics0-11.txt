@@ -1,2 +1,0 @@
-★What are some real-world examples of predictive analytics?
-Few examples are-fault detection and management in automobiles and aviation-all major companies are using it. Food chains like McDonald is using to enhance customer experience. All the major web companies like Google, Facebook, Amazon, Ebay etc. are using it to gain customer's insights for their products.    Embed Quote

@@ -1,2 +1,0 @@
-Software Engineering: What are the best data structures to learn about?
-I'll list the data structures I was asked about in a technical interview recently. - Arrays - Linked lists - Stacks - Queues - Hash tables - At least one kind of balanced binary tree - Heaps You should know how each of the basic operations works for each of these, along with its running time. 

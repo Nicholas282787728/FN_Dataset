@@ -1,2 +1,0 @@
-What are some of the best discrete mathematics books for programmers?
-Discrete Mathematics by Kenneth. H. Rosen. This gives you an intro to logic, combinatorics and also elementary graph theory. Discrete Mathematics and Its Applications: Kenneth Rosen: 9780073383095: Amazon.com: Books 

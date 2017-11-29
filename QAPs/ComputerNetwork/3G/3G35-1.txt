@@ -1,2 +1,0 @@
-★Will an unlocked Nexus S work with AT&T 3G?Android Devices Nexus S (phone)
-No. AT&T 3G bands are not compatible with Nexus S's. Nokia N8 is one phone that works on any GSM 3G network, thanks to it's pentaband 3G.

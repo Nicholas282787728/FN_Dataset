@@ -1,1 +1,0 @@
-Can decision trees be used to find latent variables attributes of a sample?Decision trees are supervised, so you'd need a training set with that latent variable observed. If you have that, however, you're just using a standard decision tree classifier/regressor. 229 Views  View Upvotes

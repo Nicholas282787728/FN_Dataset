@@ -1,2 +1,0 @@
-Sorting Algorithms: What are some of the best and easily implementable data structures that support finding the kth largest element quickly?
-Any balanced tree can be augmented with a count for the number of elements in each subtree. Now you can find elements in O(log n) and find the kth element in O(log n) time as well. My suggestion would be to use a treap. It's one of the most easily implementable balanced trees. Skiplists are also an option. 

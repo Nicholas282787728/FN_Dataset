@@ -1,2 +1,0 @@
-What data structure should I use to complete this task?
-Make all student records, then for every field insert all students in a separate red black tree. This is extremely simple to do once you have the tree implemented. If you don't need to sort, you could use a hashmap, but there's no real disadvantage to just putting everything in a tree. 

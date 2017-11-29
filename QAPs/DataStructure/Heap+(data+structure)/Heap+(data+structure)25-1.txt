@@ -1,2 +1,0 @@
-What are the 10 algorithms one must know in order to solve most algorithm problems?
-Following are the Algorithms/Concepts that one must know(Especially a programmer) to solve CS puzzles: Lists, Arrays, Stack Trees- Binary, k-ary, AVL, B and B+ tree Sorting and Searching- esp. QuickSort, RadixSort, Binary search and indexing Priority Queues- Heaps ... (more)

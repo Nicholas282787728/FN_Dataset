@@ -1,1 +1,0 @@
-Is sorting algorithms a closed topic?It is not closed. Sorting is the most fascinating topic in computer science. There are open issues regarding new data types, different application needs, different hardware... Do not hesitate to continue doing research on it. 

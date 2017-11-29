@@ -1,2 +1,0 @@
-★Can we use regression analysis to find Newton's Law of Gravity equation?
-I suspect the answer is "no". The model is pretty nonlinear and the software would have to think to take logs of everything and then run the model. Many programmers wouldn't think to make that an alternative.    Embed Quote

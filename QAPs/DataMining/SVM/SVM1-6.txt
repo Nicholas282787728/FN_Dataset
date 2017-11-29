@@ -1,2 +1,0 @@
-★Support Vector Machines: What is the best way to implement an SVM using Hadoop?
-FYI, LibSVM supports a parallelism on shared memory, multi-core machines (this has to be way easier than trying to use Hadooop) http://www.csie.ntu.edu.tw/~cjli...    Embed Quote

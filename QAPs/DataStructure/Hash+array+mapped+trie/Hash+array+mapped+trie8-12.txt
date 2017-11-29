@@ -1,2 +1,0 @@
-What are some uses of hashing algorithms?
-The simplest use of hashing I can think is "To find a unique identifier for a piece of data as quickly as possible". Unique also means as unique as possible(minimum number of collisions). 

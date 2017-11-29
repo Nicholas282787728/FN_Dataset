@@ -1,2 +1,0 @@
-★Are there any automated text-mining tools for the Arabic language, like Leximancer?As Leximancer doesn't support Arabic language!
-You can try out Repustate (Sentiment analysis, social media monitoring, text analytics) for free and see if it does what you're looking for. Part of speech tagging, named entity recognition, sentiment is all there.    Embed Quote

@@ -1,2 +1,0 @@
-★What are the available APIs for NLP (Natural Language Processing)?What are the (open and commercial) available APIs for doing Natural Language Processing?
-If you want try out a completely new approach to this question try: cortical.io - API Documentation cortical.io is using a language independent algorithm, based on neuroscience (instead of statistics).    Embed Quote

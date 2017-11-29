@@ -1,1 +1,0 @@
-Does Swift have any support for Generalized Algebraic Data Types (GADTs)?Check out this blog post about Algebraic Data Types in Swift. It contains examples and details about ADTs in Swift

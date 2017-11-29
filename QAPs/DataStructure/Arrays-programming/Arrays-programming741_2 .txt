@@ -1,1 +1,0 @@
-How can I set a character array to null in Java? Or empty it?char a[] = {}; <= emty or just: char a[]; <= null 2.8k Views  View Upvotes

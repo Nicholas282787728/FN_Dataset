@@ -1,2 +1,0 @@
-★What are the best plain-text note-taking / tasks apps for Android?I dislike apps like Evernote or Springpad because they store their data in proprietary formats, and you can't access your notes without the mobile/desktop/web app. Is there any app that saves data in plain .txt format so I can view and edit it in any text-editor / platform?
-ColorNote is simple and doesn't store the data on web. It also has 1x1 and 2x2 widgets. https://play.google.com/store/ap...    Embed Quote

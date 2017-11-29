@@ -1,2 +1,0 @@
-★What are some cool examples of companies using reinforcement learning in their products?
-There is a recently established company in London, called Deep Mind, that is working on applying RL to solve games on Atari. They have just published a paper in Nature discussing their work: http://www.nature.com/nature/jou... By the way, the company is bought by Google due to their recent success. As far as I can tell, they are doing excellent work on Reinforcement Learning as well as the other areas of AI.    Embed Quote

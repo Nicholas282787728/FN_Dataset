@@ -1,8 +1,0 @@
-For example the incidence matrix of the undirected graph shown on the right is a matrix consisting of 4 rows (corresponding to the four vertices, 1-4) and 4 columns (corresponding to the four edges, e1-e4):
-
-{\displaystyle {\begin{pmatrix}1&1&1&0\\1&0&0&0\\0&1&0&1\\0&0&1&1\\\end{pmatrix}}.} {\displaystyle {\begin{pmatrix}1&1&1&0\\1&0&0&0\\0&1&0&1\\0&0&1&1\\\end{pmatrix}}.}
-If we look at the incidence matrix, we see that the sum of each column is equal to 2. This is because each edge has a vertex connected to each end.
-
-The incidence matrix of a directed graph is a n ¡Á m matrix B where n and m are the number of vertices and edges respectively, such that Bi,j = ?1 if the edge ej leaves vertex vi, 1 if it enters vertex vi and 0 otherwise (many authors use the opposite sign convention).
-
-The oriented incidence matrix of an undirected graph is the incidence matrix, in the sense of directed graphs, of any orientation of the graph. That is, in the column of edge e, there is one 1 in the row corresponding to one vertex of e and one ?1 in the row corresponding to the other vertex of e, and all other rows have 0. The oriented incidence matrix is unique up to negation of any of the columns, since negating the entries of a column corresponds to reversing the orientation of an edge.

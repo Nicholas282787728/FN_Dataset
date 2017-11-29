@@ -1,2 +1,0 @@
-What are some of the best algorithms?
-I think it depends what you are doing. I know Jack Dongarra and Francis Sullivan had a survey issue (if you know Jack, you understand that this list has a numeric bias) in Computing in Science and Engineering (CiSE). %A Jack Dongarra %A Francis Sullivan, eds. %T Guest Editor's Introduction: The Top 10 Algorithms %J Computing in Science and Engineering (CiSE) %I AIP/IEEE %V 2... (more)

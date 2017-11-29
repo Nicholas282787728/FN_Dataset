@@ -1,2 +1,0 @@
-★How do I avoid proxy server problems?
-As i see u are using windows 7 the steps are: 1)  Press windows key. 2) type internet 3) select --> internet options 4) select -->Connections 5)go to LAN settings If u are not using a proxy sever just check the circled 1 If u are using a proxy server ...untick 1 and tick 2. What is proxy?: When we are using internet from a college/workplace/library severs ,they are controlled/censored . A proxy server can control things what the users see over internet like blocking of facebook/torrents.    Embed Quote

@@ -1,2 +1,0 @@
-★Does a Hbase backup actually backup the data stored or just the metadata?Hbase is using HDFS as the underlying storage. HDFS by default stores data in 3 different data nodes, so it is designed to prevent failures.  What does a Hbase backup really do. I would think it is the metadata.Backing up petabytes of data would take a long time.
-There are two broad strategies for performing HBase backups: backing up with a full cluster shutdown, and backing up on a live cluster. Each approach has pros and cons. Read more HBase Backup Options & 15.7. HBase Backup    Embed Quote

@@ -1,1 +1,0 @@
-How can I represent a linked list using stack?Not a Big deal…!!! you just have to make a doubly linked list and do some minor changes in the Push and Pop function… Here is the Code… C Program to Implement a Stack using Linked List - Sanfoundry 46 Views · Answer requested by Rajesh S Rajesh

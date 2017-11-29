@@ -1,2 +1,0 @@
-★What is the difference on ETL (extract, transform and load) by programming languages and ETL by using tools?
-If it is done in programs, you need a programmer to maintain it. If it is done by a tool, you need an expert for that tool. Often, you need also programmer-minded experts who are able to work around the limitations of the tool.    Embed Quote

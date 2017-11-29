@@ -1,2 +1,0 @@
-How do I perform data analysis / machine learning in Python?
-You will use Pandas, Scipy and Numpy for data manipulation.  scikit/learn for actual machine learning scikit-learn: machine learning in Python.    Embed Quote 

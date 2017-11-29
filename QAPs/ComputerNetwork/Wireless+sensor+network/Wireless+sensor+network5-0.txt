@@ -1,2 +1,0 @@
-★Wireless Sensor Network: Is there any program example of simulating wsn with NS2?
-You can use mannasim in NS2 for WSN    Embed Quote

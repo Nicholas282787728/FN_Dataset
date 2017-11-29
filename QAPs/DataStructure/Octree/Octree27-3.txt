@@ -1,2 +1,0 @@
-How do I build an approach to understand any data structures and algorithm problem?
-Hey to learn algorithms completely you can read this @Google Translate After completing this book, you will definately start thinking analytically. Happy Coding :) 

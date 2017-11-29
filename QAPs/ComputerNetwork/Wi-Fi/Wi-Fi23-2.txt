@@ -1,2 +1,0 @@
-★Why does my download speed through wi-fi become zero when i place my mobile just above my wi-fi router?
-For a short answer, combining and confirming these other answers-  we call it "signal saturation" or "overloading the front end" as described by other contributors.    Embed Quote

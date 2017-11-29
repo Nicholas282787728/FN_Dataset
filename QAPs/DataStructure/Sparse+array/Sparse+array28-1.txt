@@ -1,2 +1,0 @@
-What is the maximum possible size of an array in C++?
-Is there a max array length limit in C++? 

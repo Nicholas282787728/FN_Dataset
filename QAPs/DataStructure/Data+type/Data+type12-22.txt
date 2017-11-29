@@ -1,2 +1,0 @@
-Which data type is better either float or double in c++?
-float 11 Views

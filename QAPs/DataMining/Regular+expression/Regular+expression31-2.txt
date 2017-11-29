@@ -1,2 +1,0 @@
-★What's the regular expression to match a string of exactly six numbers?Exactly six numbers, anything from 0-9, any combination.
-To match a string exactly six digits long, you'll have to specify the start(^) and end($) indicators on the expression: /^[0-9]{6}$/ However, {N} is possible only with extended regular expressions. It won't work with the standard grep utility, for example.    Embed Quote

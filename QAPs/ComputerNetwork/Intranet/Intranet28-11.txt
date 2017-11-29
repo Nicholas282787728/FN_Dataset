@@ -1,2 +1,0 @@
-★How can enterprises create an activity stream (like Facebook and Twitter) in their SharePoint intranet?
-Yammer's SharePoint Integration allows you to do exactly what you're asking and more.  With Yammer you can: Add a Yammer feed on almost any SharePoint page View and switch between Yammer feeds directly within SharePoint Post messages, links and files to Yammer directly from SharePoint. Use Yammer Communities to securely communicate with external parties from inside SharePoint. Access profile information for Yammer members within SharePoint.I hope this helps!

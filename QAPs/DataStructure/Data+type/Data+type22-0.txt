@@ -1,2 +1,0 @@
-What is the differences between primitive data types and user defined data types?
-Primitive Datatypes are the one which are pre-defined and has reserved keyword. Eg - char , int , float , boolean User-Defined Datatypes are the one which holds data in the format that user defines,the limits on these datatypes are placed by the user based on requirement. Eg - structure , enum ,union etc. 5.8k Views · 4 Upvotes

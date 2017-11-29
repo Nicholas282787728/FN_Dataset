@@ -1,2 +1,0 @@
-★What are some good textbooks in feature selection/engineering when building Machine Learning Algorithms?
-The book Applied Predictive Modelling by Max Kuhn and Kjeil Johnson is pretty good. It has sample code in R and an R package. Check out the site http://appliedpredictivemodeling...    Embed Quote

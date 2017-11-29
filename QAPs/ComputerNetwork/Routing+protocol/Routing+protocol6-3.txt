@@ -1,2 +1,0 @@
-★Routing Protocols: What are some good BGP textbooks and architecture guides?With an emphasis on freely available resources please!
-I have always found the following pdf very helpful: http://www.cisco.com/application...    Embed Quote

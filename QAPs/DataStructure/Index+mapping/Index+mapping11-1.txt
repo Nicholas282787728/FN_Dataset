@@ -1,1 +1,0 @@
-Can index alias combine 2 indexes that have completely different mappings (schema)?

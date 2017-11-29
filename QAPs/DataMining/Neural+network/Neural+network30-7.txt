@@ -1,2 +1,0 @@
-★What NLP problems has deep learning or neural networks been applied to successfully?I know there has been significant work in language modeling. I have also seen some unified approaches (paper). I am more interested in things like entity, relationship extraction.
-On Sentiment Analysis, by Stanford's Deep Learning group.  Deeply Moving: Deep Learning for Sentiment Analysis    Embed Quote

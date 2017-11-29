@@ -1,2 +1,0 @@
-When will a ray tracing chip be available in the mainstream market?
-Ray tracing using accellerated data structures (sparse voxel octree, marching cubes) will almost certainly get hardware support relatively soon. Those are multipurpose tools, and they reach far beyond raytracing. 

@@ -1,2 +1,0 @@
-How can I learn about artificial neural networks if I don't know anything about this field?
-definitely the coursera course! or read one of the books in the field: Simon Haykin's book, Kishan Mehrotra et al's book...etc.    Embed Quote 

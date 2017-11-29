@@ -1,2 +1,0 @@
-★How do autoregressive models satisfy the assumptions for least-squares regression?
-Ummm.... they don't satisfy them. That's why you use autoregressive models instead of least-squares regression.    Embed Quote

@@ -1,2 +1,0 @@
-Sorting Algorithms: What are some of the best and easily implementable data structures that support finding the kth largest element quickly?
-It depends on the type of data i.e. whether it is nearly sorted or random. You can refer Sorting | CodersMaze. It explains each sort with animations for different types of data. 

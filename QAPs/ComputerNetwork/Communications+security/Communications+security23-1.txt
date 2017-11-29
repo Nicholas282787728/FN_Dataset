@@ -1,2 +1,0 @@
-★I´m building a enterprise application and I need to create a secure communication between android and a server. What is the most secure way to do End-to-End communication? Should I use HTTPS or VPN?There are better options?
-If it's an application the use TLS/SSL (aka HTTPS). If possible do 2 way validation and use proper key stores.

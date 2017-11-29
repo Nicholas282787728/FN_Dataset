@@ -1,2 +1,0 @@
-Under what conditions would a slow algorithm run faster than a fast algorithm?
-Algorithms cannot be inherently fast or slow. An algorithm, implemented in software, running on a particular hardware setup, on a particular input, can be fast or slow, because you can actually time it. 

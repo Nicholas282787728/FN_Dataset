@@ -1,2 +1,0 @@
-What do C/C++ programmers know that Haskell programmers don't?
-C++ programmers know their code executes on the processor. .. or at least they have a pretty good idea, modulo processor specifics (cache, pipeline, etc...). I'm sure that some Haskell programmers also do, but I would think that the majority doesn't. 

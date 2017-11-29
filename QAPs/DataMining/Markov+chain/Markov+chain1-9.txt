@@ -1,2 +1,0 @@
-★What are the most interesting applications of Markov chains?Besides writing Bob Dylan songs.
-Analyzing Markov chain itself is intriguing and it is a branch of probability theory. Other applications include but not limited to MCMC (a Markov chain based simulation method), queueing theory, dynamic programming, etc.    Embed Quote

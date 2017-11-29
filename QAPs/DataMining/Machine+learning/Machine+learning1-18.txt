@@ -1,2 +1,0 @@
-★What are the top 10 data mining or machine learning algorithms?
-It depends. You can do good job with linear regression or decision trees, but they are prone to overfitting. But there are many fancy algo's like random forest, gradient boosting machines, deep neural nets of SVM (Radial).    Embed Quote

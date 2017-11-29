@@ -1,2 +1,0 @@
-★How do I build a simple web scraping application using Python?
-I have written a few web scrapers with python, it can be done fairly easily. I would recommend using the BeautifulSoup library which makes it much easier to parse HTML. Be cautious of what you are scraping as you should respect a web pages robots.txt    Embed Quote

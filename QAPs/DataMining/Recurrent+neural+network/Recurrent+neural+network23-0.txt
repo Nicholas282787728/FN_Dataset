@@ -1,2 +1,0 @@
-★How do you enforce the weight constraints when training recurrent neural networks?
-You run an iteration (over your training batch) without the constraint, and then "manually" modify the weight vectors to make sure the constraints hold. For example, if the constraint is w1 = w2; you manually set w1 = w2 = 0.5 * (w1 + w2).    Embed Quote

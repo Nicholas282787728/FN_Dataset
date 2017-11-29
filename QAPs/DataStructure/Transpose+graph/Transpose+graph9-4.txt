@@ -1,2 +1,0 @@
-What is the best design for a popsicle stick bridge?
-I've never built one, but I would think that the span length of the bridge and the number of allowed popsicle sticks would determine the design. A short little bridge would need to be designed for shear failure at its supports while a long span bridge would need to be designed for bending. There are simply too many unknowns to say what an optimal design might look like. 

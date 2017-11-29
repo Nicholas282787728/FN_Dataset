@@ -1,2 +1,0 @@
-Who are some of the greatest scientists, past and present, in the field of distributed or concurrent systems?Also what are their accomplishments?
-Often the people who have the greatest impact in the long term are those who invest a lifetime in writing, teaching and inspiring others. In this field, Ken Birman (Ken Birman's home page) is a great example. 

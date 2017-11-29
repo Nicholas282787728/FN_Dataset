@@ -1,2 +1,0 @@
-Why are some people so in love with Bloom filters?The extent to which people are obsessed with it is too high. What's the secret?
-I think a big part of it is that they're probabilistic, which is rare to find in algorithms used in practice. The most common algorithm that uses randomness in practice is quicksort, but that's so common that it doesn't stand out. Bloom filters are just rare enough that they're not too obscure and not something everyone knows about. Other than that they're fast and elegant, and I think people like the sound of the name. 

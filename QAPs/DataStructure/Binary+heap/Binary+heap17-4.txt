@@ -1,1 +1,0 @@
-How can a max heap be converted to a min heap efficiently?

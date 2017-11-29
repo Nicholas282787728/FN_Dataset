@@ -1,2 +1,0 @@
-What are the practical applications of the quasipolynomial-time graph isomorphism algorithm?
-No practical knowledge implications, as hinted by Babai. There are already great algorithms for several related problems. I worked on graph automorphism (detection) for over 10 years, and our algorithms tend to handle most graphs with millions of vertices in seconds. This was predicted theoretically for random graphs with no symmetries, but we can also handle practical graphs with numerous symmetries. 

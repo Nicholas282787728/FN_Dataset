@@ -1,2 +1,0 @@
-Which universities (in US, UK, Canada, Australia, Europe) offer specialization courses  in Social Network Analysis and/or Graph Theory for MS?
-I cannot find any specific programmes but I can find Computer Science programmes that have required courses in Graph Theory, but I have a feeling that's not what you want. 

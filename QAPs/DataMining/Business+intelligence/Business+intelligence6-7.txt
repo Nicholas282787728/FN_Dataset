@@ -1,2 +1,0 @@
-What are the most cost effective Business Intelligence tools?
-I agree with Everett MacKinnon above: implementation is a huge portion of the cost of business intelligence systems. Chartio (http://chartio.com) is designed to make it easy to add new data sources, minimizing the hardware, software, and development costs of implementation. Also, because the product is so easy to use -- and Chartio doesn't treat support as a profit center -- our maintenance cost is also low.    Embed Quote 

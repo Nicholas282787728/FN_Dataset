@@ -1,2 +1,0 @@
-What are data types in c?
-Originally Answered: Data type in c programming?You can use an int array such that elements in the array holds individual digits. Here is a codechef tutorial that shows how to store 100! ( more than 150 digits ) Tutorial For Small Factorials 382 Views · 1 Upvote

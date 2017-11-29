@@ -1,1 +1,0 @@
-What is the best way to store an array of arrays in a MySQL table?If you can switch to PostgreSQL look at PostgreSQL and its nosql plugin Page on enterprisedb.com 367 Views

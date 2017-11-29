@@ -1,2 +1,0 @@
-Where can I find implementations of standard data structures and algorithms in C++?This is so that I can use them directly in programming competitions. I have implemented a few on my own. But, I was just wondering it is better to have a reference implementation which would be done in the most efficient way. Also, I can be sure that there are no missing boundary cases, errors, etc. PS: I am talking about the DS and algorithms which are not present in C++ STL eg. Union-Find, etc.
-check out c++ boost libraries: Boost 1.54.0 Library Documentation 

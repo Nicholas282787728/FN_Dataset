@@ -1,2 +1,0 @@
-What are 20 questions to detect fake data scientists? The answers should contain math formulas or a few lines of code, not just vague generalizations.
-I really think it can be boiled down to two questions: "How do you know which modeling technique to use?" and "How do you validate your findings?" ... (more)

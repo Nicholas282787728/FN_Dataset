@@ -1,2 +1,0 @@
-What is the best way to scrape data from a website?
-You can just make an Hypertext Transfer Protocol (HTTP) request to that page you are working on if it has public access and then parse the response depending on its file format or syntax. There are several parsers you can find on the web for different programming languages and different file formats such as HTML, XML, etc. If it's just a text, write your own Regular expression to parse the data.    Embed Quote 

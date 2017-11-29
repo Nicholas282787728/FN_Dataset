@@ -1,2 +1,0 @@
-Business Intelligence: What are some good BI tools for MySQL?
-Like others have said, Pentaho and Jaspersoft are the most established, but there are others out there. Check out Looker if you have a moment, we customize a model for you and offer a completely free trial. Our platform operates 100% in-database, never storing or cubing any data, and has a browser-based UI. People seem to enjoy our modern, web app approach. Cheers!    Embed Quote 

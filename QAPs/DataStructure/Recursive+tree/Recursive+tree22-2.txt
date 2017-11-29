@@ -1,2 +1,0 @@
-How can I get the running time of the recursive equation merge sort for [math]T(n) = 2T(n/2) + n?[/math]
-Well, the master method could be used easily to obtain the answer quickly. However, if you require an intuitive and mathematical answer, do continue. Assume that n = 2^t, for some real t, and note that t>0 is a practical assumption. Now, Since T(1) can be assumed to be a constant c, we get the order of the recurrence relation in terms of n log n. 

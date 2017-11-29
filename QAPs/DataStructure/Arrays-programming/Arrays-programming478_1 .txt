@@ -1,1 +1,0 @@
-How do I create an array of strings in c++ dynamically using pointers?int main() { char *a[3]; a[0]= new char[30]; a[1]=new char[30]; } so this is one of the method you can allote memory to string array. 47 Views

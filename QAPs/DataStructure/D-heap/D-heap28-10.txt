@@ -1,2 +1,0 @@
-What are some time-saving tips that every Linux user should know?
-This is the absolutely, most indispensable, time-saving tip ever, when using the vast majority of command lines in *nix: Command-line completion 

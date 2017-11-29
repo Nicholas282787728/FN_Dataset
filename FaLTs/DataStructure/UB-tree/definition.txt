@@ -1,1 +1,0 @@
-It is basically a B+ tree (information only in the leaves) with records stored according to Z-order, also called Morton order. Z-order is simply calculated by bitwise interlacing the keys.

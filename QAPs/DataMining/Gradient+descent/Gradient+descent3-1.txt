@@ -1,2 +1,0 @@
-★What are the weaknesses of gradient descent?
-It is difficult to apply to non differentiable loss functions. It requires tuning the learning rate. It can not be reliably applied to non convex problems    Embed Quote

@@ -1,2 +1,0 @@
-What are the best open source tools for unsupervised clustering of text documents?
-Apache mahout(http://mahout.apache.org/) has bunch of clustering algorithm and it can be used with large datasets and internally it uses hadoop. Cluto(http://glaros.dtc.umn.edu/gkhome...) has document clustering functionality. Solr clustering algorithm(http://wiki.apache.org/solr/Clus...).    Embed Quote 

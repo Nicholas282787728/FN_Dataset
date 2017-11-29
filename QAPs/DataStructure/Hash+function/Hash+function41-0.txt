@@ -1,2 +1,0 @@
-What should I do to learn Hash function from basic to practical implementation?
-Most algorithms texts cover this, from Sedgwick to Skiena to Knuth. Get hold of one or six. 

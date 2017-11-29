@@ -1,2 +1,0 @@
-How often do software developers debug with core dumps of Java?
-`kill -3 [pid]` is an awesome tool on Unix. Java Barbie says “kill -3 [pid] is my new best friend” As in that blog post, I used it to find thread lock contentions. As Bruno D. Rodrigues mentions, you can also use it to find threads that are in infinite loops or other bad situations. 

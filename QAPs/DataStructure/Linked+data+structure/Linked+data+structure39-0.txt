@@ -1,2 +1,0 @@
-How can a linked list or tree data structure be saved in memory permanently as a database?
-You need to devise a scheme to de-serialize the data-structure and store it in a permanent storage. Later on serialize the content back to your in - memory data structure. For linked list you can store them as a comma/space separated value in a file. For binary tree I guess you need to store the in-order and pre-order sequence in the permanent storage and then you should be able to recreate the tree from that whenever needed. 

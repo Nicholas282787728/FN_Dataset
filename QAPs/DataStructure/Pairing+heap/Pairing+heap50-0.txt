@@ -1,2 +1,0 @@
-What is the best way to sort an unsorted linked list?
-Mergesort is a very natural way to sort a linked list. In fact, mergesort works better on linked lists than on arrays because there is no need for an auxiliary array to hold the result of the merge operation. There are many clean implementations available online. Quicksort can also be used to sort a linked list but the details are a bit more subtle and it is usually slower in practice for linked lists than mergesort. 

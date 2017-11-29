@@ -1,2 +1,0 @@
-★Differences between classful and classless ipv4 addressing?
-Classful addresses don't carry info about subnet mask while routing process, if IP is of class A then subnet mask is 255.0.0.0, IP is of class B then subnet mask is 255.255.0.0 etc. On the other side, classless addressing method allows us to use any subnet mask. So  192.168.9.0/28 is an IP address with classless addressing. /28 indicates 28 leading 1 bits. So subnet mask will be 255.255.255.240

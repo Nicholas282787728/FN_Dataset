@@ -1,2 +1,0 @@
-★How would you use predictive modeling to build a March Madness bracket?
-See lots of approaches in the recent posts on this blog: This Number Crunching Life For example: Predicting March Madness by Jasper Snoek The 2013 Machine March Madness Field    Embed Quote

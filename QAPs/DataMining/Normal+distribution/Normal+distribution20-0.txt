@@ -1,2 +1,0 @@
-★What would the world be like if the normal distribution had never been discovered?
-It's just too difficult to imagine a world where this could happen.  The de Moivre–Laplace theorem, which is the central limit theorem for Bernoulli random variables, was published in 1738.  That basically makes it the first result in mathematical statistics, and also something that was accessible to anyone with some basic mathematical results.  The discovery was pretty much inevitable.    Embed Quote

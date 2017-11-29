@@ -1,2 +1,0 @@
-★What is meant by an electric power cable rated at a voltage grade of 450/750V?
-I'm not sure what you mean by "voltage grade." Wire is often rated in two ways: size (how many amps can move along without excessive heating) and insulation strength (how many volts can be applied before the insulation starts conducting). Typically you'll see either 300v or 600v wire, unless it's for a special application.    Embed Quote

@@ -1,2 +1,0 @@
-★Artificial Neural Networks: What is an intuitive explanation of Convolutional Neural Networks?
-Its hard to find intuitive explanations for beginners..atleast it took time for me to get gist of convolutional nets..Finally i get it...HOw well this guy is a real teacher( ) dont take this easy...you will rarely find these explanations..    Embed Quote

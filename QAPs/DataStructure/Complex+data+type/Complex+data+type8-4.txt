@@ -1,2 +1,0 @@
-What skills do self-taught programmers commonly lack?Or, to put it another way: what should a self-taught programmer study to get up to speed with his/her formally-educated peers?
-I was self-taught before college and the most useful courses to me as a CS major were compilers, programming languages, and machine learning. Even though it's rare in practice to implement a compiler, programming language, or machine learning algorithm, all of these are used underneath real systems all the time and it's definitely been a big advantage understanding how all of these work. 

@@ -1,2 +1,0 @@
-What is C++ good at that cannot be achieved in Java?Follow up question: What are the types of applications that can be built in C++ but not in Java?
-Re: operator overloading in C++: Gaak !  Re-defining operators is a horrible language feature. IMHO, it's one of those things that turn on developers who are working on a green-field project, but cursed by anyone other than the author who must maintain or re-use such code. 

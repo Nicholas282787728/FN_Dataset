@@ -1,2 +1,0 @@
-★What is the average conversion rate from free trials to paying users of online services?What are some specific examples?
-At Salesforce.com, roughly 3.75% of our Free Trials converted to Sales: 15% of Free Trials convert to Opportunities 25% of Opportunities are Closed/Won (This data is from salesforce circa 2006).    Embed Quote

@@ -1,2 +1,0 @@
-What is the best way to learn algorithms? I want to prepare for a Google interview and I am willing to spend all of my free time learning.
-For learning algorithms, I recommend getting a copy of CLRS and reading Chapter 2: Insertion sort and an introduction to the design and analysis of algorithms Chapter 3: Big-O notation (you can’t neglect theory!) Chapter 4: Recurrence relations and the master theorem Chapter 5: Randomized algorithms Chapter 6: Heaps Chapter 7: Quicksort Chapter 8: Lower bounds on comparison sort, and linear-time sorting algorithms... (more)

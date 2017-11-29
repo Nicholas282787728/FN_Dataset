@@ -1,1 +1,0 @@
-How would you build a shared data structure for high-performance and availability?

@@ -1,2 +1,0 @@
-How do independent/dependent variables from your hypothesis differ from ordinal/interval/nominal variables?
-They have nothing to do with each other. One (independent/dependent) is about your hypotheses about what predicts what. The other (nominal/ordinal/etc.) is about the relationships different values of a variable have to each other. Measurement theory: Frequently asked questions 

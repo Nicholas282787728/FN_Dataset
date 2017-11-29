@@ -1,2 +1,0 @@
-★What are some good examples of HTML5 mobile websites?
-http://untappd.com/ is like Foursquare for beer lovers. It's all HTML5 based and works very well on an iPhone. Also Google Images is very, very good on iOS. You get swipes to switch between image pages, a very friendly interface. Simply wonderful.

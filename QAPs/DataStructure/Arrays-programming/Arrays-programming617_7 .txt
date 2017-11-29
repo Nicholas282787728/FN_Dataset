@@ -1,1 +1,0 @@
-Can I get some example programs that are done using Array of structures?...in what language? That do what? In Java, you might define a class that contains multiple instance variables (fields) as your structure, and then you can declare an array of that object type just as you would for any other. 45 Views  Answer requested by Tauhid Suman

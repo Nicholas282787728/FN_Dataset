@@ -1,2 +1,0 @@
-★Is most learning in the human brain a form of supervised learning or unsupervised learning?
-Neither It is most likely a form of transductive learning see my blog post http://charlesmartin14.wordpress...    Embed Quote

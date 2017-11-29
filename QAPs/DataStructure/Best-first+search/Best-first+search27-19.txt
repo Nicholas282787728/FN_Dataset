@@ -1,2 +1,0 @@
-What are the most popular computer programming jokes?
-Newbie - There are so many problems to solve.  I dispair. Wise Old Programmer - Don't dispair there is a solution that will solve every problem except one. Newbie - (excited) Really ... what is it? Wise Old Programmer - Every problem, except one, can be solved by adding another abstraction layer. ... (more)

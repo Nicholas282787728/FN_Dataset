@@ -1,2 +1,0 @@
-Which is better, SQL or NoSQL?
-I'd say it depends on what you're storing and how important it is for your database to be immediately consistent. There's no hard rule, but I'd use the following categorizations: financial, medical, inventory data == SQL / comments, files, images == No SQL. 

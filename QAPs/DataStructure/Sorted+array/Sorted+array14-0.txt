@@ -1,2 +1,0 @@
-How do I sort arrays in C?
-There are many sorting algorithms that can be used, simplest being bubble sort, others than you can use are radix, merge , insertion, quick, heap sorts. These are most common ones. For more details you can refer to this, its fine piece of article. Sorting Algorithms | Brilliant Math & Science Wiki 44 Views · 2 Upvotes

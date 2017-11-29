@@ -1,2 +1,0 @@
-Why is my brand new partition taking up a hundreds of MB even though there's no data on it?
-It's most likely the partition's index. Check out the specs for the filesystem type that is in the partition. That should give you an idea of what is going on inside the partition. 

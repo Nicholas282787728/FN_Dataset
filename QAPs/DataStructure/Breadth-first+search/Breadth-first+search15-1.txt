@@ -1,2 +1,0 @@
-What are the C# simplest examples of implementation of breadth-first search and depth-first search?
-So far these two were the most helpful: Breadth First Search - C# Depth First Search - C# 

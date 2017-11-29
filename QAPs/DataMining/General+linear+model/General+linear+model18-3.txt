@@ -1,2 +1,0 @@
-★What is Least Angle Regression and when should it be used?
-Just a minor clarification of Rajat and Dawei's answers.  LARS is a method for finding the entire regularization path (changing beta in Rajat's answer from 0 to infinity) in a way that is nearly as computationally efficient as lasso.  Lasso solves this for a single setting of beta.  So unless you know the true value of beta or you cannot spare the minor computational penalty of using LARS, it should be the preferred method.    Embed Quote

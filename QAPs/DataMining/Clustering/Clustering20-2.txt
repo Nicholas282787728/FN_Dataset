@@ -1,2 +1,0 @@
-Can PCA be used for graph clustering or community mining?
-Yes, but if you have the wrong representation of your data you're wasting your time.    Embed Quote 

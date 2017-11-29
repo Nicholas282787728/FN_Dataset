@@ -1,2 +1,0 @@
-In image compression by JPEG, is Huffman coding employed for the whole image as one, or for every 8x8 block?
-Thanks for the A2A. Huffman encoding is applied to the DCT coefficients of each 8x8 block. So it’s the all the 8x8 blocks in the image together. JPEG Huffman Coding Tutorial 191 Views · 2 Upvotes · Answer requested by Murali

@@ -1,2 +1,0 @@
-★How can we fake our IP address?
-Use tor, proxy or VPN

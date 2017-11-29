@@ -1,2 +1,0 @@
-★What is the allure of writing in a plain text editor?
-Everybody has a plain text editor. It's very usefull when you want to show some quick stuff and don't want to wait to download and install. I used the windows bloc note for several days before downloading Brackets (for JavaScript). The python IDLE editor is quite good too. No fancy stuff, just a text editor.    Embed Quote

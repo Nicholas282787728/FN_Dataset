@@ -1,2 +1,0 @@
-★What is the difference between statistics and machine learning?
-From my understanding of the present world,this seems to be Probably Approximately Correct: "Statisticians need not be Engineers, Machine Learning guys are specialized engineers/scientists."    Embed Quote

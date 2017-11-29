@@ -1,2 +1,0 @@
-★What protocol does HomeKit use to communicate with its devices?I know that HomeKit uses Wi-Fi and Bluetooth. I'd like to know more about how does it discover the devices over WiFi and what protocol does it use to communicate to them.
-The protocols used are Bonjour, HTTP, and standard bluetooth profiles.

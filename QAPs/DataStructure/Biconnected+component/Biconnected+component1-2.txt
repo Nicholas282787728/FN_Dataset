@@ -1,1 +1,0 @@
-Is there any difference between the lowlink and the lowpoint variables used in Tarjan's algorithms for finding the strongly connected components and the biconnected components?

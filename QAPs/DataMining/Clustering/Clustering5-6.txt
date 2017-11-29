@@ -1,2 +1,0 @@
-What are the most practical ways to select the "right" number of clusters?
-Look at this (related to the "Partition around medoids" algorithm). http://www.unesco.org/webworld/i... Basically, you can look at something called the silhoutte width to get a kind-of goodness of fit for your clustering. There's a book that deals with this in much greater detail, can't remember what it's called or the names of the authors.    Embed Quote 

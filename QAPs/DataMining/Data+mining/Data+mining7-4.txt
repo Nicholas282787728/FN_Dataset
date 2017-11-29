@@ -1,2 +1,0 @@
-What are the best Python 2.7 modules for data mining?
-You can consider the following for web mining/scraping - 1) urllib/urllib2 2) Beautifulsoup 3) Mechanize    Embed Quote 

@@ -1,2 +1,0 @@
-What is a breadth first search?
-If you are searching on a hierarchical structure, it means that you will search all elements of a level for  a match before going to the next level. Of course, Wikipedia know it also: Breadth-first search 

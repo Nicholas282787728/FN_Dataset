@@ -1,2 +1,0 @@
-★What are the best open source machine learning libraries written in Python?
-This article "aims to list and describe the most useful machine learning tools and libraries that are available for Python." Python Tools for Machine Learning It briefly describes each tool listed, along with the specific strength of each. (Thank you to others who posted, great answers here).    Embed Quote

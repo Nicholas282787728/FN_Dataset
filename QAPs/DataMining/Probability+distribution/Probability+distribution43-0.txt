@@ -1,2 +1,0 @@
-★What is the probability distribution for mRNA bases?
-Depends on the organism: it will generally reflect the %(G+C) content of the DNA. In eukaryotes this may be altered since so much of the DNA is non-coding.    Embed Quote

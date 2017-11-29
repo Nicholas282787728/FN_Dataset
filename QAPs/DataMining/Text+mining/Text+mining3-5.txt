@@ -1,2 +1,0 @@
-★What are good starting points (books, tools ) for learning text mining?
-Manning: Taming Text    Embed Quote

@@ -1,2 +1,0 @@
-What are the most cost effective Business Intelligence tools?
-In my personal opinion a big problem is the disconnect between enterprise BI platforms (like Cognos) and self-service BI applications (like Tableau, Qlik, Spotfire, ...). Imagine all the manual extractions and sending through data via email time after time. A tool like CoRePublisher easily solves this. You can find some more info in this Slideshare presentation if you're interested: CoRePublisher - what's it for?    Embed Quote 

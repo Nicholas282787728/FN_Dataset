@@ -1,2 +1,0 @@
-★Is IPv4 address saturation still a crisis situation?
-That depends on your definition of 'crisis'.  Unless you're an IPv6 bigot, there is no crisis.  No one will starve, no one will die, no one will even have a wardrobe malfunction due to the IPv4 runout.  We will see a market (continue to) develop for IPv4 addresses and more usage of NAT.  Sure, some people will migrate to v6, but they'll also be dependent on translation to be effective. Mostly, not much will change.  And it will not change quickly.

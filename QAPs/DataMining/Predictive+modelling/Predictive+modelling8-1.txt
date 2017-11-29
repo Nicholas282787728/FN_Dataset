@@ -1,2 +1,0 @@
-★How accurate are predictive models?How accurate are predictive models? Or is this a question of..how good is the data?
-For any analytical models data is a very important aspect. An analyst should know what type of data he/she requires and how effectively it can be used for making the required model. So it's not confined to Predictive analytics, it is same for evey type of analytics.    Embed Quote

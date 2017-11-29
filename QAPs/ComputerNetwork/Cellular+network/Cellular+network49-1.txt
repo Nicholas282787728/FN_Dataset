@@ -1,2 +1,0 @@
-★Is it possible to make a video call via a cellular network in the Lollipop version?
-Yes you can. I have used Skype,Hangouts call via 3G on Android 5.0.2.

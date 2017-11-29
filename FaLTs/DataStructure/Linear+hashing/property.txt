@@ -1,1 +1,0 @@
-The cost of hash table expansion is spread out across each hash table insertion operation, as opposed to being incurred all at once.[2] Linear hashing is therefore well suited for interactive applications.

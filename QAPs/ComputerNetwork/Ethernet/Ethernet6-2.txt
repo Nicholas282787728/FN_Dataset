@@ -1,2 +1,0 @@
-★What is the relationship between Ethernet and LAN?
-LAN stands for Local Area Network: it's a computer network between local computers, which means in a limited area such as a company's building, a home... Ethernet is a technology for wired communications between computers in a LAN. It defines standards for communications and provides the physical medium.

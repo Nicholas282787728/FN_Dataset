@@ -1,2 +1,0 @@
-★Why don't all data cables use MagSafe connections?i.e. a connector that isn't friction or clip fastened at the end.
-The biggest reason is that MagSafe only works well for connections that can be physically interrupted without side effects. A power cable can easily be disconnected and the device just stops charging. A data cable however will usually cause problems if disconnected abruptly while transferring data.

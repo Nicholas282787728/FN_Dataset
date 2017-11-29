@@ -1,2 +1,0 @@
-★How do I get started on machine learning this summer, especially focusing on information extraction?
-For Machine Learning: Attend Machine Learning online course by Andrew Ng on Coursera. It starts with basics and is very good to ground your concepts. For Information Extraction: Start reading "Introduction to Information Retrieval" by Manning, Raghvan and Schutze. Follow the link: Introduction to Information Retrieval.    Embed Quote

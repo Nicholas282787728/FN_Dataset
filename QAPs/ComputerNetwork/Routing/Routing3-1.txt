@@ -1,2 +1,0 @@
-★What is the difference between switching and routing?
-In a very very simple way - routers are connecting networks and work with IPs, and switches only reside inside the network and work with MAC addresses. Once outside the network there is no information about MAC addresses in the packets.    Embed Quote

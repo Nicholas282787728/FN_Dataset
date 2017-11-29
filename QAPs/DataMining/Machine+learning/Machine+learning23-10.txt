@@ -1,2 +1,0 @@
-★What is the best machine learning algorithm?
-There is no single model that works best for all problems. You must always assess trade-offs of different machine learning algorithms before choosing the model for your problem. Read on: No Free Lunch Theorems for more elaborate explanation.    Embed Quote

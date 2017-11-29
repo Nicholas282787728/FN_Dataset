@@ -1,2 +1,0 @@
-How can I create a database using Java, as I have to design an online library management system using Java only?
-Assuming your underlying database is MySql, you can create a database in java using the following code : Class.forName("com.mysql.jdbc.Driver"); Connection conn = (Connection) DriverManager.getConnection("jdbc:mysql://localhost/", "root", "root"); conn.createStatement().executeUpdate("Create Database TESTDB"); If you are using any other database, please modify the database driver and the connection string accordingly.. Updated 23 Jan • View Upvotes

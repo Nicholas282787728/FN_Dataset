@@ -1,1 +1,0 @@
-Is sorting algorithms a closed topic?Well the bucket sorting techniques have the linear time complexity. If some one figures out a logarithmic time complexity, that would be really great. Wouldn't it be? 

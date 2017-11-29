@@ -1,2 +1,0 @@
-It took me nearly 3 weeks to understand what a binary search tree is, am I stupid?
-If you NOW understand what it is, then you're not stupid. Would I be correct in guessing that you 'thought' you knew what a binary tree was 3 weeks ago?  If so, you were at a severe disadvantage since you first had to unlearn a faulty concept that you didn't even realize you had ... be happy it only took you 3 weeks! 

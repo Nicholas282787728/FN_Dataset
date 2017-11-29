@@ -1,2 +1,0 @@
-Can someone write a canonical huffman code example in python?
-Here is one from GitHub. Huffman 1k Views

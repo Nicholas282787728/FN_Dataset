@@ -1,2 +1,0 @@
-What are the trickiest things about associative arrays in PHP?
-Keys maintain order. An array can have both numeric and string keys side-by-side. 

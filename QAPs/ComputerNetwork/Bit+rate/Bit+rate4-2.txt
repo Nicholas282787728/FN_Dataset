@@ -1,2 +1,0 @@
-★Digital Audio: What file type has the highest bit rate?
-Bitrate and Containers are independent of each other. Please do not confuse the two. You can have a 400kbps mp3 and a 50kbps wav file. It depends on how it is encoded.

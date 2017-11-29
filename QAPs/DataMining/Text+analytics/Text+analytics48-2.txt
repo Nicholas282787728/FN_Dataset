@@ -1,2 +1,0 @@
-★What are some good open source (and possibly free) text normalization/mining/analytics tools?
-The analysis services themselves are not open source, but I tested a bunch of the cloud-based services with the open source tool, SemantAPI toolkit. It lets you compare the engines of, AlchemyAPI, Bitext, Chatterbox, Viralheat, Semantria, and Amazon's Mechanical Turk so you can tell which one gives better output.    Embed Quote

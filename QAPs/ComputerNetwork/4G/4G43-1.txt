@@ -1,2 +1,0 @@
-★How much faster is 4G relative to 3G?I know that 4G is being claimed by many of the carriers now and it is based on 3G+ ... an upgrade (not 4G)
-Depending on the definition of current version, 3GPP R8 has been out for quite a while and gives 42Mbps downlink, 11Mbps uplink for HSPA+, but as Rupert pointed out earlier, these are top line theoretical numbers :)

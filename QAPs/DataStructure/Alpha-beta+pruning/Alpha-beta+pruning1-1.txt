@@ -1,1 +1,0 @@
-How would you use alpha-beta pruning for calculating the minmax values in a game tree? Frequently asked inAlso what do you do in case of a tie? can you show the alpha/beta value as an example in a node or two? what is the quickest general algorithm? the root node is the max level.

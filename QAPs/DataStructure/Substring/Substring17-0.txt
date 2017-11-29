@@ -1,2 +1,0 @@
-What is the best algorithm to find the longest reoccurring substring in a string?
-See Longest repeated substring problem. 

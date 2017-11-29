@@ -1,2 +1,0 @@
-★Why isn't supervised machine learning more automated?
-Because you need to know your data well to tune the model, and there is no universal effectiveness measure for all models. Some commercial solution like SAS Enterprise Miner does have automated modules to rapidly build predictive models, but you need to pre-process the data first before feeding them to the solution.    Embed Quote

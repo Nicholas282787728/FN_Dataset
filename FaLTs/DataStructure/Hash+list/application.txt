@@ -1,3 +1,0 @@
-Hash lists can be used to protect any kind of data stored, handled and transferred in and between computers. An important use of hash lists is to make sure that data blocks received from other peers in a peer-to-peer network are received undamaged and unaltered, and to check that the other peers do not "lie" and send fake blocks.
-
-Usually a cryptographic hash function such as SHA-256 is used for the hashing. If the hash list only needs to protect against unintentional damage less secure checksums such as CRCs can be used.

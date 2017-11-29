@@ -1,2 +1,0 @@
-★How important are information retrieval systems?Is it worth it to do research specifically in IR systems? (in terms of employment upon graduating)
-Extremely important. Systems always need both input and output. Storing data and not being able to have a meaningful way to retrieve it is as good as throwing it away.    Embed Quote

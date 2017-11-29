@@ -1,2 +1,0 @@
-How do I get the address of variables of the primitive data types in Java?
-You may try  sun.misc.Unsafe class which has low level memory related methods as well. Google should return you helpful results on how to use this class. 

@@ -1,2 +1,0 @@
-What is an intuitive explanation of Huffman coding?
-In normal English text, letters do not appear with the same frequencies. If you look, you'll find that e, t and a are the most common while a few like q and z are really rare: This is why Scrabble tiles have different values! ... (more)

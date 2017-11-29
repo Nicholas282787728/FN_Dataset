@@ -1,2 +1,0 @@
-★What are low-cost ways to implement wireless communication in embedded systems?
-As with any embedded project, you'll have to evaluate tradeoffs among power, performance, form factor, and cost.  That being said, Sparkfun and Adafruit both carry a selection of WiFi and ZigBee compatible shields for Arduino, in addition to helpful datasheets, code to get you started, and active communities that can answer your questions.    Embed Quote

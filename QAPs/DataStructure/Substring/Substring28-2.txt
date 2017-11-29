@@ -1,2 +1,0 @@
-What searching algorithm does Ctrl+F use to find words and substrings on a webpage?
-It depends on the browser. Chrome and Firefox use (variants of) Boyer-Moore. Really, really clever algorithm, that one. The others will probably use the same algorithm, but I don't know for certain (and for closed-source browsers, not many people do). 

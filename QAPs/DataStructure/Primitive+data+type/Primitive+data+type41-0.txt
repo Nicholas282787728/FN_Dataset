@@ -1,2 +1,0 @@
-Why is the Boolean data type absent in C?
-It is there in the C programming language,  and has been there for 15 years. It's spelled _Bool and is #define'd to bool in stdbool.h 

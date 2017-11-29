@@ -1,2 +1,0 @@
-If any programming language contains a primitive data type then it is said to be not a pure object oriented language, but Java consists of primitive data types and still it is called as a pure object oriented language, why?
-I am pretty sure I read except for primitive data types, everything in Java is object oriented. Which implies that a small exception can be given in this case or things like that! (Seriously, if we define a base bit class and extend everything from it, wouldnt the language be so slow that no one uses it?) 

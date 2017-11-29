@@ -1,2 +1,0 @@
-What Algorithm is used by java's contains() function for substring search?
-From java.lang: String.java it relies on the indexOf method as follows: return indexOf(s.toString()) > -1; 

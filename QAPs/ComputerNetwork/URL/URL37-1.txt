@@ -1,2 +1,0 @@
-★Is there an URL shortener API with no rate limit?
-I have a url shortener that currently has no rate limit . psbe.co we developed it ourselves .    Embed Quote

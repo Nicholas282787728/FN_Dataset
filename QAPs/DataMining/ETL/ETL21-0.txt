@@ -1,2 +1,0 @@
-★What are the best frameworks for ETL processing using Python?
-Python itself, and I'm currently learning bits and pieces of Pandas - it has oodles and oodles of handy shortcuts to slice and dice your data.    Embed Quote

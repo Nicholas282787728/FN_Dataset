@@ -1,1 +1,0 @@
-What are some real-world applications of a queue data structure?By real world example, I am assuming you are asking related to computer. Queue is used in BFS(Breadth First Search) algorithm. It helps in traversing a tree or graph. Queue is also used by Operating systems for job scheduling. Queue is used in networking to handle congestion. 80 Views

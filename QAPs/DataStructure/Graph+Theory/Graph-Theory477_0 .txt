@@ -1,1 +1,0 @@
-What do the number of trees in the DFS forest tells us?Assuming the graph is undirected, the number of trees in the forest tells us the number of conected components in the undirected graph. 45 Views  View Upvotes

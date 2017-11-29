@@ -1,2 +1,0 @@
-Suppose we randomly generate n independent ordered pairs [math] (x_i,y_i) [/math] where [math] x_i, y_i \sim Uniform[0,1] [/math] what is the probability density function of the product moment correlation coefficient?
-I assume the independence of pairs and independence of components of each pair. You define by your question just the probability density function for which you ask. 

@@ -1,2 +1,0 @@
-★Why is the charge injection error voltage subtracted in the switched capacitor circuits?
-it depends on the device you are using, like if the device is nmos the charge is negative and negative sign appears and if device is pmos the charge is positive

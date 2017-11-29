@@ -1,2 +1,0 @@
-What is the best data structure for a 2D real-time game for drawing and collisions?
-Use an existing 3D game engine, with physics, and spare yourself from reinventing the wheel. If your interest is to build and publish the game, that is (and not just learn and explore how it could be done). I recommend Unity3D - beside helping you in building the game, is a widely-used platform, so that is a knowledge that can you may use also later. 

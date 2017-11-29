@@ -1,2 +1,0 @@
-★Why do we square instead of using the absolute value when calculating variance and standard deviation?
-I'm not sure that one is preferable over the other. There are also two types of standard deviation. When finding the absolute value you are doing what is known as the absolute mean. Generally standard deviation is used in physics and what you get on a calculator. That is all I have to say about that.    Embed Quote

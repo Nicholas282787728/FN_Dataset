@@ -1,2 +1,0 @@
-Which statistical tool is best for data mining?
-A few years ago I reviewed a number of these for the organization I worked for at the time. SAS came out on top but it was more expensive than the others. In the current environment, while SAS is the industry leader, I would not discount the role that R or Python have to play. Ultimately the right choice will depend on the types of analysis you wish to to and your budget.    Embed Quote 

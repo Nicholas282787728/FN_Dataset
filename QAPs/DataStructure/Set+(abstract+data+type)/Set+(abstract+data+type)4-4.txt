@@ -1,2 +1,0 @@
-What do C/C++ programmers know that Haskell programmers don't?
-They know how much things cost and how the underlying hardware works (or at least the processor). In Haskell you don't really care about this. Sure there are optimizations and efficient data structures that you can use (such as vector: Efficient Arrays). 

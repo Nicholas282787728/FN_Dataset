@@ -1,2 +1,0 @@
-★What does a GARCH model "see" in data that standard deviation doesn't?
-In simplest terms, the GARCH model sees the previous standard deviations of your data. When you extrapolate a simple standard deviation, you make the assumption that future data will have the same variance. GARCH does not make that assumption and instead keeps track of how variance is changing as new data comes in. This way, any wild swings on a single day will be factored in.    Embed Quote

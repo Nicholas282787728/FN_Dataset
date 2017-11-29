@@ -1,2 +1,0 @@
-★Could there be an open source equivalent to Parse (the cloud backend)?
-There is also deployd - https://github.com/deployd/deployd which also has a hosted version - http://www.deployd.com/    Embed Quote

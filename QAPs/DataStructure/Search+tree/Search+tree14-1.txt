@@ -1,2 +1,0 @@
-Which search tree is the best to use for programming competitions?
-If you are planning to use a search tree just for the look up, then don't use a tree. Use Hash Tables. It provides a faster look up of O(1) in most cases. Java provides good Hash Set/Map utils. If you want a guaranteed O(nlogn) performance or the problem requires you to have a tree, then use Red Black Trees instead of Binary Search Tree. BST can become skewed and unbalanced easily. Tree Set of Java uses Red Black Tree in the implementation. 

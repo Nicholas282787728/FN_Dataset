@@ -1,5 +1,0 @@
-Here is a simple example of index register use in assembly language pseudo-code that sums a 100 entry array of 4-byte words:
-Clear_accumulator
-   Load_index 400,index2  //load 4*array size into index register 2 (index2)
-loop_start : Add_word_to_accumulator array_start,index2   //Add to AC the word at the address (array_start + index2)
-   Branch_and_decrement_if_index_not_zero loop_start,4,index2   //loop decrementing by 4 until index resister is zero

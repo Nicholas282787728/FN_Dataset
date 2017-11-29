@@ -1,2 +1,0 @@
-★Optical Fiber: What is a good quality, reasonably priced OTDR test unit?We operate several metro fiber rings as part of our network footprint.  We are looking to purchase an OTDR so we can do panel-panel testing of our dark fiber rings when we have an issue.  Looking for some recommendations on good ones to evaluate.
-I always liked the Fluke OptiFiber OTDR. It's been superseded, but if you don't like the new model, you can get the prior gen used on eBay pretty readily.    Embed Quote

@@ -1,2 +1,0 @@
-★Is there really a noticeable difference between an audio file that has a 256 kps bit rate and one that has 128 kps?
-If some conditions are met, yes you can easily with MP3: - decent audio equipment - be able to switch quickly between the two versions - music with sharp attacks in the high frequencies You'll hear the artifacts in the 128kbps version. And almost none in the 256kbps.

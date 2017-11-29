@@ -1,2 +1,0 @@
-★Why is there a MAC address and an IP address?
-Its very hard to combine MAC addresses to form a common sub-network, as machines may have different MAC addresses. If only MAC's were used, when an existing machine with MAC A ,  is replaced with a new machine, then the network should be modified to include new machine's MAC B. If IP's are assigned to them, we can use the same IP for the replaced machine too, this makes life easier for ISP's.    Embed Quote

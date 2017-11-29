@@ -1,2 +1,0 @@
-★What are some common applications of Hidden Markov Models in bioinformatics?
-Isochore detection Sequence similarity    Embed Quote

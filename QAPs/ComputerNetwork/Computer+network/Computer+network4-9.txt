@@ -1,2 +1,0 @@
-★What is the most important computer networking protocol?
-Though many people will argue that IP protocol is the most important protocol in computer networking (which is true in some senses), you might also want to understand that this importance is actually its shortcoming. According to Simon S. Lam, "IP is like a straitjacket that confines the Internet's development to specific directions."

@@ -1,2 +1,0 @@
-★Which are the best US graduate schools for studying computer networks?Please suggest some good schools apart from the usual suspects (CMU, MIT, Stanford, UCB). I am not too keen on wireless networks.
-I'd throw in UC San Diego. Is home to Caida (www.caida.org) which has a long, long history in researching networks and networking.

@@ -1,2 +1,0 @@
-★How do I get started in Artificial Intelligence?
-In my firm opinion the most accurate and the best approach to AI will be the neuroscience approach. You can take the standard ML and AI path, but alongside, you should begin a study of computational and cognitive neurosciences. A very accessible book/books is/are found here: https://grey.colorado.edu/CompCo... and here: Computational Explorations in Cognitive Neuroscience    Embed Quote 

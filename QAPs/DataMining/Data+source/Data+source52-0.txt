@@ -1,2 +1,0 @@
-Where can I find public or free real-time or streaming data sources?
-There is an hourly updated feed of weather observations and forecasts from the UK Metoffice released as Open Data here: 3 hourly weather forecast and observational data - UK locations There is also an IRC chan with the live log of wikipedia edits on the #en.wikipedia channel of the  irc.wikimedia.org server. See the following page for more details:  IRC/Channels - Meta    Embed Quote 

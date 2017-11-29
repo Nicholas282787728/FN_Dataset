@@ -1,2 +1,0 @@
-I want to learn quantum mechanics. Where do I begin?
-Begin by studying classical Newtonian physics and undergrad level mathematics. Take the standard Engineering Physics course and finish off two years of calculus, plus linear algebra, diffeq, and complex number theory. Then you'll have a firm theoretical foundation for starting quantum mechanics. 

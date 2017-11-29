@@ -1,2 +1,0 @@
-What do people think of the TensorFlow sucks article?
-If you have in your hands hammer, everything around looks like a nail. What will happen, if you use hammer for screw? It will work, but you’ll need to apply additional efforts. The same about Tensorflow. It is great tool, but use it for the purpose that google intended it. Don’t expect screw to behave like a nail. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 120 Views · Answer requested by Kiki Rizki Arpiandi

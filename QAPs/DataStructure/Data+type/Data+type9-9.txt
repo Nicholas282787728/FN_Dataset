@@ -1,2 +1,0 @@
-What is void data type?
-void data type return nothing. 125 Views

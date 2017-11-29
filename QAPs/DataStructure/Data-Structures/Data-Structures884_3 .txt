@@ -1,1 +1,0 @@
-What is use of malloc function in linked list?Malloc is generally used to dynamically allocated memory in heap section of memory. Malloc returns pointer to that location that is the address of the location. In data structure when a structure is created they provide memory location in heap section of memory. 25 Views

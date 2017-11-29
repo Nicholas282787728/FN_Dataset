@@ -1,1 +1,0 @@
-What are two efficient implementations of a priority queue using binary trees?I have an assignment asking me for two different and efficient implementations.

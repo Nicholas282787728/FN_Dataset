@@ -1,2 +1,0 @@
-How would you insert a node in a hash table?
-There are plenty of hash functions available and used extensively. But whatever hash functions you use, you need to try to minimize hash collisions to almost negligible. There are plenty of simple hash functions like division function, multiplication one...or you can even use hash functions like md5, sha..etc. 554 Views

@@ -1,2 +1,0 @@
-How can I make an e-dictionary that is bilingual?
-With parallel arrays. 

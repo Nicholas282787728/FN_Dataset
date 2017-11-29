@@ -1,2 +1,0 @@
-How do I strengthen my knowledge of data structures and algorithms? Both have left me with a fractured knowledge of the subject with lots of gaps in between. What would be a good way to go about filling the gaps and making progress?
-Compiler design is definitely an area that is saturated with data structures and algorithms. And it's great fun too. I fondly remember the time I spent on Allen Holub's book 'Compiler Design in C' a few decades ago. I'm sure  more recent material is easily found. 2k Views · 3 Upvotes

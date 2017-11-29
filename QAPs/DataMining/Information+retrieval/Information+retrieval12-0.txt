@@ -1,2 +1,0 @@
-★How is KL divergence applied in information retrieval?
-I am writing this under the assumption that querying a database for information also comes under the domain of information retrieval. KL divergence as a distance measure (albeit loosely since it is not symmetric, hence not a metric) is quite widely used while estimating similarities/distances. The idea of Mutual Information is an indirect usage of KL divergence.  Mutual Information is defined as Where and are discrete random variables.    Embed Quote

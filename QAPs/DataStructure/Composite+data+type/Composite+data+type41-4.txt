@@ -1,1 +1,0 @@
-In Hadoop MapReduce, is it possible to support multiple reduce methods for the same Mapper input?

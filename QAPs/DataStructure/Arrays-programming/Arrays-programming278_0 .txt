@@ -1,1 +1,0 @@
-How do I search for an element in an array without sorting?Use linear search 251 Views  View Upvotes

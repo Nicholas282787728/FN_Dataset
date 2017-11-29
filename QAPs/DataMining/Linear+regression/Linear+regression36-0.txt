@@ -1,2 +1,0 @@
-★When is it appropriate to condition on a binary variable in a linear regression vs. including it as a feature in the linear regression?The former would produce two separately trained regression models. The latter would produce one.
-Conditioning implies the models have all interactions between the binary variable and other variables and well as different error variances. That's a pretty big difference compared to just a variable. Is that what you want?    Embed Quote

@@ -1,2 +1,0 @@
-★How do I learn about time series analysis?
-I found this course very helpful, Stochastic Hydrology by IISc Bangalore. NPTEL :: Civil Engineering   What the class covers: You may skip the case study lectures if you are not into hydrological engineering. Lecture notes and assignments:  NPTEL Phase II :: Civil Engineering    Embed Quote

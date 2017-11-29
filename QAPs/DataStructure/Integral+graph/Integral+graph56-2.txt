@@ -1,2 +1,0 @@
-How do I make velocity vs time graph into position vs time graph?
-Pretty sure that you take the integral of it. The derivative takes position and makes velocity and the opposite of that is an integral. 

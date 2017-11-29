@@ -1,2 +1,0 @@
-★Why does plugging two ends of an ethernet cable into a router cause it to crash?
-If you plug a cable into two LAN ports, you'll create a physical loop that causes a broadcast storm. This doesn't really crash the router, but saturates the router's switch with traffic (you'll see all the LAN port lights blink continuously) so that no other data can get through.

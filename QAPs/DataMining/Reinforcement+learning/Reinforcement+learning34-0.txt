@@ -1,2 +1,0 @@
-★Name companies(along with applications) where reinforcement learning is used for problems?
-Honda's Famous ASIMO uses Reinforcement Learning Google recently acquired DeepMind which uses Reinforcement Learning Google uses it in their Self Driving Cars    Embed Quote

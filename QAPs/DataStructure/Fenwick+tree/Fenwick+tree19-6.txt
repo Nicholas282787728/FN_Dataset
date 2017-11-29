@@ -1,2 +1,0 @@
-What is the most complex line of C code you have created or encountered?
-Swapping two variables using XOR gate if (x != y) *x^=*y^=*x^=*y; Src: XOR swap algorithm This is one of the techniques of swapping the values of 2 variables without using a temporary variable, apart from using + and -, * and /, squaring and sqrt(), or generally when they form a group. Updated 20 Oct • View Upvotes

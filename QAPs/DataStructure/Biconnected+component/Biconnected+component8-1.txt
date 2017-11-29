@@ -1,1 +1,0 @@
-What could be the approach to solve the problem POLQUERY on SPOJ?Ok it is clear that the problem is based on Articulation Points and Bridges. But what to do after that? How can I identify if there is a path from vertex say(u to v) if given edge or vertex is removed? One naive approach is to run the DFS on all Queries which could result in TLE. How to solve this thing? Thanks.

@@ -1,2 +1,0 @@
-★What language should I use for variable generation and regression analysis with large (> 1 GB) datasets?Some options I'm considering: Python, R, C++
-Try Python or Haskell.    Embed Quote

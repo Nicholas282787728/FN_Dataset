@@ -1,1 +1,0 @@
-Given an adjacency matrix of such a bipartite graph G(X,Y,E), what will be the dynamic programming solution for finding the longest path in such a graph?In this adjacency matrix, 1s in each row should be consecutive and also it will be consecutive in each column. X={x1,x2,...x9} Y={y1,y2,...,y9}.

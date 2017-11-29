@@ -1,1 +1,0 @@
-How is the cocktail sort algorithm faster than the bubble sort algorithm?Since, in the implementation of Cocktail sort, we use two loops one to go forward and the other backwards, I think it should take exactly the same time as bubble sort.For specific input data, it can be a little better (Bubble sort), but it's still an n^2 algorithm. 

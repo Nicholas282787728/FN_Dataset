@@ -1,2 +1,0 @@
-★What is uniform probability distribution?
-This is a very smooth, elementary distribution in statistics...,when all sample objects have same chance of occupance then that situation statistically described as uniform distribution... In fact there are very rare real life situations... But for logical development of us it is nice one...    Embed Quote

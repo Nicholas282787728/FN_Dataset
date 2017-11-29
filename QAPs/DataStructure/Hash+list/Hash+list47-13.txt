@@ -1,2 +1,0 @@
-What is the simplest language with which to learn algorithms and data structures?
-I am not sure what "simple" means, but for the mathematically inclined i recommend trying SETL (SET Language) which was developed at NYU and where I used it. A lot of its concepts are now available in many "modern, agile" languages (python), but at the time I thought it was very powerful. For a quick example from wikipedia this prints all prime numbers from 2 to N. print([n in [2..N] | forall m in {2..n - 1} | n mod m > 0]); 

@@ -1,1 +1,0 @@
-What are the advantages of linked implementation of lists over contiguous list implementation?See Gregory Schoenmakers' answer to What is the difference between an array, a list, and a linked list? 44 Views  View Upvotes  Answer requested by Harshi Fernando

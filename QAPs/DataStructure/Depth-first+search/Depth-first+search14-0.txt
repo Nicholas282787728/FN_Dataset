@@ -1,2 +1,0 @@
-Why the predecessor subgraph of a depth-first search forms a depth-first forest not a tree?
-Because we cannot assume every vertex can be reached starting from the source vertex chosen, in which case we have to pick another source(thus another root node in the forest) and countinue. This can happen even if the graph is undirected - the graph is not necessarily connected. 1.5k Views · 4 Upvotes

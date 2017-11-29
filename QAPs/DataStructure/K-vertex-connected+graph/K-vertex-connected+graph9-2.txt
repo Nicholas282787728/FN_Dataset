@@ -1,2 +1,0 @@
-What are some of the most interesting Feynman diagrams?
-This one, describing a leading order term in photon-photon scattering. For more about this diagram, see my answer to Why are Bosons, not fermions, responsible for carrying force?. 

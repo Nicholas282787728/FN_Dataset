@@ -1,1 +1,0 @@
-Is it possible to have linked lists of different data types?yes, because node of linked list is struct data type, which can have any data types. 47 Views

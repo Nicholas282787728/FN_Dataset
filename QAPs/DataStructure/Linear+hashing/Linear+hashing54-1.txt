@@ -1,2 +1,0 @@
-Is the linear formation the best sorting production?
-I would have to say No. As you've mentioned, linear method's worst case is O(n). There are faster method like e.g. merge sort which worst case is O(n log n) regardless of the order you want (low to high/high to low). Nonetheless, it will always depend on the Data Structure. 

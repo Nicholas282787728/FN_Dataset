@@ -1,2 +1,0 @@
-★My email conversation with our chinese supplier is somehow being tapped by a scammer. How can I communicate securely with them?
-As mentioned in Kim Guldberg's answer, you can use PGP encryption to perform the task. This video explains how PGP asymmetric encryption works. There is a "how-to" video made by Snowden, being shared on Youtube as well. You may find it interesting.

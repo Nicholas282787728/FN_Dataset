@@ -1,2 +1,0 @@
-Which tools do you use for visualization? What do you think of Tableau? R? SAS? (for graphs).
-Tableau is excellent for visualization. For visualizing data in R, the ggplot2 library is probably the easiest to use. Here is a great tutorial in pdf format: Page on Ggplot2. I'd recommend investigating the matplotlib library for Python, which is also easy to use. And as another poster mentioned, D3.js is probably the best visualizations library available (in terms of aesthetics and functionality), although javascript isn't exactly a data-friendly programming environment. 

@@ -1,2 +1,0 @@
-★How do you connect the Dish Coaxial Cable to a different TV?
-Unplug the power cord from the satellite TV receiver and unscrew the dish LNB cable connector. Disconnect from TV. Move the receiver to the 'different' TV and connect it. Move the cable coming from the dish to the receiver and connect the coaxial cable 'F' plug. Connect receiver to TV. Connect power. Select the receiver as the TV signal input source.

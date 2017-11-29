@@ -1,2 +1,0 @@
-What are some good questions on CodeChef from which I will learn more algorithms?
-Thanks for this share of good resources. I would like to share the following resources as well: 83. Ternary Search: Tutorial, Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, Problem7, Problem8, Problem9 84. Line Sweep: TC Tutorial, CF Tutorial, SACO Implementation, Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, Problem7, Problem8, Problem9, Problem10, Problem11, Problem12, Problem13, Problem14(Prostor), Problem15, Problem16, Problem17, Problem18(Radial). 

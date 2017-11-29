@@ -1,2 +1,0 @@
-★What is the simplest way to explain and interpret regression analysis to a group of people who don't have any background in mathematics?
-Draw an example.  Draw a bunch of points on a piece of paper then draw a line through them.    Embed Quote

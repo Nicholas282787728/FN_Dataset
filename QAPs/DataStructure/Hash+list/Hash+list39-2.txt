@@ -1,2 +1,0 @@
-What is the fastest way to remove duplicates from a list in Python?Both for cases where maintaining order matters and doesn't matter.
-If you want a solution that works inplace so it can deal with really large inputs, (i.e. you don't want to copy the data around a lot), this will work: def uniq_inplace(l): i = 0 j = 1 while True: if l[i] != l[j]: i += 1 l[i] = l[j] j += 1 if len(l) <= j: break del l[j-i-1:] EDIT: Fixed so we only 'del' on end 

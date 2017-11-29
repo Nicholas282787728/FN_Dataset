@@ -1,2 +1,0 @@
-★What is the difference between G, N and AC wireless routers?
-Basically, G is the past, N the present, AC the future. Routers are backwards compatible. 802.11ac vs 802.11n - What’s the difference?: http://en.wikipedia.org/wiki/IEE...: Beware that IEEE 802.11ac is still a draft. (although pretty much already completed)    Embed Quote

@@ -1,2 +1,0 @@
-★Is high frequency trading possible in commodities markets?Do commodities markets still rely on individuals negotiating a price, the method that stock markets are using less and less?   Does the infrastructure even exist for automated trading of commodities?
-Yup, and in HK, its easier to do HFT with commodities, because stocks have a stamp tax and commodities do not.

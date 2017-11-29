@@ -1,2 +1,0 @@
-What is the difference between contravariant and covariant tensors?
-One refers to a normal vector.. A direction. Other says how a scalar field varies in a particular direction.. So that their product says how much the scalar field has varied ( A scalar.). If you didn't understand this, read about vectors and one forms to get an intuition.    Embed Quote 

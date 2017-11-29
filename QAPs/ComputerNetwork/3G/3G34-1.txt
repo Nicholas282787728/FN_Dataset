@@ -1,2 +1,0 @@
-★What is a 3G Wifi router and the uses of a 3G Wifi router?
-A 3G access point is a gateway/router which has a 3G modem for its WAN port instead of Ethernet/cable/DSL. The main reason for having one is to provide an internet connection to devices that don't have 3G in places that don't have WiFi or Ethernet. They are mainly used for business travellers.

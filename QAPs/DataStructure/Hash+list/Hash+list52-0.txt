@@ -1,2 +1,0 @@
-What are some good ways to use GeeksforGeeks i.e. what order one should follow while solving problems at GFG if he has only 2 months left?There are many topics like Algo,DS,Interview corner,C,C++,Java,Array,Bit magic,C/C++,Linked list,MCQ,Misc,Output,String,Tree,Graph.How should one start with this website.
-Everyone starting with geeksforgeeks must go for section C language first. After building concepts in C ,one should go for DS section and then go for Object oriented programming language C++.This style of studying from geeksforgeeks should beneficial for a novice. 

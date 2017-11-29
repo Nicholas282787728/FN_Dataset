@@ -1,2 +1,0 @@
-★What are the differences between an Audio Waveform and Audio Spectrum?
-These  are the two different ways to see the same thing. If you see from the time axis, it is like the waveform you see on an oscilloscope (CRO). This is viewing in Time Domain.If you see from the frequency axis, you see each frequency separated and its strength. This is Frequency Domain.

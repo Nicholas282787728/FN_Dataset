@@ -1,1 +1,0 @@
-Are arrays in JavaScript similar to Arraylists?Yes when you use them in dense mode (assign to sequential indexes or work with the push and pop operators), no when used in sparse mode (assigning elements to very different indices) - then they behave as hashmaps. 955 Views

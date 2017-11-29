@@ -1,2 +1,0 @@
-What is the best Python suffix tree implementation?
-I found Nicola Lehuen''s pytst to be blisteringly quick and accurate. basically it's a python wrapper over c suffice trie lib he wrote: http://nicolas.lehuen.com/catego... My usecase has been relatively short matching strings against long documents at high throughput. 

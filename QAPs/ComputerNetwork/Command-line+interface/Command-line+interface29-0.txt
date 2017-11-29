@@ -1,2 +1,0 @@
-★I read something about a browser without URL command line? Can you really imagine a browser without that? What kind of interface is the next one?
-Not having one would be antithetical to the unbounded nature of the web. Here's a much needed tweak to URL entry and display though. URL Bar Formatter Proposal by Robb Beal on Posts

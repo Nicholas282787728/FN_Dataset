@@ -1,1 +1,0 @@
-A data cable is any media that allows baseband transmissions (binary 1,0s) from a transmitter to a receiver.

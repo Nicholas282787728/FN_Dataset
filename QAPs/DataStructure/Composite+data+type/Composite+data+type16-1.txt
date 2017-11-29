@@ -1,2 +1,0 @@
-Is it good to move from Java to Python?I am having an experience of 2.5 years in Java and I have a very good programming skills in Java (core java) , but I got an offer to work in Python (2.6 or above version) in other company.I am completely new to Python .what will be scope of python in future?
-Do not make the decision based on the language. Make the decision based on the job. Is the job better? Are you going to work on interesting technology with growth potential? Are the skills in the job meaningful in the market? 

@@ -1,2 +1,0 @@
-★What are the advantages and disadvantages of a supervised learning machine?
-The basic function of supervised learning is to learn how to map an  input data set in to a output data set. Purpose of this learning is to  predict an output for an unseen input. So by definition it need a known input and output data sets to train. Unlike unsupervised learning it cannot cluster or classify data by discovering their features by its own. Other than that, advantages or disadvantages of supervised learning depends on what supervised learning algorithm you use.    Embed Quote

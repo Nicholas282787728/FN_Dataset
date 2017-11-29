@@ -1,2 +1,0 @@
-★How much on an effect will IPv6 have on the average user?I tried to access http://ipv6.google.com/ and i'm unable to. Does it have to do with my internet provider or my PC.
-If it has a direct effect on users, then we've done it horribly wrong. The indirect effect may be as an enabler for ubiquitous computing and the embedding of networked intelligence in the fabric of users' environments. IPv6 (or rather, minimally constrained addressing and connectivity) is only one piece of the puzzle for us to move to a ubiquitous computing future.    Embed Quote

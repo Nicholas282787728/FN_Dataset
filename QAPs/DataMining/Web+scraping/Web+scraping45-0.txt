@@ -1,2 +1,0 @@
-★What is the best Amazon AWS AMI for web scraping?
-You can use the smallest EC2 instances with the Amazon Linux AMI and just Python Scrapy for web scraping.    Embed Quote

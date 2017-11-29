@@ -1,2 +1,0 @@
-★What is the difference between CDMA and WCDMA network/sim?
-The basic difference between the CDMA and WCDMA is bandwidth ,CDMA uses 1.25 mhz frequency bandwidth while WCDMA uses 5 mhz bandwidth. Again CDMA is 2g telecommunication standard and provide very less data rates compared to WCDMA which is third generation technology. CDMA being 2g standard provide mainly circuit switched services while WCDMA being used in UMTS system is used in both circuit switched and packet switched networks.

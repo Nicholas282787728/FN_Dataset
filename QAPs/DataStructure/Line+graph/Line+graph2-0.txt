@@ -1,2 +1,0 @@
-What are line graphs useful for?
-Line graphs are also one of the best ways to visualize time series data. The folks at ZingChart wrote a blog post that outlines the different types of time series data and how to create a chart with a time series dataset you might find helpful. 319 Views

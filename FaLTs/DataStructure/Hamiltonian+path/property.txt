@@ -1,5 +1,0 @@
-Any Hamiltonian cycle can be converted to a Hamiltonian path by removing one of its edges, but a Hamiltonian path can be extended to Hamiltonian cycle only if its endpoints are adjacent.
-The line graph of a Hamiltonian graph is Hamiltonian. The line graph of an Eulerian graph is Hamiltonian[clarification needed].
-A tournament (with more than 2 vertices) is Hamiltonian if and only if it is strongly connected.
-The problem of finding a Hamiltonian cycle may be used as the basis of a zero-knowledge proof.
-The number of different Hamiltonian cycles in a complete undirected graph on n vertices is (n - 1)! / 2 and in a complete directed graph on n vertices is (n - 1)!.

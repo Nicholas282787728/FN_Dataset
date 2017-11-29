@@ -1,2 +1,0 @@
-Is there any book, which has all the codes for all the data structures? At least for all the tree data structures?
-This site has code for pretty much all the algorithms and data structures I imagine a competitive programmer could ever need: Algorithms and Data Structures 

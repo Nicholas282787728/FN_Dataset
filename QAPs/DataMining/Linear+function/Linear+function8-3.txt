@@ -1,2 +1,0 @@
-★How does one know that a linear function represents a line in the plane? How can it be proven?
-This can be proved by using vectors. Let f: x-> ax + b. The graph of the function is the set G = {(x,y)/y = ax + b} Takes two points of G,  M1(x1, y1) and M2(x2,y2) such as there x1 /= x2 So y1 = a.x1 + b and y2 = a.x2 + b. We prove that G is the straight line passing through M1 and M2 by double inclusion.    Embed Quote

@@ -1,2 +1,0 @@
-★How do I implement a class A, B or AB amplifier wich has a low frequency passing band?The frequency band of interest was something between DC and 2kHz. So it's a really low frequency band. I can't think of a design that wouldn't make use of large coupling capacitors or inductors. Is there any specific topology for this case?
-Probably easiest to design (or buy) a decent amplifier, and add a low pass filter to its input.  You can implement one of these using a high quality op-amp and high value resistors (and thus low value capacitors).    Embed Quote

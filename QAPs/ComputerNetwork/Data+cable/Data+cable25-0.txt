@@ -1,2 +1,0 @@
-★What is the best solution for a multi-use USB data cable for developers who want to develop on multiple devices with one cable or at least less cabling?
-Be careful. USB "squid cables" exist, but these are (mostly? always?) power-only (because if the data wires were all connected, and multiple USB devices were plugged in at once, there would be no way to send a message to a specific device).

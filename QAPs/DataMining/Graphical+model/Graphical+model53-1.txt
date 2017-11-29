@@ -1,2 +1,0 @@
-★In a directed graphical model, learning is easy but inference is hard. Is this true?
-Maybe.  With inference you sometimes have to 'undo' things and 'go back' in order to reach synthesis. With a directed model this is harder, though may be possible with enough steps. Maybe there needs to be something like a hopfield network or recurrent network where we can feed data back into previous inputs.    Embed Quote

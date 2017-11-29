@@ -1,2 +1,0 @@
-What is the original paper that introduced binary heaps?Is it available for free somewhere? How about binomial heaps?
-The earliest reference to heaps that I'm aware of is for use in heapsort, in an algorithms column in the 1964 Communication of the ACM: Algorithms 

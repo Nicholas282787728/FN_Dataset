@@ -1,2 +1,0 @@
-Set Theory: What are Cartesian products?
-Daniel's answer is correct, formally though, the cartesian product of two sets A and B written AxB = {(a,b) : a in A and b in B} meaning it is a set of pairs where the first member of each pair comes from the first set, and the second member comes from the second set. 

@@ -1,2 +1,0 @@
-Why data types are required in any programming language?
-You can read my answer for a similar question here What is data type in C language? 389 Views · 1 Upvote

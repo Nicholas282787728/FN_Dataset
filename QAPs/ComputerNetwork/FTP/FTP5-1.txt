@@ -1,2 +1,0 @@
-★What is the difference between HTTP and FTP?
-HTTP stands for hypertext transfer protocol and it is a protocol mainly used by the World Wide Web (www), it defines how the messages are formatted and transmitted through the web. For example, when you write URL in your browser it sends HTTP command to server. FTP stands for file transfer protocol and it used to transfer computer files over the network from one host to another.

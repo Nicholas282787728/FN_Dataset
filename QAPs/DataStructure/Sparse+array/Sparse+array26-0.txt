@@ -1,2 +1,0 @@
-Are there any Ruby functions that are aliased for one type of object, but have different meanings in another object?
-I think you're looking for specific examples, and I can't find one just off hand in the standard libraries, but if you think about your own example, in a Sparse Array length and size would not mean the same thing - so one would not be an alias of the other, but they would be independently implemented. 

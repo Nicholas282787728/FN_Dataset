@@ -1,2 +1,0 @@
-★To what kind of real-world problems is unsupervised learning applied?
-Anomaly detection (sometimes known as outlier detection) is a classic example, a common use for this would be fraud detection, but this could be used in other cases such as preempting hardware faults. Recommender systems is another common example e.g. recommending similar products (or products that similar users liked). Other examples are clustering analysis (e.g. k-means clustering) and dimensionality reduction e.g. PCA.    Embed Quote

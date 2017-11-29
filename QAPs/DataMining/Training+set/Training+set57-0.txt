@@ -1,2 +1,0 @@
-★I am getting a 100% accurate result on randomForest model in R for loan default data even when my training set and test set are completely non-overlapping. I am using abt 8 parameters/features for training the model. The model gives me ntree=1 and mtry=1. Is there anything wrong with 100% accuracy?
-Maybe you nave a feature that has a 1:1 correlation with the output variable.    Embed Quote

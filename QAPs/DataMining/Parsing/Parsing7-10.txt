@@ -1,2 +1,0 @@
-★Could there be an open source equivalent to Parse (the cloud backend)?
-EasyBackend(http://easybackend.com) is a drop in replacement for Parse. It is a service you can install on the servers of your choice and get the same service as Parse. If you already have code written for Parse, you can still move to EasyBackend without any code changes. It is not open source. Disclamer: I am the founder of EasyBackend.    Embed Quote

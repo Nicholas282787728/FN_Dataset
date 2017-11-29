@@ -1,2 +1,0 @@
-★What is so special about HTML5?What is so different about HTML5? How is it more capable than the previous versions and is there any capability of semantic web that can be potentially realized from HTML5?
-Recently I have been studying HTML5 & what's new with it. You can find some major features introduced in HTML5 that would change how we write application (Now I say applications because its not only limited to browsers any more and you could use it for Mobile Dev, Win 8 Dev etc.).   You can find my notes & study material at HTML5 Study Material (blogspot.in)

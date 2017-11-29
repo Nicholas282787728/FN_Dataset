@@ -1,2 +1,0 @@
-What are the necessary elements for effective game mechanics?
-Approaching game design by analyzing mechanics is like approaching architecture by analyzing wood and bricks. Mechanics are just the raw materials. Much more important is the user-response to the assembled whole. Focus on human motivation, analyze the things that make existing games entertaining. Once you have a specific human response in mind, then consider what structures could be built to support that objective, and what other designers have done to achieve that response in the past. 

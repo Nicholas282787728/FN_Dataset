@@ -1,2 +1,0 @@
-★Why does Microsoft Surface have USB ports?Does adding a USB port give Surface an edge over the other tablets?
-Because they know people want USB ports. This allows connecting cameras, keyboards, flash drives, etc. the only challenge is devices which draw a lot of power from USB like external hard drives. I'm not certain how that will be handled.

@@ -1,2 +1,0 @@
-Can a hash table be implemented using an array?
-Yes, a hash table can be implemented via an array, and as a matter of fact, it is the *STANDARD* method. Any other data structure is either suboptimal or messy. The typical use of a hash table is something like the following: int arr[size]; populate arr print arr[hashFunction(key)]; Collisions are handled by redoing the hash on a new hashed key or by chaining. 974 Views · 8 Upvotes

@@ -1,2 +1,0 @@
-★Can't a CNAME point to an IP address?
-A CNAME can't point to an IP address.  If what you're looking for is a name that points to an IP address, I believe you are looking for an A record. This Youtube video might help illustrate it further.

@@ -1,2 +1,0 @@
-What are some not too mainstream but interesting and active research areas in mathematics that require (relatively) little background knowledge to reach the "on-going research level"?
-I'm told there are large numbers of open problems in numerical analysis that may be amenable to elementary methods.  Unfortunately, numerical analysis seems to be one of those fields that has its own names for everything instead of adopting standard terminology, so learning it appears to require some unusual effort, even if the difficulties aren't mathematical in nature. 

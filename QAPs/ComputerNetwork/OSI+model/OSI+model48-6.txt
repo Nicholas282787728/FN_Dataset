@@ -1,2 +1,0 @@
-★What's the best way to get started with firmware/embedded systems programming?
-Raspberry Pi and BeagleBoard.    Embed Quote

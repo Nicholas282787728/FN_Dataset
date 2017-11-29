@@ -1,2 +1,0 @@
-★What are the purposes and basic operations of the protocols in the OSI and TCP/IP models?
-See: Computer Networks by Andrew S. Tanenbaum Internetworking with TCP/IP by Douglas E. ComerOnce you've read and understood those books, you will have the answer to this question.    Embed Quote

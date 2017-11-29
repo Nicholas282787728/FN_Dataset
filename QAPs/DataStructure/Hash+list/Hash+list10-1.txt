@@ -1,2 +1,0 @@
-Did Twitter migrate from Memcached to Redis for its timeline storage? Why?
-Another talk about twitter timeline Timelines @ Twitter Redis just makes life easier. Twitter is using redis command RPUSHX to push twitter to every followers' timeline. I believe it is RPUSHX instead of RPUSH since inactive users' timeline is not necessarily to be loaded in redis cache. 

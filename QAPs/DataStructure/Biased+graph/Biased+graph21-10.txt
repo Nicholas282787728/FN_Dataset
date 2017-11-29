@@ -1,2 +1,0 @@
-What tools do data scientists use for professional presentations (e.g. diagrams, graphs, flow charts, etc.)?
-Great answers already. I personally use Weka - not the prettiest, but quick and dirty, while doing statistical analysis. It's best to use this, while you are still doing analysis and want to share your visualizations with colleagues, who may also be using Weka. Excel - to have prettier graphs for displaying in presentations and reports. Tableau - can really create prettiest of visualizations. 2.6k Views · 5 Upvotes

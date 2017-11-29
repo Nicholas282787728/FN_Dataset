@@ -1,2 +1,0 @@
-★Why is MTU of Ethernet 1500 bytes and how was it counted?
-@ Its a plot of a simulation that was done to find the relationship between packet size and throughtput.You can observed that initially as the packet size is increased, the throughput increases till 1500 packet size. As the size of the transmitted packet increased beyond some limit, the throughput starts to degrade for the wired network.

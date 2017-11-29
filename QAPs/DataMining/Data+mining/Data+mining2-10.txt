@@ -1,2 +1,0 @@
-How do I learn data mining?
-Adding to Ayushi Dalmia's answer, University of Waikot has started MOOC for which videos are available on YouTube which may be a great starting point Data mining with Weka. WekaMOOC And if you want a certificate too, It's going to start again in March 2014. Page on Waikato You could also subscribe to Page on Kdnuggets which is one of the best resources on data mining available on the Internet.    Embed Quote 

@@ -1,2 +1,0 @@
-★What are some good books for self-studying graph theory?
-I read Diestel's book and can attest to the clarity of exposition in it. I know it's already mentioned here but I want to provide more endorsement because I loved it so much. Aside from that, Lovasz's books taught a lot of combinatorics rather well and they certainly included a lot of graph theory. One other book I currently hold is Miklos Bona's A walk through Combinatorics and while it was somewhat basic it definitely made for an enjoyable read.  Diestel is the best thing out there though.    Embed Quote

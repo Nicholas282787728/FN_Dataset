@@ -1,2 +1,0 @@
-What are some good computer science final year project ideas?
-Originally Answered: How can I choose my project for my final year (computer science project)?Speak to your professors on an interesting projects they might have or are thinking about. Maybe a part of it can be tackled by you as part of your final year project. Also, have a look at the MSc projects of other universities. All the top american unis Stanford, Berkeley, MIT etc. have a list of the projects for final year students. Go through them and consider what excites you as a CS student and go for it. 

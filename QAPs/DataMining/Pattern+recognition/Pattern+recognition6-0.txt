@@ -1,2 +1,0 @@
-★How can I make a pattern recognition project using C?
-There is library in C called OpenCV http://opencv.org If you are interested in image processing try that.    Embed Quote

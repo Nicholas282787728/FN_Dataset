@@ -1,2 +1,0 @@
-★What is the best text analytics API + service?There are a lot of text analytics / text analysis APIs out there. What is your experience and what API do you think is the best one?
-This is one of the best sentiment apis on the market Text Analytics & Sentiment Analysis API  they have twitter sentiment engine, also available via Excel Add-In    Embed Quote

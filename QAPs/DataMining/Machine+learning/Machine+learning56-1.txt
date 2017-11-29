@@ -1,2 +1,0 @@
-★What are the best machine learning packages in R?
-CRAN - Package glmnet 

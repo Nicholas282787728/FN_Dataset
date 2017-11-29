@@ -1,7 +1,0 @@
-What are the Properties of incidence matrix?Properties of Complete Incidence Matrix
-
-The sum of the entries in any column is zero.
-
-The determinant of the incidence matrix of a closed loop is zero.
-
-The rank of incidence matrix of a connected graph is (n¨C1).

@@ -1,2 +1,0 @@
-★What are the usual common business cases for Linux networking bridging?
-The answer of Jonathan Wright describe it all that you need to know obviously. I can also support his answer as I have been dealing with these in the daily setup and configuration in the course of several companies. The best to put it at use is Virtual machines and then use it as a point to connect with other remote network.

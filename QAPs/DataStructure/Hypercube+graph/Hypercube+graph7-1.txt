@@ -1,2 +1,0 @@
-I am stuck in 3D dynamic programming, and there seems to be no material on the web about that. Are there any resources to look for? . Thanks
-Try to implement top down DP first instead of bottom-up DP. There's nothing special in 3D DP, just an additional parameter in the recursion function and the dp array/map. In fact, DP problems difficulty are often easier if you can use many parameters without exceeding memory limit, and often much harder if you have to come up with less and less parameters (to avoid MLE). 

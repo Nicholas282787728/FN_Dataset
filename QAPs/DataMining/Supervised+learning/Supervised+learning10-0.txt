@@ -1,2 +1,0 @@
-★How can compressive sensing techniques be applied to a supervised learning application?
-This is like an SVM regression with L1 regularization but you can do something simpler break your regression problem into say 10 buckets and run a multiclass SVM with L1 regularization for example, you can run liblinear with -s 5 option    Embed Quote

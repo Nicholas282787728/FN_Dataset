@@ -1,2 +1,0 @@
-★How do artificial neural networks learn?
-There are several ways depend on which algorithm is being used. This question is way to vague to actually answer in depth though I would recommend reading up on algorithms such as a highly common Feed Forward Neural Network and other algorithms of ANNs.    Embed Quote

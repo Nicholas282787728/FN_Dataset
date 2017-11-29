@@ -1,1 +1,0 @@
-Is it common for programmers who work on enterprise applications to never implement data structures?Most ERP apps are bought and they come with the data structures. Only if you are extending the app, then the senior people, usually an app architect, will design and code the extended data structure. In most cases, the access methods are also coded at this time. 53 Views

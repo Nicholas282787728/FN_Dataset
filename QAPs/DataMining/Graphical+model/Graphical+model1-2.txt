@@ -1,2 +1,0 @@
-★What are some applications of Probabilistic Graphical Models?
-For some typical examples， Hidden markov model for tracking, speech recognition, natural language processing,    Latent dirichlet allocation for image categorization, document categorization,etc   Markov random field for image segmentation , restoration, etc.   Sparse Bayesian learning for sparse representation   Others, probability principle  component  analysis, mixture of Gaussian, etc.    Embed Quote

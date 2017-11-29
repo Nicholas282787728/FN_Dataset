@@ -1,2 +1,0 @@
-What is the most complex line of C code you have created or encountered?
-A co-worker of mine formerly worked at NASA, doing fluid dynamics simulations. He once had a bug that took them three weeks to track down. He showed me the C code. A typical line looked something like this: c = ******a; 

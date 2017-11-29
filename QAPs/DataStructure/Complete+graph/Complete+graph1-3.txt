@@ -1,2 +1,0 @@
-What is the difference between a complete graph and a dense graph?
-Every complete graph (\forall pair u,v \in V, \eixsts an (undirected) edge (u,v) \in E) is dense; but the vice verse is not correct. Every graph G(V,E), where |E|>=T(n)* is a dense graph. *: n=|V| and T is the predefined threshold (close to n(n-1)/2) 

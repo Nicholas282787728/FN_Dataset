@@ -1,2 +1,0 @@
-What is the best way to learn algorithms? I want to prepare for a Google interview and I am willing to spend all of my free time learning.
-hello, you should start from basic stack and some data file structure. after that you should start server management training and most important creativity development and reasoning and logical question preparation visit this link this website have official google employee who can help you to crack toughest questions Google Interview Questions | Interview Cake 1.5k Views · 4 Upvotes · Answer requested by Himanshu Raj

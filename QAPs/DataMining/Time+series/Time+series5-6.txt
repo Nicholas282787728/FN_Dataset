@@ -1,2 +1,0 @@
-★What is the best way to store time series data in Redis?
-I'm using redis list, it's best for write performance.  Here is the benchmark code if you interested: https://github.com/yinhm/nosql-t...    Embed Quote

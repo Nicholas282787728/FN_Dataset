@@ -1,2 +1,0 @@
-★Regular Expressions (computing): What are the best resources for learning RegEx?
-The Regular Expressions Cookbook has just been updated with a new edition. http://shop.oreilly.com/product/...    Embed Quote

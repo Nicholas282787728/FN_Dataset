@@ -1,2 +1,0 @@
-How does Yandex MatrixNet work?
-It is a boosting like algorithm (similar to Gbm), the details to construct trees are different from normal regression tree, not exactly sure about it's loss function though 

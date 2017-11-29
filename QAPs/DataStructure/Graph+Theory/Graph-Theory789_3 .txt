@@ -1,1 +1,0 @@
-What is a vertex in math?Abstractly, a vertex is a place of importance. One such place is at the end of a line segment, while another is a place where two line segments connect. If you struggle thinking of them consider two people holding a jump rope -- or a road way intersection. Any real world object can help to be a nice picture for referring back too. 

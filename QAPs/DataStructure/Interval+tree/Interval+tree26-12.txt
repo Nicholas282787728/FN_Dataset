@@ -1,2 +1,0 @@
-What are some good tutorials on segment trees?
-You may refer to this link by PrinceOfPersia Codeforces :-   Algorithm Gym :: Everything About Segment Trees - Codeforces 

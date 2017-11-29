@@ -1,2 +1,0 @@
-Why are B-trees and its variants, the preferred data structures for database or filesystem implementations?
-See Doug Comer, The Ubiquitous B-Tree: comer b-tree - Google Search 279 Views · 4 Upvotes

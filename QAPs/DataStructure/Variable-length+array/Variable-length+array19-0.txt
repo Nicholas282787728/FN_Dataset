@@ -1,2 +1,0 @@
-How is a long integer implemented in python?
-I heard that internally long integer multiplication is implemented via Karatsuba algorithm. It's performance [math]\Theta(n^{log_2^3})[/math] is better that naive [math]\Theta(n^2)[/math] multiplication algorithm. Addition and subtraction can be implemented with [math]O(n)[/math] time complexity. Not sure what division algorithm is used. 

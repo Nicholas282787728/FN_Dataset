@@ -1,2 +1,0 @@
-What are some of the biggest failures due to bad code quality?
-The are many.  AT&T lost tens of millions because of a misplaced break statement.  Several rocket launches have failed due to software errors.   The first launching of the Space Shuttle was scrubbed due to a software synchronization error.  And the over-automation of aircraft likely has contributed to several airliner crashes. 

@@ -1,2 +1,0 @@
-★When is a random forest a poor choice relative to other algorithms?
-When you have many dimensions and thus your data becomes sparse relative to the amount of training data size set.    Embed Quote

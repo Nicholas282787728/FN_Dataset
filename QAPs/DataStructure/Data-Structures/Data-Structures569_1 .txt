@@ -1,1 +1,0 @@
-What is a device queue?The set of processes waiting for allocation of certain I/O devices is kept in the waiting (device) queue. 33 Views  Answer requested by Riyanka Pal

@@ -1,2 +1,0 @@
-Is array a data type or data structure?
-Array is a linear data structure, anything which stores data element in an organised way, is called a data structure. 338 Views · Answer requested by Sanya Kapoor

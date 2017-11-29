@@ -1,2 +1,0 @@
-★What is a VPN, in layman's terms?
-A VPN or Virtual Private Network is a network technology that provides increased levels of security and privacy to private and public networks like WiFi Hotspots and the entire Internet. I am using Hotspot Shield VPN to access blocked sites and surf anonymously. Hotspot Shield gave a brief introduction about VPN on their blog. Check it out here:  What is VPN or Virtual Private Network | How VPNs Work - Hotspot Shield VPN    Embed Quote

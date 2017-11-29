@@ -1,2 +1,0 @@
-How do you judge a JavaScript programmer by only 5 questions?
-I would judge a programmer just by one question. Not only JavaScript programmer. How do you feel after long day of programming and knowing that there still is a bug in the code which you were unable to solve? 

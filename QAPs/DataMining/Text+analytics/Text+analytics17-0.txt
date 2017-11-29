@@ -1,2 +1,0 @@
-★What is the best sentiment and text analytics software for a Voice of the Customer (VOC) program?
-You are welcome to check out Language Sensor: http://www.languagesensor.com. The system processes free-text customer feedback,  extracting major themes of concern to customers and associated  sentiment. While it can work out of the box, it can also be customised to a specific project/application to ensure greater accuracy of analysis. There is a demo there, feel free to try and get in touch if you have any questions or comments.    Embed Quote

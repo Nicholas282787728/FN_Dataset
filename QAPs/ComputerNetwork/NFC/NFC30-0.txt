@@ -1,2 +1,0 @@
-★Are NFC chip readers standardized/universal?(i.e., if Apple or Google subsidized distribution of NFC chip readers to merchants for checkout, will those readers be able to read chips in any phone or only those from the distributor of the reader)
-Yes and no. While many NFC specifications are standardized, but not all reader/writer are necessary implementing all type of standards. Therefore just having a reader doesn't mean it can read every type of NFCs out there.    Embed Quote

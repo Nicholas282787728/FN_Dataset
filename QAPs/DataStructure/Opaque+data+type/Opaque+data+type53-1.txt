@@ -1,2 +1,0 @@
-What is the difference between document oriented, key value and columns oriented data models?
-The question is not clear.Please be specific. Is this question  related to NoSQL? 

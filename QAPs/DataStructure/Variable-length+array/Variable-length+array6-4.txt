@@ -1,2 +1,0 @@
-What is the time complexity of sizeof() in C programming language?
-Sizeof is not function . Sizeof is operator. Sizeof evaluate at Compile time. 

@@ -1,2 +1,0 @@
-What is the fastest way to find the number of common strings in two files?
-Calculating hash values and then doing a set intersection ( using another hash table on these hash values) can be one possible solution I guess. This would be O(M). 

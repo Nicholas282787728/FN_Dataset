@@ -1,2 +1,0 @@
-★What is the difference between online gradient descent and stochastic gradient descent?
-From my understanding, SGD is a broader term, indicating a setting where we use gradient descent but only have access to an approximate gradient, which is an unbiased estimator of the true gradient. I think when talking about online gradient descent, one makes the assumption that SGD is applied in an online iid setting. So the approximate gradient comes from the online data.    Embed Quote

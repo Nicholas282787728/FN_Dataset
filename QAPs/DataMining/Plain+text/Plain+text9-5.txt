@@ -1,2 +1,0 @@
-★Does a plain text without the a href tags count as a backlink?
-Search engine never count the text link as backlink in simple way "Any link which force to crawler is called link"    Embed Quote

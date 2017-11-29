@@ -1,2 +1,0 @@
-★Which VPN service can you use to keep your entire home network secure from those that might be spying on you and with bad intentions?
-As many people allready commented you will need a VPN server that is based on a serious encryption. Anyways, you have to aware of the fact that if people want to spy on you and they know what they are doing, they will spy you although you are using VPN. Why? Because they can spoof the information that is out going from the VPN itself.

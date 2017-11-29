@@ -1,2 +1,0 @@
-★In supervised learning, is it possible to train a model using a training set first, and save the model thus obtained for validating/testing data later (as two independent code runs)? Are global parameters effective ?
-Absolutely! Using training and testing sets is very common in machine learning. Depending on the language you're using you probably won't need to use global parameters. In python, for example, you can save model parameters within a class. Here's an example in python using a Neural Network. Best of Luck!    Embed Quote

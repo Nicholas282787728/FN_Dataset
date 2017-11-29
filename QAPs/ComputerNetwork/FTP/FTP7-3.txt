@@ -1,2 +1,0 @@
-★How does FTP protocol work over the internet?I want to know how does FTP protocol work while transferring the files over internet.
-over internet the ftp server public name needs to resolve for it to work. ex ftp://ftp.mozilla.org. This name should get resolved first using dns then, the process described below will initiate. One can use filezilla server and client(The free FTP solution) on thier local computer connected over LAN and capture packets via Wireshark(Wireshark · Go Deep.) to understand the below process in details.

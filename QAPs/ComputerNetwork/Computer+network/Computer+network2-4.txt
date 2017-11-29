@@ -1,2 +1,0 @@
-★What's next in computer networking?What is the new technology, architect or protocol in the field of networking
-It will be software-defined network, complete transparency to user by means of middleware, IoT, m2m, overlay networks, cloud technology and a lot more.  This is not a complete answer. I will try to add. A2a thanks pratik.

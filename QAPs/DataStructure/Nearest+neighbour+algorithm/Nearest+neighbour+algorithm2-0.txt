@@ -1,2 +1,0 @@
-I understood the k-Nearest Neighbours algorithm. Where can I find datasets to experiment?
-Here UCI Machine Learning Repository: Data Sets Happy Experimenting!! 

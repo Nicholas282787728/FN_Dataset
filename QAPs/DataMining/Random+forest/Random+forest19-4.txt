@@ -1,2 +1,0 @@
-★What is setting random forests apart from other ensemble methods in Data Science?
-Random forest tries to decorrelate the members of its ensemble i.e. it decorrelates the trees. When building members i.e. decision tree, a subset of p predictors is randomly selected as split candidates from the set of q available predictors. Averaging of these uncorrelated decision trees makes the system less variable and more reliable.    Embed Quote

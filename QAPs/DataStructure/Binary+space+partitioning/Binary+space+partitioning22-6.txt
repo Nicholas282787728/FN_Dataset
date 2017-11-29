@@ -1,2 +1,0 @@
-What will happen if we use more than 4GB of memory in a 32-bit system?Will the system be able to use more than 4GB? In what condition can a system have more than 4GB of memory?
-Originally Answered: Why are 32-bit architectures limited to 4 GB of RAM?Like John said, you can use PAE to overstep the 4GB mark, but Windows only allows 4GB officially. This actually comes down to a bit over 3 if you include all the addresses consumed by the other peripherals. There are unofficial kernel patches available hat can bypass the limitation, but they can cause instability. 

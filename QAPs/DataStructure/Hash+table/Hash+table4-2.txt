@@ -1,2 +1,0 @@
-What should every programmer know about hash tables and hash functions?
-Hash tables don't scale. No matter how good your hash function is, you cannot possibly make the hash table arbitrarily wide.  That would waste memory.  That implies that as the problem scales up, your hash buckets get deeper and deeper.  And you end up back at an O(n)/(# hash buckets) solution. Use a tree instead. 1.8k Views · 21 Upvotes

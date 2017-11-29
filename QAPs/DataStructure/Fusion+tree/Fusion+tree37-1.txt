@@ -1,2 +1,0 @@
-What's the best residential ISP in Mountain View, CA?
-I can't say it's the best, but here are the datapoints for Comcast: It's never gone down, as far as I can remember. We get about 15 down/4 up. BitTorrent downloads don't seem to be throttled or anything, but I haven't measured since there are so many factors involved. It's like $65/mon for us, which I feel is too high compared to what people in South Korea get. You may want to consider other options if you have them available; our house was kind of in a bad zone for other providers.  :-/ 

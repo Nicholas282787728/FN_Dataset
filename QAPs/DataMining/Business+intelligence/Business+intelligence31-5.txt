@@ -1,2 +1,0 @@
-Business Intelligence: What are some good BI tools for MySQL?
-Lots of great responses here! If you are looking for a solution that can help even your least technical business users be more data driven, you should definitely take a look at Chartio. I would recommend checking out a few case studies to see if Chartio is a fit for your needs.    Embed Quote 

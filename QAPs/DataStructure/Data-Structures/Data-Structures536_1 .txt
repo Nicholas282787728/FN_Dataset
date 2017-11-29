@@ -1,1 +1,0 @@
-Which data structure keeps the data sorted at runtime?You can use BST (binary search tree) or it’s balanced variant- AVL tree for the purpose. It is easy to implement as well as operations such as Find(), Insert() and Delete() are simple on BST. 829 Views · View Upvotes · Answer requested by Sai Teja Nagamothu

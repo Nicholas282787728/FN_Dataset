@@ -1,2 +1,0 @@
-★Google App Engine: Can GAE handle DDOS attack?Anybody done it before or some real world case studies.
-I dont think so

@@ -1,2 +1,0 @@
-What are some cool things that are easy to do in Haskell but hard to do in other languages?I'm curious if I should learn Haskell for fun.
-Parsers are really easy in Haskell compared to other languages. If you're using Parsec or a similar library then it's 1 function for each element of the grammar, then each of those functions is 1 line for each sub-element and 1 line for composing the result. Every parser I've seen in another language has had a lot more boilerplate code (which is why there are so many parser generators). 

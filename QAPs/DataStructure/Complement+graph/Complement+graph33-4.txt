@@ -1,2 +1,0 @@
-What are some topics/fields in physics that aren't traditionally taught in the undergraduate physics curriculum but are worth learning/really cool?
-Hydrodynamics/Aerodynamics.  Phase shift, Ising models and percolation. General relativity (I'm not sure how often it's taught in undergrad but when it is, students are often woefully unprepared mathematically). 

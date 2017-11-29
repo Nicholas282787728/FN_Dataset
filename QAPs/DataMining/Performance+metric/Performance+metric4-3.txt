@@ -1,2 +1,0 @@
-★As an e-commerce startup, what are your favorite performance metrics?
-I worked with an e-commerce startup very closely. I would like to measure following: CAC - Customer acquisition cost AOV - Average order value Contribution margin Revenue per visit S/R ratio : Spend to Revenue ratio. it is a very interesting marketing metric for measuring ROI Conversion ratio - Numbers of orders/unique visitors    Embed Quote

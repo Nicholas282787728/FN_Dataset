@@ -1,2 +1,0 @@
-★What is the difference between linear programming and goal programming, theoretically?
-Goal Programming problems may be linear or nonlinear or even integer problems.  This makes linear programming a subset of the larger set of goal programming problems.    Embed Quote

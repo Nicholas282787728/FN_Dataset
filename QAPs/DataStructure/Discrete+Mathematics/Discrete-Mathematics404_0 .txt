@@ -1,1 +1,0 @@
-How do I model a non-stationary Bernoulli process?Processes can be non-stationary in different ways. I will pick one. Suppose the Bernouli probability is time varying. You may want to work out what the estimate of the probability parameter looks like if it is slowly varying. 250 Views  View Upvotes  Answer requested by 1 person

@@ -1,2 +1,0 @@
-What's the most beautiful graph you have ever seen?
-If you are talking about theoretical beauty, Petersen graph would top the list. Simple, but almost always counterexample to the simple theorems you try to cook up. PS: Just discovered that there is an entire book devoted to Petersen Graph. The Petersen Graph (Australian Mathematical Society Lecture Series): D. A. Holton, J. Sheehan: 9780521435949: Amazon.com: Books Updated 77w ago • View Upvotes

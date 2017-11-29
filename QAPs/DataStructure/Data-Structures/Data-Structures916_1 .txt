@@ -1,1 +1,0 @@
-How do you find out if a linked-list has an end? (i.e. the list is not a cycle)Start two pointers at the front of the list. The first pointer, the "Tortoise" moves forward one node each iteration. The other pointer, the "Hare" moves forward two nodes each iteration. If there's no loop, the hare and tortoise will both reach the end of the list. 144 Views  View Upvotes

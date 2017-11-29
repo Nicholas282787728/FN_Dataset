@@ -1,1 +1,0 @@
-What important algorithms for solving TopCoder and CodeForces problems are missing in the MIT introduction to algorithms (2011) course?To check the topics included in the course: MIT 6.006 Introduction to Algorithms, Fall 2011

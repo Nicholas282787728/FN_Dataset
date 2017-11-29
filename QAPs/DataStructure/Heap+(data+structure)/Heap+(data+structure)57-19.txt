@@ -1,2 +1,0 @@
-What are some good websites to learn data structures and algorithms?
-Originally Answered: Is there any website like code academy/codeschool to learn algorithms and data structures? You can start with HackerEarth's Code Monk - Be a better programmer This will give an overview of the basic algorithms and how to go about them. I think this is a very good start for beginners. There are a couple of problems at the end of each topic/ challenge at specific intervals which you can solve and reaffirm your learning. 1.4k Views · 1 Upvote

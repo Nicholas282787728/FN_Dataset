@@ -1,1 +1,0 @@
-Can an array have negative numbers?Yes. In a strong typed language like java you can define int array which can take negative and positive numbers. Many languages support this. 107 Views

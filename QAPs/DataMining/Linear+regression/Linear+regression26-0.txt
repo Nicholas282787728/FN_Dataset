@@ -1,2 +1,0 @@
-★How effective is it to apply gradient boosting to multiple linear regression?Just because it is getting better results, is it justifiable to always try to use gradient boosting (particularly gbm package in R) to multiple linear regression? What are possible flaws in this thinking?
-I don't think it'll work. Many linear regressions in (boosted) ensemble can't be more intelligent than a single linear regression.    Embed Quote

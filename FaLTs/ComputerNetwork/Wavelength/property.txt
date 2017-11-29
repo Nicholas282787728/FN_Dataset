@@ -1,7 +1,0 @@
-Assuming a sinusoidal wave moving at a fixed wave speed, wavelength is inversely proportional to frequency of the wave: waves with higher frequencies have shorter wavelengths, and lower frequencies have longer wavelengths.[6]
-
-Wavelength depends on the medium (for example, vacuum, air, or water) that a wave travels through.
-
-Examples of wave-like phenomena are sound waves, light, water waves and periodic electrical signals in a conductor. A sound wave is a variation in air pressure, while in light and other electromagnetic radiation the strength of the electric and the magnetic field vary. Water waves are variations in the height of a body of water. In a crystal lattice vibration, atomic positions vary.
-
-Wavelength is a measure of the distance between repetitions of a shape feature such as peaks, valleys, or zero-crossings, not a measure of how far any given particle moves. For example, in sinusoidal waves over deep water a particle near the water's surface moves in a circle of the same diameter as the wave height, unrelated to wavelength.[7] The range of wavelengths or frequencies for wave phenomena is called a spectrum. The name originated with the visible light spectrum but now can be applied to the entire electromagnetic spectrum as well as to a sound spectrum or vibration spectrum.

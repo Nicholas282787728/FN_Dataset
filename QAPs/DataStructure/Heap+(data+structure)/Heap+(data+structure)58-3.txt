@@ -1,2 +1,0 @@
-What basic data structures and algorithms should one learn before starting competitive programming?
-Here is how I prepared on Data Structures and Algorithms for Competitive Programming. Strong fundamentals: You can use Introduction to Algorithms by Cormen. Focus on these chapters: Sorting Stacks & queues Trees (you can avoid AVL, Red-Black Trees) Graphs Dynamic and Greedy programs... (more)

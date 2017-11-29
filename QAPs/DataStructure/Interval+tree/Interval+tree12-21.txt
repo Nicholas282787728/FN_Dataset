@@ -1,2 +1,0 @@
-What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
-Interval Trees - They are the best for  range based queries Binary Indexed Trees(BIT) - cumulative frequencies - easy to implement 

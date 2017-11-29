@@ -1,2 +1,0 @@
-What is the difference between data types in c and c++?
-Well the fundamental data types are pretty much the same ( int , char , float , double and void ). The difference comes when we talk about user-defined data types like classes , structures , enumertions etc; 38 Views · 2 Upvotes

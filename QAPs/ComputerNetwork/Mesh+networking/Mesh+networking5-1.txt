@@ -1,2 +1,0 @@
-★What are mesh networks used for?
-As far as I know... for not much of anything. There has been significant research efforts and one IEEE standard but apart fron the OLPC project they have not seen much use in the real world, despite the technology being promising,    Embed Quote

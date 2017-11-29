@@ -1,2 +1,0 @@
-★Is it possible to get a wireless network to perform as fast and stable as a cable connected network?Here at our small business we keep struggling to set up our wireless network to perform stable and fast. We have about 30 desktops/laptops, and about the same number of mobile devices such as iphones and tablet pcs. Is it possible to set up a great wi-fi network with a bunch of Cisco Small Business Gigabit N Routers?
-It is possible. It is also much, much easier to have a rock solid, Ethernet-based network.    Embed Quote

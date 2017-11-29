@@ -1,2 +1,0 @@
-What are the things you must learn in C?
-There is nothing to learn in C .It's the logic that works every where whether it's java ,c++ or any other language just build your logic by writing small codes in Dev C++ or in any other environment. One thing you can learn in C is definitely pointer. 

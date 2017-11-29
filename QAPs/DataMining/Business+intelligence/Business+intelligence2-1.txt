@@ -1,2 +1,0 @@
-Which business intelligence tools have the best user interface?
-1.Tableau 2.Jaspersoft(Open source) 3.Talend open studio(Open source) 4.Qlikview 5.Microstrategy 6.OBIEE Take a look at the Gartner report    Embed Quote 

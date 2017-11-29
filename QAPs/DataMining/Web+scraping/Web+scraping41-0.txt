@@ -1,2 +1,0 @@
-★Web Scraping: How can one web-scrape a list of video game quests/missions for further processing (preferably with metadata if possible)?
-It all depends what the site is using. I used to scrape fairly ugly text pages with good ol' wget. Schedule it via a cronjob, pipe it to grep to search for key phrases, and pipe that to mail, or append it to your interesting-stuff file for later perusal. Alternately, find someone else who's already doing this, or several someone elses, hopefully with a wiki where they're "spading" the data.    Embed Quote

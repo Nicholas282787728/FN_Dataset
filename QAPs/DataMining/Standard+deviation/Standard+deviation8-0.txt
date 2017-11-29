@@ -1,2 +1,0 @@
-★Calculation of the standard deviation of co-ordinates?
-Standard deviation measures (in some sense) how spread out the values of a random variable will tend to be.  In the situation you describe it doesn't really sound like you're asking about that sort of thing. Rather, I think you're looking for a measure of how different two curves are.  There are lots of such measures, which measure various notions of "difference."  For instance, you could use an metric.    Embed Quote

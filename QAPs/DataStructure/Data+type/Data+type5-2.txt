@@ -1,2 +1,0 @@
-How do hackers attack data types?
-Data types: ?? , be specific Now a days most of the hackers are using pen testing tools from offensive security for hacking. A basic knowledge of linux is req. 4 Views

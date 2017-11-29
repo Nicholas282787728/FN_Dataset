@@ -1,2 +1,0 @@
-I just bought CLRS. What's the best way to obtain the knowledge this book offers?
-Start with a more intuitive textbook (such as Algorithms: Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani) and also learn a commonly-used procedural/OO programming language that was not specifically developed for Web programming (C++, Java or C#). Updated 65w ago • View Upvotes

@@ -1,2 +1,0 @@
-★Is principal components regression the same as doing PCA and then linear regression?
-Yes, fundamentally. There is an additional step: you'd need to project the vector of estimated regression coefficients (obtained after the steps you've mentioned) back to the dimension of the original dataset.    Embed Quote

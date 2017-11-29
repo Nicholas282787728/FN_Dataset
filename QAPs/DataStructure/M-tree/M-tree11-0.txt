@@ -1,2 +1,0 @@
-If the number of variables increases in a training data set m should we go for a linear model prediction or decision tree prediction?
-I would always prefer a low dimensional feature vector if my options were limited to the two methods you just mentioned. I would have first tried PCA/SVD on your data in case you can reduce dimensionality. If not, then try using LASSO or Chi-sqaured tests to determine k most important dimensions. Now one can train a linear model or decision tree on these k dimensions. 

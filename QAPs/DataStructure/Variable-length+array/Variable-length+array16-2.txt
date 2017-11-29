@@ -1,2 +1,0 @@
-How do you allocate memory dynamically without using malloc or new?
-If the size of the array is not very large you can use alloca (alloca(3) - Linux manual page, alloca) which will allocate a block of memory on stack. Take care of stackoverflow Why is alloca not considered good practice? Since C99 this is supported automatically via Variable-length array float read_and_process(int n){    float vals[n];     for (int i = 0; i < n; i++)        vals[i] = read_val();    return process(vals, n);} 

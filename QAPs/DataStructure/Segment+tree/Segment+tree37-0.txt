@@ -1,2 +1,0 @@
-What is the approach for solving GSS1 and GSS3 on SPOJ using segment trees?
-The segment tree and how it is used to solve both of these problems is explained here: A simple approach to segment trees 

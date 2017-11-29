@@ -1,2 +1,0 @@
-★What was it like to be on the Internet during the 1980s?A follow-up question to What was it like to be on the Internet during the 1990s?
-Fragmented, text based, S.L.O.W. I was in the Computer Science program at UCSB in the '80s.  Our idea of fun was to get on the Sun Workstations in the computer lab and ftp or telnet to other sites on ARPANET. Usenet was huge, as was Emacs and GNU. We'd download games and GNU/Emacs tools and extensions.  Psychoanalyze-Pinhead was popular, as was MazeWars.  Away from school, it was connecting via modem to whatever BBS's were around.

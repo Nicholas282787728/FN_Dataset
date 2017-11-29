@@ -1,2 +1,0 @@
-What are some tips for self-studying Data Structures and Algorithms?
-try this: see the bird’s view: find what are all the ds that exist, what are in modern usage do same for algorithms understand what are algorithm run time and memory complexities solve 1 problem for each in a c++, java or other be confident that you know what you learnt... (more)

@@ -1,2 +1,0 @@
-How can gravity be simulated in deep space?
-Certainly yes.  One way is to continually fire your engines so that the ship experiences an acceleration of about 9.8 m/sec/sec.  Another way is to place your living quarters away from the centre of gravity of the ship, then rotate the ship about its centre of gravity at a rate of rotation sufficient to make the centripetal acceleration about 9.8 m/sec/sec. 

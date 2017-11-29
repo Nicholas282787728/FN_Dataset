@@ -1,2 +1,0 @@
-What is the best way to annotate some parts of a map to be impenetrable (like walls, desks and etc.) for navigation? What is the most effective way to index the map overlay information for querying (for example, if the location (17,28) is penetrable)?
-Great question! It really depends on how the maps/data is organized and how the different objects are treated. Private message me a screenshot of the map and I can probably help. Micello maps can do this for you automatically. Disclaimer: I'm the CEO at Micello and we make lots of indoor maps. 

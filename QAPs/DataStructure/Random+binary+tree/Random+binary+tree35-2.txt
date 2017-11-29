@@ -1,2 +1,0 @@
-What data structure should I use to complete this task?
-Use Hashmap where id is key and value is Student object/struct. And build index tree for each property of student that you want to use to filter, sort. These trees' nodes have only ID, you can get ID from these and get other properties using ID from Hashmap with O(1) complexity. 

@@ -1,2 +1,0 @@
-★Is there a Yammer application that can be integrated in an intranet?A php-based app, where users can login, view the timeline and post updates.
-I think you are looking for the Yammer Embed app. https://www.yammer.com/company/e... Is that what you are after?

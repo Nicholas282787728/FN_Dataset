@@ -1,2 +1,0 @@
-★Is people tagging going to be part of metadata?
-Universal machine-readable identifiers for humans have deep privacy implications, so it is likely that the IPTC caption will continue to be the standard place to identify people in a photograph, using natural language.    Embed Quote

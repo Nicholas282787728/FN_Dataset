@@ -1,1 +1,0 @@
-What is the solution to the question Give Away?Give Away The basic brute force is obviously out of time limits.

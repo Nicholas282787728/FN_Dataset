@@ -1,2 +1,0 @@
-★Are graphical models useful when one has a lot of features?These features are typically automatically generated, such as bi-grams in text classification.
-Not sure what you mean by the graphical models are non-convex ? Do you mean the objective function for parameter estimation ? It is a smooth-convex function though you cannot obtain closed form solution to it. Check this paper (Practical very large CRF's) (Page on Aclweb).    Embed Quote

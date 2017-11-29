@@ -1,2 +1,0 @@
-★Why don't I see a ferrite bead in the power cable of a MacBook?
-ferrites can reduce RF emissions from cables IF the cables have too much RF noise in them. Better to simply have a quiet cable with no noise if possible. So perhaps Apple has a quiet design. Or perhaps it put the ferrites in the computer case so it wasn't necessary on the cable. In many designs the ferrite on the cable is an afterthought if, when tested for RF emissions, they were too high.    Embed Quote

@@ -1,2 +1,0 @@
-What is hashing in simple terms?
-In addition to these technical answers, your question about why they are called "trapdoor" functions is down to the fact that they are easily computable in one direction but difficult (and ideally impossible) to calculate in the reverse direction - hence the "trapdoor" analogy. 

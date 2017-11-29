@@ -1,2 +1,0 @@
-★What distinguishes reinforcement learning from deep learning?
-Deep Learning is automating extraction of high level features from data (say computer learns to recognize human eye/ear is an important feature of face after seeing many photographs). Reinforcement Learning is modifying/learning new trends from each incoming data point dynamically. They are not mutually exclusive things. One might be able to use Deep Learning for Reinforcement Learning.    Embed Quote

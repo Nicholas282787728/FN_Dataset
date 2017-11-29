@@ -1,2 +1,0 @@
-What are some of the most ingenious algorithms in computer science?added bonus if the algorithm runs in constant time
-The Simplex Algorithm for linear programming. Not sure if its quite what you are looking for, but its had a huge impact on the world over the last half century. If I'm not mistaken, it's one of the more influential algorithms ever. 

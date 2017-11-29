@@ -1,2 +1,0 @@
-What is a good free software for drawing directed graphs, possibly with edge labels and node labels?
-I imagine that Graphviz is a bit too sophisticated and unnecessarily so in this case. The Dia suggestion is probably more appropriate. I recall having followed a path for myself which ended there a few years ago. There is some basic such chart making capability in the Draw subsystem of Libreoffice. 423 Views

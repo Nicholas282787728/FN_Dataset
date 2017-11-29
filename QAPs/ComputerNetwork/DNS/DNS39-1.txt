@@ -1,2 +1,0 @@
-★Why did Amazon AWS named its DNS services "Route 53"?
-I always suspected it was a play on words from "Route 56," a historic highway in the United States, and "53" the port that DNS operates on.

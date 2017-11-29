@@ -1,2 +1,0 @@
-What is the biggest data type we can declare in C?
-I think Wikipedia can help you much better my answer.. https://en.wikipedia.org/wiki/C_... 21 Views

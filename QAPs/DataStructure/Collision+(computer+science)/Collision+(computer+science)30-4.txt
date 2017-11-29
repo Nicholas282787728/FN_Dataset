@@ -1,2 +1,0 @@
-How should I prepare for a software developer internship interview at Bloomberg?
-If you are into C/C++, they will ask you a lot of tricky C++ questions, so be prepared for that (Most of the questions will be from STL). Few guys also ask puzzle. Algorithm questions are very easy. Also prepare for interview with manager. He might ask you, why you want to join Bloomberg etc. 

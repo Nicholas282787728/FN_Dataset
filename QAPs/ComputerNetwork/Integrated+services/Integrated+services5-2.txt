@@ -1,2 +1,0 @@
-★What free hosted continuous integration service is the best for Ruby on Rails 4?
-https://travis-ci.org Travis CI is free for open source projects. Example of a popular Rails 4 app being tested by Travis CI: https://travis-ci.org/sferik/rai...    Embed Quote

@@ -1,2 +1,0 @@
-★Where are the concepts of linear programming & approximation algorithms actually used in the Industry?I have just started to learn some linear programming algorithms like Simplex Method, Seidels LP method, Ellipsoid algorithm, Karmarkar's algorithm etc. As well as, I'll be learning about approximation algorithms. I wish to know about practical applications of these methods.
-Linear programming is used everywhere you want to optimize the use of limited resources - such as Operations research. Check the Uses section in Wikipedia - Linear programming    Embed Quote

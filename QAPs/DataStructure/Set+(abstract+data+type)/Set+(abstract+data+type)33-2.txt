@@ -1,2 +1,0 @@
-Which programming language is good to learn OOP?
-As a newbie you can really kick off with one of the simplest yet powerful languages like C++. As you go on exploring and as your needs for scalability and resource collaboration increase you can move on to Java or C# (either of them are equally powerful). Visualizing oop concepts with real world problems like banking transactions (where you need to take care of what values to be shown and what not) will really help you understand the concepts and your programming methodology. 

@@ -1,2 +1,0 @@
-What are the some common used outlier detection algorithm in statistics? What are some good tutorials?
-There are several different techniques used in statistics. The non-parametric approach is mentioned by Annalyn Ng. You can find a survey of all these methods in here - Page on geo.upm.es 

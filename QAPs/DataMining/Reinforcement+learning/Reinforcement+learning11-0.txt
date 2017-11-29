@@ -1,2 +1,0 @@
-★What is a good MOOC on reinforcement learning?
-You do not need any course to study reinforcement learning. RL is easiest of all the AI courses, and you can learn all the basics through the textbook - book2012.pdf. You may also want to look at the research papers to know about the policy gradient methods. After that you can start reading whatever research papers you want (in case you want to do research in RL).    Embed Quote

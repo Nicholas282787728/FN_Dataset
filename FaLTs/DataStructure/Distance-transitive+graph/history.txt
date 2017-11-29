@@ -1,1 +1,0 @@
-Distance-transitive graphs were first defined in 1971 by Norman L. Biggs and D. H. Smith.

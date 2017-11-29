@@ -1,2 +1,0 @@
-★What are the most interesting applications of Markov chains?Besides writing Bob Dylan songs.
-Markov chain-based methods can be used to efficiently compute integrals of high-dimensional functions.  See http://humis.bmi.utah.edu/humis/... for an introduction and specific terms to search for.    Embed Quote

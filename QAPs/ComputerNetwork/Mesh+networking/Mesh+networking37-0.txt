@@ -1,2 +1,0 @@
-★How do you implement WiFi mesh network technology in an embedded device?
-Yes, there are lots of WiFi controller chips out there.  Most of the mesh is all software add-on.  If it works for a host, it can be made to work (possibly with a sledgehammer) in an embedded environment.    Embed Quote

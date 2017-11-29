@@ -1,2 +1,0 @@
-★Can REST API and REST concepts be applicable to FTP also?Are REST concepts applicable to non-HTTP protocols like the file transfer protocol also?
-Sure.  FTP uses url-like paths, has PUT and GET verbs, and where that's insufficient you can extend the protocol via SITE.

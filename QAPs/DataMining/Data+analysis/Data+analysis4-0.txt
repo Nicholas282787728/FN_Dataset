@@ -1,2 +1,0 @@
-Which are some of the best Data Analysis tools?
-Depending on your needs, here are some great data analysis tools: MATLAB, or its open-source alternatives, Scilab and GNU Octave (great at dealing with numbers) Python with libraries like Numpy, Scipy and Matplotlib (great for general purpose data analysis- particularly good at interacting with other tools) R (Great for statistics)    Embed Quote 

@@ -1,2 +1,0 @@
-★What are some ways I could allow users some command line interfacing with my website?I was thinking of actually interacting via a terminal, not a browser at all. Maybe allowing file transfer, data piping, etc.
-Make a decision which port and protocol you will use. Linux emulators have been done in Javascript. Javascript PC Emulator Either it is web based or it isn't. If isn't use SSH.

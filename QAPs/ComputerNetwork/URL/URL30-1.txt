@@ -1,2 +1,0 @@
-★Is the URL shortener category basically dead by now (late 2014)?
-I wouldn't say dead... but it's definitely ailing. We used it quite a bit in our startup as it allows us to track where the links being clicked on are coming from (region, country, browser, etc.).    Embed Quote

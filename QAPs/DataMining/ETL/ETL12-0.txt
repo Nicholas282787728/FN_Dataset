@@ -1,2 +1,0 @@
-★What are some of  the very good ETL tools for mysql?
-InetSoft technology offers a BI solution that does not require ETL to operate.  If you already have an ETL system in place, it is fully compatible.  Check out A Better Alternative to Data Warehousing to see for yourself.    Embed Quote

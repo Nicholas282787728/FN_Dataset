@@ -1,2 +1,0 @@
-★Why is the response time on my wireless router slow?
-Routers generally have a setting to control how they stay connected to the internet. They can timeout after a given period and disconnect from your ISP, then each time you need internet access they would have to reconnect again. You can change this to stay permanently connected thus avoiding all the disconnect and reconnects. Have a look at the settings to see the options on your router. If however the devices are disconnecting from the Wifi then check the routers Wifi settings.    Embed Quote

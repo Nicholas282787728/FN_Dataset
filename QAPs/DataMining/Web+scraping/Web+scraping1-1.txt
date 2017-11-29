@@ -1,2 +1,0 @@
-★What is Web Scraping?Today I was reading a random post and I found people are discussing about #WebScrapingtool, My question is: Can I use extracted data into my website? Will Google accept this ?
-Programmatically copying data from websites    Embed Quote

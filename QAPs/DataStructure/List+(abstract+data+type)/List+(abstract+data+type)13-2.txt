@@ -1,2 +1,0 @@
-What are the best academic papers in computer science? Why?
-Best paper awards for WWW, SIGIR, CIKM, AAAI, CHI, KDD, SIGMOD, ICML, VLDB, IJCAI, UIST since 1996: http://jeffhuang.com/best_paper_... Also: http://cstheory.stackexchange.co... and http://www.reddit.com/r/compscip... top 10 research papers in computer science by Mendeley readership : http://www.mendeley.com/blog/hig... Updated 221w ago • View Upvotes

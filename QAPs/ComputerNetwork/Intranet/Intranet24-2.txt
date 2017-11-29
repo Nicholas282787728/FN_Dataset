@@ -1,2 +1,0 @@
-★What are some free or low-cost intranet solutions?
-That really depends on how complex your needs are (number of employees, storage needs, uniqueness to your needs), and what you mean by free (purchase fee, total cost of ownership). If you are small, you may be able to get away with an open source solution (Drupal, Wordpress) but these do not offer support and may take a lot more hours to get them to meet your needs. Lower priced commercial solutions (interact intranet, Kentico) may also be able to meet your needs but will have a sticker price attached to them.

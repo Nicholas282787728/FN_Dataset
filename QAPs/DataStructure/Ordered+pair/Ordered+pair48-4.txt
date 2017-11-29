@@ -1,2 +1,0 @@
-How do you prove rigorously that [math](a,b)=(c,d)[/math] if and only if [math]a=c[/math] and [math]b=d[/math]?
-Wiener definition of (a,b) is {{a}, {a,b}}. So examine when the two sets {{a}, {a,b}} and {{c}, {c,d}} are equal. Remember two sets are equal iff they have the same elements. {a} has only one element so the only option is to be equal to {c}, hence a=c. {a,b} is equal to {c,d} iff b=d (since a=c already). Hence the result. 

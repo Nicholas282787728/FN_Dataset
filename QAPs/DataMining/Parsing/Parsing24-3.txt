@@ -1,2 +1,0 @@
-★How does Instapaper parse just the main body text of a web page?Was it an off the shelf package or custom html parsing?
-I asume it's something similar with readability from arc90labs. You can study the source code here: http://code.google.com/p/arc90la...    Embed Quote

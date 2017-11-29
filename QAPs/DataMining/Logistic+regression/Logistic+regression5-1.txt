@@ -1,2 +1,0 @@
-★Why is the output of logistic regression interpreted as a probability?
-(A2A'd) A linear regression estimates the mean of your response given that your response is distributed normally. A logistic regression estimates the mean of your response given that your data is distributed Bernoulli or is a Binomial trial. Since the mean of a Binomial trial is the probability of success, you can interpret the output from a Logistic regression (after logit transformation) as a probability of success.    Embed Quote

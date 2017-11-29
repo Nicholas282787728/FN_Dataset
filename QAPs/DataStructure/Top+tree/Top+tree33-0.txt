@@ -1,2 +1,0 @@
-What is the best tool to use for 'classification trees'?
-Thanks for the A2A. Not sure I can be of assistance since I never used Matlab and therefor can't compare with others. In R, you can use rpart, CART or caret, eventually others. If by any chance you'll need other learning algorithms, use caret since it has a common framework for many models and you'll have a nicer learning curve. If I'm not mistaken python's scikit-learn has classification trees but again my experience is limited. Good luck! 

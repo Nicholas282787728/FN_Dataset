@@ -1,1 +1,0 @@
-What are some properties of minimum spanning trees?It's a tree- i.e there are no cycles in the graph It's a spanning tree- i.e no 2 or more components, only 1 component It's a minimum spanning tree- i.e it is minimum cost tree(spanning) in the graph. 

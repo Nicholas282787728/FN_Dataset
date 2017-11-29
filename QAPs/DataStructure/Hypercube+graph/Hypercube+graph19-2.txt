@@ -1,2 +1,0 @@
-If just Earth, with no space around it, was a computer simulation, how many of the fastest CPU/GPUs available today would it take to simulate everything in the world simultaneously?
-It would take a computer the size of the solar system using every atom in the rest of the universe as memory, runnig for millennia, to simulate one millisecond of what a gnat sees looking up at the stars. 

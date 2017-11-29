@@ -1,2 +1,0 @@
-What are some good resources for a beginner to learn about random graph theory and spectral graph theory?
-For the former, I suggest Van Der Hofstad notes Page on win.tue.nl. For the latter, I suggest Dan Spielman's notes Spectral Graph Theory, course announcement. 

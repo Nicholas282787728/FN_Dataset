@@ -1,2 +1,0 @@
-★My iPhone keeps searching for a cellular network even though I told it not to in settings. How do I stop it?
-Any cell phone is going to look for a network unless you put it in airplane mode. Not sure what settings you're talking about...but a phone will always seek out a signal unless it's in airplane mode.

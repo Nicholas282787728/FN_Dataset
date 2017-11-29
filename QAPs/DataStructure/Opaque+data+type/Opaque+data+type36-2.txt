@@ -1,2 +1,0 @@
-What is the difference between forwarding state and flow entries in SDN?
-Disclaimer: I have no experience with or specific knowlege in SDN. What I write below might be terribly wrong. From what I gather from a few minutes of research: - A flow is a communication channel - Forwarding is the act of transmitting a flow (a forwarding state might imply that forwarding is allowed/done) As as I understand your question, it compares apples and bananas. If you instead were to ask about the relationship between these, I would say that a forwarding state allows a flow to exist. 

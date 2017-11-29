@@ -1,2 +1,0 @@
-★What are some good resources to learn about wireless sensor networks?
-This is a really fun area, you should check out http://meshify.com ... we will help you get apps on top of your hardware you make really easily.    Embed Quote

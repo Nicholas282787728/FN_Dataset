@@ -1,2 +1,0 @@
-How do I perform data analysis / machine learning in Python?
-Scipy and Numpy for data manipulation and machine learning algorithms. Matplotlib for visualization. Networkx for graph algorithms as well as visualization.    Embed Quote 

@@ -1,2 +1,0 @@
-What are most important Machine Learning algorithms?
-Some common algorithms for supervised learning: Radial Basis Support Vector Machine Boosted Trees Random Forest Lasso / Ridge Regression / Elastic Net K-Nearest Neighbors Neural Networks 

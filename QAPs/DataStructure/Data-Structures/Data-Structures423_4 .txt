@@ -1,1 +1,0 @@
-Is array a data type or data structure?Array is a data structure. It is just a way of storing elements of homogeneous data types collectively. 5 Views

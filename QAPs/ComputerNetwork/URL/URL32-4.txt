@@ -1,2 +1,0 @@
-★What is the difference between a URL and HTTP?
-URL is what you type in address bar of your web browser. HTTP is protocol which handles everything your browser and website server.    Embed Quote

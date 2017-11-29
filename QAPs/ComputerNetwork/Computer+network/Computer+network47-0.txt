@@ -1,2 +1,0 @@
-★What is the difference between host and server in terms of computer networking?
-None.

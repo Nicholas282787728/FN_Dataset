@@ -1,2 +1,0 @@
-What is a good source for learning about Bayesian networks?
-Haven't seen this mentioned yet: Modeling and Reasoning with Bayesian Networks by Adnan Darwiche http://www.amazon.com/Modeling-R...    Embed Quote 

@@ -1,2 +1,0 @@
-★Can anyone setup an ISP in India without acquiring the ISP licence from TRAI?If city level ISP services are to be deployed, can it be achieved without acquiring the ISP licence, if yes then what are the steps involved?
-Yes everyone can setup without TRAI license.. Because ISP license is given by Department of Telecom (DoT) not by TRAI.    Embed Quote

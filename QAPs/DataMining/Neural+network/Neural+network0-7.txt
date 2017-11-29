@@ -1,2 +1,0 @@
-★How do artificial neural networks learn?
-Neural networks of different topologies using several methods of training including the infamous backpropagation are based on the biology inspired connectionism approach to thought process. Which state mental activity is the result of emergent process of several simple uniform units. Neural networks learn by evolving serveral interconnection in response to specific stimuli. Known as Neural plasticity. Information is encoded in strength of connections.    Embed Quote

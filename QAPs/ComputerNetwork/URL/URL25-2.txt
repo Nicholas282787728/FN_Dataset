@@ -1,2 +1,0 @@
-★Are subfolders in URL relevant for SEO purposes?Are subfolders in URL (www.example.com/directory/title-of-content) relevant for SEO purposes (compared to www.example.com/title-of-content)? What's the maximum URL length recommended?
-Yes, they are relevant for SEO so you can put keywords in those URLs.  I asked a similar question on LI a while ago: http://www.linkedin.com/answers/... some good answers there too.    Embed Quote

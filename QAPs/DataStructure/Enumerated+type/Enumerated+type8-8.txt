@@ -1,2 +1,0 @@
-Software Engineering: What are good ways to avoid bugs while programming?
-To me, it's all the fundamental stuff that I sometimes see developers (experienced or otherwise)  LOVE NOT to do. Here are some that I personally practice and preach: 1) Meaningful variable, method and class names 2) Practice Single responsibility principle for classes and methods 3) Practice Don't repeat yourself (DRY) 4) Abstain from using Magic string 5) Use enumerated types instead of strings 

@@ -1,2 +1,0 @@
-★What are the best text mining software that can product tags or keywords?
-Surprised this has not been answered yet, but there are a number of approaches here. Size and complexity of the corpus needs to be a consideration in the approach utilized. The trend we're seeing - but be aware that this is colored by my being in out Big Data team - is much larger size collections than was the norm even a couple years ago.    Embed Quote

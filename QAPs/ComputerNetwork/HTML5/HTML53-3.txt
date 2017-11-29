@@ -1,2 +1,0 @@
-★What are some good examples of HTML5 mobile websites?
-The Gmail app is, in my opinion, the most impressive mobile app out there. I prefer it to the native Mail.app on the iPhone. Google Maps is nice, and uses HTML5 geolocation. Quora has a pretty nice (but simple) one!

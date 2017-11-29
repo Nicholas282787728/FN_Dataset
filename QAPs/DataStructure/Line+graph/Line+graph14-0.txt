@@ -1,2 +1,0 @@
-How do I reflect a function over a line (graph and equation please)?
-To practice this notion a few times, get a few loose-leaf sheets of graph paper. Trace the function you need to reflect onto the graph paper, as well as the coordinate axes, using a permanent marker. Then draw the line y = x (a diagonal line bottom left to top right at a 45 degree angle), and fold the piece of graph paper along the line. The marker should bleed, and show you what the reflected function looks like. 878 Views

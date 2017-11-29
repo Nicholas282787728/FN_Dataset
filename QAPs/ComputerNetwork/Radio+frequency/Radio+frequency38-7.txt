@@ -1,2 +1,0 @@
-★What is the most commonly available tool that can measure & characterize the noise floor of the 2.4 GHz radio frequency band?
-We used a TV spectrum analyzer, something like this one in the picture with transposition to the TV band. I would say this should be reasonably common, even though maybe it's not the most common tool. But we used it for 10GHz band. Also, we used PCMCIA card in a laptop with an external antenna and some linux tool (I don't remember the name) for 2,4 and 5.7 Ghz. It's maybe not the most precise - but it is common - as you asked :)    Embed Quote

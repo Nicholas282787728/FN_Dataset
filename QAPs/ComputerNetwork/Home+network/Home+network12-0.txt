@@ -1,2 +1,0 @@
-★What's a good way to run a firewall/NIDS on a home network?Which software? Snort? Which hardware? OpenWRT? Raspberry Pi?
-OpenWRT and PFsense are good choices. Though I would use a dedicated pc for defense. Residentials do get probed and users do download malware. Better safe than sorry.

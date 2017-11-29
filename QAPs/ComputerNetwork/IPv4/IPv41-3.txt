@@ -1,2 +1,0 @@
-★How is Anycast implemented  using IPv4?
-Anycast is merely using the same address on multiple hosts. Anycast is great for these applications DNS Ntp Syslog SNMP trap receivers Even short transactional protocols like AAA radius and tacacs can use anycast

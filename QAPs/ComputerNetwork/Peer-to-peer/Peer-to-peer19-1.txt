@@ -1,2 +1,0 @@
-★What are some good uses for the WebRTC Peer-to-Peer Data API?Real-time Communication Between Browsers The Peer-to-peer Data API lets a web application send and receive  generic application data peer-to-peer.
-We heavily use the DataChannels API at Peer5 for peer-assisted video delivery. We also have our open source project - Sharefest which uses the API for many-to-many file sharing.    Embed Quote

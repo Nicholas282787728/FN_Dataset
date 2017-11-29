@@ -1,1 +1,0 @@
-What is header linked list?As the name says, Header linked lists are those which contain a header node at the beginning of the list. It is the node by which linked lists are represented and checked whether they are empty or not. 220 Views  View Upvotes

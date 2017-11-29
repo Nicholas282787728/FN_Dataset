@@ -1,1 +1,0 @@
-Many ideas go in to TokuDB (with lots of tweaking): Buffered repository tree/buffer tree/COLA/etc. Order maintenance tree Packed memory array (historically) External memory sort Concurrent AVL tree 

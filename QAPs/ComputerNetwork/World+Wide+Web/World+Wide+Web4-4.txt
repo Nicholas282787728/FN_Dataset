@@ -1,2 +1,0 @@
-★Why is the term "world wide web" no longer used?
-Probably for the same reasons Information Super Highwasy isn't. It's too long compared to The Internet or The Web. A more interesting question IMO is why many websites still use "www" to prefix their domain when they don't have to. E.g. Google has www.google.com while twitter redirects the www. subdomain (cause that is what www. is) to just twitter.com.    Embed Quote

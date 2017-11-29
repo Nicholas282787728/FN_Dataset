@@ -1,2 +1,0 @@
-★Is there any kind of ontology for agriculture?
-Yes, the Agricultural Ontology Service (or the current version called AGROVOC) is currently in development from the Food and Agricultural Organization of the United Nations. http://en.wikipedia.org/wiki/Agr... http://aims.fao.org/website/Onto...    Embed Quote

@@ -1,2 +1,0 @@
-★What are some techniques for pattern recognition in time variant data? (i.e. a signal)
-Do you want to pattern recognition just by original signal. If so, maybe you need some dynamical model. But if you want to pattern recognition by feature extracting, the most important thing is how to extract the appropriate feature. Feature is the most import thing in this process.    Embed Quote

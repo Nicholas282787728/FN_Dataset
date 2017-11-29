@@ -1,2 +1,0 @@
-★What's the difference between logistic regression and matrix factorization?Just choose a different function to optimize?
-LR is an linear combination of weights and feature vector: . The prediction value was scaled into [0,1] via some link function, in this case, logit function.   MF can be viewed as an expansion version of LR, for example, , take U as the weight vectors and V as the feature vectors, then every element in Y is some formula of , where is one column from and is one column from    Embed Quote

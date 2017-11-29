@@ -1,2 +1,0 @@
-What are some good websites to learn data structures and algorithms?
-Hi, Here are the best 6 resources for learning data structures and algorithms, take a note Data Structures and Algorithms Tutorial for beginners Data Structure and Algorithms (DSA) Tutorial Intro to Algorithms | Udacity Data Structures Succinctly: Part 1 - Envato Tuts+ Code Tutorials Introduction to Basic and Advanced Data Structures and Algorithms Data Structures and Algorithms | Coursera... (more)

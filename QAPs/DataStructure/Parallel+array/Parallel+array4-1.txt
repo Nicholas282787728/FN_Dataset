@@ -1,2 +1,0 @@
-What is meant by an array processor and how is it different to other types of parallel processors?
-Array processors usually are something attached to a main computer, and run less general-purpose programs. A modern example of an array processor is the GPU. 

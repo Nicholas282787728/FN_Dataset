@@ -1,2 +1,0 @@
-What are some basic programming questions asked in IT interviews? What are some questions from C, C++, Java, and data structures (top 50 questions)?
-Generally questions are based on the experience in mentioned technology in your resume or might be based on the position. Check  websites for interview questions. Most of the  big IT MNCs interviewer requirments.. 1.they focus on technology fundamentals , 2. logical approach , 3.  interest in new learnings and 4.  communication skill. all d best. 

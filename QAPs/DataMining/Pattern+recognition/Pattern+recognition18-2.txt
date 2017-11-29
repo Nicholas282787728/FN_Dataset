@@ -1,2 +1,0 @@
-★What are some techniques for pattern recognition in time variant data? (i.e. a signal)
-In addition to DTW, Wavelets techniques give you a multi scale - time windowed analysis of time series. It is wide use for ECG where shape is as important as frequency content. There is also some filters that do something similar as Gabor Filters, you can give it a look.    Embed Quote

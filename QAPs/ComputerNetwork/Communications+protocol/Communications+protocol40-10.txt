@@ -1,2 +1,0 @@
-★What else is a finite state machine used for except language parsing?
-For developing real time systems,e.g. overheating alarms for toaster or similar features you can think of. Make a context diagram for states of toaster. You can implement FSD by one of the following ways: Sequentially code the FSM,following fsd life-cycle. Use switch/case to model FSD. Make a finite state table with dispatch scheduler.

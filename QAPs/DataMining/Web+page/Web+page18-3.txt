@@ -1,2 +1,0 @@
-★What's the best way to implement a Mind Map as a web page?Not just a generated picture, but something more interactive, so you can edit it easily. Maybe some services have widgets or APIs.
-I´m using Xmind. It´s a awesome tool with lots of possibilities. You can download it for different systems (even portable). And you can export the page as picture, pdf or even html (more available) http://www.xmind.net/    Embed Quote

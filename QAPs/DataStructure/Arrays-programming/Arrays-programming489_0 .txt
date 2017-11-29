@@ -1,1 +1,0 @@
-How does one understand looping through an array of Strings?Length is the number of values in the array. For instance, if the length is 10, the first element in the array could be accessed at index 0 and the last at index 9. For that reason, length-1 is used. 32 Views  View Upvotes  Answer requested by Remy Kirsch

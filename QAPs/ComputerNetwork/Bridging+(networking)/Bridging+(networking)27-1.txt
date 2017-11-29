@@ -1,2 +1,0 @@
-★What is a debugging proxy?
-There is also SymProxy - think of it as a HTTP Proxy. It's designed to bridge networks, or to give anonymous users a credential (common when a lab machine needs to talk to a domain joined machine.

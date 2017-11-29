@@ -1,1 +1,0 @@
-Why do some hash functions use a prime number as base?In cryptography or in String matching(say Rabin Karp), some hash functions use a prime number as radix for calculating the modulo. What is the significance of using a prime number. Is it to assign uniqueness and minimize collision of hash values?

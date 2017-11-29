@@ -1,1 +1,0 @@
-Can the category (referring to category theory) be completely represented by a graph (directed or undirected)?Just going through the concepts of category theory, so thought that may be any category can be represented by a graph. Is it right to say that one is a generalization of another or just a different form of representation?

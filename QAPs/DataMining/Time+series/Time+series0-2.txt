@@ -1,2 +1,0 @@
-★What are some fantastic books on time series analysis?
-Brockwell and Davis have two books on time series that are worth checking out: Time Series: Theory and Methods Introduction to Time Series and Forecasting The former is a more encyclopedic and theoretical treatment, whereas the latter is more accessible and somewhat more practically oriented.    Embed Quote

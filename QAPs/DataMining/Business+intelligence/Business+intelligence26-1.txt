@@ -1,2 +1,0 @@
-What are the main full web business intelligence solutions?
-When you say "full web", that suggests to me a cloud-based BI or SaaS model. Here are a few solution providers: * Good Data http://www.gooddata.com/ * Oco http://www.oco-inc.com/ * Pentaho http://www.pentaho.com/cloud_bi/ * PivotLink http://www.pivotlink.com/ * Indicee http://www.indicee.com/ By the sounds of the press releases, many of the larger BI vendors appear to be headed toward cloud-based offerings as well.    Embed Quote 

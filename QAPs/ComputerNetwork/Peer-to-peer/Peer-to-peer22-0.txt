@@ -1,2 +1,0 @@
-★How would I write a peer-to-peer application in Java?
-Look into JXSE and this article - Peer-to-peer applications made easy    Embed Quote

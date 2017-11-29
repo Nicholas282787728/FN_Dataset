@@ -1,1 +1,0 @@
-What advantages C++ offers as compared to C in competitive programming landscape?

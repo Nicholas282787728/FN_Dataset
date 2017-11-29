@@ -1,2 +1,0 @@
-What is a good introduction to working with large data sets?
-Revolution Analytics has a distribution of R which seems to be useful for big data. Dowloadable and free for academic use.. http://www.revolutionanalytics.c...    Embed Quote 

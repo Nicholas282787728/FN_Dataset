@@ -1,1 +1,0 @@
-What are some properties of minimum spanning trees?Any edge not in the MST forms a cycle with the edges of the tree, furthermore it will be the heaviest edge on this cycle (although there might be other edges with same weight). 

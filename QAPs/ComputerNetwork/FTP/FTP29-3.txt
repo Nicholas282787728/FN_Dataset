@@ -1,2 +1,0 @@
-★How do you setup an FTP server to do a custom action on file upload?
-I feel duty-bound to say that you should try using SFTP instead of FTP, as it's less complex to secure and administer, and given the availability of encryption one should use it where possible. That said, if FTP is an absolute requirement, PureFTPd (http://www.pureftpd.org/project/...) can authenticate users against MySQL and PostrgreSQL, has a built-in mechanism for triggering shell or other scripts on upload, and is in my experience cleaner and less fiddly to set up than other FTP servers.

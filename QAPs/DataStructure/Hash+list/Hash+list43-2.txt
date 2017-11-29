@@ -1,2 +1,0 @@
-What is the best key-value store for generic usage?
-Its worth mentioning also that people like RedisLabs (just a customer, not otherwise involved) offer very fast, very reliable Redis clusters as a service, so the replication/HA headaches there can be quite minimal if you're willing to go that route.  Riak seems to have somewhat less maturity (and significantly greater headaches) when viewed the SaaS world. 

@@ -1,2 +1,0 @@
-★What's is the difference between port number and Mac address?
-The same as your building number and flat number. Mac Address identifies the Network Interface Card or NIC, that data is supposed to be sent or received from. Port Number specifies the exact port for which the packet is meant.    Embed Quote

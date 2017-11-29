@@ -1,2 +1,0 @@
-★What are some good research topics using genetic algorithms for machine learning?
-Classification, Feature Selection seem to have been covered a lot by GA researchers.    Embed Quote

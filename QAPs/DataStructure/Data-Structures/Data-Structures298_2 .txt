@@ -1,1 +1,0 @@
-I want to be an embedded systems programmer, working in the field of IoT, do I require a knowledge of data structures?Of Course you have to know all the stuffs related to programming, IoT is all about playing with your data or data you get from the system. 12 Views  Answer requested by Agnus Selvaraj

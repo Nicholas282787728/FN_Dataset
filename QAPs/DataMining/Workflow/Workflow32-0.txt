@@ -1,2 +1,0 @@
-★What is a good Digital Workflow tool?I'm looking for a free or inexpensive tool to create digital workflows for business processes.
-If you are just trying to diagram the processes and might be interested in an excellent collaboration capability I would recommend LucidChart. www.lucidchart.com If you want to graphically configure, test, and deploy business processes check out www.decisons.com where you can try the Decisions Workflow Automation Platform for free.    Embed Quote

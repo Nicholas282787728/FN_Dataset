@@ -1,2 +1,0 @@
-What are some of the most ingenious algorithms in computer science?added bonus if the algorithm runs in constant time
-The Viterbi Algorithm (http://en.wikipedia.org/wiki/Vit...) is my all-time favorite, because of what it does: help machines understand the cause of a sequence of observations. Its real-world applications are humbling. A strong contender is Alpha-Beta pruning (http://en.wikipedia.org/wiki/Alp...), which makes computers better than humans at chess. Otherwise, anything on http://www.scriptol.com/programm... is worth looking at. 

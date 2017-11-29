@@ -1,2 +1,0 @@
-Why can't I connect to my local SQL Server database instance?
-OK, reading your question it seems that the services for the TRAINING instance are set to run under your credentials.  This might be the reason why you can't start them.  Go to those services and make sure the credential under which they run have the right username/password.  You can find this under the LogOn tab on the Service Properties form. Make sure that at least the SQL Server (TRAINING) service can start. 

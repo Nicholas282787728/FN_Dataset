@@ -1,2 +1,0 @@
-★Bayesian Inferencing: How do iterative parameter updates work?
-if you specify a small value for lambda in the model, this corresponds to a non-informative prior and posterior means under such a prior are close to MLE. The iterative procedure won't change the value of lambda in this case. You can further specify another level of distribution for the lambda, then procedure will find a posterior distribution for lambda.    Embed Quote

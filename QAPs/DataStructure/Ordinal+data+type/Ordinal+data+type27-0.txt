@@ -1,2 +1,0 @@
-How do independent/dependent variables from your hypothesis differ from ordinal/interval/nominal variables?
-Saying that a variable is nominal, ordinal, interval or ratio is saying what kind of data it has and what sort of operations are defined on that data. Saying that a variable is dependent or independent is saying what role it plays in your study. These are two completely different things, and all combinations are possible. 

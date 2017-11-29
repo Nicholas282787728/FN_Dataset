@@ -1,2 +1,0 @@
-★What are the advantages of spectral clustering over k-means clustering?
-spectral clustering is also (semi-)convex, whereas kmeans is not    Embed Quote

@@ -1,1 +1,0 @@
-For a 2k-edge-connected loopless graph, can we show that it has a k-edge-connected bipartite subgraph? (This subgraph must contain all the vertices of the original graph)k-edge-connected graph Bipartite graph

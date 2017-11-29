@@ -1,1 +1,0 @@
-how to make insert operation purely functional. Its balance function needed to take care of only 4 unbalanced cases and one default balanced case

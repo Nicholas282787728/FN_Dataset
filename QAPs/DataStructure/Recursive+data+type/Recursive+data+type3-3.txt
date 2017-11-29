@@ -1,2 +1,0 @@
-What are the necessary CS subjects I need to learn to become a software engineer or get placed in a reputed software company? I'm an ECE undergraduate student in my 3rd year of study.
-Minimum you should learn are - OOPS concept, Data Structures, Search and Sort Algorithms 

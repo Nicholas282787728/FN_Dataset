@@ -1,2 +1,0 @@
-★What is a good regular expression to match spaces?I want to check if a string contains only spaces. Single spaces are allowed, but not as a full string of spaces.
-^\s*$ This regular expression will match any string that is zero or more whitespace characters. This regular expression will not match if the string contains ANY non-whitespace characters. This regular expression will match empty strings. (As noted by Patric)    Embed Quote

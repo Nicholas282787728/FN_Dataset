@@ -1,2 +1,0 @@
-★What is the purpose of time-division multiplexing (TDM)?From my understanding, multiplexing is used to increase communication speed, but I don't see how TDM does this.
-Whenever there is a Half-Duplex communication system, TDM is useful because an user gets full Bandwidth for his data transmission/reception. This isn't the case with FDM because an user gets only a portion of Bandwidth. Hence TDM is advantageous & very useful for all the Half-Duplex systems    Embed Quote

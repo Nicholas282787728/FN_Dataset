@@ -1,1 +1,0 @@
-Why are there no arrays in Python?In Python 2.7 you have lists that are similar to java arrays. If you want multidimensional arrays with MATLAB like ease of slicing ":" rows or columns, then import numpy. Then you can use numpy.array. 

@@ -1,2 +1,0 @@
-What is the best software to implement machine learning/large scale data mining algorithms?
-Hands down, the most scalable machine learning platform is GraphLab http://graphlab.org/ Mahout does not come close Hog wild looks promising    Embed Quote Updated 16 Dec, 2012. 1,212 views.

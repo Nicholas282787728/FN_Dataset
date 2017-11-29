@@ -1,2 +1,0 @@
-★What is the best FTP client for Mac OS?other than Filezilla
-FileZilla is a free, reliable, and easy to use FTP client for Mac OS X.

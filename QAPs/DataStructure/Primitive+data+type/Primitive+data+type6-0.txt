@@ -1,2 +1,0 @@
-What is the difference between == and equal method in Java and how does == produce results in primitive data types and string types?
-== acts as comparision operator for primitive datatypes but string is not a primitive datatype. String is actually a pointer to some memory location containing sequence of characters. So as string is a pointer == operator compares the address value of two variables. But our aim is to check if the squence of characters and not the address of memory they are stored in so we use equal method of String. 

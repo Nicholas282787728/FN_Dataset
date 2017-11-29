@@ -1,2 +1,0 @@
-Why can't I connect to my local SQL Server database instance?
-Yes, this error message doesn't usually have anything to do with network conditions. it does have to do with the SQL server being up and running and the login information being correct. if you can't start the SQL server service that would definitely prevent you from accessing it. check the application logs for a specific error that will further direct you. (you can access them by running eventvwr). 

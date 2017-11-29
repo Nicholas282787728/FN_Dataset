@@ -1,2 +1,0 @@
-★Who are the most prominent researchers in reinforcement learning?The kings of deep learning are easily identifiable (Andrew Ng, Yann Lecun, Geoffrey Hinton, Yoshua Bengio). It seems like only a small amount of their research relates to reinforcement learning (as opposed to more traditional domains like classification). Where is the most promising reinforcement learning research being done?
-Professor Michael Littman at Brown University (previously at Rutgers University) does some great RL work!    Embed Quote

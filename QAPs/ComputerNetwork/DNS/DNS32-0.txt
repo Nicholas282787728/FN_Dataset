@@ -1,2 +1,0 @@
-★What DNS software does Cloudflare use?Is it custom or some BIND variant etc.?
-The story of a little DNS easter egg

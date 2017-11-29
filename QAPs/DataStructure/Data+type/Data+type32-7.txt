@@ -1,2 +1,0 @@
-Can the % operater be used on all data types in C?
-In C, % could be used only for integers. While in more advance languages, such as java, it could also be used for floating numbers. Hope this helps. Thanks for reading, Neetesh;) 44 Views · Not for Reproduction

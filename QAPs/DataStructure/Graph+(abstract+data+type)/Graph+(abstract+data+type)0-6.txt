@@ -1,2 +1,0 @@
-What are some "practice problems" that everyone should work on in-order to get better at programming (in any programming language)?If you have any problems corresponding to your field of work/research then mention that as well!
-it is better that u practice over SPOJ , TOPCODER ,CODECHEFF their is some other programing website but whatever i mentioned above are the best. links are: Sphere Online Judge (SPOJ) TopCoder, Inc. | Home of the world's largest development community. i hope it will help u in finding more competative and good question. 

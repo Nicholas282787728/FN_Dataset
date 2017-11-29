@@ -1,2 +1,0 @@
-★What are some interesting use cases of graphical models?
-document clustering or classification : Latent Dirichlet Allocation, Labelled Dirichlet Allocation (FAMOUS) Diagnoses systems: Windows Troubleshooting System, illness diagnoses(Bayesian Trees) Image Recognition : Deep Belief Networks, Restricted Boltzmann Machines Pagerank : It is a random walk based inference and learning problem    Embed Quote

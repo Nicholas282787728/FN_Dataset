@@ -1,2 +1,0 @@
-How can I design an efficient data structure that supports findMin, findMax, deleteMin, deleteMax, Insert, and delete?
-Double Fibonacci queue. One node hashmap and two fib heaps. Find min and max is unit cost. Delete min and max is fixed. Deleting a min will also have to be deleted from the max heap which will be just a delete from its parent since it will be a leaf in the max heap and vice versa. Delete will be again same cost. Insert is unit cost. 

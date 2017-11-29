@@ -1,2 +1,0 @@
-★Can frequency domain and time domain be plotted simultaneously?
-Yes. A Spectrogram is what you're looking for. It is basically the squared magnitude of the Short-time Fourier transform of the signal.

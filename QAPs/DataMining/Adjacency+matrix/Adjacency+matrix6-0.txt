@@ -1,2 +1,0 @@
-★Does the inverse of a graph adjacency matrix mean anything?
-Funny you ask this. I shall link you to a paper written by my Ph.D. supervisor and myself (and a friend) on exactly this topic: On the inverse of the adjacency matrix of a graph : Special Matrices I can give you a better answer than this, but I'm afraid you'll have to wait until I finish my thesis.    Embed Quote

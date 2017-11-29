@@ -1,2 +1,0 @@
-What are some easy to implement and powerful data structures?
-Fenwick tree, it's couple of lines (Algorithm Tutorials) 

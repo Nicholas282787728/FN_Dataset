@@ -1,1 +1,0 @@
-What are some real-life examples of Breadth and Depth First Search?What are some real life examples of BFS, DFS and similar algorithms that help us find shortest path between two nodes? What are some of the unknown places where graphs have been used to model the situation?

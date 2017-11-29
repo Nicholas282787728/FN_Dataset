@@ -1,2 +1,0 @@
-How is the autocomplete for Quora so fast?How do they do it? It's magic!
-It's a service written in C++ designed to be fast and designed for prefix matching. Normally autocomplete interfaces on websites are backed by database queries, or by search engines like Sphinx or Lucene that weren't originally designed for prefix matching or designed for speed, which makes them slower. There's a lot more that goes into the autocomplete results than just the query to our backend service though; see How is the Quora website so fast? 

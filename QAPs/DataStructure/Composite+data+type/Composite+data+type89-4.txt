@@ -1,1 +1,0 @@
-What is database refactoring?Any practical example to understand it?

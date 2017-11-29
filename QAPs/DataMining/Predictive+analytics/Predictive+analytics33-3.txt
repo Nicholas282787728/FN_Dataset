@@ -1,2 +1,0 @@
-★What are some examples of applications of predictive analytics to the media and entertainment industry?Are there companies who are doing interesting things in this space? What could people be doing but aren't?
-one example is of company TiVo. It is using predictive analytics to investigate the impact of social TV on increase in sales. They are analysing sales response within 24 hours, volume, sentiment analysis and long term effect on sales.    Embed Quote

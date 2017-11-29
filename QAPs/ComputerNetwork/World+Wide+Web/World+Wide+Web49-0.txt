@@ -1,2 +1,0 @@
-★World Wide Web: What is secure session login? What does the encryption bit mean?
-Since this is under WWW, I presume you are referring to TLS/SSL encrypted sessions.    Embed Quote

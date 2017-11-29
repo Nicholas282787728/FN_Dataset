@@ -1,2 +1,0 @@
-★Which NLP Library is most suitable for use and further development for a text mining startup?
-In your start-up team, what programming languages do people know - and what web frameworks?  Pick an NLP library that is based in he language you want to work in.    Embed Quote

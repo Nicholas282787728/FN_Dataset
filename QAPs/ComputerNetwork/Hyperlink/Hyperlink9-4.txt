@@ -1,2 +1,0 @@
-★Can a hyperlink also have JavaScript that will execute onclick?
-Define the method in JS called clicked and insert the following snippet: <a href="javascript:clicked();">Click Here</a>    Embed Quote

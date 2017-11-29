@@ -1,2 +1,0 @@
-★Is there a Yammer application that can be integrated in an intranet?A php-based app, where users can login, view the timeline and post updates.
-The best answer is Voogy - Your Company - Your Social network - it is the latest addition, but fully integrated to the award winning Futurelabscrm.com  and Sharepoint, Dropbox, Google Drive etc. Voogy is the leaders within Private Social Networks for Companies.

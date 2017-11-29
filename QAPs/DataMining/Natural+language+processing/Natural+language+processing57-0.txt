@@ -1,2 +1,0 @@
-★Natural Language Processing: What are good algorithms related to sentiment analysis?
-Recently Richard Socher - Home Page has come up with this fascinating Deep model for sentiment analysis. While traditional sentiment analysis models look at things in isolation, the recursive deep model suggested here seems to take the word order in consideration and build semantic word vectors. I am of the opinion that the concept of  using semantics and structure seem to be the right way to proceed.    Embed Quote

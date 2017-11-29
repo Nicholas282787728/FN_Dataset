@@ -1,2 +1,0 @@
-What are the most useful gems to use in Rails?
-Haml is one of my favorites - it will make HTML/ERB code actually look like something readable, and its space-delineation will save some time coding. The real advantage to Haml, though, is when you go back to maintain something, and can actually read it at a glance. 

@@ -1,2 +1,0 @@
-★What are the steps to do before launching a web startup apart from the programming, choosing the right vendors for payment gateways, smtp server etc etc?please also help me to know who are the people to be involved like lawyer (for paper works), accountant etc
-Before doing anything you first need to 1. Write down the leap of faith assumption you are making 2. Write down every other assumption 3. Work out the most efficient way to test them 4. Work our Wireframes 5. Show customers 6. WOrk out visual design 7. Show Customers 8. Then do what you said above    Embed Quote

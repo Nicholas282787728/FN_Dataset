@@ -1,2 +1,0 @@
-★What is the main purpose of Data link layer in TCP/IP or OSI layer?advantages of data link layer
-Following are the 4 prominent services of datalink layer 1. Framing: 2. Error Correction and Detection 3. Multiple Access Control 4. Reliable Delivery    Embed Quote

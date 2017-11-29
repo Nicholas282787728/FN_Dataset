@@ -1,2 +1,0 @@
-★What is Generalized Linear Regression?How do you calculate the coefficients for GLM. Also is it possible to use least squares estimation for calculating coefficients.
-Your Question is answered in This post Linear Regression    Embed Quote

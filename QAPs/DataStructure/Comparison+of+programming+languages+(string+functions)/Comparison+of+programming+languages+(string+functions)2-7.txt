@@ -1,1 +1,0 @@
-Why is C++ so complicated?

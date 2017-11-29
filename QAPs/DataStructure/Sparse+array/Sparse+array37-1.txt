@@ -1,2 +1,0 @@
-Why is file access so slow in Matlab?
-MATLAB compresses data when writing to MAT-files to save storage space. Data compression and decompression slow down all save operations and some load operations. In most cases, the reduction in file size is worth the additional time spent. In fact, loading compressed data is sometimes faster than loading uncompressed data 

@@ -1,2 +1,0 @@
-I have done a link list, a stack and a queue. What else should I do in data structure?
-Dude Link list, Stack and Queue is just start of DS. Just have a look at Geeksforgeeks website. Its a good source for learning Algo and DS. You can get a full detail of what should you have to learn to be good in DS. Data Structures - GeeksforGeeks 

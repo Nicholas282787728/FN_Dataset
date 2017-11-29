@@ -1,1 +1,0 @@
-Are there any useful recursive functions that do not contain a base case?This is a follow-up question to What does "base case" mean in the context of recursion?.

@@ -1,2 +1,0 @@
-How do I declare a data type for an integer with more than 10 digits in C?
-use long int <var name>; or you can use double instead of long 

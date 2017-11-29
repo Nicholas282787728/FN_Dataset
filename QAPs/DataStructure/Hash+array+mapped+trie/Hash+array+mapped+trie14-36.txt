@@ -1,1 +1,0 @@
-If advanced algorithms and data structures are never used in industry, then why learn them?I and people I know have never used any advanced algorithms or data structures in industry and some of us have 20 years of experience in industry. How do you motivate yourself to learn advanced algorithms and data structures or, for that matter, go for Programming contests etc..

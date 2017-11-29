@@ -1,2 +1,0 @@
-★How does the rising popularity of Hadoop impact legacy data warehouse vendors like Teradata?
-Remember, Hadoop is not a replacement to Data Warehouse. Keeping that in mind Hadoop can be used to manage data (remember the 3Vs) and send the structured data to appliances like Teradata. So they both have two different marked segments and Hadoop don't replace DW appliances. Chris answer perfectly holds good.    Embed Quote

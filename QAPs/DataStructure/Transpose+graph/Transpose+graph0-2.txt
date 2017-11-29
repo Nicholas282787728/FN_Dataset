@@ -1,2 +1,0 @@
-What is Kosaraju's algorithm to find the number of SCCs?
-I've explained everything step by step here Prakash Deivakani's answer to Why we are transposing or reversing the directions of all arcs (edges) in the Kosaraju two pass algorithm? 

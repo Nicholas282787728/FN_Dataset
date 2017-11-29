@@ -1,2 +1,0 @@
-Computational Complexity Theory: What are some NP-complete problems involving complete graphs?
-By your comments to other answers I gather that you are asking whether there are any NP-complete problems where the inputs to the problem are complete graphs only. The answer is nobody knows; if it were true this would imply that P = NP. Such a problem is a unary language, a problem in which every input has a distinct size. A unary language can only be NP-complete if P = NP, which is proved here.    Embed Quote 

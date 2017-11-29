@@ -1,2 +1,0 @@
-What are few must-do DP problems and why?
-This is the best collection of DP problems I have ever come across, not only because there are hard problems, but also because it covers basic essential problems like Coin changing. Refer the solutions only after you've tried the problems for a reasonable amount of time. Dynamic Programming Practice Problems Also, DP is something in which practice matters a lot. Google and get going. :) 

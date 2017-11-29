@@ -1,2 +1,0 @@
-How come if a graph is non-planar then any super graph of it is non-planar?
-This follows directly from any subgraph of a planar graph is planar. 

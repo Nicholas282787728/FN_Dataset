@@ -1,2 +1,0 @@
-★What will Apple’s smart home network look like?
-I hope it will have structural health monitoring (SHM) component. In my post  Future of Smart Homes I discussed about how SHM can be implemented.

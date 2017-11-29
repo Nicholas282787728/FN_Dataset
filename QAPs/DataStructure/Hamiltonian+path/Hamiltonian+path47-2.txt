@@ -1,2 +1,0 @@
-What are some interesting algorithms that have no known implementation to date?
-Well, not really an algorithm but in the field of networking. There are two stacks, one is OSI stack which is considered as the standard stack. It defines everything that a network stack should support and there is a clear separation of all the functionalities. Infact most of the text books teach about OSI stack only. Sadly, there is no real world implementation of full fledged OSI stack. All of today's systems are an implementation of TCP/IP Stack. 

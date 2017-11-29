@@ -1,2 +1,0 @@
-How do you prove rigorously that [math](a,b)=(c,d)[/math] if and only if [math]a=c[/math] and [math]b=d[/math]?
-Self evidence or we call it Axiom An axiom or postulate is a premise or starting point of reasoning. As classically conceived, an axiom is a premise so evident as to be accepted as true without controversy. 

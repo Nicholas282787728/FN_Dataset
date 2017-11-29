@@ -1,2 +1,0 @@
-What is the most complex line of C code you have created or encountered?
-It was a single line that looked like this: char *********************************a; No this is not a comment, it's a pointer on a pointer on a pointer ..., can't remember which type exactly. My first idea was "Oh a comment, great." my next idea was "What the fuck? Code from hell?" 

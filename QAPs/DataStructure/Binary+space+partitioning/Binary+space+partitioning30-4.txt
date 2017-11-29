@@ -1,1 +1,0 @@
-How do I create a database when the data structure is likely to evolve at a rapid pace?

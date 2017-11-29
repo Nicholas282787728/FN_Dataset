@@ -1,2 +1,0 @@
-What are some good books on recursion in trees?
-Have you read A. Tanenbaum's Data Structures? I used it in my engineering. Introduction to Algorithm by T. Cormen is also a great book. 

@@ -1,2 +1,0 @@
-What is a bipartite graph?
-There are plenty of technical definitions of bipartite graphs all over the web like this one from http://www.cs.cmu.edu/afs/cs.cmu... (ppt): But an easy way to understand and reason about bipartite graphs is to think of two groups of people being paired in some activity. For example, boys and girls dating. Assuming only heterosexual couples, even without monogamy, you get a bipartite graph where the vertices are people, edges represent relationships between them, and the two sets are the set of boys and the set of girls. 

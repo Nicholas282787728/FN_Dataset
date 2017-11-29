@@ -1,2 +1,0 @@
-As a CS 3rd year student, how do I prepare for internship at Microsoft?
-A2A Follow this link: Microsoft Archives - GeeksforGeeks While preparing for internship interviews at MS, I covered sets from the above link. PS: above link contains asked questions for both Intern and FTE(Full Time Employee). I covered only intern ones. PPS: I got intern and later got PPO. :D 

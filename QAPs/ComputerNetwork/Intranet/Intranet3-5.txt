@@ -1,2 +1,0 @@
-★What are Sharepoint alternatives for a company-wide intranet?In a ~500-1000 person company, what alternatives are there for a  document, file repository-style intranet portal? Bonus points if there is room and potential for other elements of the information workplace (such as collaboration, social, content management) down the road.
-There are tons to choose from. Given the size of your company I'd look at these vendors:  eXo, Intranet Dashboard, Interact Intranet, Moxie, Plone, Drupal, Social Text, BlueWiki, ThoughtFarmer, Igloo

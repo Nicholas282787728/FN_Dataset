@@ -1,1 +1,0 @@
-Below is an example. HTYPE is set to 1 to specify that the medium used is ethernet, HLEN is set to 6 because an ethernet address (MAC address) is 6 octets long. The CHADDR is set to the MAC address used by the client. Some options are set as well..

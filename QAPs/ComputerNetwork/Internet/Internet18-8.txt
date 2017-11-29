@@ -1,2 +1,0 @@
-★What startups are focused on the Internet of Things (IoT)?
-Most of the companies described here are focused on devices. Neura is a startup building Artificial Intelligence for the Internet of Things. Basically, we analyze data from different devices and services around the user, understand his habits and the context of everything he does, and simplify his life by inter-connecting his devices. (Disclaimer: I'm working for Neura).

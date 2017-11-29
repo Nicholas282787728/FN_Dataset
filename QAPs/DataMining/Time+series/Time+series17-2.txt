@@ -1,2 +1,0 @@
-★What is the best approach for storing time series data?would like to know your experiences with different dbms for storing time series data.
-Well, it's depend on how much data you have and how much money you want to spend. There is an open souced project OpenTSDB which is based on HBASE. For commercial use, you can use VelocityAnalytics from thomson reuters, which can handle like hundreds G/ day. If you data is not that big, just use any open sourced rdbms.    Embed Quote

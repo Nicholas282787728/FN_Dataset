@@ -1,2 +1,0 @@
-What basic data structures and algorithms should one learn before starting competitive programming?
-Originally Answered: What would you advise to a person who wants to get started with competitive programming, and how should one learn data structures and algorithms? I have answered similar question at Kamal Rawat's answer to Which is the best source available to learn data structures & algorithms for a beginner? 157 Views · Answer requested by Akash Bhadouria

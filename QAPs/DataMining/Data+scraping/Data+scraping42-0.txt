@@ -1,2 +1,0 @@
-Is it possible to scrape data from visitors of a website that's not mine?
-Cheselle, in most of the cases you need to paste a script on the website to get the heatmaps, visitor session videos, etc. There are some ways in remote user testing to get some data based on user scenarios. You'll be able to see task completion rates, fail rates and plenty of information with the website that is not yours. For more info, I'll be happy to help you out.    Embed Quote 

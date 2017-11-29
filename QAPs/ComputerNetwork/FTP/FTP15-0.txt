@@ -1,2 +1,0 @@
-★What does Chrome use Python FTP server library for?chrome://credits/ is a list of license of libraries that Chrome uses, I find in it a Python FTP server library and wonder what they use this library for.
-I checked Python FTP server library's wiki (pyftpdlib - Super fast Python FTP server library - Google Project Hosting), i found this Google Chrome is the new free and open source web browser developed by Google. Google Chromium, the open source project behind Google Chrome, included pyftpdlib in the code base to develop Google Chrome's FTP client unit tests.

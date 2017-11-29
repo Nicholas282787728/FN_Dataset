@@ -1,2 +1,0 @@
-What are some concepts/algorithms/data structures that every computer science student should know?
-Don't forget Bloom Filter (https://en.wikipedia.org/wiki/Bl...) 

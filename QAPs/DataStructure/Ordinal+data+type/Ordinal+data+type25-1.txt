@@ -1,2 +1,0 @@
-Statistics (academic discipline): If I'm trying to find the relationship between two categorical variables, with possible values 0 (didn't happen), 1, 2 and 3 (happened a lot), is calculating the correlation coefficient the best I can do?
-It can be used but there are notable issues with it. Chances are good that loglinear analysis would be a better choice. 

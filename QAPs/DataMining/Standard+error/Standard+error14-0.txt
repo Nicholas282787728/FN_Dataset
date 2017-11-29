@@ -1,2 +1,0 @@
-★Does poststratification of survey data increase or decrease standard error of estimates? And why?
-It can go either way. If your are accounting for substantial stratification, the error will decrease because it's been partitioned off. On the other hand, you are increasing the number of parameters estimated in your model, which results in fewer denominator degrees of freedom for your error estimate. If your stratification is small or not really there, all you are doing is reducing those degrees of freedom.    Embed Quote

@@ -1,2 +1,0 @@
-Graph theory: how is a tree defined?
-There are a number of standard definitions of trees in graph theory that are all equivalent.  One of those definitions is that a tree is a connected graph with no cycles. You will occasionally see a definition along the line of "A tree is a connected graph on n  vertices with n−1  edges", but this is dissatisfying because it only applies to finite graphs.  In general we would like to have a definition that applies to infinite graphs as well, and the one I gave does. 

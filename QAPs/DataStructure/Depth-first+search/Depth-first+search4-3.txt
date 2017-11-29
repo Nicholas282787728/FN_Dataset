@@ -1,2 +1,0 @@
-What are some real-life examples of Breadth and Depth First Search?
-Maze games which you solve on magazines are created by Depth First Search Algorithm. The logic is same, it begins from root element which is beginning point, it explores other unexplored edges and backtrack. You should watch this video: File:Depth-First Search Animation Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 4.3k Views · 2 Upvotes

@@ -1,2 +1,0 @@
-What are the 10 algorithms one must know in order to solve most algorithm problems?
-Important algorithms that have not been named often so far are: 1. The Fast Fourier Transform (FFT) algorithm 2. Newton's method, often coupled with Horner's method 3. Simplex algorithm 4. Iterative reweighted least squared error algorithm 5. Remez exchange algorithm for Chebyshev approximation 6. Arithmetic-geometric mean algorithm for calculating elliptic integrals... (more)

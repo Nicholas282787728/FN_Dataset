@@ -1,2 +1,0 @@
-What are methods to make a predictive model more robust to outliers?
-One method I haven't seen mentioned is trees and their offshoots (bagging, forests, etc). A classification or regression tree will be very resistant to univariate outliers, certainly, unless those outliers are so far wrong that they belong in the middle of the distribution. 

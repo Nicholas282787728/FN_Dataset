@@ -1,2 +1,0 @@
-How can we implement data structures like doubly linked lists in Python where there is no concept of pointers?
-using class and with a data variable and two address variables. 

@@ -1,2 +1,0 @@
-Why are hashtable/hashmap/hash_function called so?
-You mean mash as in mashed potato? The idea of hashes is that you cut things at regular intervals. In the case of a hash function, it grabs an string for example and calculates a number out of the individual characters, so that if you change one of the characters, the hash returns a completely different value. One of the best hashes known today is SHA-1 and SHA-512. SHA-1 was broken a few years ago. SHA-512 refers to the number of bits in the key. Every 2 years you should double the number of bits for it to be secure. 

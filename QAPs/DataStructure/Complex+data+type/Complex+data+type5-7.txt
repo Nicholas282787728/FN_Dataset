@@ -1,2 +1,0 @@
-What are some cool things that are easy to do in Haskell but hard to do in other languages?I'm curious if I should learn Haskell for fun.
-Monadic regions harness Haskell's type system to prevent a resource or computation using that resource from leaking outside of a particular region. 

@@ -1,2 +1,0 @@
-★Has there been a breakthrough in wireless communication?
-Not really Full duplex is very cool and I have written about KUMU before, who are commercializing it But at best it doubles throughout. That is really good. 1GB in 3 seconds is 8Gb = 2.66Gbps which although a bit faster than any commercial system is pretty typical for lab demo these days (lots of MIMO, big channels) There are plenty of commercial products doing >1Gbs, so doing 2-3X that is hardly "breakthrough"    Embed Quote

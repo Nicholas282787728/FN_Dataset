@@ -1,2 +1,0 @@
-If mathematics is an exact science, why are there assumptions?
-You need the assumptions to bypass known rules and improve duplication and repeatability. For example: Take the simple K = 3/x.  Unless you specify whether you assume x can be zero or not, down the road, unexpected  and funny things may happen. Or consider solving the roots of a polynomial. Your problem assumptions will dictate whether you care for negative roots or even imaginary roots.    Embed Quote 

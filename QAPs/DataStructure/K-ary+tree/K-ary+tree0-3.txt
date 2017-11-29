@@ -1,1 +1,0 @@
-What is the major difference between a fractal tree and a b-/k-ary tree?

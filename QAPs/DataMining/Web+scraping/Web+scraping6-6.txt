@@ -1,2 +1,0 @@
-★What are the best web scraping open source tools?
-Try scrapy.org    Embed Quote

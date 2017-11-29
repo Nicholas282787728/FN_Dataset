@@ -1,2 +1,0 @@
-What are some of the best algorithms?
-The sleep sort algorithm is one of the most brilliant, intuitive and appealing sort algorithm I've ever seen. It was presented by an anonymous guy on 4chan in 2011. The original code goes like this. #!/bin/bash function f() { sleep "$1" echo "$1" } while [ -n "$1" ] ... (more)

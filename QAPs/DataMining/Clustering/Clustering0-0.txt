@@ -1,2 +1,0 @@
-★What are the use cases for Amazon GPU Cluster?
-Anything that can be expressed as a vector or matrix operation. Just off the top of my mind-- learning, svds, linear programing, computational fluid dynamics, sequence alignment and any kind of ray tracing or graphics processing. All those applications now effectively have access to a supercomputer with no capital costs.    Embed Quote 

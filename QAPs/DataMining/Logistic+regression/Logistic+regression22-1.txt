@@ -1,2 +1,0 @@
-★How do I interpret concordance in Logistic Regression?
-Concordance gives an idea about the reliability of Logistic Regression Model, thought it is not sufficient to rely solely on it. What it does is ... takes every (1,0) pairs from the actual data (assuming binary logistic regression) and checks all the cases where the model has thrown a probability for a 1 > probability for a 0. Higher the concordance percent, better the model.    Embed Quote

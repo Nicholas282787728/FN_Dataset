@@ -1,2 +1,0 @@
-★Why doesn’t "sizeof(a)/sizeof(a[0])" work for an array passed as a parameter?
-a[] in the prototype is the same as *a, there is no intrinsic size in an array reference, it's just a pointer, the module where a[something] is defined resolves the "something" literal and knows what the sizeof(a) is in that context, you've got to pass the pointer and number of elements to func()    Embed Quote

@@ -1,2 +1,0 @@
-How do I learn C++ in one night? I know its possible.
-This is really not possible, nothing is there in programming language that you can learn in one night,itself the HTML and CSS, that doesn't take much. There are huge and listed topics that is needed when you learn programming and C and C++ is the base of programmers, So, it is necessary to learn each and every topic. These are great links from where you can learn C++: 1) Learn C++ 2) C++ Language - C++ Tutorials 

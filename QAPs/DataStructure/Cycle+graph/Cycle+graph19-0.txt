@@ -1,2 +1,0 @@
-How can you find if a graph has any cycles using "union-find"?
-Kruskal's algorithm is all about avoiding cycles in a graph. It uses Union-Find technique for doing that. You can use the same for detecting cycles in a graph. The algorithm should be something like below: for each unvisited edge (u, v) in E {     if(Find(u) = Find(v)) // u and v belong to the same set already     {         print "Cycle Detected";         break;     }     else         Union(u, v); // put u and v in the same set } Updated 16 Jun 2014 • View Upvotes

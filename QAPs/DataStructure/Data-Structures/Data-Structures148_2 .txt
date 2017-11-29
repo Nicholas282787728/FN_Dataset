@@ -1,1 +1,0 @@
-How are directed acyclic graphs different from trees?A tree is a DAG whose undirected version is still acyclic. 763 Views  View Upvotes  Answer requested by Kameng Nip

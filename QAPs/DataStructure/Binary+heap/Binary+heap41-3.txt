@@ -1,1 +1,0 @@
-How does std::priority_queue work in C++?What happens when a new element is pushed into it?

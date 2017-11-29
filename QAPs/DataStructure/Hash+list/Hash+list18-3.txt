@@ -1,1 +1,0 @@
-Will Memcached be replaced by Redis in the near future?I see the latest stable version of Memcached was released on September 3, 2012. Memcached is awesome, but Redis is getting more features and more stable over time. What is the future of Memcached, will Redis takes Memcached's use cases?

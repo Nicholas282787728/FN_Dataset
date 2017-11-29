@@ -1,2 +1,0 @@
-Where can I find a chronological phylogenetic tree?
-There is a poster with a circular phylogenetic tree containing a time bar at http://www.timetree.org.  That site also hosts an interactive query where on can enter two clades and get the divergence times, a list of the research papers the result is based on and links to external sources. 289 Views · 3 Upvotes · Answer requested by Catalin Braescu

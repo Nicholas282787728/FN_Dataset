@@ -1,2 +1,0 @@
-★Virtual Private Networks (VPNs): Is there any way to decrypt L2TP/IPsec/ESP packets for diagnosis/test purpose?
-I have found a related question on the web. Please check http://ask.wireshark.org/questio.... I believe you will be able to decrypt your desired protocols.    Embed Quote

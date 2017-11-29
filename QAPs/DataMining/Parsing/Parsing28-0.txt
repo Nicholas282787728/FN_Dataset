@@ -1,2 +1,0 @@
-★What is special about Parse?What makes it different than a normal backend written in node.js, for example?
-The advantage is that Parse is the backend that you don't have to write, and you can extend it if you need more custom server-side functionality than just CRUD operations and queries.    Embed Quote

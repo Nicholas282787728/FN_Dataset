@@ -1,2 +1,0 @@
-★Why do we need characteristic function for probability distribution?How is behave in mathematically?
-Off the top of my head: The simplest proof of the central limit theorem is based on characteristic functions. We know the general form of the characteristic functions of stable laws, but we only have densities for a finite number of them. A family of distributions is tight if and only if the collection of their characteristic functions is an equicontinuous.    Embed Quote

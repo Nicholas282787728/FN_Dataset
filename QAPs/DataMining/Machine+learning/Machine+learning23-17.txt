@@ -1,2 +1,0 @@
-★What is the best machine learning algorithm?
-Neural networks with Deep learning architectures are by far the best . They have won several benchmarks on hard problems of classification . Problem is They are very tricky to train and time consuming    Embed Quote

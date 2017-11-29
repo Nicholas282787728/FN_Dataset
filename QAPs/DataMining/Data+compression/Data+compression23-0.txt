@@ -1,2 +1,0 @@
-Is there still a long way to go in data compression algorithms?
-Probably, because lossy compression depends on how much we know about how humans work. All modern audio, video and image compression algorithms exploit different weaknesses in our perception (some colors being way more important than others, inability to differentiate high-frequency detail in certain conditions, etc.).    Embed Quote 

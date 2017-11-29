@@ -1,2 +1,0 @@
-How can we make it possible that two websites, hosted on a single server, use a single database?
-Let the websites be A and B Host A to the server and redirect B to A 

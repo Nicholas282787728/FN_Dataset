@@ -1,2 +1,0 @@
-★What is the best Twitter client for Linux?
-On my desktop (Arch Linux with KDE) I'm using Choqok. Looks very nice, easy to use and very complete for the several microblogging issues.

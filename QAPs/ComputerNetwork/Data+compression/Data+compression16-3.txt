@@ -1,2 +1,0 @@
-★Could a data compression (even image compression) startup exist?
-I think nobody would pay since we already have lots of excellent offline free engines for almost every media type. Even if you make a slightly better one - I doubt you can do that - it won't be worth the effort for anyone, it happened with OGG vorbis over MP3 and JPEG2000 over JPEG, the latters where already good enough and already on the market and integrated in other services

@@ -1,2 +1,0 @@
-What features are present in C, but not available in C++?
-Might not exactly be a feature but C is weakly typed, meaning you can cast anything into anything anytime but C++ is strongly typed which means that you can't do that. 

@@ -1,3 +1,0 @@
-If lossy data compression is used on audio or visual data, differences from the original signal will be introduced; if the compression is substantial, or lossy data is decompressed and recompressed, this may become noticeable in the form of compression artifacts. Whether these affect the perceived quality, and if so how much, depends on the compression scheme, encoder power, the characteristics of the input data, the listener¡¯s perceptions, the listener's familiarity with artifacts, and the listening or viewing environment.
-
-The bitrates in this section are approximately the minimum that the average listener in a typical listening or viewing environment, when using the best available compression, would perceive as not significantly worse than the reference standard

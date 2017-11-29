@@ -1,1 +1,0 @@
-How do I create an array of strings in c++ dynamically using pointers?You want to do it using raw pointers? Alrighty, then. std::string* ptr = new std::string[n]; Or, use C++11 smart pointers. std::unique_ptr<std::string> ptr(new std::string[n]); For the above, you'll need to include the <memory> header file. 94 Views

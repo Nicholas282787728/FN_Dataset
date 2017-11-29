@@ -1,2 +1,0 @@
-★What are the graph theory algorithms that Mark was talking about on the FAQ page of [thefacebook]?
-Your guess is about as good as mine but if I were him, I would use djikstra's algorithm since the goal for friend recommendation (which is what I assume he means by processing connections) is to find people who have the closest relationship to the person you're recommending friends to.    Embed Quote

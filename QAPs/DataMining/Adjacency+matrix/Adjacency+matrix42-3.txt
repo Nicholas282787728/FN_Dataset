@@ -1,2 +1,0 @@
-★How can I prove the Pagerank algorithm is correct and works?
-I think this is proof that it works.    Embed Quote

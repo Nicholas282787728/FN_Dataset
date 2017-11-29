@@ -1,1 +1,0 @@
-How do I draw graph of [(tanx) ^2] ([ ] represents greatest integer function)? Is there any other way to find its continuity?

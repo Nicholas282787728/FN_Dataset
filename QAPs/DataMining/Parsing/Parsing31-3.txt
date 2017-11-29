@@ -1,2 +1,0 @@
-★Why use a backend like Parse?
-It really depends on your app logic. Many apps do not need backend. If we take your example into account (photo feed) then you need to figure out how to deliver photos to other devices. If only an author could see them on its own device then there's no problems. If others need to see photos as well then either you have to maintain permanent peer to peer connection with all the devices either use a backend to store photos and deliver them to other devices when they need it.    Embed Quote

@@ -1,1 +1,0 @@
-How do I reverse a linked list in JavaScript?/* function Node(v) {  this.val = v;  this.next = null; } */ function reverseList(root) {  var currNode = root, prevNode = temp = null;   while(currNode != null) {  temp = currNode.next;  currNode.next = prevNode;  prevNode = currNode;  currNode = temp;  }  return prevNode ; } 1k Views

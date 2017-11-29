@@ -1,7 +1,0 @@
-In 1984, the Reverse Address Resolution Protocol (RARP), defined in RFC 903, was introduced to allow simple devices such as diskless workstations to dynamically obtain a suitable IP address. However, because it acted at the data link layer it made implementation difficult on many server platforms, and also required that a server be present on each individual network link. RARP was superseded by the Bootstrap Protocol (BOOTP) defined in RFC 951 in September 1985. This introduced the concept of a relay agent, which allowed the forwarding of BOOTP packets across networks, allowing one central BOOTP server to serve hosts on many IP subnets.[3]
-
-DHCP is based on BOOTP but can dynamically allocate IP addresses from a pool and reclaim them when they are no longer in use. It can also be used to deliver a wide range of extra configuration parameters to IP clients, including platform-specific parameters.[4] DHCP was first defined in RFC 1531 in October 1993; but due to errors in the editorial process was almost immediately reissued as RFC 1541.
-
-Four years later the DHCPINFORM message type[5] and other small changes were added by RFC 2131; which as of 2014 remains the standard for IPv4 networks.
-
-DHCPv6 was initially described by RFC 3315 in 2003, but this has been updated by many subsequent RFCs.[6] RFC 3633 added a DHCPv6 mechanism for prefix delegation, and stateless address autoconfiguration was added by RFC 3736

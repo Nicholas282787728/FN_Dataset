@@ -1,2 +1,0 @@
-What data structure should I use to complete this task?
-You can consider bst as one option it supports insertion deletion and search in O(logn) time most of hashing is also done through bst like map in C++ is implemented through bst internally.So that can be a good choice 

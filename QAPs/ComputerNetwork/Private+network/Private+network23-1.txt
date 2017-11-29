@@ -1,2 +1,0 @@
-★What would happen if there were two identical IP addresses on the same private network?
-In short, the two systems would be competing for the IP - the end result being that a system would work mostly (as far as the network goes) then stop working again. Everything that interacts directly with a system will correlate the IP address with the MAC address - and even though the IPs are identical the MAC addresses aren't - and this linkage (stored in the ARP table) would be flipping back and forth as it is set and reset. So now you know.    Embed Quote

@@ -1,2 +1,0 @@
-★How do I configure and run JBoss application server from eclipse IDE?
-This link has enough information on how you can configure Jboss 4. But, you can use the same steps for any latest Jboss version. http://ist.berkeley.edu/as-ag/to... This web site is dedicated for Jboss and you can more information about application development: http://www.mastertheboss.com/ thanks.

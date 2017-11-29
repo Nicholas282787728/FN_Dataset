@@ -1,2 +1,0 @@
-What will be next in the sequence 10, 14, 23, ____?
-Something different : 5 × 2 - 0 = 10 5 × 3 - 1 = 14 5 × 5 - 2 = 23 5 × 7 - 3 = 32 The numbers multiplied to 5 are the consequetive prime numbers and the numbers subtracted from the product are 0, 1, 2, 3 (Arithmetic progression) 32 is one of the answers :) 

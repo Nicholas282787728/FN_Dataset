@@ -1,2 +1,0 @@
-★What are some of the best blogs/resources for Business Intelligence and Predictive Analytics software?
-Here are few more to add to the list: KDNuggets for all things BI - http://www.kdnuggets.com DBMS 2 from Monash - http://www.dbms2.com/ James Kobielus from Forrester Research - Http://blogs.forrester.com/james... Boris Evelson from Forrester Research - http://blogs.forrester.com/boris... The Data Warehouse Institute  - http://tdwi.org/ There are probably many more that you could add to the list.  Happy reading! Regards Suhel    Embed Quote

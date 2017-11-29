@@ -1,2 +1,0 @@
-What are some of the best video lectures for learning data structures (mainly trees, linked lists) in C language?
-Dr. Naveen Garg's video lectures are good to start with. IIT Delhi. The coding part is in Java, but you will get the basics of DS very clearly, because you will find very little code in his lectures, mostly theoretical explanations and proofs. 

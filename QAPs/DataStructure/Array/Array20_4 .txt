@@ -1,1 +1,0 @@
-What is the maximum size of the array in Java?2^31-1 is the maximum size of array in Java. 

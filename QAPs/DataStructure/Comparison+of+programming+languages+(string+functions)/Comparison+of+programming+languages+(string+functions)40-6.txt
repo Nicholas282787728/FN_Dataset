@@ -1,1 +1,0 @@
-How do I find the first non repeated character of a given string?

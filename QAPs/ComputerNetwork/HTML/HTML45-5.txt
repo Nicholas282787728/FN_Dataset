@@ -1,2 +1,0 @@
-★What are the key differences between HTML and HTML5? Which is better?How html file supports web apps and mobile ui for all data
-HTML5 is better, end of discussion. However, XHTML is still applicable in some instances. XHTML, not HTML. Nevertheless, they're all generally referred to as "HTML"

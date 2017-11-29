@@ -1,2 +1,0 @@
-★Is variance another word for standard deviation?
-variance is also used as a general term which describes the dispersion of data around a measure of central tendency (mean, median, mode).  Standard deviation is 1 specific measure tied to the other "Variance", which is preferred since it is expressed in terms of the original units of measure, as opposed to the Variance which is expressed in terms of squared units.  I've seen it used both ways, even in journals.    Embed Quote

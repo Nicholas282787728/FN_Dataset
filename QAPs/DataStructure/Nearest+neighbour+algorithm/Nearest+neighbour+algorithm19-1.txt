@@ -1,2 +1,0 @@
-What are all the major graph algorithms used in the world of programming?
-A few additions to the ones already mentioned: 1) Edmonds' Blossom Algorithm - for constructing maximum matchings on graphs. 2) Gale-Shapley Algorithm - for the stable marriage problem. 3) Havel-Hakimi Algorithm - for constructing graphs from degree sequences. 

@@ -1,2 +1,0 @@
-★How much does it cost to protect your website against DDOS, by tier?
-Realistically, to stop a determined DDOS attack you'd need the kinds of funds companies like google have. To be "safe" you'd have to have a several distinct remote hosts, with huge amounts of bandwidth for the initial DNS.

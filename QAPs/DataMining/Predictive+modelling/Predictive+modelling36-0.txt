@@ -1,2 +1,0 @@
-★Are there publicly available brain activity datasets I can use to build predictive models?
-Is this applicable? http://www.cs.cmu.edu/~awm/15781... Also see the Duke University datasets here - CIVM Shared Data    Embed Quote

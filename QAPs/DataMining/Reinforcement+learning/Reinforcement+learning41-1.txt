@@ -1,2 +1,0 @@
-★What are some good graduate schools that are doing research in the areas of reinforcement learning and Deep Learning?Hey Guys looking for suggestions on good graduate schools that are doing research in areas of reinforcement learning or Deep Learning
-I can answer for RL. For RL, Univ of Alberta, is well-known and active. Other universities for RL include UMass Amherst, Univ of Texas at Austin (Peter Stone) and Brown University (Prof Littman).    Embed Quote

@@ -1,2 +1,0 @@
-What are Graham's number and Tree(3) used for?
-They're not really used for anything per se. They're results obtained from certain computations. 

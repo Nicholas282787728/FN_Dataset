@@ -1,2 +1,0 @@
-★Which are some of the best web data scraping tools?What are the best tools (free/paid) to scrape large amounts of data from webpages and store it in required formats?  The tool preferably should be automated to look for new data at specific intervals.
-I have been using import.io and it is great. Really interesting start up too. Automation Anywhere (7.0) is also very, very good for extracting data from tables with multiple tabs. This is something which is a bit trickier with import.io.    Embed Quote

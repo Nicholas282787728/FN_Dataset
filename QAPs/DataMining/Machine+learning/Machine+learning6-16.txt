@@ -1,2 +1,0 @@
-★What are the best graduate schools for studying machine learning?
-For US grad schools ( although individual specializations vary ) : Top Schools CMU, Stanford, UC Berkeley Next Best U Washington, U Mich Ann-Arbor, UT Austin Some places with specialized ML research include NYU (Deep Learning), MIT (Cognitive Learning). Good places outside US include Univ of Toronto (Deep Learning), Univ of Alberta ( Reinforcement Learning )    Embed Quote

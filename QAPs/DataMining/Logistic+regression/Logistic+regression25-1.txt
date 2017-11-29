@@ -1,2 +1,0 @@
-★What is the "intuitive" logic behind logistic regression?I have a clear visualisation of what is a linear regression, but It's more difficult for me to have the same understanding level of the logistic regression. Can you give me some "logic" explanations please ?
-It's just sigmoid regression, basically.    Embed Quote

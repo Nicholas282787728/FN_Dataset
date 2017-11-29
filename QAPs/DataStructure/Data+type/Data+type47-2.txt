@@ -1,2 +1,0 @@
-What is the difference between short int and long int data types and float & double data type?
-It comes under Primitive data type i.e., they are pre-defined data types. Here is difference, P.S. 1 Byte=8 Bits. Source-Session 2 Lecture Notes for First Course in Java . 1.1k Views

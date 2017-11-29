@@ -1,2 +1,0 @@
-What does e x   mean?
-In all the answer one thing is missed that it is a function whose differentiation give the function itself. Rest all things are mention in other answers. 

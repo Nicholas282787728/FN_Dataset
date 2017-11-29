@@ -1,2 +1,0 @@
-What is the meaning of data types?
-Refers to the type of data to be stored in a memory location. Data can be of types int(integer),float(floating point),char(character. Boolean type (true or false) is also a data type in java . refer Data type - Wikipedia. Data type also gives the amount of memory to be reserved in particular program. 29 Views

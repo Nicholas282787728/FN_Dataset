@@ -1,2 +1,0 @@
-★How can I make a pattern recognition project using C?
-You can only make pattern recognition software for simple arithmetically progressing patterns like 2,5,11,23,..... Any other type is a special case independently and a generic software cannot be used. For example 2,8,3,7,7,8,16.... is a different simple one. But this cannot be solved using any software (as far as I know). PS: Try to solve the above pattern.    Embed Quote

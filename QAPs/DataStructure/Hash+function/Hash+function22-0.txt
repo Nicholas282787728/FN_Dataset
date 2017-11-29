@@ -1,2 +1,0 @@
-Is there a way to find collision for a given hash function?
-If you assume that the function is a good hash function, then no. By definition, a good hash function should map the expected inputs as evenly as possible over its output range (the uniformity property). This implies that you can't guess what is the output for a given input apriori. 

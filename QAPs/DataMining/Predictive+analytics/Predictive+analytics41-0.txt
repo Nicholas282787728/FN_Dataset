@@ -1,2 +1,0 @@
-★What specialized Map Reduce (hadoop) techniques can you use for predictive analytics?
-You can apply machine learning algorithms. But instead of re-inventing the wheel you might want to try out MLlib with Spark/Shark.    Embed Quote

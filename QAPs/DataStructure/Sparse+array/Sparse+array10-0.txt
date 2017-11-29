@@ -1,2 +1,0 @@
-Is there any good package to read sparse matrices in R?
-Back in the days when I wrote R code, I used SparseM for working with sparse matrices: http://cran.r-project.org/web/pa...  You would need to write a bit of code to convert your data into compressed sparse row/column format, but it handles the common linear algebra routines well.  I used it to build some logistic regression models in seconds vs. having R die because it ran out of memory. 

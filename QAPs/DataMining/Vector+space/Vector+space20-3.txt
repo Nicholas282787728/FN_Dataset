@@ -1,2 +1,0 @@
-★Linear Algebra: In any vector space, what is the real difference between its spanning set and the basis? How do these differ? Please give some examples of a vector space where a spanning set can't be said to be the basis.
-A minimal spanning set is called basis.    Embed Quote

@@ -1,1 +1,0 @@
-What is j48?j48 is a open source java implementation of C4.5 desision tree algorithm ( algorithm of supervised learning based on id3 algortihm) in weka weka is a datamining tool 112 Views  View Upvotes

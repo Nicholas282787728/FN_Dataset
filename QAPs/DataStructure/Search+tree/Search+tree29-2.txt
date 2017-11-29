@@ -1,2 +1,0 @@
-How did people come up with self-balancing binary search trees?
-AFAIK the solution could have been developed using divide an conquer. There are certain base rotations and the coloring mechanism that make up the whole data structure. These base cases ensure that it works in the long run. 

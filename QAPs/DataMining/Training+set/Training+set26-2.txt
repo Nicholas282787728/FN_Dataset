@@ -1,2 +1,0 @@
-★How can I optimize parameters of SVM (gamma and cost) for prediction on multiple training sets build from a parent set?
-LIBSVM Tools has two handy scripts easy.py and grid.py. grid.py does feature selection for you You can use it to determine optimal C and Gamma. Also since your dataset is large, you can use subset.py to randomly select equal number of positive and negative instances. This will also eliminate any bias that may creep in while creating the 100 models.    Embed Quote

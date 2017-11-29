@@ -1,2 +1,0 @@
-★What wireless router settings (protocol, band, etc.) are best for penetrating walls/floors?
-Some routers give you the option to raise the signal strength, but none of the channels are any better or worse for penetrating floors. If your having a hard time, make sure the antenna is pointed pretty much right at where your trying to get; its (typically) not directional, but the most powerful part of the signal is at the end of the antenna.    Embed Quote

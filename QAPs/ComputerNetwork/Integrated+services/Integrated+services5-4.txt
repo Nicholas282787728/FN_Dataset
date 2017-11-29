@@ -1,2 +1,0 @@
-★What free hosted continuous integration service is the best for Ruby on Rails 4?
-Have a local Jenkins server hosted on one of your organisation's machines. Configure that to use your GIT repo to checkout the latest source code, run the specs and deploy. Now, this is Free as Beer!!    Embed Quote

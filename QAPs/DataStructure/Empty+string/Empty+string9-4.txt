@@ -1,2 +1,0 @@
-What is difference between EMPTY and NULL string in Java?
-This is my understanding : Case #1 String s; In this case variable "s" is not intialised that is Java hasn't allocated any memory to which  variable "s" can point to. That is why JVM defaults this to the value of "s" to null. Case #2 String s = ""; Where as in this case JVM has actually allocated some memory to which variable "s" can point to. But there is nothing present in that allocated memory. The location where variable "s" points to is empty Constructive criticism is always encouraged. Tear me !!! 

@@ -1,2 +1,0 @@
-★Why does Quora turn a .py file into a hyperlink?When your text contains something like __init__.py, it gets turned into a link. Also if you try to type something like hello.py, the cursor gets automatically moved back.
-How else would you link to the website of the government of Paraguay? presidencia.gov.py    Embed Quote

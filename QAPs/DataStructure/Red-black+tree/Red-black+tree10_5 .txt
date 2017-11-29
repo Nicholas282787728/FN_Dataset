@@ -1,1 +1,0 @@
-Is it possible to have all black nodes in a red-black tree?Yes of course!!! Since it doesn'nt violate any of the rules related to RB-Trees. open link for rules :- Red-Black Tree | Set 1 (Introduction) - GeeksforGeeks And GeeksQuiz also has a question on it. Data Structures | Balanced Binary Search Trees | Question 12 - GeeksQuiz 

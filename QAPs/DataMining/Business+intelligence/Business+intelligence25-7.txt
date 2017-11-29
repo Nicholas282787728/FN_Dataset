@@ -1,2 +1,0 @@
-Which Business Intelligence tool is best in current market?
-Well..I've used a couple of tools and right now Oracle Business Intelligence tool (OBIEE) seems to be the best in the current market.  It comes with a load of other integrated tools such as BI Publisher which make your work all the more easy and presentable to business users..    Embed Quote 

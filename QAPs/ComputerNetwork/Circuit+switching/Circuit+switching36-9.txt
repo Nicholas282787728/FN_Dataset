@@ -1,2 +1,0 @@
-★What are some good resources for learning about distributed computing? Why?This is a follow-up question on How do I become a data scientist?
-To really go back to first principles, there is a recent series of articles in The MagPi that implements a simple system. It uses python and the Raspberry Pi. Processes, sockets, threads, etc. (issues 10, 13, 14 so far)

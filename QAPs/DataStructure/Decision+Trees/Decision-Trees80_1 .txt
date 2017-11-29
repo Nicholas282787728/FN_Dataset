@@ -1,1 +1,0 @@
-Is it possible to convert a script to a decision tree?This can only be done if the script consists of only nested for loops. Decision trees are a very limited form of expression. 243 Views  View Upvotes  Answer requested by Alberto Cereser

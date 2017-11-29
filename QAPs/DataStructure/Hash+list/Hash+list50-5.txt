@@ -1,1 +1,0 @@
-How does Twitter implement hashtags?Looking for details on technology stack, high level database schema, scalability limitations, etc.

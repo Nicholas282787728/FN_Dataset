@@ -1,1 +1,0 @@
-What is an array in Java? And what is an example of its use?Array: Data structure to hold data of similar data types. Integer, Characters, Strings, and so on. In Java you can create array using two different methods i.e. static or dynamic: int[] a = new int[size]; String[] a = new String[size]; OR List<String[]> ls = new ArrayList<String[]>(); 72 Views

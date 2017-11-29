@@ -1,2 +1,0 @@
-How do I learn data analysis for Python?
-I learned a lot by reading and trying the examples of "Python for Data Analysis" of Wes McKinney. The book has a lot of examples and exercises. By trying to do the analysis with numpy and pandas yourself you get a good feeling on how you should use these packages and what all you can do with it. Good look improving your skills.    Embed Quote 

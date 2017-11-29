@@ -1,2 +1,0 @@
-What is the best way to perform a spiral level-order traversal of a binary tree iteratively?
-For a spiral traversal, we can start from the root and iterate till the height of the tree. Each iteration must print one level of the tree and hence the number of iterations would be equal to the height of the tree. We need to be careful to cautiously swap the order of printing/visiting every alternate level. Check this blog (Spiral Traversal - Techie Me) for detailed explanation of the running time. 951 Views

@@ -1,2 +1,0 @@
-How do I implement a C-code to remove duplicate elements from an array and what will be the complexity of such an algorithm?
-You can use binary compare for this issue 1. Take the array's first element and keep it as a root. 2. Compare it with the array's rest of the elements(with the binary compare for memory). And if you find equal, you can erase that found one. 3. When you come to the 2. element of your new array, you don't have to compare it with the elements which came before it. 

@@ -1,2 +1,0 @@
-What is an edge-weighted complete graph with 6 or less vertices but exactly 7 minimum spanning trees?
-Question Edited - earlier the condition 6 or less vertices was not there. So Arun Iyer's answer shows how it can be constructed for vertices 7 or more. The minimum number of edges required for having 7 min spanning trees in a graph with n will be n−1+6=n+5  . Not possible for when vertices are 1, 2, 3 as the number of edges in the complete graph is less than the min number require. For complete graph with 4, 5 and 6 the argument given by Gaurav Sen will hold. 

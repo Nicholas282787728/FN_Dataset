@@ -1,2 +1,0 @@
-Is it possible to run multiple if conditions using a for loop?
-Theoretically, yes. But there are much easier ways to code. You could write something like the following pseudocode. for a = 1 to 3   if a = 1      do (thing1)   if a = 2      do (thing 2)   if a = 3      do (thing 3)next a But that's terribly inefficient. The _only_ reason I can see for doing something like that is if you had to take three sequential actions that must be in a specific order, in which case, it would seem to be more efficient to write the following code. do (thing1)do (thing2)do (thing3) 

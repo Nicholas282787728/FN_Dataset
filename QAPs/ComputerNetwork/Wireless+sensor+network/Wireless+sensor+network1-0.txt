@@ -1,2 +1,0 @@
-★How do I simulate a wireless sensor network in MATLAB?
-There's a matlab based cosimulation tool called PICCSIM. It's main aim is for wireless control network application. The key advantage is you can use all matlab control models and have network simulation done in ns2, hence have full power of specifying network simulation and control algorithms more holistically. Here's the link to picsim page: http://wsn.aalto.fi/en/tools/pic...    Embed Quote

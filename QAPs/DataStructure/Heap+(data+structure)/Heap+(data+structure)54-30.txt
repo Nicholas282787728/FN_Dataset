@@ -1,2 +1,0 @@
-What algorithms and data structures should any software engineer know?
-Most-known algorithms and data structures? Hmmm. Stack Queue/Dequeue Prioritized queue Linked list Ping-Pong buffer Ring buffer Binary Tree... (more)

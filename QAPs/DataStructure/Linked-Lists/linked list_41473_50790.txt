@@ -1,1 +1,0 @@
-a median of a avl . how to take advantage of the avl ? avl be binary search tree with some special property : it be self-balancing tree . it s height be always logarithmic . ordinary binary tree in some worst scenario can be link list -lrb- if you add sort datum -rrb- so it s height be n. avl tree in worst scenario be fibonacci tree . 

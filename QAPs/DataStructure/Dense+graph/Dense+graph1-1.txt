@@ -1,2 +1,0 @@
-What are some practical examples of sparse and dense graphs?
-The adjacency matrix of a social network is very sparse.This holds for any social network as each node could be connected to millions (billions) of nodes but is only connected to a few. Assuming the graph is connected the shortest path matrix would be dense. 

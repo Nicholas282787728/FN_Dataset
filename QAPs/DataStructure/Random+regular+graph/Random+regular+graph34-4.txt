@@ -1,2 +1,0 @@
-If reality is chaotic (e.g waves crashing on a rock forming a truly random pattern each time) then why, if I flip a coin 100 times, do the results trend to 50/50 heads/tails?
-Because 50/50 is a statistic not a pattern and randomness has statistical properties. 

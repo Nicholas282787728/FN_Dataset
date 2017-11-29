@@ -1,4 +1,0 @@
-What are binomial heaps?
-A binomial heap is implemented as a collection of binomial trees (compare with a binary heap, which has a shape of a single binary tree), which are defined recursively as follows:
-A binomial tree of order 0 is a single node
-A binomial tree of order k has a root node whose children are roots of binomial trees of orders k?1, k?2, ..., 2, 1, 0 (in this order).

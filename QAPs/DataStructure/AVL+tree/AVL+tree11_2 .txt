@@ -1,1 +1,0 @@
-Given a post-order print, is there a unique AVL tree matching this sequence?No,you cant get a unique avl tree. Reason is same as for a binary tree. Thanks John Kurlak 

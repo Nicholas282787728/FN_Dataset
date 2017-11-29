@@ -1,2 +1,0 @@
-What is the slope of the line graphed below?
-Slope is literally rise over run. Since y increases as x increases, your slope is positive. (y2-y1)/(x2-x1) is the formula. If y2=4 and y1=1, you have (4–1)/(x2-x1). Looking at your graph, x2=1 and x1=0. Therefore, your equation is (4–1)/(1–0), or, 3/1. The slope of the line shown in your graph is answer a, or +3. 5 Views

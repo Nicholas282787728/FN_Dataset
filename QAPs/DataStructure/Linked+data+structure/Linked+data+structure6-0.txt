@@ -1,2 +1,0 @@
-What are the languages that has linked list data structure?
-I think you are asking about inbuilt list function. Actually  we have list (Collection of Same data's that need not to be stored in continuous manner) in many languages but not Linked List. Like in C++ we have list<_Data-Type_> _. to use this we have to include #include <list> header file. In Java we have ArrayList . 

@@ -1,2 +1,0 @@
-How do we know that the definite integral is the "area under/upper the graph" since the indefinite integrals are just an antiderivative? Where is the connection between the antiderivative and the area?
-It is not a definition/axiom that the definite integral is the difference between the indefinite ones, but that is (the second part of) the fundamental theorem of calculus. 

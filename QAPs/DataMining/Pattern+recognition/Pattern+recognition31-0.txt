@@ -1,2 +1,0 @@
-★What are the most learner-friendly resources for learning about pattern recognition?I used to learn ml with andrew ng. and he is good lecturer, recently I'm facing with a new problem and must to understand pattern recognition as well as machine learning, so glad to meet a good answer that bring me out of this problem. thanks in advanced
-Pedro Domingos course at Coursera is an amazing resource to understand the concepts of Machine learning well. UCI Professor Alexander Ihler has a youtube channel with ML videos which are also well explained.    Embed Quote

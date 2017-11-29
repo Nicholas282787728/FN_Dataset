@@ -1,1 +1,0 @@
-Which data type should I use for storing n=10^14 in C?char ch; int digits[14]; int i = 0; do { ch = fgetc(stdin); if ( isdigit(ch) ) { digits[i++] = ch - 48; // convert ASCII to int } } while (isdigit(ch) && i < sizeof(digits)/sizeof(digits[0])); 33 Views  Answer requested by Prerana Babbar and Rajat Jain

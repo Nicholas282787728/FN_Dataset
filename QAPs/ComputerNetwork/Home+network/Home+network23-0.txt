@@ -1,2 +1,0 @@
-★How do you track home network traffic to hardware?I am asking because sometimes I feel like my room mate is using torrents and eating up all my bandwidth.
-Type 192.168.1.1 on address bar of browser Then enter username password as admin Now that you are in your router settings, you can allow/block access to particular sites. I don't know if you can place a cap to his/her bandwidth consumption

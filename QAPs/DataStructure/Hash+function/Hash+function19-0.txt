@@ -1,2 +1,0 @@
-What is the hash function in Java?
-An object’s hash code allows algorithms and data structures to put objects into a box, just like letter types in a printer’s type case. The printer puts all “X” types into the box for “X”, and he looks for an “X” only in this one box. This makes searching faster. What is a hash function in java? 

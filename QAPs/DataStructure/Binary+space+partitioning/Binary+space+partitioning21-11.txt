@@ -1,2 +1,0 @@
-Is it true that writing operating system code and kernel code is extremely difficult? If so, how much do those types of programmers make?
-One of the problems with being a low-level coder is that it's hard to get much work done.  You might work for 6 months making something very small work 1/10th of a second faster, meanwhile the guy working in visual basic pumped out 5 different applications for business clients.   In the end, the visual basic programmer will make more money because he's working in a faster productivity environment. 

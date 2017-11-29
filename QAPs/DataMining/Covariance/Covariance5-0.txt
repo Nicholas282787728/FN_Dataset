@@ -1,2 +1,0 @@
-What is the geometrical interpretation of covariance?
-If you're familiar with trig, covariance is basically the dot product between two series (in a space who's dimension is the size of the data). The dot product, you may recall, determines how much overlap there is between two vectors. To be more specific, covariance is the generalized dot product around their central moments. Since covariance captures how much one variable changes with another, things like means play no role in this characterization.    Embed Quote 

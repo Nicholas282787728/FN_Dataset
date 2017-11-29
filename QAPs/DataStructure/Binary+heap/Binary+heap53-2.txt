@@ -1,2 +1,0 @@
-I have experience in programming. Currently I'm planning to study either algorithms or data structures. Which one should I get started with?
-Studying one without the other is like having a car with either wheels or an engine but not both.  That said, probably algorithms since you have some experience programming.  It's the harder topic on a pure theoretical basis. Updated 25 Apr • View Upvotes

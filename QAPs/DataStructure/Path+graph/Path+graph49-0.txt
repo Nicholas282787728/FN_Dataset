@@ -1,2 +1,0 @@
-How do I find the shortest path between two nodes in a graph by visiting all the nodes?
-Follow Dijkstra's algorithm for that. But if the graph contains negative costs then follow Bellman-Ford algorithm instead. Your graph should not contain any negative cycles because the Bellman-Ford algorithm will fail in that case. 

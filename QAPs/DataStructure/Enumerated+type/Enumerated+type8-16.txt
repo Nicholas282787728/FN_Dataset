@@ -1,2 +1,0 @@
-Software Engineering: What are good ways to avoid bugs while programming?
-Additionally, you could consider: Use assertion when ever possible. We all make assumptions on the goodness or badness of code input. Let us enshrine those assumptions in assertions. Try to catch all exceptions and handle them. Don't just throw them to the corner and suppress them. Use a logger whenever possible. Some of the most common bugs I have encountered in my career is when a developer yanks out a set of debugging printf()s and accidentally takes other code with it. Use logging modes! 

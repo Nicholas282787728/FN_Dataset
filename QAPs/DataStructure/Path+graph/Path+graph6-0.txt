@@ -1,2 +1,0 @@
-What is the graph path for groups in facebook graph API?
-The path to access groups is `me/groups`. To post to a group it will be an HTTP POST to /GROUP_ID/feed. You will also need user_groups permission * User * Group 

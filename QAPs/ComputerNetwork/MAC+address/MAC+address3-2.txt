@@ -1,2 +1,0 @@
-★Is a MAC address conflict possible?If so, what are the possible problems it brings and the solution?
-Yes it has happened my Cisco lecturer told us of a case where some one had brought a batch of very cheap NIC's which all had duplicate MAC's. I also remember in BT in a building I used to work in they had one card that was a duplicate took the support guys a while to track that one down    Embed Quote

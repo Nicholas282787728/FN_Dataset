@@ -1,2 +1,0 @@
-★Why isn't DNS centralized?
-Robustness.

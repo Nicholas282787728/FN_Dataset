@@ -1,2 +1,0 @@
-★What is this cable used for?
-It's not a USB data cable, because it's got something that looks exactly like a two pole coaxial DC plug on the other end. So I agree with Bob Hannent, it's a power cable intended to draw 5V from a USB socket.

@@ -1,1 +1,0 @@
-Can you prove O(log(n!))=O(nlogn)  O(log⁡(n!))=O(nlog⁡n) ?n!=123.....n n!=123.....n n!=123.....n<nn n!=123.....n<nn log(n!)<log(nn) log(n!)<log(nn) since log(nn)=nlog(n) log(nn)=nlog(n) log(n!)<nlog(n) log(n!)<nlog(n) O(log(nn))=O(nlog(n)) O(log(nn))=O(nlog(n)) 664 Views  View Upvotes

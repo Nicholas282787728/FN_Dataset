@@ -1,2 +1,0 @@
-How world map data is stored in 3D Games?
-You could use XML documents, which would contain a list of objects and their position, rotation etc. For ground you could use a heightmap. In your game you would then run through all pixels getting the color and multiplying it by a constant, and using that as the height at that position in the world. 

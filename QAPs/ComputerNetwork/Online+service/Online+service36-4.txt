@@ -1,2 +1,0 @@
-★Are there any free online services that allow the hosting of PHP scripts and MySQL creation?I need to test my app and cannot get any other server running. I seen this but not sure if it is legit: http://www.serversfree.com/
-I don't think so, but why not add a local server to your computer? Look up XXamp for windows or Lamp for Linux. They are free and quite easy to install.    Embed Quote

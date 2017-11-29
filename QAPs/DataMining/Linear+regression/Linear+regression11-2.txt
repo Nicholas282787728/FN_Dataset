@@ -1,2 +1,0 @@
-★What is the difference between linear regression and least squares?My understanding is that they both try to fit a straight line through the data.
-To be succinct, least squares is a type of optimization problem. The goal is to minimize, according to some constraints, a function that is a sum of squared terms, i.e. . This need not have anything to do with fitting a line to data. However, least squares is arguably the default criterion used for fitting a line, and that is why it may sometimes be conflated with linear regression.    Embed Quote

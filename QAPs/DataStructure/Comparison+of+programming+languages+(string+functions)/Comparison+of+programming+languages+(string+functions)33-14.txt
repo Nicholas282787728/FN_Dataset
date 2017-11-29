@@ -1,2 +1,0 @@
-What are the top ten things a beginner must know about JavaScript?
-There is one interesting blog i read recently about JavaScript. It gives you some tips for beginners...check it out: Beginner JavaScript Tips – Blogs | Solaborate 

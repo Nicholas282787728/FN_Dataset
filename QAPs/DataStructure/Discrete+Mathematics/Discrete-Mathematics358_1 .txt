@@ -1,1 +1,0 @@
-Are vectors only discrete points, can they be continious?Are you asking if a vector field can be continuous? (Yes) Or can a single vector be continuous? (Not sure what that would mean.) Or perhaps you're asking if there is a function that's continuous on a vector space. (A norm would be an example of a continuous function on a vector space.) 38 Views  View Upvotes

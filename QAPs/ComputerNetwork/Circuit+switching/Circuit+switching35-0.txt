@@ -1,2 +1,0 @@
-★Integrated Circuit Design: How to calibrate a switching regulator to power a ham radio
-My guess is that the VX-3R needs more than 3.7 VDC, no matter what the specs say. Try running at a higher voltage and see how that goes.

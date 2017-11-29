@@ -1,2 +1,0 @@
-What is the best way to scrape data from a website?
-Jesse Sherlock has given best ways. javascript is a good weapon. To get Data: xpath, regex search by tag, search by name also needed. I do agree that applying regex always is not a good way. As the website- we monitoring- changes, our js becomes void. You need to think 100 ways to handle the uncertainty.    Embed Quote 

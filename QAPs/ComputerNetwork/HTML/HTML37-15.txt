@@ -1,2 +1,0 @@
-★What is the difference between HTML and JavaScript?
-Html is basic building block of any website it is used to create a basic web page and JavaScript is a scripting language used to introduce dynamic content to your website like custom popup windows

@@ -1,2 +1,0 @@
-How can one build a segment tree iteratively in linear time?
-Traverse the tree from the leaves up and calculate each node using its children. I assume that you're using the [math]2i[/math] and [math]2i+1[/math] trick, described in this answer: Johnny Ho's answer to What should be the maximum size of segment tree built on an array on 100,000 elements? 

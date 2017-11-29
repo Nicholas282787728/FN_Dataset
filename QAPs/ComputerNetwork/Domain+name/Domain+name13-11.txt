@@ -1,2 +1,0 @@
-★Why do so many Chinese websites use numbers in their domain names?For example Chinese mail services 163.com and 126.com.
-apart from the number's pronunciation,i think there is another reason . at the beginning,internet was know as a business tool. if your company has a website, foreigners can find your company in the internet. but if your company's website domain like this "www.wangyi.com",using chinese pinyin, foreigners can not remember it easily. if using www.netease.com , it's easier to remember but too long.  so, compromise solution is www.163.com

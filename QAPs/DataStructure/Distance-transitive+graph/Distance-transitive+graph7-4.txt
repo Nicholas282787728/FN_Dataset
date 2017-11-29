@@ -1,2 +1,0 @@
-Can PCA be used for graph clustering or community mining?
-I don't see any obvious way how to use PCA for graph clustering. Maybe if you elaborate on which features (factors, signals) you have, then we can help you more. 

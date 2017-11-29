@@ -1,2 +1,0 @@
-Why is the real part always first in complex numbers?
-Since it is defined as an "ordered pair" of real and imaginary numbers. 

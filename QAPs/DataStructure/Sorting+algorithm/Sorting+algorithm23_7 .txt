@@ -1,1 +1,0 @@
-Which sorting algorithm has a time complexity of O(n)?1.Bucket sort 2.counting sort 3.radix sort But each have some restriction on input 

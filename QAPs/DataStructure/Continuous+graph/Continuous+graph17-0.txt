@@ -1,2 +1,0 @@
-What would a graph of a function that is continuous and differentiable at all points except x=1  and x=3  look like?
-There are many functions that satisfy this. An example would be something like a piecewise constant function likef(x)=⎧ ⎩ ⎨ 012 if x<1if 1≤x<3if x≥3.   Not very interesting, but it fits the definition. 

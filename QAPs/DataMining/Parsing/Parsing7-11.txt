@@ -1,2 +1,0 @@
-★Could there be an open source equivalent to Parse (the cloud backend)?
-You can take a look at OpenMobster. It is an open source Enterprise backend for Mobile Apps. It is written in Java and provides secure bi-directional Syncing of data, Push Notifications, RPC, etc. You can find out more about it on the company site at http://www.openmobster.com or project site at http://openmobster.googlecode.com Full Disclosure: I am the Chief Engineer of the project    Embed Quote

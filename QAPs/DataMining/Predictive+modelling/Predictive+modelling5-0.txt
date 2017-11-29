@@ -1,2 +1,0 @@
-★What are the best books on predictive modeling?
-For theoretical background: Pattern Recognition and Machine Learning by C. Bishop The Elements of Statistical Learning by T. Hastie (free download from author's webpage: Page on Stanford) For tools: Introduction to R (An Introduction to R) Python Pandas (Python Data Analysis Library) Python Scikit-Learn (scikit-learn: machine learning in Python) For practice - predictive modeling competition: Kaggle (Go from Big Data to Big Analytics)    Embed Quote

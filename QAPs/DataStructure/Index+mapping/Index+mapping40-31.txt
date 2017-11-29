@@ -1,2 +1,0 @@
-What are some must-have software for programmers using Linux?
-screencloud / shutter  to capture and share parts of your screen. dropbox /owncloud to share files between devices. 

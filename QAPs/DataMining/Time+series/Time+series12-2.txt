@@ -1,2 +1,0 @@
-★Is regression analysis legitimate for time series data?
-If you can make the case for no, or low autocorrelation, you might be able to make a case for doing it (Durbin-Watson test). Or you might be able to find a hidden variable which explains the autocorrelation.  Try using transformed variables, like differencing of the series, or dummy seasonal variables.  The goal is to account for as many of the trend or cyclical components in the regression model.  If you tweak it for a while, it could be usable.    Embed Quote

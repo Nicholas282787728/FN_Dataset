@@ -1,2 +1,0 @@
-★Is there any sort of proxy server service that gives you a USA IP address?iPredator.se always assigns its clients a swedish IP Address which will break sites like Hulu.com. Is there a similar service that gives you a US IP Address?
-I use WiTopia's VPN service -- they have many US endpoints (and ones in other countries) that seem to work pretty well from within the US. (I primarily use the service to stream content from the BBC and the bandwidth is fine for that.) http://www.witopia.net/    Embed Quote

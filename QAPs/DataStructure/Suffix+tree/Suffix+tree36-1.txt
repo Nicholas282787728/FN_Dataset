@@ -1,2 +1,0 @@
-As we start planning the next edition of Introduction to Algorithms (CLRS), what should we add and what should we remove?
-I wanted to echo a lot of the sentiments expressed in the answers (especially Justin Rising), and suggest adding more algorithms that involve probability. Generally, I would love to see Probabilistic data structures (bloom filters, etc.) Monte Carlo / Las Vegas algorithms Approximation algorithms Streaming algorithms. Updated 62w ago • View Upvotes • Asked to answer by Marc Bodnick

@@ -1,2 +1,0 @@
-What are some of the good sources to understand suffix tree, suffix array and their implementation?
-Trie This is a good starting point to understand the concepts of Tries and implement them. 

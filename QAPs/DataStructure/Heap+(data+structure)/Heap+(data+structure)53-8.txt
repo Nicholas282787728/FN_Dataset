@@ -1,2 +1,0 @@
-What are some tips for self-studying Data Structures and Algorithms?
-CLRS is the best book for both algorithms and data Structures. For some of the advanced data structures I would recommend Sartaj Sahni’s books. After these you can practice both basic and advanced concepts on competitive programming websites like Codechef and HackerRank. You can also read problems from past contests and go through their solutions, it will give you some ideas about how to apply the knowledge you have to actual programming problems. 404 Views · 1 Upvote

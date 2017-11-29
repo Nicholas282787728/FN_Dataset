@@ -1,2 +1,0 @@
-★What purpose does the small cylindrical module near the end of my laptop charger cable serve?
-its a ferrite device. It adds inductance to the line and helps filter out and keep RF interference from travelling in the cable from the computer to the charger and out into the power line. It's called a conducted EMI filter.    Embed Quote

@@ -1,2 +1,0 @@
-What are some good resources to learn data mining and data scraping from websites using Python?
-I would take a look at: mechanize requests beautifulsoup4 Unix utilities work really well, too: cURL Wget    Embed Quote 

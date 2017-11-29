@@ -1,2 +1,0 @@
-★How can you avoid if statements in linear programing?
-Ask yourself whether the conditional statement results in a nonconvex feasible region. If the answer is yes, you will need to introduce binary or semicontinuous variables (turning the linear program into an integer linear program).    Embed Quote

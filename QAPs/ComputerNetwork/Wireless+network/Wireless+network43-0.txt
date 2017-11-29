@@ -1,2 +1,0 @@
-★Is it possible to make a private wireless network that has its own "internet"?A small scale internet service that I can send and receive data with to hardware devices I set up in my home without being connected to the actual internet.
-That's what's known as a "Local Area Network", or a LAN. Either statically assign addresses to all of the devices or set up a DHCP server somewhere on the network. Just like setting it up if you had internet access, minus the internet access part.    Embed Quote

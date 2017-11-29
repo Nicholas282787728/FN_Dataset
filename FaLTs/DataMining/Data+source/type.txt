@@ -1,6 +1,0 @@
-A data source is any of the following types of sources for (mostly) digitized data:
-
-a database
-in the Java software platform, datasource is a special name for the connection set up to a database from a server
-a computer file
-a data stream

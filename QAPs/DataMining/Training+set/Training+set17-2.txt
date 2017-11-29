@@ -1,2 +1,0 @@
-★Does training set need to have the same distribution as the target population in classification?
-You are introducing a positive bias in your scheme by way of your sampling technique. This might be OK if your cost of false negatives is low and cost of false positives is very high. You still want a 50% - 50% split.  95% and 5% is really skewed.    Embed Quote

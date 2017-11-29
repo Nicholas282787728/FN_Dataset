@@ -1,1 +1,0 @@
-How are arrays echoed in PHP?The best way to view the contents and structure of an array (or any other complex type or object instance, for that matter), is to use the functions print_r or var_dump. Try it out. 238 Views  View Upvotes

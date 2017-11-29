@@ -1,1 +1,0 @@
-How is priority queue implemented in C++?Detailed explanation with examples and code snippets will be helpful. How is it done using STL?

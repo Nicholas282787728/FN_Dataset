@@ -1,2 +1,0 @@
-How do I learn data analysis with Python via projects?
-Vincent Granville's Data Science Cheat Sheet is a great place to start. Not only are there extremely thorough Python training resources linked, check out section 9, which has ten example projects, or section 10, which has a number of interesting data sets. You could literally spend a year learning from that page and its linked pages.    Embed Quote 

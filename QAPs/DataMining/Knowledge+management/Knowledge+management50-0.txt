@@ -1,2 +1,0 @@
-★What apps/platforms do startups use for Knowledge Sharing and Knowledge Management?How do they keep the users to be compelled to share knowledge?How do they gamify their apps? What additional features would you want in your respective platforms to improve efficiency of the process?
-I can only speak for Fogbeam Labs, but we use a combination of MediaWiki, Google Docs, SugarCRM, our own products (Neddick & Quoddy, specifically) plus custom built in-house tools.    Embed Quote

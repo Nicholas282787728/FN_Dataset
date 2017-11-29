@@ -1,2 +1,0 @@
-★Difference Between HTML and CSS?
-HTML is a markup language and is used to create websites. CSS or Cascading Style sheets, is used to style the website to make it look better. Without CSS you'll get a bland website which is very unappealing to the potential user.

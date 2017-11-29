@@ -1,2 +1,0 @@
-★What are the advantages of logistic regression over decision trees?Are there any cases where it's better to use logistic regression instead of decision trees?
-Kinda depends on the data set size. I found some unpredictable results and values for trees at smaller volumes of data over logistic regression. Also for larger amounts of data - performance time and compute will start to matter, trees take a looong time to complete.    Embed Quote

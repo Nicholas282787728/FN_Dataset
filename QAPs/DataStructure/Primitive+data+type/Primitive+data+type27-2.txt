@@ -1,2 +1,0 @@
-What is the difference between primitive type and reference type in Java?
-Primitive Type are the data types in java which is fundamental data type not composed of any other data type .They are used to store the data either the integer ,floating ,boolean ,etc. Reference Type are the data types in java which are object types. They are used to store the reference of data such as arrays ,objects ,etc. 

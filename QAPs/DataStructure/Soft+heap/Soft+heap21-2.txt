@@ -1,2 +1,0 @@
-How do I apply various checks on my code for time-limit, memory-limit, etc irrespective of my programming language?
-There are certain varibales that you can set in the Apache Server configuration file itself. E.g MaxHeapSize etc. Look for more such variables. I am not sure about Time limit though. 

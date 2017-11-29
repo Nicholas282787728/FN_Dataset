@@ -1,2 +1,0 @@
-★What are the most interesting open-source projects in artificial intelligence and machine learning?What projects should people be paying attention to and studying?
-Scikit-Learn is a Scipy Toolbox that has gained some popularity: http://scikit-learn.org/stable/ Orange: http://orange.biolab.si/ Natural Language Toolkit for Python (NLTK): http://nltk.org/    Embed Quote

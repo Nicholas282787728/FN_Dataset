@@ -1,2 +1,0 @@
-What are some of the reasons to take a graphics computer science course if I have no plan to work in the game industry?
-Graphics is a great way of 'playing' with code. Adding visualization to structures and algorithms can give you a feeling for how it works thats hard to get without seeing. And with graphics some bugs have a plus side of looking beautiful :) 

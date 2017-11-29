@@ -1,2 +1,0 @@
-Is 'void' a data type?
-To quote directly from the C++ standard: The void type has an empty set of values. The void type is an incomplete type that cannot be completed. It is used as the return type for functions that do not return a value. So, if you read "type" in the standard as synonymous with what you're calling a "data type", yes. On the other hand, it's a type that has no values--which basically means it's a type that's associated with a complete lack of data, which would lead to an answer of "no". 5k Views · 43 Upvotes

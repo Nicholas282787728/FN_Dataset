@@ -1,2 +1,0 @@
-★What are some creative uses for DNS TXT records?
-I believe the University of Edinburgh (may have been a different British Uni) used to have Lat and Long for each server, which one wag referred to as "missile coordinates". These days of racks of computers (at the physical level, anyway) I suppose you could put a unique location identifier in there.

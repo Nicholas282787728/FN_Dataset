@@ -1,1 +1,0 @@
-How can you enter into a circular linked list if you don't know the head?All you need is a reference to any node within that list. Since the list is circular, you are guaranteed to be able to access every other node via the usual list traversal methods. If you don't even have that reference, the technical term for your list is a memory leak. 562 Views  View Upvotes

@@ -1,3 +1,0 @@
-What is the difference between computer networks and network communications?Computer networks detail how nodes are connected to each other. Network communications would get into the nitty-gritty of protocols and how the the nodes talk to each other.
-
-As an analogy, if we have a room of people, we can draw networks around people who are grouped together. These networked groups can be communicating with each other via english, french, sign language, or a series of grunts.

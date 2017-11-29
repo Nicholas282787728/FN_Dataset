@@ -1,2 +1,0 @@
-What are some examples of domain specific languages?Such as CSound for example.
-I don't know if it qualifies as a "good" example, but my IRC bot's plugin system is essentially a DSL. It's written in Clojure. http://github.com/Raynes/sexpbot... is the macro that powers the DSL. http://github.com/Raynes/sexpbot... And this is an example of it's usage. 

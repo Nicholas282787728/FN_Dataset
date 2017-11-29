@@ -1,3 +1,0 @@
-There are certain operations that are common to applications that allow data drilling. Among them are:
-Query operations:
-tabular query pivot query

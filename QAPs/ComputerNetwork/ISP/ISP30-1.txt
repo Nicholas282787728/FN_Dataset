@@ -1,2 +1,0 @@
-★Which ISP offers the highest bandwidth and lowest latency in Palo Alto?Are there any options besides Comcast and ATT?
-According to Ookla's Net Index, Sonic.net ranks the fastest in Palo Alto, with Comcast a close 2nd. A mild caution however, that the testing methodology is somewhat questionable. Source: Net Index For historical reasons I use Comcast and am a generally a happy camper, however they do throttle the connection. You can determine this by using ShaperProbe a tool that is part of the Measurement Lab.    Embed Quote

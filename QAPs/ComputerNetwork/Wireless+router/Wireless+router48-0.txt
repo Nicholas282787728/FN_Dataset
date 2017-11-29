@@ -1,2 +1,0 @@
-★Where does my wireless router and wireless network belong in the electromagnetic spectrum?
-Most WiFi is 2.4GHz Increasingly it might be 5.xGHz for .11n or .11ac That is more than FM radio (90-100MHz), more than TV (400-800MHz), more / similar to cellular (900MHz to 2.6GHz in various chunks) (the exact allocation can vary with country) It is a lot less than infra-red (300 GHz to 400 THz) or visible light (400 THz to 800 THz)    Embed Quote

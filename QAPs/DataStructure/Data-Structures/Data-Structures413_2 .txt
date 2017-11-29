@@ -1,1 +1,0 @@
-Does adding n elements to an ArrayList take O(n) time or O(n^2) time?That depends on how you add them. If you add them one at a time then it's O(n) but you have a list of items that you want to add to another list of items then that is O(1) since you can just have the end pointers of one list be reassigned to point to the start of the other list. 98 Views  View Upvotes

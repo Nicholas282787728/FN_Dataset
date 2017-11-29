@@ -1,2 +1,0 @@
-★Will LTE handsets require additional 2G/3G chipsets in order to roam on 2G/3G networks?3GPP suggests that LTE should inter-work with GSM and UMTS/HSPA/HSPA+. However, it isn't clear if this support applies to the equipment technology or if LTE chipsets will also inherently support GSM/HSPA.
-Ultimately, the industry is already moving towards a single chipset that supports GSM/UMTS/LTE like Qualcomm's MDM8200. However, band support for each chipset varies and this will affect the roaming capabilites.

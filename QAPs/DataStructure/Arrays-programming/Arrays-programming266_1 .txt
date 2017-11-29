@@ -1,1 +1,0 @@
-What is the maximum size of an array that I can take on an online judge like CodeChef and Codeforces?Well, I asked this question. Now, when I have found the answer, I think I should post it here so that it helps other people as well. it is 106 106 to 107 107 . maximum size of an array 473 Views  View Upvotes

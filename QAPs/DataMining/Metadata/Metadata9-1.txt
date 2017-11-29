@@ -1,2 +1,0 @@
-★What metadata fields in a PDF does Google index?I know it indexes the title, but what about other fields?
-I agree with Joel's link and the information there. Here's another article on optimizing content on pdfs for search engines from Search Engine Land, which should also help. Points 2 and 8 more specifically answer your question. http://searchengineland.com/elev...    Embed Quote

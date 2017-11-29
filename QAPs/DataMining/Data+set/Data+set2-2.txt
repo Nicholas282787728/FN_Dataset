@@ -1,2 +1,0 @@
-★What papers have shown that for machine learning, data set size is more important than the model being trained?
-This is somewhat relevant: http://acl.ldc.upenn.edu/P/P01/P... The paper basically says that it can be worthwhile to look for more data instead of searching for a better classifier. And it's from MS Research, so there's a good chance it's what you were looking for in the first place.    Embed Quote 

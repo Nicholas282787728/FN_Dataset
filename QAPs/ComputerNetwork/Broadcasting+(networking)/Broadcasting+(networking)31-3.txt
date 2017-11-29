@@ -1,2 +1,0 @@
-★How often should I send a network broadcast packet?Writing a network chat program. How often should I send network broadcast packets (Short UDP string) to check if other users are on the network? I'm thinking every 30 seconds but need advice.
-use websockets..it has events to check wether a connection is closed or not and has broadcasting capabilities.....used by facebook..and dont get me wrong it wont ask you to change the entire code...you just have to write few more lines...and run a parallel server with websocket capabilities

@@ -1,2 +1,0 @@
-★What kind of communication protocol did ARPANET use?
-The original ARPANET used Network Control Program (NCP) as the primary transport mechanism and BBN Report 1822 for the primary link layer interface.  That evolved to an X.25 based host interface.  NCP was then replaced by TCP/IP as you know it today.

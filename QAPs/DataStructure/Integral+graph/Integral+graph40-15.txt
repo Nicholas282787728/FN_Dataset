@@ -1,2 +1,0 @@
-What are some promising Big Data startups?Including both funded and non-funded ones. And maybe some OSS apps or stacks as well. (A startup doesn't always have to be a company, does it?)
-CoolaData provides a platform solution for Big Data. Especially in the sectors of eCommerce and Gaming.  Their predictive analytics helps reduce churn and increase revenues for many companies. Also, I find their blog particularly beneficial.  Here is an article regarding Big Data and the customer experience that I find helpful: Big Data for Smarter Customer Experiences - CoolaData 

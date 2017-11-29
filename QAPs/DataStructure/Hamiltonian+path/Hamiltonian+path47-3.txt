@@ -1,2 +1,0 @@
-What are some interesting algorithms that have no known implementation to date?
-Maybe you find some answers in Powerful Algorithms too complex to implement theory - Powerful Algorithms too complex to implement - Stack Overflow 

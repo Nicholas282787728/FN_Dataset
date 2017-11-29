@@ -1,3 +1,0 @@
-Cryptographic algorithms defined for use with IPsec include:
-HMAC-SHA1 for integrity protection and authenticity. TripleDES-CBC for confidentiality AES-CBC for confidentiality.
-Refer to RFC 4835 for details.

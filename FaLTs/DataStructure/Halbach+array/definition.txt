@@ -1,1 +1,0 @@
-A Halbach array is a special arrangement of permanent magnets that augments the magnetic field on one side of the array while cancelling the field to near zero on the other side.[1] [2]This is achieved by having a spatially rotating pattern of magnetisation.

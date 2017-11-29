@@ -1,2 +1,0 @@
-★What is the benefit of IPv6?It seems like NAT is good enough.
-6 Benifits of IPv6 -     More Efficient Routing     More Efficient Packet Processing    Directed Data Flows     Simplified Network Configuration     Support For New Services      Security    Embed Quote

@@ -1,2 +1,0 @@
-Can we use Double-Slit Experiment to concentrate Wireless signal to certain point?
-Yes Using inference patterns to deliberately concentrate signals is the basis beam steering and phased array antenna Different implementation but the same basic physics of interference patterns 

@@ -1,2 +1,0 @@
-★What is the main difference between artificial immune system and genetic algorithms?I'm reading about AIS and it looks like modification of genetic algorithms.
-a2a. Genetic algorithms use a combination of ('natural') selection, recombination and mutation of encoded ('genetic') data to evolve a solution to a problem. AIS uses genetic models and includes an implementation of a genetic algorithm(s).    Embed Quote

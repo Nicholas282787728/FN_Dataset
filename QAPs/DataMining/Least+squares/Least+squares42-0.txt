@@ -1,2 +1,0 @@
-★What is the partial least squares regression method in simple terms (not in complex mathematical terms)?
-The essential idea of partial least squares is similar to that for principal component analysis, but including the dependent variable. That is, given a dependent variable and a (usually large) set of independent variables, how can we come up with a much smaller set of variables while losing as little information as possible.    Embed Quote

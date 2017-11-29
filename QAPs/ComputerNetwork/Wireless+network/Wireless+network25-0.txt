@@ -1,2 +1,0 @@
-★How do I set up a wireless network for conference on a budget?
-At a minimum figure 25-50 users per AP depending on the model.  Airports, for example claim they can handle 50 users.  The two most important things, obviously, are 1.  Having enough APs to cover the physical spaces as well as the number of users. 2  Having enough bandwidth to comfortably accommodate the number of users. If you do not have enough bandwidth, getting a gateway that can limit bandwidth per use could help.    Embed Quote

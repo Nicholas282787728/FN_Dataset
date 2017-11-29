@@ -1,2 +1,0 @@
-★How can I write software to extract information from social networks?For eg. The most common word tweeted in my timeline in the last month.
-Facebook has databases that are available for programmers that store various data about users.  I don't know the extent of what you can get ahold of but the programming isn't very difficult from what I've seen.    Embed Quote

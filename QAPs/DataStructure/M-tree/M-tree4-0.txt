@@ -1,2 +1,0 @@
-What is an intuitive explantion of the O(m alpha m) algorithm for computing the minimum spanning tree of a graph?
-The intuitive definition is mentioned in the paper itself. It is viewed as computing over the semigroup over paths in a graph. Over an arbitrary semigroup, such a time complexity is necessary. 

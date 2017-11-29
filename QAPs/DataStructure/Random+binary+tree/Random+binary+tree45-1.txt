@@ -1,2 +1,0 @@
-Given a binary tree, what is code to print the tree out line by line?
-Use Breadth First Search algorithm - Breadth-first search 

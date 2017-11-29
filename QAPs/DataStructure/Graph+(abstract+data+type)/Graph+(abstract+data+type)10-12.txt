@@ -1,2 +1,0 @@
-Which book(s) and other resources would you recommend for a beginner to understand Data Structures in C++?Books which preferably are well written and provide good examples/problems to work on and understand concepts clearly?
-Originally Answered: What book should I refer to for a better understanding of Data Structure and its Algorithms in C++?Data Structures and Algorithms in C++, Mark Allen Weiss 

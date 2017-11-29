@@ -1,1 +1,0 @@
-Is a k-ary heap more efficient than a binary heap in practice?

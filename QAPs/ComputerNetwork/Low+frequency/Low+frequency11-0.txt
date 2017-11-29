@@ -1,2 +1,0 @@
-★Why is low frequency transmitted longer than higher frequency? Why are microwaves used and not radio waves in cellular phones?
-Adding to other answers: at lower frequency you can't transmit as much data: the rule of thumb is that the bitrate of the transmission is of the order of width of the band used. At lower frequency you have necessarily narrower bands, thus lower bitrates.    Embed Quote

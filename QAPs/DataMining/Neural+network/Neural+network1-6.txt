@@ -1,2 +1,0 @@
-★Neural Network: Is there any online course for neural network?
-CS231n Convolutional Neural Networks for Visual Recognition This is not exactly a neural networks course. But it has some very good material on neural networks in modules 0 and 1.    Embed Quote

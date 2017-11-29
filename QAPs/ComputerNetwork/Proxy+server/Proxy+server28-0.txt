@@ -1,2 +1,0 @@
-★Why do we use proxy servers in IIT Kharagpur?
-When an organization has a large LAN, proxy servers improve the network's performance, as commonly accessed data is cached in the proxy servers. Proxy servers allows them to restrict access to 'objectionable' sites. Network address translation (NAT) - the insti has a small set of IP address to connect to internet. But using NAT, thousands of computers can access internet just using that small set of addresses. These are the main reasons. This explains in detail: Proxy server    Embed Quote

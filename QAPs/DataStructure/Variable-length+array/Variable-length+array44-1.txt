@@ -1,2 +1,0 @@
-How do I send a character buffer length stored in a integer variable using socket programming? Also, can I use the same socket to send the character buffers stored in an array format?
-You can use one socket to do any sort of data transfer - integers, character arrays, structures, long floating-point numbers, booleans - even mixed together; you just have to be completely sure that the client end and the server end are "on the same page". 

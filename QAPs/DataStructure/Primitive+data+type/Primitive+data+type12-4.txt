@@ -1,2 +1,0 @@
-Are there any programming bootcamps that teach Java?
-I built a site to teach Java, and now I'm creating an online programming bootcamp: Learneroo Java Bootcamp. You can sign up there if it's something you're interested in. 

@@ -1,2 +1,0 @@
-What is a good source for learning about Bayesian networks?
-This document has a fairly high citation: www.cs.ubc.ca/~murphyk/Bayes/Charniak_91.pdf    Embed Quote 

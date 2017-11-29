@@ -1,2 +1,0 @@
-Which machine learning algorithms for classification support online learning?
-Fuzzy ARTMAP and derived. They sare part of the Adaptive resonance theory and solve the "The Stability-Plasticity Dilemma and Rapid Learning Throughout Life". In short, most often a single training eppoch suffices. 

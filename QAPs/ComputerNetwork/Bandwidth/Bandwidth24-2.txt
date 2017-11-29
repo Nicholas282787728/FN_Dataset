@@ -1,2 +1,0 @@
-★What is the bandwidth of a coaxial cable?I don't understand how the coaxial cable coming through my wall simultaneously carries the hundreds of channels received as part of a typical cable TV service.
-It is worth looking at this chart: Then ask, with 700MHz how many 6MHz channels can you fit in?

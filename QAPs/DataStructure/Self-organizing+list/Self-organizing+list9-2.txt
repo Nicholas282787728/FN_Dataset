@@ -1,2 +1,0 @@
-What are the different dimensionality reduction methods in statistics?
-I know this is not a direct answer to the question but let me list some dimensionality reduction methods that are not part of statistics but can be used by statisticians: Self-organizing maps reduce the dimensions while keeping the topology Neural gas a more computationally intensive and sophisticated alternative of self-organizing maps. Autoencoder a (colloquially speaking) non-linear alternative to PCA 

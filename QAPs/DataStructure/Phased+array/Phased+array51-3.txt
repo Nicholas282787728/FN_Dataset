@@ -1,2 +1,0 @@
-Does the length of an antenna have any effect on the strength of a signal that can be transmitted/received?
-Length of the antenna determines its resonant frequency (frequency the antenna is tuned to for transmitting and receiving).  Keep in mind: antennas are reciprocal devices.  So (for example) if you change its characteristics for directivity this will directly impact its sensitivity in that specific direction. 

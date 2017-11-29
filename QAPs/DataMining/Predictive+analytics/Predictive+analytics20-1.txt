@@ -1,2 +1,0 @@
-★Who, if anyone, is using predictive analytics in finance?Predictive analytics from my understanding means using machine learning and big data to draw conclusions about the future.
-WorldQuant I am sure there are tonnes more like them. They hire math geniuses to write formulae they call quant that help track current trends to predict the future. We are talking about automated high volume trading that makes tiny amounts per transaction faster than a human could trade.    Embed Quote

@@ -1,1 +1,0 @@
-What are some good ways to replace a Python module or function with a RESTful API call?

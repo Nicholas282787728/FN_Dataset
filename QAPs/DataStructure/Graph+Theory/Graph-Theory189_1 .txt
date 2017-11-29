@@ -1,1 +1,0 @@
-What is a k-cycle in graph theory?A k k -cycle is a cycle of length k k . It's not completely specified unless you also specify the size of the set it's acting on (or equivalently which of the symmetric groups it belongs to). 102 Views

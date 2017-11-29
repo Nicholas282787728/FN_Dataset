@@ -1,2 +1,0 @@
-★What is the best continuous integration service for Django?
-Are there any Python/Django-friendly hosted Continuous Integration services?    Embed Quote

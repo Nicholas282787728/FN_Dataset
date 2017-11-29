@@ -1,2 +1,0 @@
-What is the best way to store location data in MySQL?I've heard that Postgres has really good facilities for this
-Generally speaking, storing latitude and longitude is the standard way of recording location data.  I would suggest using the decimal data type in MySQL over float types because of the guaranteed precision. Beyond that, you may want to look at MySQL's spatial indices, although if you're going to be doing anything but the simplest types of "is X point in Y rectangular region", you should go to PostGIS. 

@@ -1,2 +1,0 @@
-In C/C++, why are pointers given a data type?
-Pointers can be lvalues (used on the left hand side of an assignment operator), and as such, the compiler must know how to store the value when making the assignment. The type of an lvalue describes this. 451 Views · 2 Upvotes

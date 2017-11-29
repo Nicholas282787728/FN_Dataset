@@ -1,2 +1,0 @@
-Can someone help me write a problem for printing a binary tree in vertical order in Java?
-Can you show how it doesn't work? Your approach seems basically sound. 

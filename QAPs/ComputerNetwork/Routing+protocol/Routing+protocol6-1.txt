@@ -1,2 +1,0 @@
-★Routing Protocols: What are some good BGP textbooks and architecture guides?With an emphasis on freely available resources please!
-The previous suggestions are good, but I'd also recommend that you take a look at the RFC for BGP.  It's the authoritative document on the protocol which all vendors write their implementation around.  Its also free. http://www.ietf.org/rfc/rfc4271.txt    Embed Quote

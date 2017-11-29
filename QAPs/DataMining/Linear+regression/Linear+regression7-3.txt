@@ -1,2 +1,0 @@
-★How can I run linear regression in parallel?
-If you are working with very large data sets, it might (or might not) pay to push subsamples to worker processors/threads, run separate regressions in parallel, and then average the coefficients obtained.    Embed Quote

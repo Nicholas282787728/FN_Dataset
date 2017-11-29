@@ -1,2 +1,0 @@
-What applications does Kolmogorov complexity have to finance?
-I'm not a complexity theorist or algorithmic trader, but I'd think it has something to do with finding signals in time series.  If stock prices are truly random, then they should have maximal Kolmogorov complexity... you can't express the signal in less space than the signal itself.  But if you can determine that it has less complexity, perhaps there is hidden structure that can be modeled or forecasted. 

@@ -1,2 +1,0 @@
-What is the first little bit of math that made you realize that math is beautiful?
-I was 11 or 12 when I flipped open a copy of The Mathematical Experience by Davis and Hersh at random and saw the following. Needless to say it blew my mind. A polygon whose vertices are random is transformed by replacing it by the polygon formed from the midpoints of its sides. Upon iteration of this transformation, an ellipse-like convex figure almost always emerges. (From: P.J. Davis, Circulant Matrices.) 

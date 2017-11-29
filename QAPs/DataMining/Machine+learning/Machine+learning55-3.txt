@@ -1,2 +1,0 @@
-★How can a beginner train for machine learning contests?
-One week ago, I was worried with the same question in my mind. And then I found Online R tutorials and Data Science Courses - DataCamp :P It has interactive environment with examples on various models and easy to understand with detailed description. This is the best thing for R learners and Kaggle competitors.    Embed Quote

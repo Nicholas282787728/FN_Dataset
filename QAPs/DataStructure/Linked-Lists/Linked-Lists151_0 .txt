@@ -1,1 +1,0 @@
-What is Head in linked list?Is HEAD is first node or any other reference point hold address of first node ?The head of the linked list is not the first node or any separate node, it is a pointer to the first node of the linked list (that's why named HEAD). If the list is empty, then the head is a null reference. 315 Views  View Upvotes

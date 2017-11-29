@@ -1,2 +1,0 @@
-Where is Haskell used in industry today (2015)?
-There aren't that many but a lot of businesses are starting to hire engineers who can think functionally so Haskell is a great skill to have.  Which hopefully means that we will stay to see more Haskell in commercial environments.    Here are the ones we know about in the UK: GSACapital Fynder Facebook Sphonic Credit Suisse Standard Charteref Barclays Capital CircuitHub Improbable 

@@ -1,2 +1,0 @@
-Business Intelligence: What is the best database system for BI?
-There is no single best DBMS for any particular type of use. The best choice for you depends on the nature and volume of data and on the query types and query load you face, as well as on your budget. This said, most current-day BI runs off relational database systems with many organizations choosing parallelized column-stores to achieve the performance, throughput, scalability, and reliability they need.    Embed Quote 

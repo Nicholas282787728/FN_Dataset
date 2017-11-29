@@ -1,2 +1,0 @@
-Let f(x)=min {tan x, cot x} where x belongs to the set of real numbers. What is the range, fundamental period, points of discontinuity and points of non-differentiability of f(x)?
-Just plot the combined graphs of tan x and cot x in one single graph. After that watch for the minimum value that is portion below the point of intersection of both the plots. There's a rough image I have uploaded from which u might clear ur concept. ​ 

@@ -1,2 +1,0 @@
-What are the high level programming languages?
-I would consider Java swing, javafx, wpf as high level 

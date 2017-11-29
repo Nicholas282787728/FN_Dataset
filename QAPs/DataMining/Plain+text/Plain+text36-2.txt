@@ -1,2 +1,0 @@
-★What is the best way to punctuate around URLs in plain text documents?
-In the bad old days of the Usenet, sometimes we set off a URL with angle brackets (< >), also known as chevrons, and then the other regular punctuation marks. That practice is pretty much gone nowadays and the URL is simply treated as a whole word.    Embed Quote

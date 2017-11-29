@@ -1,1 +1,0 @@
-Can a simple undirected graph with 11 vertices and 53 edges have a Eulerian cycle?This is almost certainly a homework problem, so I won't give an answer. The hint I'd give is that there's something special about the numbers 53 and 11. Can you see what it is? 470 Views  Answer requested by Paul Robinson

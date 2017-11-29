@@ -1,2 +1,0 @@
-What is the intercept of a straight line graph?
-The x intercept is the x value where the line touches the x-axis. It equals -b/m. The y intercept equals b. 16 Views

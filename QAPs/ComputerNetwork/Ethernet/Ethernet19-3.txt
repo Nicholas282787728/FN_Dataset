@@ -1,2 +1,0 @@
-★Is there a portable thunderbolt to gigabit ethernet adaptor suitable for use with a MacBook Air?Yes, I know about the 27" LCD/LED monitor. That's not portable. Looking for a dongle that goes in a laptop bag. Universal Serial Bus (USB)-based Ethernet just sucks.
-Few months ago, Apple released the Thunderbolt to Gigabit Ethernet Adapter.

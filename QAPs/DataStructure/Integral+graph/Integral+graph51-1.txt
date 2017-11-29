@@ -1,1 +1,0 @@
-How does Facebook determine when to post an Open Graph Action to the news feed?Our experimentation with Facebook Open Graph Actions suggest that the Edge Rank of these Actions is significantly lower than standard stream.publish actions.  Does anyone know if there's anything we an do to enhance the likelihood that these actions will be posted to the News Feed?

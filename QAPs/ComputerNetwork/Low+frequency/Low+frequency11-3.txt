@@ -1,2 +1,0 @@
-★Why is low frequency transmitted longer than higher frequency? Why are microwaves used and not radio waves in cellular phones?
-Microwaves are absorbed and dissipated by most types of matter as heat, which makes them a poor choice for communication. Radio waves pass right through most matter, but are picked up by antennas which makes them ideal. Also radio waves are harmless, whereas microwaves are not.    Embed Quote

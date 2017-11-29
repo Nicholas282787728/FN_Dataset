@@ -1,2 +1,0 @@
-★Which sites have the best URL design?
-I'm a big fan of Matthew Somerville's Train Times url structure. Particularly if you know the three letter station codes here in the UK. But even without them it understands where you mean a lot of the time anyway. For example: http://traintimes.org.uk/btn/lbg/09:30/today http://traintimes.org.uk/btn/lbg/20:37/tomorrow http://traintimes.org.uk/london+victoria/bristol+templemeads/09:30/2015-03-01    Embed Quote

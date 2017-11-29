@@ -1,2 +1,0 @@
-What is a good free software for drawing directed graphs, possibly with edge labels and node labels?
-Try Inkscape. It's a bit clunky at times, but it's free and easy to use. PC/Mac/Linux. Link below: Draw Freely | Inkscape 377 Views

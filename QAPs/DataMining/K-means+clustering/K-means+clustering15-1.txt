@@ -1,2 +1,0 @@
-★What is a good way to choose initial points of k clusters in k-means clustering?I found some articles discussing how to choose k, but even after I found k, how I can determine centroids for k clusters at the beginning
-You can go for the normal ones like Forgy or random partition. You could also have a look at k-means++. Its an algorithm for choosing the initial centroids for k-means. K-means++    Embed Quote

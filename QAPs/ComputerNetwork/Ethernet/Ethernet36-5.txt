@@ -1,2 +1,0 @@
-★If your Mac has working Wifi and Ethernet, which does it prioritize?
-Which is available and to which gets a faster communication connection. This is usually the ethernet. Cable is always faster than wifi.

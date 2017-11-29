@@ -1,2 +1,0 @@
-What are some optimizations Java compilers do?
-Pretty much all the optimizations that "gcc -O2" does, plus a bunch of Java-specific things.  So, constant-prop, DCE, CSE, loop-invar code-motion, unrolling, RCE, inlining (lots), profile-directed optimizations, null-check-elid, CHA, graph-coloring reg alloc, to name but a few.... Cliff 

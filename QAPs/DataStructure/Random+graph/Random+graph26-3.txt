@@ -1,2 +1,0 @@
-What software exists for visualizing and analyzing large networks?
-General rule of thumb: visualizing large graphs (more than a few thousand nodes) is a bad idea.  That said, here are two that have not yet been mentioned. Large Graph Layout - http://lgl.sourceforge.net/ Linear Layout for Visualization of Networks - http://mkweb.bcgsc.ca/linnet/ Gephi is great, but my previous caveat on size applies there as well. 

@@ -1,2 +1,0 @@
-What algorithms and data structures should any software engineer know?
-Originally Answered: What are the most common algorithms and data structures to learn for a developer?  Further recommendations?I usually recommend some basic books, listed below in increasing complexity: 1 - Introduction to Algorithms - Cormen, Leiserson, Rivest, Stein 2 - Algorithm Design - Kleinberg, Tardos 3 - Probability and Computing: Randomized Algorithms and Probabilistic Analysis - Mitzenmacher, Upfal 4 - Randomized Algorithms - Motwani 5.7k Views · 9 Upvotes

@@ -1,1 +1,0 @@
-Representing hierarchical data Storing data in a way that makes it easily searchable (see binary search tree and tree traversal) Representing sorted lists of data As a workflow for compositing digital images for visual effects Routing algorithms

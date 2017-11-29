@@ -1,2 +1,0 @@
-★What are the best web scraping open source tools?
-Scrapy is a very matured pythonic tool for web scraping .    Embed Quote

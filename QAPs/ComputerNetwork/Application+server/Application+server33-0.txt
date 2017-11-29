@@ -1,2 +1,0 @@
-★What is the Best Hosting for Real Time Mobile Application Server?
-A large instance on Amazone should be fine if you know how to utilize it. you can use a technology stack based on HAProxy, Nginx, Node.js, socket-io, and Redis.

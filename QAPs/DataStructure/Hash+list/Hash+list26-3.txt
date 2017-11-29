@@ -1,1 +1,0 @@
-What is a top-down dynamic programming solution to the subset sum problem?

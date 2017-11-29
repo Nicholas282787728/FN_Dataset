@@ -1,2 +1,0 @@
-★How do peer-to-peer money transfers work?I am curious about how Square, Venmo, PayPal etc. handle peer-to-peer payments. Do they transfer the money through their own merchant account? Or can they give order to make direct transfers (ACH for ex.) between two accounts on behalf of their owners?
-Hey guys - you may find this useful. What Is Peer to Peer Money Transfer? (P2P) Thanks! Daniel Abrahams Co-Founder MyCurrencyTransfer.com    Embed Quote

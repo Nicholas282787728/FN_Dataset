@@ -1,2 +1,0 @@
-★Is unsupervised learning useful only for clustering input data?
-No, of course not. You can use unsupervised learning for feature extraction, anomaly detection, even classification.    Embed Quote

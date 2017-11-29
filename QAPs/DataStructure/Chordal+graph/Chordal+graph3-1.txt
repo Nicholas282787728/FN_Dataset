@@ -1,2 +1,0 @@
-I am a CS undergraduate planning to self study graph theory.Which one of the following is a better book for me?
-Graph Theory with Applications by Bondy and Murty, Introduction to Graph Theory by D.B. West, Robin Wilson's Introduction to Graph Theory. What are some good books for self-studying graph theory? 

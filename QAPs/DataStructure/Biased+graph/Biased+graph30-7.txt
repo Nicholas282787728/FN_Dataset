@@ -1,2 +1,0 @@
-What are some of the best algorithms?
-Though not related to computer science,there is an algorithm called God's Algorithm for solving Rubik's Cube. This algorithm solves any instance of Rubik's cube in 20 moves or less.20 is called as God's Number.  (The total number of  possible combinations of a Rubik's cube is  43,252,003,274,489,856,000.) With about 35 CPU-years of idle computer time donated by Google, a team of researchers has essentially solved every position of the Rubik's Cube, and shown that no position requires more than twenty moves. 4.5k Views · 74 Upvotes

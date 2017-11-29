@@ -1,2 +1,0 @@
-★How do ETL tools work?
-Linx 5 allows you to connect to databases and write queries to pull data (extract). You can then use a variety of components to manipulate that data (transform) before pushing it into another database elsewhere (load). Linx 5 is easy to use, powerful and the beta is free! Linx    Embed Quote

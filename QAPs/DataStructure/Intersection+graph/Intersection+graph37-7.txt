@@ -1,2 +1,0 @@
-Is 0  one of the answers of x x  √  =x  √  x   ?
-lnx x  √  =x  √ lnx  lnx  √  x =x2 lnx  Equating these two we get x  √ =x2   which admits a solution 0. Rigorously, it has to be explained in the limit sense though. 

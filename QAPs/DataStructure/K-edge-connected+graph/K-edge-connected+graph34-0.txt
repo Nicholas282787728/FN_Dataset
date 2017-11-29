@@ -1,2 +1,0 @@
-What are some difficult problems with simple problem statements you have encountered in the field of competitive programming?
-Topcoder has plenty of such problems. Here are a few recent ones I solved FindPolygons : Given an integer L, find polygon with minimum sides that has perimeter equal to L and each vertex is a grid point (integer X,Y coordinates) Egalitarianism2 : Among all spanning trees of a weighted graph, find one that has least standard deviation of lengths of selected edges. 

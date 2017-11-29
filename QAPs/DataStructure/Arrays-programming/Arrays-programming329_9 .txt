@@ -1,1 +1,0 @@
-How are arrays echoed in PHP?Array values can’t be echo directly you need to run foreach loop first and then save values in a $variable to echo them. simply do this foreach($array as $value){ echo $value; } but if you are having multi dimensional arrays then this will not work you need to iterate every array to print your required values. 127 Views

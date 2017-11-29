@@ -1,2 +1,0 @@
-What’s wrong with OpenID?
-OpenID has not been well productized - the UX was very poor, but has been getting much better after the larger players have gotten involved, and logging in with an URL is mostly a thing of the past. Facebook Connect is proving the value of logging in with an established identity. From a purely technical perspective, OpenID can deployed by other identity providers to implement the same functionality as Connect, but using open and interoperable standards. 

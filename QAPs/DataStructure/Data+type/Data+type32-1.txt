@@ -1,2 +1,0 @@
-Can the % operater be used on all data types in C?
-No. % operator can be used only on integers. It can also be used in char in special cases for example : Char a=”S”; Int b=2; printf(“%d”, a/b) ; 70 Views · 1 Upvote · Answer requested by Rachit Mathur

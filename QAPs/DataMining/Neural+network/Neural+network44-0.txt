@@ -1,2 +1,0 @@
-★Why only neural network has deep structures?Deep structures makes a lot of senses intuitively, but currently it seems only neural network has good performance improvement using deep structure, is there any work using deep structure for other models, such SVM, Logistic Regression? Why?
-I just came across a paper that uses SVMs for Deep Learning. It's still in my TOREAD list, but maybe it's worth as a starting point http://arxiv.org/pdf/1306.0239v1...    Embed Quote

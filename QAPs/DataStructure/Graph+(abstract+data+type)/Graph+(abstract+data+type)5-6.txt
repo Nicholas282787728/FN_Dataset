@@ -1,2 +1,0 @@
-Software Engineering: What are the best data structures to learn about?
-I would suggest learning all of the data structures described in book Introduction to Algorithms by Cormen et. al. Timothy Johnson seems to have them covered in his list. edit: As Kuba Bartczuk points out, the advanced data structures aren't very common. I should have recommended learning the data structures which are specifically in the non-advanced data structures section; these data structures are ubiquitous in applications, whereas the advanced data structures are not. 

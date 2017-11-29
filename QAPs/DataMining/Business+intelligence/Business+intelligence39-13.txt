@@ -1,2 +1,0 @@
-What is the best business intelligence tool for a ecommerce store running on Magento?
-The main problem you have is the integration of several disparate data sources into your reports, so you may want to look for a common denominator (for example CSV) or use a tool that can create reports from multiple data sources (like DBxtra - Reporting Software), or probably both.    Embed Quote 

@@ -1,2 +1,0 @@
-What are the missing term number sequence 1,2,4,8,__, __?
-The best way to approach this, would be to view this as a geometric sequence with the ratio R being 2. What does this mean exactly? Simply that in order to get the next term at any point along the sequence, you simply multiply the present term by the ratio 2, et voila! 

@@ -1,2 +1,0 @@
-Which startups in San Francisco Bay Area are working with massive data sets?
-We (BackType) are dealing with large amounts of data — we capture every tweet, every check-in on 4SQ/G, customer-focused data from Facebook, conversations from ~2M sites, etc.    Embed Quote 

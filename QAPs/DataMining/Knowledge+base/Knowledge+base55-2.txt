@@ -1,2 +1,0 @@
-★How can WordPress be used as a knowledge base (KB) platform?
-Are you thinking of an open or close wiki? (by which I mean should everyone have equal rights to edit content?) If it's an open wiki, I suppose you could do a multi user setup with every registered user having the ability to edit anyone else's post. It's still going to lack things like history/version control etc.    Embed Quote

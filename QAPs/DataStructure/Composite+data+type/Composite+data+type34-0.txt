@@ -1,2 +1,0 @@
-What language is better for a B2B-focused digital healthcare product: ASP.NET or Ruby on Rails?
-It doesn't really matter which language or framework you use specifically. What matters is how you use the one you choose, because both could produce perfectly reasonable implementations. Either way, make sure you're following testing best practices and security standards--these will have more of an effect on your application's long term success than anything else. 

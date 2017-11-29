@@ -1,2 +1,0 @@
-★What is the difference (if any) between a wireless access point and a wireless router?
-A wireless access point is a 'bridge' device that operates at layer 1 & 2; the physical & mac|LLC layers. This means that it takes radio waves (layer 1) arbitrates the access to/from the wireless part (mac) then does some processing (LLC) to Ethernet and places the packets onto the cat5. http://www.cable360.net/images/a... Consumer based wifi routers do the same and add the intelligence cited by the other responder of higher layers like routing etc.    Embed Quote

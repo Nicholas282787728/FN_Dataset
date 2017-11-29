@@ -1,2 +1,0 @@
-★What will be used next after IPv6?
-using IPv6 every grain of sand on earth can be given an IP address, we will not run out of them. Although we may device some communication protocols or mechanism which do not require network layer addressing, in that case we will not use IPv6 and we will use "nothing". I don't know if that is ever going to happen. May be when we invent teleportation.    Embed Quote

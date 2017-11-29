@@ -1,2 +1,0 @@
-★Is it worth trying PCA on your data before feeding to SVM?
-I guess it always helps to visualize multidimensional features by plotting out first a few principle components (PC). You see how observations distribute along the most variable axes, but keep in mind that these variation might not explain the variability in the outcome variables (or labels). that is why there is something called supervise PCA (Page on stanford.edu). What's suggested in the question is similar in that it tries to force the important PC among the features to explain the outcome    Embed Quote

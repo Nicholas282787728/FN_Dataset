@@ -1,2 +1,0 @@
-★What papers have shown that for machine learning, data set size is more important than the model being trained?
-A related paper is about how augmenting data in the feature space simply by replicating features can help in domain adaptation type of ML problems. Just that simple trick apparently performs as well, or even better than the state of the art: http://www.umiacs.umd.edu/~hal/d...    Embed Quote 

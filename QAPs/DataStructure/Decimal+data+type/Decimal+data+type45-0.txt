@@ -1,2 +1,0 @@
-How do I calculate % savings and premium paid in Excel?
-Hello, Can you post a link where to download the workbook? That will make it easier to help you... Best download links are dropbox or anything similar. Also, it will tell the accuracy of the data chosen in each cell because you have 4 digits decimal numbers and some data types as defined by default in excel will round things not as you would expect. Cheers, Pascal 

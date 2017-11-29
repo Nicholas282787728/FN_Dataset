@@ -1,2 +1,0 @@
-What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
-I think most of the theorems in a first course in real analysis fit under this. A continuous function has a value of - 2 over here, and +1 over there, so there has to be a place where it's zero in between? You don't say. A continuous, differentiable function is zero at two points, so there's somewhere in between where there's a max or min? You don't say. And on and on for a semester. 

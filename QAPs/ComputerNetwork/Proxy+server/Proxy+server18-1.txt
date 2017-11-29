@@ -1,2 +1,0 @@
-★How do I set up my Windows Server 2008 R2 server to be a proxy server?
-You could use ClearOS rather than Windows it offers functions similar to active directory, Web server, proxy server, email server, mySQL server, content filtering, ftp. If you didn't want to replace Windows you could run it as a virtual machine, but I think it uses Squid so you could probably find that to run on windows anyway.    Embed Quote

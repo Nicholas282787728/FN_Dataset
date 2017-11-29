@@ -1,2 +1,0 @@
-What is the difference between a complete graph and a dense graph?
-To define a dense graph you need to specify. "How dense" with a predicate t, for threshold. If your idea of dense is 50% connected then that is called dense, even though it is not particularly well connected. In a complete graph the threshold t is set to 100%. Note that these are traxonometric term used to understand what set a graph instance falls into. Many times that may not be important. 

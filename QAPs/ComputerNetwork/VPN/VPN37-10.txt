@@ -1,2 +1,0 @@
-★Is watching Netflix outside the US via VPN legal?As the VPN server is located in the US, wouldn't Netflix still be technically broadcasting to the US? so they haven't broken any copyright agreement. What do you think about it ? is it still copyright infringement?
-in my opinion, this is grey area. First of, the IP client is on the US (through VPN), but the VPN client is outside US. Anyway, If this is illegal, why Netflix accept credit card that doesn't belong to US.    Embed Quote

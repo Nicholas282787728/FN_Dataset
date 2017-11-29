@@ -1,2 +1,0 @@
-What is the best lightweight Python library for working with graphs?So parsing data from a text file, database, and other sources to build a graph, querying the graph, analyzing the common properties of the graph structures?
-http://networkx.lanl.gov/ is well worth a look. It includes a bunch of functions for parsing common graph file formats and analyzing graphs. 

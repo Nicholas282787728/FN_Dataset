@@ -1,2 +1,0 @@
-Why is it impossible to have a comparison sort better than O(nlogn) time?
-There can be n! permutations. One of which will be the sorted arrangement. You need to search for it. So it needs log(n!) time. Which is nlogn from Stirling's approximation. 

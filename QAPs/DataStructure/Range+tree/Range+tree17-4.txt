@@ -1,2 +1,0 @@
-Data Structures: What data structure would allow adding an element, removing an element, and querying for the number of elements in the range (a, b), all in O(logn) time?
-A weight-balanced search tree. 

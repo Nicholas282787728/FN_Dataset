@@ -1,1 +1,0 @@
-What is the data type of bit flags in C?It was actually an error in using ioctl interface, and I was wondering if it had something to do with the constants I had defined. I can’t delete the question since there’s an answer.If you mean the actual bit field feature of the language, then the bit fields are of some kind of int where you specify the width. 53 Views

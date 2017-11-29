@@ -1,1 +1,0 @@
-How should one start to learn computational biology?Assuming little-to-no background in biology and chemistry, but some background in computer science and upper-level mathematics.

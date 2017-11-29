@@ -1,2 +1,0 @@
-Why doesn't std::queue have a clear function like std::vector does?
-My guess is that a queue could be represented as a linked list, and in this case, clear() would take O(n). Not implementing a clear function that takes O(n) is a good idea, so that programmers won't be tricked to thinking it's O(1). They will have to explicitly clear the queue manually using a loop. (while(!q.empty()) q.pop();) 

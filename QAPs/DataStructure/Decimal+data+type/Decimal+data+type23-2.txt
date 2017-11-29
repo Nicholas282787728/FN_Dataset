@@ -1,1 +1,0 @@
-Teradata data type: NUMBER vs. INT/SMALLINT/BYTEINT. Which is better?

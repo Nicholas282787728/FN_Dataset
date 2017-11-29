@@ -1,2 +1,0 @@
-What is the most complex line of C code you have created or encountered?
-I love the beauty and simplicity of C, specifically the function char *strcpy(char *t, const char *s) {   char *p = t;   while(*t++=*s++);   return p; } So simple and powerfully describers everything you need to know about C. And everything that makes it such a complex language for people to get their heads around! How to call this function always breaks people the first time they do it... Updated 20 May 2014 • View Upvotes

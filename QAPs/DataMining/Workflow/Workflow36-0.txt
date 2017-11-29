@@ -1,2 +1,0 @@
-★What are some recommended tools for data workflow visualization?
-I'm not quite sure I understand what you are asking but as far as data visualization tools that include work flow. SAS Enterprise Miner http://www.sas.com/technologies/... If you have SAS in your shop this is a good way to go. Alpine Miner http://www.alpinedatalabs.com/pr... I'm not sure what databases this works with but there is a free trial version.    Embed Quote

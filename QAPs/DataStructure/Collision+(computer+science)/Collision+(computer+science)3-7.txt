@@ -1,2 +1,0 @@
-What are some good computer science final year project ideas?
-Originally Answered: Can anyone give me ideas regarding project topics in final year for computer science?I would say one thing from my experience. Best would be to use a technology you have already worked on before, as in the technology you had used in a mini project in your previous semesters. Select a domain, research on it and then think of it's applications rather than going the other way round 

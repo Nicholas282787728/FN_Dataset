@@ -1,2 +1,0 @@
-Is there any reason not to use OrientDB? Is there any reason to opt for MongoDB or Neo4j?
-Hard to say. It seem more robust and scalable comparing to Mongo and solid graph capability is a nice add-on for some use cases. I would suggest to benchmark it for the specific implementation and see if it is good for the specific use case. Sometimes "Better" does not means good. 11.7k Views · 3 Upvotes · Answer requested by Ben Baert

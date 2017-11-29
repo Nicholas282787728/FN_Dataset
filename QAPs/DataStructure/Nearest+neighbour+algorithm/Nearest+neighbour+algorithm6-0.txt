@@ -1,2 +1,0 @@
-Would programming the nearest neighbour classifier in MATLAB to classify a set of data be considered an algorithm?
-Yes of course, what else can it be considered? If it looks like a duck, has the color of a duck, sounds like a duck and flies like a duck then it is a duck. [Argerich et al; Classifying ducks the 20 questions approach. Proceedings for the duck classification conference 2002, Ottawa] 

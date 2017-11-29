@@ -1,2 +1,0 @@
-★How can I determine whether DSL will be fast at a certain location?I'm deciding between DSL and Cable at a new apartment. I know DSL is dependent on location and distance to a provider. So how can I determine which will be fastest?
-Lots of possible answers here; there are ways to determine if you are served from a CO or an RT and the approximate wire distance.  I suggest you avoid that rabbit hole.  A little bad copper and a distance based estimation is worthless. Ask your new neighbors.

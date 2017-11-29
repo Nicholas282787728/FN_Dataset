@@ -1,1 +1,0 @@
-Does bottom up heap construction conserve the complete binary tree property?

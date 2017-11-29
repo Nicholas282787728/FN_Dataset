@@ -1,2 +1,0 @@
-Is every complete bipartite graph complete?
-No. A complete bipartite graph is one in which the vertices can be partitioned into two parts, such that: a) Every vertex in each part is directly adjacent to a vertex in the other part. b) Any two vertices in the same part, have two edges between them. A complete graph on the other hand, has every vertex adjacent to every other vertex. In other words, there is at most one edge between any two vertices in a complete graph. 

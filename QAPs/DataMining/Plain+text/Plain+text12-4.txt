@@ -1,2 +1,0 @@
-★Do plain-text/rich-text emails convert better or worse than HTML emails?
-I would go with a text email, just to be certain that the recipient receives it. In the email you can always mention including your address as a safe sender, ensuring other email communications are always delivered.    Embed Quote

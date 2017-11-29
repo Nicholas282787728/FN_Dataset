@@ -1,2 +1,0 @@
-Why is the C language known as rich & powerful in its data type?
-Originally Answered: Why is the C language known as rich and powerful in its data type? C language stand between high level and low level means its pointer can communicate with directly hardware. 40 Views

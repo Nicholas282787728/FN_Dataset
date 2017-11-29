@@ -1,1 +1,0 @@
-Faceted search has become a popular technique in commercial search applications, particularly for online retailers and libraries. An increasing number of enterprise search vendors provide software for implementing faceted search applications.

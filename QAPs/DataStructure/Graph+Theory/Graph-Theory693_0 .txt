@@ -1,1 +1,0 @@
-How do I find the correct weight of a specific path in a graph?Given the following graph: Is the correct weight of the path A-D-B == 5 ?The weight of a path is the sum of the weights of the edges in the path. The path is A-D-B, which has edges {A,D} and {D,B}. So the weight of the path is 3+2=5. Hope this helps! 95 Views  View Upvotes  Answer requested by Chris Purrone

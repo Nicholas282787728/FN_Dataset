@@ -1,2 +1,0 @@
-If I flip a coin (heads or tails) 1,000,000 times, shouldn't the fraction of heads and tails approach 50% equally?
-No. If you flip a coin 1,000,000 times, the fraction of heads will just be a single number (which will probably be close to but not exactly 50%). To get the fraction of heads to approach 50%, you need to flip the coin infinitely many times. (And even then, it will only happen "with probability one"!)    Embed Quote 

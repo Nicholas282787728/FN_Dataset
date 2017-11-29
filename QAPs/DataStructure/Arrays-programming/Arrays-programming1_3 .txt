@@ -1,1 +1,0 @@
-Is it possible to implement two stack using array?A very big yes! If it’s size is dynamic you would have to do some extra work to make it a dynamic array. 16 Views

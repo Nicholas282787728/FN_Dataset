@@ -1,2 +1,0 @@
-Can I use the binary indexed tree (Fenwick tree) on negative numbers?
-As long as range of those numbers small enough(this is necessary when numbers are positive too) you can use Fenwick tree. Just add absolute value of the minimum number to all of the numbers both while updating and querying. 

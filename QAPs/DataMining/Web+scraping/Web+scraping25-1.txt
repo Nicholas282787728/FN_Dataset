@@ -1,2 +1,0 @@
-★What is currently the best technology stack for web scraping?
-PhantomJS combined with CasperJS is pretty fantastic - it runs a full, headless copy of a Webkit browser so it can operate against a real DOM, execute JavaScript properly, even grab full rendered screenshots of areas of the page but is still easy to automate.    Embed Quote

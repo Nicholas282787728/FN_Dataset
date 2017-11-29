@@ -1,2 +1,0 @@
-Did Twitter migrate from Memcached to Redis for its timeline storage? Why?
-This presentation shows that Redis is used extensively Real-Time Delivery Architecture at Twitter. I'm curious to know exactly how many Redis servers they are running. They are all disconnected so it's just a question of firing up new instances that do not have to talk to each other (less headaches). 

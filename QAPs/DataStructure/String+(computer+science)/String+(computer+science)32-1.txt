@@ -1,2 +1,0 @@
-What is the difference between a lexer and a parser?
-A lexer is part of a compiler that converts the statements in code into various categories of like key words,constants,variable etc jus like identifying parts of speech in a sentence and produce token (each converted unit is called as a token ) A parser defines rules of grammer for these tokens and determines whether these statements are semantically correct 

@@ -1,2 +1,0 @@
-Big Data Analysis: What are the Alternatives to Hadoop?
-1. MapReduce at Google (really Hadoop is an alternate to that!) 2. Asterix developed at UC Irvine 3. Spark developed at UC Berkeley    Embed Quote 

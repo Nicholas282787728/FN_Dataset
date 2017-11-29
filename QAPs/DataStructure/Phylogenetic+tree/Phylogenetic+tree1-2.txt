@@ -1,2 +1,0 @@
-What is the difference between cladogram and phylogenetic tree?
-Both phylogenetic trees and cladograms help show the relationships between different organisms, but only phylogenetic trees have branches that represent evolutionary time and amount of change. 2.1k Views

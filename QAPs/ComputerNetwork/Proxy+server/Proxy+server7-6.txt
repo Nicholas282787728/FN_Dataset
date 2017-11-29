@@ -1,2 +1,0 @@
-★School internet goes through a proxy server, how do I get out?
-Use corkscrew tool to establish a tunnel over the HTTP proxy to your router with SSH server accepting connections on 443/TCP. Next, start SOCKS proxy over SSH. Configure your browser to use SOCKS proxy you just created. Voila.    Embed Quote

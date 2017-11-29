@@ -1,2 +1,0 @@
-★What are the top 10 data mining or machine learning algorithms?
-industry and task dependant : for credit scoring, logistic regression models (and scorecards) are the most prevalent. I'd say about 90%.    Embed Quote

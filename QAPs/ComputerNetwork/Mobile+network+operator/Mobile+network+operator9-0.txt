@@ -1,2 +1,0 @@
-★Do mobile network operators offer identity validation services?Do MNOs offer APIs (or even custom integrations...) for identity services, such as confirming that a given name-number pair matches what is registered in their billing system?
-It depends in which market you are in. Most don't provide general access APIs, however, if you have a business relationship with them where such an access is required, it can be provided for. Its usually decided on a case-by-case basis.    Embed Quote

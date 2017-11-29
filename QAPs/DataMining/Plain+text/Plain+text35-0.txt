@@ -1,2 +1,0 @@
-★When should web designers use icons instead of plain text?
-Use them for places you want them to click. Don't overload them with text, but don't overload with buttons either. I would choose the most important link on the page and work down from there.    Embed Quote

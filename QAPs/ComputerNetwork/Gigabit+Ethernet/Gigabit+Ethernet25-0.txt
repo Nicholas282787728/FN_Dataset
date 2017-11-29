@@ -1,2 +1,0 @@
-★Why does Apple's MacBook Pro lack an Ethernet port?How can I overcome this issue?
-They don't have Ethernet on board, but Apple sells both Gigabit Ethernet/USB and Ethernet/Thunderbolt adapters for $29 each, and Apple's Thunderbolt Display has a Gigabit Ethernet port.

@@ -1,2 +1,0 @@
-★What are domain-specific language (DSL) for diagrams?
-DOT (graph description language) & Scalable Vector Graphics are examples of DSLs.

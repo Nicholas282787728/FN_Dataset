@@ -1,2 +1,0 @@
-How can I implement an English dictionary?
-You have several options: A hash table - optimal when you just want to check if the word exists or not in your dictionary. trie - for fast lookups and checking for a given prefix. Directed Acyclic Word Graphs Ternary Search trees or radix trees - will save you space. Succint trie BK-tree 

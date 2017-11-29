@@ -1,1 +1,0 @@
-How can we create array without specifying a size in java?int[] a = {//Your data goes here and this type of array does not need to set size} Or you can use Java collection 67 Views  View Upvotes

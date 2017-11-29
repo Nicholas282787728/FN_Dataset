@@ -1,2 +1,0 @@
-What data points mobile DSP send along with bid request to ad networks?
-Device os + model Location (text form) * Location (geo coordinates) ** IP Application name Application's exchange ID Application's IAB content category Age/Date of Birth ** Supporting ad tags / standards ** Ad dimensions User ID (platform specific and not yet uniform) **    Embed Quote 

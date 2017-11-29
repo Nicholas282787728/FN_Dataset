@@ -1,1 +1,0 @@
-What is exactly the length of a cycle in graph theory?Is it only the number of edges in the walk, including repetitions , or does it have something to do with the nodes?

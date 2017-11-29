@@ -1,2 +1,0 @@
-★What is the best way to train a SVM on a very large dataset?
-sgd using vowpal wabbit    Embed Quote

@@ -1,2 +1,0 @@
-Which is better, SQL or NoSQL?
-This is best answered by a real-life comparison: Which is better, luck? Or NoLuck? Money? Or NoMoney? 

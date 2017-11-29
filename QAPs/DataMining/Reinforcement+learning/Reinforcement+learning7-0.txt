@@ -1,2 +1,0 @@
-★Are there any reinforcement learning implementation packages in R?Ideally looking for Q-learning or SARSA methods or something else?
-I'm currently working on one.  I'll post here when it's available on CRAN.    Embed Quote

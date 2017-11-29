@@ -1,2 +1,0 @@
-What are the best command-line tools for managing a small Linux cluster?
-If you know Python, take a look at Fabric (software). If you feel more Ruby and feel that you can invest time into proper Configuration Management see Puppet (configuration management software). If you are going to have several machines with identical configuration files, you can use csync2 (http://oss.linbit.com/csync2/) to keep them in sync. csync2 can be simpler to setup and maintain than Revision Control Systems.    Embed Quote Updated 29 Jun, 2011. 427 views.

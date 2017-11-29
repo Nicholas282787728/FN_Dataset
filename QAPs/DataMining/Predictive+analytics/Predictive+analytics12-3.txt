@@ -1,2 +1,0 @@
-★What are the best resources to study and understand predictive analytics?I am exactly looking for a blog/tutorial/pdf book that starts from the scratch, use easy and familiar language and cover all the aspects of the Topic in detail. Any leads will be appreciated.
-There is an entire blog dedicted to this topic. Please subscribe to Analytics Vidhya for a start.    Embed Quote

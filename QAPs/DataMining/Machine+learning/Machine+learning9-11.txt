@@ -1,2 +1,0 @@
-★What are the best talks/lectures related to big data/algorithms/machine learning?
-What's wrong with convolutional nets? - Hinton    Embed Quote

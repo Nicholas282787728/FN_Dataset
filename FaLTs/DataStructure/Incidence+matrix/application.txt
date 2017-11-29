@@ -1,1 +1,0 @@
-Incidence matrices are mostly used in graph theory.

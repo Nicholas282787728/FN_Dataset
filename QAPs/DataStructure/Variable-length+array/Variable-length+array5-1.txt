@@ -1,2 +1,0 @@
-Why is malloc used in this C code? What is the use of it anyway?
-The malloc()  function dynamically allocates memory when required. This function allocates ‘size’ byte of memory and returns a pointer to the first byte or NULL if there is some kind of error. In your Code it allocates a memory space for the Dynamic Array - List For more details : C library function - malloc() C Tutorial - The functions malloc and free example| malloc vs calloc C dynamic memory allocation 

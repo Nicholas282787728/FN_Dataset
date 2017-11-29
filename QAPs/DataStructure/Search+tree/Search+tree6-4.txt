@@ -1,2 +1,0 @@
-Can a binary search tree contain negative numbers?
-The binary search tree is basically compare values so in layman's word it can contain anything that can be compared with one and other and all items present should be comparable with one other. 

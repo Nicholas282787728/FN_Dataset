@@ -1,2 +1,0 @@
-Why do many software engineers not like Java?
-It is personal preference at the end of the day. A lot of people I work with would swear by Java if the job required it. However, if I step into a dotNET or iOS shop then I would meet a number of Java haters. So it really depends on the circumstances and environment. 

@@ -1,1 +1,0 @@
-Can you implement a simple sorting algorithm using for loops?Bogo sort. You randomly shuffle all the elements and check if they come out to be sorted, else repeat. 

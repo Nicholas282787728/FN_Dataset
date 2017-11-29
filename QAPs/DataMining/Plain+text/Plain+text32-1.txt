@@ -1,2 +1,0 @@
-★What's a good C# library for converting HTML to plain text?
-Have a look at HTMLagility pack.    Embed Quote

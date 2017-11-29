@@ -1,2 +1,0 @@
-What are the 10 must-know algorithms and data structures for a software engineer?
-Bipartite matching Divide and conquer Dynamic programming Fast Fourier transforms Greedy algorithms Heaps Huffman coding Induction Knapsack Matching Max cut Max flow Median finding Min cut Minimum spanning tree Randomized algorithms Recurrences Scheduling Shortest paths Sorting Strassen's algorithm 

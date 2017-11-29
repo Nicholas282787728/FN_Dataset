@@ -1,2 +1,0 @@
-What is data type in Java?
-Java Data Types Data type is a classification of the type of data that a variable or object can hold in computer programming. Ex: character, integer, float etc.... > Java supports explicit declaration of Data types. (we need to specify the data type before declaring the Variable) Syntax:data_type variable_name; data_type variable_name = value; Example:... (more)

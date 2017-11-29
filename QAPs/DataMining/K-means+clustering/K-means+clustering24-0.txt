@@ -1,2 +1,0 @@
-★Is it possible to specify your own distance function using scikit-learn k-Means clustering?If so, how and where?
-It seems that that is impossible in both scikit and scipy. However, the algorithm they use (Lloyd's) is very simple to implement, and on top of that you could inline it with the various C-in-python tools out there.    Embed Quote

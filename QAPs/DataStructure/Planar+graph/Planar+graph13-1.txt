@@ -1,2 +1,0 @@
-Is it planar a graph with 16 edges and 8 vertices with all degree 4?
-No, it is not planar. The reason is that a graph cannot be planar if it has a subgraph that is homeomorphic to [math]K_{3,3}[/math]. (Ignore the word 'homeomorphic', as it does not add much to understanding this problem). [math]K_{3,3}[/math] is the complete bipartite graph with 3 vertices in the first partition, and 3 in the second partition. If you draw your graph, you be able to fairly easily see that you can find [math]K_{3,3}[/math] in you graph. So it is not planar. 

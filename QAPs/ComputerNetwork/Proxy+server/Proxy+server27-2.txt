@@ -1,2 +1,0 @@
-★Does proxy servers like kproxy and savemyass completely hide your IP address?How do they work?
-When you access a page through proxy site it will fetch the page from the site using the computer where the proxy site is installed so your IP will not be recorded instead the site's IP is registered. When displaying that content to you it will display the fetched content from that site. So the IP will be of the proxy site not the site that you are seeing (Myspace, youtube etc...) so the site is not blocked by your school or office server.    Embed Quote

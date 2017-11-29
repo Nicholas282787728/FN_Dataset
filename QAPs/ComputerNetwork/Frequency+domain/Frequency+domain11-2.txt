@@ -1,2 +1,0 @@
-★When people talk about converting a time domain graph to a frequency domain graph via Fourier analysis, is the frequency domain graph at a specific time in signal or does it represent the entire signal's period of existence?
-An infinite sum of fourier components with fixed amplitudes in time will work. What gives the particular value of the original pulse amplitude at a particular time is the relationship between the phases of the component sines at that instant.

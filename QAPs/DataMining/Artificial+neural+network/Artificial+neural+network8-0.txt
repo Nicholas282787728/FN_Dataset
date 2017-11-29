@@ -1,2 +1,0 @@
-What are the pros and cons of artificial neural networks?
-Used correctly they can be trained to solve some classifications of problems that are difficult to solve with a straightforward algorithm. How they actually solve that problem is a bit of a black box. You cannot simply analyze the ANN after it is trained and discover how it works to create a straightforward algorithm. Additionally, it is practically impossible to fine tune the behavior of an ANN.  All you can do is adjust your training set and train again.    Embed Quote 

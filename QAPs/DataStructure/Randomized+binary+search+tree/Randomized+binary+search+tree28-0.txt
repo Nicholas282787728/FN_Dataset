@@ -1,2 +1,0 @@
-Design a data structure where the following 3 functions are optimised:  1. Insert(n) 2. GetRandomElement() 3. Remove(n)  Write a class, and implement the functions. Give complexity of each of these ..?
-It is easy to implement by a binary search tree with size index O(logn) time in all operations. 1. Insert(n): insert the element to the binary search tree 2. Remove(n): remove the element from the binary search tree 3. GetRandomElement(): randomly generate a number k from [1, size of tree]. And fetch the k-th element from the tree. 

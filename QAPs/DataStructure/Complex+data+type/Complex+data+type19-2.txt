@@ -1,2 +1,0 @@
-What are the most complex data structures used in the Linux kernel?
-RCU Radix Tree (ftp://82.96.64.7/pub/linux/kernel/people/npiggin/patches/lockless/2.6.16-rc5/radix-intro.pdf). RCU (Read-Copy Update) tends to complicate data structures in general. Updated 10 Oct 2011 • View Upvotes

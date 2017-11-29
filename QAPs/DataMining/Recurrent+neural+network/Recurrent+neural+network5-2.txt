@@ -1,2 +1,0 @@
-★What are resources for learning about recurrent neural networks?
-Prof: Bengio's upcoming book has a chapter on recurrent neural networks. A draft coy is available at following URL: DEEP LEARNING    Embed Quote

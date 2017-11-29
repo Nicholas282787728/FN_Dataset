@@ -1,2 +1,0 @@
-Is MongoDB a good replacement for Memcached?
-I don't see why it couldn't be a viable option. IMO you can check this benchmark out here...    Performance benchmark Mysql vs. MongoDB vs. Memcached. however, remember that benchmarks are just that benchmarks. It doesn't necessarily mean that your environment will perform in the same manner.  Download and test it out in YOUR environment and perform your own benchmarks and stress tests.  I was thinking of doing this myself.  Or utitilize CouchBase. But our requirements require us to avoid MemCache. 

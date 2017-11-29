@@ -1,2 +1,0 @@
-★When do you use standard error of the mean rather than the standard deviation?
-Standard error represents the standard deviation of an estimator.  It should be used when you are making inferences or trying to describe your estimate. The standard deviation is a parameter of the population (not the sample). Make sure you understand the difference between a statistic and parameter; as well as sample and population.    Embed Quote

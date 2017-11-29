@@ -1,1 +1,0 @@
-Is this an efficient implementation of bubble sort?This is a bad implementation of a bad algorithm. Normal bubble sort takes O(1) space and O(n) time. This implementation takes O(n) space and O(n) time and in addition has a larger constant factor. 

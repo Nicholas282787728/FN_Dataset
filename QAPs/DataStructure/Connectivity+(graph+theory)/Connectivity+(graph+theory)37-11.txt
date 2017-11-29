@@ -1,2 +1,0 @@
-What are some unsolved problems in mathematics?
-The Collatz conjecture, which was ostensibly solved recently. 

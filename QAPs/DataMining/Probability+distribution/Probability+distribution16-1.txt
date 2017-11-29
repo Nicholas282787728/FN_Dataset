@@ -1,2 +1,0 @@
-★What's the best way to ask Wolfram Alpha to derive a probability distribution?For example, how can I ask it to answer this: what is the distribution of y = log(x/(1-x)) where x follows a beta(2,2) distribution.
-For this sort of transformation I prefer the method of distribution functions, which is just writing in terms of the original random variable .  Having Wolfram Alpha solve the inequalities and then take the derivative of your new distribution function to get the density is pretty straightforward.    Embed Quote

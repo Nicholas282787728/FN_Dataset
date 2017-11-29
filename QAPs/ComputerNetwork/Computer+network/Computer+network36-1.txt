@@ -1,2 +1,0 @@
-★What are some best sources to learn computer networking?
-I feel "Forouzan" and "Kurose and Ross" are probably the best to begin with. Though, if you are really having very less time like a couple of days or so then you should go with  @OmniSecu.com - Knowledgebase  to do things real quick.

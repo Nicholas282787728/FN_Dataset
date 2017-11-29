@@ -1,2 +1,0 @@
-Is it okay for a beginner to take a lot of time to implement advanced data structures such as AVL trees or 2-3 trees? Frequently asked inRecently I tried to write a program involving AVL tree and I I took a lot of time. Though solved it eventually, I got frustrated because of time I took.
-Yes. Most interesting problems take a lot of time. I have taken days on much simpler problems! Practice will make you faster. There is no other way. If you stop doing it because you are slow, you will never be fast. 

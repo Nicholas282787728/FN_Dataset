@@ -1,2 +1,0 @@
-★Are there any browser based ETL tools?Most of the ETL tools are desktop apps and needs to be installed on a desktop or a server. Are there any ETL tools that are developed as web applications?
-Try openrefine. Not exactly a 100% browser based solution, as it runs a small server on PC, but does the job quiet well, with due limitations, in the browser.    Embed Quote

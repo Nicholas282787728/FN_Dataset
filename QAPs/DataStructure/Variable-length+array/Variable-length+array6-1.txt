@@ -1,2 +1,0 @@
-What is the time complexity of sizeof() in C programming language?
-In addition to being evaluated at compile time in most cases, sizeof() is easy to implement directly in O(1) time, for most cases. Stackoverflow: implementation of sizeof operator In response to comments pointing out that pointer-based implementations work for variables, but not type/class names, I wanted to point out that it is often (but not always) better to apply sizeof() to variables, since their type may change in the future. Updated 101w ago • View Upvotes

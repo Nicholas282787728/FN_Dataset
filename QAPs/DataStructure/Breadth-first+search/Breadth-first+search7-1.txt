@@ -1,2 +1,0 @@
-How do I apply the breadth-first search, breadth-first search؟
-Originally Answered: Algorithms: Artificial Intelligence: How do I apply breadth first search, breadth first search, A* search, depth first search, depth limit search?Hello, It depends on where you want to apply these searches. But if you want to understand these algorithms in context of Artificial Intelligence read the document provided in the link...  Artificial Intelligence Search Algorithms 

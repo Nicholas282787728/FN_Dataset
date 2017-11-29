@@ -1,2 +1,0 @@
-★What are the best talks/lectures related to big data/algorithms/machine learning?
-Geoff Hinton's lecture on dropout, which set new records everywhere in deep learning, and led to many new publications in last week's ICML One for now, but if I think of more recent talks I'll add them.    Embed Quote

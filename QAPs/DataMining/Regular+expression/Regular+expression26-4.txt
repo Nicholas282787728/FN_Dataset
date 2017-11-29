@@ -1,2 +1,0 @@
-★How common is it to be asked to implement Regular Expression matching in interview?
-Typically a simplified one in interview. Dfs or dp may be good enough.    Embed Quote

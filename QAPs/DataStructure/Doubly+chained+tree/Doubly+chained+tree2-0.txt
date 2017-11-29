@@ -1,2 +1,0 @@
-What is the application of linked lists in data structures?
-Linked lists can be used to implement stacks, queues, graphs, etc. Linked lists let you insert elements at the beginning and end of the list in O(1) time. This makes for efficient implementations of stacks, queues. Linked lists also remove the overhead of bothering about the size of the data structure. The size need not to be known in advance. They can also be used for the adjacency list representation of graphs. Hash tables with chaining is also possible. This link has a lot more information: Linked list 

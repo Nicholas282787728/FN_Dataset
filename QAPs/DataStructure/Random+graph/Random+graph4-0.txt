@@ -1,2 +1,0 @@
-What are some good resources for a beginner to learn about random graph theory and spectral graph theory?
-For spectral graph theory try these: Algebraic Graph Theory by Godsil and Royle Spectra of Graphs by Brouwer and Haemers Spectral Graph Theory by Chung Eigenspaces of Graphs by Cvetkovic, Rowlinson and Simic 

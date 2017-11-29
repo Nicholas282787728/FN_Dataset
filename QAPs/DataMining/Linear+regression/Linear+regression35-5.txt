@@ -1,2 +1,0 @@
-★What's the relationship between linear and logistic regression?What are the similarities and differences?
-Both of them are linear in the Parameters ( ' + ' ), however behind the models there are different models. The logit model g(.) is the normal-logistic model that obviously is not linear. Many people confuse between what is a "Linear Model" ( + between the parameters) and the Function form of the model. Logit model is a Linear model (+) with a non-linear function (logistics). Best, Nir Kaldero Director of Science, Data Science Experts galvanizeU    Embed Quote

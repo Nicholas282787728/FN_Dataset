@@ -1,2 +1,0 @@
-What are some of your favorite data structures?
-I suppose by usage, it would be list (std::list in C++, or whatever my platform, e.g. glib, provides in C). Occasionally I use maps or hash tables. 

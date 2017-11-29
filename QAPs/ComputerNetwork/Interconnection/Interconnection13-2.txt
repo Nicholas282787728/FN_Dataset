@@ -1,2 +1,0 @@
-★Are the uploading speed and downloading speed interconnected?While downloading from Torrent many a times both the Uploading and Downloading speed get equal. Is there any way to reduce the upload speed and increase the other one?
-Both speeds are limited by your ISP and usually the upload speed is limited lower than download speed. Here is a guide that I used to speed up my download speeds - worked really, really well. Optimize Your BitTorrent Download Speed    Embed Quote

@@ -1,2 +1,0 @@
-★What would be analogous to eigenvectors and eigenvalues for non-linear functions?
-Well, it is a whole research subject by itself. You cannot summarize it in one quora post. But you can look at Nonlinear Spectral Theory (de Gruyter Series In Nonlinear Analysis And Applications): Jurgen Appell, Espedito De Pascale, Alfonso Vignoli: 9783110181432: Amazon.com: Books, which seems to be the standard reference on the subject.    Embed Quote

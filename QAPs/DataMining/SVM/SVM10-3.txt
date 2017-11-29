@@ -1,2 +1,0 @@
-★Support Vector Machines: What SVM package is best for large-scale linear classification?For example, LIBLINEAR, LIBSVM, SVM-Light, GPUSVM . . . If the answer depends on the dimensionality of the data, please say so.
-i was quite surprised to see that no one has mentioned sofia-ml. http://code.google.com/p/sofia-ml/    Embed Quote

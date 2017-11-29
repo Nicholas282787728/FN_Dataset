@@ -1,2 +1,0 @@
-★Support Vector Machines: What is the best way to implement an SVM using Hadoop?
-SVMs don't really fit the mapreduce model. Google, however, has opensourced their parallel SVM implementation: http://code.google.com/p/psvm/    Embed Quote

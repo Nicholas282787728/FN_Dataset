@@ -1,2 +1,0 @@
-What is a Fibonacci Heap?
-There's a wiki page and a nice writeup on Fibonacci Heaps. 

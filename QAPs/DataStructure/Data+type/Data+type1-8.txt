@@ -1,2 +1,0 @@
-Is 'void' a data type?
-Nope. It is a return type for methods . In this case void will return nothing. 115 Views

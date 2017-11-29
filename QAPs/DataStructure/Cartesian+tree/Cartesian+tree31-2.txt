@@ -1,2 +1,0 @@
-Does acceleration cause spacetime curvature?
-Acceleration is a world line curvature, with respect to geometry of enveloping spacetime. 

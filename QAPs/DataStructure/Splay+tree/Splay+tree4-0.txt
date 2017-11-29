@@ -1,2 +1,0 @@
-When should we use splay trees vs. red black trees for programming competitions?
-Coding a red black takes time and is complex to code. I would suggest you to use Splay since it is easy and takes less time and anyway they have same time complexity. 

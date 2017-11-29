@@ -1,2 +1,0 @@
-What is a loop in graph theory?
-An edge connecting a vertex to itself is called a loop. In the graph below, the loop is the edge that connects vertex 1 to itself. More info: Loop (graph theory) 

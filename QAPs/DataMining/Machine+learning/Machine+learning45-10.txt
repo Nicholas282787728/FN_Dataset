@@ -1,2 +1,0 @@
-★What are some good learning projects to teach oneself about machine learning?This is a follow-up question to How do I learn machine learning?.
-kaggle is always the best source for newbies to start working with beginner ML projects. If you want dig deeper into the roots of Machine Learning try "Machine Learning in Action" or "Programming Collective Intelligence"    Embed Quote

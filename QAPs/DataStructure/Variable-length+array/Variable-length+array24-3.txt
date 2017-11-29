@@ -1,2 +1,0 @@
-How can I prove to my friend who says that pointers on C++ is a useless topic that he is wrong?
-Ask him if you can visit his home, he will agree. Tell him to bring his home to your place. He will ask you if you are drunk. Then ask him his address, he will give you. Now you can visit his home. Giving address to your friends is easier than copying your home everywhere. That's what pointers do. Updated 77w ago • View Upvotes

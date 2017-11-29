@@ -1,1 +1,0 @@
-How does one decide when to use a Segment Tree or Fenwick Tree?

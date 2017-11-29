@@ -1,2 +1,0 @@
-How do you deal with large data sets in Excel?
-I use Access for large datasets. Can't really rely on Vlookups to deal with thousand of rows. Not if you're short on time anyway.    Embed Quote 

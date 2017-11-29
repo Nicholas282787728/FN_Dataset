@@ -1,2 +1,0 @@
-★Which plugins should I use to build an Intranet in WordPress?
-If you're using Microsoft Active Directory, you might want to check out the Active Directory Integration plugin. Allows users to login with their AD credentials, so they don't have to learn/remember another set of passwords.

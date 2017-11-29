@@ -1,1 +1,0 @@
-To check the linked list is circular what will be the loop condition? I know further process like taking two pointers. Please suggest me.Nice and detailed explanation with program, How to detect loop in linked list, How to identify start node of loop in linked list and remove loop in linked list. Detect loop, Identify start node of loop and remove loop in linked list. 141 Views

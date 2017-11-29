@@ -1,1 +1,0 @@
-Apart from the representation of triangular matrices, triangular arrays are used in several algorithms. One example is the CKY parsing algorithm for context-free grammars, an example of dynamic programming.

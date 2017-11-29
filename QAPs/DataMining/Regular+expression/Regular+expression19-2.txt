@@ -1,2 +1,0 @@
-★How would you make a regular expression match everything but a certain string?
-Do you really need a regex for that? Why not go for a simple strcmp with '!' operator?    Embed Quote

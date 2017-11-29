@@ -1,2 +1,0 @@
-How do I find out the factorial of a big number, like 100, in C?It will be more helpful if you kindly discuss the details of the algorithm to be used in this programming?
-Factorial of a large number - GeeksforGeeks 

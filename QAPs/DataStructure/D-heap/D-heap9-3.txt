@@ -1,2 +1,0 @@
-Data Structures: What is a list of data structures that a competitive programmer must know?
-Please have a look at this awesome list of data structures and algorithms compiled by an amazing community of competitive programmers. Data Structures and Algorithms Happy Coding !! 

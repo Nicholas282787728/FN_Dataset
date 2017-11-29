@@ -1,2 +1,0 @@
-What are the advantages of data types?
-Consistent result. Data validation. Compact storage. Performance. 124 Views

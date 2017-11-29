@@ -1,2 +1,0 @@
-Simple Trie vs Ternary Search Trie vs Radix Tree (Patricia Trie) vs Hash Tables (with chaining done with 2 3 trees)? Frequently asked in
-If some of the strings in these documents have common prefixes. The Radix Tree may be better. Otherwise, Ternary Search Trie wins. 

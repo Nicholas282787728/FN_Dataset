@@ -1,2 +1,0 @@
-★Does TCP use virtual circuit switching ?why it is the meaning in Todd lammle ccna r and s guide that tcp sets up a virtual circuit? what is the meaning ? is it actual virtual circuit switching or datagram approach
-IP is a packet switched network. TCP sets up virtual circuits between endpoints.  Once a session is established, you can drop data into one side and know that it will emerge on the other side intact. UDP does the same thing without error checking.

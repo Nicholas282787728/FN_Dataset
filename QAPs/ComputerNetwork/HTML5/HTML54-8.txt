@@ -1,2 +1,0 @@
-★Does Facebook regret its HTML5 mobile strategy?Seem like it's moving more toward native apps these days.
-HTML5 is a great technology and have promise for the future, but at the moment it is very hard to get as good an experience as a native mobile application. The basic things like touch, layout and 3D still needs work before it can compete with native Android and iPhone mobile applications.

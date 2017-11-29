@@ -1,2 +1,0 @@
-★Which are the frequently asked interview questions for Java Engineers ?
-Integer a = 100; Integer b= 100; if(a==b)     System.out.println("foo"); else     System.out.println("bar");

@@ -1,2 +1,0 @@
-What are the best applications for Tries (the data structure)?
-Tries are most suited for Autocompletion tasks Check out: Efficient auto-complete with a ternary search tree 

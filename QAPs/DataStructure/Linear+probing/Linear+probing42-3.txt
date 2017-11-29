@@ -1,2 +1,0 @@
-Is there any importance for scientific computing in electrical engineering?
-Sorry I really don't get the point of the question. If you are talking about importance of Matlab in computing, then yes, everyone uses matlab. It's extremely powerful, quite easy to use, extremely well documented. If you think of anything (seriously anything!) that requires computation, then there is probably a Matlab command for that. 

@@ -1,2 +1,0 @@
-In Oracle database, while creating a table keeping the columns those are having varchar2, as the end columns, in anyway will it increase the performance or reduce the memory size of the table?
-I'm going to give you an unfair answer: you should test this out yourself rather than asking. It is a good habit to make -- even if you get an answer from someone it could be only correct for their situation. You can down vote this if you like, but that is my recommendation. 

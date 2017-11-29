@@ -1,2 +1,0 @@
-Is it possible to run multiple if conditions using a for loop?
-Yes, you can. Your question makes sense for the following scenario, I hope: for (i =1;i<10;i++)     if (i%2==0)        print "even number"    else        print "odd number"    if (i%3==0)        print "multiple of 3" Updated 41w ago • View Upvotes

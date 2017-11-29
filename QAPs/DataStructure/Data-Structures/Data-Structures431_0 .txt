@@ -1,1 +1,0 @@
-What are some good MOOCs on data structures/algorithms that'll get a CS graduate hired?There are two good courses on Algorithms on coursera. One is by Princeton(link below) and other from Stanford (google it) I didn’t tried but many people suggested this to me when I asked the same question. Algorithms, Part I - Princeton University | Coursera 323 Views · View Upvotes

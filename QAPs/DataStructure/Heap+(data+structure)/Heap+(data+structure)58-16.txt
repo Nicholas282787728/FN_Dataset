@@ -1,2 +1,0 @@
-What basic data structures and algorithms should one learn before starting competitive programming?
-Try to learn the following Data Structures Linked List: Stack: Using Arrays Using LL Queue:... (more)

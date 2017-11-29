@@ -1,2 +1,0 @@
-Graph Theory: What algorithm we use to find degree of separation between two people?
-Yes BFS is the suitable solution for this, but an efficient solution is bidirectional BFS , start a BFS from both nodes simultaneously and return if we meet in middle somwhare. 

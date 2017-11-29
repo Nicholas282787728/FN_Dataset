@@ -1,2 +1,0 @@
-★What features are mandatory in a DSL?What features are required in a minimal Domain Specific Language, which does not have to be Turing complete?
-The answer varies from case to case. It is, as it were, domain specific.

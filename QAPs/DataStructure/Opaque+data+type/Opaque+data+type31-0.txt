@@ -1,2 +1,0 @@
-What are the worst code smells you have ever encountered as a developer?
-A dozen constants named something like FOO0, FOO1, FOO2, ... FOO11. A loop i = 0 to 11 that uses reflection to look up the static field by name: "FOO" + i. Oy. What's wrong with an array? 

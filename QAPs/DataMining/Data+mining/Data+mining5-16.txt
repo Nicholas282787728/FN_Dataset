@@ -1,2 +1,0 @@
-What are the best startups in the field of analytics / data mining / databases?
-Check out CoolaData. They are a behavioral analytics startup and Google Cloud Platform partner which means all their widgets can be embedded into whatever service you're using. They just went out of beta and are doing some pretty cool things over there. Actionable Big Data Analytics as a Service in the Cloud | CoolaData    Embed Quote 

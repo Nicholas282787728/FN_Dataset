@@ -1,2 +1,0 @@
-★How do I find the mean of the reciprocal of the normal distribution?i.e. of 1/NormalDistribution[[Mu], [Sigma]]
-It does not exist, as it has been explained by others. You might nevertheless be interested by the fact that the quotient of two independent normal distributions is a Cauchy distribution. I remember being quite amazed by this result the first time I worked that out.    Embed Quote

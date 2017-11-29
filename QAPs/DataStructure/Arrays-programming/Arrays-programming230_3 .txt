@@ -1,1 +1,0 @@
-Why numeric arrays don't end with a null like strings?First thing that pops out of my head is because there is no printable format for int arrays like there is for strings, %s. Int arrays are meant to be flexible, for good or bad, and unlike string arrays, extensively used. Speaking for C/C++ strictly! 50 Views

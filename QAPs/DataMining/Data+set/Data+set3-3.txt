@@ -1,2 +1,0 @@
-How can I crunch big data sets with my laptop?
-1GB of CSV is nothing. Convert it to binary representation to store in memory in a compact form and here you go. I have heard Clojure would be great afterwards, but have not used it yet. I did, however, crunch a lot of data on my laptop using plain C++ in the past several years. Good luck!    Embed Quote 

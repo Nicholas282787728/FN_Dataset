@@ -1,1 +1,0 @@
-Can all mathematical functions be fully replicated using a sequence of '+', '-' , 'x', '/' operators (as can y to the power x)?

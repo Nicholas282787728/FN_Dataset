@@ -1,2 +1,0 @@
-How can one be well prepared to answer data structure/algorithm questions in interviews?
-Here was the list I used: LinkedList Stack Queue Priority Queue Graph Heap Depth-First Search Breadth-First Search Dijkstra's algorithm Floyd-Warshall Traveling Salesman Bubble Sort Quick Sort in-place Insertion Sort Heap Sort Bucket Sort Radix Sort Binary Search Binary Search Tree AVL Tree Red-Black Tree From: Algorithms to Implement Data Structures to Implement Updated 22w ago • View Upvotes • Not for Reproduction

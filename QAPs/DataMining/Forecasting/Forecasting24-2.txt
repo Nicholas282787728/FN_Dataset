@@ -1,2 +1,0 @@
-★What are some best practices for inventory forecasting?
-Generally speaking it's a complex process with the main aim of identifying at what alert levels and how much of a product to order. Unless you're in the business of providing those answers (and if you're asking presumably you're not) I'd suggest buying the service from a third party which has the how-to. These days it's relatively easy to do that - for example we've integrated our online ERP company http://megaventory.com - with one such vendor http://lokad.com and it's a one-click business now.    Embed Quote

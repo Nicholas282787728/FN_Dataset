@@ -1,2 +1,0 @@
-★How do I find the standard deviation of a combined data set?If the know the means, standard deviations and sample sizes of the individual data sets. Also the data sets (which need to be combined) are mutually exclusive.
-Use the law of total variance with as the number of the individual data set.    Embed Quote

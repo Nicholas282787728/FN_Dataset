@@ -1,2 +1,0 @@
-How are students in Indian colleges taught programming?
-1st Class Scene Teacher - Why do we use languages? Why do we not use languages? What languages do you use? What makes you use them? Now tell me the difference between Natural languages and Programming languages? Students -  !@#$%^&*Blah blu bleh bleh blah !@#$%^&* 2nd Class Scene Teacher - *Writes the heading on the board in Capitals* "PROGRAMMING IN C" History of C blah, Characteristics of C blah, OkaynowtellmewhatdoyouknowaboutC blah.  ... (more)

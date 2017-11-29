@@ -1,1 +1,0 @@
-How do I search for a strings in an array Address book for C++?By an array Address Book of strings are you implying it is a simple array like: string addressBook[10]; If that's the case it's pretty simple, for (int i = 0; i < 10; i++) {  if (addressBook[i] ==stringToSearch)  {  //do stuff  } } 85 Views

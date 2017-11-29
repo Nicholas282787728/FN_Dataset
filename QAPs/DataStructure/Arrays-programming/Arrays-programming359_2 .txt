@@ -1,1 +1,0 @@
-How do I find the subset of an array in c?Best Way is to Bitmasking every subset of the set. suppose the number of elements in a set is N , then you traverse i = 0 ; i <(1<<N) ; i++ 61 Views  View Upvotes

@@ -1,2 +1,0 @@
-Are there any hashing algorithms that are mathematically proven to produce unique, collision-free hashes?
-The only way to have a hashing function that has no collisions is to either have the hash result space be just as large as the input space, so you're effectively doing an array lookup anyway, or if you know all of the keys that will need to be hashed. If you do know all of the keys to be hashed, then you can compute a perfect hashing function, as Dean Inada already alluded to. In my pragmatic view, this is somewhat less than helpful. 

@@ -1,1 +1,0 @@
-For a simple hash function h(k) = k mod M, why should M be a prime number?

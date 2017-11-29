@@ -1,2 +1,0 @@
-★What are the best practices in knowledge management for IT Service management (ITSM)?
-Question a bit vague, but note that ITIL and ISO are 2 examples of "best practice" frameworks which are used within the area of ITSM.    Embed Quote

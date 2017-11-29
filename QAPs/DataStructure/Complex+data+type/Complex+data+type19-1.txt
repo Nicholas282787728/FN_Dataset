@@ -1,2 +1,0 @@
-What are the most complex data structures used in the Linux kernel?
-The memory management subsystem uses red-black trees fairly heavily to track memory regions (see lib/rbtree.c and include/linux/rbtree.h for the code). B-Trees and radix trees are also used fairly heavily in various places as well. Hash table, obviously, but usually with chaining to resolve collisions, and often of a fixed size, so those aren't too interesting. 

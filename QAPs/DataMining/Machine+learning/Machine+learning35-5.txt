@@ -1,2 +1,0 @@
-★What are the best open source machine learning libraries written in Python?
-mlpy (https://mlpy.fbk.eu/) and PyBrain (http://pybrain.org/) are very active and good libraries.    Embed Quote

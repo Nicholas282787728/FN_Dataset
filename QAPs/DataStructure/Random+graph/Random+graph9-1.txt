@@ -1,2 +1,0 @@
-What are exponential random graph models, and what are their applications in studying complex networks?
-Here is a good survey to begin with: [0912.5410] A survey of statistical network models 

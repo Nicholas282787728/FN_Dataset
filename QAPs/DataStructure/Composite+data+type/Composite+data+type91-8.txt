@@ -1,2 +1,0 @@
-What are the frequently asked basic and complex queries ( SQL) during a tech interview?
-Explain the difference between inner and outer joins. Where would you use a WHERE clause. Explain UNION. 

@@ -1,2 +1,0 @@
-★Assuming that the training set is a decent representation of the real population, does collinearity in the features pose a problem for classification?
-Not if you're happy doing a scalar classification.    Embed Quote

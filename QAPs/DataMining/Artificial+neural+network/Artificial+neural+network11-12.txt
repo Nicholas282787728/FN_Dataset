@@ -1,2 +1,0 @@
-How can I learn about artificial neural networks if I don't know anything about this field?
-You are on right track. Seeking answers. Read about it, study the current systems that have implemented it. I guess MIT has made one such system. You could read papers on it. Do not do it the conventional way i.e. study entire theory. Understand its practical uses. It is a really vast and interesting topic, specially for Theory of Computation, Artificial Intelligence and Data Minning.    Embed Quote 

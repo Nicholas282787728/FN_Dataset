@@ -1,2 +1,0 @@
-★Does NFC include low frequency and high frequency RFID?Ignore the buzzword, is "NFC" on the same frequencies that "RFID" is using today? LF is 125kHz and HF is 13.56 Mhz.
-Some times you could find in UHF frequencies Near Field Antenna and tags, but they are refering to use UHF in a short range communication , some confuse this with NFC    Embed Quote

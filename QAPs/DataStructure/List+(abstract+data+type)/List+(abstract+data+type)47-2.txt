@@ -1,2 +1,0 @@
-Can someone provide side by side comparisons of a few operations done in functional programming vs imperative programming?
-Here's an example in Scala (vs Java): Toby Thain's answer to Why do some people consider Scala more expressive than Java? 

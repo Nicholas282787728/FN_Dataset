@@ -1,2 +1,0 @@
-★What is the best machine learning algorithm?
-stochastic gradient descent its fast.  it can be applied to a wide range of convex and non-convex optimization problems.  It is easy for a beginner to implement.  It can be readily implemented in hardware. It is trivial to parallelize. It can be run in online mode on billions of examples.  It is the basis of many powerful programs like vopawl wabbit and hogwild know it live it love it warning:  it does require tuning    Embed Quote

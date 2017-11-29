@@ -1,2 +1,0 @@
-★What are the hot topics in machine learning in 2014?
-DeepLearning, of course. Application to Advanced Analytics of Big Data Parallelism of existing ML algorithms Scaling ML Algorithms to larger data sets Contextual : Ability to apply  a particular algorithm from a class of algorithms to suit the data Learning : Models that learn as they get more data - need not be on-line; Humanoids - Behavior algorithms Learning from insects, animals : Swarming, flying formation et al and embedding these behaviors in cars et al    Embed Quote

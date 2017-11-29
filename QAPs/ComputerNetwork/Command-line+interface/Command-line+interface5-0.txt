@@ -1,2 +1,0 @@
-★How can I implement autocomplete in a command line interface in Java?I would like to press a tab key in commandline interface to see my application specific options. I am using java
-http://jline.sourceforge.net/

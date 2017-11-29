@@ -1,1 +1,0 @@
-The model-based approach is the most commonly used in statistical inference; the design-based approach is used mainly with survey sampling. With the model-based approach, all the assumptions are effectively encoded in the model.

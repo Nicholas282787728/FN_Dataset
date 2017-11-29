@@ -1,2 +1,0 @@
-★Is there an URL shortener API with no rate limit?
-You could install your own with yourls.org.    Embed Quote

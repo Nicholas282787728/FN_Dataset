@@ -1,2 +1,0 @@
-What is complexity of T(n) = 2T(n/2) + C, using recurrence equations?
-Arguments that determine the work done at each level of the recursion tree and then sum it up are unnecessarily complicated in this case. It's easier to simply look at the big picture. The recursion tree of this recurrence obviously has n leaves and therefore n-1 internal nodes. In each node, we do a constant number of steps of computation. Hence the time complexity is Theta(n). 

@@ -1,2 +1,0 @@
-★What are the differences between Ethernet and IEEE 802.3?
-802.3 is a suite of standards developed under the authority of the IEEE to define the hardware implementation of Ethernet.  This enables the industry to develop and sell compatible equipment.  There are many different standards defined, each having their own letter(s) after "802.3".  These standards define different speeds and other capabilities.  The term "Ethernet" predates the 802.3 standards.

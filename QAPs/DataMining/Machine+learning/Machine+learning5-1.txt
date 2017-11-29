@@ -1,2 +1,0 @@
-★How does Quora use machine learning?
-I beg to differ with the previous answers which claim Quora doesn't use Machine Learning. It definitely does !! As a layman's proof to this statement, check the following video wherein an Engineer explicitly mentions (0:57) the usage of Machine Learning. I probably did no justice in answering the main question but my reply is directed to the people who thought Quora doesn't apply ML techniques.    Embed Quote

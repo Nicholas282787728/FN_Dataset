@@ -1,2 +1,0 @@
-★What is the point of linear algebra?How can I motivate students to study this? Are there any tangible reasons why students should study linear algebra?
-Linear Operators and Vector Spaces are the only way to make mathematical sense out of Quantum Physics.    Embed Quote

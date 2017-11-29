@@ -1,2 +1,0 @@
-How do I learn data analysis for Python?
-Have a look at Python Programming Books listing at importpython . It has a listing of 192 Python books and 53 Free Python Books.  It also has a filtering option where you can see beginners, intermediate, advanced level python books.  You can click on sort books by publication date to see which python books have published recently.    Embed Quote 

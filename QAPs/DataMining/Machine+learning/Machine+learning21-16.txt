@@ -1,2 +1,0 @@
-★How can you learn Mathematics for machine learning?What books, topics, resources are one stop for learning all mathematics necessary to start learning Machine Learning?
-Knowledge of numerical optimization is necessary, both for the engineering and the research    Embed Quote

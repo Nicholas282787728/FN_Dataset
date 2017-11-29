@@ -1,1 +1,0 @@
-Is a linked list a self-referencing pointer?Only Circular Linked List with only one node can be considered as a self-referencing pointer as it points to itself. In General Linked List is a collection of nodes which are referential structure i.e they hvae pointer of its own type. 298 Views  View Upvotes

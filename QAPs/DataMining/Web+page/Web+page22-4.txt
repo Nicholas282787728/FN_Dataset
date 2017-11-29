@@ -1,2 +1,0 @@
-★How can you make a web page using Python?
-There are many Python web frameworks which will help you do that. Like Flask, Django, Tornado etc    Embed Quote

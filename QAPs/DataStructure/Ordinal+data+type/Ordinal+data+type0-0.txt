@@ -1,2 +1,0 @@
-What is the difference between a nominal variable and a ratio variable?
-Short version: Nominal data has names only, and no order.  e.g. type of car you drive. Ordinal data takes an order, but does not have equal intervals: E.g. Likert type scales Interval data has equal intervals but does not have sensible ratios: E.g temperature in degrees C or F Ratio data also has sensible ratios, e.g. weight, height. Long answer: It's complicated, see my blog post:Page on statisticalanalysisconsulting.com 

@@ -1,2 +1,0 @@
-★When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?
-MAC addresses are non-routable. IP adresses are. That's it.    Embed Quote

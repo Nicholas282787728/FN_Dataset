@@ -1,2 +1,0 @@
-How do you check if a substring has the tab character?
-x.indexOf('\t') != -1 will do the trick. Thanks to Cameron Purdy catching the errors of == and "\t" in my first version of the answer. 

@@ -1,2 +1,0 @@
-The direct memory access feature allows other devices in the mother board but CPU to address the main memory. Such devices, therefore, need to have a knowledge of physical addresses too.
-This section requires expansion. (January 2012)

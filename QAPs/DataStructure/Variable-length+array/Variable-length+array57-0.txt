@@ -1,2 +1,0 @@
-Is a pointer to an array really a useless feature of C?
-This feature is used every time an array of 2 or more dimensions is used in any non-trivial way (e.g. passed to a function, iterated over, etc). It's just that the declaration syntax is clumsy and some programmers prefer to avoid explicitly declaring pointers to arrays. 

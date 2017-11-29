@@ -1,2 +1,0 @@
-★Should I setup my home router to use DHCP or static IP?
-If you want to be able to access other devices (server) on your LAN via static IPs then you would use statics.  Usually you have a range reserved for DHCP IPs anyway so you could do both on the same LAN.

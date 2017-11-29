@@ -1,2 +1,0 @@
-What is the most efficient way to count number of cycles in a directed/undirected graph?
-In an undirected graph a simple DFS from any one of the points and when you visit already visited nodes again then they would add to the number of cycles. In directed graphs use Tarjans algorithm of similar to get number of strongly connected components from which you get the number of cycles. 

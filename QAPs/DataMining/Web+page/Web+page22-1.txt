@@ -1,2 +1,0 @@
-★How can you make a web page using Python?
-Django (web framework)    Embed Quote

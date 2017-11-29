@@ -1,2 +1,0 @@
-★What is principal component analysis?in super layman terms.
-see the followings: 1. my answer on Principal Component Analysis: What is the intuitive meaning of a covariance matrix? 2. How to explain PCA in layman's terms? 3. for a very good explanation read shlens' paper: Shlens, Jonathon. "A tutorial on principal component analysis." arXiv preprint arXiv:1404.1100 (2014).    Embed Quote

@@ -1,2 +1,0 @@
-★How do I set up my own proxy server on Windows?
-I have never used Windows as a proxy server. http://www.linquist.net/geek/proxy There are many routers that can easily, and probably more securely do this. I would look to a VPN solution first. The link gives you the full set of instructions.    Embed Quote

@@ -1,2 +1,0 @@
-How can I solve this equation: 2 x =x  ?
-is demonstrated by induction 2^n >=n+1 then if x>=0 we have 2^x>=2^[x]>=[x]+1>x then 2^x>x for any x>=0.For x<0 obvious 2^x>x. 

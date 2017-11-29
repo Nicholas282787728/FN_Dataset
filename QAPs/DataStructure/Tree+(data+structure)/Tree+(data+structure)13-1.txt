@@ -1,2 +1,0 @@
-What are some good free e-books to practice tree data structures?
-Try this : Binary Trees Abstract 

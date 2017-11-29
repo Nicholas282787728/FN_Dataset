@@ -1,2 +1,0 @@
-How do I use Kosaraju's algorithm in a directed graph that has at least one cycle?
-In a directed graph, there is a cycle if any strongly connected component has size > 1. [edit] the question first mentioned undirected graphs. Original answer: Kosaraju's algorithm works in directed graphs. So, it is is not a good fit for the problem. 

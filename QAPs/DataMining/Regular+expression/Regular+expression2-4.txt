@@ -1,2 +1,0 @@
-★What are good examples of regular expressions?
-If you are looking for examples I suggest having a look at Perl's Regexp::Common module on cpan: http://search.cpan.org/dist/Rege... It may not be python but the code should be pretty readable if you already understand PCREs and it provides a set of ready-made regexes for common use cases (credit card numbers, IP addresses, URI etc.)    Embed Quote

@@ -1,9 +1,0 @@
-Illustration of gradient descent
-The Gradient descent is based on the observation that if the multivariable function is defined and differentiable in a neighborhood of a point , then decreases fastest if one goes from in the direction of the negative gradient of at , . It follows that, if and only if
-
-for a small enough number, then . With this observation in mind, one starts with a guess for a local minimum of , and considers the sequence such that
-
-We have
-
-so hopefully the sequence converges to the desired local minimum. Note that the value of the step size is allowed to change at every iteration. With certain assumptions on the function (for example, convex and Lipschitz) and particular choices of (e.g., chosen via a line search that satisfies the Wolfe conditions), convergence to a local minimum can be guaranteed. When the function is convex, all local minima are also global minima, so in this case gradient descent can converge to the global solution.
-This process is illustrated in the picture to the right. Here is assumed to be defined on the plane, and that its graph has a bowl shape. The blue curves are the contour lines, that is, the regions on which the value of is constant. A red arrow originating at a point shows the direction of the negative gradient at that point. Note that the (negative) gradient at a point is orthogonal to the contour line going through that point. We see that gradient descent leads us to the bottom of the bowl, that is, to the point where the value of the function is minimal.

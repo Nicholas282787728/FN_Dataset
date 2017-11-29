@@ -1,2 +1,0 @@
-How do we prove that the Huffman coding algorithm is optimal?
-Huffman coding algorithm was developed by David Huffman as part of his class assignment at MIT. Optimality (only for a particular set of probabilities i.e. for a given model) of this algorithm can be proved by considering following two checks that always hold true while coding using Huffman algorithm: 1.) In an optimum code, symbols that occur more frequently (have a higher probability of occurrence) will have shorter codewords than symbols that occur less frequently. Proof : ... (more)

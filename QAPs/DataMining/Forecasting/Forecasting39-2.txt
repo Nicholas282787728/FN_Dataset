@@ -1,2 +1,0 @@
-★How can you forecast or estimate sales on the app market?Is there some model utilizing publicly available data (such as # of reviews) that can help us model an apps sales numbers?
-Xyologic (http://xyologic.com) has a public database of app sales estimates. The ranking history feature on AppAnnie (http://appannie.com) is helpful as well.    Embed Quote

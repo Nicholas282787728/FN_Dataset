@@ -1,2 +1,0 @@
-★What's the difference between affine and linear functions?
-A function is linear if for all relevant values of , , and . A function is affine if for some linear function and constant .  Note that we allow , which implies that every linear function is an affine function.    Embed Quote

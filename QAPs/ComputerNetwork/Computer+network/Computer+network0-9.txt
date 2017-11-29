@@ -1,2 +1,0 @@
-★Is computer networks a boring area?
-Personally, I find it fascinating. My own view is that far too many networks have been set up / are being managed by people that really don't have sufficient knowledge of the technical aspects; and as a result, there are significant isues with performance.   Ther are lots of areas of inovation; we are seeing a slow migration to IPv6, there is an increase in the use of Fibre connections, switching gear is being improved, as is Wireless technology. A lot of security is predicated upon networks.

@@ -1,2 +1,0 @@
-What is the differences between primitive data types and user defined data types?
-Primitive data types are basically the fundamental data types such as 1,2,3 which may be integer or character or float values. Whereas the non-primitive data types are the user defined data types such as structures, union, etc. The non-primitive data types can be built using primitive data types. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 369 Views

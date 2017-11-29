@@ -1,2 +1,0 @@
-Have there been any new advances in distributed hash tables?
-This is a question a bit too broad. When DHT research was flowering, there were a number of papers that explored all trade-offs between routing table size and point-to-point distances (as well as resilience to missing links and churns). The winner of all these in terms of practical adoption is Kademlia (not Chord, not Pastry). The question for DHT design is mostly closed at this point. ... (more)

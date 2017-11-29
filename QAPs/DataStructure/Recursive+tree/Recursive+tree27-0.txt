@@ -1,2 +1,0 @@
-Could someone explain the recursion solution to the "Nice Binary Tree" problem on SPOJ (SPOJ-NICEBTRE)?
-Think about how you would compute the depth of a binary tree recursively. Then note that this program visits the nodes in pre-order. Hence, by reading a character in each recursive invocation, the type of the current node becomes known, allowing the recursion to continue. I'll add my solution as a comment on this answer. 

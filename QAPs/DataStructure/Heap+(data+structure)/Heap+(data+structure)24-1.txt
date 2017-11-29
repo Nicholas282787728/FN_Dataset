@@ -1,2 +1,0 @@
-Netaji Subhas Institute of Technology: Does the interviewer expect us to implement heaps and other data structures in the interviews?
-Mostly no, I was personally asked a question about its(specifically Heap) usage and was told to assume the insert, delete and heapify functions to be given. But I think one should know the implementation of a datastructure to really understand how it really works. 270 Views

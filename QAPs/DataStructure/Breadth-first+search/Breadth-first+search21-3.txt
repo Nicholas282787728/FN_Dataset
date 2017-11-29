@@ -1,2 +1,0 @@
-I have one month to master depth-first search, breadth-first search and graph theory. What should I do?
-If you already have some experience in graph theory you should practice "Examples and counterexamples in Graph Theory" written by Michael Capobianco and John C. Molluzzo. If you are new to Graph theory then you should read "Introductry Graph Theory" written by Gary Chartrand. Its easy to understand. 

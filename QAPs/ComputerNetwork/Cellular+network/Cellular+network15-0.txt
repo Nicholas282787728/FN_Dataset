@@ -1,2 +1,0 @@
-★Is there an iOS app that gives information about the cellular network?I can find tools that will tell me about wifi signal strength, ping times, current bandwidth and latency, etc. I want this functionality when on cellular data. (i.e. sometimes my phone shows 3G data and good signal strength but nothing gets through - I want to know if e.g. packets are being dropped.) Thanks!
-There is a field test mode that  tells you everything Just use *3001#12345#* As if it were a phone number

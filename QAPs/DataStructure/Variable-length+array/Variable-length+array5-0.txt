@@ -1,2 +1,0 @@
-Why is malloc used in this C code? What is the use of it anyway?
-Like David Brower said, you can use a dynamic array in c99. Also, this code has a Memory leak in that the "x" array isn't freed - a free(x); should be used in main() before its return 0;. If this is a class assignment, it should be docked points because of the memory leak.  In production code, any type of memory leak is a bug. 

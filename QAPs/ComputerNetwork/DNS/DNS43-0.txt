@@ -1,2 +1,0 @@
-★Is there a tool to block ads by DNS / hostfile?There are a bunch of apps to block ads in browser, but a DNS solution would also block ads in apps.  Know of one?
-A hostfile solution would be easy, but be a mostly manual process, and not easily distributed like a browser based solution. Here's a hostname list you can use with a hosts file to block IP lookups of ad network hostnames: Ad server hostnames for blocking ads

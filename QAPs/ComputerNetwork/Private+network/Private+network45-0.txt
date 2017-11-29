@@ -1,2 +1,0 @@
-★Does the NSA accessing data from the private networks of Google without Google's knowledge indicate that private data gathering entities can and are doing the same?
-Yes, both private and non-U.S. intelligence agencies. Be aware, though, that Google has been switching to HTTPS for all of their connections over the past six months. So all of these parties will be hampered from this sniffing in the future.    Embed Quote

@@ -1,2 +1,0 @@
-★I have had my home network hacked twice now. What should I do?I have refromatted all my devices even ipads and iphones, changed ISP's. No help. Afraid he will escalate and go after my bank accounts.
-Home of the pfSense Project Also subnet. I assume your using strong encryption on wifi. It would be helpful to know how you know you have been hacked.

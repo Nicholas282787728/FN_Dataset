@@ -1,2 +1,0 @@
-★Why is it beneficial to center and normalize the data before running Principal Component Analysis on it?
-Because you do PCA on the covariance (or correlation) matrix.  The definition of covariance requires you to subtract the mean from each data point. ETA//   Turns out this answer is completely wrong.  Mean-centering is sometimes necessary and sometimes not.  People do it out of "habit" because the original paper by Pearson states you need to do it in order to ensure your basis is minimizing MSE.  More on this here.  Page on ulb.ac.be    Embed Quote

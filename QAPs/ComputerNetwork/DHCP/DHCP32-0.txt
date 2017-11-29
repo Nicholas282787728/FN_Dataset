@@ -1,2 +1,0 @@
-★Why would DHCP be considered a layer 7 (application layer) protocol when the sole purpose of the DHCP is to manage IP addresses?Shouldn't this protocol be part of Layer 3 (network layer) where packets are assigned source and destination IPs?
-It wouldn't.  DHCP is Layer 3. This is very clear.

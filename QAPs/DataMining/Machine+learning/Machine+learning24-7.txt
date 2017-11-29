@@ -1,2 +1,0 @@
-★What are some really interesting machine learning projects for beginners?Preferably written using python. Any other languages is welcomed though :) Please do mention if you are using third party library or any reference regarding the project etc
-I think it would be interesting to try an implement convex NMF Advances in Convex NMF:  Linear Programming i am also very interested in developing ML algos in LUA ; if anyone is interested please reach out    Embed Quote

@@ -1,1 +1,0 @@
-How do I plot xy+x=2 on graph paper?Is it a hyperbola?xy + x = 2 Thus, x(y + 1 ) = 2, i.e. y = 2/x - 1 Now you can form a table like when x = 2, y = 0; x = 1, y = 1, x = -1, y = -3 and so on. The graph will be like the following 8 Views  Answer requested by Shivam Saboo

@@ -1,2 +1,0 @@
-★What are some good books for self-studying graph theory?
-Diestel is excellent and has a free version available online. It is not the easiest book around, but it runs deep and has a nice unifying theme of studying how various graph invariants influence each other. http://diestel-graph-theory.com/... Chartrand's book is possibly friendlier. I'm not familiar with it so can't offer a direct recommendation but people seem to like it.    Embed Quote

@@ -1,1 +1,0 @@
-I want my iterator (inner class) to access the graph class (outer class) adjacency matrix. Is it better to declare the iterator as a friend class or is it better to pass a reference to the outer class object to the inner class?I am trying to provide an iterator to the graph data structure in C++.

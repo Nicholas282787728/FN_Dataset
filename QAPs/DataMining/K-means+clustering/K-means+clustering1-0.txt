@@ -1,2 +1,0 @@
-★Why in categorical data , k-means clustering is weak?
-As the name implies, the k-means algorithms operates by updating k means, or centroids, of clusters. It's obvious what the mean of some numbers or real-valued vectors is. Categorical data is like "banana" / "apple" / "orange", and there's no such thing as the average of "banana" and "apple". If that's one of your vector dimensions, there's no such thing as their mean. Instead you need to operate on medoids, kind of like medians, instead of centroids/means. You can still cluster.    Embed Quote

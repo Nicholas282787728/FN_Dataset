@@ -1,2 +1,0 @@
-★How does FTP protocol work over the internet?I want to know how does FTP protocol work while transferring the files over internet.
-FTP makes use of two TCP connections. In the first TCP connection, client requests TCP connection on port 21. It is referred as control connections. It asks the server to send files, list files, delete files etc. In the second TCP connection on port 20, it will process the command initiated on the first TCP connection i.e the requested file will be sent etc.

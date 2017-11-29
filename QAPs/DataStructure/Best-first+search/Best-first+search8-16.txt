@@ -1,2 +1,0 @@
-What are the 10 algorithms one must know in order to solve most algorithm problems?
-I found this article and i believe it is a must read for every programmers by Kaushik MV - How do I Learn to Code ? The top 10 are - Dynamic Programming Divide and Conquer Stack and Queue Floyd or Warshall's algorithm Kruskal's or Prim's algorithm... (more)

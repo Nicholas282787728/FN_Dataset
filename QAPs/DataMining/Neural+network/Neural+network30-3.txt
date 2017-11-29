@@ -1,2 +1,0 @@
-★What NLP problems has deep learning or neural networks been applied to successfully?I know there has been significant work in language modeling. I have also seen some unified approaches (paper). I am more interested in things like entity, relationship extraction.
-For relation extraction, there is a paper published in EMNLP-2013 which integrated word embeddings with knowledge bases: ([1307.7973] Connecting Language and Knowledge Bases with Embedding Models for Relation Extraction)    Embed Quote

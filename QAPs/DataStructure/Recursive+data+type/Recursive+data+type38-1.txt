@@ -1,2 +1,0 @@
-Are there any minimal functional programming languages?
-Scheme. Lisps are in general very minimal, and Scheme intentionally so. You get not only functional programming, but all the other nice Lispy ideas, which expand your thinking greatly without introducing more fundamental concepts than absolutely necessary. 

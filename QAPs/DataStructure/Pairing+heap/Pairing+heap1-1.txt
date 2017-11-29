@@ -1,2 +1,0 @@
-What is the threshold of queue size at which a Fibonacci Heap becomes a good priority queue?
-My impression is that Pairing heaps are often used in situations with way more decrease-keys than deletes. They have slightly worse asymptotic behavior, but makes up for it with simplicity ([math]\log\log{n}[/math] is basically 6, [math]\exp{\sqrt{\log\log n}}[/math]... use your imagination I guess). 

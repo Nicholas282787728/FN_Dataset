@@ -1,2 +1,0 @@
-How can something finite contain something infinite?
-The interval between 0 and 1 can have infinite number of sub intervals based on what you take as the step function. If your step function has an infinite decimal length, it'll take you infinite steps to reach one. eg. 0,0.000000000001,0.000000000002,.................. 1. Its all a matter of perspective. This can also be represented on a graph : Where there are infinite number of rectangles between two finite numbers. 

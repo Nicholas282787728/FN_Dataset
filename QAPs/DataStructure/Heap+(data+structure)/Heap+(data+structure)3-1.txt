@@ -1,2 +1,0 @@
-Why is a heap data structure used to implement dynamic memory management?
-You might want to investigate Splay trees. They have the interesting property of fast access to elements that are accessed more frequently than others. This makes them amenable to usage in caching and garbage collection strategies where you need to "recycle" less frequently used items. I found this article to be useful: http://www.drdobbs.com/184402007 1.1k Views · 2 Upvotes

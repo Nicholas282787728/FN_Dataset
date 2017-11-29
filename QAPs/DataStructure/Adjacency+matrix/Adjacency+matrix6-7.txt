@@ -1,2 +1,0 @@
-What is the best easy learning software just to visualize adjacency matrix directed weighted graph?
-Python provides matplotlib that is proficient on generating graphs. Buy a book of data analysis, it will teach you. Of course, Matlab also draw graphs based on matrix. 

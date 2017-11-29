@@ -1,2 +1,0 @@
-★How can I send my installed apps to my friend via Wi-Fi? My phone is Android.
-If you want to send only the apk files then use Bluetooth App Sender. If you want to send the whole app along with the data then use Software Data Cable.

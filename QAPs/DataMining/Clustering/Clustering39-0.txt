@@ -1,2 +1,0 @@
-When does redis cluster version release?
-Redis Cluster has been delayed to Redis 3.0 since Redis Scripting was at least as useful and easier to implement: http://antirez.com/post/short-te... There is currently no official time frame for the release of Redis 3.0. EDIT: in September 2013, Antirez said before end of 2013. EDIT: Redis Cluster was released! See Mason Hale's answer.    Embed Quote Updated 17 Oct, 2014. 3,360 views.

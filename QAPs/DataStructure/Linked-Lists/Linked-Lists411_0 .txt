@@ -1,1 +1,0 @@
-Which type of linked list will take more memory and computing time?singly liked list will take more memory and more computing time , because you are able to move only in one direction (i.e in forward direction) there is no scope of moving backward in singly linked list 50 Views  View Upvotes

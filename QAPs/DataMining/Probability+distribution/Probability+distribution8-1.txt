@@ -1,2 +1,0 @@
-★What is an intuitive explanation of a probability distribution?
-A Histogram is intuitive because it's closely related to a relative Frequency distribution. There is a fundamental link between the areas of the bars of a histogram and the Probability distribution of a discrete random variable. In the histogram for a random variable, the area of each bar is proportional to the probability represented by the bar. Image from Page on Wikimedia    Embed Quote

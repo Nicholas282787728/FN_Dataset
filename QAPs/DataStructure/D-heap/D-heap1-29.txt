@@ -1,2 +1,0 @@
-What books are a good introduction to game theory?
-The original "Theory of Games and Economic Behavior" by von Neumann and Morgenstern remains a good read. Amazon has a recent "commemorative version"; don't know how it compares to the original. 

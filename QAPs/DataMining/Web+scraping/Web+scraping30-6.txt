@@ -1,2 +1,0 @@
-★What are the easiest and best web scraping tool for non-technical people?I want to collect data from a few sites and have it dumped into Excel in a semi-organized way. What tools exists for me to do this easily?
-Check out Visual Web Ripper.  There are a number of products that work similarly.  If you want to scrape a few sites, they are more than adequate.  If you want to scrape many sites, off the shelf tools arent going to work (b/c sites change too frequently).  You are going to have to code something up to deal with the constant changes.    Embed Quote

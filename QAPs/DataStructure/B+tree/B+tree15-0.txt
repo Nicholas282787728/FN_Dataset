@@ -1,2 +1,0 @@
-When would you use a B-tree over a Hashtable/Trie?
-From a database perspective, an advantage of B-tree indexes is that they can support range queries (inequalities), and they can also produce ordered results. A hash index supports equality conditions only and is not ordered. 432 Views · 10 Upvotes

@@ -1,2 +1,0 @@
-What are some must-have software for programmers using Linux?
-Zim, a desktop wiki, to record and manage your all knowledge (that is what I am doing exactly) NOTE: You'd better get used to making notes and writing in marked-up language like Markdown or sth else. It makes you much more effective than you do before. (Zim support wiki-like marked-up language style) BTW, Zim is also available in windows. :-D Zim - a desktop wiki 

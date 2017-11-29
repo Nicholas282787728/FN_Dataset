@@ -1,2 +1,0 @@
-★How do I access the FTP on my WordPress site?
-Can you clarify, please? Do you mean how to use ftp?

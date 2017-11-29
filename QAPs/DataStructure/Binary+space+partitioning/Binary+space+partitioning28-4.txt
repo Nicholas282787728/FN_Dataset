@@ -1,1 +1,0 @@
-When swapping is disabled does the kernel do demand paging?Lets say I have a big binary, does disabling swapping force the kernel to bring in the whole binary to memory or paging is still done ? If paging is done, won't it have the same bad effects of swapping and result in unpredictable latency ?

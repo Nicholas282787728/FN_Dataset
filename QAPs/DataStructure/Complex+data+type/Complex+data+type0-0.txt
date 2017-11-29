@@ -1,2 +1,0 @@
-What is a complex data type?
-In some languages complex data type is provided to store complex numbers while in some other languages complex data type (in contrast to pre existing data types) are composite datatypes that are made with the help of those pre existing data types. 

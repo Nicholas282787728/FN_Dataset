@@ -1,2 +1,0 @@
-Is there any way to choose a random node from a tree without searching all nodes in the tree?
-I believe you will need to traverse the tree to achieve uniform random selection. An intuitive way to think about it is by asking what information we need to select an element uniform randomly. The mathematical formula 1/n suggest we need to know the number of elements. Therefore we will need to traverse the tree if we have no information in the beginning. My favourite algorithm for uniform random selection while traversing goes by the name of reservoir sampling. 

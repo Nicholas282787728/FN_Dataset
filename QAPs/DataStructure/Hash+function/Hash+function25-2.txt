@@ -1,1 +1,0 @@
-Is Ethernet CRC the best "default" hash function to use?Or is modulo a product of larger primes a better default?  By "best" I mean good randomness / low collisions, without concern for cryptographic issues.

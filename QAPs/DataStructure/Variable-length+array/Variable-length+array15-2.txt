@@ -1,2 +1,0 @@
-How do I create an array in C which keeps increasing in size as and when needed?
-by any chance is this a classroom challenge? or a work limitation? it sounds a bit harsh for a work limitation. As a permanent allocation of memory you must use malloc to "keep expanding it", this is how vectors work internally. however... as a local variable.... define it, use it, be done with it.... I hate to give it all away if it is a classroom challenge, that's the idea is to make you think outside the box. 

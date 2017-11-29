@@ -1,2 +1,0 @@
-What is the best way to explain the bias-variance trade-off in layman’s terms ?
-This picture should be a great way to explain bias-variance to a 5-year-old. For the group of smart people with a basic understanding of modeling, statistics, and ML, let's take a slightly deeper look: Beyond intrinsic uncertainty/noise in the data, any learning algorithm has error that comes from two sources:... (more)

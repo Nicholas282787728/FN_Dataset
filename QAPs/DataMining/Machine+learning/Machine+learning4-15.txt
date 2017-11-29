@@ -1,2 +1,0 @@
-★How does one start writing practical machine learning programs?
-1. Contact a big (revenue>$1 billion), # of customers >10 million company 2. Ask them for some data & an interesting marketing problem they are trying to solve 3. Get some data from twitter & facebook 4. Create algorithms 5. Ask the company in #1 to give your solution a try 6. Analyze results repeat #1-6 this way you avoid useless, pseudo-intellectual academic problems    Embed Quote

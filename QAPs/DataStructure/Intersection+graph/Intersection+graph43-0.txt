@@ -1,2 +1,0 @@
-If you put 5 points on a plane, is it possible to connect each pair with a continuous curve without any two curves intersecting?If so, provide an example.  If not, provide proof. I believe it's not possible, but I have no clue how to prove it.
-No. If you could, then Euler’s formula v−e+f=2  with v=5  vertices and e=(52)=10  edges would give f=7  faces. But these 7  faces have at least 21  sides, which is impossible since each edge is a side of only two faces. Updated 24 Mar • View Upvotes

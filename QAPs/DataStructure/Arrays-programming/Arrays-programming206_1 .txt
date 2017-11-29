@@ -1,1 +1,0 @@
-How do I put an integer array inside another array in C?You can't do this. If you are used to higher level languages like python you will find that C data structures are far less flexible. If you want to do things like this you will need to create more sophisticated data structures using pointers and structs etc... 197 Views  View Upvotes

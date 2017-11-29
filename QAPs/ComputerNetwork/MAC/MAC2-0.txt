@@ -1,3 +1,0 @@
-What is the refresh rate of MAC table in switch, bridge in computer network?It¡¯s 300 Seconds, and by default it flushes after 5 Minutes, and it¡¯s not known an Refresh Rate it called as Global Aging Time . Well it¡¯s for Cisco Switches
-
-And for Juniper , It varies from 10 to 10,000,000 Seconds.

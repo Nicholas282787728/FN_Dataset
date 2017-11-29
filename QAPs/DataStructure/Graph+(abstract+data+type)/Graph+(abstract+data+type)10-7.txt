@@ -1,2 +1,0 @@
-Which book(s) and other resources would you recommend for a beginner to understand Data Structures in C++?Books which preferably are well written and provide good examples/problems to work on and understand concepts clearly?
-Originally Answered: Which is the best book for Data Structures and Algorithms for C++?Tenenbaum. Data Structures Using C: Aaron M. Tenenbaum: 9780131997462: Amazon.com: Books It teaches you the mathematical aspects of Data Structures. For Algorithms, nothing better than Cormen. Introduction to Algorithms 

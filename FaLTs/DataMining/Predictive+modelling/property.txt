@@ -1,5 +1,0 @@
-In many cases the model is chosen on the basis of detection theory to try to guess the probability of an outcome given a set amount of input data, for example given an email determining how likely that it is spam.
-
-Models can use one or more classifiers in trying to determine the probability of a set of data belonging to another set, say spam or 'ham'.
-
-Depending on definitional boundaries, predictive modelling is synonymous with, or largely overlapping with, the field of machine learning, as it is more commonly referred to in academic or research and development contexts. When deployed commercially, predictive modelling is often referred to as predictive analytics.

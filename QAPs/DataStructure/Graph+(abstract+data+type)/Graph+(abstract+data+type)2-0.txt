@@ -1,2 +1,0 @@
-Why is there no built-in graph implementation in the Java SDK?Most common data structures are implemented : List, LinkedList, Tree, Map, etc. Why not for Graphs?
-In order to process a Graph, it should be represented in one of the predefined ways like Adjacency List, Adjacency Matrix. With Linked Lists and Array we can achieve this easily. So there is no need to implement extra data structure for Graph. For more information on Graph Representation Graph (abstract data type) 

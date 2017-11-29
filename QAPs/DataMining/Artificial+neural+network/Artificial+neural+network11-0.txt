@@ -1,2 +1,0 @@
-How can I learn about artificial neural networks if I don't know anything about this field?
-There is a Coursera course dedicated to artificial neural networks by the man who largely invented them, Geoffrey Hinton, first of his name. They are covered in the famous Andrew Ng Machine Learning Coursera course too which is the standard way for people to start in the field it seems.    Embed Quote 

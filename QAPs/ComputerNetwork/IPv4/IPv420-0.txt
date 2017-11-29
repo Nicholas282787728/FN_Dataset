@@ -1,2 +1,0 @@
-★What problems are expected to arise if we shift from IPv4 to IPv6  completely ?
-There's potential for economic problems - including price pressure - during the transition. For some time networks are going to need both IPv4 and IPv6 transit arrangements. If there's a time for the big providers to break old business practices and try new, more exclusive ones, including things that break network neutrality, it's during the transition, beucase it has a chance to be hidden in the mess that will inevitably come at some point (and for some time).

@@ -1,2 +1,0 @@
-★What is the best open source software to use for building predictive models?Any advice on techniques to train the model?  Segment the data?
-I really like Weka, but I was looking for something written in Python for various reasons, so I found Orange, http://orange.biolab.si/ I played with it a little and compared it with Weka for some data sets. It also looks pretty good.    Embed Quote

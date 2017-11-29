@@ -1,2 +1,0 @@
-★How do I find out ISP from an IP address?
-There are a million ways to find the AS to IP address mapping, which Leo Vegoda mentions. But you should know that being inside the same ASN does _not_ mean you are topologically close. There are ASNs that span countries, continents, even the planet. Being on the same ASN doesn't help much if you are in Tokyo and your target is in Frankfurt, and the path between crosses the US. This is one of the reasons a simplistic BGP Anycast model can suck.

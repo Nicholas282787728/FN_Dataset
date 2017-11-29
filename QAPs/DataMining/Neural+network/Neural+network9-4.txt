@@ -1,2 +1,0 @@
-★What is the best book for learning neural networks?
-This is not exactly a neural networks book, but it provides a very good introduction to neural networks. CS231n Convolutional Neural Networks for Visual Recognition Modules 0 and 1.    Embed Quote

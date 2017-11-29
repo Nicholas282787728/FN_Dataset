@@ -1,2 +1,0 @@
-★What are the benefits of using an ethernet cable over a wifi router?
-The main benefits are constant bit rate, regardless of your distance from your router, and no interference.  The interference problem is more noticeable when you stream a/v content.

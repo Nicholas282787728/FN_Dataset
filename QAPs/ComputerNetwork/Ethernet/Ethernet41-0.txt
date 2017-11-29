@@ -1,2 +1,0 @@
-★How can I check Ethernet connection speed on Linux?
-Using the ifconfig command. It will list information about all network interfaces. In ubuntu the tile that says txqueuelen: is the speed. So txqueuelen:1000 would be 1gbs and txqueuelen:100 would be 100mbs.

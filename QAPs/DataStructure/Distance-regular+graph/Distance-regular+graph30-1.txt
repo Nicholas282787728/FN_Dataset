@@ -1,2 +1,0 @@
-How is isotonic regression used in practice for calibration in machine learning?
-Assume the given training data set satisfies f(x_i) < f(x_j) fro x_i < x_j. In other words, the data in the given training set is itself monotonically increasing with respect to x. According to the weighted least squares formulation of the problem, I believe isotonic regression does exactly the piecewise constant interpolation, which doesn't help transform the reliability graph into a y=x plot. What's the misconception here ? 

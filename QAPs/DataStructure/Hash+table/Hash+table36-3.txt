@@ -1,2 +1,0 @@
-As of August 2012, what is the current state of the art in distributed hash tables?
-This just in: HyperDex https://twitter.com/kenji_rikita... 486 Views

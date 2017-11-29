@@ -1,2 +1,0 @@
-★Why doesn't Heroku use intelligent routing?I understand they randomly send requests to dynos instead of intelligently routing requests to dynos that have more availability - but I don't understand why they do things that way.
-So they can sell you more dynos?    Embed Quote

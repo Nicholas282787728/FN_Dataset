@@ -1,2 +1,0 @@
-★How is unstructured data like images, PDFs & videos transformed into structured data?For example: In case of face recognition, do we require a statistical model?
-Yes statistical model is required, please check the famous Viola\Jones face detection algorithm. Page on nyu.edu Page on cs.ubc.ca    Embed Quote

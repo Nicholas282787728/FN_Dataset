@@ -1,2 +1,0 @@
-★How do I learn machine learning?
-Mike Jordan and his grad students teach a course at Berkeley called Practical Machine Learning which presents a broad overview of modern statistical machine learning from a practitioner's perspective. Lecture notes and homework assignments from last year are available at http://www.cs.berkeley.edu/~jord... A Google search will also turn up material from past years.    Embed Quote

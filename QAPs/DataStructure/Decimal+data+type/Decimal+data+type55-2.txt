@@ -1,2 +1,0 @@
-How do I declare a data type for an integer with more than 10 digits in C?
-long, long long int will enable you to take such big inputs. Note: long long int does come with spaces in between. 

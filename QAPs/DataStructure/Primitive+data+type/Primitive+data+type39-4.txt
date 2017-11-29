@@ -1,2 +1,0 @@
-What exactly is "print it modulo 10^9 + 7" in competitive programming websites?
-It means what it says, instead of printing actual answer x, print x % (10^9 + 7). Why are we printing modulo value instead of actual answer? Mostly because the actual answer is huge and it will take significant effort to store and process actual value, as we are only interested in validating the solution, not in the actual answer, printing the modulo is more than sufficient for it. 

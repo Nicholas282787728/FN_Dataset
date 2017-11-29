@@ -1,2 +1,0 @@
-What is the application of linked lists in data structures?
-Linked list is a data structure. For example, singly linked list is a data structure with Data part Pointer to next node In operating systems, the linked list is used for implementing the various process queues such as ready queue, waiting queue etc. These queues contain the Process Control Blocks. There are many other uses of linked list. Just Google for them. 

@@ -1,2 +1,0 @@
-★What is a multiplexer?
-In generic form a multiplexer is a device which accepts multiple inputs and gives only one output. You may read more in the Wikipedia Multiplexer.    Embed Quote

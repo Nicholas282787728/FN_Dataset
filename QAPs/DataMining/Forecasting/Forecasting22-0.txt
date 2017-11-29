@@ -1,2 +1,0 @@
-★How does exponential smoothing work in forecasting?Eg. Holt's method, winter's method.
-Exponential smoothing can be done in many ways but the basic idea is that the future is a function of the past, and the more recent past becomes exponentially more important to the future forecast than the more distant past. ARCH or Holt Winters are exmples of exponential smoothing.    Embed Quote

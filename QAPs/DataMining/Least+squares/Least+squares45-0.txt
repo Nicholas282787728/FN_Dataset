@@ -1,2 +1,0 @@
-★Are there any good Java libraries for performing non-linear least square fits?
-There seem to be at least a few out there. odinsbane/least-squares-in-java NonLinearLeastSquares (Parallel Java Library Documentation) NonlinearRegression (JMSL Numerical Library) Some related discussion here: Solving nonlinear equations numerically    Embed Quote

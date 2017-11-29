@@ -1,2 +1,0 @@
-Why is Andreessen Horowitz's URL a16z.com?
-Yup: Chad, Charlie and Adrian are right—it's a computer science insider's joke: I18N (internationalization), L10N (localization), P13N (personalization), V12N (virtualization) are other examples, though I18N and L10N are the only ones that seem to have really caught on. Of course, the kids these days mostly miss the joke as their programming languages handle double-byte characters in their strings from the get-go.  :-) 

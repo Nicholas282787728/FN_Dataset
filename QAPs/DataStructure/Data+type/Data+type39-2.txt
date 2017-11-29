@@ -1,2 +1,0 @@
-What data type should I use for n=10^18?
-Your question is a bit vague. Do you want to store powers of ten with an integer exponent? Or numbers as big as 10^18? In the first case, you need to store just the exponent and most languages will give you int or small int equivalent types you can use :-) in the latter, check the other answers you got. 1.7k Views · 2 Upvotes

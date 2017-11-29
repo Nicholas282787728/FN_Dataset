@@ -1,2 +1,0 @@
-★What tools/framework can I use in order for my system to extract information from an input text and store the extracted information on a database and be retrieved for later processing?
-now i'm going to use java as the programming language of my system, what nlp tool or toolkits you may suggest for me to use? thanks in advance for the response.    Embed Quote

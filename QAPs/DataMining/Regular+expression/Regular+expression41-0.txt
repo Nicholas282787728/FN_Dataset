@@ -1,2 +1,0 @@
-★Do we really need to learn Regular Expressions?
-For quick and very concise solutions to many routine text matching problems, yes.    Embed Quote

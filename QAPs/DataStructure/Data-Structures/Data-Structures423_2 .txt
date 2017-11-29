@@ -1,1 +1,0 @@
-Is array a data type or data structure?In computer science, an array type is a data type that is meant to describe a collection of elements ... Arraytypes are often implemented by array data structures, but sometimes by other means, such as hash tables, linked lists, or search trees. 18 Views  Answer requested by Sanya Kapoor

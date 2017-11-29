@@ -1,2 +1,0 @@
-★When in regression analysis, what does it mean "controlling for X"?
-It just means X is among the predictors; there's presumably another predictor that is more interesting.    Embed Quote

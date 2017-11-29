@@ -1,2 +1,0 @@
-★Which networking model is earlier: TCP/IP or OSI?
-I think the late Mike Padlipsky summed it up best: "If you know what you're doing, three layers is plenty; if you don't, seven won't help"    Embed Quote

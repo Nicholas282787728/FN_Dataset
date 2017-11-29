@@ -1,2 +1,0 @@
-★What is the difference between machine learning and predictive analytics?
-I would look at the predictive analytics as a branch of the machine learning. Machine learning as a whole encompasses a very large variety of problems, such as classification, clusterization,  etc, among them the building of the predictive models which is roughly all  predictive analytic is about. The process of building of the said models could include need of using other machine learning techniques (say classification of input data) so practically differences is rather small.    Embed Quote

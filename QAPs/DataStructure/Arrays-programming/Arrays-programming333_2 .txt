@@ -1,1 +1,0 @@
-Is it possible to implement two stack using array?yes it is possible ! use two end of array to push . stack full condition is if either top is equal to length of array or top is less then one of top of other stack. 39 Views

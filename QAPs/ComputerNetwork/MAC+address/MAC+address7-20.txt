@@ -1,2 +1,0 @@
-★Why is there a MAC address and an IP address?
-MAC addresses and IP addresses operate on different layers of the internet protocol. MAC addresses are used to identify machines within the same broadcast network on layer 2, while IP addresses are used on layer 3 to identify machines throughout different networks. Even if your computer has an IP address, it still needs a MAC address to find other machines on the same network (especially the router/gateway to the rest of the network/internet).    Embed Quote

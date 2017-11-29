@@ -1,2 +1,0 @@
-★What is good way to understand hypothesis testing for this beta 1 in least squares regression?I just cannot understand when we do hypothesis testing on beta 1 in the slide, why it assume beta 1 has normal distribution for variance is like this?(the mean is typo in the slide)
-It is known that if you sum sufficient (more or less independent) variables, that  that sum follows a normal distribution (asymptotically). Probably, this is an exercise on that?    Embed Quote

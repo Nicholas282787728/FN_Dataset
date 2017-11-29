@@ -1,2 +1,0 @@
-★Support Vector Machines: How does going to higher dimension help data get linearly separable which was non linearly separable in actual dimension?
-Please allow me an analogy.  Let data set A and data set B intermingle in two dimensions. We also assume that A and B have no elements in common.  Now  build two storeys over the plane where they are. Raise all of the points in A to the second floor and all of the points in B to the third floor. They are now linearly separable.    Embed Quote

@@ -1,2 +1,0 @@
-What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
-Skiplists. The first data structure I learned about that used randomness as an inherent part of the actual structure. 

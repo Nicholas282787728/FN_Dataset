@@ -1,2 +1,0 @@
-★When will 10 gigabit Ethernet overtake 1 gigabit Ethernet in deployment?
-With 40/100G Ethernet getting ratified last week I would suspect that in the next year 10G optics will get cheap enough for more enterprises to deploy it on the LAN versus just the data center

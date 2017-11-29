@@ -1,2 +1,0 @@
-★There exist 6 linearly independent vectors in a 4-dimensional vector space. Is this true or false?
-Wait-- do you mean *orthogonal* vectors?  AFAIK, all orthogonal vectors are linearly independent, but not all linearly independent vectors are orthogonal.  If each point in a 4-D vector space is defined by a vector of 4 reals, then why can't there be an *infinite* number of linearly independent vectors where the angles between them (viewed geometrically) differ only by infinitely small yet non-zero values?    Embed Quote

@@ -1,2 +1,0 @@
-What are the best open source tools for unsupervised clustering of text documents?
-1. Carrot2(fast) - http://project.carrot2.org/ 2. Lingpipe(costomizable) - http://alias-i.com/lingpipe/demo... 3. Has clustering support but not so good: weka, mallet, dragon toolkit    Embed Quote 

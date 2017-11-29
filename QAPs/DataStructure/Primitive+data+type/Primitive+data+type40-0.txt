@@ -1,2 +1,0 @@
-What are python object types?
-There are primitive data types such as int, float, double, boolean etc. which are not objects. Then there are immutable python defined data types like Strings which are objects. There are other mutable Python defined data types like dictionaries, arrays etc. which again are objects. And you can create your own classes if the available data types don't solve your purpose. 

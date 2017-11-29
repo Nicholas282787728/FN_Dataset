@@ -1,1 +1,0 @@
-Is this an efficient implementation of bubble sort?Someone actually found a device on which bubble sort was the most efficient algorithm to sort with. 

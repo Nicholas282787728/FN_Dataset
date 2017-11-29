@@ -1,2 +1,0 @@
-How do you create a hash table of linked lists in C?
-A basic one is pretty simple: typedef struct list_elem { void *whatever_it_is; struct list_elem *next; } HashList;   typedef struct hash_bucket { HashList *front, *back;... (more)

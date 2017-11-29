@@ -1,2 +1,0 @@
-★What does parsing mean in Java?
-It means forming an abstract syntax tree from lexical tokens.    Embed Quote

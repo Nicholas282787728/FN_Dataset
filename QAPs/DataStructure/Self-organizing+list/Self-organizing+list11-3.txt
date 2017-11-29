@@ -1,2 +1,0 @@
-What's the best way to manage Spotify playlists?
-- Folders are great for "archiving" playlists that you don't play/update daily - Making a playlist called just "-" (without the quotes, duh) gives you a neat separator in the playlist column 

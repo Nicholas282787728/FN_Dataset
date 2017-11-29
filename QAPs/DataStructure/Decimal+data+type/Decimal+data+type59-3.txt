@@ -1,2 +1,0 @@
-How can I compute the average of a large array of integers without running into overflow?
-Let the average of n  numbers is x  and the (n+1) th   number is m  , the average of the (n+1)  numbers is nx+mn+1 =nn+1 x+mn+1   Calculating the two terms separately and adding will avoid intermediate overflow.  For example, def average(numList): av = 0.0 n = 1.0 for num in numList: av = (n - 1) / n * av + num / n n += 1.0 return av 

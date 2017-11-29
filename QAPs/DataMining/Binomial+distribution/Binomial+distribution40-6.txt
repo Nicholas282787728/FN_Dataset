@@ -1,2 +1,0 @@
-Carl Friedrich Gauss: How would you explain the Gaussian distribution in layman's terms?
-I have taught this to cantankerous teenagers in terms of card games like rummy. If you are trying to collect a series or a set, which is harder to build? If you are collecting a set, which is harder to build aces or fives? Why? (This is an inverse Gaussian distribution, but getting people to understand math enough not to be taken in by gambling is one of my personal goals in life.) The best explanations are getting a person interested in the inquiry in the first place.    Embed Quote 

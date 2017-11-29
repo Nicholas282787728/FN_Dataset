@@ -1,2 +1,0 @@
-Is there a way to dynamically generate a perfect hash function for a fixed set of distinct values?
-Yes, you can take a look at Gperf. That will give you an order preserving minimal perfect hash function. You need to know the fixed values (keys) in advance and you need some pre-processing time to build the hash function. There's an algorithm described in "Managing Gigabytes". 

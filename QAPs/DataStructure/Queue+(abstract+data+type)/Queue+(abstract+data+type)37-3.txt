@@ -1,2 +1,0 @@
-What are some facts about coding in the Java programming language that every computer student should know?
-It depends on topic to topic. I can't aswer you because its long since I worked with Java. Instead I would recommend a good book for Java Introduction to Java Programming by Daniel Liang. It is a very good book covering ectensively all topics in Java that a programmer should know. 

@@ -1,2 +1,0 @@
-★Is it possible to implement FFT on FPGA?I understand FFT. But I am new to FPGA .  So, I don't how to begin. For example,how to give an analog signal to FPGA? How should I start?
-Yes. The major FPGA manufacturers all offer FFT cores.    Embed Quote

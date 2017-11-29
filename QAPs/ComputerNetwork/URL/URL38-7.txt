@@ -1,2 +1,0 @@
-★What are SEO-friendly URLs, and why are they used?
-Static URL are SEO Friendly and Do not use dynamic URLs such as http://www.example.com/query?a.html http://www.example.com/a%b.html Always keep one thing in mind when you create URL use canonical Tag for each and every page that will very helpful from SEO point of view.    Embed Quote

@@ -1,2 +1,0 @@
-★What is an IP address?
-IP addreess is internet protocol address,it is a unique address of a computer through webservers can communicate with ur pc for browsing and downloading........ it works with TCP protocol..... You can check your ip address here; http://www.ip-details.com/ip-sea... there are also few other useful stuffs regarding ip address here.

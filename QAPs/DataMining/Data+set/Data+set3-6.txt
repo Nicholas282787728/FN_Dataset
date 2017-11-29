@@ -1,2 +1,0 @@
-How can I crunch big data sets with my laptop?
-I would suggest FastBit as an alternative. It's an open source column based data query library that was built for performing query operations on extremely large particle physics data. It has low memory requirement, and its command line interface, IBIS, allows for CSV conversion into FastBit's db structure and also allows some basic query operations.    Embed Quote 

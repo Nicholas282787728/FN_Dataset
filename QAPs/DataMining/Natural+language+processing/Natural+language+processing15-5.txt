@@ -1,2 +1,0 @@
-★Natural Language Processing: What is the best approach for text categorization?There are standard approaches like svm, naive bayes, logistic regression, neuron network. Features come from words, phrases scored with tfidf e.t.c. Is there are any more robost and scalable approach?
-I am working on sentence classification with the help of NLP.Sentence should classify with specific categories which it belongs. I have used opennlp document categorization,its working but the % of accurracy is less. what is the best approach to classify sentences?    Embed Quote

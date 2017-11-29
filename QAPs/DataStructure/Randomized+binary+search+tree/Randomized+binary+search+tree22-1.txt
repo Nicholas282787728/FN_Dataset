@@ -1,2 +1,0 @@
-What are real life applications of trees?
-Basically Tree is a data structure which are used to arrange the huge amount of data at one place and access speed of data should be fast. And there are may situation at where data size is fluctuate and position also. In those conditions data is stored in tree form . Best example for tree is Database design . Different tree structure may used at different situation. For example heap is used for sort the data very quickly. 

@@ -1,2 +1,0 @@
-★Which is the fastest one telnet, ftp, tcp?
-This is invalid question. telnet and ftp use TCP. telnet is mainly used for logging in remote devices ftp is used to transfer large files. TCP is used as transport layer by both telnet and ftp TCP is like a carrier. telnet wants to put small small amounts of data in carrier and transfer fast. FTP puts huge amount of data on carrier but does not care much about speed

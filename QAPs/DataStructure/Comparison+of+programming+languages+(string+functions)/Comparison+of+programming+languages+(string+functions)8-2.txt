@@ -1,2 +1,0 @@
-Programming Languages: Which are the most used programming paradigms? Which are good coding examples?
-One of the most broadly used paradigm would be Polymorphism (computer science), especially Subtyping. Examples can be found in the linked Wikipedia article. 

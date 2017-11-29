@@ -1,2 +1,0 @@
-What is void data type?
-void data type means data type which do not hold any value and in c and c++ this data type pointers variables are used as generic pointers means can hold the value of any other datatype 189 Views

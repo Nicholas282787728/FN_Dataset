@@ -1,2 +1,0 @@
-Number Sequence: Given the sequence: 1,3,7,13,21,31,43 ... which number stands in place 1001?
-The question is: Given the sequence: 1, 3, 7, 13, 21, 31, 43 ... which number stands in place 1001? So this series follows the equation: N(the term)=n*(n-1)+1 where n is the number of term starting from 1. Which is like 1=1*(1-1)+1 3=2*(2-1)+1 7=3*(3-1)+1 ................... ................... ................... 1001th term= 1001*(1001-1)+1 And hence the 1001th term is: 1001001 Good luck. 

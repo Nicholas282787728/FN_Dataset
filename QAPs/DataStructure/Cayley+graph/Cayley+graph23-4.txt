@@ -1,1 +1,0 @@
-What are interesting characteristics of graph databases that would incline you to buy one product as oposed to any other?I am refering to query language, high performance, good optimisation technology, out of core capabilities, administration tools, etc.

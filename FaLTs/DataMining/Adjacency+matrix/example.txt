@@ -1,3 +1,0 @@
-The convention followed here is that an adjacent edge counts 1 in the matrix for an undirected graph.
-Labeled graph Adjacency matrix Coordinates are 1-6. The Nauru graph Coordinates are 0-23. White fields are zeros, colored fields are ones. Directed Cayley graph of S4 As the graph is directed, the matrix is not symmetric.
-The adjacency matrix of a complete graph is all 1's except for 0's on the diagonal. The adjacency matrix of an empty graph is a zero matrix.

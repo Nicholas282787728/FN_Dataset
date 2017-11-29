@@ -1,2 +1,0 @@
-How do I maintain a segment tree for range minimum query and updation?
-I think these link will help you out ... Segment Tree | Set 1 (Sum of given range) - GeeksforGeeks Segment Tree | Set 2 (Range Minimum Query) - GeeksforGeeks 

@@ -1,2 +1,0 @@
-How do I decide which features to use in a neural network model?
-A common practice is to train a model that is capable of variable selection, say stepwise regression or LASSO regression, see which variables this model selects, then use the selected variables to train a neural network on the same data. 

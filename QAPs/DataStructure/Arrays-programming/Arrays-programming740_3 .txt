@@ -1,1 +1,0 @@
-How do I find the max value of an array after several updates?Before every insertion compare the new value with the current max value. Is it possible? Save the indexes of the new values and then compare them with the max value. I understood the problem or I am lost? 247 Views

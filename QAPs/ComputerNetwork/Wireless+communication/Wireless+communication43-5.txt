@@ -1,2 +1,0 @@
-★Can wireless communication be done under water? If not, how do submarines communicate with the outside world?
-Sonar can be used under water; that sonar can be detected by microphones, then decoded.    Embed Quote

@@ -1,2 +1,0 @@
-Is [math] \infty +1 = \infty -1 [/math]?
-Infinite is not a number, what meaning have the plus and minus operation in that context? And, even if it is, infinite + any finite number or multiplied by any finite number, no matter how big it is, is still the same infinite. And things get very weird when you notice that the number of natural and rational numbers are infinites of the same cardinality. 

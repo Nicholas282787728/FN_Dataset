@@ -1,2 +1,0 @@
-I really, really want to learn to code. However, upon taking classes and practicing (in C), I realized that I hate the whole process of programming (debugging, constant unclear/ambiguous errors, confusing logic). What can I do to get over this?
-Try a language with higher-level concepts, a more expressive type system, better error messages, and a really friendly community. I would recommend Haskell. 

@@ -1,2 +1,0 @@
-Carl Friedrich Gauss: How would you explain the Gaussian distribution in layman's terms?
-Toss a coin. Heads, you take one step forward; tails, you take one step backward. Keep at it. The probability that you end up at a certain location will be given by a binomial distribution centred around the point whence you started. In the limit that the number of tosses goes to infinity with the step size being correspondingly adjusted, the distribution becomes Gaussian.    Embed Quote 

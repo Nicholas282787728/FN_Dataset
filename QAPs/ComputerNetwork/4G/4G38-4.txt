@@ -1,2 +1,0 @@
-★Will the next iPhone have LTE or some sort of 4G chipset?Will the iPhone have 4G?
-I actually think it's quite possible that the iPhone 5/iPad 2 5 could be 4G LTE capable.  The verizon iPhone 4 is using a Qualcomm modem from the Gobi line.  Qualcomm makes a specific a specific model within their Gobi line that is dual HSPA+(AT&T)/LTE(Verizon) called the MDM9600. And it's common knowledge among the tech news world that Apple will be using Qualcomm modems from now on, specifically in their upcoming iPad and iPhone refreshes.

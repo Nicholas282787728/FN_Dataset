@@ -1,2 +1,0 @@
-★Where can I find a good example of a technical design document for an ETL process in SQL Server Integration Services?
-The man for all this sort of thing is Andy Leonard. Just about everything he puts out on the topic is worth reading. This is a list of his publications:http://www.andyleonard.net/publi... . You can also pick up some good stuff over on Channel 9 at Microsoft (http://channel9.msdn.com/Tags/sq...)    Embed Quote

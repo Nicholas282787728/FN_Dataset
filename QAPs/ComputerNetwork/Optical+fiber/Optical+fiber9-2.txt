@@ -1,2 +1,0 @@
-★Can electricity be transmitted through optical fibers (optical fibre electrical transmission)?
-You can fire a few Watts of laser power down a fibre but the conversion losses would be high. For higher powers it certainly wouldn't be practical.    Embed Quote

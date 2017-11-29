@@ -1,1 +1,0 @@
-What is the definition of irrational number from a discrete mathematics perspective?The definition of an irrational number does not depend on a particular mathematical perspective. A number is irrational if it is not rational - if it cannot be expressed as the ratio of two integers. 68 Views  Answer requested by Siddhartha Gupta

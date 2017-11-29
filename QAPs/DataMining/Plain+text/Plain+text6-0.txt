@@ -1,2 +1,0 @@
-★Is AES secure under chosen plain-text attack?
-The Advanced Encryption Standard (AES) as an algorithm is secure, as is in fact most modern encryption algorithms. The problem has to be found in the way the different algorithms are implemented and used ("protocol", in that word's meaning as "the proper way to do things"). AES can be vulnerable to any form of attack if you implement it wrong or use it stupidly Take a look at this video from DEFCON; it's an excellent example on the problem of implementation. This is just the first video of three:    Embed Quote

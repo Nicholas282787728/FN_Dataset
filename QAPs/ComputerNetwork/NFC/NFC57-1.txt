@@ -1,2 +1,0 @@
-★What is the internal structure of an NFC tag?What are the electronic parts of an NFC tag. Is there any circuit diagram available for that?
-You will also be able to find a simple NFC inlay diagram here: http://www.buynfctags.com/which-... and here: http://rapidnfc.com/nfc_tag_ante...    Embed Quote

@@ -1,2 +1,0 @@
-If all of the edges of G are also edges of a spanning tree T of G, then G is a tree and is identical to T (that is, a tree has a unique spanning tree and it is itself).
-The number t(G) of spanning trees of a connected graph is a well-studied invariant.

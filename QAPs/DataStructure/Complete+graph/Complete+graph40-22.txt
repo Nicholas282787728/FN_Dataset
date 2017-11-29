@@ -1,2 +1,0 @@
-What are some of the most ridiculous proofs in mathematics?Especially for easier concepts.
-Al and Bob play a game. They have the numbers 1,2,...,9 written on cards face up. Players alternate taking cards. The first player to have exactly 3 cards whose sum is 15 wins. Determine which player, if any has a winning strategy. Solution: One can show that the 8 possible ways to win this game biject to the 8 possible ways to win Tic-Tac-Toe on a magic square, and Tic-Tac-Toe is known to have no winning strategy for either player. 

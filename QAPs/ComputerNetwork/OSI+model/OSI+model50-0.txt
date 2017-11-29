@@ -1,2 +1,0 @@
-★What are the the key purpose(s) of the OSI model for each of its layers?
-Personally, I think the OSI model is a great way to conceptualize and understand the steps required for communications, network or otherwise. Here's a link to Wikipedia that goes over the details of each layer: OSI model    Embed Quote

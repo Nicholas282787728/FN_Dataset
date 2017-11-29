@@ -1,2 +1,0 @@
-Why does the size of 'a' equal 4 bytes?
-In C, the type of the expression 'a' is int, so your second call is equivalent to sizeof(int). There is no special reason behind this other than historic convention, it's just how C specifies the type of any character constant: http://en.cppreference.com/w/c/l... In C++, for example, sizeof 'a' is 1. By the way using %d here invokes undefined behavior on many platforms; the correct conversion specifier for size_t (which is what you get from sizeof) is %zu 

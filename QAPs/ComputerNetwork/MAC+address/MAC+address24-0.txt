@@ -1,2 +1,0 @@
-★How do you change  your Network port's mac address using MAC address changer?This is a follow up to an answer on What's a good way to get started using Tor?
-On a Mac: Open Terminal.app Find out which NIC you want to change the MAC address from. ifconfig Press enter In my case it's en0 So: sudo ifconfig en0 ether 00:11:22:33:44:55 Hit enter and fill in your administrator password. Disconnect your NIC and reconnect it. Voila.    Embed Quote

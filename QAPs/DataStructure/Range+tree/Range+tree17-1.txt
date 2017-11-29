@@ -1,2 +1,0 @@
-Data Structures: What data structure would allow adding an element, removing an element, and querying for the number of elements in the range (a, b), all in O(logn) time?
-Assuming a & b are integers, A binary indexed tree ( Fenwick tree ). See the implementation below. to add i, increment i by 1. to remove i, decrement i by one. to query the number of elements in range (a, b), use sum(0..b) - sum(0..a) robert-king/fenwick_tree.py 

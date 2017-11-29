@@ -1,2 +1,0 @@
-Which are some of the best web data scraping tools?
-Have a look at http://scrapy.org/ Also you can use a massive DB of already crawled sites http://www.commoncrawl.org/    Embed Quote 

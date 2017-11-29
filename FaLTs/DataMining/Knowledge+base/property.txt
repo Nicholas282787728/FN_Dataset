@@ -1,6 +1,0 @@
-A database had these properties:
-
-Flat data. Data was usually represented in a tabular format with strings or numbers in each field.
-Multiple users. A conventional database needed to support more than one user or system logged into the same data at the same time.
-Transactions. An essential requirement for a database was to maintain integrity and consistency among data accessed by concurrent users. These are the so-called ACID properties: Atomicity, Consistency, Isolation, and Durability.
-Large, long-lived data. A corporate database needed to support not just thousands but hundreds of thousands or more rows of data. Such a database usually needed to persist past the specific uses of any individual program; it needed to store data for years and decades rather than for the life of a program.

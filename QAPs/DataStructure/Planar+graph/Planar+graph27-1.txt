@@ -1,2 +1,0 @@
-What is your favorite mathematical identity?
-I like [math]\sin(A+B)\cdot\sin(A-B) = \sin^2(A) - \sin^2(B)[/math] 

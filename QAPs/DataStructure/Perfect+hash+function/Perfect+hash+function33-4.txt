@@ -1,2 +1,0 @@
-Why would anyone like to use a red black tree when a hash table can do the job perfectly?
-Addition to good answers above:  Hashes can cause page faults.  When I was doing computational chemistry and physics, we NEVER used hashes; they were just too slow--2 orders of magnitude too slow. 

@@ -1,1 +1,0 @@
-How do I find second smalles number out of 3 input without using array?You can use this code for any number of inputs : #include <iostream> using namespace std; int main () { int min,x ; cin >> x ; min = x; while(cin >> x){ min = (min<x)?min:x; } // Print smallest value cout << min ; return 0; } 25 Views

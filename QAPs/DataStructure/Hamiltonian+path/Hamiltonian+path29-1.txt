@@ -1,1 +1,0 @@
-What is the meaning of this sentence?Prove that G has a Hamiltonian Path only if for every S(subset of  V ), the number of components of G − S is at most |S| + 1

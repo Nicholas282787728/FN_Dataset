@@ -1,2 +1,0 @@
-In C/C++, why are pointers given a data type?
-Data type is type of data you want to store.          like Integer datatype can store only decimal values. pointer store address of particular data type. for example int pointer can store only address of integer datatype. To store value we need variable and every variable have some datatype. that's why pointer have datatype. without variable we can't store value. 414 Views · 3 Upvotes

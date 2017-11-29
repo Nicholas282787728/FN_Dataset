@@ -1,2 +1,0 @@
-★What is the best way to store time series data in Redis?
-Gemcutter does this for daily download stats, like on: http://rubygems.org/profiles/qrush There's basically a hash per day for each gem and version, the keys/values look like... 2011-01-20 => 1983 2011-01-21 => 2999 etc. A daily cron job is in place to roll over today's stats (in a sorted set) into the historical hashes. More on this starting on slide 70 here: http://www.scribd.com/full/34269... And of course, the code (look at app/models/download.rb) http://github.com/rubygems/gemcu...    Embed Quote

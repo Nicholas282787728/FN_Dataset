@@ -1,2 +1,0 @@
-★What's the best way to extend the range of a wireless network?
-Physically, more dB, environmentally, reduce clutter, with engineering, build a more sensitive receiver and make a better SigPro, lazy guy: Go buy something cool    Embed Quote

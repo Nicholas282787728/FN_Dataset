@@ -1,2 +1,0 @@
-What are the best academic papers in computer science? Why?
-Assuming best = most cited, Microsoft Academic Search provides such a list. This list can be filtered based on the area (vision, AI, algorithms..) , and time period. For example, most cited papers in Machine learning in the last 5 years goes here: Top publications in Machine Learning & Pattern Recognition 

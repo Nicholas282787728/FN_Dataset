@@ -1,2 +1,0 @@
-What are good ways to store data in ram with any programming language? I want to use ram as a cache
-Just read in or create your data and save a reference to it, for example by storing it in an array or hashtable. As long as you have RAM available, that data will be kept in memory; if you run low on memory, the data will be swapped out to disk. 

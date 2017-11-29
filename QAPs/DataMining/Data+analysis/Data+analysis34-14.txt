@@ -1,2 +1,0 @@
-★Which is better for data analysis: R or Python?
-For pretty much anything one can do in R, the same thing can be done in Python and vice-versa. As a longtime users of R, I'm only now migrating to Python so I can work better with a team of Python developers (who are not data scientists). It's not so much a question of one being "better" than the other. It's which one is more practical given your situation and project goals.    Embed Quote 

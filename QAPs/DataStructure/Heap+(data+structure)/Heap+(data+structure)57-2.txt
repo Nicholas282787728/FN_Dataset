@@ -1,2 +1,0 @@
-What are some good websites to learn data structures and algorithms?
-Since Data Structures & Algorithms go hand in hand, you are bound to find both together in a book/course. DS & Algo is generally Language independent, so once you are thorough with them(using pseudo code or any language) later you can easily convert it into your choice of technology. Here I’ll try to categorize it w.r.t Ease of understanding & contents covered. 1.Books :- Easy : Data Structures Using C by Reema Thareja. Data Structures by Seymour Lipschutz.... (more)

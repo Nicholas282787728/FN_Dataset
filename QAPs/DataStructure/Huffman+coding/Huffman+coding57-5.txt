@@ -1,2 +1,0 @@
-What are some examples of problems for which a priority queue proves useful?
-Huffman Coding: http://en.wikipedia.org/wiki/Huf... 1.7k Views · 5 Upvotes

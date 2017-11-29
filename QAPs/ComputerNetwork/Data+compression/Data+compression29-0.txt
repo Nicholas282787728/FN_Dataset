@@ -1,2 +1,0 @@
-★What are some good communities in the data compression space?
-if you have general questions, you can post them on comp.compression using a news reader or groups.google.com. The group doesn't get much traffic these days but there are some good people that will answer questions.

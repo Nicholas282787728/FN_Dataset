@@ -1,1 +1,0 @@
-Binary trees can be constructed from programming language primitives in several ways.

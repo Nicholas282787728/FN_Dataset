@@ -1,2 +1,0 @@
-How can I learn about artificial neural networks if I don't know anything about this field?
-Like Alexander McMurray said, watch Andrew Ng's ML course. Go watch MIT lecture about ANN done by Patrick Winston.    Embed Quote 

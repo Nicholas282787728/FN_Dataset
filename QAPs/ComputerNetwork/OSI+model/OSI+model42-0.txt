@@ -1,2 +1,0 @@
-★Give some advantages and disadvantages of combining the  session, presentation, and application layer in the OSI model into one  single application layer in the Internet model.?
-This is exactly what the TCP/IP stack does.    Embed Quote

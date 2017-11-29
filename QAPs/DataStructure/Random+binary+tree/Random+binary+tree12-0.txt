@@ -1,2 +1,0 @@
-If advanced algorithms and data structures are never used in industry, then why learn them?
-Because there are way, way, way more uses of algorithms in systems than you realize. Someone did a great service by actually collating many of them, with source code links, even: Page on Stackexchange. 

@@ -1,2 +1,0 @@
-★Is it possible to convert an HDMI into a coaxial cable?I'd like to play videos from my iPad HDMI cable to a very old TV that only takes coax input
-It really makes no sense to take a high -resolution output from the ipad and convert it to 480i (about 240 lines..) It will look horrible.  For LESS than half the price of an ipad you can buy a very decent monitor with HDMi input.

@@ -1,1 +1,0 @@
-How is an integer array in c stored?Integers in an array are stored in binary format. But if you write out with a “printf” for example, then the numbers will be text format. Or you can put into string with “sprintf”. 153 Views · View Upvotes

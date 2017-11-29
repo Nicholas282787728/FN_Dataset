@@ -1,2 +1,0 @@
-What are some must-have software for programmers using Linux?
-There are lots of great answers here. My additional selection is going to depend on what type of development your projects take you, but in my mind knowing GDB is a must in many cases. Even if you have no need to use it on your code, it will be invaluable if you need to track down a problem in other's code that is breaking yours. Happy developing! 

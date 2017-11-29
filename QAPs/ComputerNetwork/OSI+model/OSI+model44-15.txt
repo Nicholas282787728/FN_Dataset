@@ -1,2 +1,0 @@
-★What are some good jokes about computer networks?
-I hope that we shall one day see A graph more lovely than a tree. A graph to boost efficiency While still configuration-free. A network where RBridges can Route packets to their target LAN. The paths they find, to our elation, Are least cost paths to destination! With packet hop counts we now see, The network need not be loop-free! RBridges work transparently, Without a common spanning tree. By Ray Perlner    Embed Quote

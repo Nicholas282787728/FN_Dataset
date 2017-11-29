@@ -1,1 +1,0 @@
-The statement (p∧(p→q))→q is tautology.How do I show that the statement p∧(p→q)∧¬q is a contradiction by using the first statement  without a truth table?If X->Y is T Then Y is T  So from the first statement, q is T. And as your second statement has X^~q it will always be contradiction. 52 Views

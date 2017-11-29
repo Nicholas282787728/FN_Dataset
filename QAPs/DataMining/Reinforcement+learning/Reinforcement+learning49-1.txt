@@ -1,2 +1,0 @@
-★What are the disadvantages of reinforcement learning? And what would be a good alternative to use cases where it's used?
-The biggest disadvantage is that a smart RL would/will learn that it can get more reinforcement by turning all material on Earth to smiling human faces (assuming it was programmed to get reward when humans smile). Other than that its difficult to make a smart one as it is not really intelligent until you combine it with other system that does vision, language, knowledge representation and reason.    Embed Quote

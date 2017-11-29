@@ -1,2 +1,0 @@
-★Is it ok to connect one power cable to two sata disk?​
-Yes it is fine. That is why there are multiple connectors on the cable.    Embed Quote

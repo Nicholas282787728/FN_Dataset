@@ -1,2 +1,0 @@
-★I know basic probability. What are some good online resources to learn about Markov Models and Markov chains?I have been hearing about Markov models and chains and hidden markov models a lot, but I have no clue as in to what they are. Can anyone point me to some good resources where I can learn about the same? Thanks!
-A book called "Markov Chains .." by Pierre Bremaud is quite good as it starts from scratch and illustrates through a lot of examples. It cover most of the required basic topics in markov chains..    Embed Quote

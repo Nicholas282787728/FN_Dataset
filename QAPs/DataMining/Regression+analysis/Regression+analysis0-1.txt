@@ -1,2 +1,0 @@
-★What are some methods of time-series regression analysis?This is a follow-up on: What are some time series measures?
-ARMA http://en.wikipedia.org/wiki/Aut... GARCH http://en.wikipedia.org/wiki/GAR... SETAR http://en.wikipedia.org/wiki/SET... State space models http://ideas.repec.org/h/eee/eco...    Embed Quote

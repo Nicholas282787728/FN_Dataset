@@ -1,2 +1,0 @@
-Can we reduce the running time of huffman code to O(log log n) by replacing the binary heap with Van Emde Boas tree?
-We can reduce the running time to O(n log(log n)) from O(n logn) by replacing the binary heap with a van Emde Boas tree. There is no way it can be reduced to  O(log log n). Thanks for A2A. 240 Views · 2 Upvotes · Answer requested by Prashant Singh Rathore

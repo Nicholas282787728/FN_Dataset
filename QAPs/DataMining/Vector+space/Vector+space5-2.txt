@@ -1,2 +1,0 @@
-★What is the difference between a vector field and a vector space?
-A vector field of a topological space X is a section of the tangent bundle of X. The tangent bundle of X is an example of a vector bundle. A vector bundle is a map Y->X of topological spaces, whose fibers are vector spaces (and it is required to satisfy some compatibility conditions).    Embed Quote

@@ -1,2 +1,0 @@
-Do I need to know about graph algorithms before learning dynamic programming?
-If you want to ask that will you require the knowledge of graph algorithms for learning dynamic programming , then I think no there is no such need. 

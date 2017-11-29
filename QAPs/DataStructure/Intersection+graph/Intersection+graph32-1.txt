@@ -1,2 +1,0 @@
-What are the major differences between mechatronics engineering and electrical engineering?
-Electrical engineering is more about large motors, generators, transformers and high voltage electrical equipment and distribution systems. Mechatronics is about combining electronic, electrical, software and mechanical elements usually in some sort of motion system. Using sensors and feedback to improve a mechanically based system. 

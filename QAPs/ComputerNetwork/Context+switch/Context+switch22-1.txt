@@ -1,2 +1,0 @@
-★Why is it in some operating systems, while physical memory is still abundantly available (at least from observing the system monitor), in some cases, there can be lots of page fault caused system traps resulting in context switch related perf degradation?
-Three words: on demand paging.

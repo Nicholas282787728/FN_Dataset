@@ -1,2 +1,0 @@
-★What kind of collaboration tools would reduce duplication of R&D effort in data analysis and sharing?
-While tools are helpful, the bigger issue toward developing successful data duplication and sharing strategies is related to developing the right kind of culture. If people are not committed to such a goal, then no amount of tools will help.    Embed Quote 

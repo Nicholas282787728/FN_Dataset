@@ -1,2 +1,0 @@
-What is the fastest way to perform an inorder traversal of a perfectly balanced binary search tree containing n elements?
-Assuming all the data are distinct, you can do this in [math]O(n \log n)[/math] time by repeatedly searching from the root for smallest node whose data is greater than the previous node’s data: Node *next(Node *root, int data){    Node *ret = NULL;    while (root) {        if (root->data > data) {            ret = root;            root = root->left;        } else {            root = root->right;        }    }    return ret;} 

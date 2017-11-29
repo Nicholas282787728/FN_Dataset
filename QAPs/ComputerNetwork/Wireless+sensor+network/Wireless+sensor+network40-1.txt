@@ -1,2 +1,0 @@
-★Which do you think are the most exciting fields of wireless sensor networks from a research perspective,  and why?Please give me details if you are familiar with the topic.
-IOT applications using sensors and using big data analytics to process them. Using wireless sensors for proximity applications.    Embed Quote

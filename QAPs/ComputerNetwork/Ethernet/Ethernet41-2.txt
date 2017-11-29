@@ -1,2 +1,0 @@
-★How can I check Ethernet connection speed on Linux?
-You can benchmark using iperf by running a server on one computer and a client on another on the network. If you're only interested if it's nominally a 10/100/1000Mbps connection, you can use ethtool or mii-tool.

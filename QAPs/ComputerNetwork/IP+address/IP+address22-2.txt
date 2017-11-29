@@ -1,2 +1,0 @@
-★Can't a CNAME point to an IP address?
-Think of it like this: a CNAME is the DNS equivalent of a symbolic link in file systems.  It just tells you that the thing you really want is somewhere else.  Many programs will automatically follow symlinks and CNAMEs, hiding their true nature, but in both cases that nature is still evident when you use lower-level utilities.

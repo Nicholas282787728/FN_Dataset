@@ -1,2 +1,0 @@
-★Does the wavelength of light change relative to your speed?As you go faster, does the wavelength of light shrink with space?
-Sort of. The relativistic Doppler effect is what you're looking for. A warning: don't think of wavelength 'shrinking' with space. Space is not a tangible medium, it's not compressible. Your measurement of successive wavelength changes, that's all. In any case, there is a whole Wikipedia article on this phenomenon. Do look into it.    Embed Quote

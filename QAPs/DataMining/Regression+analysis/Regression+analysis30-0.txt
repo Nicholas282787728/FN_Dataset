@@ -1,2 +1,0 @@
-★How do I do a regression analysis in Office 365?
-Easiest done in Excel.  Two basic methods: 1. Plot the data in a chart. Add trendline and show equation + R2. 2. Use Excel functions on data to calculate the statistics you're after. This is mainly for linear regression. E.g the worksheet function "=slope(data) " calculates the...  drum whirl.. slope.    Embed Quote

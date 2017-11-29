@@ -1,2 +1,0 @@
-How would you describe the concept of Abstract Data Types to someone who has no background in computer science?
-Think of a cookbook. Yea, it's a cliche model, but think of it. Now take that cookbook and erase the actual steps, but keep the final picture of each product and the ingredients. Now, this is enough for someone to ask a chef to make them a plate after they were given the ingredients, but the chef has to figure out how to cook them by himself. 

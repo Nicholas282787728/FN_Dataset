@@ -1,2 +1,0 @@
-What are differences between large data set and data stream?
-Three main differences: (1) data streams usually have some time structure whereas large data sets don't have to. (2) when you consider data streams you have to consider effects like changes in the underlying stationarity, when dealing with large data sets you are usualyl interested in the global statistics. (3) Data streams are potentially infinite and you have to consider how to deal with that. Of course, a large sample from a data stream automatically becomes a large data set.    Embed Quote 

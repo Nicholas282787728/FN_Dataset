@@ -1,2 +1,0 @@
-Can you help me solve e x =1−x  ?
-Its quite observable that one solution is x=0 Now, lets see if there are any more ? Let f(x)=e^x + x - 1 f'(x) = e^x + 1 Thus f'(x) > 0 for all x Thus it will have only one root. Thus the only solution is x=0 

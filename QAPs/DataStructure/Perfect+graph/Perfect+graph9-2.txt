@@ -1,2 +1,0 @@
-What are some known algorithms for finding a perfect match in a bipartite graph?
-It can be solved by reducing to the maxflow problem 

@@ -1,2 +1,0 @@
-★Mobile Broadband: How long will it be until cellular bandwidth/speed will be suitable substitute for cable Internet?
-It could be immediately. If web sites were to compress their data streams, use programming that didn't rely on a browser plugin, optimized their pages to fit in a smaller pipe and so on the bandwidth we have right now would be more than adequate.It wasn't that long ago that we were using 56k. I'm sure clever designers and programmers could design and program to the lower bandwidth specs.

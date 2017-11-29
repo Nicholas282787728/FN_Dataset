@@ -1,2 +1,0 @@
-★What calculus do you need for fuzzy logic?
-Depends on what you're trying to do.  Things break down similarly to probability: if you just want to see very basic examples, you don't need to know calculus at all, but if you want to do cutting-edge research you need to know pretty much everything there is to know about calculus and a lot more analysis on top of that.    Embed Quote

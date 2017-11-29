@@ -1,2 +1,0 @@
-★What are currently the hot topics in Machine Learning research and in real applications?Currently, there are many topics in ML research which are/can be used widely in real applications. I wonder what are key topics which we should focus doing research and studying.
-In my point of view, Spectral and Tensor Methods and fast convergence will be basic hot topics in manchine learning: Animashree Anandkumar    Embed Quote

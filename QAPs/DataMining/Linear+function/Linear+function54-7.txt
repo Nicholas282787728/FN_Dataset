@@ -1,2 +1,0 @@
-★Are polynomials linear functions?
-No. Not unless all variables are only to the first power. If any variable in the polynomial has an exponent then it is non-linear.    Embed Quote

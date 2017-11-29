@@ -1,2 +1,0 @@
-What is the simplest language with which to learn algorithms and data structures?
-No one should learn programming in C. It requires way too much data management and nuts and bolts details. Ruby or Python would be good choices. Anything with a listener. Being able to type out and see the results of small expressions is an invaluable learning tool. It was one of the things that made learning in BASIC so easy in the early 80s. 

@@ -1,2 +1,0 @@
-★How do you design a PCR multiplex?PCR multiplex is special since there are multiple primer couples as opposed to singleplex. Designing them must require special attention especially in primer interaction.
-Primer 3 is a commonly used tool for this.  Check it out: http://frodo.wi.mit.edu/primer3/    Embed Quote

@@ -1,2 +1,0 @@
-★Is high frequency trading possible in commodities markets?Do commodities markets still rely on individuals negotiating a price, the method that stock markets are using less and less?   Does the infrastructure even exist for automated trading of commodities?
-I successfully traded rubber using HFT and of course there are HFT strategies on the CME trading on differences in implied and outright prices. So yes

@@ -1,2 +1,0 @@
-What are the best books on algorithms and data structures?
-Originally Answered: Which is the best book/resource for algorithms and data structures for beginners?Data structures by Gilberg and Forouzan It explains algorithms basic and how to build one with pseudo code and then show how to implement the same in languages with variations. 1.5k Views · 2 Upvotes

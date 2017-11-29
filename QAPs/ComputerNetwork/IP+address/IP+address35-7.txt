@@ -1,2 +1,0 @@
-★How can I exclude external traffic from Google Analytics without an IP address?I want to exclude my current clients as traffic to my site which they use daily. Their are over 200 so filtering their IP addresses is not practical.
-You can use HTML5’s localStorage feature. The advantage over the cookie is that when you clean your browser’s cookies, localStorage values remain. I’ve written a blog article about it here: Google Analytics: Exclude Your Own Visits - Mendoweb Blog

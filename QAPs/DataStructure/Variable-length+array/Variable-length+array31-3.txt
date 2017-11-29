@@ -1,2 +1,0 @@
-My interviewer asked me what is there In C which is not in C++ and then he said if C++ includes all the features of C then why on the earth we teach C??
-C is only ever used in environments where there are constraints with compilers. There are very few non-trivial C programs that can't be improved by rewriting in C++. Sometimes you need to wear boots, gloves, jacket and carry a machete. That doesn't mean you can't go out in shorts and flip-flops when needed. Big tool for big jobs, small tool for small jobs. 

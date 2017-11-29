@@ -1,2 +1,0 @@
-Java Interview Questions: Which are the frequently asked interview questions for Java Engineers ?
-I have passed a lot Java interviews, there are questions ordered by frequency: hashCode and equals methods relation synchronization ( waitAll, wait, notify) difference between checked and unchecked exceptions Difference between keywords final/ finally/ finalize GOF patterns ( Singleton, and Double check singleton) Difference between LinkedList and ArrayList, TreeMap and HashMap All other question are asked not so frequently. Updated 232w ago • View Upvotes

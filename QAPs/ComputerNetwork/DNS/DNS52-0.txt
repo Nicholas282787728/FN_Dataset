@@ -1,2 +1,0 @@
-★How do I do a reverse DNS lookup on an IP address?Is there a way to write a C program to perform reverse DNS lookup without using resolver function?
-You can do a reverse lookup using dig with the following command: dig -x address For example: dig -x 184.106.214.131 Returns an answer section for me of: ;; ANSWER SECTION: 131.214.106.184.in-addr.arpa. 86325 IN PTR ns1.dnsimple.com.

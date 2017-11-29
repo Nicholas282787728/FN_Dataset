@@ -1,2 +1,0 @@
-★What are the applications of graph theory?
-A circuit is actually most conveniently constructed mathematically as a graph, with each circuit node being a graph node, and each element being an edge that describes the relationship between nodes.  Circuit elements with 3 or more ports are modeled as simpler interconnected 2-port elements. SPICE and other solvers work with a for-each on the constructed graph.    Embed Quote

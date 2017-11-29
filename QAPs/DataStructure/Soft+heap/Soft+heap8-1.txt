@@ -1,2 +1,0 @@
-What are the most important fundamental concepts in Computer Science?
-The idea of abstraction: building layer upon layer of abstraction from transisters to discrete logic blocks to components to layers of software all the way from the OS up. Without this, you won't be able to build anything interesting or of substantial complexity. 

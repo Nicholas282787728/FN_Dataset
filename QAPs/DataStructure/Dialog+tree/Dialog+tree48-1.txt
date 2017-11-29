@@ -1,2 +1,0 @@
-What are some programming concepts, patterns or algorithms that give you insight into real life situations?
-This is my personal experience. In life, if you get frustrated, irritated or feel stuck at some point, it's best to take a breather. Take some rest, clear your head and start over. This can be perfectly related to the concept of looping. Many times you get stuck while writing codes involving loops and after a certain time you are bound to get frustrated. In such a case you just need to stop, relax, take a break and start over again. Updated 67w ago • View Upvotes

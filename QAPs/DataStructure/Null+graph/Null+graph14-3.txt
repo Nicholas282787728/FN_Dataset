@@ -1,2 +1,0 @@
-What types of technical questions are asked in developer interviews?
-A great read for anyone who is an interviewer or interviewee at a high-tech company is Steve Yegge's " Five Essential Phone-Screen Questions": https://sites.google.com/site/st... Google, Facebook, Amazon etc. all use similar approaches to phone screening engineer candidates. 

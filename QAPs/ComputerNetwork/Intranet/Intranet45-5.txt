@@ -1,2 +1,0 @@
-★If a company starts using an enterprise-level social business suite (think Jive or Chatter), what happens to the intranet?Does the intranet get phased out? If not, what does the intranet do that the SBS doesn't or can't do? How do you make both useful?
-I am going have to say ThoughtFarm.  Never phase out your Intranet, they helped build Pokeman.com, and did eHartmony's full intranet, 5 days install-migrate-launch.

@@ -1,1 +1,0 @@
-The AVL tree was invented in 1962, and invented by Georgy Adelson-Velsky and Evgenii Landis.

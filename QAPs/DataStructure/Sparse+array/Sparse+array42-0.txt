@@ -1,2 +1,0 @@
-What are some important tips and information that one should know when transitioning from jQuery to native JS (DOM manipulation)?
-Unfortunately you just have to suck it up. Lets take for instance: [code] $('#foo').css(); [/code] Thats super easy right? Using jQuery. Its whole purpose is to not make Javascript so cumbersome. Same example in pure JS: [code] document.getElementById('foo').style(); [/code] Way longer. Its good to understand how the native JS works as you may want to venture into Angular or Node.js and jQuery wont help you then. 

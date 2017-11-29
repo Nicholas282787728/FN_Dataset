@@ -1,1 +1,0 @@
-What are some interesting results in graph theory?An interesting result I found was that almost every sophisticated and non trivial problem associated with directed graphs can be solved using DFS( depth first search ). 129 Views  View Upvotes

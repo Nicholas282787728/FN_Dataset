@@ -1,1 +1,0 @@
-Linear hashing is a dynamic hash table algorithm invented by Witold Litwin (1980),[1] and later popularized by Paul Larson. Linear hashing allows for the expansion of the hash table one slot at a time. 

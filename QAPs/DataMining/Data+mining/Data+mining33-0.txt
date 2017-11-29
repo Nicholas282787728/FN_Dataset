@@ -1,2 +1,0 @@
-Are there any data mining options for NoSQL databases?
-A few NoSQL databases support MapReduce type of jobs. MongoDB http://www.mongodb.org/display/D... Riak https://wiki.basho.com/display/R... CouchDB http://wiki.apache.org/couchdb/I... Most clustering and regression algorithms are trivial to implement on MapReduce. You can refer to the paper by Chu (Map-Reduce for Machine Learning on Multicore) in NIPS06 for high-level guidance: http://www.cs.stanford.edu/peopl...    Embed Quote 

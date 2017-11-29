@@ -1,2 +1,0 @@
-★Is Latent Dirichlet Allocation a parametic model or nonparametric?I used to think LDA is a nonparametric model, because the number of parameters do not increase when the dataset grows(like Knn). However, In some papers, i find that "LDA is parametric because the number of topics must be set by user in advance".
-LDA stands for both Linear Discriminant Analysis (a linear classifier) and Latent Dirichlet Allocation (a generative topic model). Both are Machine Learning tools. Which one do you want advice on?    Embed Quote

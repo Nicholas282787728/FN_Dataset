@@ -1,1 +1,0 @@
-What is the difference between whole numbers and natural numbers?Natural numbers are basically counting numbers which are {1,2,3....}. Whole numbers are natural numbers with a 0 i.e., {0,1,2...} 67 Views

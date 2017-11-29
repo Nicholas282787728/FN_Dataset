@@ -1,2 +1,0 @@
-★What are some great Machine Learning (ML) Natural Language Processing (NLP) blogs worth following?I am grad student in CS with interests in ML & NLP. There are many research papers & academic material out there, but I would like follow people who practically apply concepts from these fields.
-Alex Smola's blog: Adventures in Data Land    Embed Quote

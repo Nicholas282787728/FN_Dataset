@@ -1,2 +1,0 @@
-★What's a good article publishing workflow in WordPress?I'm run a blog on Wordpress with currently with 4 writers publishing two articles a week and I'm looking for examples on article publishing workflows. How do you go about your editing process and what kind of plugins do you use?
-You might want to have a look at EditFlow: Edit Flow gives you custom statuses, a calendar, editorial comments, and more, all to make it much easier for your team to collaborate within WordPress. -- http://editflow.org/    Embed Quote

@@ -1,2 +1,0 @@
-What do you think if a senior software developer can't write code?
-I’ll play devil’s advocate here. I’ve worked with some people who designed brilliant algorithms and elegant data structures that on my best day I might not be able to do. But they couldn’t code their way out of a wet paper bag. I was able to take their code and make it simpler, faster and easier to maintain. So I’m a better coder, but I’d hire them for my company in a heartbeat. Coders are cheap and plentiful compared to architects. 1.9k Views · 8 Upvotes

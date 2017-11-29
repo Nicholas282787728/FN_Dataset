@@ -1,2 +1,0 @@
-★Does Torrent support downloading files through a proxy server?
-in my opinion you use tor browser and for different torrents use trackers. there are many videoes are available on youtube for tor browser and trakers this will work 80% mostly . you use  http traker for prxoy server and you also find tracker from hash of torrent file plz see how to find tracker with hash.    Embed Quote

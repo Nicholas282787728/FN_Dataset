@@ -1,2 +1,0 @@
-★Are there benchmarks for Parse?Like many others, I wonder how scaleable it is and how an app utilizing this service would fair in the wild.
-You could try out App42  backend services from ShepHertz and found them to be the most reliable and easy to work with.I have experienced a good support and lots of detailed sample for APIs. Backend as a Service    Embed Quote

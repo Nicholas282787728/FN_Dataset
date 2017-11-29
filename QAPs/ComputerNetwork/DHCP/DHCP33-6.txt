@@ -1,2 +1,0 @@
-★How can I change my public IP from static to dynamic (DHCP)?My ISP give my a static IP and I want to change it to a dynamic IP, how can I do that? I tried with the CMD commands but it's not possible. There are other options?
-Hi, usually you have to call them and request a dynamic IP. However it may be that it's a "sticky" IP rather than a static IP, this basically means it binds to the Mac addreess of  your router. So try changing your routers Mac address and then reboot and see if it changes.

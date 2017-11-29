@@ -1,2 +1,0 @@
-What are the disadvantages of line graphs over bar graphs?
-For a limited number of discrete data points, the biggest disadvantage of a line graph is that its appearance may imply more information than you have. A slanting line sort of looks like it represents all values between the two points it connects. A bar graph shows more explicitly you’ve got this value here and that value there. Period. 3.3k Views

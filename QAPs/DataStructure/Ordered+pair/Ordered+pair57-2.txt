@@ -1,2 +1,0 @@
-Why is the cross product of two sets all the combinations of their elements?
-Because that's how the function is defined? A cross product between two sets A and B is a function whose output is an ordered pair of the form [math](X,Y) [/math] where [math] X \epsilon A [/math] and [math]Y \epsilon B [/math] 

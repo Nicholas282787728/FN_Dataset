@@ -1,2 +1,0 @@
-★Is there any mathematical model which determines how seats in a multiplex gets filled?
-Probablity of the girl sitting beside you is lesser rhan probablity of you sitting beside her(as she has more options for the seats than you). As you wish to sit beside her, dont waste time in finding a mathematical model. Just go and sit beside her.    Embed Quote

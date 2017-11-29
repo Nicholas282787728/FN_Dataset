@@ -1,2 +1,0 @@
-How do I create an array in C which keeps increasing in size as and when needed?
-GCC supports array with non-constant size and alloca(3) - Linux manual page(be careful about allocation size here as you can overflow your stack). Using the GNU Compiler Collection (GCC) 

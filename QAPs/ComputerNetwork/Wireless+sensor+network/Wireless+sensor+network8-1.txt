@@ -1,2 +1,0 @@
-★What are some good resources to learn about wireless sensor networks?
-Hi, I started learning about Wireless Sensor Networks by building the application layer. It is exciting! I followed Rob Faludi's book on Basic Wireless Sensor Networks. It uses Arduino and Xbee to expalin some applications of WSN.    Embed Quote

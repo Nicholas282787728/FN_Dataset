@@ -1,2 +1,0 @@
-Why does the CodeChef online judge give me a SIGSEGV error while the code runs just fine on my machine for the practice problem FCTRL2 (Small Factorials)?
-If your question has still not been answered, I would suggest you to go through the discussion on this problem here: questions matching 'FCTRL2' - CodeChef Discuss And if you are not able to find the solution to your problem even after reading it, please post your question on the above forum. The community will certainly help you. Updated 66w ago • View Upvotes

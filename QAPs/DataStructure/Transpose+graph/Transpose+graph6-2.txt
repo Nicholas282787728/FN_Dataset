@@ -1,2 +1,0 @@
-Can we implement an AI search algorithm other than a tree or graph structure?
-If you are asking with the motivation of finding a more efficient search algorithm, this article might be interesting for you: Amoeba-inspired computing system outperforms conventional optimization methods 

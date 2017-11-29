@@ -1,3 +1,0 @@
-In the mathematical area of graph theory, a cage is a regular graph that has as few vertices as possible for its girth.
-
-Formally, an (r,g)-graph is defined to be a graph in which each vertex has exactly r neighbors, and in which the shortest cycle has length exactly g. It is known that an (r,g)-graph exists for any combination of r ¡Ý 2 and g ¡Ý 3. An (r,g)-cage is an (r,g)-graph with the fewest possible number of vertices, among all (r,g)-graphs.

@@ -1,2 +1,0 @@
-★What is HTML?
-HTML is what a browser "reads" to  present the page on the client-side computer. Introduction to HTML

@@ -1,2 +1,0 @@
-Will the first conscious AI be a distributed system or a single processor?
-My money is on distributed or as Glyn Williams said, a cluster. That kind of AI should be in a form, kind of, a brain, there's no other way. Meaby it will be a giant cluster or distributed system, as we in technology seems to like make the things really big in the beginning, but as the AI grows, it can and it should make himself thinnier, optimize himself to be able to fit in less equipment/space. 

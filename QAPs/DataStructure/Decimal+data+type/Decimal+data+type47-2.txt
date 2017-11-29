@@ -1,1 +1,0 @@
-How do I print recurring parts of decimal fractions in Java without the loss of precision?

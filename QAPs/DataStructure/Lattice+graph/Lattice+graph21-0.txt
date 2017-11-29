@@ -1,2 +1,0 @@
-What are the essential R packages?
-Off the top of my head: ggplot2 reshape plyr testthat actuar (for fat-tailed distributions) RODBC sqldfI don't know that these are essential, but they're pretty high on the list of packages I grab for a new R installation. Edit: I just came across   10 R packages every data scientist should know about, which is a pretty good list. Updated 154w ago • View Upvotes

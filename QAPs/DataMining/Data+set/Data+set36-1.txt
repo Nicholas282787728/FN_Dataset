@@ -1,2 +1,0 @@
-Where can i get stock market data set for data anlysis?
-Daily data is available online from various sources such as Yahoo, but intra-day data is closely guarded by the exchanges. No one can allow intraday data download (yet) but we build a coding environment so anyone can test ideas or theories inside https://www.quantconnect.com. It prepares the data for you, spins up a super cluster of machines, and pushes all the data you require into your algorithm event handlers one minute/second/trade at a time.    Embed Quote 

@@ -1,2 +1,0 @@
-★What is the connection between Bayesian Network Classifiers and Logistic Regression?
-Take a look at the new chapter of Tom Mitchell's Machine Learning textbook. Paragraph 4 gives the summary.    Embed Quote

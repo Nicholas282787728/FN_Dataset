@@ -1,2 +1,0 @@
-Which is the fastest yet "random" hash function?
-Leo Dorrendorf's answer to Which is the fastest yet "random" hash function? gives a good suggestion. The work of the late George Marsaglia is also very interesting (e.g. http://dsp-book.narod.ru/randgen... ). References: Random Number Generators (many links to good generators) http://paulbourke.net/miscellane... Marsaglia - RNGs 2003 post http://www.cse.yorku.ca/~oz/mars... librandom (KISS + MT generators) 

@@ -1,2 +1,0 @@
-★Are there resources for the practice of machine learning, like feature selection?
-I suggest to read "A Few Useful Things to Know about Machine Learning" by Pedro Domingos: http://homes.cs.washington.edu/~... Also, read the scikit's documentation, it's full of practical advice and examples. For example, on feature selection: 1.11. Feature selection    Embed Quote

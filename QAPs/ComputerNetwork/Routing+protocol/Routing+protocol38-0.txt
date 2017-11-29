@@ -1,2 +1,0 @@
-★I am very much interested in network programming and my dream company is Juniper. What should I learn to get a job at Juniper?
-Network programming would be a good start.  Routing protocols would help. Embedded systems and FreeBSD would be good.    Embed Quote

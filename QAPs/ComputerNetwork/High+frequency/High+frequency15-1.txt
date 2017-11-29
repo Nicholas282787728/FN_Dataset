@@ -1,2 +1,0 @@
-★What is the best high frequency trading model?
-The question belies a lack of familiarity with HFT. There are lots of HFT algorithms, and very few of those who own them report their individual performance.

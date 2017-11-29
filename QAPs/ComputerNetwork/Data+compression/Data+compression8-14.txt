@@ -1,2 +1,0 @@
-★How does file compression work?zip, tar, gz, rar etc. How does a file become 'smaller'?
-I'd say basically two ways. Lossless compression by eliminating redundancy in the message (lz, huffman, rle, etc).   Lossy compression, removing parts of the data that have minimal impact on "reproduction" (jpeg, OGG Vorbis, mp3, etc)

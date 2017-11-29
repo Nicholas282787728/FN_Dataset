@@ -1,1 +1,0 @@
-How do arrays relate to pointers?Array are not pointers, but in most cases array name evaluates as the pointer to the first element of the array. The subscript notation ar[i] (where ar designates a pointer) is a syntactic sugar for *( ar + i ). 

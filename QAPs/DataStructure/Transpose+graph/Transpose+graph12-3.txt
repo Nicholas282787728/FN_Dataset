@@ -1,2 +1,0 @@
-What are the top 10 math topics I should learn if I'm trying to become a data scientist?
-My list *of the absolute basics*, since you want to RE-learn would be (I'll just give five): Linear algebra - Matrices, matrix decompositions, vector spaces Probability theory - Random variables, basic distributions, central limit theorem Statistics - Regression, visualization, maximum likelihood estimation Calculus - Derivatives, graphs, planes, optimization Computational mathematics - Root finding algorithms 

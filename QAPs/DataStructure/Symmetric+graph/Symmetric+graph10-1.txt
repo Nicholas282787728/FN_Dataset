@@ -1,9 +1,0 @@
-Why are quadratic graphs always symmetrical?All quadratics can be written in what¡¯s called Vertex Form. That is to say, all equations of this form
-
-y=ax2+bx+cy=ax2+bx+c
-
-can be written as
-
-y=a(x?h)2+ky=a(x?h)2+k
-
-The process for how to do this is shown in the link I provided. But from there, it¡¯s simple to see why it¡¯s symmetrical around x = h. By putting in some numbers, both positive and negative, and seeing what happens, you¡¯ll notice that it doesn¡¯t matter if you¡¯re to the left or the right of h. As long as you¡¯re the same distance from h on either side, the corresponding y value will be the same. This is because (x?h)2=(h?x)2(x?h)2=(h?x)2 (as squaring a real number always gives a positive number).

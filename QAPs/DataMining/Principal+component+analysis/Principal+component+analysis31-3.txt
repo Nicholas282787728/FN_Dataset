@@ -1,2 +1,0 @@
-★Why is it beneficial to center and normalize the data before running Principal Component Analysis on it?
-Do you mean normalizing to [-1:+1] values? It depends on whether you're comparing features I think. (Or just independent component analysis).  (With Matlab's built in SVM for example).    Embed Quote

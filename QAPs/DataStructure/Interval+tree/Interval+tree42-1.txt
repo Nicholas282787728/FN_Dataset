@@ -1,2 +1,0 @@
-How to determine if at least one square can be made from a given set of n coordinate points in less than or equal to O(n^2) complexity?Square need not to be parallel to x-y axis.
-I guess you will have to use k-d tree or Interval tree for this purpose. BTW, have you thought of normal approach? You can exploit the standard geometrical properties of square to search for a square in a N-point space. For exploring this properties, have a look at: Square :) 

@@ -1,2 +1,0 @@
-How do I prove that simple k-regular, k>= 2, bipartite graph has no bridge?
-Removing a bridge from such a graph would create connected components with all degrees except one equal to [math]k[/math], and the remaining degree equal to [math]k-1[/math]. In such a component, the number of edges incident to one independent set is a multiple of [math]k[/math], but the number of edges incident to the other independent set is not, a contradiction. 

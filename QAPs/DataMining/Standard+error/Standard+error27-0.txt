@@ -1,2 +1,0 @@
-★I am using 3 features/independent variables in a multiple regression model trained on only 12 data points (times series).  My R^2 is high (97%+)/standard error low, but am I likely over-fitting my model given the few data points?How can I tell?
-If you are doing regular regression on a time series, you have other problems: Autocorrelation and probably correlation with variables not in the data.    Embed Quote

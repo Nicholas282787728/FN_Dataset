@@ -1,2 +1,0 @@
-What are some of the best algorithms?
-I can never forget this one as no other algorithm blew my mind with such a simple and elegant solution after spending time thinking in complex terms   Problem : rotate an array using constant space in o(n) time input: ( x1, x2 ... xk ... xn ) , k output ( xk, xk+1 ... xn, x1, x2 ... xk-1 ) Solution rotate (x, 1, n) { ... (more)

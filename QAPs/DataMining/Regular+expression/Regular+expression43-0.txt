@@ -1,2 +1,0 @@
-★What is the regular expression to extract 'What is (123+43)?' in the regular expression extractor of JMeter?
-This is Perl, but works in most implementations I think. (I haven't tested it) /\d+[\+\-\*\/]\d+/ Surround it with round brackets if you need a capture group. \d+ match as many digits as possible, at least one [\+\-\*\/] match a single character, which can be any one of +, -, * or /    Embed Quote

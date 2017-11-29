@@ -1,2 +1,0 @@
-★What is the difference between a parameter and an argument of a function/procedure?In most cases I've come across many use the terms interchangeably. One difference I've been told is one you use inside the function while the other you use outside the scope of the function. Some others were where a by-value or by-reference difference is noted. Though I'm still unsure.
-A parameter is the variable used in the declaration of function whereas an argument is the value passed to that function while calling it    Embed Quote

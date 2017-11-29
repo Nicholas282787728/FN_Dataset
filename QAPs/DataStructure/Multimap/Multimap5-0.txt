@@ -1,2 +1,0 @@
-RNA-Seq: What are multimapped reads in RNA-Seq?
-Multimapped reads are reads that map to more than one location. This happens because in eukaryotic genomes the genome sequence content is not unique. 

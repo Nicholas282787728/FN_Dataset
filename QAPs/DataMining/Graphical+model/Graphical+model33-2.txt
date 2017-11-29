@@ -1,2 +1,0 @@
-★What is the best toolbox/module to learn probabilistic programming? I would like to be capable of designing my own graphical models. And see quickly the effect of changes.Infer.net seems promising but I would also like to know about other options like BUGS etc. Pro and Cons of using them. and also with a perspective of being usable for building applications. BTW infer.net is not free for commercial applications.
-You could try Cameron Davidson-Pilon's book, Probabilistic-Programming-and-Bayesian-Methods-for-Hackers.    Embed Quote

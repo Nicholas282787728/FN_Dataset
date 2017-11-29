@@ -1,2 +1,0 @@
-What are data types in c?
-A data type in a programming language is a set of data values having predefine characteristics. There are three classes of data types: C data types can be divided into three types: 1. Fundamental or Built-in data types (Primary Data Types). 2. Derived data types (Secondary Data Types). 3. User Defined data types. Types of Data Type: I) Built-in data types: The basic built-in or fundamental data types that are available in C are:... (more)

@@ -1,2 +1,0 @@
-★What are the top packages in R for forecasting with seasonality?
-No need to use external packages to perform time series in R.  You can use the built-in function arima() to perform basic seasonal analysis or the ar() function to incorporate maximum likelihood algorithms.    Embed Quote

@@ -1,2 +1,0 @@
-★How is packet switching done in optical fiber communication and how is packet traffic handled?
-The optical fiber is just an alternative, or substitute, for the copper wire, but with higher bandwidth and better performance. Fibers connect switches and routers, who do the packet handling.    Embed Quote

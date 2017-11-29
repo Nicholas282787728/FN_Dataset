@@ -1,2 +1,0 @@
-★What is the difference between a recurrent state and a transient state in a Markov Chain?
-Recurrent states ♪ You can check-out any time you like, but you can never leave. ♪ If you start at a Recurrent State, then you will for sure return back to that state at some point in the future. Transient states ♪ You don’t have to go home, but you can’t stay here. ♪ Otherwise you are at a transient state. There is some positive probability that once you leave you will never return.    Embed Quote

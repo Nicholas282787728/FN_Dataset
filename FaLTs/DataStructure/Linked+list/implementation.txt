@@ -1,1 +1,0 @@
-Throughout we will use null to refer to an end-of-list marker or sentinel, which may be implemented in a number of ways.

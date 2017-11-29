@@ -1,2 +1,0 @@
-★How can you have Internet access in a Hyper-V VM that's running on an internal or private network?
-You cannot have internet access within an internal or public network. Add another NIC on External network to the virtual machine to facilitate internet access.    Embed Quote

@@ -1,2 +1,0 @@
-Where can I go online to study data structures, such as binary search trees, heaps, etc.?
-There’s a Coursera course offered by princeton called Algorithm Part I & II Algorithms, Part I - Princeton University | Coursera Algorithms, Part II - Princeton University | Coursera Its a full blown data structure and algo class, teaching from LinkedList to Graph to Regex and Huffman’s encoding. And they have interesting programming assignment that you SHOULD do. Very good for learning and refreshing your memory before interview :) 540 Views · 4 Upvotes

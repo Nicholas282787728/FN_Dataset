@@ -1,2 +1,0 @@
-What type of mathematics is behind Pixar animation?
-Tony DeRose leads the research group at Pixar. In the video below he explains some of the mathematics that goes into the geometric modelling used to render the animation. He specifically talks about a technique used to smooth out surfaces that are fed into their computers. 

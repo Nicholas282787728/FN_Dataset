@@ -1,2 +1,0 @@
-How can you solve 8 x +9 x =10 x   ?Without trial and error or approximation methods, please show details.
-Well, you can always use the Result vs Sending Functional Graphs. Remember in High School when the intersection point between two graphs was your result? And remember how the e^x graph was a parabola? Well, graphs for 9^x and 8^x have a similar nature to the e^x graph - that is parabolic. So you draw the curve for the 8^x+9^x graph and the 10^x graph, and wherever they intersect, you get the solution for 10^x which is 4.42439 

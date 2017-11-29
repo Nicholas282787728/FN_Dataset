@@ -1,1 +1,0 @@
-What is the fastest secure hash function recommended for general purpose use on x86?Needs to be both collision and preimage resistant. This is a follow-up question to How secure is MD5?.

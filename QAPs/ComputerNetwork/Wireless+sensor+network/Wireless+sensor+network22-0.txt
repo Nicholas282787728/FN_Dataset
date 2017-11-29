@@ -1,2 +1,0 @@
-★How can I build a low-cost wireless sensor network?
-There is a lot of information here: Low-Power Wireless Sensor Node I haven't tried myself, but I hope it helps    Embed Quote

@@ -1,2 +1,0 @@
-★Can a fiber Internet cable terminate in Ethernet?
-Yes again. In fact you can transport in Ethernet over fiber, MPLS, VPLS (more secure since layer 3 routing tables are not shared with provider) and then operate them all using SDN (software defined networking) for the ultimate in enterprise control!

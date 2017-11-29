@@ -1,2 +1,0 @@
-★What is the difference between a process and a thread?
-Ken Thompson was asked a similar question on Google Moderator. His answer: To me, process is a concept and thread is an implementation. I would like to see the implementation get closer to the concept. (I think he means that he'd like to see more concurrent programming done in the message passing style rather than the shared memory style. According to Wikipedia he worked on the Go language, which supports the message passing style, through channels.)

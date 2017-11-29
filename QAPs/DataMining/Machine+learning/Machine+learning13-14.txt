@@ -1,2 +1,0 @@
-★How do you explain Machine Learning and Data Mining to non Computer Science people?
-I have written a series of blog posts for my company Fliptop which explain classification, logistic regression, decision trees, and under/over fitting. They focus on machine learning applied to sales and marketing data, but don't require prior knowledge of this, and are specifically intended for non-technical readers: Post 1: Classification Post 2: Logistic Regression Post 3: Decisions Trees and Random Forests Post 4: Bias, Variance, and Overfitting    Embed Quote

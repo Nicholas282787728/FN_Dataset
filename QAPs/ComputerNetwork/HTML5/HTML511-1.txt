@@ -1,2 +1,0 @@
-★What's new in HTML5?
-New Attribute Syntax , Input Types and new Semantic Graphics (Canvas, SVG) New Media Elements (Video, Audio) UserMedia, Offline App Cache and more More info: HTML5 New Elements A resource for open web HTML5 developers

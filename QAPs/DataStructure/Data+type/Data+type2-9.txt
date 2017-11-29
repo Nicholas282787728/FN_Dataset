@@ -1,2 +1,0 @@
-What are data types in c?
-In short, Data-types are a permissible ways in which data or information can be represented inside a C program. C program has : a. Predefined datatypes: Char , Int, Float, Double, Long b. User Defined Datatypes :               Arrays - Collection of same datatypes               Structures : collection of different datatypes 106 Views

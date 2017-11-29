@@ -1,2 +1,0 @@
-What are the boolean values in Java?
-As people have noted, boolean values are true and false. They are also more interesting as boolean expressions, which you can use to control the flow of your application. I created a video here, which might help you. It also covers chars, but you can consider that a bonus. :) Enjoy! 

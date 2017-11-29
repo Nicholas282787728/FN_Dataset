@@ -1,2 +1,0 @@
-★I have an Arduino that has an Ethernet shield and a network server that can host a website for the local network. How can I control the output of each pin of Arduino, using a webpage with a secured communication?
-The Arduino can run as a web server.  In doing so, it can parse the URI, which can include a query string of pin states.  When the web server receives a request, break the URI apart and parse the individual values.  Use these values to set your pin states. Edit:  See Arduino WebServer controlled LED

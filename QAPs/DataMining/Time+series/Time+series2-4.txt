@@ -1,2 +1,0 @@
-★What techniques are useful for data mining financial time series?
-I have a great confidence in Holt-Winters model. In forecast process you can use has three major parts: 1. Prepare the historical data 2. Find the slope and seasonality 3. Create the future forecast and apply seasonality This is an example, blue are actual data, and then orange is predicted data for one year in front. You can see that pattern is well recognised.    Embed Quote

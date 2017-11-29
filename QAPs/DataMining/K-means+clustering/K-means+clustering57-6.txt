@@ -1,2 +1,0 @@
-★What are the best open source machine learning libraries written in C++?
-Probably dlib. It includes almost all of the popular ML algorithms. Its leaner algebra support is the best.    Embed Quote

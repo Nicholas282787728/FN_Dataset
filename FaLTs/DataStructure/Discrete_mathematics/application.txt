@@ -1,4 +1,0 @@
-The study of mathematical proof is particularly important in logic, and has applications to automated theorem proving and formal verification of software.
-Partially ordered sets and sets with other relations have applications in several areas.
- It has applications to cryptography, cryptanalysis, and cryptology, particularly with regard to modular arithmetic, diophantine equations, linear and quadratic congruences, prime numbers and primality testing.
- Petri nets and process algebras are used to model computer systems, and methods from discrete mathematics are used in analyzing VLSI electronic circuits.  

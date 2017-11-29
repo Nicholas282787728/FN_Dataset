@@ -1,2 +1,0 @@
-★What is an HDMI cable with Ethernet?Is it used with connection together with two devices connected double ethernet cable or "HDMI cable with ethernet"means something else?
-it isn't likely to help you stream anything to it either, unless you  have a requirement for HDMI devices to share a network connection. Version 1.4 of the HDMI standard allows for 100Mb ethernet to be  transmitted along the cable between to HDMI 1.4 capable devices.

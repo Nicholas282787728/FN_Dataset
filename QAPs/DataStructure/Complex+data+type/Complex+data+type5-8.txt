@@ -1,1 +1,0 @@
-What are some cool things that are easy to do in Haskell but hard to do in other languages?I'm curious if I should learn Haskell for fun.

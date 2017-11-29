@@ -1,2 +1,0 @@
-★Are high frequency trades all automated?
-Yes they are. The idea of high frequency is low latency execution. So manual traders can not compete or execute as such levels. Consider that some HFTs are at times nano seconds for the larger firms. Disclaimer: There is a risk of loss in futures trading.

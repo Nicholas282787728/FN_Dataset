@@ -1,2 +1,0 @@
-Why is the Boolean data type absent in C?
-All other languages with Boolean type natively supported store boolean values as Int or Byte internally. So separating Boolean type from Int type is really not very meaningful. 2.3k Views · 1 Upvote

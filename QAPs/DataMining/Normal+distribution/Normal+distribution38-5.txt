@@ -1,2 +1,0 @@
-★How do I derive normal distribution and why can it apply to so many things?I never understood why things would converge to normal distribution, and how people derived the complicated formula. Can anyone try to explain that?
-That is the Central Limit Theorem.  If you average a bunch of independent identically distributed random variables, it converges to a normal distribution.  That's the reason the normal distribution shows up in so many places.    Embed Quote

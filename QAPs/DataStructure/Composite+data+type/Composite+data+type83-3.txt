@@ -1,1 +1,0 @@
-How do you shard data along 2 dimensions?Suppose I have a user ID and an object ID, and bipartite relationships between both users and objects. How can I shard this data effectively along both these dimensions, since sharding along any one dimension isn't necessarily efficient?

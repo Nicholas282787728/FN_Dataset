@@ -1,2 +1,0 @@
-★What is the difference between probability distribution and probability density?
-A probability distribution assigns a probability to a set of possible outcomes, either discrete or continuous. A probability density function, which I assume you meant, is a function which characterizes these probabilities on that set of possible outcomes. Moreover, a probability distribution is the data, and a probability density function is the function of the data. I could be wrong, though.    Embed Quote

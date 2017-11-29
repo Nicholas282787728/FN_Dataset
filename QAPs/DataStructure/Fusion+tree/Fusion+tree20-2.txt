@@ -1,2 +1,0 @@
-As of 2015, what component is the weekest/slowest part of smartphones, that slows everything down?
-I think it's the HD display, which requires intensive computation, simply because there are many more pixels to calculate the colors for. 

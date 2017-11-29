@@ -1,2 +1,0 @@
-As of August 2012, what is the current state of the art in distributed hash tables?
-Kademlia is the DHT algorithm with the largest real world usage:   Kademlia http://en.wikipedia.org/wiki/Kad... Large scale implementations (with millions of peers): Kad Network http://en.wikipedia.org/wiki/Kad... Overnet network: http://en.wikipedia.org/wiki/Ove... BitTorrent (for trackerless torrents) http://en.wikipedia.org/wiki/Bit... FAROO http://en.wikipedia.org/wiki/FAROO ... (more)

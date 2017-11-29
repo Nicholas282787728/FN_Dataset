@@ -1,2 +1,0 @@
-What is the advantage of using hash tables?
-Lookup efficiency! 1.3k Views

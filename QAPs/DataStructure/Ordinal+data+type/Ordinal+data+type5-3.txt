@@ -1,2 +1,0 @@
-Why is the generative/discriminative distinction important in machine learning?
-A generative model learns the data distribution while a discriminative model learns decision boundary for classification (possibly after projecting to a space where classification is easier than in the original space). Learning data distribution with a generative model doesn't require label. However you can use label and data with a generative model for the purpose of modelling data-label joint distribution. Thus, a generate model can also be used for classification. 

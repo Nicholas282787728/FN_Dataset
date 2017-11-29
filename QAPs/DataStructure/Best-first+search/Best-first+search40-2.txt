@@ -1,2 +1,0 @@
-What are the best books to learn algorithms and data structures? Are there any good blogs/posts on these? Which books explain these concepts in a simpler way?
-There is no doubt that CLRS and Algorithms by Robert Sedgewick are the best books. If you know Java, I recommend you to read the book by Robert Sedgewick. There is a course on coursera too supporting the book. These courses are excellent too. Here are the links: https://www.coursera.org/course/algs4partI https://www.coursera.org/course/... 22.5k Views · 5 Upvotes

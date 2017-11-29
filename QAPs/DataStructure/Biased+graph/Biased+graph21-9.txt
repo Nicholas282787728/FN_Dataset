@@ -1,2 +1,0 @@
-What tools do data scientists use for professional presentations (e.g. diagrams, graphs, flow charts, etc.)?
-Excel and PowerPoint will do the trick. Most of the time you are presenting to the managers and executives and they prefer simple graphs rather than some complicated 3D heat map. If you want to write a cool blog post the recent trend is to use an infographic which most of the times needs a designer. 1.8k Views · 4 Upvotes

@@ -1,2 +1,0 @@
-What are abstract data types?
-Basically, it's a data type (boolean, integer, etc.) that doesn't specify exactly how you implement it, but still has some key characteristics. A good example is a stack. You can implement a stack in whatever programming language you want. 

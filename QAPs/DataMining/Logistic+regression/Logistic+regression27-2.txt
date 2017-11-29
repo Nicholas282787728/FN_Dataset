@@ -1,2 +1,0 @@
-★Support Vector Machines: What is the difference between Linear SVMs and Logistic Regression?
-To add to the answers below, in short they have different objectives. Logistic regression finds a classifier which maximizes the conditional likelihood of the training data. SVM maximizes the margin between points closest to the classification boundary.    Embed Quote

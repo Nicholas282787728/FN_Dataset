@@ -1,2 +1,0 @@
-Is Python good for developing games? Why or why not?
-The best and worst thing you can say about python is the second best choice for everything. 

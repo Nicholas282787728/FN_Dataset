@@ -1,2 +1,0 @@
-★Can you route a VOIP protocol over TOR?
-In a word, yes if it's UDP, but practically -- no.  The latency produced by unpredictably encrypting and forwarding three hops through the Tor cloud would produce unacceptably choppy VOIP results.  We don't recommend it for any kind of voice or video streaming.    Embed Quote

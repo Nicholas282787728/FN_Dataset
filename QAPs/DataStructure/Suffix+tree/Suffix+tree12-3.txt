@@ -1,2 +1,0 @@
-What are some good resources on data structures like Tries, Suffix Trees and Suffix Arrays?
-You can have a look at the document "Suffix arrays – a programming contest approach" http://www.stanford.edu/class/cs... Though it is written from a programming contest perspective but still I think it is a good learning resource for general purpose. 

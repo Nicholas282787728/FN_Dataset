@@ -1,1 +1,0 @@
-Can a balanced binary tree be a better option than a complete binary tree for storing a set of elements?Implementation of a balanced binary tree requires less RAM space as we do not need to keep complete tree in RAM (since they use pointers). Check this related question: Can a complete binary tree be a better option than a balanced binary tree for storing a set of elements? 

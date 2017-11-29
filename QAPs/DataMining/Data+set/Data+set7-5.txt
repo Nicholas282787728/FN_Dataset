@@ -1,2 +1,0 @@
-What is the best way to implement an autocomplete search feature when dealing with large data sets?
-The way IMDb handles autocomplete in their mobile apps is very clever: http://aws.amazon.com/de/solutio...    Embed Quote 

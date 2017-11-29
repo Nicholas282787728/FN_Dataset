@@ -1,2 +1,0 @@
-★Is there an online service with a REST-like API for sending faxes?I'm not looking for a personal solution but rather one that could be added to a web application. I don't want awful complicated APIs and a simple metered service (you pay only per fax, no other setup etc. charges) would be ideal. Does such a thing exist?
-FaxLogic offers exactly that (a REST API for sending and receiving faxes), as well as several other options for API integration. http://www.faxlogic.com/api    Embed Quote

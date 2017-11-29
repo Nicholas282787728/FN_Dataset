@@ -1,2 +1,0 @@
-Is String data type?
-String is not a data type or you may say primitive data type. String is just a array of characters ending with null byte in C. In java, String is a class. please follow this link for more 191 Views

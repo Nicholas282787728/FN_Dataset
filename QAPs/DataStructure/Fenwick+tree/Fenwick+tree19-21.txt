@@ -1,2 +1,0 @@
-What is the most complex line of C code you have created or encountered?
-There is an annual contest to judge the most obfuscated C code; the International Obfuscated C CodeContest.  You will find the most egregious results in the winners (here): http://www.ioccc.org 

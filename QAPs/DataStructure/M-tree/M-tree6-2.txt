@@ -1,2 +1,0 @@
-In a square area with sides equal to 5 m, one has to plant mango trees. The distance between two consecutive trees should be 1 m. What will be the total number of trees in that area?
-If you want to plant trees with a conditional distance of 1 m between two consecutive trees, it means you end up making an imaginary square of         1m X 1m. So the area of this imaginary square would be 1 m^2. Lets assume total such squares = x which means that (1m X 1m)x = 5m X 5m so x = 25 So my answer is 25 trees. 

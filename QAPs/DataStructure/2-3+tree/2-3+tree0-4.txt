@@ -1,1 +1,0 @@
-What are 2-3 trees good for? When would you use a 2-3 tree rather than an AVL or other type of balanced BST? Frequently asked in

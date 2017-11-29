@@ -1,2 +1,0 @@
-What are some applications of algorithms in theoretical computer science to problems in practice?Other than the obvious answer of sorting and searching. Preferably, something more advanced.
-Look at various sorting algorithms. Lots of algorithms to sort a list or array or even multiple variables. If that's not what you mean you'll need to specify a little further. 

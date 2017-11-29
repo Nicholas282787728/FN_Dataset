@@ -1,1 +1,0 @@
-Why did innovation on persistent data structures come from Clojure before Haskell?

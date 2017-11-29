@@ -1,2 +1,0 @@
-What is the difference between a cyclic and an acyclic graph in graph theory?
-Cyclic graph are the ones that contains at least one cycle in the graph.cycle in the graph is a set of consecutive vertices and first and the last vertices are same whereas acyclic doesn't have any cycle 

@@ -1,2 +1,0 @@
-What are some of the most counterintuitive mathematical results?Like cantor's results on infinities, the rearrangement theorem in analysis
-Goldbach's conjecture : Any even number greater than two can be expressed as sum of two primes. (Yet to be proved, assumed to be true) Halting problem : It is impossible to write a program which takes other programs as inputs and decide whether they will terminate or not. (This is proved) 

@@ -1,2 +1,0 @@
-★What are the must read papers on data mining and machine learning?
-I would add Andrew Ng's "On Discriminative vs Generative classifiers: A comparison of logisitic regression and naive Bayes paper.    Embed Quote

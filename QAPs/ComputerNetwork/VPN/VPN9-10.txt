@@ -1,2 +1,0 @@
-★What is a VPN, in layman's terms?
-VPN stands for VIRTUAL PRIVATE. The use of encryption in the lower protocol layers to provide a secure connection through anotherwise insecure network, typically the Internet. VPNs are generally cheaper than real private networksusing private lines but rely on having the same encryption system at both ends. The encryption may beperformed by firewall software or possibly by routers. Link-level (layer 2 and 3) encryption provides extra protect. For more details: Visit.. http://wwww.betsvpn.co.uk    Embed Quote

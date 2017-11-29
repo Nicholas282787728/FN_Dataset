@@ -1,2 +1,0 @@
-★What website DNS providers have the lowest latency?
-We just released a free web-based test that lets you measure these sorts of metrics: http://cloudharmony.com/dnstest

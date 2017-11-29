@@ -1,2 +1,0 @@
-Why doesn't Haskell have mutable array without IO monad?
-There actually is a library that does this: it's called DiffArray. Unfortunately it has a pretty bad performance bug, but I guess a fresh implementation of the same basic idea could work. 

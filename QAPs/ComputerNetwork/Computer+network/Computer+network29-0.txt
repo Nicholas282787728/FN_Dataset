@@ -1,2 +1,0 @@
-★What are some good interview questions asked from computer networks?I am a fresher.
-''If you open your browser and type an URL (e.g. ) what happens till the page is rendered?'' is a great or silly question depending on the passion of the participants (both asker and candidate). There are so many technologies that need to be involved to display a web page, even discussing a single one in depth can consume the whole slot. It gives an idea of overall understanding, and then opportunity to drill down to any layer the candidate is strong in.

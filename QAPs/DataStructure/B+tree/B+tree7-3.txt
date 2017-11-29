@@ -1,2 +1,0 @@
-What is an intuitive explanation of the B-tree data structure?
-B-trees are essentially "A linked sorted distributed range array with predefined sub array size which allows searches, sequential access, insertions, and deletions in logarithmic time". Detail post here: Memory locality & the magic of B-Trees! by Pawan Bhadauria on Love for Programming 1.4k Views · 2 Upvotes

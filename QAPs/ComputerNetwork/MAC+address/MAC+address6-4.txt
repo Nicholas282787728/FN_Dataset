@@ -1,2 +1,0 @@
-★What's is the difference between port number and Mac address?
-In simple words, MAC address is address of any device that is used in networking like Ethernet adapters and Port Numbers are used to identify software services provided by OS that may be client or server. For large descriptions there are other answers.    Embed Quote

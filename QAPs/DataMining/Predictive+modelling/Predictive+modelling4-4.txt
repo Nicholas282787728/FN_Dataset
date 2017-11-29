@@ -1,2 +1,0 @@
-★What is the best open source software to use for building predictive models?Any advice on techniques to train the model?  Segment the data?
-Liblinear is an excellent library but it is released under GPL. you might be interested in TinySVM which is released under LGPL.http://chasen.org/~taku/software.... For logistic regression, you should check out Paul Komarek's LR-TRIRLS library which is extremely fast. It is released under GPL.http://komarix.org/ac/lr/    Embed Quote

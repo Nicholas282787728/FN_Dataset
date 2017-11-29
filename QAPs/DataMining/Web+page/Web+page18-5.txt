@@ -1,2 +1,0 @@
-★What's the best way to implement a Mind Map as a web page?Not just a generated picture, but something more interactive, so you can edit it easily. Maybe some services have widgets or APIs.
-I would probably use D3.js mbostock/d3 You could possibly use canvas as well. Or just copy existing solution mindmup/mapjs. You should probably use mixture of above depends what effect you want to achieve.    Embed Quote

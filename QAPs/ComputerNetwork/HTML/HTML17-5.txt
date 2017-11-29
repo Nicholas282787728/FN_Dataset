@@ -1,2 +1,0 @@
-★Is a web browser just an HTML interpreter?
-It's not just interpreter(though it has JS interpreter) Nowaday, it's a platform to execute Web Apps of services, just like GMail, Twitter, Facebook...etc. As you've seen, it's not just interpreter, but also a platform to execute Apps & make interactions with user, just as Android, iOS do.

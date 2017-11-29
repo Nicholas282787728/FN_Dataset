@@ -1,2 +1,0 @@
-What are some of the reasons to take a graphics computer science course if I have no plan to work in the game industry?
-Graphics is not limited to computer games.  In case you haven't  noticed, everything you see on the modern computer screen is form of computer graphics! Including Windows for past 20 years, smart phones, video players, business apps, web apps, scientific apps, CAD/CAM,  3d modelers, ...etc 

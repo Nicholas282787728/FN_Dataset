@@ -1,2 +1,0 @@
-★When will IPv6 replace IPv4 completely on the planet?
-IPv4 will be completely replaced when no computers run it anymore, this could take a very long time depending on how long it takes every one of those systems to either be replaced or fail. IPv6 is already being deployed in some service provider (6PE is a good example of this) and some modern data centers. I'd estimate it will take on the order of hundreds of years for IPv4 to go extinct    Embed Quote

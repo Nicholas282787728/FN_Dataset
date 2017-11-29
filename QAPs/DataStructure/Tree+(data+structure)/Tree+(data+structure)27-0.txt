@@ -1,2 +1,0 @@
-Can someone give link to the source code of a project which uses binary tree data structures?
-Boost.Intrusive contains implementations of various binary search trees, including AVL trees, splay trees, and red-black trees. 

@@ -1,2 +1,0 @@
-★What is the difference between a univariate and multivariate hidden Markov model?
-In a univariate hidden Markov model, one emission corresponds to one variable, whereas in a mulivariate hidden Markov model, one emission corresponds to several variables. In other words, the first case the emissions for one state form a vector whereas in the second case it's a matrix. Univariate:    Embed Quote

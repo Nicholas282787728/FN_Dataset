@@ -1,2 +1,0 @@
-★What is a genetic algorithm?
-Can you throw some light on Tournament selection. I had read in a book that in a tournament selection, each solution is made to play 2 times. Is this a standard rule or it depends on the problem.?    Embed Quote

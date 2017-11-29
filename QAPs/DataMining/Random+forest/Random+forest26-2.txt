@@ -1,2 +1,0 @@
-★When and why is  naive bayes classifier a better/worse choice than random forest  classifier?
-When your data is dynamic and keeps changing.  NB can adapt quickly to the changes and new data while using a RF you would have to rebuild the forest every time something changes.    Embed Quote

@@ -1,2 +1,0 @@
-★What's the difference between master data and metadata?
-Master Data consists of all the business critical data in your organization (customers, materials, employees, products etc.). Metadata is used to describe data content or data containers.  For example an image could have certain metadata such as owner, location of shoot, description and such (data about data content). A piece of software has metadata about the language the software is written, the program used to make the site, creator, standards etc. (data about data container).    Embed Quote

@@ -1,1 +1,0 @@
-How can I code in C to find a lonely integer in an array?Check all the elements if the provide a remainder when divided by 1 the element which will satisfy this criteria will be the lone integer. 364 Views

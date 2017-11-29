@@ -1,2 +1,0 @@
-★What is the best way to diagnose packet loss in a wireless network?
-Signal Mapping. Map the signal strength, only when you have visual indication of the signal strength, can you really tackle the problem.    Embed Quote

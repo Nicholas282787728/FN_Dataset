@@ -1,1 +1,0 @@
-What is the difference between cluster and node?With respect to computing. A cluster is a group of loosely coupled computers that work together closely.Cluster A node is the computer representation of a node in a graph, and a basic unit used to build data structures.Node Hope, this helps you. 156 Views

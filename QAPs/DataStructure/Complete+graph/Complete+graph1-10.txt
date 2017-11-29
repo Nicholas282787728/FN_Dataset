@@ -1,1 +1,0 @@
-What is the difference between a complete graph and a dense graph?

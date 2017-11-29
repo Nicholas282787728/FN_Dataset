@@ -1,2 +1,0 @@
-What is a good tool to compare scatter data?
-RAW is a quick and fun way to visualization data in various forms. If you want something more advanced that is DIY, probably go with Tableau. 

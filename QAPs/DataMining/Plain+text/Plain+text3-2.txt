@@ -1,2 +1,0 @@
-★Will secure protocols eventually replace all plain-text protocols online?As bandwidth and CPU power increases, will it make sense for all online communication to be sent through an encrypted layer?
-Even if CPUs get infinitely fast, we'll always have latency. You can't negotiate a secure connection without making at least one round trip.    Embed Quote

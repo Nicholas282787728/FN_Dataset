@@ -1,2 +1,0 @@
-What is the highest exact number ever calculated, and for what purpose was it used?
-Graham's number has achieved the status of a mathematical classic, but far bigger (finite) numbers have appeared in proofs.  Look for example at Kruskal's tree theorem at http://en.wikipedia.org/wiki/Kru....  It's also very easy, using Conway's chained arrow notation (see ,http://en.wikipedia.org/wiki/Cha...) to create numbers even larger than these. 

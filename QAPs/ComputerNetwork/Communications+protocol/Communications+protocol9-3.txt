@@ -1,2 +1,0 @@
-★Which wireless communication protocol is used in wireless keyboards and mice?
-Most time it is on a proprietary 2400 MHz protocol. Later wireless keyboards and mice offer  a proprietary 2400 MHz and Bluetooth Low Energy. BLE forwireless keyboards and mice is still rare.

@@ -1,2 +1,0 @@
-What makes C++ so good?
-For me, C++ can give the performance that only a portable assembler like C can deliver at the productivity that only high level languages (C#/Java) can offer. 

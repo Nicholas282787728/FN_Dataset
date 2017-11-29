@@ -1,2 +1,0 @@
-What are the most advanced mathematics that apply to architecture?
-The Gateway Arch, a 630-foot (192 m) tall monument in St.Louis U.S.A is one architectural piece which i could think of. It is built by applying complicated mathematics and optimizing the shape so as to get a curve with least stress in walls. Ideally this mathematically would come out to be a catenary curve, which is y = A*cosh(x/L). P.S.The same curve inverted in shape  is obtained when you hang a rope between two horizontal supports. The exact equation is y = 68.7672*(cosh(3.0022*x/299.2239)-1) (in feet). 

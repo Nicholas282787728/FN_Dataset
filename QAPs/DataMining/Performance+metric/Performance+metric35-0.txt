@@ -1,2 +1,0 @@
-★Without application performance metrics, what is the simplest way to estimate Rackspace and Amazon costs from startup to scale?How do you estimate per user, per GB of storage, and per GB of file upload and download
-@Cloudability is a great app for this.    Embed Quote

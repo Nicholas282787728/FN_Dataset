@@ -1,1 +1,0 @@
-Can a search tree be implemented as k-ary?

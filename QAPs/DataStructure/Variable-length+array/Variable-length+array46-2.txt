@@ -1,2 +1,0 @@
-How does a computer compute numbers greater than their registers can hold?
-You may be interested in looking into The GNU MP Bignum Library GMP is a free library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. There is no practical limit to the precision except the ones implied by the available memory in the machine GMP runs on. GMP has a rich set of functions, and the functions have a regular interface. Numbers are stored in arrays and the algorithms work on those arrays just like any other numerical operation. 

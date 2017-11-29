@@ -1,2 +1,0 @@
-★How can predictive modeling analysis be used for urban planning applications?For example, can predictive modeling be used for disaster planning, say to model the likelihood of a flood plain to flood during a Category 5 hurricane?
-What Urban Planning do is predicting. What apps can do is only to analyse. （ppt，for example） If we can predict sth easily，it must be statistical's victory.  I guess.    Embed Quote

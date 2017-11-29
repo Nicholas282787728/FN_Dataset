@@ -1,2 +1,0 @@
-★If your Mac has working Wifi and Ethernet, which does it prioritize?
-The order of preference can be found at the bottom of the 'Network' System Preference pane, inside the action menu with a gear symbol on it. The menu item is called 'Set Service Order'.

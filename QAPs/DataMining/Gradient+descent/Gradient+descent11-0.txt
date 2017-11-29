@@ -1,2 +1,0 @@
-★Convex Optimization: Why use gradient descent when the normal equation exists?
-Andrew Ng answered this question in the Coursera ML Course (https://www.coursera.org/course/ml): the Normal Equation (one step algorithm) is computationally painful to use when you have many dimensions: Slides:    Embed Quote

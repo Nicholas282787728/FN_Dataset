@@ -1,2 +1,0 @@
-★How does a proxy server work?
-Proxy server acts as a link between your pc and the website server you are trying to access, and indirectly fetches the information to your pc via the proxy server. In this way, your details are hidden because the request for information is not sent to the website server from your pc, instead it is sent from the proxy server. We can imagine a proxy server to be a separate computer connected between your pc and the internet.    Embed Quote

@@ -1,2 +1,0 @@
-Why is my C++ code showing a compilation error to problem SPOJ.com - Problem FIBOSUM?
-If I assume that you are only following C++ standards  not C99, then the   statement : unsigned long long f[n];    would give you a compilation error.Because variable 'n' is a non-const variable. /* If you are following C99 , then it's fine ; This feature is supported as a VLA (Variable Length Arrays)  now */ So, do check which standard does your compiler adhere. 

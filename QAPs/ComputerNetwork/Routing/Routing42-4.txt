@@ -1,2 +1,0 @@
-★What are the difference between forwarding and routing?
-Routing is determining which way the packet will use to reach its destination easily and effectively, While forwarding refers to when the information enters the router and it defines when it will be sent!    Embed Quote

@@ -1,2 +1,0 @@
-★Are there some good personal knowledge management tools?
-It seems to me that almost all the tools/apps on my (far too many) Apple devices can be called KM tools.  Harold Jarche does a much better job at this than me; providing a framework for thinking through personal KM (seek, sense, share).  My recommendation is to consider the application of a PKM framework to your needs - what are you trying to accomplish, what are your challenges, etc. - before deciding to invest your time in DEVONThink or Evernote or - heck - Quora... PKM | Harold Jarche    Embed Quote

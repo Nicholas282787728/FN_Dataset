@@ -1,2 +1,0 @@
-How are NPCs programmed?
-A basic way to do it would be to set a ton of conditions. e.g If player has completed quest x Say "grats" If... Etc, etc 

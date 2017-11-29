@@ -1,2 +1,0 @@
-★Where can a person find a good quick reference guide or cheat sheet for  linear model theory at the level of "A first course in the theory of linear statistical models" by Raymond H. Myers, Janet Susan Milton?
-Maybe this helps: vasishth/MScStatisticsNotes    Embed Quote

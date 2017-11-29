@@ -1,2 +1,0 @@
-★Difference Between HTML and CSS?
-HTML - base CSS - design

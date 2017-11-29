@@ -1,2 +1,0 @@
-★Should I write random forest code on my own?
-Writing a simple random forest algorithm shouldn't take too much time, and would be a great learning experience. Maybe play with a few alternative implementations before trying to write your own to see the differences and learn from them. I would also suggest reading the code for a few of them, but maybe after writing your own. In any case this is a learning exercise, if you need results, use tried and tested implementations!    Embed Quote

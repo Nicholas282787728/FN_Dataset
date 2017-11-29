@@ -1,2 +1,0 @@
-In layman's terms, what is lazy propagation in a segment tree?
-Lazy Propagation simply means updating a node only when that particular node is queried, otherwise all the updates are accumulated for future propagation. This link might be of help for beginners : Lazy Propagation in Segment Tree : HORRIBLE Hope it Helps 

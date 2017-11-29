@@ -1,1 +1,0 @@
-How are Eigenvectors and Eigenvalues used in image processing?

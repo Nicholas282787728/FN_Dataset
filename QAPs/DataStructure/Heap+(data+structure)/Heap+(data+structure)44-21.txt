@@ -1,2 +1,0 @@
-How do I start learning or strengthen my knowledge of data structures and algorithms?
-Originally Answered: How did you start learning programming language with data structures and algorithms? Start by learning Data Structures. Most Algorithms have their root in a data structure. 101 Views · Answer requested by Sean Doody

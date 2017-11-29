@@ -1,2 +1,0 @@
-★Can we implement a routing algorithm of our choice in wireless mesh networks?
-yes we can infact u can find many papers in which people have given their own algorithms and even showed how its better than the existing ones    Embed Quote

@@ -1,2 +1,0 @@
-★Should i give pc static ip or use the router DHCP?
-Depends completely on the purpose!! If u are planning to host a site all by yourself....you would definitely want to use static IP....but that again requires you to specify DNS servers. If its for general use....use the router DHCP....fast and secure.

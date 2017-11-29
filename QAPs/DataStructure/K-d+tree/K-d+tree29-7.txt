@@ -1,1 +1,0 @@
-Under what conditions would a slow algorithm run faster than a fast algorithm?

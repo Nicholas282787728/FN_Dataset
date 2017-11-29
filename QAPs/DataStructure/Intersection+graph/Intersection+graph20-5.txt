@@ -1,2 +1,0 @@
-Why are there no solutions to the equation x 2 +6x+9 − − − − − − − − −  √ =x  ? Wouldn't x=−3/2  be a solution?
-This is simply due to a convention that we widely follow in mathematics. When we say x 2 =9  , then it means that x=±3  However, the symbol √  , it is used to denote only the positive value of the square root!  Therefore, when we write x=9  √   , then we only mean that x=3  , and not x=−3  . Therefore, √  of anything cannot be -3/2. 

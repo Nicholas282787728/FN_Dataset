@@ -1,2 +1,0 @@
-As we start planning the next edition of Introduction to Algorithms (CLRS), what should we add and what should we remove if the 4th edition cannot be larger than the 3rd edition?
-Include: 1. Trie data structure. 2. A complete chapter dedicated to Backtracking. 3. Introduction to Machine learning algorithms.(Seeing the growing interest in Big data, AI, machine learning and Data mining.) Remove: 1.Linear programming 1k Views · 2 Upvotes

@@ -1,1 +1,0 @@
-When char x=-135, printf ("%d", x) gives output= 121, how?

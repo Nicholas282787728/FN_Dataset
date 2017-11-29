@@ -1,2 +1,0 @@
-What is data type in Java?
-Data Types in Java Video explains Java primitive and Non primitive data types. Java primitive data types byte, short, int, long, float, double, char and Boolean. Java non primitive data types are objects. Explicit declaration of data types in Java, types of results in computer programming and data type conversion. 186 Views · 2 Upvotes

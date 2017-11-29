@@ -1,2 +1,0 @@
-Which is better for data analysis: R or Python?Python has come up a long way in data analysis with its Scipy, Numpy and Pandas platforms. Is R still a better data analysis language than Python? Has anyone else used Python with Pandas to a large extent in data analysis projects?
-You don't have to choose.  The  rpy2 package allows you to programmatically move models and objects between Python and R.  It's a little quirky, but it basically works, and it allows you to use both languages for what they're good at. 

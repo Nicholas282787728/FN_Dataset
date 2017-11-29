@@ -1,2 +1,0 @@
-How might we transform a quadratic curve into a straight-line graph?
-Don’t think of having a quadratic curve, think of having N (x(n), y(n)) pairs of data which you need to fit in a straight line, y(i) = ax(i)+ b(i), or in matrix form y = [A|b] [x|1] T   T This is a standard (over-determined) regression problem and can easily be solved in the mean-square sense. Note that typically we translate a curve using a piece-wise linear graph (that is, using multiple linear segments); using a single graph may simply give you horrible approximation. 799 Views

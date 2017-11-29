@@ -1,2 +1,0 @@
-★What are the most important marketing strategies for a web startup?We're an engineering focused team and need some advice on how to market our startup thinkpanda.com
-Step 0: make sure your website works.... right now, I get this: Fatal error: Class 'intl' not found in /home/notewagoncom/public_html/inc/global.php on line 70    Embed Quote

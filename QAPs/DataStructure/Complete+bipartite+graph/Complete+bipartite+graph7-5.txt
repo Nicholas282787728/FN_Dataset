@@ -1,2 +1,0 @@
-What are some ideas for a research project/paper on number theory/computer science/mathematics?I am a high schooler and really interested in number theory and computer science.
-As you are writing a research paper, you would be citing other papers. Think how research papers are cited in terms of citation network and then apply graph theory concepts. Citation index Network science 

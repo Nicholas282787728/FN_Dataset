@@ -1,2 +1,0 @@
-★Why isn't supervised machine learning more automated?
-Look - it's there for years. Even if it's not really useful. Automation should be about repeating of well defined tasks. Good data-miners can easily automate data-mining streams and create the magic button.   Intelligent data-mining is what you are looking for. Intelligence (human or  artificial) has to understand the task, prepare data, evaluate various machine learning algorithms and interpret the results. So far it's easier to hire a human. Dare you create AI for this! We'll lose our jobs ;-)    Embed Quote

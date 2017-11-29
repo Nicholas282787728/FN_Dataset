@@ -1,2 +1,0 @@
-★What are some of  the very good ETL tools for mysql?
-Why not try Linx 5? Linx is a windows application, but it can connect to any database to performs ETL processes. Linx is easy to use, powerful and the beta is free. Linx    Embed Quote

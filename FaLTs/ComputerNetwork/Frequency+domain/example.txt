@@ -1,1 +1,0 @@
-Due to popular simplifications of the hearing process and titles such as Plomp's "The Ear as a Frequency Analyzer," the inner ear is often thought of as converting time-domain sound waveforms to frequency-domain spectra. The frequency domain is not actually a very accurate or useful model for hearing, but a time/frequency space or time/place space can be a useful description.[2]

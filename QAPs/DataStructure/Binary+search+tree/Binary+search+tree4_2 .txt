@@ -1,1 +1,0 @@
-What is the best balanced binary search tree to know?Self-balancing binary search tree It always keeps tree's height minimum during insertion or deletion. 

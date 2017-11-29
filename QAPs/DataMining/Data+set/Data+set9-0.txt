@@ -1,2 +1,0 @@
-Are there any products like Socrata, but for private data sets?
-InfoChimps (Infochimps (company)), Factual (Factual (company)), DataMarket, Azure DataMarket, Timetric (Timetric (company)), Kasabi, BuzzData (BuzzData (company)) all of the above provide options to publish/consume private datasets check out a presentation I prepared several months ago on the topic: http://www.slideshare.net/marin_...    Embed Quote 

@@ -1,1 +1,0 @@
-Is it a good minimum requirement for a software engineer to be able to write an algorithm for a breadth-first binary tree traversal?Actually no. Why would you want to traverse a tree in breadth-first order? Its very memory inefficient as you need to store the a list of nodes at one particular depth before you go onto the next level. 

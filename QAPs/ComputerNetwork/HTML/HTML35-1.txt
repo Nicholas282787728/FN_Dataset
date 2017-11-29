@@ -1,2 +1,0 @@
-★What is HTML Elements?
-A stuff wrapping contents and give them propertys.

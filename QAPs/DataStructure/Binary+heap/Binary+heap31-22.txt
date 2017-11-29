@@ -1,2 +1,0 @@
-What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
-I think the smartness of Union-Find outsmart all other DS. Probably in a contest last month, I got a task similar to this, I have to join two set of numbers A and B containing number X and Y but before joining, I have to add a particular number with all the member of A and another number with all members of B. And I made a successful submission with Union-Find. 

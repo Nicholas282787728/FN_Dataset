@@ -1,2 +1,0 @@
-What is the difference between "business intelligence" and "business analytics"?
-Analytics is an encompassing term that includes many functions from reporting, dashboards to statistical modeling, exploratory analysis etc. Please have a look at the below article by SAS a few years back. As per this article, BI is a subset of Analytics: Page on sas.com    Embed Quote 

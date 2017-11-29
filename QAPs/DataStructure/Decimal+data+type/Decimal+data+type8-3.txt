@@ -1,2 +1,0 @@
-What is the significance of NULL in SQL?
-What it signifies in terms of a given application is down to the application writer. In some cases, it means "not known." In other cases it's the default (particularly in applications with relatively small numbers of "exceptions" to a norm). It's database-specific (and in the case of MySQL, storage-engine-specific) as to whether using NULL as the default improves performance. 

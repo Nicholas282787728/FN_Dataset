@@ -1,2 +1,0 @@
-★What's the easiest way to learn machine learning?
-Andrew Ng coursera course is the best way to get your hand dirty with concepts of machine learning without all the mathematical details.    Embed Quote

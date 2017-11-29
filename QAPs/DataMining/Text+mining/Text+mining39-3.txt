@@ -1,2 +1,0 @@
-★Is there any deep learning model that has already been trained in NLP and the text mining field?One deep learning model which has been "trained" is word2vec. People can just download it, feed textual data, and retrieve semantically similar words of a given word. Also, I heard that there are some developed DL model in computer vision field. Is there any other deep learning model that has been developed and ready-to-use?
-User Modeling Demonstration - IBM Watson User Modeling (not sure how far it has been trained though.)    Embed Quote

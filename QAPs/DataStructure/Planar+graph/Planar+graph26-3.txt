@@ -1,2 +1,0 @@
-How are Combinatorics and Topology connected?
-This article shows that axiom of choice provides fairly elementary statements about natural numbers (because it entails existence of nontrivial ultrafilters). 

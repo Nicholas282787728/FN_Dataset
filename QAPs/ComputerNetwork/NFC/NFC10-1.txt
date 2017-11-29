@@ -1,2 +1,0 @@
-★How does NFC work?can anyone please give some details of working of NFC....???
-It's just a short range radio, not all that different from satellite comms or any other radio link.    Embed Quote

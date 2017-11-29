@@ -1,2 +1,0 @@
-★Which of these two linear models is better, R square = 0.99 or R square = 0.7?In case you think the data is insufficient, what other data point do you need to find the better of the two models?
-One might not need OLS if R squared were 0.99. Please share more details about underlying models. For example, # independent variables, # records, modelling context ...    Embed Quote

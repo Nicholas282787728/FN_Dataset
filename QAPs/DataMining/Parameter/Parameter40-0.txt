@@ -1,2 +1,0 @@
-★What are the differences in exponential distribution by using a rate parameter λ and a scale parameter β?
-There's no difference except in the notation.  The exponential distribution with scale parameter is identical to the exponential distribution with rate parameter .    Embed Quote

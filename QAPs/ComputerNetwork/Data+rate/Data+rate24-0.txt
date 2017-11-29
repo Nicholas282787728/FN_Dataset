@@ -1,2 +1,0 @@
-★Is it possible to transmit video using a Mobile Ad Hoc Network (MANET) in underground environment? What are the possible data rate and range at UHF?
-It's hard to send data through the ground.  Ground tends to be wet and conductive,  which absorbs radio waves.   Magnetism is no good also,  as it drops off as the cube of the distance.  A radio wave is going to be attenuated by 90% for ever 20 meters of rock.    So long-range communication, more than 50 meters, is impractical.

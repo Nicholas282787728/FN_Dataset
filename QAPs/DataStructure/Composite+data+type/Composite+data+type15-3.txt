@@ -1,2 +1,0 @@
-What is wrong with my code for prime factorization of the number?
-Well until now I have only found 1 mistakes, i hope it will correct your program There should be a typecasting to be done in the line 10. Because sqrt()  function returns of type double so the statement should be sqr = (int) (sqrt(a)) ; Also for optimization you should use this i<=sqr  instead of i<=a In your for loop. 

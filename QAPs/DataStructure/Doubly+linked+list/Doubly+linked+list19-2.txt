@@ -1,2 +1,0 @@
-How can I add a Node at the front of the Doubly Linked List?
-printList shifts head pointer to last element. You shouldn't do it. Use a local variable for iteration over list. 

@@ -1,2 +1,0 @@
-What is a good Master Data Management system on cloud software?
-- Talend MDM - TIBCO MDM    Embed Quote 

@@ -1,2 +1,0 @@
-What is the fastest way to merge k sorted arrays into one sorted array?
-Repeat the following steps until all data has been output: Order the multiple arrays on their first or top element. Output the top element of the first array. Compare the new top element of that first array to the top element of the second array. If smaller, goto 2. If larger reposition the “first” array in the list of arrays in order by its new top element (using a binary search is an efficient method). Goto 2. 189 Views

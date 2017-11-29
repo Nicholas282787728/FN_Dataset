@@ -1,1 +1,0 @@
-How do I use count as an array in programming?int count[5]={0}; for(j=0;j<5;j++) { for(i=0;i<5;i++) { if(A[i][j]) count[j]++; } } count[0]---->No. of 1 in 1st column. 97 Views  Answer requested by 1 person

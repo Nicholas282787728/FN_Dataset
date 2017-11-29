@@ -1,8 +1,0 @@
-The number of nodes n {\displaystyle n} n in a full binary tree, is at least n = 2 h + 1 {\displaystyle n=2h+1} {\displaystyle n=2h+1} and at most n = 2 h + 1 − 1 {\displaystyle n=2^{h+1}-1} n=2^{h+1}-1, where h {\displaystyle h} h is the height of the tree. A tree consisting of only a root node has a height of 0.
-The number of leaf nodes l {\displaystyle l} l in a perfect binary tree, is l = ( n + 1 ) / 2 {\displaystyle l=(n+1)/2} l=(n+1)/2 because the number of non-leaf (a.k.a. internal) nodes n − l = ∑ k = 0 log 2 ⁡ ( l ) − 1 2 k = 2 log 2 ⁡ ( l ) − 1 = l − 1 {\displaystyle n-l=\sum _{k=0}^{\log _{2}(l)-1}2^{k}=2^{\log _{2}(l)}-1=l-1} n-l=\sum _{k=0}^{\log _{2}(l)-1}2^{k}=2^{\log _{2}(l)}-1=l-1.
-This means that a perfect binary tree with l {\displaystyle l} l leaves has n = 2 l − 1 {\displaystyle n=2l-1} n=2l-1 nodes.
-In a balanced full binary tree, h = ⌈ log 2 ⁡ ( l ) ⌉ + 1 = ⌈ log 2 ⁡ ( ( n + 1 ) / 2 ) ⌉ + 1 = ⌈ log 2 ⁡ ( n + 1 ) ⌉ {\displaystyle h=\lceil \log _{2}(l)\rceil +1=\lceil \log _{2}((n+1)/2)\rceil +1=\lceil \log _{2}(n+1)\rceil } h=\lceil \log _{2}(l)\rceil +1=\lceil \log _{2}((n+1)/2)\rceil +1=\lceil \log _{2}(n+1)\rceil (see ceiling function).
-In a perfect full binary tree, l = 2 h {\displaystyle l=2^{h}} l=2^{h} thus n = 2 h + 1 − 1 {\displaystyle n=2^{h+1}-1} n=2^{h+1}-1.
-The maximum possible number of null links (i.e., absent children of the nodes) in a complete binary tree of n nodes is (n+1), where only 1 node exists in bottom-most level to the far left.
-The number of internal nodes in a complete binary tree of n nodes is ⌊ n / 2 ⌋ {\displaystyle \lfloor n/2\rfloor } \lfloor n/2\rfloor .
-For any non-empty binary tree with n0 leaf nodes and n2 nodes of degree 2, n0 = n2 + 1.[24]

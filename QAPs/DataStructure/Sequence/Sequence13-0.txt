@@ -1,2 +1,0 @@
-What is the next number in this sequence: 11,11,12,13,21,21,?
-11,11,12,13,21,21, 22, 23, 31, [,31, 32, 33, 101 or 111, ...] if we're counting in base-4, and we exclude any numbers containing the 0 digit, or substitute them with the same number with 0 transposed -> 1 EDIT: Sheryl Tone's answer is by far the most elegant. Most of our answers grind it out mechanically. Updated 4d ago • View Upvotes • Asked to answer by Chingo Huan Mare

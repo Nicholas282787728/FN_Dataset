@@ -1,2 +1,0 @@
-★How do DNS clients decide which DNS host to query?
-A typical DNS client learns about its local name server via DHCP. This will be a local system that has a DNS cache. It receives queries and if it can, it resolves them from its tables or its cache. If it can't, then it may have a nameserver for the relevant domain in its cache, or if not, it will always have a list of root name servers configured. It will forward the request along. When a response is returned the DNS server will update its cache with the information and then pass the result back to the client.

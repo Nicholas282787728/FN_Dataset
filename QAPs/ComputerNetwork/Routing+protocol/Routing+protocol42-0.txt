@@ -1,2 +1,0 @@
-★Difference between TCP and IP protocols?
-One is a routing protocol other is a routed protocol. Routing protocols dessiminate information in the network. Routed protocols carry the data.    Embed Quote

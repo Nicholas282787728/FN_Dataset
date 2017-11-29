@@ -1,2 +1,0 @@
-Where can I find topic wise problems on data structures and algorithms?For example: if I study graphs topic BFS and DFS, then it contains problems related to it.
-Try competitive programming section on uva online judge. It has classified problems pretty well. 

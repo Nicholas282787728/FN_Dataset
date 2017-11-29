@@ -1,2 +1,0 @@
-Why is Facebook using Bing search to display web results?
-Facebook signed a deal with Bing a few years ago. Under this deal, Facebook uses Bing for web search, and Microsoft invested money in Facebook. Facebook does have search -- Graph Search -- but this does not search the web and does not impact the web search agreement. 

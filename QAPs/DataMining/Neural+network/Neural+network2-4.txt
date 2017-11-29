@@ -1,2 +1,0 @@
-★What is the best neural network library for Python?I am currently testing Neurolab http://code.google.com/p/neurolab/ and I am pretty happy about that. However, I would like to know if there exist other libraries and your opinion about that. It would also be great to know machine learning libraries with other classification algorithms, such as decision trees, k-means, nn, etc.
-At the end of this talk speaker mentions about several NN libraries mostly in python. She shares slides so you can reach them to find libraries.    Embed Quote

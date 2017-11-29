@@ -1,2 +1,0 @@
-★What is HTML Elements?
-<tag>content</tag> = element

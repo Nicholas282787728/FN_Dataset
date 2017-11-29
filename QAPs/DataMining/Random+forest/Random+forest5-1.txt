@@ -1,2 +1,0 @@
-★Classification (machine learning): What are good libraries for random forest?Like in linear classification we have Liblinear and Vowpal Wabbit.
-You can find Breiman's original random forest implementation on his website at http://www.stat.berkeley.edu/~br.... This is also available as part of an R package at http://cran.r-project.org/web/pa....    Embed Quote

@@ -1,2 +1,0 @@
-Which is better for analyzing large data sets, R or Mathematica?
-I use both R and Matematica but for large data processing I prefer R. It better works in batch mode, easier to script and run from command line, etc.  My workflow is to design and debut algorithm in Mathematica, then test it in R on large data set.    Embed Quote 

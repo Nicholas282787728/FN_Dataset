@@ -1,2 +1,0 @@
-★Can wireless communication be done under water? If not, how do submarines communicate with the outside world?
-There are VLF stations around the world that transmit at frequencies like 24 KHz, at low data rates. The ones at Cutler, Maine and Jim Creek, Washington, transmit a million watts or so into antennas strung between mountaintops. So, you need lots of power, huge antennas, and very low frequencies to penetrate a little ways into salt water.    Embed Quote

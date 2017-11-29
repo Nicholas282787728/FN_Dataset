@@ -1,2 +1,0 @@
-★Which is the best open source/ free database management system for building a data warehouse?What is the best data warehousing / OLAP solution present in opensource and used by big companies?
-http://www.pentaho.com/    Embed Quote

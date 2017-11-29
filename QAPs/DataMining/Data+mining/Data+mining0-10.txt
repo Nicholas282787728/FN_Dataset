@@ -1,2 +1,0 @@
-★What are the top 10 data mining or machine learning algorithms?
-Decision Tree J48 A priori Clustering Neural Networks Support Vector Machines SOM Genetic Algorithms Naive Bayes Ant Colony Optimization Regression    Embed Quote 

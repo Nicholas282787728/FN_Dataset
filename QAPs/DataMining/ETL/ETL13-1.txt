@@ -1,2 +1,0 @@
-★What are the extract, transform, and load (ETL) tools used at Facebook, Twitter, and LinkedIn?
-Facebook, Twitter & LinkedIn have its own Developer API & tools to extract or transform some information. These types of social media websites also have an in-house professional with collecting & scraping information for the same.    Embed Quote

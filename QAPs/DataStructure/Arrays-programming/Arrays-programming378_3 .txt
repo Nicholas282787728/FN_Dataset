@@ -1,1 +1,0 @@
-How do you initialize an array of structures in C?Below is an example of stored id and percentage for 3 students. Input :- Output:- 39 Views  View Upvotes

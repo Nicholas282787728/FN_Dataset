@@ -1,1 +1,0 @@
-How do I find largest score in 2d array condition?Here is the code in java int i,j,sum,maxValue = 0; for ( i = 0; i < twodArray.length; i++) { sum = 0; for (j = 0; j < twodArray.length; j++) sum+= twodArray[i][j]; if (sum > maxValue) { maxValue = sum; } } printf(maxValue); 33 Views

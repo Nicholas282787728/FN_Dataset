@@ -1,2 +1,0 @@
-What are the advantages of B+ Trees over B Trees?
-In a B Tree node we have three kind of elements at at the intermediate levels: 1.Search key 2.Pointer to a record 3.Pointer to a tree node In a B+ tree we have only two kind of elements at the intermediate levels: 1.Search key 2.Pointer to a tree node Advantage of B+ tree over B tree:... (more)

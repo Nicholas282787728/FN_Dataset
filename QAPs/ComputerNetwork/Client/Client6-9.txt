@@ -1,2 +1,0 @@
-★What's the best IRC client for Mac OS X?I've been using Colloquy, but wonder if there are better options.
-Textual: IRC for OS X is what I use now (Nov 2014). The UI goes well with the Yosemite theme, and is constantly updated and stable.

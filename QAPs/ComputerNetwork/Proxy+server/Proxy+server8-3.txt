@@ -1,2 +1,0 @@
-★How can I create a simple proxy server in Java?can it be created without socket programming
-Here you go -  NanoHTTPD.java - free-android-apps - Free android applications - Google Project Hosting It even works embedded in an Android app.    Embed Quote

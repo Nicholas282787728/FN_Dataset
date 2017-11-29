@@ -1,2 +1,0 @@
-What is the importance of prime numbers in computer science?
-One rather important area is in encryption algorithms. Here the key is that it's very inefficient to find the prime factors of a number but very easy to multiply two primes. Have a look at the RSA algorithm for more. One cool trick you can do is called Diffie Hellman key exchange, where two people holding each their own prime number can exchange a message secretly, even if other people are watching. 

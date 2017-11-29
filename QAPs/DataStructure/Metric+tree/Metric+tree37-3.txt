@@ -1,2 +1,0 @@
-Why is dimensionality reduction useful?
-Projection into two dimensions is often used to facilitate the visualization of high dimensional data sets. When the dimensions can be given a meaningful interpretation, projection along that dimension can be used to explain certain behaviors (e.g. Big Five in psychology). In the supervised learning case, dimensionality reduction can be used to reduce the dimension of the features, potentially leading to better performance for the learning algorithm. 

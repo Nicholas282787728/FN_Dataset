@@ -1,2 +1,0 @@
-What are the differences between B+Tree and B-Tree?
-Originally Answered: What is difference between a B tree and a B+ tree data structure?A B+ tree only  stores data in the leaf nodes. With no data in the interior nodes the fan-out can be higher than with a B tree, tree depth shorter, reads from secondary storage lower, cache hit rate on intermediate nodes better, and time to data faster. 13.4k Views · 6 Upvotes

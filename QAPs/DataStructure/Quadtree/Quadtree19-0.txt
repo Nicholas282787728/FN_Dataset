@@ -1,2 +1,0 @@
-Is there any good tutorial to understand how to create an Uber-like app for Android?
-I would split the world into grid squares of quadtrees. Pass in 2D latlng coordinates to return a 1D quadtree. This 1D quadtree can then be your pubsub room by which, latlng information is propagated and shared with everyone else inside the room. Do check out Cloudilly. It's a set of high-level messaging APIs that helps you with this propagation and sharing of information. Sample codes available 

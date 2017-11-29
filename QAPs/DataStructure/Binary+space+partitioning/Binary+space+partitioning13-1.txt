@@ -1,1 +1,0 @@
-Given a 3d grid of cubes, what is an efficient way of computing an occulation map from a given perspective?

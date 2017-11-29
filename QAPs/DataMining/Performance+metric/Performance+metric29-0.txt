@@ -1,2 +1,0 @@
-★How do I create a runtime Linux monitoring system which can generate graphs of various performance metrics?like CPU usage load average memory iops network utilisations
-you can use SAR SYSSTAT it provide vmstat iostat and etc many other command . It record System Level Statistics periodically and save in csv files those CSV files can be used by any Web program to create Graphs indicating system level metrics    Embed Quote

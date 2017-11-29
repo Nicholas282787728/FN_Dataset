@@ -1,2 +1,0 @@
-How do you judge a JavaScript programmer by only 5 questions?
-1) What is the difference between == and === 2) How do you write decoupled JavaScript code. 3) Explain prototypes in JavaScript 4) Explain how to write asynchronous JavaScript 5) Explain why asynchronous code is important in JavaScript 

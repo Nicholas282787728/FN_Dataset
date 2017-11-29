@@ -1,2 +1,0 @@
-What can I learn/know right now in 10 minutes that will be useful for the rest of my life?
-1. Did you know you can use F4 in MS Word to repeat the last action? I recently came across this. You can repeat most commands and actions by pressing F4. This is much more useful than you might think. For example, apply borders to a table. Go to your next table, select it, and press F4to apply the same borders. (Or do the same with rows within a table). Convert a picture from Floating to Inline, then use F4 to do the same with all other pictures.... (more)

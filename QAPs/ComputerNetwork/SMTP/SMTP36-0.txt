@@ -1,2 +1,0 @@
-★Is there a good book on the following POP3/IMAP/SMTP/FTP/DNS?I'm training for a job and one of the requirements is web protocol knowledge.
-You can look up the basics of all these protocols & protocol suites(OSI/TCP-IP) by referring to Computer Networks by Andrew Tanenbaum. The book is really a great read.    Embed Quote

@@ -1,2 +1,0 @@
-★Will fiber optic cables replace coaxial cables?
-Depends on the application. For hi-speed links where there is a wire from point A to point B with the data encoded onto the wire at one end and decoded at the other end, yes. Cable TV is an example of this. For places where rf signals are carried, from an antenna to a receiver or from a transmitter to an antenna for example, not in the foreseeable future.

@@ -1,2 +1,0 @@
-★What is the best layman's analogy for explaining the IPv4 to IPv6 transition and its impact?How would you explain, to a non technical audience, why we need IPv6 and what the impact of implementing this will be? One example is the phone number analogy (http://www.circleid.com/posts/ip...).
-Perhaps another analogy would be, that the roads are too narrow for so many cars, because there are more drivers than the roads were designed for?

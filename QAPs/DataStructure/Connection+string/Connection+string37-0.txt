@@ -1,2 +1,0 @@
-How can we make it possible that two websites, hosted on a single server, use a single database?
-For both the websites, use the same database connection string. Since both are hosted on the same server, the connection string format does not even need to change. 

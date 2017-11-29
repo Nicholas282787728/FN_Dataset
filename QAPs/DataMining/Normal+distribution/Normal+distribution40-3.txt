@@ -1,2 +1,0 @@
-★How can one establish whether residuals are normally distributed in statistics?
-Look at the qq plot, it will be roughly positive and linear if the residuals are normal.    Embed Quote

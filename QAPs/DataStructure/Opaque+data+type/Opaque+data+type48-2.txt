@@ -1,2 +1,0 @@
-How can I add a JSON file to SQL Server 2008 in C#?
-If you want to add a file, you can simply create "image" or binary column, and add the file, as bytes, right there. However, if you know the json will not exceed 8k characters , you could simply store into a varchar column. 

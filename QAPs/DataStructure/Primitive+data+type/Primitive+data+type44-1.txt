@@ -1,2 +1,0 @@
-What is best primitive type to store password in java?
-First of all, never store your password in java. It's a bad convention. In java you have the following primitive data types byte (for nos) short (for nos) int (for nos) long (for nos) float (for nos) double (for nos) boolean (true or false) char (for characters) So we see that every data type has limitation. The top 6 cannot store characters, the 7th is Boolean and the 8th is the character. So you carefully need to think about your requirements. Better go for non primitive data types if you want to store it temporarily. 

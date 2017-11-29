@@ -1,2 +1,0 @@
-What operating system is considered the most secure?
-Of the major operating systems, it is probably OpenBSD (even with the alleged backdoor ;)).  Most secure is always a moving target, but in terms of comparisons to other major operating systems, this project probably comes out on top. 

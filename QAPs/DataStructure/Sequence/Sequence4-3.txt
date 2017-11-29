@@ -1,2 +1,0 @@
-Number Sequence: For a sequence 128, 64, 32, .. what is the value of the 12th term of this sequence?
-Hi there ... I hope you find it easy . You see these numbers have something to do with 2^n .    128=2^7 , 64= 2^6 and so on. This is a Geometric Progression. So the formula is A(n)=A.r^(n-1). Here A(n) = A(12)  A=128 and r=1/2 . (You can find r by taking ratio of 2nd term to 1st and confirming by doing the same for 3rd to 2nd term . Which here gives 1/2) Thus putting values in  A(n)=A.r^n-1 gives A(12)=128.(1/2)^12-1which ends us up giving :- 1/16. :) 

@@ -1,7 +1,0 @@
-There are numerous types of data structures, generally built upon simpler primitive data types:
-An array is a number of elements in a specific order, typically all of the same type.
-A linked list (also just called list) is a linear collection of data elements of any type, called nodes, where each node has itself a value, and points to the next node in the linked list.
-A record (also called tuple or struct) is an aggregate data structure.
-A union is a data structure that specifies which of a number of permitted primitive types may be stored in its instances, e.g. float or long integer. 
-A tagged union (also called variant, variant record, discriminated union, or disjoint union) contains an additional field indicating its current type, for enhanced type safety.
-A class is a data structure that contains data fields, like a record, as well as various methods which operate on the contents of the record.

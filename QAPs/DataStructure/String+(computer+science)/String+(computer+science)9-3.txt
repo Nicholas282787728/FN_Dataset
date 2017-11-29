@@ -1,2 +1,0 @@
-What were the greatest intellectual achievements of the 20th century in science and mathematics?
-Emmy Noether's Theorem : Every continuous symmetry in a physical system leads to a conserved quantity (e.g. rotational symmetry means angular momentum is conserved). http://en.wikipedia.org/wiki/Noe... One of those "obvious" theorems, but Noether provided a beautiful mathematical proof. Much of modern physics has been built on the back Noether's theorem. 

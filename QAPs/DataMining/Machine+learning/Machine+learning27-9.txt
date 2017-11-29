@@ -1,2 +1,0 @@
-★I want to learn machine learning. Where should I start?
-Coursera has an awesome free class on this topic: https://www.coursera.org/course/ml Also you can decide to participate in some kaggle competition or something, its fun because you can compare your results with others (just don't expect to win)    Embed Quote

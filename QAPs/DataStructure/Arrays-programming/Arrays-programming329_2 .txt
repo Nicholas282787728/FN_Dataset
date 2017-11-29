@@ -1,1 +1,0 @@
-How are arrays echoed in PHP?You can use print_r($var) to view the array. For more info about contents you can use var_dump If you want to go through each element of array just use foreach like this foreach( $arr[i] as $value) { echo $value ; } Hope this helps. 179 Views  View Upvotes

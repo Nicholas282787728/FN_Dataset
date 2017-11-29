@@ -1,2 +1,0 @@
-★Is it possible to compress data using linear regression?
-Yes. You are talking about lossy compression. Zip is an example of lossless compression. A conceptually simple lossy compression can be done like this: Use Principal component analysis (PCA) to find a set of bases that better represent the data. Sort the eigenvectors by their eigenvalues, and keep only the N% largest ones. Then project the data onto the remaining dimension-reduced basis. More info here: Linear Compression    Embed Quote

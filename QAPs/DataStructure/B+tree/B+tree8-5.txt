@@ -1,2 +1,0 @@
-What are some real-world applications using B-tree?
-Do you used SQL SERVER?? QUERIES??t If not think like u have 10 different telephone directory of different country each have 1lakh phone numbers If u have to search one number like 98727705X like this in that boooks?? How much time u need to finish ?? Think….. Sure 1day is not enough… In sql server we take it by ……secs Because sql server using B-TREE TO SEARCH... (more)

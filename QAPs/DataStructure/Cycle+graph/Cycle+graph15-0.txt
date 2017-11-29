@@ -1,2 +1,0 @@
-What's the most efficient algorithm for preventing the formation of cycles in a directed acyclic graph?
-Treat the data structure like a tree. Keep an attribute representing level. A node can have pointers only to he nodes of same level or to the nodes of lower level. 

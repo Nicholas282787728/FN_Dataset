@@ -1,2 +1,0 @@
-★How do I come out of ftp> after using the FTP Unix command?
-Just type quit and it'll say goodbye.

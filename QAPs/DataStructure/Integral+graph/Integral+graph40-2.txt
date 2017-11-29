@@ -1,2 +1,0 @@
-What are some promising Big Data startups?Including both funded and non-funded ones. And maybe some OSS apps or stacks as well. (A startup doesn't always have to be a company, does it?)
-Duolingo  has an entire team of Machine Learning PhDs analyzing how 100 million people learn and optimizing the experience to improve the rate at which people acquire information in a completely personalized matter. It was co-founded by Luis von Ahn, the inventor of CAPTCHA and one of the pioneers of crowdsourcing. Definitely worth looking into if you're interested in big data. 

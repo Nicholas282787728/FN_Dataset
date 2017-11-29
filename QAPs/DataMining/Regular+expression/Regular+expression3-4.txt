@@ -1,2 +1,0 @@
-★How does 'grep' preprocess a text file for efficient regular expression matching?
-It is worth looking at http://swtch.com/~rsc/regexp/reg... for why some regex engines are ridiculously fast and others are extraordinarily bad.    Embed Quote

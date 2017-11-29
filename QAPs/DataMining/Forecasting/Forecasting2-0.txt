@@ -1,2 +1,0 @@
-★What is the state of the art in prediction and forecasting technology?
-The news media would have us believe that Nautilus, a text analytics system, can predict future world events from analysis of sentiment and location from news reports.  On the other hand, a well-written piece in the Guardian yesterday showed how flawed the methodology was, and compared the predictions to those of Nostradamus.    Embed Quote

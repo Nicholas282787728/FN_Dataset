@@ -1,1 +1,0 @@
-Array order preserving binary search tree?An array is has relative continuous locations. So, if you are looking to insert another value, as per relative location of K, then you need to perform deletion+/compaction. Anyways, basic binary tree can help you with this and moreover, you can easily form a sorted array out of a balanced binary tree. Hope it helps. 

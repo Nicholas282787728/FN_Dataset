@@ -1,2 +1,0 @@
-★How can enterprises create an activity stream (like Facebook and Twitter) in their SharePoint intranet?
-Collabinate (Collabinate - Activity Streams API) provides an API that lets you add activity streams to any software.

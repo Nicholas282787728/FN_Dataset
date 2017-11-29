@@ -1,2 +1,0 @@
-What is a lattice in discrete mathematics?
-Graph theoretical definitionA lattice is a poset with a unique minimum and maximum, whose Hasse diagram does not contain the following subgraph: The power-poset P(m) of submultisets of a multiset m is an example of a lattice. The Hasse diagrams of several such lattices are shown below: Examples of lattices Counter-examples(these are posets with minimum and maximum but not lattices) Updated 16w ago • View Upvotes

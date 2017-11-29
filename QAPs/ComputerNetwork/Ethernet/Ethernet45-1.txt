@@ -1,2 +1,0 @@
-★How does powerline ethernet work?
-Powerline Ethernet adapters use your home's existing electrical wiring like an Ethernet cable.That way you can connect any device with an Ethernet port to the powerline adapter, which would be connected to your modem or router in another location. It's an easy way to create new Internet connections without the hassle of running wiring.

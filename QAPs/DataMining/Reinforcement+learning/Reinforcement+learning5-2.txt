@@ -1,2 +1,0 @@
-★Machine Learning: What will be the coolest areas to apply deep learning and reinforcement learning in the next 5-10 years?
-In my opinion: Automatic hypothesis generation. Automatic code generation.    Embed Quote

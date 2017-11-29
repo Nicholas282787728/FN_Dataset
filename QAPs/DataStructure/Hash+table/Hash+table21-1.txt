@@ -1,2 +1,0 @@
-Have there been any new advances in distributed hash tables?
-Modified versions of DHTs are getting popular as cloud-based key-value stores. Amazon Dynamo, Cassandra, Riak are examples. Some new developments there compared to the traditional DHTs are: 1. Maintaining O(N) neighbors per node to get O(1) hop lookup in Cassandra and Dynamo 2. Instead of working with individual keys and corresponding values, organizing them as blocks of keys to reduce the overhead of state transfer during peer join/leave (in Cassandra and Dynamo) ... (more)

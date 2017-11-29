@@ -1,2 +1,0 @@
-★What are some creative uses for DNS TXT records?
-I found this wikipedia resolving service quite innovative: Wikipedia over DNS. Other than that; Google for example have an option to let administrators validate the authority of their domains using DNS TXT for various Google Apps applications, see: Basic Guide to DNS.

@@ -1,2 +1,0 @@
-★Domain Name System (DNS): Which is better, Bind or PowerDNS?
-It depends on your usage. Bind9 provides a simple and fast DNS recursive & authoritative . It is also very easy to set up DNSSEC with Bind9. Power supply DNS meanwhile, a more customizable solution. Indeed, Power DNS supports multiple backend and the ability to change the behavior of the server. In addition, DNS recursive & authoritative process are separated.

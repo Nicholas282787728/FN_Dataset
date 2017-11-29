@@ -1,2 +1,0 @@
-Are the rules of tree rotations different for different trees?
-Check this out: Tree rotation Article on wikipedia which describes tree rotations for _binary_ trees. Doesn't specify anything(any specific tree structure) on top of it. 

@@ -1,2 +1,0 @@
-★Why do so many Chinese websites use numbers in their domain names?For example Chinese mail services 163.com and 126.com.
-Though I see a tendency not just for numbered domains, Chinese websites love to use numbers as accont id. Most other forums don't do that. They have a tendency to use the unique id in sql db as login id, that is given not user chosen, thus you have to remember your id to login. I find this ridiculous.

@@ -1,2 +1,0 @@
-★What's the best way to get into text mining?
-I'd highly recommend looking into the free online book for the NLTK (natural language toolkit) package for Python: http://www.nltk.org/book/ It covers all the basics in a very thorough and accessible manner, and the NLTK package is probably the most popular text mining tool for Python. If you want a more theoretical, statistical approach, I'd recommend Jurafsky's Speech and Language Processing, a classic in the field of NLP. I think there might be a legal free first edition somewhere, but I've lost the link.    Embed Quote

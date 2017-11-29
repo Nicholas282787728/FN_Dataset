@@ -1,2 +1,0 @@
-★What is the difference between a distributed database system  and a centralized data warehouse?answers for non-software engineers
-A distributed database focuses on high throughput of small queries changing data across the database while providing simplified horizontal scaling and maintaining data integrity. A centralized data warehouse focuses on speed of complex analytical queries    Embed Quote

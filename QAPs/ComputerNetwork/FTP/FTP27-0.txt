@@ -1,2 +1,0 @@
-★How can I download FTP files?I have FTP URL and credentials to access (user name, password). That's it. How can I download folders in FTP to my local drive?
-Go to ftp://user@HOST/PATH in any web browser and then enter the password. It will automatically start downloadinf

@@ -1,2 +1,0 @@
-Is it still reasonable to say mainstream languages are generally trending towards Lisp, or is that no longer true?
-Not to be pedantic, but almost all modern languages are type safe.  The difference is that some check it at run time while others won't run a program that doesn't pass its type tests.   

@@ -1,1 +1,0 @@
-What does it mean by the statement, 'neural networks are universal approximators' in a mathematical intuitive sense?

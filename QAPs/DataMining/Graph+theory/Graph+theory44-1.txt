@@ -1,2 +1,0 @@
-★What are the best resources (books, courses) on graph theory for software engineers?This is a follow-up question to What are the best resources to learn about graph theory?.
-CS 408, Graph Theory at IIT Bombay taught by Abhiram G. Ranade is a good course on graph theory. It's main focus is application of Graph Theory towards parallel computing. The notes of this course is not very organized but interested reader could find a lot of interesting stuff.    Embed Quote

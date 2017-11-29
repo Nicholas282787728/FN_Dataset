@@ -1,2 +1,0 @@
-★Web Scraping: When doing a mashup when should you write the crawler yourself, and when should you use an external service/program?
-When the data you need is big enough. Lets say 50,000 pages above http://www.visualscraper.com    Embed Quote

@@ -1,2 +1,0 @@
-Which data type is better either float or double in c++?
-The double data type provides the largest and smallest possible magnitudes for a number. The default value of double is 0. double-precision floating-point numbers that range in value from -1.79769313486231570E+308 through -4.94065645841246544E-324 for negative values and from 4.94065645841246544E-324 through 1.79769313486231570E+308 for positive values. Double-precision numbers store an approximation of a real number. 17 Views

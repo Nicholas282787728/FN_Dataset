@@ -1,2 +1,0 @@
-Is this code snippet valid in later versions of C++?
-No it isn't valid, as others have stated. The STL is your friend - use std::vector if you need a variable-length array. int n;cin >> n;vector<int> arr(n); // arr contains n default-initialised elements 

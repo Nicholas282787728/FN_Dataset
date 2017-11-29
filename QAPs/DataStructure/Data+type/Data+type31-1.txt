@@ -1,2 +1,0 @@
-What is the vector abstract data type?
-Try USLandGrid which provides instant access to high resolution vector data sets based on nationally trusted sources. Tax Parcels and Ownership Data 4 Views

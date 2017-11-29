@@ -1,2 +1,0 @@
-★Why haven't more ISPs used IPv6?It seems inevitable that all ISPs will migrate to using the IPv6 standard.  What are the reasons why (in detail) this has not occurred in a more robust manner?
-Internet Protocol (IP) version 6 does not solve the "routing problem" which is a key operational constraint for tier 1 Internet Service Providers; all IPv6 does is vastly expand the IP address space. That was (is) necessary, but not sufficient.    Embed Quote

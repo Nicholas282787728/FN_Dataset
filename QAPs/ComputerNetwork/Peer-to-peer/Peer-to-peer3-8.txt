@@ -1,2 +1,0 @@
-★What is the best payment solution for a peer-to-peer online marketplace?
-Look into Synapse Payments for API integrations. It is a white label UX and allows you to avoid all the credit/debit card fees; so that has the propensity to save your clients much more than 10% off each transaction.  Also to mitigate risk/fraud there are various tools built-in and you get access to all of this for 25c / transaction.    Embed Quote

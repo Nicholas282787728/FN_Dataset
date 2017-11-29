@@ -1,2 +1,0 @@
-Why are Fibonacci heaps called Fibonacci heaps?
-The name of Fibonacci heap comes from Fibonacci numbers which are used in the running time analysis. Fibonacci heap 351 Views · 2 Upvotes

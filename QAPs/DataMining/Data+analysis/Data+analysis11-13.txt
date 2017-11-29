@@ -1,2 +1,0 @@
-What are the best consulting firms specializing in big data analysis?
-A very good overview of Big Data is done by Matt Turck in his recently updated Big Data landscape. You can read additional explanations on the evolution of each field of Big Data in this blogpost: How To Fit Big Data In One Small Page.    Embed Quote 

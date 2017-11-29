@@ -1,2 +1,0 @@
-★What is the difference between Markov Models and Hidden Markov Models?
-can topic popularity in social networks be taken as an application of hidden markov model where given present state of topic next state depends on number of users as well as probability of going to next state.    Embed Quote

@@ -1,2 +1,0 @@
-Does the Node.js Cassandra-client support composite types?
-CQL will support composite column names and composite comparator in Cassandra 1.1 release. http://www.datastax.com/dev/blog... Thanks, Charlie 木匠 | Data Solution Architect Developer 

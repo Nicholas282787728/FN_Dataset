@@ -1,2 +1,0 @@
-What are the best online judges to practice Data structures questions on linked list, binary tree etc?
-Go to the Sphere Online Judge (SPOJ)  and to practice the Data Structure just start doing the first 5 pages it will include he best questions ever 

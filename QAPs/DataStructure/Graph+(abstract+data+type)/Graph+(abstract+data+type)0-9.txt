@@ -1,2 +1,0 @@
-What are some "practice problems" that everyone should work on in-order to get better at programming (in any programming language)?If you have any problems corresponding to your field of work/research then mention that as well!
-Here are two of the brilliant websites with Mega Project Ideas List. Project Euler Dreamincode 

@@ -1,2 +1,0 @@
-Which are the top blogs to follow to explore about algorithms and data structures?
-Originally Answered: What are the best blogs on algorithms and data structures?Found this. Might help, since the repository is massive and extensively covers the subject. DaQwest | Algorithms Repository 

@@ -1,2 +1,0 @@
-★What IP address will a VM use in bridged mode?
-Whatever IP address the DHCP server on your network provides.

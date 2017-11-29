@@ -1,2 +1,0 @@
-★Does the length of an ethernet cable affect speed?If so, at what length does it start slowing the connection down and is it noticeable?
-Yes it effects to the speed, but under 90 meters, if exceed this limit so this will effect to the speed both of downloading and uploading. but you try to use good specs cables like cat5e and cat6 to get smooth speed. I have already used these cables and found best result, but first of all read and understand this blog, it is very helpful to get more ideas. http://1000ftcables.com/blog/

@@ -1,2 +1,0 @@
-What are some cool possible applications of the D-Wave quantum computer?
-The head of D-Wave is ex Goldman Sachs. In previous interviews he has mentioned doing "Monte Carlo Simulations" this is a financial statistical technique to model the risk on a portfolio of assets (known as "VaR" - Value at Risk). Doing this and similar calculations is very hardware and time expensive. So if they can figure out a way to do this quickly and cheaply they will be able to sell their machine to financial companies (banks, hedge funds, brokers etc). A potentially very lucrative business. 

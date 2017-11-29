@@ -1,2 +1,0 @@
-★How can the NoSql database store unstructured data?How its different store un structure from RDBMS?
-No relation makes it :D    Embed Quote

@@ -1,2 +1,0 @@
-★Which networking model is earlier: TCP/IP or OSI?
-TCP/IP is not a model. It is an entire protocol stack. In many ways, it grew orthogonally and independently of the OSI model, and its architecture certainly predates the OSI model.    Embed Quote

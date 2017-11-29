@@ -1,2 +1,0 @@
-★Can infrared light store data?
-Electromagnetic waves are very good for transmitting data, but very bad for storing it.  Infrared light is much like normal light - for this experiment imagine a light bulb.  You can send signals by turning it on and off in different patterns.  If you have a dimmer, you can send more complicated signals.  But how do you store them?  You could record the video, but the light isn't actually storing the information.  It's the memory or tape or film in your camera.    Embed Quote

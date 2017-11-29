@@ -1,2 +1,0 @@
-Can the % operater be used on all data types in C?
-No you can use this only for integer not for float 55 Views

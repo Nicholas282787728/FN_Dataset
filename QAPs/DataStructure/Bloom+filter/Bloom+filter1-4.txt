@@ -1,2 +1,0 @@
-Why are some people so in love with Bloom filters?The extent to which people are obsessed with it is too high. What's the secret?
-As Josh suggests, bloom filters can make an otherwise impossible problem probabilistically-plausible.  Constant space and constant time are (almost) always practical, hence bloom filters open up room for experimentation with large data sets in settings with unusual constraints. 

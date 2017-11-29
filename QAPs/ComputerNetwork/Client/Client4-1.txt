@@ -1,2 +1,0 @@
-★What's the best email client for Mac OS X?
-sparrowapp.com is very nice. It's a very familiar native OS X app (think Tweetie, er, Twitter for Mac) with much of the functionality of Gmail. Works perfectly with my Google apps emails. There are a few quirks since it's still in alpha or beta or something. Currently I'm still using mailplane because it does the core of what I need it to do, but the experience is nothing exciting. If sparrowapp matures to a point that it does everything native Gmail does, in a sexier and slicker package, I will buy multiple copies.

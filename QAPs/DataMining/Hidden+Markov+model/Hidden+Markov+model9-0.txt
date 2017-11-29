@@ -1,2 +1,0 @@
-★What are the ways of deciding probabilities in hidden Markov models?
-There has also been some work recently on spectral local-minimum-free algorithms for learning HMM parameters. See [1] for a 2009 paper about learning HMM parameters with discrete observations, and [2] for a 2010 paper on estimating parameters with continuous observations. [1] http://arxiv.org/abs/0811.4413 [2] http://www.cs.cmu.edu/~lesong/pa...    Embed Quote

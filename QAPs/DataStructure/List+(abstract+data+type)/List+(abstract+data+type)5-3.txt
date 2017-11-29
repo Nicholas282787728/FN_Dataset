@@ -1,2 +1,0 @@
-How do I allow the user to define the number of elements in a Python list?
-If you want array-like data-structures in Python, then well you can use @8.6. array - Efficient arrays of numeric values - Python 2.7.9rc1 documentation. 

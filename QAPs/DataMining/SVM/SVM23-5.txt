@@ -1,2 +1,0 @@
-★Is it worth trying PCA on your data before feeding to SVM?
-In general, no. When datasets and/or feature sets get very large, I have always found stochastic gradient descent makes computation time reasonable for SVMs and still performs very well. Unless you have tons of duplicated features, PCA will just destroy your data.    Embed Quote

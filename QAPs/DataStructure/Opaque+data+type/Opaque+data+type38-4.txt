@@ -1,2 +1,0 @@
-What are the advanced topics in C which are not taught in college but one must know?
-Two of the biggest in my experience are function pointers and the ability to hide interface from implementation using opaque pointers. They were covered in school, but not in much depth. In real C programming, they are immensely useful, especially when you want to do object-oriented programming in C. 

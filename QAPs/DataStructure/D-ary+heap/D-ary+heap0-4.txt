@@ -1,2 +1,0 @@
-What is the best data structure for heap implementation?
-Do you know many types of heap exist like Binary Heap Fibonacci heap Binomial Heap Leftist Heap d-ary Heap etc.But if you are implementing Binary heap then array is the best data structure. 

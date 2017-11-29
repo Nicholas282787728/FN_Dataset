@@ -1,2 +1,0 @@
-How difficult is epigenome sequencing, as compared to genome sequencing?
-As Cath Ennis points out, there are some new protocols for epigenomic profiling. Here are two: Greenleaf: ATAC-seq Modeling kinetic rate variation in third generation DNA sequencing data to detect putative modifications to DNA basesDisclosure: I'm an investor in EPINOMICS, a company that's commercializing the ATAC-seq assay. 

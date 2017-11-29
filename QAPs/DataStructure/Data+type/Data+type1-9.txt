@@ -1,2 +1,0 @@
-Is 'void' a data type?
-The data type void actually refers to an object that does not have a value of any type 120 Views

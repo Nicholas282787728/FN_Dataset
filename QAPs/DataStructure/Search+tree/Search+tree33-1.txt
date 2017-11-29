@@ -1,2 +1,0 @@
-What is the difference between a AVL tree and a binary search tree?
-An AVL is a binary search tree that is always balanced. The way it balances it self is by keeping count of how many levels each node has on its left branch versus its right branch. When it becomes unbalanced, necessarily through a modification (insertion or deletion), it balances itself through a rotation. http://www.cise.ufl.edu/~nemo/co... rotations | Javaero 

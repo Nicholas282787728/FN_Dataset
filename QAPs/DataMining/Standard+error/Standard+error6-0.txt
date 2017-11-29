@@ -1,2 +1,0 @@
-★In ordinary least squares regression, how do I calculate the p-value from the standard error and coefficient?
-You divide coefficient by standard error to give you the t value, and then you use the Student distribution to derive p. When abs(t)>2 you have a 5% chance of the coefficient to be zero. Student's t-distribution    Embed Quote

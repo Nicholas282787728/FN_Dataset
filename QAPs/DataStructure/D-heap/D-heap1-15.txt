@@ -1,2 +1,0 @@
-What books are a good introduction to game theory?
-Not a book but: If you'd like to take a look at some introductory notes, problems and examples, you might find this a useful introduction: Disclaimer: This is a personal project of mine Applied Mathematics : An Introduction to Game Theory   An Introduction to Game Theory Extensive Games http://www.thelearningpoint.net/... Bayesian Games : Games with Incomplete Information Repeated Games 

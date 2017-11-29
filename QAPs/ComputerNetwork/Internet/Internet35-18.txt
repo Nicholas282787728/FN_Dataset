@@ -1,2 +1,0 @@
-★Humor on the Internet: What is the best satirical website?
-I think this: Can Rails Scale? cracked me up. P.S: This talks about a Ruby based MVC framework called Rails. There were lots of debates about how Rails can hold out against scaling and performance.

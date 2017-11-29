@@ -1,2 +1,0 @@
-★Information Theory: Is there a theoretical limit to data transfer rates?
-Yes, it depends on, 1. channel bandwidth (serves as the bottle-neck) 2. signal to noise ratio (SNR) 3. Receiver's acceptance rate, it is pointless to send data at a rate higher than the receiver could process because the rest would be discarded and you need to retransmit them again

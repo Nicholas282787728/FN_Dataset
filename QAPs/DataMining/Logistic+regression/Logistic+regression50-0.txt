@@ -1,2 +1,0 @@
-★What is the relationship between Log Linear model, MaxEnt model and Logistic Regression?
-MaxEnt is just multinomial logistic regression. All logistic regressions are loglinear models but not the other way around.    Embed Quote

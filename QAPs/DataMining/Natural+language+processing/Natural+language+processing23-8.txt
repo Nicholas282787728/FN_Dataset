@@ -1,2 +1,0 @@
-★What are the best schools for studying Natural Language Processing?
-This is a great resource! The list would benefit by including leading senior researchers in the areas of information extraction (Ralph Grishman, Ellen Riloff), summarization (Drago Radev), question answering (Sanda Harabagiu), and parsing (Eugene Charniak).    Embed Quote

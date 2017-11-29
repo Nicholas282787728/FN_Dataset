@@ -1,1 +1,0 @@
-A number of additional operations on strings commonly occur in the formal theory. These are given in the article on string operations.

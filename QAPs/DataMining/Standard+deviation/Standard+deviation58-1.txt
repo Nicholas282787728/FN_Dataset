@@ -1,2 +1,0 @@
-★Do two bell curves with the same standard deviation and average have the same shape?
-The term "bell curve" is not well defined as there are "bell-shaped" distributions that don't even have means and variances, such as the Cauchy distribution. However, if you mean two Gaussian distributions with the same mean and standard deviation, then yes. The Gaussian is completely determined by its mean and standard deviation.    Embed Quote

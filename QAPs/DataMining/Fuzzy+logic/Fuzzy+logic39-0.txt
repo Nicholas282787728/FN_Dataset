@@ -1,2 +1,0 @@
-★Can fuzzy logic be really qualified as a machine learning approach?
-No. You could argue for it being an AI technique, but it doesn't have anything to do with learning.    Embed Quote

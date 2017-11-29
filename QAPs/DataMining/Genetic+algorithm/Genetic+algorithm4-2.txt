@@ -1,2 +1,0 @@
-★What are some practical applications of genetic algorithms?
-I use GA to build trading strategies.  This is a good link on the topic.  http://www.investopedia.com/arti...    Embed Quote

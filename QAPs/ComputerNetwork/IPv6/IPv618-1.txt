@@ -1,2 +1,0 @@
-★Why are we in a hurry for ipv6?
-Because pretty soon we're going to run out of IPv4 addresses. IPv4 allows only 2^32 (about 4 billion) addresses to exist, but IPv6 allows for 2^128, which is quite a lot more.    Embed Quote

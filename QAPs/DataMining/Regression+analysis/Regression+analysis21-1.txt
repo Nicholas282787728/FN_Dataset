@@ -1,2 +1,0 @@
-★What does R^2 tell in a linear regression analysis?
-R-square tells the percentage of variance in dependent variable that can be explained by the independent variable. Example: y=B0+B1*x If R-square=.73, then we can say that 73% of variation in dependent variable(y-variable) can be explained by the dependent variable(x-variable).    Embed Quote

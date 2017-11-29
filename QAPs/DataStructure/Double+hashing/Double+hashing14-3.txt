@@ -1,2 +1,0 @@
-What is the best advice for an engineering internship interview at Google or Facebook?
-This was my experience, but it is roughly the same as other people I've talked to: 1 HR screener interview with short-answer technical questions 2 45-minute general technical interviews 1 45-minute technical interview with a member of a team that matches your interest/abilities The technical interviews involve more coding than Google interviews, but there are a number of abstract thinking questions as well. Updated 280w ago • View Upvotes

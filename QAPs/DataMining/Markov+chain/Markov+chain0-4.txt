@@ -1,2 +1,0 @@
-★What is a Markov chain?
-Markov Chain determines the probability of a possible state given the current state. This is a useful forecasting tool to determine feasibility probability    Embed Quote

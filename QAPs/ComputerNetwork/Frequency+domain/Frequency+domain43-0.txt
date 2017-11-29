@@ -1,2 +1,0 @@
-★What are the differences between an Audio Waveform and Audio Spectrum?
-An audio waveform is a time-domain representation. A spectrum is a frequency domain representation. You can use a Fourier Transform to inexactly convert from one to the other.

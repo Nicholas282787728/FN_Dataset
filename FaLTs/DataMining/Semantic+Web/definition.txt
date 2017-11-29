@@ -1,1 +1,0 @@
-The Semantic Web is an extension of the World Wide Web through standards by the World Wide Web Consortium (W3C).[1] The standards promote common data formats and exchange protocols on the Web, most fundamentally the Resource Description Framework (RDF).

@@ -1,2 +1,0 @@
-What should every programmer know about hash tables and hash functions?
-A hash is not sorted. Given one element, you can't find the next element in order. For generic data, performance is unpredictable and could be as bad as walking a linked list. For well known keys and a known data set size and you don't need order, hashes are great 

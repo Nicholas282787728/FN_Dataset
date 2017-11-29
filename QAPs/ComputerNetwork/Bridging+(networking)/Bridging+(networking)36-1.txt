@@ -1,2 +1,0 @@
-★Is there a way to add multiple MAC addresses to one NIC on OS X?
-While Dan's answer is true in the strictest sense, you can expose multiple MAC addresses on a single NIC when running a virtual machine environment on your system if the VM software is configured to use your host machine's NIC as a network bridge. Here is a link to VMware's example of virtual machine bridged networking. http://www.vmware.com/support/ws... In this example, the virtual machine's MAC address is also exposed by the host machine's NIC.

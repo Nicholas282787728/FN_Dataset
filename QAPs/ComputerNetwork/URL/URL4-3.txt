@@ -1,2 +1,0 @@
-★Are long URLs bad for SEO?Quora uses very nice and very readable urls for its question pages.  Does the length of the URLs do more harm to SEO than the benefit gained by including good content in the URL?
-I think the benefits of a meaningful, keyword-rich URL outweigh any concerns about its length, within reason. In general as long as it's RESTful -- specifically: idempotent, unchanging, and unique -- it's good for SEO.    Embed Quote

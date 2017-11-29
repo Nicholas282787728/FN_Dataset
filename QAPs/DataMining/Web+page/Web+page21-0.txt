@@ -1,2 +1,0 @@
-★Why did Path stop using Twilio's "Mobile App Distribution" on their web page?Original Path: Deliver Your Apps To Any Phone With SMS v/s Actual Path: Path
-It was not performing as well as a standard sign up form in a/b tests.    Embed Quote

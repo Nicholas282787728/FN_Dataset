@@ -1,1 +1,0 @@
-How does deleting a file empty space from a storage space?

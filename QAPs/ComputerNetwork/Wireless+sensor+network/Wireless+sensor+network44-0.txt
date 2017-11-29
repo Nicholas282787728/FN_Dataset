@@ -1,2 +1,0 @@
-★What are some good open source technologies available for implementing wireless sensor networks?
-i didn't understand the question properly. If your question is open source tools, the answer is @NS-2 Network Simulator  and Omnett++    Embed Quote

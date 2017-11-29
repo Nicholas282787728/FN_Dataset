@@ -1,2 +1,0 @@
-★What is the best feature selection method when the train data has more features than the number of data points? Assume the data is very large?
-The datasets you consider are named high-dimensional. Most cited academic book in this area is Statistics for High-dimensional Data: Methods, Theory and Applications by S. A. van de Geer A good overview gives this page: 1.11. Feature selection There is plenty of more answers you can find on quora that responded to similar questions (one instance What are some feature selection algorithms?).    Embed Quote

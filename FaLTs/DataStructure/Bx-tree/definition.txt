@@ -1,1 +1,0 @@
-In computer science, the Bx tree is a query and update efficient B+ tree-based index structure for moving objects.

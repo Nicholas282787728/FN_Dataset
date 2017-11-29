@@ -1,2 +1,0 @@
-How often does a computer scientist have to create their own ADT(abstract data type)? Ex: bigint?
-In the general sense, 90% of a well written program should be abstract data types.  All an Object is in an OOPL is a formalization of the concept of an Abstract Data Type. So yes, its fundamental for application development. Its less important if all you do is "scripting".  Then all you are generally doing is working with the abstract data types made  by someone else. 

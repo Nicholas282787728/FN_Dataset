@@ -1,2 +1,0 @@
-★How can we create a proxy server in C/C++/Java?
-You could look at the code behind a small proxy server like Tinyproxy or check out the suggestions at HTTP proxy server on Stack Overflow: Take a look at micro_proxy. It implements all the basic features of an HTTP/HTTPS proxy, in only 260 lines of C code. Another very simple implementation can be found at Proxy. (If you find this answer useful, and have an account on SO, please upvote AJ's answer.)    Embed Quote

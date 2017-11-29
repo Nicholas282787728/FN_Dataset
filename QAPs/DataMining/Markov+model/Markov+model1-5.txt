@@ -1,2 +1,0 @@
-★What is the best Python library for Hidden Markov Models?
-I recently started pyhmmtb at pyhmmtb, a project that aims at porting the Kevin Murphys HMM toolbox for MATLAB to python. Maybe this is helpful.    Embed Quote

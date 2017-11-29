@@ -1,2 +1,0 @@
-★What is the difference between switching and routing?
-Switch switches within the subnet, that is switching. In switching packets are transfered from source to destination using MAC address. Switching is done within the network. Whereas Router routes between the network. Routing is a process which is done between two networks using IP addresses. basically routing is a intelligent switching    Embed Quote

@@ -1,1 +1,0 @@
-Computational Complexity Theory: Any hint on whether my problem is NP-hard(NP-complete) or not. If so any hint on how to prove it?

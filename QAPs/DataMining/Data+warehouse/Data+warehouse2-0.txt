@@ -1,2 +1,0 @@
-★What data warehouse does Facebook use?
-check out these presentations & videos on how Facebook uses Hive: "Facebook, Hadoop, and Hive" [1] "Hive - A Petabyte Scale Data Warehouse Using Hadoop" slides [2] and video [3][1] http://www.dbms2.com/2009/05/11/... [2] http://www.slideshare.net/ragho/... [3] http://www.infoq.com/presentatio...    Embed Quote

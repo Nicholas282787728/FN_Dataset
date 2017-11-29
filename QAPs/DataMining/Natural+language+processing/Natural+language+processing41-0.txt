@@ -1,2 +1,0 @@
-★What are prerequisites for learning Natural Language Processing?
-As per my knowledge, you would require a good grasp in following subjects: a. Linear algebra b. Probability and Statistics c. Artificial Intelligence and Neural Networks d. Programming in any high level language, preferably python or Matlab (inbuilt libraries and functions available)    Embed Quote

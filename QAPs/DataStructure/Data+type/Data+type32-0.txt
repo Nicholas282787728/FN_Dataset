@@ -1,2 +1,0 @@
-Can the % operater be used on all data types in C?
-Hello Friend, No modulus(%) couldn’t be used with all data types. It can only be used for INTEGERS. To perform modulus operation on floating point numbers and Double we can use the “fmod” function. 143 Views · 1 Upvote

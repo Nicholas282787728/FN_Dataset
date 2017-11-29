@@ -1,2 +1,0 @@
-★Is there something similar to gist or pastebin for LAN use?Something our development group could use internally?
-I found a few from a quick google search. In my case I'm looking for ones I could set up from puppet. I'm leaning towards ownpaste. This might give some ideas to others who come across this question. ownpaste, a personal pastebin application simple-pastebin-server Php-pastebin V.3 haste-server pastiche - An awfully simple pastebin.    Embed Quote

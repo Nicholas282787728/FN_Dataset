@@ -1,2 +1,0 @@
-How can I solve this equation: 2 x =x  ?
-There's no real solution.  You can write down something in terms of the Lambert W function to get the complex roots, but you'll have to use numerical methods to evaluate it.  Fortunately most computing packages have that built in, so you can just use a canned routine. 

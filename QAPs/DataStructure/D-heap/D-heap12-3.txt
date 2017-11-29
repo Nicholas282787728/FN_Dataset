@@ -1,2 +1,0 @@
-What are the must know things in Linux/Unix for a Java/J2EE developer?
-These guys have the best answers: Miguel Paraz Vivek Vermani Bruno D. Rodrigues 

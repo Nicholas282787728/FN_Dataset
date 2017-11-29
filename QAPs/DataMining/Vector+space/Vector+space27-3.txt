@@ -1,2 +1,0 @@
-★Why doesn't the set of polynomials of degree equal to two form a vector space?
-A set is NEVER a vector space. A set AND an operation on this set on the other hand, might be a vector space.    Embed Quote

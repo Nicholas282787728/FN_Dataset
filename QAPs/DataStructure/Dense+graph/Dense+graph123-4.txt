@@ -1,2 +1,0 @@
-Linear Algebra: How do I interpret singular value decomposition (SVD) for visualization?
-First, we must expand each term, visualization of different terms can vary greatly. From a simple symbol, pictures and animations, to very complex not rendered abstract concepts, since the visual representation of the senselessness of these terms. 

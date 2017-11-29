@@ -1,2 +1,0 @@
-★While downloading a video from youtube through IDM the dwnld completed but while opening through kmp it showed in the details total bitrate 0 kbps data rate 0 kbps. is that a problem with idm or kmp?
-i am facing the same problem too !  video gets downloaded but not able to play using VLC or WMP :(

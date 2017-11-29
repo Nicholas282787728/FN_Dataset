@@ -1,2 +1,0 @@
-What are some good references for learning branch and bound algorithms?I need a reference which has explained things in clear and simple terms and solves a few examples using at least some pseudocode
-One of the books I used to learn branch-and-bound was "Fundamentals of Algorithmics", by G. Brassard and P. Bratley. (Fundamentals of Algorithmics: Gilles Brassard, Paul Bratley: 9780133350685: Amazon.com: Books) Section 9.7 is an introduction to branch-and-bound in the context of graph exploration. The book is easy to read, and has many examples in pseudocode. 

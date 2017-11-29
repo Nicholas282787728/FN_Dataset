@@ -1,1 +1,0 @@
-How does Java overload operator "+" connect two strings? How does that invisible part work?

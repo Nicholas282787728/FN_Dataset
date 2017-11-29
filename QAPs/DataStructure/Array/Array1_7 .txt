@@ -1,1 +1,0 @@
-What is an array?#General Finite, Homogeneous Set of Things!!! #Computer Science Finite, Homogeneous Set of Element !!! All elements of an Array stores in contiguous memory locations in RAM. And Each elements has a index; which allow us random access. 

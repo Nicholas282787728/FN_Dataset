@@ -1,1 +1,0 @@
-How can I set a character array to null in Java? Or empty it?char a[]; a= new char[10] a= null; The first line is all about declaration. In the second line 20 bytes are allocated and a is a reference to it. I'n third line ur pointing the reference to null If u want to put blank values- a[0]= 0; This will put a blank space. Hope you got it.. 3.6k Views  View Upvotes

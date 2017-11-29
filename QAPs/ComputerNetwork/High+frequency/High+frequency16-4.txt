@@ -1,2 +1,0 @@
-★Is high frequency trading possible in commodities markets?Do commodities markets still rely on individuals negotiating a price, the method that stock markets are using less and less?   Does the infrastructure even exist for automated trading of commodities?
-sure it is possible, and in fact you can achieve under 10 milli second execution via certain APIs technologies. Although physical commodities may not enjoy the liquidity that certain financial markets have (like the ES- eMini SP), they still trade under the same technology.

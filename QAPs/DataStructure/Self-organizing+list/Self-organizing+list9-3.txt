@@ -1,2 +1,0 @@
-What are the different dimensionality reduction methods in statistics?
-A recent advancement in dimensionality reduction is the so called 'active subspace'. Page on arxiv.org 

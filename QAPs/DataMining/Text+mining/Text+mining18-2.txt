@@ -1,2 +1,0 @@
-★What are the best tools for text mining molecular biology and microbiology articles?
-If you are content with mining PubMed abstracts and open source full-text, then the Quertle.info site is excellent. The Quertle engine is based upon the commercial MedScan software from Ariadne. In the public domain, contact NaCTeM at Manchester University, UK.    Embed Quote

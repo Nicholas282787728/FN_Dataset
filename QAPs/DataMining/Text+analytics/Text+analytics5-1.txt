@@ -1,2 +1,0 @@
-★What are some good text analytics extensions for gmail?
-Do you want to analyse you e-mails? Then I would suggest downloading the mails into textfiles and process them locally using the tools you already know.    Embed Quote

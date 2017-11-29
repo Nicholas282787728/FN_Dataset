@@ -1,2 +1,0 @@
-★Why is logistic regression so important for machine learning?
-It gives real probabilities of predicted classes.    Embed Quote

@@ -1,2 +1,0 @@
-What are the disadvantages of using Node.js?
-A drawback of nodejs that I encountered was the hard coded memory limits. See http://stackoverflow.com/questio... overcome this issue, it is recommended that you use a cluster of your nodejs app. But this too is not very satisfactory. More reading: http://code.google.com/p/v8/issu... Another drawback is getting used to async programming model. If you know what will be the output of the following code, then you are good or else get used to it. for (var i = 0; i < 4; i++) { setTimeout(function () { console.log(i); }, 1000); } 

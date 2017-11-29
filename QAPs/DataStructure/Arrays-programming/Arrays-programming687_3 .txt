@@ -1,1 +1,0 @@
-What is the space complexity of an ArrayList containing references to TreeNodes?A good question to ask is what happens as n approaches infinity. Clearly the amount of memory needed to store the reference is more than zero, and eventually will become much more than the TreeNode itself, so you know it's O(n) 265 Views  View Upvotes

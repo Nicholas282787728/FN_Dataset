@@ -1,2 +1,0 @@
-★Where can I learn the basics of HMM (hidden Markov model)? And what are other similar tools like HMM?
-The standard go to material is 'A tutorial on hidden Markov models and selected applications in speech recognition' by Lawrence Rabiner.    Embed Quote

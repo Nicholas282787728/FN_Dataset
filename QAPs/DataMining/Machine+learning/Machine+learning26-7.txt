@@ -1,2 +1,0 @@
-★What are some good books on machine learning?
-I suggest Tom Mitchell Machine learning book (http://www.cs.cmu.edu/~tom/mlboo...) .    Embed Quote

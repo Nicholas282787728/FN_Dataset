@@ -1,5 +1,0 @@
-Mobile phones communicate with cell towers that are placed to give coverage across a telephone service area which is divided up into 'cells'. Each cell uses a different set of frequencies from neighbouring cells, and will typically be covered by 3 towers placed at different locations. The cell towers are usually interconnected to each other and the phone network and the internet by wired connections. Due to bandwidth limitations each cell will have a maximum number of cell phones it can handle at once. The cells are therefore sized depending on the expected usage density, and may be much smaller in cities. In that case much lower transmitter powers are used to avoid broadcasting beyond the cell.
-
-As a phone moves around, a phone will "hand off"- automatically disconnect and reconnect to the tower that gives the best reception.
-
-Additionally, short-range Wi-Fi infrastructure is often used by smartphones as much as possible as it offloads traffic from cell networks on to local area networks.

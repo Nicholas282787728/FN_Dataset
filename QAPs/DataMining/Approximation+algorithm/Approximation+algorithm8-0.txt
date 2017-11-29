@@ -1,2 +1,0 @@
-★Theoretical Computer Science: What is the difference between an approximation algorithm and a heuristic?
-An approximation algorithm is a heuristic with a performance guarantee.    Embed Quote

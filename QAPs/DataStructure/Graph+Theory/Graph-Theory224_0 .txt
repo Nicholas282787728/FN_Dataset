@@ -1,1 +1,0 @@
-What would the graph of a^(bx) +b^(ax) =a^ab^b look like?You gave an equation with 1 variable, x. (Presuming a and b are constants). Solving this would give a value for x. When I tried a=2 and b=5, I got x = 20,000 about. 93 Views  View Upvotes  Answer requested by Saqib Yasin

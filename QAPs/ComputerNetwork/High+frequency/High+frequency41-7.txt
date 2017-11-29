@@ -1,2 +1,0 @@
-★How can I invest in high frequency trading, algorithmic trading, or latency arbitrage?Is there any way for a regular person to invest in entities performing these kinds of trading?
-I can only speak to algorithmic trading - check out: alta5 | Home | Automated Trading In beta at the moment. Fully automated trading platform that allows you to create, share, or invest in algorithms around equities, options etc. Very easy to use for the retail investor. You will be able to choose an algorithm based on your risk profile and investment goals.

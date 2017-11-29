@@ -1,2 +1,0 @@
-★My iPhone keeps searching for a cellular network even though I told it not to in settings. How do I stop it?
-Your question is not clear. As said in one other comment, a phone is supposed to search for cellular networks if it faces 'No Service'. Other than Airplane mode, there's no other setting that can stop it. iPhone shouldn't search for networks in airplane mode.

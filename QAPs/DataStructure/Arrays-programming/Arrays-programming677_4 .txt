@@ -1,1 +1,0 @@
-What does an array mean in C?Although I a not working in C or any subset of C for last so many years because I love to work and teach PHP and its framework yet I am trying to explain it here. Array is a data structure that C Programming provides. It can store a fixed-size sequential collection of elements of the same type. 50 Views

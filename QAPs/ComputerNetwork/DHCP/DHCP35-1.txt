@@ -1,2 +1,0 @@
-★How can I force my Mac to get a DHCP-assigned IP address instead of a ZeroConf IP address on WiFi?My OS X Mac failed to connect to a particular Wi-Fi network, because it self-assigned an IP address rather than letting the network assign it one. How can I prevent this?
-On Mac OS X Snow Leopard: Apple Menu -> System Preferences -> Network. On top choose your desired Location. Then, on the left, choose "Airport", then click the "Advanced..." button. On top choose "TCP/IP", and then for "config IPv4" choose "Using DHCP". Then click "OK", then "Apply".

@@ -1,2 +1,0 @@
-★HTML: What is HTML?
-HTML stands for HyperText Markup Language. It is developed by scientist Tim Berners-Lee in 1990. HTML is used a "hidden" code which helps us to communicate with others documents on the World Wide Web html introduction|introduction of html|difference between html and html5

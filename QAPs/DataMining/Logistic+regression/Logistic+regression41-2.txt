@@ -1,2 +1,0 @@
-★What is the best way for one to learn logistic regression?I have already learned: Simple Regression Multiple Regression
-Andrew Ng's Stanford course will help - Machine Learning It has separate chapter on Logistic Regression. I would suggest reading through Linear Regression as well before moving on to Logistic Regression.    Embed Quote

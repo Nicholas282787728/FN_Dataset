@@ -1,2 +1,0 @@
-★How realistic is the idea of building a national public wireless network?Funded by taxpayer money & creating new jobs, seems like a win-win, could this be a realistic endeavor?
-There are some technical barriers related to congestion that need to be overcome. In Mountain View, where Google has implemented a public wireless network, the usability of the network appears to have degraded over time because of interference from surrounding private networks.    Embed Quote

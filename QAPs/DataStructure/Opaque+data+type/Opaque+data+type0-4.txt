@@ -1,2 +1,0 @@
-What databases or persistent stores are recommended for storing large streaming data, such as from sensors?
-All you want is a database with OLTP and OLAP support. SAP HANA DB provides both. And since it is In-memory based, you can retrieve 'valuable' information from TB of data within seconds 

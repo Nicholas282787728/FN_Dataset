@@ -1,2 +1,0 @@
-★How often should I send a network broadcast packet?Writing a network chat program. How often should I send network broadcast packets (Short UDP string) to check if other users are on the network? I'm thinking every 30 seconds but need advice.
-I think broadcasting a message in any frequency is not a good idea... That will flood your network and it is not a scalable solution. You can either look for a user when you want to chat. Or have a centralize server which is acting as a registrar.

@@ -1,1 +1,0 @@
-What are some tips, tricks and gotchas when using bucket sort?The best trick I found back in the early 80's was to measure the size of the buckets on the first pass of the list. This avoids the problem of same size buckets with some empty and some requiring code for overflow. Thos allows for an index array to be easily created for each bucket before they are filled. 

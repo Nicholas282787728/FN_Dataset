@@ -1,2 +1,0 @@
-★Is Measure Theory relevant to Machine Learning?
-A good example of measure theory is the Learning to Rank Problem, where you have to define measures to rank your items in a coherent way. And it depends on what do you want to be the relevant features which measure will you use. You can check this paper by Hang Li's group in Microsoft research Asia, wehre they use different measures for solving the problem. http://research.microsoft.com/en...    Embed Quote

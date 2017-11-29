@@ -1,2 +1,0 @@
-★How do you use IPv6 to bypass the GFW?How do you need to configure your router and/or computer to use IPv6 and do you need any additional services to use it?
-You do not use the IPv6 to bypass the Wall. You incorporate the Wall into your IPv6 which makes it impossible for the Wall to be able to bypass you. You may need to configure your router which may be inbuilt in your computer without using the additional service that is usually provided when you subscribe to the updates sent by the Great Wall to the IPv6.    Embed Quote

@@ -1,2 +1,0 @@
-★What ETL frameworks do Quora data scientists use, if any?
-From the jobs page https://www.quora.com/careers/da... it looks like Quora uses Hive and Redshift as the datastores, writes queries in SQL, and writes the underlying ETL pipelines in python.    Embed Quote

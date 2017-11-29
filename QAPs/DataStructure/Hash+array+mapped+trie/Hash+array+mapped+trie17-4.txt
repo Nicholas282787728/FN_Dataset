@@ -1,1 +1,0 @@
-Is it a good idea to use JavaScript (programming language) for solving algorithmic problems?

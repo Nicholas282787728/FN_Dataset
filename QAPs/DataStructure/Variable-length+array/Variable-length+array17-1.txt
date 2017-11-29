@@ -1,2 +1,0 @@
-Has C recently introduced dynamic stack memory allocation?
-It's variable-length array which is supported since C99 How can I make an array with variable size in the C language? 

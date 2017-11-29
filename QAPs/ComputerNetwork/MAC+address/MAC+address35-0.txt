@@ -1,7 +1,0 @@
-★Why is the IP address used for routing of packets and not MAC addresses?MAC addresses are abundant and unique for every device.
-Because MAC addresses are historically designed to be flat but IP addresses have structure. That is, IP addresses are assigned in blocks and because of that you can wild-card forwarding rules. For example, if I know all 1.1.0.0 - 1.1.255.255 are in your network attached to port 1 of my router, I can simply install only one rule that says forward all packets to 1.1.*.* to port 1: 1
- (dst_ip & 0xFFFF0000) = 1.1.0.0 ==> forward to port 1. On the other hand, MAC addresses are mostly assigned by manufacturers. If I buy 10 servers from different manufacturers (or even the same manufacturer) I'll get random mac addresses and for each of them I need a separate route entry: 1
-2
-3
-4
- dst_mac = 10:10:10:10:10:10 ==> forward to port 1 dst_mac = 20:20:20:20:20:20 ==> forward to port 1 .... dst_mac = F0:F0:F0:F0:F0:F0 ==> forward to port 1 This won't scale! just imagine the routing table size of a backbone router that uses flat addressing. NOTE 1: The same happens with IP if you cannot wild card addresses. (This happens in today's Internet when they advertise routes for a single ip address) NOTE 2: Nothing prevents you from using MAC addresses for routing in your own network. PortLand for example uses pseudo structural MAC addresses for routing inside a large-scale data center: http://cseweb.ucsd.edu/~vahdat/p...    Embed Quote

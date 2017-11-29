@@ -1,2 +1,0 @@
-How many lines of code can a good programmer write in one hour?
-As many as is needed to solve the problem, and no more. Lines of code is a *terrible* measure of productivity.  The shortest code that does the job is usually also the most efficient and maintainable. Read The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition): Frederick P. Brooks Jr.: 8580001065793: Amazon.com: Books 

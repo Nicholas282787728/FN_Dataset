@@ -1,2 +1,0 @@
-★Why does logistic regression not converge when the data is completely separable?
-Another way to think about what Ross is saying, it is that the likelihood surface is completely flat in some regions. This is due to there being an infinite number of solutions, in particular there are an infinite number of step function like logistic functions that can fit the data nearly perfectly.    Embed Quote

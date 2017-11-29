@@ -1,1 +1,0 @@
-What are some of the use cases of various traversal methods for trees?Are there examples where inorder, preorder or post order are particularly helpful? For example, inorder of a parse tree gives you the original expression.Pre-order helps to clone a tree. Post-order helps to destroy the tree (nodes). In-order helps to sort/search the (binary search) tree. 

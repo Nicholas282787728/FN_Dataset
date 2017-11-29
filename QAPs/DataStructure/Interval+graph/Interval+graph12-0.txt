@@ -1,2 +1,0 @@
-How can I create a graph that has an uneven X-axis interval? It is also necessary to have vertical lines at the end points (left and right). I would also like to have a small gap between the left value to the vertical axis. The graph below is what I would like to create using my Excel.
-Can't be sure, but I bet the x-axis is a log scale. 

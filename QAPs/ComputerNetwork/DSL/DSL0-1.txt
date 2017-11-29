@@ -1,2 +1,0 @@
-★Is jQuery a DSL?
-It's a library. People are calling everything domain specific languages these days but JQuery really is just a bunch of helpful functions, sorry. It's a library that, at its core, exposes CSS-style selectors to client-side javascript (... and not at its core, it exposes the kitchen sink.) For something to be a DSL it needs to introduce novel syntax. JQuery's syntax is vanilla javascript function calls.

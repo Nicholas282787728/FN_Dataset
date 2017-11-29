@@ -1,2 +1,0 @@
-What is the simplest artificial intelligence pseudocode algorithm?
-Nearest neighbour algorithm is possibly the simplest one. On a glance it doesn't have much to do with AI, but Survey of Nearest Neighbor Techniques enlisted 17 more complex variants, all with machine learning applications. 

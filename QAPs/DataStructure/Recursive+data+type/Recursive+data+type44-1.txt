@@ -1,2 +1,0 @@
-What are the differences between SQL Standard and MySQL syntax?
-List of differences: Comparison of different SQL implementations 

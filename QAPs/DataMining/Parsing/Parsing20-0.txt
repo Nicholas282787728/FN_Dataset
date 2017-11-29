@@ -1,2 +1,0 @@
-★Does Parse work well with Unity3D?We are building a multiplayer social game in Unity3D, and we're trying to decide what to use for a backend. We see that Parse has an SDK for iOS and Android, but I don't see one for Unity.
-I'll just leave this right here. See bottom paragraph. :) Connect Unity gamers across platforms with Facebook’s new SDK Update: We launched Unity support last week at Parse Developer Day. More details here - Create Amazing Cross-Platform Games with the New Parse Unity SDK    Embed Quote

@@ -1,2 +1,0 @@
-★Can I find the standard deviation over a day from monthly data?I have monthly data and would like to calculate some statistics for a day. Is there any way to do this from monthly data? Specifically I'd like to find a daily standard deviation.
-No unfortunately! You don't have enough data to do this. You would be able to find the daily standard deviation if you had both the Sum of the daily data (your monthly data) Sum of the squared daily data    Embed Quote

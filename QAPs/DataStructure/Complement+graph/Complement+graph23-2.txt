@@ -1,1 +1,0 @@
-How would you prove that the maximum independent set problem in graphs is in class NP?

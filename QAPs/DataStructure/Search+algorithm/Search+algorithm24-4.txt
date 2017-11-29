@@ -1,2 +1,0 @@
-Can you explain how Google's search algorithm works in an easy to understand way?
-A thorough description of the original algorithm was published as a research paper back when Larry and Sergey were grad students. The Anatomy of a Search Engine 3.7k Views · 12 Upvotes

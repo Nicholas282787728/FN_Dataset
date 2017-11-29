@@ -1,2 +1,0 @@
-How would you build a shared data structure for high-performance and availability?
-We use Ruby, we use the option 1. Basically a bloomfilter implemented on redis, which is accessed by bunch of services over the network. In our case consistency of bloom filter is important, and we don't keep seperate copies. In certain other cases shared/replicated copies of the data might work. Updated 18 Aug 2012 • View Upvotes

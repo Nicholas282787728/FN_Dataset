@@ -1,2 +1,0 @@
-Is there a way to solve SPOJ.com - Problem GSS1  without segment trees?
-You can use sparse matrix method for range maximum queries(if there are no updations). Building it required O(N log N) and each query O(1). Algorithm Tutorials 

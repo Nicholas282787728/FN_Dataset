@@ -1,2 +1,0 @@
-What is the most interesting problem solving technique or trick in programming contest?
-I see Psyho aka Przemysław Dębiak posted here but he didn't mention on Topcoder when he completely disregarded writing a fast algorithm for a Div 1 hard and instead wrote the entire thing in assembly language!! Now that's an interesting technique!!! 

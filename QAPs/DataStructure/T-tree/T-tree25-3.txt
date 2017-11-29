@@ -1,2 +1,0 @@
-When should I use double equals sign instead of triple equals sign in PHP?
-I never needed to use the triple-sign as a matter of fact. Since PHP is a weak typed language, you can use them in any way you like, or just treat everything as a string if that suits you. More of weak typing here: Strong and weak typing Only in very specific situations you would need to know if a variable was defined or has been cast into a specific type. In 99 out 100 times, you'll only need to use and compare its values. 

@@ -1,2 +1,0 @@
-★What is the state of the art in text mining?
-I would say a combination of: 1) Index > Elasticsearch  - information retrieval  - lexical analysis (Analyzers) 2) Define > NLTK / WordNet / WordNet Affect  - information extraction  - sentiment analysis 3) Deduce > Apache Spark.  - pattern recognition  - data mining  - predictive analytics 4) Visualize > D3    Embed Quote

@@ -1,2 +1,0 @@
-★What's a good engine to use for HTML5 games?
-I think the most important feature is working with mobile, tablet, i suggest CAAT and PixiJs .

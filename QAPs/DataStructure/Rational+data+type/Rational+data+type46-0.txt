@@ -1,2 +1,0 @@
-What is the difference between data science and statistics?
-An action plan for data science, a decade ago talks about what's essentially the original paper on data science, which laid out how data science should differ from traditional statistics. 

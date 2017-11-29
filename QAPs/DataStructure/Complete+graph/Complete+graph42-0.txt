@@ -1,2 +1,0 @@
-Im planing to make a metro route app which will display the shortest path between two given stations. So should i use tree and dijkstra's shortest path algorithm ? Is there any easier way?
-Thanks for the A2A One answerer has already gotten it right. Floyd Warshall all pair shortest path algorithm is called so, because it gives the shortest path between every two nodes. Save thr result of the algorithm, poll this database when asked for the shortest distance. 

@@ -1,1 +1,0 @@
-What are P, NP, NP-complete, and NP-hard?

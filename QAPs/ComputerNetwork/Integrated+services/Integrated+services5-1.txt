@@ -1,2 +1,0 @@
-★What free hosted continuous integration service is the best for Ruby on Rails 4?
-Shippable - www.shippable.com - is free for unlimited open source/public repos and up to 5 private repos. Blazing fast builds and takes just a few mins to set up. We also do code coverage. Check it out and let me know what you think :)    Embed Quote

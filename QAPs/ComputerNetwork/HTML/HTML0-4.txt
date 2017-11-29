@@ -1,2 +1,0 @@
-★HTML: What is HTML?
-HTML is short for "HyperText Markup Language". That may sound scary, but it simply means it is a language for describing web-pages using ordinary text. HTML is not a complex programming language.

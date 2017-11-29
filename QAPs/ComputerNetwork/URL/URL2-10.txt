@@ -1,2 +1,0 @@
-★What is the best URL shortener?
-Home made redirects, using your own domain, is best. Redirects such as http://bit.ly have been so much abused that many people don't dare clicking on them anymore, for fear of being infected. It might provide good analytics, but the price to pay is less traffic, and thus lower revenues.    Embed Quote

@@ -1,2 +1,0 @@
-What are some interesting git operations and commands?
-If you must learn one new git command, learn interactive rebasing. git rebase -i This lets you rename commits, split a commit into two or more, reorder commits, delete commits, and combine ("squash") multiple commits together. It's a great way to clean up your history before pushing. It's generally more pleasant than something like git reset --hard Updated 76w ago • View Upvotes

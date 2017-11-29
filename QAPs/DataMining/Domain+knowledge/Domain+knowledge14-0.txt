@@ -1,2 +1,0 @@
-★How can machine learning techniques be combined with domain knowledge expressed in logical rules, semantic nets, etc.?
-The way I view it, bits "mappable" by humans producing metadata which the machine learning component(s) will be learning from. For instance, rule-based NLP software producing something like a dependency tree, and the machine learning working with whatever the NLP software has produced.    Embed Quote

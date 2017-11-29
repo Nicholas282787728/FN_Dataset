@@ -1,2 +1,0 @@
-★How can enterprises create an activity stream (like Facebook and Twitter) in their SharePoint intranet?
-If you mean 'on SharePoint', the only answer is Newsgator.  200 of the Global 2000 use it to leverage their Microsoft investments.  Lowest cost, highest ROI enterprise social computing solution by factors of 2x.

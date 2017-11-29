@@ -1,2 +1,0 @@
-How do I find the longest maximum occurring substring?
-Isn't the problem of HackerRank weekly(week 7) challenge? It's competition. Right? If so, you yourself should find out. 

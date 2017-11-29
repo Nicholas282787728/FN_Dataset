@@ -1,2 +1,0 @@
-★What is the semantic web standard for UDDI?
-there is no standard - there was some work on semantic extensions to UDDI [1], but just like UDDI itself, it wasn't very successful the related work on standards for Semantic Web Services like WSMO [2] and OWL-S [3] wasn't very successful either and has been suspended [1] http://tigertech.memphis.edu/eec... [2] http://www.w3.org/Submission/WSMO/ [3] http://www.w3.org/Submission/OWL-S/    Embed Quote

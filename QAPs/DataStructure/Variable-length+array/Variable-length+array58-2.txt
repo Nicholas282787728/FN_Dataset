@@ -1,2 +1,0 @@
-If I have a string array in a free Pascal card = array [1..52] of string, how can I remove one member of the array so that I have an array of 51 articles?
-I would just clear the data of the element that you don`t want, then just iterate over the ones that  has data in them. 

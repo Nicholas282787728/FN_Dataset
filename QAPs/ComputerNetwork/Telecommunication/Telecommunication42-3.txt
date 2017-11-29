@@ -1,2 +1,0 @@
-★What communication protocols are used with telecommunication satellites?
-There are several different protocols based on several missions. For your specific requirement you must consult the Consulatative Committee for Space Data Systems (CCSDS). In this body, Space Internetworking Services (SIS) supports the standardisation of the space communication protocols and, it is followed by most space agencies around the world. SIS @ CCSDS: http://public.ccsds.org/publicat...    Embed Quote

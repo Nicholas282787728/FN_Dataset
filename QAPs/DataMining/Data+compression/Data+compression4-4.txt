@@ -1,2 +1,0 @@
-Is data compression a dual of learning? If not, why?
-No. The dual of compression (source coding) is channel coding. Compression removes redundancy in data, channel coding adds redundancy to make data more robust to noise. There is a duality between the maximum compression achievable for a data stream, and the theoretical capacity of an information channel. Shannon pointed this out in his source coding theorem (http://en.wikipedia.org/wiki/Sha...) which gives a dual to his noisy channel coding theorem (http://en.wikipedia.org/wiki/Noi...).    Embed Quote 

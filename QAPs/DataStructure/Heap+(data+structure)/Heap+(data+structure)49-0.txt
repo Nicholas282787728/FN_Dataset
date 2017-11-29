@@ -1,2 +1,0 @@
-What are all the data structures that you have come to know about? Which of these do you use very frequently? Group them in "Basic" and "Advanced".
-These are the data structures that I use often. I'd add more as I recall them. Number in parenthesis in front of any data structure is proportional to how often I use them. Basic Data Structures: Stacks (5) Queues (5) ... (more)

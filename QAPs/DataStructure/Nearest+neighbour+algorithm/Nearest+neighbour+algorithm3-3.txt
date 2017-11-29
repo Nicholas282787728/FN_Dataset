@@ -1,2 +1,0 @@
-What are the state-of-the-art in nearest neighbour learning algorithms?
-Data Dependent and query Dependent LSH is probably a great start for your research. KNN is not a very difficult problem it is its efficiency what is hard. 

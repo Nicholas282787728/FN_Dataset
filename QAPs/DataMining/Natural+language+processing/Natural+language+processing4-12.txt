@@ -1,2 +1,0 @@
-★What programming languages are suitable for natural language processing?
-phyton Python is better a good one.

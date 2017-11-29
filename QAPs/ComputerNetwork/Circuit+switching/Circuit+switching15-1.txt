@@ -1,2 +1,0 @@
-★What would cause other circuits in my home to work only when the hot water heater (which is on its own 240V circuit) is switched on? Why did moving the breakers for those non-functioning circuits to other spots in the breaker box fix the problem?
-What do you mean by "switched on"? Do you mean that the breaker for the hot water heater is turned on or off? It sounds like an extreme case of miswiring, but it is hard to say how it was miswired from your description.

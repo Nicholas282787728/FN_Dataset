@@ -1,2 +1,0 @@
-How often do data scientists deal with categorical data?
-If you want to use techniques requiring purely quantitative data, categorical variables can be turned into quantitative information. Example with a variable 'color' variable for 4 observations: ("yellow","yellow", "red", "blue"). You can turn it to 4 variables for each color, which one indicating 1 if the observation has the color or 0 if it doesn't. Notice that the sum will always be one since the observation only has one color. 

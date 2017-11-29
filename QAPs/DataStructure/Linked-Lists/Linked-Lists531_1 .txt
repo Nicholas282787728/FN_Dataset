@@ -1,1 +1,0 @@
-What is the difference between Binary Tree and Linked Lists?The difference is how items are connected. An item in a linked list is connected to the next one with one pointer. A node in a binary tree can be connected to 0–2 other nodes. Linked list: Binary Tree: 400 Views · View Upvotes

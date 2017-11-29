@@ -1,2 +1,0 @@
-What is the strongest argument for functional programming?Or is this paradigm completely obsolete in front of OOP.
-Extracting and reusing common patterns is an important principle in programming, and many aspects of the functional paradigm support that. E.g. the ability to use (pass / return) functions as values supports composition of algorithms, while algebraic data types support composition of data structures. 

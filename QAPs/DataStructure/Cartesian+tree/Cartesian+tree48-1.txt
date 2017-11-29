@@ -1,2 +1,0 @@
-Python (programming language): What are some cool Python tricks?
-I think the data structures in the collections module are underused power tools.  I use Counters to represent probability mass functions, defaultdict for accumulating lists, and namedtuple instead of writing small class definitions. I have a note book that demonstrates counters here: Page on ipython.org 

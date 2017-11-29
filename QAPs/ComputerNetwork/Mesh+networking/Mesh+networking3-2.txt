@@ -1,2 +1,0 @@
-★Is Google seeding a mobile mesh network?
-Whoever wrote this didn't realize that mesh networking doesn't work for delivering IP connectivity. At least not in the context of the spectrum available in most countries and the QoS requirements of today's Internet connection.    Embed Quote

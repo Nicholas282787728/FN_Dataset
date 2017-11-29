@@ -1,2 +1,0 @@
-What are the algorithms required to solve all problems (using C++) in any competitive coding contest?
-You can find a very comprehensive list of algorithms here Data Structures and Algorithms 

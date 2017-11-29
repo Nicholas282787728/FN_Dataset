@@ -1,2 +1,0 @@
-★What are the pros and cons of each existing, non-linear regression methods?e.g., kernel regression, polynomial regression, loess, spline or wave based methods? Is there a best one?
-that question has no answer. It all depends on your hypothesis, your data, and what you're trying to do.    Embed Quote

@@ -1,2 +1,0 @@
-Draw the modulated signal for 4-PSK modulation for the following message signal mentioning both the phase & phase shift. 1100011000?
-4-PSK  can be done in a few ways, see your book for the exact phase diagram they use for encoding.   Basically they choose four spots on the circle, one spot for each of th3e 4 possible values of a pair of bits. 

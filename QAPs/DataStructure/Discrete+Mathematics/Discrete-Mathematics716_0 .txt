@@ -1,1 +1,0 @@
-What order does a loop give a node in graph theory?Suppose you had a graph of "who knows whom". The nodes would be the set of living people and an edge would indicate that those two people know each other (say they know each other's first name). Since you know your own first name, a loop around your node would indicate this. 73 Views  Answer requested by Jan Wilson

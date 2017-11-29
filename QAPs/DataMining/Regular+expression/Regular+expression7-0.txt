@@ -1,2 +1,0 @@
-★Does Lucene support regular expressions?
-Not yet. Lucene has its own syntax.    Embed Quote

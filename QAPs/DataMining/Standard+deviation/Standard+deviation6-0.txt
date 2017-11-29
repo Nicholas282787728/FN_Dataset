@@ -1,2 +1,0 @@
-★What is the sum of average and standard deviation?
-It's one standard deviation above the mean. In a normal distribution about 84% of the population will fall below that value, and about 15% above it.    Embed Quote

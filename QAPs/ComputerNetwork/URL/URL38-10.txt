@@ -1,2 +1,0 @@
-★What are SEO-friendly URLs, and why are they used?
-URL should be without number and special characters.(except / and -) Example: For simple inner page: (single sub-page) www.squareonewebsolution.com/Website-design-services OR For if sub page: Multi- subpage Product page:- "Man" then "Shoes" then "leather" www.example.com/Man/Shoes/leather Hope you understand what I want to say about your. This types of url are user friendly and also targeted which product we want to deliver to visitor. URL structure plays important role in SEO.    Embed Quote

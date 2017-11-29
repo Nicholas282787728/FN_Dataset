@@ -1,2 +1,0 @@
-★What are the key differences between HTML and HTML5? Which is better?How html file supports web apps and mobile ui for all data
-The html5 is a newer version of the html. The Audio & video working good in this version. Of course we have to use the latest version.

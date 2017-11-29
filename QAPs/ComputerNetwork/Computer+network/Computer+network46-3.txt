@@ -1,2 +1,0 @@
-★What is the difference between client socket and server socket (in computer networking)?
-When you create a server socket, you bind that socket to a particular address and port. A server socket keeps on listening to any incoming connections from any of the clients. When you create a client socket, you simply specify the server address and port. You never bind or listen using a client socket. You simply connect a client socket. On the other hand, you dont connect using a server socket. You only listen and accept.

@@ -1,2 +1,0 @@
-Python 3.4 string_1 = "Camelot" string_2 = "place" print ("Let's not go to %s. 'Tis a silly %s." % (string_1, string_2)) , why is syntax error: invalid syntax?
-Are you sure you can put a space in between 'print' and the funcion's parenthesis? It's the only thing that doesn't seem to match, otherwise, something is very, very wrong... Hope it helps :) 

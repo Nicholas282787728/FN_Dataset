@@ -1,2 +1,0 @@
-★Linear Algebra: What is the meaning of rank of a matrix?What is the meaning of rank of a matrix. What all are its applications?
-Matrices are most often used as a means of representing linear functions. From this point of view, the rank of a matrix is just the dimension of its range.    Embed Quote

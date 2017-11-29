@@ -1,2 +1,0 @@
-★How does the standard error influence the t-statistic in econometrics?
-t = b/SE(b), so inversely. The t statistic is just a convenient normalization of beta.    Embed Quote

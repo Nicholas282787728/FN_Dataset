@@ -1,2 +1,0 @@
-★What is the alternative to IGMP protocol in IPv6 networks?
-MLD (Multicast Listener Discovery). (Although I wouldn't say alternative, I'd say the analog/counterpart ... )    Embed Quote

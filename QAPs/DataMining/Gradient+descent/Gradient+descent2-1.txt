@@ -1,2 +1,0 @@
-★What are some parallel gradient descent algorithms?
-ADMM: http://www.stanford.edu/~boyd/pa... Technically a subgradient method, but can parallelize arbitrary convex optimization problems.    Embed Quote

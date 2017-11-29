@@ -1,2 +1,0 @@
-What is the coolest data structure?
-DAWG! -- Directed acyclic word graph. [1] Just when you're thinking that Trie might be the optimal data structure for holding your dictionary of millions of words this thing smacks you in the head for wrongful thinking. Extremely space efficient, fast and cool! [1] Deterministic acyclic finite state automaton 

@@ -1,1 +1,0 @@
-What is the use of auxilary array?Look at this link for an easy explanation: What is the use of auxiliary array in merge sort 19 Views  Answer requested by Rahul Singh

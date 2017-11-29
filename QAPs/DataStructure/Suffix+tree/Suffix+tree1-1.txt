@@ -1,2 +1,0 @@
-What is the best Python suffix tree implementation?
-We have a python interface to mkesa and searchesa: http://bibiserv.techfak.uni-biel... http://katahdin.mssm.edu/Geoseq/ Let me know if you'd like the source. -'jish 

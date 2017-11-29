@@ -1,2 +1,0 @@
-How would you describe the concept of Abstract Data Types to someone who has no background in computer science?
-I would use the philosophical definition of classes and types, if they understand at that level. Philosophy: What is a class? While the real world has "things" that can be classified according to different criteria, the world as represented inside a program has values or objects which have abstract data types. 

@@ -1,2 +1,0 @@
-★Is HTML5 hard to learn?
-Short answer: No. Longer answer: Depends on what you mean with "HTML5" and "learn". If you strictly mean HTML5 without CSS, JS and related technology, and by "learn" you mean "know enough to be productive, and be able to look up the details as you need them", then I believe anyone could learn it in a day or two. If you mean learn every detail of all technology related to HTML5, then it is incredibly hard.

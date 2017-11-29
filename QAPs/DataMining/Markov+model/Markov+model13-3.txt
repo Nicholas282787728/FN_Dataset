@@ -1,2 +1,0 @@
-★Can Hidden Markov Models be used as binary classifiers? If yes, how?
-Yes they can. And very effectively to! For the how, I refer you to this wonderful paper by Lawrence Rabiner that has helped thousands (including myself) grasp the concept of HMMs. Page on Sabanciuniv    Embed Quote

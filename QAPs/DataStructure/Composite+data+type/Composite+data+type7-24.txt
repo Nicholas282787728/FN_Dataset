@@ -1,2 +1,0 @@
-Which two programming languages together are powerful and cover the largest field in programming?
-My friend, here is my piece of advice also One structural language is must One OOP language is must One scripting language is recommended. So , I believe that C, Java and Python fits best. What matters more is how depth you know these subjects. Moreover if your hunting for job, the preparation is still more rigorous. So study atleast till design patterns for Java and Python. 

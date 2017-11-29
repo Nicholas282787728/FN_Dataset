@@ -1,1 +1,0 @@
-What is the meaning of a horizontal line in a distance versus time graph?The graph mentioned here will have distance, d on x-axis and time, t on y-axis. If the graph is a horizontal straight line , it means distance is not changing with increase in time or the object is stationary. Slope of the graph = Change in distance / Change in time = 0 / ( t_2 - t_1 ) = 0 velocity. 49 Views

@@ -1,2 +1,0 @@
-★What are some uses of web scraping in scientific research?
-The beautiful thing about the web is that there is so much data online that the possibilities are endless. Oxfam use https://import.io to gather data to predict famine in 3rd world countries, a member of our facebook community uses scraped data to help improve his medical best practice courses, and Kaggle regularly run contests that incorporate a scientific use of web data.    Embed Quote

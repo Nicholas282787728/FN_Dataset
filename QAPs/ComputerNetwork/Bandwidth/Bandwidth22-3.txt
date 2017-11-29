@@ -1,2 +1,0 @@
-★Which ISP offers the highest bandwidth and lowest latency in Palo Alto?Are there any options besides Comcast and ATT?
-There are areas of Palo Alto and East Palo Alto that only have the lowest ATT DSL service levels (1.5Mbps), and no comcast. If you find yourself in that situation, check with your neighbors as it's possible that your apartment/house is already wired for fiber. At that point you just need to figure out who can supply you with access - often a very small, local ISP.

@@ -1,2 +1,0 @@
-★Is the 'this' parameter an example of closure in JavaScript?
-Closure, by definition refers to "closing or protecting of a variable to change from external forces", if you've programmed in java or C++, you will come across access specifiers, such as private, protected and public. To emulate a variable as a private access specifier, we use the closure design pattern (sadly due to the unavailability of access specifiers in JavaScript). "this" is just a keyword to refer the current object. I believe That in no way can it be an example of closure...    Embed Quote

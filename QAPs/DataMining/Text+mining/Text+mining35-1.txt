@@ -1,2 +1,0 @@
-★What are some interesting open source projects on machine learning/text mining? I am interested in contributing for themI am interested to work on machine learning/text mining open source projects to gain more knowledge
-Take a look at scikit-learn in python.    Embed Quote

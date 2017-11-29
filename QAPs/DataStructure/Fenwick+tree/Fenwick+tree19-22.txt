@@ -1,2 +1,0 @@
-What is the most complex line of C code you have created or encountered?
-~mysql/mysql-server/5.7 : revision 6256 This patch was a part of making MySQL replication completely multi-threaded. One of te biggest and most complicated(yet elegant) code I have ever written. 

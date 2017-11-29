@@ -1,2 +1,0 @@
-How does the file lookup on a Linux system work?
-Any reasonably modern file system uses a tree or hash table structure for directory entries. It would never be a performance problem. For example the ext2 file system uses HTree directory indexing Other filesystems use similar efficient algorithms 

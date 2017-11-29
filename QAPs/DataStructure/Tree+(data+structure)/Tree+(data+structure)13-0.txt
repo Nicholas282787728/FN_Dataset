@@ -1,2 +1,0 @@
-What are some good free e-books to practice tree data structures?
-Does blogs work for you? If yes, you may visit the following page, which contains a set of binary tree problems and their solutions: Binary Tree Interview Questions 

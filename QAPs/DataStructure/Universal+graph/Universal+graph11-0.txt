@@ -1,2 +1,0 @@
-Brown University: What classes best teach graph theory and combinatorics?
-When I was there there was a class called combinatorial topology that was a good combination of those two concepts. 

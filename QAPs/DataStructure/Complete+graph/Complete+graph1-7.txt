@@ -1,2 +1,0 @@
-What is the difference between a complete graph and a dense graph?
-A complete graph is a simple undirected graph in which every pair of distinct vertices is connected by a unique edge. Simple graph means no loops and no multiple edges. As for dense graph, well a complete graph is a dense graph. Dense graph is an abstract term defining a graph where the number of edges is close to the maximal number of edges possible in a graph. 

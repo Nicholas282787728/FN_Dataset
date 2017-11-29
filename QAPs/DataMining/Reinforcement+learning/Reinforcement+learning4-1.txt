@@ -1,2 +1,0 @@
-★What are some practical applications of reinforcement learning?
-It is pretty "heavily" used in robotics http://www.ri.cmu.edu/pub_files/...    Embed Quote

@@ -1,1 +1,0 @@
-What does node=node->next exactly do in a linked list?It holds the address to the next node.Remember its "Linked List"! 143 Views

@@ -1,2 +1,0 @@
-Are there any algorithms of the order O(sqrt(n))?
-Orthogonal range queries on a bidimensional k-d tree take O(sqrt(n)) time. (Roughly, find points that lie in a given rectangle, out of a given set of n points.) 

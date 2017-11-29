@@ -1,2 +1,0 @@
-★What could one use at night to see infrared lighting?I need to look for hidden cameras which are using infrared lighting.
-Just look hard. The human eye can see most wavelengths of near infrared. The LEDs they use on those things have pretty low wavelengths, and the color isn't that pure, meaning they're spilling out plenty of light at lower wavelengths.    Embed Quote

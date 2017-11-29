@@ -1,2 +1,0 @@
-What is the best key-value store for generic usage?
-Correction: Redis' replication, HA and persistence are used in production for quite some time now and are anything but beta. I'm not sure where you got the information from, but the only feature that's currently in beta is the cluster. Your requirements make Redis a perfect solution so my suggestion is just go with it instead of trying to find an alternative for no apparent reason ;) 

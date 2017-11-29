@@ -1,2 +1,0 @@
-What are the techniques used to find nearest neighbor for large scale machine learning?
-Thanks for A2A .  you can use different kind of measure for finding nearest neighbor on large scale machine learning : Cosine_similarity https://en.wikipedia.org/wiki/Cosine_similarity Euclidean_distance https://en.wikipedia.org/wiki/Euclidean_distance And implemented them with any big data processing tool for scaling like hadoop which work on mapreduce architecture. 

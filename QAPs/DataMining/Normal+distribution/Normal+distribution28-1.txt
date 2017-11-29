@@ -1,2 +1,0 @@
-★Why the normal distribution can't be integrated from minus infinite to infinite?
-In case you haven't seen the proof that the the normal distribution integrates to one... Using the substitution : Here's the nifty trick...  You square the integral, change it into a double integral, then solve with polar coordinate transformation!  (The manipulations of the integral are justified by Tonelli's theorem.) So . But since the original integrand is strictly positive, we know that the positive choice is the only correct choice.    Embed Quote

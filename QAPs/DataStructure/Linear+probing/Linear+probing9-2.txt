@@ -1,2 +1,0 @@
-What are all the algorithms used in the Java programming language libraries?
-BigInteger.isProbablePrime() method uses Miller–Rabin primality test. 

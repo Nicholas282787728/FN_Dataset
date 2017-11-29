@@ -1,2 +1,0 @@
-Why would anyone need to use a logarithm base other than 10 or 2 from a practical application standpoint?
-Log base e is actually much more useful than Log base 10. I don't think I've seen anything use Log base 10 since I first learned logarithms, whereas I see Log base e on more or less a daily basis (Log base e is often called ln, by the way). Log base 2 is almost exclusively used in computer science/algorithms (please correct me if I'm wrong), and I've never seen it being used outside that context. 

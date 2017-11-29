@@ -1,2 +1,0 @@
-﻿★What are the good ways to stabilise a wireless router?It's not about the wifi signal stability ...the problem is that i'm using reliance broadband connection and they have provided with a modem. When i use ethernet the connection never drops but when i use router (wifi) the connection occasionally drops even if the wifi signal is high..i tried various channels.. no progress
-Make sure your router has the latest firmware provided by its manufacturer. If problems persist, then return.    Embed Quote

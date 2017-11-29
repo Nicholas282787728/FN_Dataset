@@ -1,1 +1,0 @@
-How has Quora built its topic (labels, tags) graph? Is it completely by the community or did they start with an initial graph?If its later how did they came up with such an initial set?

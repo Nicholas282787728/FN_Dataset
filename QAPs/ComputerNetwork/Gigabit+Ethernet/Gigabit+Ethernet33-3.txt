@@ -1,2 +1,0 @@
-★Is a plugged-in internet connection faster than a WiFi internet connection?
-It's the latency (time-delay, ms) not the bandwidth (MB/s) that is most often a noticeable speed factor for home networks. Typical latency on a wired LAN is <1ms (millisecond). Typical wireless LAN latency is 12-40ms, depending on signal strength. If you have a poor connection this can spike into the hundreds of milliseconds.

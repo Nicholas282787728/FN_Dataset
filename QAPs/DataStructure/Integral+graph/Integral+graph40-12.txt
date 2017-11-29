@@ -1,2 +1,0 @@
-What are some promising Big Data startups?Including both funded and non-funded ones. And maybe some OSS apps or stacks as well. (A startup doesn't always have to be a company, does it?)
-MapR MapR delivers on the promise of Hadoop, making managing and analyzing Big Data a reality for more business users. The award-winning MapR Distribution brings unprecedented dependability, speed and ease-of-use to Hadoop. 

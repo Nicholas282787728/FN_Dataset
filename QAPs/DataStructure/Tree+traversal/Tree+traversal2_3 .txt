@@ -1,1 +1,0 @@
-Why does tree traversal always go left subtree before right subtree? Is there any logical reason?If it is a sorted tree, this traversal assumes that left-first was also used by the insertion algorithm. It's just a convention, based on western left-to-right reading of sentences, etc. 

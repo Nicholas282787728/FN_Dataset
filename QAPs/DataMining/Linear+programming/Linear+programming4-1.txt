@@ -1,2 +1,0 @@
-★Why these two linear programs are not equal?
-Regarding the formal LP's: They are equal. I haven't worked with MATLAB, but I would assume the error will be found there.    Embed Quote

@@ -1,1 +1,0 @@
-Given an array: arr[a,b, c,d, e,f], how will you convert it into arr[b,a, d,c, f,e] ? You can give only logic instead of code.Do pairwise swap. 78 Views  View Upvotes

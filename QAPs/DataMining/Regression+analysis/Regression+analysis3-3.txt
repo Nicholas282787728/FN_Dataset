@@ -1,2 +1,0 @@
-★How would homo/heteroskedasticity affect regression analysis?
-The reason is that the residuals and the independent variables are correlated. This means that when the X (independent variable) takes high values, the residuls at those levels are high too, and when the X takes low values the residuas are low. This violates the assumption of independance.    Embed Quote

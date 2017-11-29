@@ -1,2 +1,0 @@
-★Can you train neural networks in parallel?For instance, could I split my data set into two halves, train two networks with the same architecture, and then combine them somehow?
-Yeah you can. It is called training phase parallelism and the concept is introduced by Jeffrey Dean. DeepLearning4j is one such open source implementation. I have made my own implementation of Jeffrey Dean using Graphlab and Mesos. Of course it needs some more developments. Here is the link jsaisagar/Deep-Learning-Over-Graphlab    Embed Quote

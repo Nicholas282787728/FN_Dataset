@@ -1,2 +1,0 @@
-Why aren't artificial neural networks used for everything?
-Sometimes logistic regression and simple tree (C 4.5) can generate equally good results on not so complex dataset while Neural Net may run MUCH slower.    Embed Quote 

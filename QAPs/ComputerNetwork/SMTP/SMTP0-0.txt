@@ -1,2 +1,0 @@
-★What are the best open source SMTP servers?in terms of reliability, performance, number of emails sent per day.
-Postfix Exim    Embed Quote

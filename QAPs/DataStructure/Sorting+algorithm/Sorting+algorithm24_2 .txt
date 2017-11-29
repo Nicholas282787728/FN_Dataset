@@ -1,1 +1,0 @@
-Can you implement a simple sorting algorithm using for loops?Just read about Bubble sort. It's a basic sorting using two for loop. 

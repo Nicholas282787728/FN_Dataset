@@ -1,2 +1,0 @@
-What are the most important data structure and algorithms to prepare for Google Interview?
-Here is cheat sheet I created for myself: Amit Desai: Algorithms & Data Structures 11.5k Views · 46 Upvotes

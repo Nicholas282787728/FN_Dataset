@@ -1,1 +1,0 @@
-Which sorting algorithms have the best case time complexity?Given the range of numbers, hash-sort would have the best complexity (basically O(n)). However, range is usually not given and the usual goto sorts like quick sort and merge sort have time complexity of O(n*log(n)). 

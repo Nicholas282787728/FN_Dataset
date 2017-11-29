@@ -1,2 +1,0 @@
-★What are some good books on computer networking?
-Coursera Course: https://class.coursera.org/comne... Computer networks from UW by David J. Wetherall. Amazing course! Do the homework and review questions without fail! Blogs such as: 1) PacketLife.net 2) Comprehensive PERL tutorial: Perl tutorial 3) Network Security Blog Network programming: Start with Beej's guide to network programming. Book: Computer Networking by James F Kurose & Keith W Ross

@@ -1,2 +1,0 @@
-What advantages C++ offers as compared to C in competitive programming landscape?
-The main advantage I find is that you get to use STL in C++ which provides you with so many data structures like vector, map, set, stack, etc. Also, STL helps you write short codes compared to standard C and thus saves you a lot of time in competitive coding. 

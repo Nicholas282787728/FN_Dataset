@@ -1,2 +1,0 @@
-★Network Security: What is PGP?please explain me in simple terms that what the PGP is? and how it works? Thanks!
-PGP stands for "Pretty Good Privacy". PGP can be used to send messages confidentially. For this, PGP combines symmetric-key encryption and public-key encryption. The  message is encrypted using a symmetric encryption algorithm, which  requires a symmetric key.    Embed Quote

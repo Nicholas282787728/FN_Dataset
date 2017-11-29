@@ -1,2 +1,0 @@
-What is the simplest language with which to learn algorithms and data structures?
-Data Structures are extremely logical concepts and once u understand these concepts u may  code  them in the language u are most comfortable in. As a beginner  u may try ur hand out in writing C ++ programs in data structures and the site Compile, run, curse… Recompile, rerun, recurse…helps u out in this.And once u master them u may move to any other language like Python or Java. 

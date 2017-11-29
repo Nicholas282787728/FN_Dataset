@@ -1,2 +1,0 @@
-What are the advantages of Erlang over other programming languages?
-There's a lot of runtime introspection above and beyond hot code swapping. You can attach a console to a running node and inspect and modify state interactively.  I'm a big fan of debugging with printfs, but if you've got a stateful server in production and you want to debug it, it's a lot easier to connect using a real REPL shell than with say gdb. 

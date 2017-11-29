@@ -1,2 +1,0 @@
-★Can random forest be effectively implemented on NVIDIA CUDA?
-I assume you are asking for a random forest data structure, the answer to that would be yes. These papers might give you a few ideas. Page on nyu.edu Page on ide.bth.se Also, you can find an implementation here: deeplearningais/curfil    Embed Quote

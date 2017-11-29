@@ -1,2 +1,0 @@
-★What are some good resources to learn about information extraction?
-I took the best class I can imagine on this topic by Professor Manning at Stanford, cs276. You can find most of the class material here. Information Retrieval and Web Search Also he has whole book online which is a pretty comprehensive survey on the topic. Introduction to Information Retrieval If I am not mistaken, he even has youtube videos that covers this topic pretty well. Good luck!    Embed Quote

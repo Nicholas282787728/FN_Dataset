@@ -1,1 +1,0 @@
-Why is it necessary to use Java to initialize anonymous array?It’s not required to use any specific programming language to create an anonymous array (or any data structure). Java may make it easier as not all languages allow anonymous arrays, but C# can do it just as well (including many other high-level languages). 47 Views

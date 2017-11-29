@@ -1,2 +1,0 @@
-★What is the standard deviation of the total weight of five watermelons?The weight of watermelons is selected at random, with a mean (=15kg) and standard deviation (=2.1kg). Suppose we pick 5 watermelons.
-The question doesn't quite make sense to me. Given you have 5 watermelon {m1, m2, m3, m4, m5} You know standard deviation is 2.1, and mean is 15 (ignore unit) Then I know the sum of (m_{i} - 15) ^ 2 = 2.1 * 4 = 8.4, where i is from (1, 2,3, 4,5) Knowing standard deviation and mean gives me an idea of distribution.    Embed Quote

@@ -1,2 +1,0 @@
-★How are cloud computing and FTP different?
-FTP is the most widespread transfer protocol used to transfer files from one host to another over the Internet. cloud  will allow you to be entirely flexible on resources, adding just the required amount of resources to your server. It's just like dedicated server but with flexibility included.

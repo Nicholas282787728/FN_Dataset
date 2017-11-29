@@ -1,2 +1,0 @@
-What are the differences between the double and float data types?
-Originally Answered: What is the difference between a a single-precision floating point number and a double-precision floating point number?Technically true but ultimately non-helpful answer: The single-point uses 32 bits of computer memory, and the double-point uses 64 bits of computer memory. 

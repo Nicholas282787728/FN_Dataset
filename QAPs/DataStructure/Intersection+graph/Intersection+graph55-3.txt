@@ -1,2 +1,0 @@
-How can I solve this equation: 2 x =x  ?
-Verify that 2^x is a convex, smooth function. The x function is linear. Easy times! A convex function is lower bounded by any tangent. Find x such that 2^x has derivative equal to one, just like the other function, x. Note the resulting tangent is parallel and above x, hence no solution exists. 

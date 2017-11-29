@@ -1,2 +1,0 @@
-CodeChef: I am in my third year of university now. What should be my strategy so that I am comfortable with solving problems of general topics such as graph problems, dynamic programming and other general problems which require some thinking and logic?
-Start with topcoder Div2 500 and aim for Div2 1000. 

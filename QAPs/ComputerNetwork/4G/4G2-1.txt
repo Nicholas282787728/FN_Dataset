@@ -1,2 +1,0 @@
-★What is LTE (4G)?
-Long Term Evolution, LTE is a 4G wireless communications standard developed by the 3rd Generation Partnership Project (3GPP) that's designed to provide up to 10x the speeds of 3G networks for mobile devices such as smartphones, tablets, netbooks, notebooks and wireless hotspots. 4G technologies are designed to provide IP-based voice, data and multimedia streaming at speeds of at least 100 Mbit per second and up to as fast as 1 GBit per second.

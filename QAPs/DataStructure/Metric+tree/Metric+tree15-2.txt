@@ -1,2 +1,0 @@
-How does one physically make a CPU?
-Intel Shows How A CPU Is Made I also just pinged a friend of mine in Intel, he gave me a direct link which has animated videos: From Sand to Silicon - the Making of a Chip 

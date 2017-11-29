@@ -1,5 +1,0 @@
-★Doesn't file_get_contents() accept a file path in the first parameter?
-I tested and is working on my php5.4 built in web-server. Did you tried locally? If are you using a shared host it may not work due server restrictions. Try run this : 1
-2
-3
- <?php echo ini_get('allow_url_fopen') ? "Enabled" : "Disabled"; ?>    Embed Quote

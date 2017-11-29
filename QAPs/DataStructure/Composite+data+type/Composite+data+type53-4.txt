@@ -1,1 +1,0 @@
-How do I transition from Haskell to Java?

@@ -1,1 +1,0 @@
-What is wrong with my code for prime factorization of the number?

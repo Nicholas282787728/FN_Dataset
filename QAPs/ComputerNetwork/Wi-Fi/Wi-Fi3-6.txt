@@ -1,2 +1,0 @@
-★Can you use a push-button WPS Wi-Fi setup with the iPhone/iPad?Many routers have a button on the front to pair devices over WiFi, without typing in long access codes. Do the iPhone and iPad work with WPS push-button setup?
-That is one of the things missing in iOS, so unfortunately the answer is no.    Embed Quote

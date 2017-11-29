@@ -1,8 +1,0 @@
-An FFT computes the DFT and produces exactly the same result as evaluating the DFT definition directly; the most important difference is that an FFT is much faster. (In the presence of round-off error, many FFT algorithms are also much more accurate than evaluating the DFT definition directly, as discussed below.)
-
-Let x0, ...., xN?1 be complex numbers. The DFT is defined by the formula
-
-{\displaystyle X_{k}=\sum _{n=0}^{N-1}x_{n}e^{-i2\pi kn/N}\qquad k=0,\dots ,N-1.} {\displaystyle X_{k}=\sum _{n=0}^{N-1}x_{n}e^{-i2\pi kn/N}\qquad k=0,\dots ,N-1.}
-Evaluating this definition directly requires O(N2) operations: there are N outputs Xk, and each output requires a sum of N terms. An FFT is any method to compute the same results in O(N log N) operations. All known FFT algorithms require ¦¨(N log N) operations, although there is no known proof that a lower complexity score is impossible.[16]
-
-To illustrate the savings of an FFT, consider the count of complex multiplications and additions. Evaluating the DFT's sums directly involves N2 complex multiplications and N(N?1) complex additions, of which O(N) operations can be saved by eliminating trivial operations such as multiplications by 1. The radix-2 Cooley¨CTukey algorithm, for N a power of 2, can compute the same result with only (N/2)log2(N) complex multiplications (again, ignoring simplifications of multiplications by 1 and similar) and N log2(N) complex additions. In practice, actual performance on modern computers is usually dominated by factors other than the speed of arithmetic operations and the analysis is a complicated subject (see, e.g., Frigo & Johnson, 2005),[17] but the overall improvement from O(N2) to O(N log N) remains.

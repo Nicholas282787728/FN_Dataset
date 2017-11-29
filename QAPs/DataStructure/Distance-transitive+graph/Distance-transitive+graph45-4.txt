@@ -1,2 +1,0 @@
-What are the most learner-friendly resources for learning about algorithms?
-Just to add to Alex's answer,  you can refer to "Algorithm Design" by Kleinberg and Tardos. It is not encyclopaedic like Cormen et al but Kleinberg is a great teacher. Also, for an abstract view of how to wrap head around algorithms, "how to think about Algorithms" is really good. I personally find Sedgewick big and boring.  And Knuth well, climbing Everest will probably be easier. Updated 244w ago • View Upvotes

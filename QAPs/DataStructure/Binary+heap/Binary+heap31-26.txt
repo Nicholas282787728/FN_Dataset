@@ -1,2 +1,0 @@
-What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
-Van Emde Boas trees. Performing search/insert/delete in O(lg lg n) time using O(n) space is pretty cool 

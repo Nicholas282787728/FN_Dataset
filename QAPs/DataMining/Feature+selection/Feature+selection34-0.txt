@@ -1,2 +1,0 @@
-★How do I do proper feature selection and classification in high dimensional sparse and highly unbalanced data?
-One thing I always found useful is to use Random Forest and look into the variable importance. That always helped me. Techniques like PCA can work but it is hard to scale for a large amount of data. There is no substitute for a good domain knowledge. If you have large number of features, then  running a basic measure of covariance, will help to weed out highly correlated variables.    Embed Quote

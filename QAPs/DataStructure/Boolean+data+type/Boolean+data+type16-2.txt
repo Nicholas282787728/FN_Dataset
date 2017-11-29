@@ -1,7 +1,0 @@
-What are the advantages and disadvantages of these data types: integer, floating point, string and boolean?I can¡¯t really say that they have advantages or disadvantages over others, they are used for the correct data type needed.
-
-I¡¯m not really sure what you want to know about these data types?
-
-Let¡¯s say you want to use some data from a SQL Server database - then a VARCHAR field would translate to a .Net string, A BIT Field would translate to a .Net Bool and so on.
-
-Can you be more specific about what you are looking for?

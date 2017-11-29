@@ -1,2 +1,0 @@
-★HTML: What is HTML?
-HTML is the structure of a webpage. It's not the same as CSS or JavaScript. HTML deals only with the physical structure of your page, e.g., the text, an image, a button, a text input field, a form. Essentially the buildings blocks or content of a webpage. The result of pure HTML is boring and plain (ugly). CSS is what makes it beautiful and aesthetically pleasing. JavaScript makes it come to life, with interactivity and dynamics.

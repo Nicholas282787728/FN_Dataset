@@ -1,2 +1,0 @@
-What is the easiest way to implement a suffix tree data structure?
-A combination of Suffix Array and LCP array will be the way to go, easy to understand and implement. LCP array PS: Most efficient algorithm for suffix tree creation is Ukkonen's algorithm. 

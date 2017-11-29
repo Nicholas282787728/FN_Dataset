@@ -1,2 +1,0 @@
-Data Visualization: What are the best web-based phylogenetic tree viewers?
-I don't know about web-based, but FigTree is pretty good, and it's free. FigTree [EDIT: ITOL Interactive Tree Of Life      ] 3k Views · 3 Upvotes

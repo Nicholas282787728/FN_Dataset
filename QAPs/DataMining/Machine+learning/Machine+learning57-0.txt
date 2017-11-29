@@ -1,2 +1,0 @@
-★Machine Learning: What is the relationship between Online Machine Learning and Incremental Machine Learning?
-They refer to the same approach.    Embed Quote

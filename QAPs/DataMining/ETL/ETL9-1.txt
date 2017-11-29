@@ -1,2 +1,0 @@
-★Will Hadoop replace ETL?
-I think they both are two different things. You can not really compare an apple with an orange. If you use both probably they both can compliment each other. One as a platform and other as an application to load and transform the data to it.    Embed Quote

@@ -1,2 +1,0 @@
-What are some of the most ridiculous proofs in mathematics?Especially for easier concepts.
-Proof that 83 is a prime number. A new proof was given by D. J. Bernstein in a talk. You can have a look at the 21-slide presentation of the proof here: Page on cr.yp.to P.S.: Have a look if you are comfortable with rings, symmetric convex sets, Minkowski theorem, etc. :) 

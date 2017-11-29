@@ -1,2 +1,0 @@
-★Data Compression: Who created gzip?And why gzip format appears labeled as "Request for Comments: 1951"
-Check wikipedia - gzip The program was created by Jean-Loup Gailly and Mark Adler as a free software replacement for the compress program used in early Unixsystems, and intended for use by the GNU Project (the "g" is from "GNU"). Version 0.1 was first publicly released on 31 October 1992, and version 1.0 followed in February 1993.

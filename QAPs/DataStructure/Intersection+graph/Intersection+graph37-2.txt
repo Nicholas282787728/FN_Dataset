@@ -1,2 +1,0 @@
-Is 0  one of the answers of x x  √  =x  √  x   ?
-Yes. You can solve directly by taking the log of both sides. Doing so will make it apparent that 1 is a solution since the log of 1 is zero. For solutions in which x is not 1, you can then divide out log(x) from each side and solve what remains yielding two solutions, 0 and 4. 

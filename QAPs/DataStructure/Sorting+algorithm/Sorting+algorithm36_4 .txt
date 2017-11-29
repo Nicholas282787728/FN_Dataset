@@ -1,1 +1,0 @@
-Is there any sorting algorithm with running time log(n)?No it is impossible to have a time complexity less than o(n) for any sorting algorithm. 

@@ -1,1 +1,0 @@
-What is the advantage of using zero-length arrays in java?If you have a method that takes an array as input parameter, and you want to return Null from that method, you can return zero-length array. benefit of Using this approach means far less null checks are required. for more Detail please read this article. Return zero-length arrays, not nulls 34 Views

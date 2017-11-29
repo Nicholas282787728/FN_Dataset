@@ -1,2 +1,0 @@
-★Is there a feature-by-feature comparison of Informatica and SQL Server Integration Services (SSIS)?It is hard to find SSIS-specific feature comparison on the SQL Server website, and I need to compare just SSIS vs Informatica. Any third party review available (for free or paid)?
-Check the below link for detailed comparison Informatica PowerCenter vs. Integration Services (SSIS) Comparison    Embed Quote

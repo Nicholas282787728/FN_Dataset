@@ -1,2 +1,0 @@
-★How can you learn Mathematics for machine learning?What books, topics, resources are one stop for learning all mathematics necessary to start learning Machine Learning?
-A really great resource is the ai-class https://www.ai-class.com/ I've learned a lot in this course! And the best thing is that your teachers are "Peter Norvig" and "Sebastian Thrun". Smart People with a very Deep Knowledge of the topic! (Sebastian Thrun e.g Works at Google X And develops self driving cars there)    Embed Quote

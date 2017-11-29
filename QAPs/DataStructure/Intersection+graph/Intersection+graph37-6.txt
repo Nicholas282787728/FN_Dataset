@@ -1,2 +1,0 @@
-Is 0  one of the answers of x x  √  =x  √  x   ?
-Although the answer is yes, 0 is a solution, you are on dangerous ground. not every pair of functions, both of which tend to 0^0 as x tends to 0 will be equal. consider the function g(x) = 0^x as x tends to 0 from the positive side (x=+0) ...this function is zero at x=+0 whereas x^x tends to 1 at x=+0. however x^(x^.01) tends to zero. I think the break point ix x^(x^(1/e^e)) but I'm not sure take logs and use L'hopital's rule? 

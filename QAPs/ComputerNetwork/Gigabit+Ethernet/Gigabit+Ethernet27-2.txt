@@ -1,2 +1,0 @@
-★Can you hard-wire one router to another?I have a router upstairs that is hard wired, through the walls with a CAT-6 cable to the downstairs TV for Netflix and the like.  The wifi down there is spotty because the router is several rooms and two floors away from the family area. What I'm wondering is can I hook a router up to the CAT-6 cable, and have a second wifi point down there?
-Yes you can. The second router can be configured in bridging mode. So all traffic via that router is just passed to the network of the first one.

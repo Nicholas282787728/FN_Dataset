@@ -1,2 +1,0 @@
-★Is there a good online/interactive resource for practicing writing regular expressions?I'm looking for something along the lines of a tutorial that progressively grows more difficult rather than just a visualization/way to try them out.
-I use visual-regexp. It is available as an Ubuntu package, and also Windows download (but I've never used the Windows version.) a graphical explorer for your regexps    Embed Quote

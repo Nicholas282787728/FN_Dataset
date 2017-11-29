@@ -1,2 +1,0 @@
-I have a number array from 1 to 1000000, I need to get the time taken by each array element to converge to 1 without any repeated calculation. How should I solve this problem?
-Simple Recursion: int collatz(int i){    if( i == 1 )          return 1;    else if ( i % 2 == 0 )          return collatz( i / 2 );    else return collatz ( (3 * i) + 1 );} You can use memoization (partial memoization would be better), if you want to do this repeatedly. (See Nicholas Halderman's answer) Updated 91w ago • View Upvotes • Asked to answer by Muhamed Noufal

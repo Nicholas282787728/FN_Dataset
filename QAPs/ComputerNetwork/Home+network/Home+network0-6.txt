@@ -1,2 +1,0 @@
-★What is the best way to secure Wireless (Wi-Fi) Home Network?
-The steps I take are: 1. Enable encryption (WPA2 if possible, WPA otherwise. Don't use WEP, it's old and easily cracked.) 2. Change the web access passwords (all of them. Depending on your router there may be 2 or more. One for the default "admin" and possibly a hidden "root" login.) 3. Disable the easy setup things that you only need to push a button to get on. That's about it. MAC filtering is something of a pain to deal with.

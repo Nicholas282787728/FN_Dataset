@@ -1,2 +1,0 @@
-★What is the best way to punctuate around URLs in plain text documents?
-I suggest leaving or inserting a space before and after all URLs in plain text documents. The reason is that such URLs (links) can be clicked on in some text editors and documents to cause the computer's browser to go directly to the link, without the need for copying and pasting. If a period were inserted immediately after the URL, it could be interpreted as a character in the link itself, and therefore return an error in the browser.    Embed Quote

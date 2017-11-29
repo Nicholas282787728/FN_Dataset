@@ -1,2 +1,0 @@
-What are some good resources on data structures like Tries, Suffix Trees and Suffix Arrays?
-In addition to the books suggested by Varrun Ramani, I would suggest Jewels of Stringology [1]. Amazon link: [1] Jewels of Stringology: Wojciech Rytter, Maxime Crochemore: 9789810248970: Amazon.com: Books 

@@ -1,1 +1,0 @@
-Depends on the language. To give you some examples: It's possible in Javascript and PHP. In C and C++, it is only possible if you initialize the array with values when you declare it. 208 Views  View Upvotes  Answer requested by Kandala.vamshidhar Reddy

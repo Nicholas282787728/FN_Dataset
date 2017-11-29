@@ -1,2 +1,0 @@
-What is the best way to learn data analysis for a beginner?
-The best list of resources I've seen is the Data Analysis pathway on Sliderule, which was written by a former Data Scientist at Airbnb. It starts with basic programming and goes all the way to advanced data analysis. Link: http://www.mysliderule.com/data-...    Embed Quote 

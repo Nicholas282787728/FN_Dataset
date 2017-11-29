@@ -1,2 +1,0 @@
-Who created the Stack data structure?
-Stack (abstract data type) The stack was first proposed in 1946, in the computer design of Alan M. Turing (who used the terms "bury" and "unbury") as a means of calling and returning from subroutines. The Germans Klaus Samelson and Friedrich L. Bauer of Technical University Munich proposed the idea in 1955 and filed a patent in 1957. The same concept was developed, independently, by the Australian Charles Leonard Hamblin in the first half of 1957. 

@@ -1,2 +1,0 @@
-★What are some good research-oriented jobs in machine learning, data mining, or information retrieval?
-Many universities are hiring in the areas of ML, DM, big data, etc. In addition, there are a few research labs out there looking for such people. In particular, Microsoft Research Asia (located in Beijing, China) is hiring.    Embed Quote

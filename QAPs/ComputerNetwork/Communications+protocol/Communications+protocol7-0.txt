@@ -1,2 +1,0 @@
-★Cars and Automobiles: Where can I learn about automotive communicative protocols like CAN, LIN, Ethernet?
-Hello It is avery good site Vector E-Learning - Welcome It will help you in self learning,after  that you should try for Implementing  these protocols using microcontrollres .You can dig up on net to find source codes etc.I am working in automotive domain if need more text regarding CAN ,LIN put your E mail here I will send you. :)

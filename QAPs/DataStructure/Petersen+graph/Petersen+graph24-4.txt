@@ -1,2 +1,0 @@
-What are some good resources for learning about numerical analysis?
-EE364a: Convex Optimization I the video lectures and book are available online 

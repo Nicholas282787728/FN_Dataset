@@ -1,2 +1,0 @@
-What are common hash table questions asked in a technical interview?
-Common is hard to know. I've never been asked a question about hash tables, except once the difference between a HashMap and a TreeMap in Java. Review both how to write a hash table, and something more exotic like Hash Array Map Trie (HAMT). Hash array mapped trie Hash tables are a common answer in a technical interview however. So its most important to know how to use them. Thank you for your feedback! Your response is private. Is this answer still relevant and up to date? YesNo 6.1k Views

@@ -1,2 +1,0 @@
-★What are the best tools available for content/text mining?I have a huge pile of unstructured data I would like to analyze for themes/phrases, etc.  I don't code, so it would be great if it was something easy to use, that allowed me to scrape data from websites for analysis.
-This question has already been answered many times on Quora in various forms. See: 1. Which platform / tool / language should be good for text mining ? 2. What are good starting points (books, tools ) for learning text mining?    Embed Quote

@@ -1,2 +1,0 @@
-What are some of the most ingenious algorithms in computer science?added bonus if the algorithm runs in constant time
-For some reason, I believe that Fast Inverse Square Root (http://en.wikipedia.org/wiki/Fas...) is one of the best algorithms I've come across. Finding out the square root in O(1).  Not that this is an important algorithm, but I must suggest that you can use this algorithm for solving coding challenge puzzles to improve run-time of the algorithm. 

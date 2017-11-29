@@ -1,2 +1,0 @@
-★What is the bandwidth policy in china?If someone wants to access any server outside of China it's really slow. This is because the Chinese govt. has a strange bandwidth policy. They allocate lesser bandwidth if someone wants to access anything outside China. I am curious about the figures. The amount of bandwidth they allocate to servers located within and outside China.
-bandwith managedby  telecom operators,not chinese govt

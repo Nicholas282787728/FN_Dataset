@@ -1,2 +1,0 @@
-How do you load data into a Hadoop cluster?
-Apache Flume    Embed Quote 

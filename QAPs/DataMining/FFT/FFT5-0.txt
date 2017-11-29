@@ -1,2 +1,0 @@
-★What are good ways to learn FFT from ground up?So, lets say how to learn the FFT from high school level? What would you recommend?
-Here is a course on Coursera that may be of interest to you: Coursera - Computational Methods for Data Analysis Week 1 - Lecture 1 - Time-Frequency Analysis - Fourier and Wavelet Transforms W01_L01_P01 - Basics of the Fourier Transform W01_L01_P02 - Representation of signals as frequencies W01_L01_P03 - Implementing the FFT routine W01_L01_P04 - Derivatives with the FFT    Embed Quote

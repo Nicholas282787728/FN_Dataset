@@ -1,2 +1,0 @@
-What is a good free software for drawing directed graphs, possibly with edge labels and node labels?
-In addition to those already mentioned, “mind mapping” tools can be useful for drawing directed graphs. See for example Xmind or List of concept- and mind-mapping software - Wikipedia 710 Views · 1 Upvote

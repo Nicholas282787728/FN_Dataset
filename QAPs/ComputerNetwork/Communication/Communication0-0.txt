@@ -1,3 +1,0 @@
-What is the purpose of bit stuffing and byte stuffing (in computer communication)?The other two answers appear to interpret "bit/byte stuffing" as what I'd call padding, adding unused bits or bytes to make a data structure easier to index or manipulate.
-
-I have a different understanding of the term. Stuffing is a method to maintain transparency in a communications channel when certain specific bit or byte sequences have special meaning to lower layer protocols.

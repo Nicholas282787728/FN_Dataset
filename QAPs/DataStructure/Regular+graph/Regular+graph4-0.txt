@@ -1,2 +1,0 @@
-Is it regular to learn Graph algorithms before DP?
-These topics aren't too heavily dependent on one another, but if I had to pick I would say you should learn graph algorithms before DP. There are some nice results with DP on graphs (Floyd–Warshall algorithm, Minimum-weight triangulation, Optimal Binary Search Tree, Maximum Independent Set, Travelling salesman problem), so it might be helpful for you to learn the basics of graphs first and then move onto dynamic programming, where you'll study and solve new problems applying DP to graphs. 

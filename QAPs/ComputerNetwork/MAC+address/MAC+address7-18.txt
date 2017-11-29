@@ -1,2 +1,0 @@
-★Why is there a MAC address and an IP address?
-I will give you an analogy. If your landline number is Mac then the std and isd codes are IP. With Mac you can communicate locally. But when you want to communicate with someone outside of your local network, you have to use IP    Embed Quote

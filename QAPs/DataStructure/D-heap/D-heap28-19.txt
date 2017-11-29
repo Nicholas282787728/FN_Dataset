@@ -1,2 +1,0 @@
-What are some time-saving tips that every Linux user should know?
-In bash, <Alt>+. inserts last argument of previous commands (press repeatedly). One of my favorite (somewhat obscure) bash shortcuts. 

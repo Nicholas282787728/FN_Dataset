@@ -1,2 +1,0 @@
-What are some good resources to understand a binary indexed tree (Fenwick tree)?
-Problem - 540E - Codeforces Problem - 538F - Codeforces Problem - 459D - Codeforces These 3 are some recent (except last one) problems on codeforces that caould be solved with bit, they are not "basic" ones (i.e. they're not for beginners), but they're pretty nice 

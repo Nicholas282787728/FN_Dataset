@@ -1,1 +1,0 @@
-Are there any Joomla solution for Open Graph integration?Looking for easy inclusion of Open Graph tagging for Joomla articles without the pain of manually inserting them

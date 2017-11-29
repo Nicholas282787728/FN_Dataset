@@ -1,2 +1,0 @@
-★Is time series an important topic to know for a data scientist?
-Having knowledge about the concepts found in time series analysis is not integral but would be useful for any data scientist (auto regression/ moving averages/ARMA models/non linear models/GARCH/ARCH/cointegration etc. etc.) That way you can be aware of solid techniques which can be used if the need ever comes up. Edit: I see you are asking this because you are unsure whether to take a class in time series. Definitely take the class. This will stand you in good stead in the future.    Embed Quote

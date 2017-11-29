@@ -1,2 +1,0 @@
-★What's the difference between master data and metadata?
-MASTER DATA: is normally - textual (though a G/L account can be neumerical) like customers, vendor, material, etc   METADATA  is data about data: for example it will explain what this data element represents like - the data element master or transactional data - Is it neumerical, alhpa neumerical or alpha - what system it comes from - What table and field is this data element extracted from - what transformations has it undergone - etc..   -    Embed Quote

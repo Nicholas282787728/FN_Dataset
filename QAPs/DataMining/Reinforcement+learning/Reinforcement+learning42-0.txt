@@ -1,2 +1,0 @@
-★Can we use reinforcement learning in handwritten digit recognition?
-Hand written digit recognition is a supervised learning problem. If you can pose it as a Markov Decision Process (MDP) then you can use reinforcement learning techniques to solve it. For example, the paper "Sequential approaches for learning datum-wise sparse representations" by Gabriel Dulac et al. (2012) provides such an approach and actually one of the experiments presented in the paper is on digit recognition.    Embed Quote

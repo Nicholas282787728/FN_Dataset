@@ -1,2 +1,0 @@
-★Semantic Web: Any Alternative to Senti-WordNet?
-You can have a look at  sentiment_classifier 0.5 . Sentiment Classification using Word Sense Disambiguation, Senti Word Net and word occurance statistics using movie review corpus    Embed Quote

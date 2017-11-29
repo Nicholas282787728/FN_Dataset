@@ -1,2 +1,0 @@
-What is a good free software for drawing directed graphs, possibly with edge labels and node labels?
-Try graphviz. It is a widely used open source graph visualization software. Input is node and edge definitions. It will automatically layout the graph and offers output in multiple formats. 509 Views

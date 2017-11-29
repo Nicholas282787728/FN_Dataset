@@ -1,7 +1,0 @@
-How does a Programmer declare Two-dimensional Array of Boolean Data-type?you can declare it as usual as you declare a simple 2-d array.
-
-bool T[n][m];
-
-you can also declare as: int T[n][m]; and can store boolean data 0 or 1.
-
-first one is more optimised then second but both can be used.

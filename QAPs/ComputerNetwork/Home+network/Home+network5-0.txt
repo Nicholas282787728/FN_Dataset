@@ -1,2 +1,0 @@
-★Which best software to use to transfer files across the home network?I use uTorrent across the WAN and FastCopy from hard-disk to hard-disk. Both I find very reliable. How about for computer-to-computer transfers on the same LAN? Pause, resume, verify features would be awesome. Freeware would be great too.
-Have you looked at robocopy? Ships with windows, does reliable copy. Doesn't have pause/resume, but it verifies and lets you skip files you've already copy so resuming is as simple as running the same command.

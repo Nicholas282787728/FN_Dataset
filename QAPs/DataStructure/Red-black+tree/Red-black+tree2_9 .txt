@@ -1,1 +1,0 @@
-What are some real-world applications of Red-Black trees today?Can anyone point to real-world applications and places where red-black trees are used today?HashMap in java 8 uses RB tree instead of linked list to store key value pair in the bucket corresponding to hash of key. 

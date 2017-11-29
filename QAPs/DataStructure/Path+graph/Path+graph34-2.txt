@@ -1,2 +1,0 @@
-How can I find a path of a given length between two nodes in a weighted (undirected) graph?
-It looks like NP problem cause graph could contain loops through which you can travel as long as needed to achive desired path length. In case of loops Dijkstra's algorithm  does not fit for this task. Maybe you can use Floyd–Warshall algorithm first to find min distances between all nodes in a graph. So having such information you can try to find desired path using brute force search. But again this approach does not take loops into account. 

@@ -1,2 +1,0 @@
-★Does IPv6 reduce routing latency?Why or why not?
-No.    Embed Quote

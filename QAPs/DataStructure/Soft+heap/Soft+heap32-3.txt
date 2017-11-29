@@ -1,2 +1,0 @@
-What are the advantages of Erlang over other programming languages?
-Erlang is an excellent language for writing highly concurrent, scalable distributed systems. This answer on stackoverflow is good: case study - Where is Erlang used and why? - Stack Overflow 

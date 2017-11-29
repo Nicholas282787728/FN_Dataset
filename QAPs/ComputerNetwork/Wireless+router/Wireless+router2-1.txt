@@ -1,2 +1,0 @@
-★Is it possible to increase the range of a wireless router?
-Since the power limits listed for the two bands are absolute RF power levels, you can effectively raise the ERP (Effective Radiated Power) by using better than standard equipped antennae. The only drawback to adding gain to an attached antenna system is the consideration of making the antenna omnidirectional or a pointed antenna.    Embed Quote

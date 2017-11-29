@@ -1,2 +1,0 @@
-What are the most useful algorithms for programming, preferably in C/C++?
-Data Structures and Algorithms 

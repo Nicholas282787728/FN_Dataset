@@ -1,2 +1,0 @@
-What do people think of the TensorFlow sucks article?
-I actually wanted to use TF as a C++ lib for my project. It proved impossible. I am literally too dumb to do it. Found dlib and DLL: A Blazing Fast Neural Network Library - DZone AI Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 412 Views · 7 Upvotes

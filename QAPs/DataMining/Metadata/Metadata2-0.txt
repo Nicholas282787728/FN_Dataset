@@ -1,2 +1,0 @@
-★What is a metadata driven user interface?Product architects are suggesting we need to invest in a metadata driven user interface and I don't really get it. Can someone explain in layman's terms
-In layman's  terms metadata driven user interface is nothing but a personalization features of an application ( eg. UI personlization). User could be able to change the UI layout as per his/her preference, obviously driven by business needs. For better understanding start at http://msdn.microsoft.com/en-us/...    Embed Quote

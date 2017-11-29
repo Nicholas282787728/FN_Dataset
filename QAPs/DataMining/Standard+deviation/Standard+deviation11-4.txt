@@ -1,2 +1,0 @@
-★In linear regression, why would a large standard deviation of Y increase the slope and why would a small standard deviation of X decrease the slope?
-Small sd implies for a given range of x's, the corresponding y's are more concentrated about the mean . In terms of curve fitting it means a flat line( approximately a constant equal to the mean) can approximate the y's.    Embed Quote

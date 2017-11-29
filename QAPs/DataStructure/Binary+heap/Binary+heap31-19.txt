@@ -1,2 +1,0 @@
-What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
-I love Tries! [ http://en.wikipedia.org/wiki/Trie ] Made this fairly impractical chrome extension just to use tries - NewSpeak [ https://chrome.google.com/websto... ] 

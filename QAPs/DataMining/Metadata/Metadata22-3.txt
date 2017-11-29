@@ -1,2 +1,0 @@
-★What music metadata API is best for querying genre or tags by album and artist?
-You can find a list of available APIs providing Music Search here : http://www.programmableweb.com/a... Concerning metadata you have IODA Open or Decibel.net. You also can give a look at MusicBrainz.org    Embed Quote

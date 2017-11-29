@@ -1,2 +1,0 @@
-★What's the best way to parse a resume into database fields?What do you do if you have lots of resumes and need the data to be extracted (e.g. get their university) into individual items that can be placed into a Database?
-Usually resumes have very similar format, so it is easy to express resume grammar in languages such as GATE(http://gate.ac.uk/sale/tao/split...) or Gexpr(http://code.google.com/p/graph-e...). instead of using pure statistical NER based on HMM, CRF etc    Embed Quote

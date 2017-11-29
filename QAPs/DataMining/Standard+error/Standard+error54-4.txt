@@ -1,2 +1,0 @@
-★What are the interview questions on regression modeling?
-1 - How do you perform a regression? 2 - Why do you perform a regression? 3 - What are the con's of performing a regression? 4 - How many variables should you use? 5 - What are the downfalls of using too many or too few variables? These, I believe, are some basic questions that have come up quite a few times in my past.    Embed Quote

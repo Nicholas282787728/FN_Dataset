@@ -1,2 +1,0 @@
-Can I use 3D charts in my PowerPoint presentations?
-You can.  PowerPoint will allow you to do any graph that Excel allows.  But there is NEVER a good reason to use a 3D pie chart.  They only exist for unethical purposes. 3D graphs are a sign of unprofessionalism.  I highly discourage using them. 

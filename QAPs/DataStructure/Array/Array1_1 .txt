@@ -1,1 +1,0 @@
-What is an array?An array is an ordered set of data, compared to a variable which is only a single piece of data (if you've taken any linear algebra, an array is similar to a vector). Examples: foo = [0,4,7,2,11] bar = ['hello','world'] foo[0] = 0, foo[1] = 4, bar[1] = 'world', etc. 

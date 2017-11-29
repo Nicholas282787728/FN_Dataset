@@ -1,2 +1,0 @@
-What are some great online tools for creating presentations?
-I haven't done much with online tools, but if you want free presentation tools, GIMP is as good as Photoshop, and OpenOffice has a presentation tool like PowerPoint and an drawing tool that I haven't tried because I use other drawing tools. If you want vector drawing, Inkscape is free, and I've used it to create SVG files from bitmap pictures. 

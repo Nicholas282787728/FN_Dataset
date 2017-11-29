@@ -1,2 +1,0 @@
-★How do I learn about time series analysis?
-I am answering this question with an assumption that you meant time series data analysis by writing just time series. The below links are a good starting point to learn time series data analysis. http://www.itl.nist.gov/div898/h... https://www.otexts.org/fpp/2 (parts of this book) This free web page on using R for time series data analytics is also a great resource http://a-little-book-of-r-for-ti...    Embed Quote

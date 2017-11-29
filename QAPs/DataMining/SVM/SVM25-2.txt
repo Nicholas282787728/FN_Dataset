@@ -1,2 +1,0 @@
-★What is the difference between distance-based classifiers and SVM?
-Something is similar during computing the class label of a point between KNN and SVM. With KNN, you should consider every point in trainning set, and select the nearest points to comput the score. While using SVM, you just make use of the support vectors (or the points on the boundary) to comput the score. So SVM can be considered as a more complicated version KNN which has fixed the candidate points. Of course, So many differences between KNN and SVM exist there.    Embed Quote

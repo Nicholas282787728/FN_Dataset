@@ -1,2 +1,0 @@
-★When is it advised to cross features in logistic regression?Also, how should normalization be handled?  If the features are already normalized, should I normalize their product again?
-Say your regression gives you a poor accuracy and/or you want to try to improve the accuracy. In that case it might be a good idea to try to cross features. If you are using gradient descent to find your solution, it is advised to scale your features between [-1,1]. And by choosing that scale you don't have to re-normalize cross features.    Embed Quote

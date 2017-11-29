@@ -1,1 +1,0 @@
-How do I make all -ve numbers one side and +ve another?This is the partitioning step of a quicksort, if you need a reference besides the other answers. I don't know of a proof that it minimizes the number of swaps, but that shouldn't be hard to do if you're interested. 160 Views  View Upvotes  Answer requested by Vivek Kale

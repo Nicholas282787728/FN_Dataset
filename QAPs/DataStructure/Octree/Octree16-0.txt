@@ -1,2 +1,0 @@
-If you want to get better at computer science algorithms what should you do?
-Write a computer game. You're likely to be motivated to work on it because its fun. There are lots of cool algorithms in games: Path finding - A* search algorithm Physics - numerical methods, finite differencing, inverse kinematics Graphics - scene management data structures, kd-trees, octrees, voxel grids, numerical integration, sampling theory AI - finite state machines (I was a professional game programmer for 10 years.) 

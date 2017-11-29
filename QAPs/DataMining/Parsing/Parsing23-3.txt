@@ -1,2 +1,0 @@
-★What's the best way to parse a resume into database fields?What do you do if you have lots of resumes and need the data to be extracted (e.g. get their university) into individual items that can be placed into a Database?
-You can use a third party resume parsing service for return HR-XML to you. I work for Sovren . and this is what we do. Sovren There are other solutions on the market too. Just Google resume parsing.    Embed Quote

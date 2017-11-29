@@ -1,2 +1,0 @@
-Why are there no solutions to the equation x 2 +6x+9 − − − − − − − − −  √ =x  ? Wouldn't x=−3/2  be a solution?
-The left hand side of this equation is a square root, which cannot be negative, so -3/2 is not a solution. 

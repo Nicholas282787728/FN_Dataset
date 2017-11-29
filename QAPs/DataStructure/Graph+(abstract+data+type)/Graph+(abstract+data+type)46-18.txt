@@ -1,2 +1,0 @@
-Do grad school students remember everything they were taught in college all the time?
-You need to have a good grasp of the foundations - the assumptions that go into the derivation, the conditions under which the formula holds, and the more fundamental formulae that go into the derivation. Once these building blocks and the requisite math are in place, it's a matter of putting it all together. 

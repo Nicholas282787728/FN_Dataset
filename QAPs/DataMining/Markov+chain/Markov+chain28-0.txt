@@ -1,2 +1,0 @@
-★What are some good books to learn about Markov chains?
-I used this in my undergrad degree: Probability and Random Processes by Grimmett and Stirzaker.  It was pretty good, though that was 15 years ago and probably helped that I was taught the course by Grimmett.    Embed Quote

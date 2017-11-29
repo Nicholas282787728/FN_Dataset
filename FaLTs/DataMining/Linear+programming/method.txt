@@ -1,2 +1,0 @@
-The current opinion is that the efficiency of good implementations of simplex-based methods and interior point methods are similar for routine applications of linear programming.[14] However, for specific types of LP problems, it may be that one type of solver is better than another (sometimes much better).
-LP solvers are in widespread use for optimization of various problems in industry, such as optimization of flow in transportation networks.[15]

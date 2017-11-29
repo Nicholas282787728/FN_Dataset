@@ -1,1 +1,0 @@
-John von Neumann wrote the first array sorting program (merge sort) in 1945, when the first stored-program computer was still being built.

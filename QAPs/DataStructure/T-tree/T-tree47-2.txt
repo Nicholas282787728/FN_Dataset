@@ -1,2 +1,0 @@
-"How can I implement Graph/Tree algorithms in java ?"
-A detailed explanation about graphs, trees and their representations including Java code is available at Graph & Tree algorithms 

@@ -1,2 +1,0 @@
-What is the best algorithm for automatically calculating a credit score?
-"Best" depends on the nature of the problem, and the objective. For credit lending, the objective is not to maximise any statistic, but to build a good decision making tool. Simple scorecards are very often the best tool for that. They are transparent, auditable, and are easiest for regulatory compliance. Its not about the correlation only - if you cant explain the causation, its not a good business tool. 

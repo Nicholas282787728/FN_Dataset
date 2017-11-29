@@ -1,1 +1,0 @@
-How do I print pascal's triangle in C using 2D arrays?You can directly calculate the output and print it or you can store it in a 2D array and print it.For direct printing, check this link C++ Program to Print Pascal's Triangle - Sanfoundry Else try the following code: 134 Views

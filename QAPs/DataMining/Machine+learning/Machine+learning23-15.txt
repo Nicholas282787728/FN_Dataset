@@ -1,2 +1,0 @@
-★What is the best machine learning algorithm?
-Unless the problem fits very well with one of the well defined methods like regression, clustering or classification, IMHO, an ensemble -of multiple algorithms/models/methods- need to be employed. For example the Netflix prize ...    Embed Quote

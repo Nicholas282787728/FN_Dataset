@@ -1,2 +1,0 @@
-★What is the difference (if any) between a wireless access point and a wireless router?
-An Access Point connects to an existing wired network and generally it only has one rj-45 connection. A wireless router generally Incorporates router, switch, firewall, dhcp server and access point.    Embed Quote

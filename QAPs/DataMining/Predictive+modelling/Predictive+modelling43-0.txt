@@ -1,2 +1,0 @@
-★What are the pros and cons of predictive modeling?
-Pros: Predict likely future behavior based on past patterns and individual characteristics Cons: Overemphasis on past patterns    Embed Quote

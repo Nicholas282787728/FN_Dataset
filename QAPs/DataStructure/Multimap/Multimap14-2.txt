@@ -1,2 +1,0 @@
-How do I sort array of pair<int, int> in C++ according to the first and the second element?
-you need to use a comparison function of your own. if you store all your pairs in a vector and to sort them descending order according to the second element  the comparison function look like bool func_name(pair<int, int> p1, pair<int, int> p2){       if(p1.second() < p2.second() )return 0;        return 1;} to call the comparison function sort(vec.begin(), vec.end(), func_name) related topic: How do I sort a vector of pairs based on the second element of the pair? 

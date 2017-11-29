@@ -1,2 +1,0 @@
-How might we transform a quadratic curve into a straight-line graph?
-If logs are used to transform nonliear to linear in y = ax^2 + bx +c it will be necessary to let b=c=0. Then you will have something like the Cobb  - Douglas production function Q = A K ^a × L^ b which can be transformed into a linear eqn.by taking logs. ln Q = ln A + a ln K + b ln L Or nRT = P^a × V^b... (more)

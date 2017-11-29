@@ -1,1 +1,0 @@
-What is an array?Originally Answered: What is array? Array data structure, an arrangement of items at equally spaced addresses incomputer memory. Array data type, used in a programming language to specify a variable that can be indexed. Associative array, an abstract data structure model that generalizes arrays to arbitrary indices individually. 39 Views  View Upvotes

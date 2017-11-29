@@ -1,2 +1,0 @@
-★Why is this regular expression too slow?The regexp is `/<!--(.|\s)*?-->/gm`, test code: island205/stripCommentTag.js
-'(.|\s)*?' can be '.+?' because '.' matches whitespace and <!----> isn't going to ever happen. However, this isn't a good way to work with html from javascript. Use xpaths instead. ETA: Don't take out the '?' because that will make it greedy and your regex will eat the first comment, the last comment, and everything between.  NFA vs DFA has nothing to do with it. PPS: Use xpaths instead!    Embed Quote

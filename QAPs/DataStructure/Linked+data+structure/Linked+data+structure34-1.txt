@@ -1,2 +1,0 @@
-What are some of the best video lectures for learning data structures (mainly trees, linked lists) in C language?
-I would highly encourage towards reading about them more on textbooks or lecture slides on university websites. Most colleges that offer a computer science degree have a data structures class and usually the professors will upload their lecture slides. After that I would go to wikipedia for some nice animations on how some trees work. 

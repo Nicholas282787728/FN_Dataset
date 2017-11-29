@@ -1,2 +1,0 @@
-★Mobile Broadband: How is 4G different from 3G?I was told that a lot behind the 4G and LTE is simply branding and marketing. So what EXACTLY is 4G in layman's terms?
-In most places & most sensibnle discussions: 3G = cdma2000 or WCDMA 4G = LTE In that case the difference is that compared to 3G the data rate is much, much higher, latency is much lower -- but it may not support voice (you will use 3G instead) and coverage for now is worse. Some carriers do market HSPA (3G+ or 3.5G) as "4G" - that was confusing a stupid spin.

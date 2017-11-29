@@ -1,1 +1,0 @@
-What is the maximum size of the array in Java?public class size {   public static void main(String args[])  {  System.out.println(Runtime.getRuntime().getMemory()); // the value is 2031615  int arr[] = new int[2031617];  } } In this code the i had added plus 2 to the size of total memory int int array but my code is not giving outofmemory error Please help me 

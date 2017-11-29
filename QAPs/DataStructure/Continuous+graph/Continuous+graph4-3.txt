@@ -1,2 +1,0 @@
-Intuitively and on the graph, why if a function is differentiable then its continuous?
-Actually, it's the definition of the derivative that dictates this. For a single-variable function y=f(x)  , we define dydx =lim x→a f(x)−f(a)x−a   . This tells us two things: That f(a)  exists. That for the derivative to exist, lim x→a f(x)=f(a)  .This is just what you need for f(x)  to be continuous at x=a  . 

@@ -1,1 +1,0 @@
-How can you prove that any integer x, x (x^2 - 1) (x-2) is divisible by 4 using discrete mathematics?Is it necessary to prove it using contradiction or contraposition ?assume 2 cases 1. x is even. then x=2n x(x+2) is divisible by 4 2. x is odd. put x = 2n+1 x^2-1 is divisible by 4 hence proved 33 Views  View Upvotes

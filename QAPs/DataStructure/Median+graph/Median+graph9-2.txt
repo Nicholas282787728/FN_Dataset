@@ -1,2 +1,0 @@
-Which mathematics topics should I learn to improve my algorithms skills and get started with competitive programming?
-Simple problems need logical thinking ability and minimal maths if at all. For intermediate level problems, try this: Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare 

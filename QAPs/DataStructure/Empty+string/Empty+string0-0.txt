@@ -1,2 +1,0 @@
-How do I input an empty string in c++?
-Heard about getline? Checkout this link getline (string) - C++ Reference You can also write your own function using getchar to read each input character, construct a string and returns it. If the user directly inputs 'Enter' this function will return an empty string. 

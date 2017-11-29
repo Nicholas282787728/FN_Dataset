@@ -1,2 +1,0 @@
-What are some interesting applications about B-Trees structure?
-Most database systems use the B-Tree (or a variant)…. Databases are now evolving into the Big Data era…. Search for Big Data applications and you’d find amazing things! 715 Views

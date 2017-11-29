@@ -1,1 +1,0 @@
-What is an application of array in data structures?Most of the Data Structures are implemented using array. For example Stack, Queue. They are just concept. Their implementation is done using Array. Which can be 1 dimensional or multi dimensional. 88 Views  View Upvotes

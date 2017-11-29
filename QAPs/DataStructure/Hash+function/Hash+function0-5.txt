@@ -1,2 +1,0 @@
-What is a hash function?
-Suppose you have an array with size N, value for i-th element is i for any i, so we can access/check any element in constant time. Now something changed, the value for elements in the array is arbitrary, so we have to access/check any element in linear time. Hash function can be viewed as a mapping to transfer the arbitrary value to an index of the array. So that's the initial intuition of hash function. For the details of the hash function, I think the above answer is already great. 

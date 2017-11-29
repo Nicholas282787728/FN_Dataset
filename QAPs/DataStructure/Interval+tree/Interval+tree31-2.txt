@@ -1,1 +1,0 @@
-How would you design a data structure to support dynamic insertion and deletion of intervals, where overlapping intervals get merged on insertion?

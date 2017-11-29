@@ -1,2 +1,0 @@
-What is your favourite graph theory problem?
-Finding strongly connected components is my favourite. It's not really the problem that i like, but the solution that Kosaraju came up with. It's so simple it needs only 2 passes over the graph and the proof is short and easy. Kosaraju's algorithm 

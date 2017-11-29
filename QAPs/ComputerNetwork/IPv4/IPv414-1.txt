@@ -1,2 +1,0 @@
-★What "future use" is the 240 - 255 block of IPv4 being reserved for?If not now, what future is there for it to be used for?
-Emergency space for private space for large scale service providers to use with custom hardware and software  changes to network gear.  People are already squatting on certain not advertised globally unique blocks and local use blocks like 100.64/10... At some point... Class E is the last hope of short sighted service engineering management.

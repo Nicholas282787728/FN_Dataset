@@ -1,2 +1,0 @@
-★What are the most interesting open-source projects in artificial intelligence and machine learning?What projects should people be paying attention to and studying?
-In the machine vision world - OpenCV (http://opencv.willowgarage.com/w...) is widely used.    Embed Quote

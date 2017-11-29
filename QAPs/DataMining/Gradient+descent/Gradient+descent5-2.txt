@@ -1,2 +1,0 @@
-★What is an intuitive explanation of stochastic gradient descent?
-SGD is essentially the same as online learning. Take a step in parameter space in the steepest decreasing direction of the loss function given a subset of the training data (SGD) or new data (online learning)    Embed Quote

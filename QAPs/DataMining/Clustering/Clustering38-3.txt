@@ -1,2 +1,0 @@
-How do you load data into a Hadoop cluster?
-Since you are loading CVS files you could use hadoop dfs commandline, as mentioned by Anil Kumar, to copy the files from a local disk to a hdfs cluster. To do this on a regular basis you could use Apache Flume in combination with something like Apache Oozie to define an automated workflow to process the files.    Embed Quote 

@@ -1,2 +1,0 @@
-Is MongoDB a good replacement for Memcached?
-Nope, MongoDb has various performance issues, moreover queries won't run optimally. Moreover retrieving  data is certain round trip to DB. Go for REDIS instead, it is always in ram, as fast as memcached, and wide range of data structures allow you to handle the data way you want. 

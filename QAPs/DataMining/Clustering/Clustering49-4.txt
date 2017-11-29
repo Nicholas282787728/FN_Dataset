@@ -1,2 +1,0 @@
-What are the best command-line tools for managing a small Linux cluster?
-A new tool to check out, a bit different than the multi-connection SSH type stuff, is Blueprint. Dead simple configuration management and reusable server configs. Blueprint I/O, a complimentary tool, can be used to move configuration files between servers. Hope this helps. https://github.com/devstructure/... (Blueprint at Github) https://github.com/devstructure/... (Blueprint I/O at Github)    Embed Quote 

@@ -1,2 +1,0 @@
-★Which is the best Python library to manipulate PDF metadata or watermark a PDF?
-PDFMiner looks good: http://www.unixuser.org/~euske/p...    Embed Quote

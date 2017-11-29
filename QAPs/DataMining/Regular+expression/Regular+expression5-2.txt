@@ -1,2 +1,0 @@
-★What's the best tutorial on regular expressions?The emphasis is on regular expression theory concerning string matching in computer programming.
-These helped me to understand the Regular Expressions better, you would find the Git source and few exercises to get you aquinted with Regex. " Regetron "    Embed Quote

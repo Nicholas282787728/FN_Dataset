@@ -1,1 +1,0 @@
-Can you implement a simple sorting algorithm using for loops?You can implement any sort algorithm using for loops. 

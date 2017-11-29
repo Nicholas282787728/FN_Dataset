@@ -1,2 +1,0 @@
-★What are some good resources for learning about data compression? Why?
-Introduction to Multimedia Communication. Read the book, which covers the major compression algorithm, and also discusses some theory and applications like audio/video.

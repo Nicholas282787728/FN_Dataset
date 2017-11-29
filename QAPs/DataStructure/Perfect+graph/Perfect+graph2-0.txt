@@ -1,2 +1,0 @@
-Can an imperfect graph have a perfect subgraph?
-Intuitively, yes. Start with a perfect graph [math]P[/math], and add a vertex to it. Now add edges from this new vertex to whichever vertices of [math]P[/math] until the resulting new graph [math]G[/math] is imperfect. You have just constructed an imperfect graph [math]G[/math] with a perfect subgraph. If this construction never works from whichever perfect graph you start with, then all connected graphs are perfect, which is known to be false. 

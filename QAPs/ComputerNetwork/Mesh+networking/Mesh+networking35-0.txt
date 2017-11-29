@@ -1,2 +1,0 @@
-★Is it possible to have WiFi nodes form a mesh network?The home router WiFi seems only capable of only forming a star network. Is mesh networking possible with WiFi?
-This is precisely the premise of Eero (www.eero.com).    Embed Quote

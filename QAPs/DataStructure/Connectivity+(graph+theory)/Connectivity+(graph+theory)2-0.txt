@@ -1,2 +1,0 @@
-Graph Theory: What is the name of the algorithm for identifying important people (best connected to others) in a social network?I don't remember the algorithm or its name, but I know there's a way to identify the important people in a social network. Basically  the idea is to identify people with the best connection to the graph. Thanks.
-The problem is related to centralities (proximity centrality, betweenness centrality...). But HITS and PageRank are well known algorithms that can bring an answer to this problem, depending on the formalism ou lay upon. 

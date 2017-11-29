@@ -1,2 +1,0 @@
-Is there any good package to read sparse matrices in R?
-I don't have any direct experience, but you might start by searching for "sparse" on rseek.org and looking at the various packages for filebacked objects like 'ff' and 'bigmemory' (see http://cran.r-project.org/web/vi...).  You might also try searching the various R blogs: http://www.r-bloggers.com/?s=sparse 

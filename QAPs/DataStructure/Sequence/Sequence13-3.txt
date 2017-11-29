@@ -1,2 +1,0 @@
-What is the next number in this sequence: 11,11,12,13,21,21,?
-The answer is 22, 23, 31 and so on. The first difference between the numbers follow the cycle: 0,1,1,8,0. So the next difference should be 1, then 8, 0 and so on, making the next numbers in the sequence 22, 23,31 

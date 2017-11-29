@@ -1,2 +1,0 @@
-Why can't binary be reversed to source code exactly as it was before compilation?
-Compilation is a lossy compression - think JPEG. Once an image is saved as a JPEG it is impossible to get the original raw image back. JPEG 

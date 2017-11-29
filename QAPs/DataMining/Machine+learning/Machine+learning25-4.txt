@@ -1,2 +1,0 @@
-★Is Measure Theory relevant to Machine Learning?
-I agree with others that you can do machine learning practice and even large parts of theoretical analysis with little or no understanding of measure theory. But certainly many theoretical machine learning results require measure theory. As an example, we used measure theory recently to analyze what distributions maximize the Bayes error, and showed that assuming Gaussians (a standard assumption behind LDA and QDA) is very optimistic: Page on Mayagupta    Embed Quote

@@ -1,2 +1,0 @@
-Does the following code in C++ allocate array at run time or at compile time?
-This is a concept known as 'variable length array' (VLA). The length is determined at runtime, hence the memory too. The concept is not standard though. Microsoft compilers don't have it yet, and g++ seems to support it. For more details in variable length array, take a look at: Variable-length array 

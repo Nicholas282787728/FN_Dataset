@@ -1,2 +1,0 @@
-What are the best machine learning packages in R?
-I like  The caret Package for machine learning in R.   Applied Predictive Modeling is an excellent book on using the caret package 

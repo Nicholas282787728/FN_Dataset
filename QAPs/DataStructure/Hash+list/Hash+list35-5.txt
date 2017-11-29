@@ -1,1 +1,0 @@
-Will the performance of Python code be comparable to that written in C after being compiled into stand-alone executable? If not, why?

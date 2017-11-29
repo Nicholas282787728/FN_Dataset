@@ -1,2 +1,0 @@
-★Is Fourier transform a signal processing or signal representation (in the frequency domain) technique?
-It is transforming the representation to Fourier representation form. It does nothing to the signal, but just change the way has to be read.

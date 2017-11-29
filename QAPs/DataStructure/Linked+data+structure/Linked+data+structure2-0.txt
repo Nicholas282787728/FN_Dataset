@@ -1,2 +1,0 @@
-What is an application of linear linked list data structures?
-Work queues.   Stacks for parsing structured data with complimentary braces/parenthesis.  Stacks for calculators which implement an order of operations. In general any place you want LIFO (Last In, First Out) (stack) or FIFO (First In, First Out) (queue) behavior and don't allow other insert/remove ordering like you'd want for problems such as LRU cache eviction dictating doubly linked lists. Updated 13w ago • View Upvotes

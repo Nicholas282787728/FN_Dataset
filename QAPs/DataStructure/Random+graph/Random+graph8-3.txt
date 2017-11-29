@@ -1,2 +1,0 @@
-What are some interesting, lesser known applications of data science (machine learning, random graphs, high dimensions, etc.) to e-commerce?
-That's a really great question. I've only know about data in the strict sense of finding and retrieving data for an enterprise level organization. Data is crucial for businesses to better coordinate their marketing efforts. I'm not so sure about these other applications you mentioned. 

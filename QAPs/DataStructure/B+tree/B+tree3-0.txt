@@ -1,2 +1,0 @@
-What are the differences between B+Tree and B-Tree?
-A B+ tree only  stores data in the leaf nodes. With no data in the interior nodes the fan-out can be higher than with a B tree, tree depth shorter, reads from secondary storage lower, cache hit rate on intermediate nodes better, and time to data faster. That's why I used B+ trees for mapping extents in a distributed block storage appliance I built. Thank you for your feedback! Your response is private. Is this answer still relevant and up to date? YesNo 28.1k Views · 30 Upvotes

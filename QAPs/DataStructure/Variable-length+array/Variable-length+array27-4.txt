@@ -1,2 +1,0 @@
-Is learning C++ still worthwhile?
-Instead of a long list of pros and cons I would suggest to look at the following table collected by Vincent Lextrait over many years: The Programming Languages Beacon It summarizes the programming languages some of the major software projects were written and re-written in. See the trend? Updated 126w ago • View Upvotes

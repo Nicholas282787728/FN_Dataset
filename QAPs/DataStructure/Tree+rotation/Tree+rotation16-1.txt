@@ -1,2 +1,0 @@
-Is it necessary for computer science majors to know how to code data structures or is understanding the concepts just enough?
-No.  You don't need to do anything like coding data structures to work in positions like "sales engineer," "technical writer," or "web designer." Building non-trivial products as a software engineer is a different story, but not all computer science graduates these days have the aptitude for that. Updated 46w ago • View Upvotes

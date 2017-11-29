@@ -1,2 +1,0 @@
-Business Intelligence: What are some good BI tools for MySQL?
-Style Intelligence, by InetSoft Technology, offers data visualization and reporting software with custom connectivity various databases in addition to mySQL.  Check them out at http://www.inetsoft.com/solution....    Embed Quote 

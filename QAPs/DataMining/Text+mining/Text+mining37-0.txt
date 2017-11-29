@@ -1,2 +1,0 @@
-★What are the steps to do text mining using R?
-There are no "steps" per se: it all depends on what you are looking for exactly. Sometimes a readymade function will give you the info you need, sometimes you will need to tweak things a bit. If you are a bit in a rush, learn the language basics (you need to show some effort) and look for an IRC channel of R developers and ask politely for help.    Embed Quote

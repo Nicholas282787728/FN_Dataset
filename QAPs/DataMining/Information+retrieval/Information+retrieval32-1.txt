@@ -1,2 +1,0 @@
-★Is there a design pattern library for information retrieval?
-IMHO the best pattern library is http://ui-patterns.com    Embed Quote

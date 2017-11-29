@@ -1,2 +1,0 @@
-★How do I create a neural network for Alzheimer's detection?
-You would be much better off with bayes. Neural networks are going to be pretty inefficient at something like that.    Embed Quote

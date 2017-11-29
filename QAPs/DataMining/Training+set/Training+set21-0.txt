@@ -1,2 +1,0 @@
-★Under what circumstances should I change my training set in an unbalanced classification problem?
-In order to test the accuracy of training on a skewed dataset, calculate Precision and recall for the cross validation set. Then compute the F1 score which can be used to judge how good your training is.    Embed Quote

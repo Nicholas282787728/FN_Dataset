@@ -1,2 +1,0 @@
-★What are popular methods to represent download bit rates?
-MBps

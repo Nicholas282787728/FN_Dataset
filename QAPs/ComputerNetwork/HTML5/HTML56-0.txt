@@ -1,2 +1,0 @@
-★What's a good engine to use for HTML5 games?
-The most impressive I've come across so far is http://rocketpack.fi/engine/

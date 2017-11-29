@@ -1,2 +1,0 @@
-Is a rigorous formal understanding of the big-O/theta/omega notation necessary to apply it successfully in computer science?
-If you are going for the design of algorithms or want to know the efficiency of the algorithms theoretically then a rigorous understanding is must. While, if you are are just going to select which algorithm is faster between two then there is no need for rigorous study. Just equip yourself to determine which one is faster. eg.. O(lg(n)) is faster than O(n). 

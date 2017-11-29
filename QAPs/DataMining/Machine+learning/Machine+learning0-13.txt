@@ -1,2 +1,0 @@
-★How do I learn machine learning?
-"Information Theory, Inference, and Learning Algorithms" by David MacKay has some decent introductory material if I remember.  Available online: http://www.inference.phy.cam.ac....    Embed Quote

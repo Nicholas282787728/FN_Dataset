@@ -1,2 +1,0 @@
-★What is principal component analysis?in super layman terms.
-Principal component analysis is a dimension reduction method. Suppose you have a great many variables - too many to deal with effectively. If you want to replace them with a smaller number of variables, while losing as little information as possible, PCA is one way to do it. It is different from (but related to) factor analysis, which attempts to find latent factors - that is, things that cannot be directly measured. The language used in these two methods is extremely confusing.    Embed Quote

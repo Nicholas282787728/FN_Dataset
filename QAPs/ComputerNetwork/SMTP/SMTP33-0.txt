@@ -1,2 +1,0 @@
-★What are the pros and cons of various simple MTAs / SMTP clients, including ssmtp, nbsmtp, putmail, and msmtp?I want to deliver mail to multiple accounts from my (single-user) laptop, and I'd like it to work well with Exchange and GMail.
-I've used esmtp and ssmtp (neither with Exchange or GMail, but both with authentication).  I didn't notice any pros or cons of either.  They just do what they're supposed to.    Embed Quote

@@ -1,2 +1,0 @@
-How do I learn data analysis for Python?
-There is no one *single* course that will teach you all. I recently came across Jake Vanderplass ' great tutorials on numpy and efficiencies. For pandas, I started to work through but did not finish a talk by the writer Wes McKinney.  Oh and btw have heard great things about the pandas book http://www.astro.washington.edu/...    Embed Quote Updated 18 Nov, 2013. 1,982 views.

@@ -1,2 +1,0 @@
-★What's a good way to parse XML in C#?
-LINQ to XML http://msdn.microsoft.com/en-us/... Sample http://archive.msdn.microsoft.co...    Embed Quote

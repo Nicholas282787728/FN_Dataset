@@ -1,2 +1,0 @@
-★What are some FPGA projects ideas of moderate difficulty? Preferably in the field of networks, communication and network security.
-Efficient implementation for 100 Gigabit Ethernet: switching and routing, packet inspection, offload engines, protocol testers. This speed is a cutting edge and can be handled by high-end FPGAs.

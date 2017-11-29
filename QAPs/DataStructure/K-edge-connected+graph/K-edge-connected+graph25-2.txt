@@ -1,2 +1,0 @@
-Do red coders and targets read the full question in a SRM?
-Anecdotally I'll answer yes. I usually have to read the questions twice, actually.  Once to understand the broad idea and again (skimming it this time) to pick out details.  Sometimes if I think I know what is going on in the problem I'll skip down to the constraints and examples. 

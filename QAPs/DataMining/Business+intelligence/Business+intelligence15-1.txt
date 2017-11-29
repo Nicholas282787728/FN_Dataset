@@ -1,2 +1,0 @@
-Can Business Intelligence (BI) meet business expectations?
-The biggest problem of BI is that even though it has B "Business" in its name it is ultimately an IT initiative. BI is delivered and measured as other IT initiatives. And while IT can declare success of building multi-terabyte datawarehouse on day 1 it is never used by business and it becomes a "place where data goes to die" by week 9.    Embed Quote 

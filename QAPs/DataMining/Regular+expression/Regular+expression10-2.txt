@@ -1,2 +1,0 @@
-★Why is this regular expression too slow?The regexp is `/<!--(.|\s)*?-->/gm`, test code: island205/stripCommentTag.js
-Take out the question mark. If you really want to know *why*, it's because regexp engines typically use NFAs, where exponential search spaces affect running time, rather than DFAs, where they instead affect state-machine size.    Embed Quote

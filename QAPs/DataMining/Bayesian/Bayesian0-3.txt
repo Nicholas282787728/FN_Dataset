@@ -1,2 +1,0 @@
-Are we all Bayesians?
-Yes, we are all Bayesians. We recheck our experiments when we think something's wrong. We are riveted by sensational headlines and TED talks that question conventional wisdom. We project our prior knowledge upon the world, and use that knowledge to evaluate the world around us. Bayesian statistics is our way to formalize how we reconcile prior knowledge with observed data.    Embed Quote 

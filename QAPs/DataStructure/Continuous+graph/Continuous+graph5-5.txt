@@ -1,1 +1,0 @@
-How does the graph of a continuous function satisfying "f(x)=0 if x=integer" look?

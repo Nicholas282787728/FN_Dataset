@@ -1,2 +1,0 @@
-What are some promising Big Data startups?Including both funded and non-funded ones. And maybe some OSS apps or stacks as well. (A startup doesn't always have to be a company, does it?)
-One of the most exciting ones is http://www.kidura.com/. They are building a very interesting data visualization and analysis tools. At the core of their platform is a method for producing a graph (network) based on the structure of a data set. 

@@ -1,1 +1,0 @@
-What is the deep web and how do you access it?The deep web consists of web pages that aren't indexed by search engines and are inaccessible to web crawlers. Your online bank account page, for example, is part of the deep web. TOR hidden service sites (.onion sites) are only a tiny part of the deep web. 303.1k Views  View Upvotes

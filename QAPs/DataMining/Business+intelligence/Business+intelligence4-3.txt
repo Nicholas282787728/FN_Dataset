@@ -1,2 +1,0 @@
-What is the difference between "business intelligence" and "business analytics"?
-Each single activity in the company pertains to two very big areas: operations and control. Operations is "what" is done, control is "knowing how and why" it is done. Business Intelligence is the sum of all the things (applications, data, activities) required to support control. http://straysoft.posterous.com/w...  Analytics are a subset of BI that refers to complex statistics such data mining, predictive, clustering etc. http://straysoft.posterous.com/t...    Embed Quote 

@@ -1,2 +1,0 @@
-What is the best websites or recommendations to learn algorithms, graph theory, and dynamic programming?
-Best book for algorithms: 'Algorithms' by Sedgwick etc. 'Algorithm design manual' (can't recall the author and an on my phone) For graph theory etc. on a basic level I recommend the MIT OCW course on Mathematics for Computer Science. Again I am on my phone so links are awkward but it is easy to find. For CS why not look at Concrete Mathematics for Computer Science by Knuth as that covers the discrete math you need for CS. Good luck! 

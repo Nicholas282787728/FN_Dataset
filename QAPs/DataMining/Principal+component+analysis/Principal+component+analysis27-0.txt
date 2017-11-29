@@ -1,2 +1,0 @@
-★Quantitative Finance: Is principal component analysis (PCA) preferred over one- and two-factor interest rate model for risk management purposes?
-It depends what you're trading.  If your position has bonds with multiple maturities, then you should probably be using PCA to model the slope and curvature movements....assuming you're delta-neutral    Embed Quote

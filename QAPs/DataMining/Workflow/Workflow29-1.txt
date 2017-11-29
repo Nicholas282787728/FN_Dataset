@@ -1,2 +1,0 @@
-★What hadoop workflow infrastructure will you recommend?
-Apache Oozie has good documentation and is widely used. The Oozie App in Hue reduces its complexity.    Embed Quote

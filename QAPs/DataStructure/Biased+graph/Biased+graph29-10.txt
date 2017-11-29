@@ -1,2 +1,0 @@
-What are 20 questions to detect fake data scientists? The answers should contain math formulas or a few lines of code, not just vague generalizations.
-I think your details sabotage your question.  It's relatively straightforward to learn some code and learn some formulas.  But these aren't a good test of ability at data science. I think the best questions would be real life examples. 5.9k Views · 21 Upvotes

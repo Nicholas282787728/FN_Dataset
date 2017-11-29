@@ -1,2 +1,0 @@
-Is there any research about translation of music and sounds to sheet music and notes?
-This blog addresses certain aspects of your question, though the "translation" doesn't always come out as sheet music and notes. Binary Heap 

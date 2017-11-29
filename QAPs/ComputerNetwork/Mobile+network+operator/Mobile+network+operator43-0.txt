@@ -1,2 +1,0 @@
-★Mobile Virtual Network Operators: Is Europe ready for data/wifi only MVNOs offering VOIP instead of traditional phone line?
-In a word NO. The ss7 infrastructure is chronically mismanaged and under deployed. Not built for data nor low latency / jitter. Until our networks switch to a modern all IP infrastructure we are at their mercy in terms of innovation. Barriers to entry in this market mean only the likes of google could have a serious chance of disrupting the happy monopoly    Embed Quote

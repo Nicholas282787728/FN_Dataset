@@ -1,2 +1,0 @@
-★What books/blogs do you recommend to get introduced into text mining area?Any request from the professionals for a beginner to step into the text mining world. I am well acquainted with machine learning and natural language processing areas. But unaware of any book/blog that would guide me into that area.
-A good book to get into text mining could be: Data Mining and Knowledge Discovery Handbook It contains a full chapter dedicated to text mining, as well as references to the basic bibliography.    Embed Quote

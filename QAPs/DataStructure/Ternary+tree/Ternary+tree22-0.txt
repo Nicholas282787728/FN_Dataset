@@ -1,2 +1,0 @@
-What is an algorithm to search a sub-string within a list of strings?
-Tries are a good way to start however ternary search trees are a more efficient implementation for the searching part. Ternary search tree is good for prefix based search. However, modern comparisons are not restricted to prefix, so this is where your suffix trees come in. If you want to provide features like auto correct, I suggest looking into Levenshtein distance ( for edit distance ) and BK Tree for closest match . 

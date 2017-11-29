@@ -1,2 +1,0 @@
-★What are the most important computational complexity results applicable to linear programming?
-Linear programs can be solved in polynomial time.  Whether they can be solved in strongly polynomial time is a major open question.    Embed Quote

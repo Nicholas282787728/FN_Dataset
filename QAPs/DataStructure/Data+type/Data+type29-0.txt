@@ -1,2 +1,0 @@
-What are the differences between the double and float data types?
-float is a 32bit IEEE 754 single precision Floating Point number. double is a 64bit IEEE 754 double precision floating point number. Both number formats are used as approximations of real numbers which are uncountably infinite. Because 64 bits can delineate far more items than 32 bits, doubles are far more precise. In most architectures 32bit floats are processed faster by the CPU. See:... (more)

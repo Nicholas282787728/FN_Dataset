@@ -1,2 +1,0 @@
-★Where can I buy an electromagnetic generator that produces ultra low frequencies (300 Hz - 3 kHz)?
-You can buy a signal generator at any electronics supplier. You can also make your own inexpensively with an IC such as this one: XR2206: Monolithic Function Generator. If you need high power output (> 300 mW), you can build an power output stage with a bi-polar or MOSFET transistors. What is it you really want to do with it?    Embed Quote

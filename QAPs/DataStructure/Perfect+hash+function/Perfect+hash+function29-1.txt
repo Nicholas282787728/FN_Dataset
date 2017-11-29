@@ -1,2 +1,0 @@
-Software Engineering:  What are the downsides of using my own hashing function instead of popular ones available?
-Because you'd be wrong. Smart people know that, which is why they use existing, proven, peer-reviewed, fully-vetted functions. Even pros like Bruce Schneier don't use their own shit until it's been peer reviewed and proven correct. And you're not him. Guaranteed. Updated 4w ago • View Upvotes

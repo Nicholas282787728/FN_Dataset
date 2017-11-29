@@ -1,2 +1,0 @@
-How do we prove that the Huffman coding algorithm is optimal?
-Huffmann coding algorithm is an efficient greedy algorithm ,at every stage it constructs a binary tree of prefix (based on frequency of characters)and ultimately it finds the optimum solution to compress the code . So it is an efficient compression algorithm . 726 Views · 1 Upvote

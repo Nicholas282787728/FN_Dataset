@@ -1,2 +1,0 @@
-★What is the backend call processing / messaging server as well as the communication protocol that viber uses?
-The only publicly shared information about Viber's backend seems to be their use of Couchbase: Viber Replaces MongoDB with Couchbase Their wire protocol is proprietary - here's some effort done in 2011 to reverse-engineer it: Viber Communication Security unscramble the scrambled Contents

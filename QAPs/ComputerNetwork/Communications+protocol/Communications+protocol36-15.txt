@@ -1,2 +1,0 @@
-★What are some real life good habits that programming gives people?Inspired by What are some real-life bad habits that programming gives people?
-It teaches you patience. You work incrementally to build bigger systems. You might spend a lot of time debugging a bug. You sometimes throw away work and start from scratch. All these will develop your patience.

@@ -1,2 +1,0 @@
-What do you replace STL with when working millions of items in a multimap?
-If you can't fit the whole data in RAM, why not consider splitting the whole task in batches and storing the  results back on the disk? You read a chunk, compute and serialize it on the disk. Then repeat the previous step for the next batch, and so on till you are done. Though the exact requirement is unclear to me, but probably you can consider using external sort as far as your sorting need is concerned. 

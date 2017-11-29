@@ -1,2 +1,0 @@
-To what extent is C a subset of C++?
-Wikipedia's article on the compatibility of C and C++ covers this in great detail. 

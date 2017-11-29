@@ -1,2 +1,0 @@
-★How much slower is https than http?
-There is so little difference that you will not notice it, everything being equal. I will say this: it is not speculations on speed that should decide whether or not to use HTTPS, and I would never not use https over speed issues where it is needed for Information Security. It's like dropping a Porsche (car company) because of its loading capacity. If you need loading capacity, you don't need a Porsche.    Embed Quote

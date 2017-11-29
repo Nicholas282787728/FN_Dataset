@@ -1,1 +1,0 @@
-How can I write a code with 2 loops for this question?So, have you dry run any test case? Your code has one problem and problem is that your second loop must also start from zero index and one condition add inside 2nd loop that is  If( i not equal to j && arr[i]==arr[j])  Break; Hope this will help you ! 226 Views  View Upvotes

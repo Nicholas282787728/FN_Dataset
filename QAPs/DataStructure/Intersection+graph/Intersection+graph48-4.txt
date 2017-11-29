@@ -1,2 +1,0 @@
-If f(x)=7x+12  , what is f −1 (x)  ?
-Let us take  $y= f(x)= 7x+12. We want to find out f^-1(x). This is nothing but the function which if you substitute "y" you will get "x". Thus f^-1(x)=(y-12)/7$ Hope this helps 

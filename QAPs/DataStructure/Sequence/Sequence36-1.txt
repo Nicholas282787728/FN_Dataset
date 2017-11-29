@@ -1,2 +1,0 @@
-What are the missing term number sequence 1,2,4,8,__, __?
-16, 31. It's clearly the number of ways a circle can be divided by all the chords connecting [math]n[/math] distinct points such that no three chords coincide. 

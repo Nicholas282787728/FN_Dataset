@@ -1,2 +1,0 @@
-What is the best way to draw a hypercube graph in the 5th dimension?
-One of the signs you've been doing theory too long - I honestly thought that you meant to ask how to draw an n-dimensional hypercube in 5 dimensions until I read the first answer. 

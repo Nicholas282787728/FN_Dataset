@@ -1,2 +1,0 @@
-How does the file lookup on a Linux system work?
-Doing a file lookup by scanning the directory containing millions of files (i.e.: ls or wild-card expansion, etc.) will be SLOW -  if the directory is active with new files being added regularily. Deleting files (i.e.: cleanup) will be EXREMELY SLOW in the same case. Looking up a specific, known filename shouldn't be too bad. 

@@ -1,2 +1,0 @@
-★What is the difference between a process and a thread?
-Each process has it's own memory stack. Threads within a process share the memory stack

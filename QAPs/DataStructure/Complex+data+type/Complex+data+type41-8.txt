@@ -1,2 +1,0 @@
-How can I prepare myself to be a software engineer at Google?Answer in this question is also relevant to: How can I prepare myself to be a good software engineer?
-Originally Answered: How can I get a job at Google?Knowing HTML, CSS and JavaScript won't help. What you should be really knowing is a Language. Any Programming Language like C, C++, JAVA. HTML and CSS are not programming languages, but JavaScript is. Updated 1 Jun • View Upvotes

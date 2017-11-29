@@ -1,1 +1,0 @@
-Why is neighborhood matrix of an undirected graph always symmetrical?Take a directed graph and for every to make an opposite from. You'd get the same symmetry.

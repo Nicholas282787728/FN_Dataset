@@ -1,1 +1,0 @@
-How does one count perfect matchings in a bipartite graph?Constraints: one partition has up to 10 vertices, the other up to 100 vertices.

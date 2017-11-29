@@ -1,2 +1,0 @@
-★Computer Programming: Do larger screen sizes make programming easier? If so, why?
-Yes, absolutely. Larger screen sizes allow you to see more lines of your program at one time, which means that you can spend less of your time scrolling around and more typing the right magical incantation. Larger screen sizes are also a necessity for those of us that have spent our lives squinting at monitors and now need a somewhat larger font size.

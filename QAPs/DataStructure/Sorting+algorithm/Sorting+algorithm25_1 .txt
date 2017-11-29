@@ -1,1 +1,0 @@
-What are all searching and sorting algorithms?1) Sorting algorithms 2) Searching algorithms Searching algorithms tend to be broken up into many subfields, but you may be looking for searching the substructures of a structure for a given property. In this case you would want to look into combinatorial search algorithms 

@@ -1,2 +1,0 @@
-★Are there any instances where an ftp username can contain a space?
-It really depends on the FTP server implementation.  In reading RFC 959 (the specification that all FTP servers/clients must follow) there is nothing that says a username can't have a space in it.  This means that it is subject to interpretation by the FTP server vendor, meaning it may or may not be supported.

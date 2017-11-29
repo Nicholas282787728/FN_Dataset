@@ -1,2 +1,0 @@
-Why in many programming contests the answer is required to be printed modulo 1000000007?
-check out   What's significant about the number choice 1000000007?   and if you wonder why always use a prime number for that read  about hash function on Wikipedia and then Why should hash functions use a prime number modulus?  on SO :) 

@@ -1,1 +1,0 @@
-How many n ∈ {0,1,2...999} contain the digit 6 exactly once?And how does this differ from: “How many n contain the digit 6 at least once?”The six can be on 3 places, the other 2 digits should be a non-six, of which there are 9 The requirement for the other question, is to the requirement that all digits are a non-six (again, of which there are ), so: 632 Views  View Upvotes

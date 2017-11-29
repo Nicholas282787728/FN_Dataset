@@ -1,2 +1,0 @@
-How can I check if one string contains another substring in JavaScript?
-var a = /yoursubstring/;   // a reg ex var b = 'this line contains yoursubstring'; a.test(b);      // this will return true 

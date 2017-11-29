@@ -1,2 +1,0 @@
-★Electrical Wiring: How can you find a Coaxial cable outlet?
-The classic way to do this is to change the multimeter to "Resistance (Ohms)", then put one of the probes onto the coax core and one to the shield (outer part of the connector). Then go to the wiring closet and short the shield with the core on each cable until the meter gives a different reading. That approach needs someone at the other end to watch the meter at least. An alternative is to short the end you want to find then test all the unlabelled connectors to see which one reads '0' Ohms.

@@ -1,2 +1,0 @@
-What are the most important data structures in a tech interview?
-When I interview SEs I always ask them to model a shopping basket that can answer about it's content's price. To make it more funny I say I also sell boxes and that I allow my customers to put small goods into those boxes and put the boxes in the basket. All this in an OO view of the world. Never asked a question about data structures. This exercise is extremely efficient in selecting good candidates. Hmmm... Let's hope none of my Quora followers applies with me now. :-) 2k Views · 2 Upvotes

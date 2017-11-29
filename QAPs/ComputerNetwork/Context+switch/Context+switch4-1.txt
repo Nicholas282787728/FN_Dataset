@@ -1,2 +1,0 @@
-★Operating Systems: What is the difference between context switching and interrupt handling?
-Both are different concepts and there is no comparison. Context switching is saving the context of one task/thread and load and run the other high priority task/thread. Interrupt handling is responding to the event / interrupt. We write interrupt handler code for a particular interrupt and register in the vector table . So when processor receives the interrupt , processor jumps to a particular index in the vector table and calls the interrupt handler.

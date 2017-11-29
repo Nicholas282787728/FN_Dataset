@@ -1,2 +1,0 @@
-★What is the best plotting type for the analysis of the linear model weight vector?I am trying to understand the importance of each feature dimension by the weight values of trained models. What plotting types or any other tools are useful for this purpose?
-It has been too long since I studied vector analyis but I would suspect some kind of 3 dimensional Euclidian algebraic plotting   x y  z    Embed Quote

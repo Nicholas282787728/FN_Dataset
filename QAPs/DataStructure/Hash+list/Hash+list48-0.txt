@@ -1,2 +1,0 @@
-What are the top 10 big ideas at CS 124 (Data Structures and Algorithms) at Harvard?
-The topics of the section notes (Section Notes : CS 124) summarize the main topics of the class fairly well. Big-Oh and the Master Theorem Heaps and Graphs Graph algorithms - DFS, BFS, Dijkstra Minimum spanning tree, Union-Find Greedy algorithms Fast Fourier Transform Dynamic programming and Memoization Randomized Algorithms Hashing and Skip Lists Flow Algorithms Games and NP-Completeness 

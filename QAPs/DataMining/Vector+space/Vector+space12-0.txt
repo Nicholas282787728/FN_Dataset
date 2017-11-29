@@ -1,2 +1,0 @@
-★What are some applications of vector spaces in physics?
-Quantum mechanics uses a LOT of linear algebra.  In particular, it uses the study of Hilbert Spaces, which are vector spaces with an inner product.    Embed Quote

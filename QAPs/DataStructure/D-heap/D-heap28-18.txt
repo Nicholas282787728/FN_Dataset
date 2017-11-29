@@ -1,2 +1,0 @@
-What are some time-saving tips that every Linux user should know?
-One small trick: when you cat a large file carelessly, press Ctrl+S to stop displaying immediately. Then press Ctrl+C to stop the cat process. Compare to keep hitting Ctrl-C, it saves a lot time, especially when your internet connection is slow. :) 

@@ -1,2 +1,0 @@
-Which search tree is the best to use for programming competitions?
-For coding contests please don't use any of them, you already get height adjusted binary search tree (not really sure if AVL or Red Black Tree is underlying implementation), in the form of C++ STL "Set" [1] [1] set<Key, Compare, Alloc> 

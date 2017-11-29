@@ -1,2 +1,0 @@
-What is your favourite area of mathematics? Why?
-I am a huge fan of operations research and discrete mathematics (especially graph theory). I am also interested in numerical simulation 

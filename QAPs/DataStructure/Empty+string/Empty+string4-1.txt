@@ -1,2 +1,0 @@
-In Emacs, how do I replace-string with the empty string '' instead of the default (last replacement) string?
-For both `replace-string' and the more convenient M-% `query-replace', you are prompted for the search string and the replacement.  If you just hit return, you will get the last search and replace, otherwise you supply both strings. 

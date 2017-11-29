@@ -1,2 +1,0 @@
-How do I declare a data type for an integer with more than 10 digits in C?
-10 or more? How much more? For up to 2^64 you may use unsigned long long ints, for REALLY REALLY BIG numbers, for instance when implementing cryptographic algorithms (2^8192 and more) you will need to use special types like the ones in the Gnu MultiPrecision library (GMP) 

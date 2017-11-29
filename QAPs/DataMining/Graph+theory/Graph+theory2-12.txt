@@ -1,2 +1,0 @@
-★What are the best resources to learn about graph theory?Introductory material with an aim of understanding structure of social networks.
-You can read this A Book by David Easley and Jon Kleinberg But if you just want a brief introduction, just search for "Structure and function of complex networks". It's a great paper with a lot of good references for further reading.    Embed Quote

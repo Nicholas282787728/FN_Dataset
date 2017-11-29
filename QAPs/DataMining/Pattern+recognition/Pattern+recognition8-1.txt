@@ -1,2 +1,0 @@
-★What are some Simple Pattern Recognition Project for amateurs?
-Example of sample training data: Java Neural Network Framework Neuroph You could think of doing doing something in ANN/ML and test it's success with this sample data. Good luck.    Embed Quote

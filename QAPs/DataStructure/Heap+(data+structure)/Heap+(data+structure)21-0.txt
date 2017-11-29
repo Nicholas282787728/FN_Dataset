@@ -1,2 +1,0 @@
-What data structures are used to implement the heap space in Java?
-The last time I checked a heap is a data structure. So the answer is heap. 398 Views · 3 Upvotes

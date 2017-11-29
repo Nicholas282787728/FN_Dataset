@@ -1,2 +1,0 @@
-How does the graph of a continuous function satisfying "f(x)=0 if x=integer" look?
-Here is a Gaussian windowed sine wave, 12π − −  √  e −x 2 2  sin(xπ)  Actually you can have any function windowed sine wave, if the function is positive with the tails go to 0. 

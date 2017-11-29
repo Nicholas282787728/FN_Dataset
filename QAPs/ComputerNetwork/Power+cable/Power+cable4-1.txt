@@ -1,2 +1,0 @@
-★What does the transformer on my laptop power cable do?To be specific: does this convert the (presumably powerful) current from the wall socket into something less lethal to humans and electronics?
-Your laptop is powered by it's internal battery, which is charged by a Direct Current Voltage. The wall socket supplies an Alternating Current at a much higher Voltage which is changed by the transformer and other electronics to a DC voltage for charging the battery.    Embed Quote

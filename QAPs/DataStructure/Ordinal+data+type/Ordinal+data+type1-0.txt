@@ -1,2 +1,0 @@
-How often do data scientists deal with categorical data?
-It depends on the field, but, in general, I would say "a lot! Almost every project". I consult with researchers in the social, medical and behavioral sciences. It's rare that there are no categorical variables at all, although sometimes they are just covariates and not that interesting. If y0u want to be a data scientist you have to know how to deal with all kinds of data. 

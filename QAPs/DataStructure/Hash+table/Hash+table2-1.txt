@@ -1,2 +1,0 @@
-How do Facebook, Quora and other companies handle hash table collisions?
-Refer this to see how hash collisions are resolved. How do HashTables deal with collisions? happy coding :) 11 Views · Answer requested by Gianetan Sekhon

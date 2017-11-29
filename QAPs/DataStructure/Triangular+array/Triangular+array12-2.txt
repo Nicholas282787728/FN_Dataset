@@ -1,2 +1,0 @@
-What is a good resource for experienced programmers to learn Excel VBA?
-I use Walkenbach's manual, "Excel 2010: Power Programming with VBA". It weighs about ten pounds, but the text and examples are very accessible. It's more a thorough reference than a language tutorial for novices, but skip to the relevant chapters and you'll pick up what you need. (shameless affiliate plug: http://amzn.to/RLrW77) 

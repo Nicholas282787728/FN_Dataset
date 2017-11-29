@@ -1,2 +1,0 @@
-★What is a Postback URL?
-Thanks Ben, so, if you don't mind a follow up, what generaly do you use as the "X" subID?  I think that's where I hit the wall.  Is it something we create on our end?  Because obviusloy there are a lot of macros that DSPs and Tracking sites provide like {UDID} and such, but in terms of what to put for postback to pass the right values, I'm stuck on that part.  Thanks!!    Embed Quote

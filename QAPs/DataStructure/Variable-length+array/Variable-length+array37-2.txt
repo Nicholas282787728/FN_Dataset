@@ -1,2 +1,0 @@
-Why do we need arrays when we have vectors in C++?
-Arrays are there for C compatibility. std::vector was intended to replace array esp when dynamic sizing is required. std::array is now there as a wrapper around C array when you need fixed size arrays. Both now can use initializer- lists, just like a C array. Even still, sometimes I use just plain array, esp in unions or as a member of a class, because its easier to type. If I like how that class is developing, I'll change it to one of the other forms. 

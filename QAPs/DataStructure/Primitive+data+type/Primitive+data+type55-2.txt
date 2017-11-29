@@ -1,2 +1,0 @@
-What are the advantages of operator overloading?
-operator overloading is  the property of Object oriented programming which gives an extra ability to an operator to act on a User-defined operand(Objects). Advantages: It will act differently depending on the operands provided. Its called extensibility. It is not limited to work only with primitive Data Type. By using this overloading we can easily access the objects to perform any operations. It makes code much more readable. 

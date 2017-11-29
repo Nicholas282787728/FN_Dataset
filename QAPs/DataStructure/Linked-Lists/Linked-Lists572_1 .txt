@@ -1,1 +1,0 @@
-What is real life use of circular & doubly linked lists?Escalator which is running circularly . Multi player game where one gets a chance after another one . Railway Station , Bus Stop , Airport e.t.c. where one can go in both direction . 15.2k Views  View Upvotes  Answer requested by Vimox S Shah

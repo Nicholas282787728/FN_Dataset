@@ -1,2 +1,0 @@
-Why do stack variables contain garbage values? Is there any way we can assign our whole stack to NULL?Why do local, stack-based variables have garbage values by default?
-Originally Answered: Why will automatic variables contain garbage if it is not set?Garbage here means that the value of the variable will be whatever bytes were left there the last time the variable's memory address was used. In other words, this value can be anything so you should not rely on it. 

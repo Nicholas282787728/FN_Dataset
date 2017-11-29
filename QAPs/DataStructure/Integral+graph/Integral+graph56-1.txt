@@ -1,2 +1,0 @@
-How do I make velocity vs time graph into position vs time graph?
-Integrate.  Which means the area to the left of the v-t graph, at any point, is the height if the p-t graph at the same point. 

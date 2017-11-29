@@ -1,2 +1,0 @@
-What are the open topics in computer wireless networks?
-The challenges that I can think of: Increase speed Increase range Build a better mesh Come up with a Wi-Fi replacement, at least 10x improvement 

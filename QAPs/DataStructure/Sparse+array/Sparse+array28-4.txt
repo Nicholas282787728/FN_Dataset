@@ -1,2 +1,0 @@
-What is the maximum possible size of an array in C++?
-I found out during a recent project that there seems to be a limit. A static Array can have a maximum length (this is due to lack of contiguous blocks on stack allocated for the compiler). There were two possible solutions, either change compiler settings for a larger stack, or use dynamic arrays (heap had much more capacity on my system, so I used this). 

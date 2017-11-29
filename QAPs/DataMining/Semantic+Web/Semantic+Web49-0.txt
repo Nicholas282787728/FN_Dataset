@@ -1,2 +1,0 @@
-★How many enterprise CTOs truly understand semantic web technology?I've met and interviewed a number of savvy CTOs at enterprises over the years, but John O'Donovan of the Financial Times is the only one I know of who apparently understands semantic web tech well enough to be credited with making it work in a large enterprise environment. Are there others?
-I am no expert but have come a long way in the last 2 years thanks to mentors helping me. We are launching with semantics built into everything objectwheel touches including analytics.    Embed Quote

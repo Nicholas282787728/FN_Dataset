@@ -1,2 +1,0 @@
-What is your favorite video lecture series on Algorithms and Data Structures?
-Algorithms by Shai Simonson. Undoubtedly the best. 

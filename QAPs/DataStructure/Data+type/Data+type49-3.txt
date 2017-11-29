@@ -1,2 +1,0 @@
-What data type do transistors use?
-I am not sure what you are asking, but transistors, at least bipolar types, are three terminal devices and operate on current gain. 15 Views

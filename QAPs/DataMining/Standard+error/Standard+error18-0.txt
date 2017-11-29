@@ -1,2 +1,0 @@
-★What is the best way to plot mean with standard error in bar using R?
-if you like pretty pictures using ggplot2...have a look at this...http://wiki.stdout.org/rcookbook...    Embed Quote

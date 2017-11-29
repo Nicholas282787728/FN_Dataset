@@ -1,2 +1,0 @@
-★How difficult is it to develop a simple networking communication protocol for an individual into computer science and microcontrollers?
-Not too difficult nowadays. For example, you can get a SOC and board with a GSM module and that allows you to configure a TCP server that you can communicate with using their SDK. Some have a bit of programmability like Lua scripting. Or you can get a Raspberry pi and get a full Linux environment. Here you can pretty much write your own daemon.

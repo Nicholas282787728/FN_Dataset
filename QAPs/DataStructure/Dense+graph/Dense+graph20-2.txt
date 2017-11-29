@@ -1,2 +1,0 @@
-How do I run Floyd Warshall's Algorithm for a big road network?
-The Floyd Warshall Algorithm constructs a array of size |V|×|V|  where V is your set of nodes. The Space Complexity is thus around 4∗10 10   bytes (integers), for 10 5   nodes which corresponds to some 40 gigabytes. Hence, you don't have enough space to run the algorithm. 

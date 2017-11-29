@@ -1,1 +1,0 @@
-Is there a 'list' of useful theorems in graph theory?There are lots of this sort of resource available on the Web. https://math.la.asu.edu/~andrzej... http://meetrajesh.com/publicatio... Robin Wilson who was a colleague at the Open University wrote a very popular book on graph theory which is available at http://www.maths.ed.ac.uk/~aar/p... 157 Views  View Upvotes

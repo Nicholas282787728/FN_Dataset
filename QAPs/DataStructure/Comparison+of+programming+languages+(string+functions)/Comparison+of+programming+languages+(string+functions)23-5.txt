@@ -1,1 +1,0 @@
-Haskell (programming language): What are type classes and how are they useful?

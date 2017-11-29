@@ -1,2 +1,0 @@
-When using logstash with elastic search, when/how do I specify the mapping of the index that will store the logstash data?
-You could do it manually, but it's easier with an Index Template. Use the template directive in  your elasticsearch output block to point to a valid template.  Logstash ships with a basic one: logstash-plugins/logstash-output-elasticsearch 

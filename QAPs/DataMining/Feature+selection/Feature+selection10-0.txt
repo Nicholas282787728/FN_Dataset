@@ -1,2 +1,0 @@
-★What is the best feature selection algorithm for a classification problem?
-There is no single feature selection algorithm that would suit every classification problem. The problem of feature selection depends on what exactly is the task in hand, and so is the classification problem. What seems to be a good feature for one problem may be terrible for another.    Embed Quote

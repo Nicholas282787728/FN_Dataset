@@ -1,2 +1,0 @@
-Why would anyone need to use a logarithm base other than 10 or 2 from a practical application standpoint?
-Just like e, log play nice with calculus, that means it is more directly related to some physical or mathmatical properties.   The prime number theorem said: the number of primes not exceeding x is asymptotic to x/log(x) (Hardy and Wright's An introduction to the theory of numbers.) Truely amazing! 

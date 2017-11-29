@@ -1,2 +1,0 @@
-Which is faster, finding an item in a hashtable or in a sorted list? Sounds easy? Think, rethink and comment.
-Yes,it sounds easy because we think of linear hash function but if hash function is that much complicated that it takes so much time then hash table is not that fast. So it totally depends on the hash function. 

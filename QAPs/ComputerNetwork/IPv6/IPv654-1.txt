@@ -1,2 +1,0 @@
-★What networking technologies does IPv6 render unnecessary?NAT (Network Address Translation), for example, has become an enormously popular solution to the impending IPv4 address exhaustion, but like NAT traversal, no longer seem necessary with IPv6.
-The most obvious one (other than NAT) would be DHCP (Dynamic Host Configuration Protocol)/BootP.    Embed Quote

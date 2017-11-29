@@ -1,2 +1,0 @@
-What are some examples of how conditional random fields works?
-There are some examples in Sutton/Mccallum's "An Introduction to Conditional Random Fields for Relational Learning" http://www.cs.umass.edu/~mccallu... Updated 27 Jan 2011 • View Upvotes

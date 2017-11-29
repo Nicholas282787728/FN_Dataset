@@ -1,2 +1,0 @@
-Which C/C++ compiler is used for the Macintosh?
-XCode is the standard development tool supplied by Apple for the Mac. It's an IDE that includes a C/C++ compiler. I'm not sure if XCode comes installed as standard with OS X. What I remember is I had to install it separately. You will probably need to get it from Apple's developer website. The XCode install includes a command-line compiler, which you can run from a terminal window (run Terminal under Applications/Utilities). 

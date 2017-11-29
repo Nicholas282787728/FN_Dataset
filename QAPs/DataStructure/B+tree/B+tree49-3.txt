@@ -1,2 +1,0 @@
-How does a relational DBMS internally store its data? In what type of data structure? How does it offer the rapid retrieval without loading the entire database into the main memory (I have heard many DBMS use B-trees)?
-In general, database should optimize data memory area in one or another way to store most frequently accessed data in memory and to replace idle data with most recently requested data, In case of Oracle, Oracle is using write list and the least recently used (LRU) list. To see mechanism, see below: Memory Architecture ... (more)

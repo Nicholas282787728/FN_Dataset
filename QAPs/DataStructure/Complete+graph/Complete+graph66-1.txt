@@ -1,2 +1,0 @@
-Is there a formula to find the number of different areas formed by crossing every vertice on a n-sided regular polygon?
-You missed one cross in your n=6 image: Here's n=7: See Gary Williams's answer for more detail. 

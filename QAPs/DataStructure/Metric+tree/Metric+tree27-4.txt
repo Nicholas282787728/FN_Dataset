@@ -1,2 +1,0 @@
-What are some Machine Learning algorithms that you should always have a strong understanding of, and why?
-See my answer to What are the top 10 data mining or machine learning algorithms? I understand the two questions are slightly different, but my answer would be the same. 

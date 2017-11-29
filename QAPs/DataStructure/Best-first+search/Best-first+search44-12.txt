@@ -1,2 +1,0 @@
-Where can I find large datasets open to the public?
-Here's the ones I've found most useful: CrunchBase, US Census, Google Public Data, Infochimps, Timetric, Factual, Freebase, Wikipedia, World Bank, Kaggle I cover them in more detail in a free ebook here: http://radar.oreilly.com/2011/01... Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 10.4k Views · 60 Upvotes

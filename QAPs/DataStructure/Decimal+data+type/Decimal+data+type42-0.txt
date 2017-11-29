@@ -1,2 +1,0 @@
-When char j = 1, why is j+1 value 2 because j is char and not integer?
-When you store a number value into a char datatype in C, it assumes that you're giving it an ASCII value,i.e, a number. So you can do an increment, decrement, addition or subtraction to get new ASCII values. When you print out the character, you get the ASCII character that is represented by the value of the variable. 

@@ -1,1 +1,0 @@
-Given a random sequence of the nine digits 1 to 9, what is the probability that no two adjacent numbers will differ by 1?Assume that 1 and 9 differ by 1.

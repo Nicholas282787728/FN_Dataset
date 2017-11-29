@@ -1,2 +1,0 @@
-Why is divisibility by two (even/odd) considered an important quality for numbers? Why not divisibility by 3? Or 17?
-In Z 2   , -1=1 The multiplicative group Z ∗ 2   is trivial. On the other hand, for any other prime p, the order of the multiplicative group Z ∗ p   is a product of smaller primes, always including 2 since p is odd and p-1 is even. 

@@ -1,2 +1,0 @@
-What is the exact method to carry out range updates in a Binary Index Trees?
-A BIT can be used in three modes: Point updates and range queries (the usual mode) Range updates and point queries Range updates and range queriesAll three modes and their implementations are explained here: Range updates with BIT / Fenwick Tree 

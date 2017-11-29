@@ -1,1 +1,0 @@
-What is the advantage of keeping the next pointer as first element of structure in linked list?I am not aware of the answer. But may be this is the one reason.. struct example { struct example *list; char x; }; it will take 5 bytes and if u declare char x first and then struct example *list, then it will take 8 bytes. May be this is the one of the reason. 31 Views

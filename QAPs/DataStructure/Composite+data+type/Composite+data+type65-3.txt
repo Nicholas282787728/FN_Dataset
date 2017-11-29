@@ -1,2 +1,0 @@
-
-★★★★★A very easy language to learn! Way easier than mainstream languages. I think that our little minds are littered by java/c#/c++/..  and by their obfuscations. We do sometimes find comfort in javascript/python/ruby/.. and get excited about scala/clojure/f#/.. But Haskell is where it is at. Assembly languages, C and Haskell should only matter. Everything else outside the category is silly and dubious, even C++ template metaprogramming. 

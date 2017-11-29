@@ -1,2 +1,0 @@
-How do I learn data analysis for Python?
-Chris Fonnesbeck (@fonnesbeck on twitter), from Vandebilt University, has a collection of really great tutorials on pandas and statistical analysis here statistical-analysis-python-tutorial You also want to watch the corresponding videos (4 parts, starting here: ) He's exceptionally clear ... learned a lot from these personally    Embed Quote 

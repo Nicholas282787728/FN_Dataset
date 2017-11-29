@@ -1,2 +1,0 @@
-What are some interesting clustering applications?
-At Sumo Logic, we use log clustering to reduce millions of lines logs down to 20-30 signatures which are nothing but reverse engineered printf like statements. This condensed view makes it much easier to spot new errors or exceptions.    Embed Quote 

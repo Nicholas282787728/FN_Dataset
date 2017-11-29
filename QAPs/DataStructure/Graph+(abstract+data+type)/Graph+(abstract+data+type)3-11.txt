@@ -1,2 +1,0 @@
-What are some things that programmers and computer scientists know, but most people don't?
-The powers of 2. Most non-programmers won't know what is 2 raised to 10, or 2 raised to 16, or 2 raised to 32 (approximately at least), without calculating it. 

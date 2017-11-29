@@ -1,2 +1,0 @@
-★What is an efficient algorithm to find an island of connected 1s in a matrix of 0s and 1s?
-Flood Fill algorithm http://en.m.wikipedia.org/wiki/F...    Embed Quote

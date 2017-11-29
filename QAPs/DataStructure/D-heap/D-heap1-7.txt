@@ -1,2 +1,0 @@
-What books are a good introduction to game theory?
-If you want the most accessible and least math-intensive introduction possible, it is almost certainly Game Theory 101: The Complete Textbook - Kindle edition by William Spaniel. Professional & Technical Kindle eBooks @ Amazon.com. Other books will have more depth and cover topics that Spaniel omits, but I recommend starting here. It is what got me interested in the field, it is quick and easy to read, and it is very inexpensive. 

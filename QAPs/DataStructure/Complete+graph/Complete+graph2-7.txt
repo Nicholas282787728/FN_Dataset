@@ -1,1 +1,0 @@
-Computational Complexity Theory: What are some NP-complete problems involving complete graphs?

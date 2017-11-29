@@ -1,2 +1,0 @@
-What is the difference between short int and long int data types and float & double data type?
-short and long int are used to represent integers.The difference is that short uses lesser memory than long and can only represent fewer integers as compared to long. float is used to represent floating point numbers (decimals) and double is an extended form of float which uses more memory and can represent more numbers.Hope that helps! 785 Views

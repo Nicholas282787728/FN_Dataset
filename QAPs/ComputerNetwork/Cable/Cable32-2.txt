@@ -1,2 +1,0 @@
-★Is it possible for a cable modem to acquire a virus?
-Yes, of course. But you have to target each model specifically, so it is much more likely that a device is cracked manually and set up with a rootkit. Due to the extremely limited computing power of these devices however, they make for very poor targets, so it is more likely that any problems are due to stuff like RAM faults.

@@ -1,2 +1,0 @@
-What is the relationship between systems biology and computational biology?
-Systems Biology is a field of computational Biology that deals with studying biological systems in systemic Context , understanding the behavior of biological systems in its environment and during perturbations , Modeling of Biological systems , Simulating those biological models in silico to better understand and control its behavior in response to given stimuli , and also it is being used in synthetic biology. 

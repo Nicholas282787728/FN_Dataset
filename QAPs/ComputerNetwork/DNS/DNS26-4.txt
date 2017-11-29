@@ -1,2 +1,0 @@
-★What are some creative uses for DNS TXT records?
-I think it's possible to use TXT records as a simple key-value database like memcached or redis.

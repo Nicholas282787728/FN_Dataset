@@ -1,2 +1,0 @@
-What is the minimum number of edges one needs to reverse in order to have at least one path from vertex 1 to vertex N, where the vertices are numbered from 1 to N?
-This question needs more details. Is this a connected graph? There could be N -1 edges to reverse if it is a simple line with all the directed edges pointing from k to k-1. If it is not connected, it may not be possible to have such a path. As the question is currently asked, the answer is 0. If there is already a path, no edges must be flipped. 

@@ -1,2 +1,0 @@
-★Which predictive analytics tools require the least amount of user sophistication?
-I'm sorry, but Tableau does not "support" forecasting with any meaningful sophistication.    Embed Quote

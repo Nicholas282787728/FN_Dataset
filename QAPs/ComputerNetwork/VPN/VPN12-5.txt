@@ -1,2 +1,0 @@
-★What's the best IPsec VPN client for Android?
-There are so many apps in my android smartphone, so I don't want to install VPN app. For security, I'd better to setup VPN on android manually. Refer to the tutorial on How To Setup PPTP VPN On Android    Embed Quote

@@ -1,2 +1,0 @@
-★Doesn't file_get_contents() accept a file path in the first parameter?
-from experience with require() and include() I think this might work file_get_contents('../hello_world.php', true); OR file_get_contents('.../hello_world.php', true);    Embed Quote

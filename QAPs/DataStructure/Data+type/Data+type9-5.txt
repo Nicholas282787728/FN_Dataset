@@ -1,2 +1,0 @@
-What is void data type?
-Void is usually used to define a function. As the name suggests this data type does not return any value. Any function defined using void won't be returning any value. 203 Views

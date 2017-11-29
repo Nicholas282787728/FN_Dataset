@@ -1,1 +1,0 @@
-What is the meaning of accessing arrays by offset in php?$arr = [1,2,3,4,5];  $arr[0] --> 1; // finds element with offset 0 $arr[2] --> 3; // finds element with offset 2  array_slice($arr, 1) --> [2,3,4,5] // returns array starting from offset 1 Is that what you mean? 185 Views  View Upvotes

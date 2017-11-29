@@ -1,1 +1,0 @@
-Why do I need to define a extra structure pointer when I have to print the linked list?you need a pointer to first elements so that it's location isn't lost, assume you only have one pointer than you just use that single variable for traversing the list, just try ot yourself and see what you find hard. 84 Views

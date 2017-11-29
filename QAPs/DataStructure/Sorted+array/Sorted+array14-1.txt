@@ -1,2 +1,0 @@
-How do I sort arrays in C?
-In order to sort arrays in C, you have a qsort function in the C standard library, which can do it for you. There are plenty of online resources where you can read more about using qsort() here is a link to go for: [1] QSort in C Footnotes [1] C qsort() vs C++ sort() - GeeksforGeeks 102 Views · 2 Upvotes · Answer requested by Kevin Smith

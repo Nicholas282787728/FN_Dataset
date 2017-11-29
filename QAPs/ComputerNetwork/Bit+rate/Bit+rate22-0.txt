@@ -1,2 +1,0 @@
-★What's the difference between a song of low and high bit rates?
-Bit rate means how many bits (units of information) per given unit of time (often seconds). So a music file with a bit rate of 128 KB/sec has 128 kilobytes of information for every second of music. This would mean that a 128KB/sec song has more information per unit time than a 64 KB/sec song. Twice as much per second in fact. Essentially, the higher the bit rate, the higher quality the song because there is more information in the song per unit time. Find out more at the wikipedia page: Bit rate

@@ -1,2 +1,0 @@
-What are some must-have software for programmers using Linux?
-I use Eclispe for PHP, Java, Groovy, Python, Ruby coding. vim editor for SSH connection. meld, diff for file comparison. VirtualBox to receive email from MS Exchange :(. gedit for note. chrome for web & javascript debugger Terminal for everything else :D 

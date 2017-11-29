@@ -1,2 +1,0 @@
-★Twitter widget - plain text?Is it possible to add a plain-text twitter stream to my blog? Are such codes no longer allowed?
-The twitter API's terms require that tweets be displayed with proper style and formatting, so no this is not allowed.    Embed Quote

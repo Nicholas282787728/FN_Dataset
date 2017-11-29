@@ -1,1 +1,0 @@
-How do you reverse a linked list?Any language is fine; feel free to add multiple answers for multiple languagesOr recursively, by passing a backpointer as a parameter void reverse_helper(Node* back, Node* curr) { if ( curr == NULL ) return; reverse_helper(curr, curr->next); curr->next = back; }  void reverse(Node* head) { reverse_helper(NULL, head); } 1.4k Views  View Upvotes

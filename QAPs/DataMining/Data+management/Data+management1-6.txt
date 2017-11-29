@@ -1,2 +1,0 @@
-What is the best master data management software right now?
-MDM Implementation being the Key Investment should be vertically and Horizontally scalable solutions.  My Experience with Implementing Siebel Product range suggest Siebel UCM  is a strong components. It is built on top of the Siebel CRM backbone which is very strong. However, Cost wise.. It requires substantial investment. You may explore the Cloud offerings as well from Oracle which may bring down the Cost of Implementation along with Product Cost.    Embed Quote 

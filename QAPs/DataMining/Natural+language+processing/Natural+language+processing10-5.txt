@@ -1,2 +1,0 @@
-★How does natural language processing work?
-First, part-of-speech tagging, then, language specific syntactical rule-matching with ontological meaning vectorization of words/sentences. The output of this process should feed either NN/ML algorithms to probabilistic and statistical inferences about what is being said by documents/sentences/parts of documents. Just two cents of the most simplistic view of NLP in computational linguistic approach.    Embed Quote

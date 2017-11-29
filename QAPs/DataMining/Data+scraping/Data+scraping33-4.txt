@@ -1,2 +1,0 @@
-Is there a way to prevent your website (data) from being scraped?
-First, think about why you want to prevent somebody from scraping. If you think your data is so precious, special or delicate that it is only allowed to be viewed within your website layout, you should password-protect it and only give access to people who signed an NDA with you (but even then it is not guaranteed that somebody takes it from there). In any case, you should better track your content as it spills over the Web. Use the legal system to enforce your rights, if you think you have to.    Embed Quote 

@@ -1,2 +1,0 @@
-Job Interview Questions: Which are the frequently asked interview questions for Java Engineers ?
-What is OO? What is a strongly typed language? Is java a pure OO lang? What is JVM, JDK and JRE? What is coupling, cohesion? What is inheritance, polymorphism, encapsulation? Difference between overloading and overriding Pass by value v/s Pass by reference Lazy evaluation Abstract class Final keyword What is reflection? Read SCJP 6 by K&B and you can easily answer the questions on Java. Thanks for A2A. 

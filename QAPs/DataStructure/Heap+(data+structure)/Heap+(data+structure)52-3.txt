@@ -1,2 +1,0 @@
-How are students in Indian colleges taught programming?
-It's creepy and sad. Excluding the few dozen respectable ones most do not teach CS in a proper manner, as I am sure the others will highlight.  The majority of the others are in rural environments where the situation is pathetic. ======== 90% of Engineering Colleges are in Rural Areas. Programming Environment: ==================== ... (more)

@@ -1,2 +1,0 @@
-What are the ways to implement Segment Trees With Lazy Propogation?
-Here :: http://ideone.com/9w8BPt 

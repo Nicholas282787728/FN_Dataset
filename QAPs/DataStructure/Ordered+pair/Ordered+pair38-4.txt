@@ -1,2 +1,0 @@
-Set Theory: What are Cartesian products?
-If you have two choices for main dish, and 5 for the dessert, we have two set of choices here; the cartesian product is the set of all 10 (food, dessert), where food belongs to the first set, and dessert to the second 

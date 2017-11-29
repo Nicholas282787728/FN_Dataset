@@ -1,1 +1,0 @@
-What does node=node->next exactly do in a linked list?Well node= node-->next actually moves pointer one point ahead i.e moves to next node. 99 Views

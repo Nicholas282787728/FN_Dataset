@@ -1,2 +1,0 @@
-★What's difference between web scraping and data mining?
-Web scraping is getting data from web. Data mining is getting knowledge from data.    Embed Quote

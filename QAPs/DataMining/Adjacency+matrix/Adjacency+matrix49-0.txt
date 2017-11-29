@@ -1,2 +1,0 @@
-★How can I plot a graph from its adjacency matrix using NetworkX?
-Assuming that your matrix is an numpy array, you can use the method Graph=networkx.from_numpy_matrix('numpy_adj_matrix.npy') to draw the graph. A detailed explanation about various other packages are also available in the networkx documentation. It is easily one of the most comprehensive documentations that I have seen for a software package.    Embed Quote

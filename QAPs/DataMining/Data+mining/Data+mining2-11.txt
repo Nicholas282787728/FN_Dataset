@@ -1,2 +1,0 @@
-How do I learn data mining?
-I would suggest A Programmer's Guide to Data Mining is good option for beginners because it will give you lots of practical exposure. Moreover, you find implementations for basic data mining algorithms in Python.    Embed Quote Updated 13 Sep, 2014. 706 views.

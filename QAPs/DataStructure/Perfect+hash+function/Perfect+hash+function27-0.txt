@@ -1,2 +1,0 @@
-What is a "good" hash function to store a list of "k" words (and later to check if given word is present in the original list or not)?
-Well that's the thing for hash functions. There isn't a perfect hash function. However for strings you could do something like this int s = 0; for( int i = 0 ; i < strlen(str) ; i++ ) {     s=s*31+s[i]; } The main idea behind a hash is to create a function that would create a unique value for every string, which is extremely hard as you might already know 

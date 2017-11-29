@@ -1,2 +1,0 @@
-★What's the best 48-port Gigabit switch under $1,000 sold on Amazon?I'm biased towards Cisco and HP. Please help me decide :-)
-Linksys has a couple of models 24/48 port in the 10/100/1000 port configuration. Here is a specific model: Linksys SGE2010 48-port 10/100/1000 Gigabit Ethernet Switch

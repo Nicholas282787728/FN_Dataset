@@ -1,1 +1,0 @@
-What does it mean for an array to be 1-sorted?I believe it means that the first position of the array has an index of 1 as opposed to zero. Visual Basic uses 1-sorted arrays if I remember correctly. Most programming languages start on zero. 63 Views

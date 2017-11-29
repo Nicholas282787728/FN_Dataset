@@ -1,2 +1,0 @@
-★What are the advantages and disadvantages of a coaxial cable?
-I don't know much but I know satellites simply don't transfer as much as cable does. While fibre optic can do even 100Mbps, satellite barely does 500kbps- not to mention what's dropped during transportation. You'd only get like 100kbps with it. well at least that's how my experience was. avoid it if you can

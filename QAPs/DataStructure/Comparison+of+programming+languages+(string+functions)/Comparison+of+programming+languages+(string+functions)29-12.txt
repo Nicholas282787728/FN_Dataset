@@ -1,2 +1,0 @@
-How do you judge a JavaScript programmer by only 5 questions?
-What is the result of the following expression? typeof null What is the result of the following expression? var x = function() { return console.log.call(console, true); };   var y = { p: function () { return this; } };   var f = y.p;   setTimeout(x, 0); f(); What is the prototype? What is a closure? What is V8? Updated 17 Aug • View Upvotes

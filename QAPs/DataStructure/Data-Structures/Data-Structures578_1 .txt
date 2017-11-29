@@ -1,1 +1,0 @@
-What is reference data type?Reference types are any instantiable class as well as arrays String, Scanner, Random, Die, int[], String[] , etc. reference variables store addresses 16 Views  Answer requested by Akhil Mathew

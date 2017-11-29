@@ -1,2 +1,0 @@
-★What is a good algorithm to interpolate missing time-series data?
-I have generally used weighted moving averages to deal with missing data in time series.    Embed Quote

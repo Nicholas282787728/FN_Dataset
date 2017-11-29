@@ -1,3 +1,0 @@
-Elements are distributed among bins
-Then, elements are sorted within each bin
-such as translating the letters A–Z to 0–25 or returning the first character (0–255) for sorting strings. 

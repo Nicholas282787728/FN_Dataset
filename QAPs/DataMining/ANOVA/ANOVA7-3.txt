@@ -1,2 +1,0 @@
-★What's the basic difference between ANOVA, regression testing, and t-test?I read today that all three were developed independently about the same time period, and perform the same basic function but in different ways.
-The differences are  basically in the method, purpose and assumptions. Here is something that could help. ANOVA, t-tests, Regression, and Chi Square    Embed Quote

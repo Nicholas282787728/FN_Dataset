@@ -1,2 +1,0 @@
-How can one be well prepared to answer data structure/algorithm questions in interviews?
-Originally Answered: What are some interview questions/puzzles on algorithms and data structures?Most of the companies have similar kinds of questions to test ur fundamentals and application of data structures.The site Compile, run, curse… Recompile, rerun, recurse…has the best collection of company questions asked by google ,amazon,samsung ,morgan stanley and other big companies with the most efficient solutions.    Hope this helps! 

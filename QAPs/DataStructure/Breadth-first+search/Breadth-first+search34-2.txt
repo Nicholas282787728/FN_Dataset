@@ -1,1 +1,0 @@
-In the Introduction to Algorithms, there is a theorem 22.5 (correctness of breadth-first search). How does it conclude that u.d = δ (s, u)?in the textbook, I used four Lemmas, but I could not make such conclusion.

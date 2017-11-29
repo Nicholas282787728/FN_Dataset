@@ -1,2 +1,0 @@
-★Why is HTML used in web pages?
-Web developing includes two main sections: Backend: codes that are written in Python, PHP, ASP.Net, and Golang to name but a few by developer. And Frontend which is markup showed by clients' or users' browsers, and for doing this we should use HTML(HyperText Markup Language), it just shows some elements for users and doesn't run any functions. When you go to a specific URL, your request is sent to your desired server  and it'll render for you HTML of the site, in fact server runs any server-side functions.    Embed Quote

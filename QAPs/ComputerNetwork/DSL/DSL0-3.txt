@@ -1,2 +1,0 @@
-★Is jQuery a DSL?
-In some senses yes, in some senses no - but certainly as much as JavaScript itself could be considered a DSL.

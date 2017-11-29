@@ -1,2 +1,0 @@
-★What's the easiest way to learn machine learning?
-If you have some background in Probability, Statistics and little bit about Linear Algebra, then Machine Learning will be much easier. If you are interested in Learning machine learning, the best way is to "Learn by Doing". I would suggest you to use Scikit-Learn or Weka, Mallet or ScalaNLP and experiment with real world datastet.    Embed Quote

@@ -1,2 +1,0 @@
-★What is the difference between SVM Rank and SVR (Support Vector Regression)?
-One is used for ranking and the other is used for regression.    Embed Quote

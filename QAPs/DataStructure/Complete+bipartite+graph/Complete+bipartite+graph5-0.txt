@@ -1,2 +1,0 @@
-At a party there were 7 boys and 6 girls. Every boy danced with every girl. Draw the graph representing the dancing. How many edges does it have? What are its degrees?
-Complete bipartite graph with 7 nodes on the left (boys) and 6 nodes on the right (girls). There are 7*6=42 edges. The 7 nodes on the left have degree 6 and the 6 nodes on the right have degree 7. 

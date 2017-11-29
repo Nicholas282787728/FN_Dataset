@@ -1,2 +1,0 @@
-How can you insert slicer on a line graph in Excel?
-Just a comment on Tomas's answer - the feature he mentions only applies to Excel 2013 or later.  In 2010, I believe slicers would only work in Pivot Table data...not regular Table data. 3.8k Views · 3 Upvotes

@@ -1,5 +1,0 @@
-In telecommunications and computer networks, a channel access method or multiple access method allows several terminals connected to the same multi-point transmission medium to transmit over it and to share its capacity.[1] Examples of shared physical media are wireless networks, bus networks, ring networks and point-to-point links operating in half-duplex mode.
-
-A channel-access scheme is based on a multiplexing method, that allows several data streams or signals to share the same communication channel or physical medium. In this context, multiplexing is provided by the physical layer.[a]
-
-A channel-access scheme is also based on a multiple access protocol and control mechanism, also known as media access control (MAC). Media access control deals with issues such as addressing, assigning multiplex channels to different users, and avoiding collisions. Media access control is a sub-layer in Layer 2 (data link layer) of the OSI model and a component of the link layer of the TCP/IP model.

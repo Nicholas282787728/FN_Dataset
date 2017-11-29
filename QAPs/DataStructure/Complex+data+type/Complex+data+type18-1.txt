@@ -1,2 +1,0 @@
-How and where should I begin learning R programming?I'm an undergraduate student planning to submit a report on R.
-R is a free software, download it... R itself has html help, go to the help, search for the functions you need...you wilk get all functions help in R software itself...or just google as R tutorials, you will get lot of pdf files for begginers 

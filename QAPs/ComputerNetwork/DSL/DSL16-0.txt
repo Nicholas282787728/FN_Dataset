@@ -1,2 +1,0 @@
-★Is it bad practice to use a DSL to generate HTML?What downsides are there related to code maintainability and onboarding new developers? Python: https://gist.github.com/554994, webnode2 Ruby: https://gist.github.com/373482
-Absolutely not. Most of the times, we know what we need in our domain, but we need to visualize it with HTML. And we don't want to do that manually. So generating HTML using DSL is good.

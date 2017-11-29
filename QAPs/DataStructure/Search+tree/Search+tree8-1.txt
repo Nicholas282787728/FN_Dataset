@@ -1,2 +1,0 @@
-Why isn't a ternary search tree as popular as a binary search tree?
-Teenary search tree is harder to implement and improvement in time isn't significant. 

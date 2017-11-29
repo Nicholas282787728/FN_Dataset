@@ -1,2 +1,0 @@
-What's the best approach for computing the difference of two graphs represented as XML?
-I would look into the Tree-Edit distance. As XML can easily be represented as a tree this could be a useful metric. [Kaizhong Zhang and Dennis Shasha](http://www.grantjenks.com/wiki/_...) give a fast algorithm for computing the distance given two trees. 

@@ -1,2 +1,0 @@
-★What is the difference between HTML and JavaScript?
-HTML is this cranky markup language that vaguely suggests how things should be presented.   JavaScript is a cranky and peculiar  programming language that can modify the HTML on the fly.   It's sort of like first creating a drawing by rubbing half-dead wombats on a white wall, then changing the drawing by throwing overripe pomegranates at it.  HTML is the wombats and JavaScript is the pomegranate throwing.

@@ -1,2 +1,0 @@
-★What is the purpose of regression analysis?
-In the most general sense, regression analysis is about relating dependent variables to independent variables. When used without any qualifiers, "regression analysis" usually refers to the case with one dependent variable and one or more independent variables. Within that, there are methods for different types of dependent variable: Continuous, count, time, categorical. I wrote more about this on my blog: Which type of regression should I choose? Page on statisticalanalysisconsulting.com    Embed Quote

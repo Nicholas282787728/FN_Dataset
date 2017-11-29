@@ -1,1 +1,0 @@
-How can bubble sort algorithm be implemented in C?It can be implemented by using swapping.. For more information you can read my blog post C Program to sort an array using Bubble Sort 

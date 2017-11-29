@@ -1,2 +1,0 @@
-★Wireless Communication: How do I reprogram a router to passively sniff/monitor WI-FI packets?
-Well, it depends on a router (if it supports monitor mode). If it does, you can put OpenWRT firmware (or any other with a low level access) and write a pretty simple script that sniffs the traffic and sends it to wherever you want... Wireless configuration Kismet [OpenWrt Wiki]    Embed Quote

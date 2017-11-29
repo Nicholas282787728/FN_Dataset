@@ -1,2 +1,0 @@
-★How does the Raspberry Pi connect to the Internet without an Ethernet slot?
-Question should read: how can you connect a raspberry pi a or a+ model without an Ethernet interface? By a USB Ethernet nic, USB wireless nic, breakout functionality such as a mobile receiver etc... If it is a b or b+ model, either the above or using an onboard integrated Ethernet nic.

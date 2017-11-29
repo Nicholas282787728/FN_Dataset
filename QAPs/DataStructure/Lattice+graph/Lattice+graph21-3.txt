@@ -1,2 +1,0 @@
-What are the essential R packages?
-I don't think there's such a thing as an essential R package. If you want do do what the package does, it's essential. If you don't, it's not. If you're analyzing surveys, then survey is essential, if you're not, it's not.  And if you find you need it install.packages("survey") and you'll have it. However, Justin Rising has hit most of them.   But for me, I'd add: I'd add: stringr (for text manipulation) foreign (so you can read an SPSS/Stata file) RCommander (for beginners) 

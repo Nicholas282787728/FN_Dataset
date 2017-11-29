@@ -1,1 +1,0 @@
-What is the value of c ≡ 13a (mod 19), When a ≡ 11 (mod 19)?You are given that c = 19k + 13a, and that a = 19j +11. So, c = 19k + 13*19*j + 13*11 = 19(k+ 13*j + 7) + 10 So, the answer is 10. This is a very simple and special case of a more sophisticated algorithm called the Chinese Remainder Theorem. 206 Views  View Upvotes  Answer requested by Umer Abdul Jabbar

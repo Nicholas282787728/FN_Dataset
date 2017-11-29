@@ -1,2 +1,0 @@
-★What are the best tutorials, videos and slides for probabilistic graphical models?
-There's a MOOC by Daphne Koller: Coursera I don't know how good this source compared to the other sources, but you can check it.    Embed Quote

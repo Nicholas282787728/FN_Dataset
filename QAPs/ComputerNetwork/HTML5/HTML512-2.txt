@@ -1,2 +1,0 @@
-★Is HTML5 hard to learn?
-It helps if you already have some experience with other aspects of computer science, and depending on what you are doing it may make life easier using HTML5, than past HTML standards. Check out codecademy for HTML5 lessons.

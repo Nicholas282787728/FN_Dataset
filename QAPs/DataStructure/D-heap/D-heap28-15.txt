@@ -1,2 +1,0 @@
-What are some time-saving tips that every Linux user should know?
-If you find reading man pages tedious , search your command in explainshell.com for better representation. PS : Although you'll always find something new on man pages. 

@@ -1,2 +1,0 @@
-What is the most efficient programming language for computations in Graph Theory?
-When you are looking for pure raw power C is always the choice (if not assembly directly)  The problem is not the language is the technical skill required to optimize the code in such a way it takes advantage of language itself. 

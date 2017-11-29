@@ -1,2 +1,0 @@
-Why is 9 a rational number?
-The definition of rationality is something like: X = a/b where a and b are integers (whole numbers). All whole numbers are rational because for any rational N, N/1=N thus is rational. 

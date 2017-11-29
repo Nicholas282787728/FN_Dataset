@@ -1,2 +1,0 @@
-Why does the CodeChef online judge give me a SIGSEGV error while the code runs just fine on my machine for the practice problem FCTRL2 (Small Factorials)?
-you havent yet initialised the value of t, yet have declared an array n[t], which is leading to segmentation error 

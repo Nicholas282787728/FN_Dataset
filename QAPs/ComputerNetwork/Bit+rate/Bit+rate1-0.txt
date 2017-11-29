@@ -1,2 +1,0 @@
-★What is bit rate of iTunes Radio streaming?
-There are no official words on the exact bitrate of iTunes Radio. I compared the iTunes Radio data consumption with iTunes Match on the same songs and they both consumed the same amount of data when streaming songs from the cloud. So 256k AAC seems to be the standard.

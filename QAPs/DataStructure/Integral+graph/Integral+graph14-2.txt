@@ -1,1 +1,0 @@
-If starting a review site like Yelp whose success will be based on growth through effective FB Open Graph integration, would it be best to focus on Mobile or Desktop?  Any stats on interaction with Facebook Open Graph on Mobile vs. Desktop?

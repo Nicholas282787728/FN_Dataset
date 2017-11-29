@@ -1,2 +1,0 @@
-Number Sequence: For a sequence 128, 64, 32, .. what is the value of the 12th term of this sequence?
-This is geometric progression. In that case, your nth value is An = A1 * (r^(n-1)) r is the ratio between two consecutive terms. In this case, it is 1/2. So for the 12th terms, A12 = 128 * (1/2^11) = 128*(1/2048) = 1/16 Sorry I do not know how to use Maths symbols on Quora :( But I hope you could understand. 

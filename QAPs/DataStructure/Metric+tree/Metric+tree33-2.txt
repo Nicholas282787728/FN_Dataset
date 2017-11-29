@@ -1,2 +1,0 @@
-When should I use Boosting instead of SVM?
-Kernel SVM requires too much memory and CPU in the runtime, linear SVM does not have enough representation power. So the rule of thumb: 1) If you have dense feature set, go with boosting. 2) If you have sparse feature set, go with linear svm (or other linear model) 3) If you don't care about speed and memory, try kernel svm. 

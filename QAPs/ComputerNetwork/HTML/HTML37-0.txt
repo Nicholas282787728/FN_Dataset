@@ -1,2 +1,0 @@
-★What is the difference between HTML and JavaScript?
-HTML is a static markup language which you can't do anything dynamic just by using its tags. JavaScript is a scripting language that is not only used with HTML/CSS, but also can be used to do other things not related to web or HTML/CSS. If you need a web page which is clickable, hoverable, generally dynamic; you need to manipulate its HTML and CSS, by using JavaScript.

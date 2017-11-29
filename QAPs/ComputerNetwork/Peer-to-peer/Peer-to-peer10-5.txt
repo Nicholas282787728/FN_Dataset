@@ -1,2 +1,0 @@
-★What is the best peer-to-peer desktop sync software?Like DropBox, but not cloud-based. It's okay if traffic goes through the internet, but I don't want my files ending up on a server somewhere. More importantly, I'm fine with paying for the software, but I don't want to pay for a service.
-OwnCloud isn't really peer-to-peer, but maybe it's useful to mention: It's an open source client-server application with file sync capabilities (and many other features) based on PHP and SQLite or MySQL. You can run an OwnCloud on your home LAMP server. http://owncloud.org/    Embed Quote

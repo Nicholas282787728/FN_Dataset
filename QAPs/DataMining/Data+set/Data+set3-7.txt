@@ -1,2 +1,0 @@
-How can I crunch big data sets with my laptop?
-Work with a suitable sample if your analysis can be undertaken using samples. You might want to use more than one sample to validate results obtained.    Embed Quote 

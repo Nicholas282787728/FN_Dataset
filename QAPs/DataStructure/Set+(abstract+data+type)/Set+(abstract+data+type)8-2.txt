@@ -1,2 +1,0 @@
-What are the applications of set theory in computer science?
-In computer graphics, constructive solid geometry is useful.  You treat space as a set of points, and an object is the subset that is not empty.  Then you can do set operations to combine shapes, like union, intersection, and subtraction. 

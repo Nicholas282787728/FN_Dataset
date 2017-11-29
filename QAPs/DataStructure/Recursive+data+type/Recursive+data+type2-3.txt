@@ -1,2 +1,0 @@
-When is the right time to use recursion?
-When it's the right time to use recursion. :-) 

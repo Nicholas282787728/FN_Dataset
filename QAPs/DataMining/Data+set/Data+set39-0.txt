@@ -1,2 +1,0 @@
-What are some good publicly available geolocation databases/downloadable data sets?
-You can download TIGER data for the US: http://www.census.gov/geo/www/ti... There are adapters out there that can use TIGER data to geocode US addresses. Here's an example Ruby adapter: http://github.com/geocommons/geo...    Embed Quote 

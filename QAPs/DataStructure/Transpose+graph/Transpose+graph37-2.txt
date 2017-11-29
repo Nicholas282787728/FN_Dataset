@@ -1,2 +1,0 @@
-What things should be learnt in MATLAB as an EEE student?
-Off the top of my head Generating graphs with entered values Root locus plotting Bode plot simulations Programming for Power system simulations Matrix multiplications All matrix operations including transposing, inverse for 4x4, 5x5 matrices and higherThats just about it, as far as I remember. 

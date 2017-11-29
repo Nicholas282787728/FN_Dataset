@@ -1,1 +1,0 @@
-Bulk Synchronous Parallel Computing: What kinds of BSP algorithms have been developed?

@@ -1,2 +1,0 @@
-★Can wireless network administrators view my Terminal (Mac app) activity?The hostname changes when I am connected to a wireless network. Does this mean administrators could potentially see my terminal activity?
-No. Macs can get hostnames through reverse DNS and it depends on whether or not the DNS server is also caching hostnames with the IP addresses it hands out. edit: here is a good link that explains a bit more: http://superuser.com/questions/7...    Embed Quote

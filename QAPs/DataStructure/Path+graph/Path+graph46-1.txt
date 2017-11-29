@@ -1,2 +1,0 @@
-In a weighted undirected graph, how do I find a fixed length path between two nodes?
-You can always go with a Breadth First Search: http://en.m.wikipedia.org/wiki/B... Where it's normally used to find the shortest path, you should be able to adapt it to find a path of desired length n. In doing so, you might even be able to achieve a couple of optimizations by 'short-circuiting' esp. when dealing with weighted edges or nodes—just don't visit any further paths where adding the weight of the edge or node would exceed your target. 

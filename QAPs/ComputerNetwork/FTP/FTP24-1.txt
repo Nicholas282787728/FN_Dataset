@@ -1,2 +1,0 @@
-★Can I transfer files from my Dropbox to FTP through a web app?I'd like to find a website where I can send files directly from my dropbox account to my FTP, without installing anything. Has this been built?
-Try AirFile, It is a lifetime app for iPhone, iPad and Mac which allows for unified accessing to all big clouds.

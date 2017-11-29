@@ -1,2 +1,0 @@
-What is your favourite graph theory problem?
-Like Alon Amit, I am assuming the word "problem" has the undertone of puzzle rather than theorem :) Here are a couple off the top of my head: In a party, it turns out that any two people have an odd number of mutual friends. Show that the number of people are attending the party is odd. (Assume there are no self-loops.) How many edges can a graph on n vertices with girth g have? (The girth of a graph is the length of its shortest cycle. For instance, a graph on five vertices and girth five cannot have more than five edges.) 

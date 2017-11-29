@@ -1,2 +1,0 @@
-What is the primary programming language used in artificial intelligence research?
-Java, Python, Lisp. I personally respect Peter Norvig a lot so here is a link : http://aima.cs.berkeley.edu/    Embed Quote 

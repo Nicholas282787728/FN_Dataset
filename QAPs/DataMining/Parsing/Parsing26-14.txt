@@ -1,2 +1,0 @@
-★What else is a finite state machine used for except language parsing?
-Obviously, a lot. One example is simple embedded systems.  The computer that controls an elevator is going to be a finite state machine, for example.    Embed Quote

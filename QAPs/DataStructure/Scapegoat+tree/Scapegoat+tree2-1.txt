@@ -1,2 +1,0 @@
-In what situations are red-black trees a good data structure to use?
-Red-black trees have purely-functional implementations. So if you want an immutable, balanced BST for various reasons (concurrency?) it can be a good choice. 

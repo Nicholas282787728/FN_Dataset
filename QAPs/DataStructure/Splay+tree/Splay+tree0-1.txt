@@ -1,2 +1,0 @@
-How do splay trees balance themselves?
-There is no guarantee a splay tree will be balanced, but it guarantees that often accessed nodes will be near the top. With random access, however, the tree becomes balanced. I happens because of "Zig-zag Step", which reduces tree height. Other splay operations don't change the tree height. See Splay tree. 

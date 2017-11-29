@@ -1,2 +1,0 @@
-★How can I calculate the distance of LASER beam if we know the wavelength?e.g I have a LASER light of 630-680nm. What will be the distance which it will cover ? The power is about <1mw
-The wavelength of the laser beam is not enough to determine the distance. The intensity and medium of travel matters a lot. The more the intensity and lesser the obstruction of the medium, the longer it travels. Wavelength gives only the color of the beam.    Embed Quote

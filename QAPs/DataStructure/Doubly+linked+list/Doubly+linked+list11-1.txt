@@ -1,2 +1,0 @@
-How can we convert a binary tree to a doubly-linked list in zig-zag level order traversal efficiently  with/without using recursion?
-Please refer to following post Binary Search Tree to Doubly linked list conversion 

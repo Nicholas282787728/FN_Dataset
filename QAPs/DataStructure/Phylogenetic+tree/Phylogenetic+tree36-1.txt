@@ -1,2 +1,0 @@
-If we construct phylogenetic trees of specific proteins (such as cold-resistant proteins), could we find possible markers for abrupt climate change?
-You may be interested in software such as PAML or HYPHY, which try to infer rates of selection at phylogenetic nodes -- which is, I think, what you're trying to get at with this question. 236 Views · 5 Upvotes · Not for Reproduction

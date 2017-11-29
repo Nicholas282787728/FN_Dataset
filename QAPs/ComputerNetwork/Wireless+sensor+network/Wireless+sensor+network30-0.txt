@@ -1,2 +1,0 @@
-★What are topics for main projects for computer science based on wireless sensor network?hi i am b tech student ...i need some topics  to do my main project. can  u please suggest me some topics on wireless sensor networks. is it only  embedded system? and can we implement it using java?
-I suggest you to build a project that is tracking the movement. see OpenWSN project to better understanding of the protocol stack layers    Embed Quote

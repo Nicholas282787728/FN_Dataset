@@ -1,2 +1,0 @@
-★What is greatest advantage of using linked lists over arrays?
-Breadth first search (BFS) and Depth first search (DFS) on a Graph run in linear time when the Graph is represented using adjacency lists. Using an adjacency matrix (2-D array) representation the traversals run in quadratic time .    Embed Quote

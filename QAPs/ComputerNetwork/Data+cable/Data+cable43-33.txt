@@ -1,2 +1,0 @@
-★What purpose does the small cylindrical module near the end of my laptop charger cable serve?
-Functionally, it is a dissipative low-pass filter. It's basically an inductor with very high reluctance, so the magnetic field which it forms get dissipated as heat, rather than reflected back on the cable.

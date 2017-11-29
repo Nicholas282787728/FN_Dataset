@@ -1,1 +1,0 @@
-In market implementation, 3G downlink data speeds defined by telecom service providers vary depending on the underlying technology deployed; up to 384kbit/s for WCDMA, up to 7.2Mbit/sec for HSPA and a theoretical maximum of 21.6 Mbit/s for HSPA+ (technically 3.5G, but usually clubbed under the tradename of 3G).

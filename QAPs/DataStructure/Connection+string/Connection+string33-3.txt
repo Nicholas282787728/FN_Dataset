@@ -1,2 +1,0 @@
-If you had a string on Earth connected to Mars and pulled one end, wouldn't that information travel millions of miles a second?
-Nope.  It might travel as fast as the speed of sound in the string but that's about it.  That's because pulling on the string is a mechanical process, not an electrical one. 

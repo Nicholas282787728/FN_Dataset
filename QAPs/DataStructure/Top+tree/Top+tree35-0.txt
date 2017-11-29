@@ -1,2 +1,0 @@
-What are some terms heard only in programming?
-Core dump.  Livelock.  Thundering herds, Byzantine generals and dining philosophers.  Agile/scrum/extreme programming.  Triage.  Torn write.  Shingled disk. My personal favorite: pull request.  Ew. 

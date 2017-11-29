@@ -1,2 +1,0 @@
-How does a Set in Java ensure uniqueness of elements?
-Java's Set implementations are backed by their corresponding Map implementations, i.e., a HashSet internally stores elements as the keys of a HashMap, a TreeSet uses a TreeMap, and so on. Since keys in a Map are unique, all the Set does is map a slug to every key to test for presence of the element. Refer to the source of HashSet on the GitHub mirror for a better understanding. 

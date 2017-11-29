@@ -1,2 +1,0 @@
-Is the linear formation the best sorting production?
-This is what trees and hashes are for. 

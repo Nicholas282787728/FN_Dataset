@@ -1,2 +1,0 @@
-★Is computer networks a boring area?
-No. For me, it is and will always be the most interesting area of computing technology. Every level of networking offers something exciting to learn. Learning about layer 2 and layer 3 is the toughest, yet the most challenging and interesting. I also particularly like socket programming.

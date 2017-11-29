@@ -1,2 +1,0 @@
-★What is the difference between client socket and server socket (in computer networking)?
-Server socket just listens for a connection and accepts it if it is offered. The Client is the one who sends the connection offer. Once the connection is established, there is no difference.

@@ -1,2 +1,0 @@
-★Should I setup my home router to use DHCP or static IP?
-DHCP is easier to maintain. Fixed IP addresses (associated with MacAddresses of course) will work as a charm if it's well configured but requires more administration

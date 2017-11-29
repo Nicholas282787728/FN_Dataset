@@ -1,2 +1,0 @@
-How can I correlate my math and physics topics with computer science?
-Physics and computer science is a combination. Maths is a tool to link them. Like if you build a football game, say something like FIFA, you need to work on the physics while playing. Like if player shoots while dribbling and his feet makes some angle with the ball central axis, then how much will it swirl and how fast it would be. And when there's collision between two players you have to conserve the momentum to give the user realistic feeling. 

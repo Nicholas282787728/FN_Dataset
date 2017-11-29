@@ -1,2 +1,0 @@
-What is a red-black tree?
-Red Black Tree Tutorial 

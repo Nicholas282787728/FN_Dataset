@@ -1,2 +1,0 @@
-What are the basics for artificial intelligence?
-Joscha Bach (@Plinz) covers the basics in his 2009 book, Principles of Synthetic Intelligence PSI: An Architecture of Motivated Cognition.  Here is a summary in the 2013 video, How to Build a Mind - Artificial Intelligence Reloaded: For software and business applications, see both the micropsi.com and micropsi-industries.com websites. See also my quick and dirty webpage: MicroPsi Agent Architecture | Meta-Guide.com    Embed Quote 

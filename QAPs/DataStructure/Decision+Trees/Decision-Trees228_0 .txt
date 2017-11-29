@@ -1,1 +1,0 @@
-You can transform your categorical features to numerical features using one-hot encoding and then use decision trees. That will give you a better performance. check : 4.3. Preprocessing data 15 Views

@@ -1,2 +1,0 @@
-Do you think Lisp is jealous of Haskell?
-Programming languages don't have feelings. 

@@ -1,2 +1,0 @@
-What is a good hash function to use given the following constraint: you have a list (of potentially hundreds of thousands of words), and, given a word, you have to find all other words that are an anagram of the given word?
-You can sort the letter in the word and use that as the hash (or a normalized equivalent). This way all anagrams of the word get the same key. 

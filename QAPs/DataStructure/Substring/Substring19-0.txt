@@ -1,2 +1,0 @@
-Where can I find the easy explanation of Manacher's algorithms to find the longest palindrome substring?
-Here is a video on Manacher's algorithm for finding longest palindromic substring - For string S, find the longest palindromic substring. Example: S = "bananas" Longest Palindromic Substring is "anana" This video has great, very easy to understand explanation. The presentation helps in visualizing the solution better. 

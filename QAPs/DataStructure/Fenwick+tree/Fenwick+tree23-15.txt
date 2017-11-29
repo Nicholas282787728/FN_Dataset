@@ -1,1 +1,0 @@
-What all basic data structures and algorithms should one learn before starting competitive programming?

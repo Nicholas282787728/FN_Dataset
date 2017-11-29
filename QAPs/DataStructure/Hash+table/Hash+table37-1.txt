@@ -1,2 +1,0 @@
-What's the difference between a hash table and a dictionary?
-Dictionary is the interface, whereas hash table is an implementation. One can implement a dictionary using a search tree - Java's TreeMap class is an example. 523 Views

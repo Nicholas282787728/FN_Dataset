@@ -1,8 +1,0 @@
-What are the advantages and disadvantages of these data types: integer, floating point, string and boolean?Generally, data types differ in what they store (range of values) and how many.
-
-For example, Integer stores 1 fraction-less number, while Boolean stores a single true/false. With only two possible values, Boolean is more limited than Integer. If facing a choice, use a more limited data type (Unsigned Int instead of Float).
-
-It better communicates highest/lowest values (to engineers & tools)
-(Using unsigned can help expose bugs with ¡®less-than-zero¡¯.)
-It may use less memory/storage (depending on language)
-(Specifying bit-depth (e.g. int16) can make your code smaller/faster.)

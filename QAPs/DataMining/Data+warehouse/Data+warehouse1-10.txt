@@ -1,2 +1,0 @@
-★What are alternatives to building a data warehouse?
-We (Chartio) wrote a white paper on how to decide whether you need a data warehouse, and what the alternatives might be. Six questions that will save you time and money on data warehousing You should read the blog post and download the white paper, but you can see some of our ideas on the topic in this diagram.    Embed Quote

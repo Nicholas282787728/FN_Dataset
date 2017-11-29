@@ -1,2 +1,0 @@
-★What are some creative uses for DNS TXT records?
-One of my colleagues had a experiment using TXT record as a link of distributed download service. For example, he slice a movie into some pieces, so every client can query the recursive server, and many can query at the same time, then the recursive server will store the data for a while (depend on the TTL of the TXT record). In read world, this will introduce a big pressure on recursive server, so the authoritative server will be blocked soon after they answer the query

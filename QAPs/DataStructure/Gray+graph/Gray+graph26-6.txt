@@ -1,2 +1,0 @@
-Which CS areas have the most low-hanging fruit for research?
-Related to HCI, another area with a lot of unexplored territory is at the intersection of usability, privacy, and security. There is a lot of interesting work in this field comes out of the CUPS research group: http://cups.cs.cmu.edu/#projects 

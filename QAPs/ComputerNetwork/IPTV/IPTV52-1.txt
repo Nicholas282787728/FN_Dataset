@@ -1,2 +1,0 @@
-★Do IPTV services, such as BT Vision in the UK, run on the "open internet", or do they use separate networks?
-BT Vision is delivered over BT's standard internet service, to which you must subscribe.

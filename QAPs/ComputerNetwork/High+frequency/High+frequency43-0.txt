@@ -1,2 +1,0 @@
-★How do high frequency trading companies make such large and consistent profits?
-Profits are consistent because they're market makers. They make a lot of short term, positive expectancy bets. If you bet on slightly biased coin flips (50.1% heads, 49.9% tails) 10,000 times per day, you'll consistently make money. Whether or not profits are large is debatable. They used to be but anymore edges are much less than a penny per share. Etrade makes a heck of a lot more money per share charging commissions than HFTs do taking on the risk.

@@ -1,2 +1,0 @@
-How to compute the inverse permutation in a functional programming style?
-You have the same basic idea that I would suggest.  The key observation is that the permutation can be represented as a permutation matrix, and that the inverse of a permutation matrix is its transpose.  What you're doing is basically computing a suitable sparse representation of the permutation matrix, transposing it, and then going back to the original representation. 

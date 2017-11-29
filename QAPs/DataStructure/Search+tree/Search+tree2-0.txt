@@ -1,2 +1,0 @@
-What's the current state of research into concurrent binary search trees?
-Provably correct BSTs exist.  This 2010 paper, Non-blocking binary search trees, describes a lock-free set implemented using only atomic compare-and-swap primitives. It is not trivial to implement (it was part of our 4th year exam) but it has been proved correct. It doesn't rebalance itself but it does behave excellently under high contention (since each thread touches at most 3 nodes). 

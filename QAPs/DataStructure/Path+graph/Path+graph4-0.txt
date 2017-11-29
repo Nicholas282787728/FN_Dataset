@@ -1,2 +1,0 @@
-What is the difference between a walk and a path in graph theory?
-A walk of length [math]\ell[/math] in a graph is a sequence   [math]v_0, e_0, v_1, e_1, \ldots, v_{\ell-1}, e_{\ell-1}, v_\ell[/math]   of vertices [math]v_i[/math] and edges [math]e_i[/math], such that the edge [math]e_i[/math] in the sequence connects the vertices [math]v_i[/math] and [math]v_{i +1}[/math].   A path of length [math]\ell[/math] is a walk such that all vertices in the sequence are distinct, except possibly [math]v_0[/math] and [math]v_\ell[/math]. 

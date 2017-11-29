@@ -1,2 +1,0 @@
-★What are the differences between HTML5 and HTML?
-HTML (Hyper Text Markup Language) is a markup language that is used to structure the websites. HTML5 is its latest version like HTML4 or HTML 4.01 before and is the trend (for me) on the Web.

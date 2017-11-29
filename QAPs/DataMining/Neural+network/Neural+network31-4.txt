@@ -1,2 +1,0 @@
-★Has anyone tried cyclic wiring of the neural network?What I mean by "cyclic wiring": Connecting some output neurons directly to the input ones. This could provide term memory or perhaps simulate kind of "consciousness" :). I just can't find any experiments with this.
-Look up recurrent neural nets.    Embed Quote

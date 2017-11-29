@@ -1,2 +1,0 @@
-★How do I preserve hyperlinks when I save PowerPoint files as PDFs?I'm running PowerPoint 2011 for Mac. For some reason neither Printing or Saving As PDF works.
-If you have Apple's Keynote you can use it to open your PowerPoint file and then generate a PDF. It should preserve your embedded links just fine. Otherwise Mark Goldenson's answer (How do I preserve hyperlinks when I save PowerPoint files as PDFs?) is good.    Embed Quote

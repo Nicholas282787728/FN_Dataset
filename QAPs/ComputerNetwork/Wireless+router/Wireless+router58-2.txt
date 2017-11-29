@@ -1,2 +1,0 @@
-★What wireless router settings (protocol, band, etc.) are best for penetrating walls/floors?
-Well the longer the wavelength and stronger the signal  better the penetration is a rule of thumb. And signal strength is effected by both output power and the type of antenna. Linksys used to do more powerful replacement antennas for some of their consumer routers. However there are limits for emitted power you have to watch out for - this varies by country.    Embed Quote

@@ -1,2 +1,0 @@
-★Are trading volumes normally distributed?
-Page on bu.edu suggests that Power law distributions govern many market statistics. Page on berkeley.edu is the only study which specifically examined trading volumes and calculated an exponent for the power law governing trading volume (3/2) After the market collapse it became fashionable to study market activity and announce the divergence of various market statistics from normal distributions http://pages.stern.nyu.edu/~xgabaix/papers/pl-ar.pdf    Embed Quote

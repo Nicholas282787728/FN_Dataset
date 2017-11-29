@@ -1,2 +1,0 @@
-★What are good plain text and XML datasets?What would be a good XML (or JSON) dataset to load into a Document-oriented Database and try some queries and perhaps analytics? Similar question about plain texts.
-Full database dumps of Wikipedia and related wiki projects are all available as XML. Get them at http://dumps.wikimedia.org/    Embed Quote

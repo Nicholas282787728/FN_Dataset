@@ -1,2 +1,0 @@
-Public switched telephone network (PSTN) ISDN B-channel Circuit Switched Data (CSD) and High-Speed Circuit-Switched Data (HSCSD) service in cellular systems such as GSM Datakit X.21 (Used in the German DATEX-L and Scandinavian DATEX circuit switched data network) Optical mesh network
-Public switched telephone network (PSTN) ISDN B-channel Circuit Switched Data (CSD) and High-Speed Circuit-Switched Data (HSCSD) service in cellular systems such as GSM Datakit X.21 (Used in the German DATEX-L and Scandinavian DATEX circuit switched data network) Optical mesh network

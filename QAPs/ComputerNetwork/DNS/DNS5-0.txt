@@ -1,2 +1,0 @@
-★What is DNS pinning?Simon Willison mentions 'DNS pinning' in passing in his answer to this question: Why are front end developers so high in demand at startups if front end development is relatively easier than other fields of engineering?
-DNS-pinning is a counter measure to DNS-rebinding attacks. http://en.wikipedia.org/wiki/DNS... In short: It ignores TTL and uses the same DNS answer for the lifetime of a specific page in the browser.

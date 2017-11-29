@@ -1,2 +1,0 @@
-★When will IPV6 be fully implemented?
-Depends what you mean by fully implemented.  On most modern (server & workstation) OSes, it already is. On most modern enterprise-class routing gear, it already is. On *some* consumer/residential kit, it already is - but not many ... yet. On some content providers, it already is - Google is a great example. Most US ISPs do not yet offer it as a standard, commercial-grade service yet.  Many are running trials now to determine a few important pieces, and I'd expect the first half of 2011 to be exciting :).    Embed Quote

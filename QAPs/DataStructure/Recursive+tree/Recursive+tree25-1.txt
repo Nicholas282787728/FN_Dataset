@@ -1,2 +1,0 @@
-How do I create a Python program that illustrates the tree-like structure of recursion?
-Maybe try to use NetworkX. Should work for this kind of stuff. Trees are a special kind of graph, so you can represent each fibo(x) as a node which is connected to at most 2 other nodes. 

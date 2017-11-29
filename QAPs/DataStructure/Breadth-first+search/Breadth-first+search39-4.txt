@@ -1,2 +1,0 @@
-How can one be well prepared to answer data structure/algorithm questions in interviews?
-Originally Answered: What are some interview questions/puzzles on algorithms and data structures?Some good answers are in Where can I find difficult algorithm/data structure problems? My answer was: LeetCode Programming, Software, and Technical Interview Questions Which list interview questions and its solutions from prestigious companies 

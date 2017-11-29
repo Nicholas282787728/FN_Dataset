@@ -1,2 +1,0 @@
-What are the best Python 2.7 modules for data mining?
-Here's my list: numpy, scipy, matplotlib are basics you'll use for almost anything scikit-learn is good for machine learning, especially if you want an "out-of-the-box" solution you can use with some decent algorithms nltk is a must for NLP theano is the main library for deep learning (learning features from raw data) scrapy is recommended for web scraping Hope this helps!    Embed Quote 

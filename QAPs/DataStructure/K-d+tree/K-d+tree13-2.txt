@@ -1,1 +1,0 @@
-How can a taxi booking application be developed with simple programming language like c , c++ and data structures. what algorithm should be used?

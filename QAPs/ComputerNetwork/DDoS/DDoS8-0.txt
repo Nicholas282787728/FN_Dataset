@@ -1,2 +1,0 @@
-★What are the largest DDoS attacks in history?Bonus: could any amount of infrastructure have stopped them?
-It was 100Gbps - as per the very authoritative Worldwide Infrastructure Security Report (as published by Arbor). Source: http://www.arbornetworks.com/ind... Yes, 100Gbps can be stopped.

@@ -1,2 +1,0 @@
-★What are some time series distance/dissimilarity measures?
-As Roar said, DTW, LCS and edit distance are classics. Also, have a look at hidden Markov models (HMM) based methods. HMM are used from speech recognition (so, time series dissimilarity measures) to noisy time series discretization.    Embed Quote

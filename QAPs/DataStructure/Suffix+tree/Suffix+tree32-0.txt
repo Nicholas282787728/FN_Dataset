@@ -1,2 +1,0 @@
-Is a suffix automaton the ultimate string searching data structure that can solve everything which can also be solved using suffix array, suffix tree, etc.?
-As far as I have seen, it is the other way around. Suffix Tree is a lot more powerful than Suffix Automaton. Most of the Suffix Automaton operations can be done by Suffix Tree. The vice versa is not true. 

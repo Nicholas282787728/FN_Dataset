@@ -1,1 +1,0 @@
-C++ length of an array?only strings are terminated by '\0' not int arrays. A better way to know the length of int array is : sizeof(array1)/sizeof(int) 

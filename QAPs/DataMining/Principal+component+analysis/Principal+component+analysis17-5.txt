@@ -1,2 +1,0 @@
-★What is the difference between principal component analysis (PCA) and feature selection in machine learning? Is PCA a means of feature selection?
-Depends. But basically PCA is used for dimensionality reduction. You can say PCA is way of identifying which features are relevant in feature set of lineraly dependant features.    Embed Quote

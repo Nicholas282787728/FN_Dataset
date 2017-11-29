@@ -1,1 +1,0 @@
-Consider a bipartite graph. Let the vertex-set be A U B. Is there an efficient algorithm to find the minimum cardinality set (say S) of vertices in B which have all the vertices in A as neighbors, given that such a set S exists?

@@ -1,2 +1,0 @@
-What are P, NP, NP-complete, and NP-hard?
-In this instance, the Wikipedia answer is pretty good and I recommend it. P versus NP problem The best way to understand these concepts is in terms of deterministic and non-deterministic Turing Machines. 

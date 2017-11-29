@@ -1,2 +1,0 @@
-★Where Can i find Genetic Algorithm library in java?
-Watchmaker Framework for Evolutionary Computation is a high-performance, extensible library framework.    Embed Quote

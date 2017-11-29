@@ -1,1 +1,0 @@
-How we can implement B+ Tree in Java Language?Make 2 Node Classes 1st One for Internal Nodes,(Type 1) 2nd One For Holding a set of Internal Nodes.(Type 2) This will be easier than having just one node class. Your Tree Shall hold only Type 2 Nodes. And Type 2 Nodes will Hold Type set of 1 Nodes. 

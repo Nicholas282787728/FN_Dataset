@@ -1,2 +1,0 @@
-Given a string, find the length of longest substring where no character repeats twice?
-you can find it in O(n) time using Dynamic Programming.while iterating check the last occurrence of particular character. an easy implementation is http://ideone.com/Xy7juP 

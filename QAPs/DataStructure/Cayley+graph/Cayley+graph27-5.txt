@@ -1,2 +1,0 @@
-What are some things about databases everyone does not understand?What are some important things people should understand about databases? 'Everyone' means everyone who uses it (software engineers, developers, database administrators..).
-I would go with the basics here and say something like - concurrency and all that it's involved there. I seriously doubt and it worries me that developers and DBAs do not have the full picture on the topic + if they do, they think that going with different isolation level is their decision ONLY and not also a business decision. 

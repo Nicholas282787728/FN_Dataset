@@ -1,1 +1,0 @@
-For which undergraduate years should most students understand the content of CLRS Introduction to Algorithms?Do most students finish the content in their first year, or is it until the second year at most? New to CLRS, planning to self-study it.

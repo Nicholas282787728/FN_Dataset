@@ -1,5 +1,0 @@
-Quicksort is a familiar, commonly used algorithm in which randomness can be useful. 
-In computational geometry, a standard technique to build a structure like a convex hull or Delaunay triangulation is to randomly permute the input points and then insert them one by one into the existing structure. 
-Min cut：Input: A graph G(V,E)
-Output: A cut partitioning the vertices into L and R, with the minimum number of edges between L and R.
-Recall that the contraction of two nodes, u and v, in a (multi-)graph yields a new node u ' with edges that are the union of the edges incident on either u or v, except from any edge(s) connecting u and v. Figure 1 gives an example of contraction of vertex A and B. After contraction, the resulting graph may have parallel edges, but contains no self loops.

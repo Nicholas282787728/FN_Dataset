@@ -1,2 +1,0 @@
-★What are some useful ways to combine text and numerical features in a training set for a machine learning algorithm?e.g. if you have numerical ratings as well as text reviews for movies. How can one create a recommender system which combines text and numerical rating ?
-I would recommend you to have a look at Mahout's features vector encoding technique. It's pretty simple to use and full fills your requirement.    Embed Quote

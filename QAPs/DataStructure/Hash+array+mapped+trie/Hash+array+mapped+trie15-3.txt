@@ -1,2 +1,0 @@
-Why is data structure useful for a computer engineer to learn?
-Because it is the description of how data is stored on the disk physically, knowledge of which makes you aware of all pros and cons of that physical mapping of data(i.e. Data Structure) when playing with data items used in a program. 

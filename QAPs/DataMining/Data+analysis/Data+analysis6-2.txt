@@ -1,2 +1,0 @@
-What are some good ways to automate data analysis?
-Good data analysis can't be automated. Bad data analysis isn't worth automating    Embed Quote 

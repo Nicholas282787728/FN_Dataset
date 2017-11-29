@@ -1,2 +1,0 @@
-★What is the best continuous integration & deployment server?
-I would vote for Bamboo.    Embed Quote

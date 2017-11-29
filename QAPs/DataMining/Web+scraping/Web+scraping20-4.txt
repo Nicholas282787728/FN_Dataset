@@ -1,2 +1,0 @@
-★Is there any open-source web scraping tool such as Scrapinghub or DiffBot?
-If you are working on python platform then you must go for scrapy (scrapy.org)    Embed Quote

@@ -1,2 +1,0 @@
-What are good programming applications involving hash tables?
-Transposition tables for game-playing programs. If you can create a good hash-function for your game state, transposition tables allow you to save lots of effort searching states that have been seen before. 805 Views · 4 Upvotes

@@ -1,2 +1,0 @@
-In C++, How do I sort the string variables stored in an array in a structure (abstract data type)?
-To add to Olivia's answer (which is absolutely correct), in C++11/14 you can also write the comparison function inline as a lambda function. std::sort(     myvector.begin(),      myvector.end(),      [](const auto &a, const auto &b) { return GetACount(a) < GetACount(b); }); 

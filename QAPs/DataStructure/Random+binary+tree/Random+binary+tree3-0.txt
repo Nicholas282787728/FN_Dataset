@@ -1,2 +1,0 @@
-For classifier methods, which method is best for a binary classified data, random forest or random tree?
-Random forest is very strong classifier as it trains the model with different Decision tree using subset of data which helps in better generalization for the model and also a better decision boundary. According to Random tree wiki Random Forest is a type of Random Tree. Check How do random forests work in layman's terms? to get a better understanding of Random Forest algorithm and why it is so brilliant. 

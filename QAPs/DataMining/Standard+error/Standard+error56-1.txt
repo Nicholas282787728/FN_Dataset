@@ -1,2 +1,0 @@
-★What does the shell command "rm tut1 2>~/junk" do?
-0 is stdin. 1 is stdout. 2 is stderr. It removes the file tut1 and errors are redirected to junk folder    Embed Quote

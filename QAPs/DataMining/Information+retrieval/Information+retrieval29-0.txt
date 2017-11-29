@@ -1,2 +1,0 @@
-★What project can be done that involves information retrieval and concurrent programming?
-How about a multiplayer client/server boardgame?  Implement a simple one.  The server would have to coordinate inputs arriving asynchronously from multiple clients.    Embed Quote

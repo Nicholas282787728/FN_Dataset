@@ -1,2 +1,0 @@
-★When is it better to apply principal component analysis (PCA) than multidimensional scaling?Could you give an example of such dataset?
-PCA works best if the data is modeled well using a multivariate Gaussian distribution. Multidimensional scaling allows for more nonlinearity, but does assume that there is a Euclidean metric between points. I typically start with PCA then proceed to MDS, finally examining locally linear embedding (LLE).    Embed Quote

@@ -1,2 +1,0 @@
-★How can I use Python to solve integer linear programming problems?
-Yay! Scipy just added linear programming: SciPy v0.15.1 Reference Guide    Embed Quote

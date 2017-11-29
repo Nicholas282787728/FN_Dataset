@@ -1,2 +1,0 @@
-How does beam-forming in WiGig work?
-I need to research WiGig specifically. But you should look up Phased array By carefully adding a delay to the signal to different antennas you can steer the beam, with no moving parts. That is not trivial (in particular, knowing where to steer the beam too is non-trivial) but it is do-able. Updated 53w ago • View Upvotes

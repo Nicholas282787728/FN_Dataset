@@ -1,2 +1,0 @@
-★What is the best way to measure user experience in an information extraction project?
-You can try out GATE ANNIE(http://gate.ac.uk/ie/annie.html) for information extraction. GATE ANNIE uses JAPE grammar which is basically pattern based grammar. You can either list of products in gazetteer list or can write little bit JAPE grammar to identify product names from User-Experience.    Embed Quote

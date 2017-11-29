@@ -1,2 +1,0 @@
-★Is machine learning overrated or overhyped?
-I think machine learning is overrated in the sense that people try to use it where more traditional search or optimization techniques are doing perfectly fine. It is a tool and I think people are like the old saying "when you are a hammer every problem looks like a nail".    Embed Quote

@@ -1,2 +1,0 @@
-★How do I develop a resume parser using NLP (Natural Language Processing)?
-look for typical phrases which come up in your corpus (which have higher probability than in a general corpus) and then focus on handling those. Also, make sure you can break the resume into segments and classify their function properly (experience, education etc.). Look at the data, refine, repeat.    Embed Quote

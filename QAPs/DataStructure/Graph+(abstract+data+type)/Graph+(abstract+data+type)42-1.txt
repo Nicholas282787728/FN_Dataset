@@ -1,1 +1,0 @@
-How do you map business problems to big data technologies? Has anyone seen a good taxonomy for doing this?

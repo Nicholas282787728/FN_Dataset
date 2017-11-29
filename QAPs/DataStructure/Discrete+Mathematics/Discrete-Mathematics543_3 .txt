@@ -1,1 +1,0 @@
-How can I measure correlation between continuous and discrete variables?For the bog-standard Pearson product-moment correlation coefficient, the continuity of your variables (or lack thereof) should be irrelevant. So long as your data has a mean and variance, the correlation can be calculated. 192 Views  View Upvotes

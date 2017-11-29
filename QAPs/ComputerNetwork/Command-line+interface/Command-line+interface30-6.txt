@@ -1,2 +1,0 @@
-★What are some awesome/cool GEMs to use in Rails?
-@dtaniwaki/rack-dev-mark is very useful to differentiate development site from production site.

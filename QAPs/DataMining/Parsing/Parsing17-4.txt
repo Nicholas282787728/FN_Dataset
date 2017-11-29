@@ -1,2 +1,0 @@
-★What does parsing mean in Java?
-It is nothing but converting the values of one data type to another...for example to convert String data into Integer....              String bharath=10;              int number=Integer.parseInt(bharath);    Embed Quote

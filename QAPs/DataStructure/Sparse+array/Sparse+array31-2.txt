@@ -1,2 +1,0 @@
-What's the best way to store data in a two-dimensional array/table in Python?
-List for heterogenous data and Dictionary for (key,value) data store 

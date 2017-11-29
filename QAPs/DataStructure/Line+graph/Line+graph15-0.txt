@@ -1,2 +1,0 @@
-What is a line graph and what is its purpose?
-In graph theory, a line graph of a graph whose vertices are edges of the original graph. Formally, The line graph of G  G , written L(G)  L(G) , is the graph whose vertices are the edges of G  G , with (e,f)∈E(L(G))  (e,f)∈E(L(G)) when e=(u,v)  e=(u,v) and f=(v,w)  f=(v,w) in G  G (i.e when e  e and f  f share a vertex). Example - Line graph of a graph has a variety of isophormic properties, see Line graph - Wikipedia for details. 539 Views

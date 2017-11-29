@@ -1,2 +1,0 @@
-What basic data structures and algorithms should one learn before starting competitive programming?
-There are innumerous websites to your rescue Like geeksfor geeks, khanacademy,edx etc. Also youtube will serve as you best mate Amidst this vast source of information try not get confused and wasting hours on surfing for them I would personally recommend you to find a site that has consolidation of the best and the most preferred tutorials Use this link for reference:... (more)

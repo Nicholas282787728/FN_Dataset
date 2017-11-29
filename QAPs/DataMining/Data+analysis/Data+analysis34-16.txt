@@ -1,2 +1,0 @@
-★Which is better for data analysis: R or Python?
-I would invest in Python for a simple but very important reason: licensing. R and its packages are covered by GPL and for this reason not suitable for integration into commercial products, as its redistribution would mean disclosure of your proprietary code. Python scientific packages are covered by BSD and free to redistribute.    Embed Quote 

@@ -1,2 +1,0 @@
-★Why is the output of logistic regression interpreted as a probability?
-The reason you get probabilities is because of the logit function, which only yields values between 0 and 1. Because the logit function only takes on values between 0 and 1, it's much better suited to outputting probabilities than say, linear regression - which could actually yield negative outputs.    Embed Quote

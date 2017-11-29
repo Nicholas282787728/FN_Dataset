@@ -1,2 +1,0 @@
-Is there any package about exponential random graph models, ERGM, in Python?
-You could use rpy2 to run the R implementation: Overview - rpy2 2.5.5 documentation  ... or if the ipython notebook (with it's new sexy name "Jupyter") tickles your fancy, you could run R code alongside python: Page on ipython.org 

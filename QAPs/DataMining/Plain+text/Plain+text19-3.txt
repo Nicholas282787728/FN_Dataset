@@ -1,2 +1,0 @@
-★Why is most of the corporate email still being sent in plain text and not encrypted?
-Actually some companies and businesses are already using encrypted e-mails. There are also a number of services that offer the functionality out of the box. Take Privatoria as an example. It is a personal encrypted channel for sending your files plus an automated system to encrypt your mail prior to sending it via secure channel. That way an attacker will have to break a complex channel security just to get to the encrypted message.    Embed Quote

@@ -1,2 +1,0 @@
-★What are the best resources to learn Reinforcement Learning?
-As I understand it, a good way to approach this subject is via. Game Theory, a subject worth getting familiar with for a vast range of topics, from finance to Reinforcement learning! This might help too:  Reinforcement Learning: An Introduction    Embed Quote

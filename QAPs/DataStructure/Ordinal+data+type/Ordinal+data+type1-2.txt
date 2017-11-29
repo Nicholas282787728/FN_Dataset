@@ -1,2 +1,0 @@
-How often do data scientists deal with categorical data?
-Almost everyday. It's not always you want to ignore categorical data. There are some categorical columns like outcomes or categories that separates one type of data with another etc . For example, Systematics information can be used as categorical data. 

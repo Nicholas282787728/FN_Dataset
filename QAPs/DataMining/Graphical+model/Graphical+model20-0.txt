@@ -1,2 +1,0 @@
-★What are good prep materials before taking the Probabilistic Graphical Models course?What are some topics that should be studied before attempting the material in that course?
-I would recommend college level calculus, linear algebra and of course, probability. Undergrad level algorithms will help too. Machine learning, though useful, will probably not be necessary. In short, this course does require a certain level of math proficiency, but you can manage without it if you have reasonable amount of time for self studies.    Embed Quote

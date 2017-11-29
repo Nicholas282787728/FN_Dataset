@@ -1,2 +1,0 @@
-★What are the best talks/lectures related to big data/algorithms/machine learning?
-Here is a talk on distributed random forest algorithm: Big Data - Distributed Random Forest by Jan Vitek    Embed Quote

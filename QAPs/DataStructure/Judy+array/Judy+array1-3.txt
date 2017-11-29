@@ -1,2 +1,0 @@
-What are the best ideas for Data Structure project?
-I would have liked writing a small search engine when I was in my engineering, let me suggest the same. Something like MinHash mentioned in: Page on dec.com 

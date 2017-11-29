@@ -1,2 +1,0 @@
-★Does Torrent support downloading files through a proxy server?
-In my clg..it didn't work with PROXIFIER. you will have to make new proxification rule for torrent client to bypass it directly .    Embed Quote

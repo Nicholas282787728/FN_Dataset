@@ -1,2 +1,0 @@
-★Has anyone tried cyclic wiring of the neural network?What I mean by "cyclic wiring": Connecting some output neurons directly to the input ones. This could provide term memory or perhaps simulate kind of "consciousness" :). I just can't find any experiments with this.
-I am not sure whether for this type of architecture this approach is used, but for a Bidirectional associative memory (no hidden layer, just input/output layers with linear activation functions) the output values are fed to the input layer.    Embed Quote

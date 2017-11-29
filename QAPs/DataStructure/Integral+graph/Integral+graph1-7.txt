@@ -1,2 +1,0 @@
-What is the easiest way to calculate the area under the curve (integral) of a graph in excel?
-I wrote a page on my Web site for this: http://www.duncanwil.co.uk/areac... Try this as well: http://www.statisticshowto.com/h... I think some of your y values will be negative ... this second page tells you how to deal with that too. 

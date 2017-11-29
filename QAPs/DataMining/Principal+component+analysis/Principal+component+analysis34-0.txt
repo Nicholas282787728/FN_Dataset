@@ -1,2 +1,0 @@
-★What are some uses of principal component analysis besides reducing the number of features (a.k.a dimensionality reduction)?I've only seen it being used as a step to reduce the number of features before applying another algorithm.
-Orthogonalize your data.   Ironically, I've *only* used it to orthogonalize, and so that's what I immediately associate it with.  Then I got burned in a recent interview for not remembering its actual primary purpose :(    Embed Quote

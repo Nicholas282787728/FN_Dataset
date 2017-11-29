@@ -1,2 +1,0 @@
-★Does any multi-level modeling software not ignore correlation among students within the same clusters in computing the standard errors of the impact estimates?
-I am not sure I understand your question. The main (if not the entire) purpose of multilevel models is to deal with such correlations. The idea is to put these correlations into the "random" effects (using a fixed/random terminology) or to put them in one level of the analysis (using a multilevel terminology) so that the main question of interest can be answered.    Embed Quote

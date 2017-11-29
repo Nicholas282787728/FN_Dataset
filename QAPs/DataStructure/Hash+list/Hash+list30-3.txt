@@ -1,2 +1,0 @@
-Is there a complete list of everything a C programmer would need to know, like arrays, threading theory, pointers, etc.?
-Amazon.com: The C Programming Language, 2nd Edition (0076092003106): Brian W. Kernighan, Dennis M. Ritchie: Books  It is the definitive textbook on C. Most programmers know the book simply as "Kernighan and Ritchie". 

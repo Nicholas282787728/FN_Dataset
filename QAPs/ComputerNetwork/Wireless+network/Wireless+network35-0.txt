@@ -1,2 +1,0 @@
-★Can wireless network administrators view my Terminal (Mac app) activity?The hostname changes when I am connected to a wireless network. Does this mean administrators could potentially see my terminal activity?
-By itself, no.  The hostname changes because DHCP (the utility that provides an IP address) also provides you with a new hostname. This is probably being presented to you as part of your Terminal prompt. Of course, if your system has been compromised, anything is possible.    Embed Quote

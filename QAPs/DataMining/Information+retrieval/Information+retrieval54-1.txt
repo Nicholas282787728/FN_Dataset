@@ -1,2 +1,0 @@
-★What are the best books and online resources to study the basics of music information retrieval?I'm currently a software engineer and keen to learn more about the field of Music Information Retrieval outside of my work. What would be your recommendations to get a grasp of the basics?
-I recently came across a blog on content-based music recommendation using convolutional neural networks by Sander Dieleman and is quite interesting. It also points to some good materials. Recommending music on Spotify with deep learning    Embed Quote

@@ -1,2 +1,0 @@
-What's the best way to continuously scrape a large data source that is updated often?
-This might not be the best way but I think it's the easiest. You can use a scraping platform like Kimono Labs or import.io to build a data feed from webpages that are updated often but do not provide easy to use data feeds. Using Kimono Labs to Scrape the Web for Free That being said, it's worth checking out the site's data policy before making a feed like this publicly available, otherwise you might be in violation of their copyright.    Embed Quote 

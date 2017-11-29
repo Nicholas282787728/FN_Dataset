@@ -1,2 +1,0 @@
-★Support Vector Machines: Is it possible to use SVMs for unsupervised learning/density estimation?
-Check this lecture note by Dr. Jaakola on anomaly detection or 1-class classification using SVM: http://courses.csail.mit.edu/6.8... My limited understanding is that SVM applies to supervised and semi-supervised learning.  For density estimation, SVM does not apply:  you need to look at things like PCA and/or clustering and/or other modern techniques.    Embed Quote

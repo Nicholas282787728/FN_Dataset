@@ -1,2 +1,0 @@
-If I flip a coin (heads or tails) 1,000,000 times, shouldn't the fraction of heads and tails approach 50% equally?
-Not sure what you mean by 'equally' but yes. The key here is that the variance from the mean decreases relative to the sample size as the sample size increases. So as the number of tosses increases the percentage of heads will converge to 50. This is a broad result known as the central limit theorem.    Embed Quote 

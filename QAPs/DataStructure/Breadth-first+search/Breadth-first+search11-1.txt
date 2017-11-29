@@ -1,2 +1,0 @@
-How do I apply the breadth first search algorithm?
-Here are two excellent explanations of Breadth-first and depth-first search: http://dasl.mem.drexel.edu/Hing/BFSDFSTutorial.htm Depth First Search 

@@ -1,2 +1,0 @@
-★How do you determine feature importance in a predictive model?
-Information gain and fraction of variability explained are amongst the most commonly used metrics . A common technique used by kagglers is to run the features though a Gradient Boosting Machine or Random Forest to generate plots of relative importance and information gain for each feature in the ensembles. These models are somewhat robust to collinearity as well so you will get a decent understanding of the relative importance of your features    Embed Quote

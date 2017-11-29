@@ -1,2 +1,0 @@
-★What is a good introductory article/textbook on the subject of statistical pattern recognition?
-I like the article by Smale: The Mathematics of Learning: Dealing with Data http://ttic.uchicago.edu/~smale/papers/dealing_with_data.pdf It does assume some formal training in  math    Embed Quote

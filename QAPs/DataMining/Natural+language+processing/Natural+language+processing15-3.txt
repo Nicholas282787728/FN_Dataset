@@ -1,2 +1,0 @@
-★Natural Language Processing: What is the best approach for text categorization?There are standard approaches like svm, naive bayes, logistic regression, neuron network. Features come from words, phrases scored with tfidf e.t.c. Is there are any more robost and scalable approach?
-Which will be the best algorithm for spam filtering using text categorization to start with?    Embed Quote

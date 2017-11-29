@@ -1,1 +1,0 @@
-When we triangulate a polygon to solve an art gallery problem, why can we not create a convex subpolygon to solve the problem?You might be able to solve a problem using any convex polygon. However triangles are the easiest shape to deal with and are likely to give the simplest algorithm. 53 Views  View Upvotes  Answer requested by Apoorva Sahay

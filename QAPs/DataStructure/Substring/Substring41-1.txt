@@ -1,2 +1,0 @@
-How do you find the longest substring whose reverse is also present in the same string?
-does that code work ?? i'm not so  sure if this problem can be even solved with dp. 

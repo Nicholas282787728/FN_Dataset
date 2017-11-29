@@ -1,2 +1,0 @@
-What is a bipartite graph?
-Think Bi-partite (2 parts). It is a graph G=(V,E) with a set V split into V1 and V2 and set E for edges. What makes a bipartite graph special that every edge (i,j) that exists in E has (i in V1 )and (j in V2). Simply, all edges in the bipartite graph must have one end in V1 and the other end in V2 (so edges connecting nodes in V1 or nodes in V2 are allowed). 

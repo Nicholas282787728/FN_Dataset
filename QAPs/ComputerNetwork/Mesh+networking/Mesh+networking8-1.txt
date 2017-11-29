@@ -1,2 +1,0 @@
-★What is the future of wireless mesh networks in your opinion?
-Yes. In my opinion, wireless sensor mesh networks (popularly known as the Internet of Things) connecting every device in our home is very much on the cards and is often debated as the next "big thing". There are certainly many competing radio access technologies for this application scenario (long range, low data rate) and standard bodies are working on this end (if you're interested, check out IEEE 802.11ah).    Embed Quote

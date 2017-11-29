@@ -1,2 +1,0 @@
-★Which computer vision datasets are often used in semi-supervised learning and/or transductive learning?
-We are trying to set up a common data set for research in this area CalculatedContent/tsvm    Embed Quote

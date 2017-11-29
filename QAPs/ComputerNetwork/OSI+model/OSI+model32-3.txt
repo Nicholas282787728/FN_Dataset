@@ -1,2 +1,0 @@
-★Which networking model is earlier: TCP/IP or OSI?
-OSI is an idealized description forming the standard framework for networking protocols stacks. Various protocols such as TCP/IP etc are implementations of a protocol stack. The different components of real world protocols  may or may not match with layers referenced in OSI. We try to map everyday protocols to OSI in order to explain functionality and ease troubleshooting. http://www.jdsu.com/ProductLiter...    Embed Quote

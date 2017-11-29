@@ -1,2 +1,0 @@
-What is avl tree?
-An AVL tree is another balanced binary search tree. Named after their inventors, Adelson-Velskii and Landis, they were the first dynamically balanced trees to be proposed. Like red-black trees, they are not perfectly balanced, but pairs of sub-trees differ in height by at most 1, maintaining an O(logn) search time. Addition and deletion operations also take O(logn) time. An AVL tree is a binary search tree which has the following properties: The sub-trees of every node differ in height by at most one. Every sub-tree is an AVL tree. 

@@ -1,9 +1,0 @@
-There are also tree traversal algorithms that classify as neither depth-first search nor breadth-first search. One such algorithm is Monte Carlo tree search, which concentrates on analyzing the most promising moves, basing the expansion of the search tree on random sampling of the search space.
-The following algorithms are described for a binary tree, but they may be generalized to other trees as well.
-The general recursive pattern for traversing a (non-empty) binary tree is this: At node N you must do these three things:
-
-(L) Recursively traverse its left subtree. When this step is finished you are back at N again.
-
-(R) Recursively traverse its right subtree. When this step is finished you are back at N again.
-
-(N) Process N itself.

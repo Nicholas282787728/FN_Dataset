@@ -1,2 +1,0 @@
-Given a graph, how to compute all of the possible topological sort outcomes?
-Computing all possible topological sort outcomes can't be done efficiently simply because number of possible outcomes might be huge and outputting them itself will take a lot of time. For example, in a graph on N  vertices with no edges, number of valid topological sort outcomes is N!  . If you're okay with spending so much time, you might as well enumerate all permutations and check each in linear time. 

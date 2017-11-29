@@ -1,2 +1,0 @@
-Where can I find the best description of the IoT architecture and development flow?(HW, Cloud and apps)
-Following is link to presentation where logical and functional blocks of IoT applications stated in better way. Getting started with WiFi sensor_v2.pptx Following one is pretty interesting talk on the reference architecture for the IoT Application more of in context of  "Scalable Middleware Blocks" 

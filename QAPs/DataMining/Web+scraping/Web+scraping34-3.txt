@@ -1,2 +1,0 @@
-★What is the best language for developing web scraping and web indexing softwares?
-Python, Requests and Scrapy are the best tools in the market.    Embed Quote

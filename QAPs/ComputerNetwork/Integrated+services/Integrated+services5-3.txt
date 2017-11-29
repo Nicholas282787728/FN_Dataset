@@ -1,2 +1,0 @@
-★What free hosted continuous integration service is the best for Ruby on Rails 4?
-Heroku, AWS with beanstalk.    Embed Quote

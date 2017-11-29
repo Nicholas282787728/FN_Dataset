@@ -1,2 +1,0 @@
-Is there a really hot database start-up out there?......a company specifically dealing with data mashes?
-What do you mean by data mash? The term is too imprecise. We have a database startup that combines Supercomputer tech with vectorwise node engines, to produce a petabyte scale SQL MPP engine that is mostly MySQL compatible. Is that a "mash" ? Check it out at http://deepcloud.co 

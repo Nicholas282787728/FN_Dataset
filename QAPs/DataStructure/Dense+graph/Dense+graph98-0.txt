@@ -1,2 +1,0 @@
-How do I find if there's a route between two nodes?
-You can use a Depth First Search or a Breadth First Search. Depth-first search Breadth-first search 

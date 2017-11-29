@@ -1,2 +1,0 @@
-★What is the difference between the Internet and the Web?
-The Internet is the whole system, so it includes things like email based on software (protocols) and people may use it to refer to hardware. First services that relied on the hardware, wires etc that are usedInternet were for example electronic mail (Email). The Web is formed from the inter-linked web pages. So the Web needs the Internet to existbe accessed, but the Internet is much bigger than that (even if the Web is the only thing most people worry about online).

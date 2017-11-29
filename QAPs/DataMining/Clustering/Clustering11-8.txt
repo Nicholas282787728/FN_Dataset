@@ -1,2 +1,0 @@
-What are the best open source tools for unsupervised clustering of text documents?
-NLTK should work as a general natural language processing tool. This may help as a starting point, http://nltk.googlecode.com/svn/t...    Embed Quote 

@@ -1,2 +1,0 @@
-What is the difference between contravariant and covariant tensors?
-See Mark Barton's answer    Embed Quote 

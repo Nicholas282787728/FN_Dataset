@@ -1,2 +1,0 @@
-How do I reverse a directed graph?
-Create a new adjacency list and add all edges in reverse order. List oldAL[]; // old adjacency list List newAL[]; // new adjacency list   for (int u = 0; u < nV; u++) // for each vertex u for (int v : oldAL[u]) // for each adj vertex add u to its new Adjacency List newAL[v].add(u); // v -> u = reverse(u -> v) Thank you for your feedback! Your response is private. Is this answer still relevant and up to date? YesNo 1.7k Views · 3 Upvotes

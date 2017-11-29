@@ -1,2 +1,0 @@
-★How do I perform feature selection?
-I think this depends on what you want to do with feature selection. If you have 10million features and just want to reduce the size, PCA and that sort of things probably are the best. If you have like 100 specific features and you want to pick the most informative ones or the most predictive ones  for a specific algorithm or only the group of features that do not suffer from collinearity between themselves etc., then, you perhaps need to look at other approaches. You may find answers in the "related questions" here.    Embed Quote

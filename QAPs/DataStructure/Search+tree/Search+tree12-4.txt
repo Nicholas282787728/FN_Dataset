@@ -1,2 +1,0 @@
-How can you efficiently determine the k-th maximum element in an binary search tree?
-Finding Kth smallest element in binary search tree 

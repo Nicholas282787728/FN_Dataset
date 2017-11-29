@@ -1,2 +1,0 @@
-How do I reflect a function over a line (graph and equation please)?
-By using the equation of the line to substitute f(y) for x and g(x) for y. To learn something you derive the equation yourself and graph it afterwards. Start with something simple like reflecting the ellipsis 4x² + y² = 1 over the line y=x (f(y)= y. g(x)=x) If you can do that try to do it over y=x+1 (f(y)=y-1, g(x)=x+1). After that reflect y=e^x over the line y = 2x-3. If you can do that you have mastered it. Greedz 84 Views

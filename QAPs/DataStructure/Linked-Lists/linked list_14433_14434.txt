@@ -1,1 +1,0 @@
-recover the path to a goal state in a \* search algorithm every node should have be give a pointer to the node it be reach from . then you only need to follow and reverse a link list . 

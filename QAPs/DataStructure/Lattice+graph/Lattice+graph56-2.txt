@@ -1,2 +1,0 @@
-What kind of data structures could be used in a natural language processing project?
-Addition to trees, heaps and hastables which are workhorses of NLP applications, Trie can be used in morphological analysis. 

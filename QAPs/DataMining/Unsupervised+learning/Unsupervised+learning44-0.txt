@@ -1,2 +1,0 @@
-★Is it already possible to learn the rules of a game like Monopoly using unsupervised learning?
-The guys at DeepMind (now acquired by Google) have computers learn to play old Atari arcade video-games by just looking at the screen and operating the controls, without any other input/instruction. They do admit though having problems with games involving more strategic thinking.    Embed Quote

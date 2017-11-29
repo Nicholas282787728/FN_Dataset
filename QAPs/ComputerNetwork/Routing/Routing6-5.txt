@@ -1,2 +1,0 @@
-★Public Transportation: How are bus routes determined?
-First, the entire route needs to be driven and the overall time, including the 1.3 multiplication factor, required to drive the route calculated. Next, the time required to drive between each time point should be calculated.  Check POLSKA-ANGLIA PRZEWOZY (Copy) for more!@    Embed Quote

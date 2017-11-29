@@ -1,2 +1,0 @@
-★How easy is it to hack a password-protected Wi-Fi network?
-about 5 minutes for wep with backtrack 4 and a decent wireless card, to up a few days with wpa/wpa2 if you use Cuda from a nvidia gpu with a modded software to crack it up ...    Embed Quote

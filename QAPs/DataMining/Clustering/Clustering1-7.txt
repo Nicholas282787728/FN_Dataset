@@ -1,2 +1,0 @@
-★What is the state of the art in monitoring Hadoop clusters?
-You can use graphite with JMXTrans to collect statistics from the NameNode, JobTracker, DataNode and TaskTracker http://techo-ecco.com/blog/monit...    Embed Quote 

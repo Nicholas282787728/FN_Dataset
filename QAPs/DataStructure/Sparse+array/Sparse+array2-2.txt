@@ -1,2 +1,0 @@
-What is the most efficient way of representing a sparse binary array?
-You can use Run-length encoding  - Run-length encoding 

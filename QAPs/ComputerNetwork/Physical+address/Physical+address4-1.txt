@@ -1,2 +1,0 @@
-★OPERATING SYSTEMS: What are logical and physical address spaces?
-The CPU generates a logical address which is mapped to a real or physical memory location. This is implemented by the OS, which maintains page and segment tables(for the mapping). Paging and segmentation is done differently on various systems but the basics remain the same. I recommend the book Operating System Concepts by Silberschatz et al. to learn about paging,segmentation or virtual memory.    Embed Quote

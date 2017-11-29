@@ -1,2 +1,0 @@
-Which data type is used to store values as large as 100! In C?
-There are assorted large-integer libraries that chain up integer "columns" into a single variable much the same way the microprocessor joins bits for arithmetic operations.  Since you already know how to do arithmetic, writing a naive library along those lines would be a pretty easy project. Or, if the scale is significantly more important than the precision, floating-point numbers work really well without nearly as much overhead. 

@@ -1,2 +1,0 @@
-Applications of 3G
-The bandwidth and location information available to 3G devices gives rise to applications not previously available to mobile phone users. Some of the applications are: Global Positioning System (GPS) Location-based services Mobile TV Telemedicine Video Conferencing Video on demand.

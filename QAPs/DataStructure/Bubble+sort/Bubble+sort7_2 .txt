@@ -1,1 +1,0 @@
-When would it make sense to use a bubble sort?To check if the array is already sorted. Bubble sort has best caseO(n). Even heapsort and merge sort will take O(nlogn) to work with already sorted array. 

@@ -1,2 +1,0 @@
-Is there AI that can parse JSON for a particular nested field name?
-You're not looking for AI here, just a simple recursive tree-parsing algorithm. 

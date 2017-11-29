@@ -1,1 +1,0 @@
-Can a binary tree node have multiple parents?No. Any given node must have only 1 parent and 2 child nodes 79 Views

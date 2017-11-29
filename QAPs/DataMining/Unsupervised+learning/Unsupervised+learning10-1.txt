@@ -1,2 +1,0 @@
-★Is it possible for unsupervised learning algorithms to outperform supervised ones?Assume the same data set. If this has been done, please provide links.
-Sure, if there are errors in the label set. It is also possible to combine the two approaches Machine Learning with Missing Labels:  Transductive SVMs and Transductive  / Semi-Supervised Learning will frequently outperform purely Supervised Learning    Embed Quote

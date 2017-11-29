@@ -1,2 +1,0 @@
-Is Emacs Lisp the same as Common Lisp?
-Elisp is different from Common Lisp.  I bumped into an article on this yesterday: http://tromey.com/blog/?p=709.  And Xah Lee also has an article on this: http://xahlee.org/emacs/moderniz.... Elisp has many in common with Common Lisp.  But it's like CL's "little brother".  I think if you want to do more than customizing Emacs, learning CL first won't hurt, and then you can pick up Elisp really quick. 

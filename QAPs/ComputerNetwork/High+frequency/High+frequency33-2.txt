@@ -1,2 +1,0 @@
-★How does trading, especially high-frequency trading, add value to society?
-Here's an empirical example, Getco purchased flow from Schwab, Fidelity, et al. and guaranteed their customers would get filled on prices better than their limits. Sure it's uninformed flow, but who really cares? I'm fairly unsympathetic to people who complain about the whole thing, prior to HFT the mms would absolutely crush you on the spreads.

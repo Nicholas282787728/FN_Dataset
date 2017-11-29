@@ -1,2 +1,0 @@
-★What is the best NoSQL database to store unstructured data?
-Depends on what you want to store. Another document-store besides MongoDB, Riak, and Couchbase is MarkLogic. Any of these can basically ingest data "as-is"--no transformation needed. MarkLogic stores the data in the structure as-is, including JSON, XML or defined data models. It also depends on whether you need enterprise capabilities. If you don't want to lose data, then MarkLogic is the only database that has ACID-compliance.    Embed Quote

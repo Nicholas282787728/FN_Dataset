@@ -1,2 +1,0 @@
-★Semantic Web: What are the differences between RDF databases, Metadata databases and Graph databases?
-Not sure about the Metadata databases but and RDF store is one way of storing graph data so not sure Graph databases and RDF stores are separate topics.    Embed Quote

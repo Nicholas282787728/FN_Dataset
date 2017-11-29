@@ -1,2 +1,0 @@
-What is B* Tree in Data Structure?
-The aim of a binary tree is to half the records remaining with each search step. To do this we have some sort of value to check. If it is the exact match than we found the record. If the value is higher than the record we started with then we follow the higher pointer. If there is no high pointer then we report not found. Obvious if lower than we follow that side if it exist or report a fail. A proper sorted structure might look like this: begin at D and find the letter G A   -   - B  A  C C  -    - D  B   F... (more)

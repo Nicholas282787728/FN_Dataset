@@ -1,2 +1,0 @@
-★What's the best VPN service?
-Most of the VPN services are blocked and proxies doesnt work also. There is a website called proxy center that works for a monthly payment but everything including changing your browser's proxy doesn't work at all. The Great firewall page also lists which VPN services are blocked, however it cannot be accessed within China. The most effective method is setting up your own VPN. I have used VPN Shield, its effective but performance isn't quite stable and lack of features to know the if the signal is good.    Embed Quote

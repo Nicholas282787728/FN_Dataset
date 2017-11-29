@@ -1,1 +1,0 @@
-Why do I need to define a extra structure pointer when I have to print the linked list?From what I understand here, you can always replace temp1 with head. You cannot use temp for temp1 because you need to start at head, and temp is pointing to the last element in the list. The key to understand this is the step temp=temp->p; 73 Views  Answer requested by Siddharth Mundada

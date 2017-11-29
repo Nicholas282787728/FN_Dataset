@@ -1,2 +1,0 @@
-★Predictive Analytics: What tools do you use for Data Preparation, primarily for outlier detection and removal, Feature Selection etc. If you use R software, what packages do you use?
-I'm actually working on a tool that will be of interest to data scientists and data analysts, and am looking for some user input. Reach out to me if you're interested.    Embed Quote

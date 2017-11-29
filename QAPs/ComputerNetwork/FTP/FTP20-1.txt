@@ -1,2 +1,0 @@
-★How can I connect to an ftp server with Linux?i want to know how file tranfer by ftp server
-You can use a GUI-client or a console-client. Try Gftp which is a very good client for ftp. Then you need the hostname, username and password to connect to the server (as Paul Reiber said). In console-client, you can try Yafc which is very good too. I hope it will help you !

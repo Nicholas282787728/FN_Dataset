@@ -1,3 +1,0 @@
-When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?The context of this answer is IPv4 devices that have 48-bit HW (or MAC) addresses.
-
-A MAC address need only be unique in the local network.  Recall that the ARP (RFC 826) matches an IP to a HW device, and that ARP will only broadcast locally, and is not routed past the immediate layer 3 interface..

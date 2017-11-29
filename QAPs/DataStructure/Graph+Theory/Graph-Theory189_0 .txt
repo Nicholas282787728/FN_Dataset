@@ -1,1 +1,0 @@
-What is a k-cycle in graph theory?In combinatorics, a k-cycle is usually a graph with k vertices and k edges arranged in a loop. A k-cycle could also be short notation for a "cyclic permutation of order k." 678 Views

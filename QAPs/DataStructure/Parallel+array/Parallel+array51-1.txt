@@ -1,2 +1,0 @@
-Where can I find a programmer willing to teach an 11 year old to make video games?
-Scratch is cool enough.  An alternative is Project Spark:  Project Spark Other than that just search for tutorials.  There are tons of written and video tutorials that you can work through.  Just start with the beginner stuff and work your way up.  If you are really dead set on creating full fledged games then I recommend you give Unity a try.  There is a free version and there is a crazy number of tutorials available for it. 

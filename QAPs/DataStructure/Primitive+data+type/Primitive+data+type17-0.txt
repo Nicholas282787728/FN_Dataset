@@ -1,2 +1,0 @@
-Why in many programming contests the answer is required to be printed modulo 1000000007?
-It is a prime (so you can "divide" modulo it), easy to remember, and its square barely doesn't overflow a 64 bit integer (so you can multiply modulo it) 

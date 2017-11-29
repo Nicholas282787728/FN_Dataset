@@ -1,2 +1,0 @@
-★What are the advantages of logit and conditional logit regressions over linear regression models?Specifically with regards to financial modeling
-Logit models are used for categorical outcomes.  Linear regression models are used for continuous outcomes.  To use linear regression for categorical outcomes is just wrong.    Embed Quote

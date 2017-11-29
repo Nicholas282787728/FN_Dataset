@@ -1,2 +1,0 @@
-★Could Azure Machine Learning really disrupt the data science space by making predictive analytics ubiquitous?
-Yes, Azure Machine Learning will accelerate this trend but they are not the only player pushing this forward.  IBM Watson Analytics was just announced with the same goals, see: 3 Ways IBM Watson Will Solve World Business Issues .  All the major players are moving to make Big Data more accessible.  The Hadoop (Welcome to Apache™ Hadoop®! ) project is absolutely on fire and the hadoop ecosystem is growing every day.    Embed Quote

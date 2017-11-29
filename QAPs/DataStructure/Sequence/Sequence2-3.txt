@@ -1,2 +1,0 @@
-What will be next in the sequence 10, 14, 23, ____?
-The series is a basic application of sequence and series It is - 10,14,23..? Let's find it simply. The difference of first two terms is 14-10=4=2×2 Now, The difference of third term and second term is 23-14=9=3×3 So it is quite understood that the difference of fourth term and third term will be 4×4=16 So, fourth term= 23+16=39 Another speciality of this question is that Its nth term is at a difference of n×n with (n-1)th term. So,We can find its nth term if n and n-1 th term is given. I hope thats sufficient. 

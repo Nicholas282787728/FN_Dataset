@@ -1,1 +1,0 @@
-The PubMed[1] form interface features the "related articles" search which works through a comparison of words from the documents' title, abstract, and MeSH terms using a word-weighted algorithm. [2]

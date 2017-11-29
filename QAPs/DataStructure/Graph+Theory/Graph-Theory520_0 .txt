@@ -1,1 +1,0 @@
-Which graph type is suitable to visualize a relationship when the dependent is ordinal, with 13,000+ observations?Is the other variable numeric? It's sounding like either a spot-type chart or perhaps a matrix. Co-occurrence matrices can be a great way to showcase relationships between ordinal variables. Would need more info on data to help further. 56 Views

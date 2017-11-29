@@ -1,2 +1,0 @@
-★Why do we need domain name if IP address does the same thing?I was asked this question and I replied "To make life easy it is easy to remember names than huge set of random no's" what could be better technical reply
-Domain name can be used as a form of load balancing, if you go to a single IP you only go to 1 resource (assuming no anycast is happening). With DNS you can return multiple addresses and do some load balancing to split the load to different resources

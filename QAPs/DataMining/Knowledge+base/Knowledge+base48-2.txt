@@ -1,2 +1,0 @@
-★What is a good knowledge base system, both for customers and internal users?Not looking for 2-way customer support functionality-- just a knowledge base to store and update information. Needs to be easy to create and update knowledge base entries Good search functionality
-Give Helprace a look - we have what you're looking for. multiple spaces allows users to vote article up/down public/private articles powerful search Of course, if down the road you wish to implement a help desk and a community, it's possible to do that as well.    Embed Quote

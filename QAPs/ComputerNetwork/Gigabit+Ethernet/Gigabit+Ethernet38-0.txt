@@ -1,2 +1,0 @@
-★What type of Ethernet cables will support an 802.11ac Wave 2 WAP? How do switches with multi-gigabit Ethernet ports facilitate deployment?
-How long is a piece of string? The answer entirely depends on the WAP. I would expect GigE out of that, so I would assume that it would want Cat5 or Cat6 wiring. The manual should say. Large switches allow you to group many high performance systems.

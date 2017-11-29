@@ -1,1 +1,0 @@
-In a doubly linked list if a node is to be deleted between two nodes, how many links of the existing list have to be modified?2. e.g. The Next pointer of David and Previous pointer of Miriam. 64 Views  View Upvotes  Answer requested by Gautam Raj

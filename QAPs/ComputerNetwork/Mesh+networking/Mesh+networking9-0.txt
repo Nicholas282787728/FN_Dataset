@@ -1,2 +1,0 @@
-★What is the best hardware to use to build a mesh network?
-It seems nowadays you cannot be an OEM, without having a mesh in your product line). For Wireless Mesh networking, the two good solutions are: OpenMesh - http://www.open-mesh.com/ Meraki - http://meraki.com/    Embed Quote

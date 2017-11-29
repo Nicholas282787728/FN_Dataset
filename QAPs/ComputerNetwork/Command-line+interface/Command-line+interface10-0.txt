@@ -1,2 +1,0 @@
-★What is the difference between '>' and '#'? Is the command line interfaced in Linux?
-You probably mean the different prompt symbols. They have no inherent meaning, bash by default uses $ for a normal users prompt and # for root, depending on your distros maintainer's choice possibly in colour. > used to be common with telnet and some ftp clients, but again the author is free to use whatever they want and some even make it configurable.

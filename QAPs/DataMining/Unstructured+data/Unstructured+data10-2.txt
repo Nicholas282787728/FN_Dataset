@@ -1,2 +1,0 @@
-★What is the best NoSQL database to store unstructured data?
-With your question, document-oriented Nosql is suitabe. In my experience, MongoDB is best. The important thing is MongoDB now strongly development.    Embed Quote

@@ -1,2 +1,0 @@
-Are there any good sites for learning algorithm/programming concepts every day (similar to the SAT question of the day)?
-I think http://CodeForces.com is very good for practice on algorithm problems and participate in online competitions , Because of powerful online judgment. and these features : 1 - Have at least one online competition in a week. 2 - Have Gym competitions. 3 - You can see testcases and find your bug faster than . 4 - You can see other coders solutions :)  and so on ....  [ Sorry for my poor english ] 

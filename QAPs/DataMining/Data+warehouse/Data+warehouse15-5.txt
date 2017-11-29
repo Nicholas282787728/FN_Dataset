@@ -1,2 +1,0 @@
-★How does the rising popularity of Hadoop impact legacy data warehouse vendors like Teradata?
-Complex set of answers are possible, but one answer is that Teradata is turning toward the analytics and discovery aspects rather than the storage framework. The Aster acquisition could reflect that. [Their promo Video: Next-Generation Analytics with Teradata Aster Discovery Platform]    Embed Quote

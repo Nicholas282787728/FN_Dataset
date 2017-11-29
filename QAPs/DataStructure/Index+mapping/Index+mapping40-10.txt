@@ -1,2 +1,0 @@
-What are some must-have software for programmers using Linux?
-Byobu (software) -  You can have multiple screen open on the same terminal and you can also split screens to see multiple screens.  You can go to edit mode to search on terminal history. Simply awesome :). 

@@ -1,2 +1,0 @@
-How does breaking writing into paragraphs work?
-Each  paragraph should have its own point. If it's a scene where multiple  events take place, each event should probably be its own paragraph. If  it's an internal monologue, or something similar, then each thought, or  subject, should be its own paragraph. Paragraphs don't come in a specific length; they should be as long as they need to be. Yes,  a paragraph can be a single sentence. In fact doing so can give that  short paragraph significance, but be sure not to overuse it. 

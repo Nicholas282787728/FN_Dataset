@@ -1,2 +1,0 @@
-★Can anyone give me the intuition behind dual vector space?
-This is essentially the same as asking what a dual vector is. Conceptually, to keep your dual vector happy and satisfied, you need to feed it a vector, and it'll spit out a real number for you. Which is to say, given a vector space , the set of all linear maps is a dual vector space. (provided you define addition and multiplication appropriately to satisfy the axioms of a vector space)    Embed Quote

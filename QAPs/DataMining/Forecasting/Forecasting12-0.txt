@@ -1,2 +1,0 @@
-★What are the top packages in R for forecasting with seasonality?
-I've used the "forecast" package once, for basically out of the box Holt-Winters.  I think it's a good choice.    Embed Quote

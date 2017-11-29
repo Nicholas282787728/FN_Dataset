@@ -1,2 +1,0 @@
-★What is the best way to familiarize yourself with CLI (command line interface)?Unix-like systems come with many good command line interface tools, like brew, apt, vagrant, ansible, etc. I just wondering, when you come across a new CLI tool, is there some common practices that you can follow to quickly grasp that tool?
-Try all the options offered by this tool and read the manual thoroughly

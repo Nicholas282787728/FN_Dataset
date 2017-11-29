@@ -1,2 +1,0 @@
-★Database Systems: Which data formats are used to store time series?I've seen .pfiles in speech recognition. Aree there more common alternatives?
-I use CSV files too.  I aim to have first the first column as the timestamp for the frame of data.  I try to use a simple/universal time format, usually epoch time (seconds since 1970), so little parsing logic required. No other tips really.  CSV can be imported/exported easily from most systems, and is human-readable.    Embed Quote

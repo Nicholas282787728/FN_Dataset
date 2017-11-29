@@ -1,2 +1,0 @@
-Let [math]R[/math] be the relation defined on the set of ordered pairs [math]\mathbb{Z}^{+}\times \mathbb{Z}^{+}[/math]of positive integers defined by [math](a,b)R(c,d)\Leftrightarrow a+d = b+c[/math] . (1)  prove that [math]R[/math] is an equivalence relation on  [math]\mathbb{Z}^{+}\times \mathbb{Z}^{+}[/math]. (2)  list 5 different members of the equivalence class [math][(1,4)][/math] ?
-This sounds a lot like homework to be honest 

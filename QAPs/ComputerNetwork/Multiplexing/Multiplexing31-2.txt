@@ -1,2 +1,0 @@
-★What exactly is a multiplexer and how does it work? Additionally, how does can it be controlled or set in a circuit?
-One can also use MUX on the outputs of a memory element to form complex state machines by encoding or decoding the memory output states back as inputs to the memory address inputs based on the mux select inputs.I    Embed Quote

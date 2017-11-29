@@ -1,2 +1,0 @@
-★Why did Amazon AWS named its DNS services "Route 53"?
-DNS port is 53.

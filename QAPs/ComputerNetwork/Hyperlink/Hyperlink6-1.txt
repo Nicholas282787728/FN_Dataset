@@ -1,2 +1,0 @@
-★Is there any way to change hyperlink style in PowerPoint ?I would like to see something else than underlined blue text when I add an hyperlink.
-The hyperlink can also be changed by right clicking the link. Listed in the box is an option "Hyperlink" or, possibly, "Edit Hyperlink." By selecting one of these options, you are able to change what the hyperlink reads. For instance, if you are linking to a website with an animation of mitosis, you could rename the hyperlink "Mitosis Animation."    Embed Quote

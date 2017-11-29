@@ -1,2 +1,0 @@
-★What is the process involved in building a data warehouse?
-You need to be little more specific about your question. Process involved in building a Data Warehouse is ETL, which means Extracting data from various OLTP sytems, then applying transformation/business rules to the data and then loading it into one single database.    Embed Quote

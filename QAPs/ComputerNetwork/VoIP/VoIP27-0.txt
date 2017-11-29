@@ -1,2 +1,0 @@
-★What is the technology stack of a VOIP provider?
-Most incumbent telecom carriers that offer commercial and residential grade VoIP use all 7 OSI layers and depending on the scale of the service being offered, can use a blend or multiple physical layers in tandem or separately. In some cases the layers are implemented using a dual purpose network switch.    Embed Quote

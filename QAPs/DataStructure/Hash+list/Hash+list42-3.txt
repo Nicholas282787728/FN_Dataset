@@ -1,1 +1,0 @@
-What is the most difficult question you ever faced in C programming language?

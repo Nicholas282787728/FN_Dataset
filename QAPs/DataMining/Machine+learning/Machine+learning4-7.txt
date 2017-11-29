@@ -1,2 +1,0 @@
-★How does one start writing practical machine learning programs?
-I would highly recommend Andrew Ng's Machine Learning course on Coursera to start with and then get your hands dirty with a Kaggle machine learning challenge. I personally believe, the stuffs you would learn in the process of competing in one of these competitions is worth two semesters of research effort in the same topic. Happy coding!    Embed Quote

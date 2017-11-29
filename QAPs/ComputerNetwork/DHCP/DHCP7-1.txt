@@ -1,2 +1,0 @@
-★Why does my server with a static IP still show 10 DHCP reservations for the same MAC address in the DHCP table?
-Are the reservations old? They could easily be hanging around from when you originally changed over to a static address. Do you know what your address lease time is set to?

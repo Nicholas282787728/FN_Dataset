@@ -1,2 +1,0 @@
-★What are some real life good habits that programming gives people?Inspired by What are some real-life bad habits that programming gives people?
-LAZINESS !!! Now this need not be constricted to just computer-related tasks. With the usage of Arduino/Raspberry Pi etc. it is easy to automate a lot of tasks around you, allowing you to focus on things that really matter, like family and friends. If you are willing to take the leap, here is a really good tutorial: How To Build a Home Automation System with Raspberry Pi and Arduino

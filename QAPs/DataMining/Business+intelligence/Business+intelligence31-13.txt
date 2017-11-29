@@ -1,2 +1,0 @@
-Business Intelligence: What are some good BI tools for MySQL?
-Viur ( http://www.viurdata.com ) can use MySQL databases to do business intelligence. It is has a very intuitive interface so anyone can do data analysis and it has a very quick setup.    Embed Quote Updated 30 Mar. 91 views.

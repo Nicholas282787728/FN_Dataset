@@ -1,2 +1,0 @@
-What was the greatest challenge you faced as a software engineer?
-Figuring out what the client wants. To be fair, it's likely that figuring out what they want is probably the biggest challenge they face in software projects too. 

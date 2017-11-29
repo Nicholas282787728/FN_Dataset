@@ -1,2 +1,0 @@
-What is the difference between contravariant and covariant tensors?
-Please look here:  Covariance and contravariance of vectors this article has nifty diagrams showing the distinction between covariance and contravariance. See also:  Page on Gmu which has algebraic examples fully worked out.    Embed Quote 

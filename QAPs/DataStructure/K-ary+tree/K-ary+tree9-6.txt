@@ -1,1 +1,0 @@
-Huffman Coding - How to prove decoding tree must be a full n-ary tree?I don't know how to prove this.

@@ -1,2 +1,0 @@
-★What is the probability distribution chi-square for?
-Well, a distribution arises as the sum of n independent standard random normal variables squared, which is a quantity that comes up often enough.    Embed Quote

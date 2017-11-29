@@ -1,2 +1,0 @@
-How does the graph of a continuous function satisfying "f(x)=0 if x=integer" look?
-If you have trouble visualizing of such function, here is a simple example: Let f be the function such that between N and N+1 it has the shape of an isosceles triangle with height 1/(N+1), and its base is [N,N+1]. I am sure you can easily see that the function satisfies the given properties. 

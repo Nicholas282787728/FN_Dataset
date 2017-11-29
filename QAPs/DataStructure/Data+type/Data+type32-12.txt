@@ -1,2 +1,0 @@
-Can the % operater be used on all data types in C?
-float and double data types are not allowed for using % operator 74 Views

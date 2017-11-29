@@ -1,2 +1,0 @@
-★How does Quora use machine learning?
-Yes, Obviously. Top Stories & Related Questions are two obvious places where you find Recommendation Engine running which comes under ML.    Embed Quote

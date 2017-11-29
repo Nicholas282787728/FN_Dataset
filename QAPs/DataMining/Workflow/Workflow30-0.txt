@@ -1,2 +1,0 @@
-★What is Amazon's Simple Workflow Service?Announced here: http://aws.typepad.com/aws/2012/... More details here: http://www.allthingsdistributed.... Main info page here: http://aws.amazon.com/swf/
-My development team tells me that it's better than crontab... Considering that workflow is the encoding of business logic I'd say any mainstream implementation of workflow is a plus.    Embed Quote

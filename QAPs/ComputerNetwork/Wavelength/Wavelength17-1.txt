@@ -1,2 +1,0 @@
-★What is the deBroglie wavelength of a human being?
-The de Broglie wavelength, which is the only wavelength I think you could apply to a human, is given by Planck's constant divided by momentum. A human with a mass of 70kg and walking at 2 m/s would have a wavelength of 5x10^(-36) m. That's less than the Planck length, which makes it almost meaningless.    Embed Quote

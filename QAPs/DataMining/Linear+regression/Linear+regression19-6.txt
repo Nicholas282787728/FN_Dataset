@@ -1,2 +1,0 @@
-★I am creating a multi-linear regression to forecast electricity consumption in a multi-tenanted office building. The best R2 value is 61% (aiming for 75%), hence am considering non-linear regression. Any advice on the form of non-linear regression to try?
-Have run a correlation of this year consumption to last year consumption (i.e. 52 week delay, exclude any National holidays that shifted weeks)? Something tells me you might get better results that way.    Embed Quote

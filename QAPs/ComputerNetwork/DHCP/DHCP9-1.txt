@@ -1,2 +1,0 @@
-★How can I use DHCP offers from a specific DHCP server in XP, ignoring offers from other DHCP servers?
-From what i can remeber, DHCP is first come first served, so instead of relying on the protocol to do the work and If it's so important, just manually configue your adapter to the IP and gateway settings which you want. I am also assuming the DHCP servers offer a different pool of IP's ?

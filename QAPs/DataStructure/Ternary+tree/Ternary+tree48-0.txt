@@ -1,2 +1,0 @@
-Is it a good idea for a first-year algorithm student to implement some of the data structures (binary search tree, etc.) by myself to understand them better?
-Not just "yes," but I'm surprised it isn't a core part of the course. Look at it this way:  Because software is essentially free, there's nothing you should balk at writing for yourself.  You'll see the internals and get a sense of where the limitations are going to be.  Just don't put it into production. 

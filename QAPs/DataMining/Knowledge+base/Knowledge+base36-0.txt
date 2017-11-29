@@ -1,2 +1,0 @@
-★What is Knowledge-Based Authentication?
-Knowledge-based authentication (KBA for short) is a form of authentication where a user is prompted to answer a series of security questions, where answers to the questions ought to be available or memorable to the user, but difficult to guess for others.    Embed Quote

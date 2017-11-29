@@ -1,2 +1,0 @@
-What is the best software for phylogenetic tree construction?
-Not sure if this is exactly what you want. But we love using MEGA for alignments and phylogenetic tree construction. 352 Views · 2 Upvotes

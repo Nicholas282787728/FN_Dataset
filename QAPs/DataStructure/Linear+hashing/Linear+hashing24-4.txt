@@ -1,2 +1,0 @@
-What are common uses of Python decorators?
-They are also useful for imparting a bit of aspect-orientation (http://en.wikipedia.org/wiki/Asp...) to your code. That is, standard inheritance facilitated by object-orientation lets you propagate features vertically amongst classes. You can use decorators to propagate certain features horizontally. 

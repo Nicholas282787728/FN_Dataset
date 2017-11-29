@@ -1,2 +1,0 @@
-★Are regular expressions concepts generic?Or the concepts differ for different programming languages? I want to master regular expressions in Python. I need some guidance. Thanks.
-Yes, they are generic as defined by the POSIX standards. So, you can master regular expression concepts on its own, rather than learning it separately for each programming language. Of course, you'd need to know how to apply that knowledge for each particular programming language. You can visit http://www.regular-expressions.i... for learning regex.    Embed Quote

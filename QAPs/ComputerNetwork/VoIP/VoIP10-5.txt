@@ -1,2 +1,0 @@
-★Is Viber using SIP as a signalling VoIP protocol ?This is a follow-up question to How is Viber going to make money?.
-I think they use SIP, otherwise it wouldn't work with Ozeki Phone System XE, which is a SIP based VoIP pbx. They might not be fully standard compliant though    Embed Quote

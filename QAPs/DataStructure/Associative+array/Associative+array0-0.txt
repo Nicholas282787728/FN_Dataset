@@ -1,2 +1,0 @@
-What are associative arrays?
-An array indexed by a non integral type is an associative array. It is a mapping of keys to values. For example in C++ we can define:   map<string, string> capitals; Then we could write capitals["US"] = "Washington DC";capitals["India"] = "New Delhi"; and so on, and later retrieve : cerr << capitals["US"]; 

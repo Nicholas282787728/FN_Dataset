@@ -1,2 +1,0 @@
-★Is there any kind of web ontology for "semantic news"?
-At least the New York Times implemented a "Schema.org-flavored variant of rNews", being Schema.org the ontology proposed by Google for, among others, news. http://open.blogs.nytimes.com/20...    Embed Quote

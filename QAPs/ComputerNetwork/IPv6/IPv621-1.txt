@@ -1,2 +1,0 @@
-★What's going on with IPv6?Is anyone using it? Does any software support it? Are people waiting for something? Why am I still seeing IPv4 addresses everywhere?
-Never use ipv6 now. While it is useful in the future. And I am learning CISCO network and found that people don't like change, even it can make your life easier.    Embed Quote

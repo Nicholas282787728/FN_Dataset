@@ -1,2 +1,0 @@
-★What is the difference between a PHP and HTML Web page?
-There are some basic difference between PHP and HTML as follows: 1. HTML is a markup language while PHP is a scripting language 2. The output of PHP is usually in HTML code which the browser can then interpret 3. HTML codes are static and they are always the same every time they  are opened while PHP files are dynamic and the output might not always  be the same 4. HTML is very easy and forgiving of mistakes while PHP isn’t    Embed Quote

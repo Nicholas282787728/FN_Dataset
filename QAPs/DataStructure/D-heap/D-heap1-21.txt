@@ -1,2 +1,0 @@
-What books are a good introduction to game theory?
-MIT OpenCourseWare has tons of lecture notes on game theory. Just search for game theory in the search box. http://ocw.mit.edu/index.htm 

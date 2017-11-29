@@ -1,2 +1,0 @@
-★Is it possible to share the Internet connection of your PC (LAN or dongle) on your mobile through a data cable?I wish to use the internet connection of my PC with my phone. For example, let's say my PC is connected to a LAN. I want to access internet on my phone through my PC's LAN.
-Yes it is. Its fairly common in almost all android smartphones.Its called  USB tethering Make sure your phone is connected to your pc via usb cable 1.go to your settings menu 2. choose the "more." option under "data usage" 3. choose tethering and hotspot 4. Enable USB tethering

@@ -1,2 +1,0 @@
-Is it right to put it this way: math is the study of objects that are defined using sets?
-It would be a very narrow definition and not one I have heard. My favourite definition of Mathematics is by Bertrand Russell Thus mathematics may be defined as the subject in which we never know what we are talking about, nor whether what we are saying is true. The idea that all Mathematics could be solved via sets was effectively disproved by Godel. It was a popular idea around 1900, but the world has moved on. 

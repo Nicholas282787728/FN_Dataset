@@ -1,2 +1,0 @@
-Are all NoSQL databases based on a distributed hash table? If yes, then how do they handle range queries?
-How does an SQL database support range queries? You can only have the data ordered on disk one way, so all the other ways need an index. The same is true for NoSQL. 650 Views · 2 Upvotes

@@ -1,2 +1,0 @@
-What is a list of data structures that a competitive programmer must know?
-I am not that great a programmer, but have been in competitive programming for a couple of years now. Per my experience,  these should do (again, these are just to get started. Once these are grasped, you yourself should be able to create multiple other variations based on the prerequisites.)   Arrays  Stacks  Queues  Linked Lists  Hash Tables  Trees... (more)

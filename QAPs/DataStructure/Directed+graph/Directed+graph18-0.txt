@@ -1,2 +1,0 @@
-How do you tell if a directed graph is reflexive?
-A Directed Graph R is reflexive if every element has an arrow loop from itself to itself. Reflexivity, Symmetry, and Transitivity 671 Views · 3 Upvotes

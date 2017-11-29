@@ -1,2 +1,0 @@
-★What are some parallel gradient descent algorithms?
-HogWild! Hogwild! got rid of careful synchronization and parallelization in distributed gradient descent. Most parallel gradient descent algorithms suffer in performance due to synchronization. HogWild! removed all locks and showed that for sparse matrices, the overlap of conflicts is rather small. The authors show fast and optimal rate of convergence for their workloads[1] despite the decision variables getting updated rather randomly, and updates clobbering each other. [1] HogWild TR on berkeley.edu    Embed Quote

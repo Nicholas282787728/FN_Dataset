@@ -1,2 +1,0 @@
-How much Java do I need to know to land a junior level Java job?I assume the answer translates over to the other languages as well.
-You should know basics: -Types -Interfaces/Classes/Abstract Classes -Inheritance, Composition -Loops -Data structures (Arrays, Listst, Tables, Maps...) -Streams -Threads -Sockets (at least basics) etc... At that point, I wouldnt ask you much about Java itself, I would preffer to know the way you are thinking... If you are smart, you will learn what you need :) 

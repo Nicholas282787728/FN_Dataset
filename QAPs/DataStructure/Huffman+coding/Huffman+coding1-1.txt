@@ -1,2 +1,0 @@
-What exactly is a Huffman coding tree?
-Huffman's algorithm is used to generate optimal variable length encoding. What do I mean by that? Whenever we want to receive or transmit information ,we want to do it in an efficient way. So first, how do we represent information? ... (more)

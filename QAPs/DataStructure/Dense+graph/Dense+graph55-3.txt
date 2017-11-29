@@ -1,2 +1,0 @@
-What's the best parallelized sparse SVD code publicly available?
-If you have a GPU, take a look at CULA.  Not sure what it has for sparse matrices, but it's quite good otherwise.  I don't think you get the source code, if that's what you were interested in, but they have a free version of their binaries that does single-precision operations for all the standard linear algebra operations. 

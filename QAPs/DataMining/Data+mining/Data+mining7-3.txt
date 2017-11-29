@@ -1,2 +1,0 @@
-What are the best Python 2.7 modules for data mining?
-plotly for a few things: - working on data and graphs in teams (all graphs and data are stored online, graphs and data can be shared privately or publicly, built-in-revision control) - making interactive plots with IPython: http://nbviewer.ipython.org/gist... - making interactive, scientific charts with Python and NumPy: Python and NumPy Graphing Library | Documentation and Examples | plotly - styling charts with a GUI instead of with code disclaimer: I'm a dev at plotly    Embed Quote 

@@ -1,2 +1,0 @@
-What is the best Linear Algebra package for C++?
-I would suggest the GNU scientific library (GSL). It has been designed with high quality linear algebra software. Supports both real and complex-valued data types. http://www.gnu.org/software/gsl/ 

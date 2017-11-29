@@ -1,1 +1,0 @@
-How I find the hostname and details for mysqli_connect in GoDaddy hosting?i try to make connect database in godaddy hosting. ip or address not to be.

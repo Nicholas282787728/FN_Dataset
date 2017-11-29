@@ -1,2 +1,0 @@
-★What is the difference between logistic regression and Naive Bayes?
-Here is a good study explaining the differences - Classiﬁcation: Naive Bayes vs Logistic Regression    Embed Quote

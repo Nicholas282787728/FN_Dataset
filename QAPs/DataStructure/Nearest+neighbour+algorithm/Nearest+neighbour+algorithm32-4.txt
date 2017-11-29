@@ -1,2 +1,0 @@
-What is the best machine learning algorithm for regression?
-• Multiple Linear Regression (MLR) • Partial Least Squares (PLS) • Support Vector Regression (SVR) • Back-Propagation Neural Network (BPNN) • K Nearest Neighbours(kNN) • Decision Trees (DT) • Gradient Boosted Machine(GBM) 

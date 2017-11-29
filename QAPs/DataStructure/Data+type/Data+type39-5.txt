@@ -1,2 +1,0 @@
-What data type should I use for n=10^18?
-Well, the int values depend a lot of the architecture. But since you need very large numbers I suppose a unsigned long long int should suffice. 978 Views

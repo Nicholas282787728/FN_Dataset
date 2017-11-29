@@ -1,2 +1,0 @@
-★What are some good open source (and possibly free) text normalization/mining/analytics tools?
-I'd go for some of the python libraries - use a combination of nltk, scikit-learn, and gensim, depending on what you are trying to achieve.    Embed Quote

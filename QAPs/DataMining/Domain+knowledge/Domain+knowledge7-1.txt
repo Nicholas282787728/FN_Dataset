@@ -1,2 +1,0 @@
-★What kind of domain knowledge is required in expert testing?For a testing engineer,
-You need to be thorough with the product you are testing. e.g if you are testing an application you must be totally sure  of the expectations it is required to fulfill when it is actually deployed. You must be fully aware of its functional behaviors, algorithms involved and KPIs that it needs to fulfill. Additional knowledge about the domain in which that particular product lies is always an added benefit. It makes you find bugs in the SUT like a fox. ;)    Embed Quote

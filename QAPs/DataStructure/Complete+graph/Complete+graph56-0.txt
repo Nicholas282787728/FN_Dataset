@@ -1,2 +1,0 @@
-Can any graph contain more triangles than the number of edges? If yes, give an example?
-I think that should be yes Consider any complete graph with more than 5 vertices (equality at 5) 

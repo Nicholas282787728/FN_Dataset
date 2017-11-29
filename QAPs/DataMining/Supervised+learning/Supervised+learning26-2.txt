@@ -1,2 +1,0 @@
-★Which computer vision datasets are often used in semi-supervised learning and/or transductive learning?
-If you want to deal with Multi-class problems , there is always the caltech dataset both 101 and 256. In many semi-supervised papers the handwritten digit dataset is used .    Embed Quote

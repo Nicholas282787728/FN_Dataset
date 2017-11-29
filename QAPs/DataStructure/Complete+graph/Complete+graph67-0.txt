@@ -1,2 +1,0 @@
-Hypothetically, how much storage would be required to store a complete data dump of the Facebook Social Graph?Please presume that we are aiming for something usable... not just a minimum storage requirement. :)
-Are we talking just the graph or do we also include photos? If it's just the actual graph then with 1.35 bn Facebook users with on average 338 friends and we assume Facebook is using a double to store each friend relation (8 bytes) that's 1,35 bn * 338 * 8 =  3.6 Tb. 

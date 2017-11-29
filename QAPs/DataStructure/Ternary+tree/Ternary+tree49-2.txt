@@ -1,2 +1,0 @@
-What CS topics should a self-taught front-end developer be learning to become a good fullstack developer?
-Thanks for A2 Apart from syntax of a backend language you should learn about architecture and development pattern. How should an MVC application look like? How do you write a maintainable code? TDD, Single responsibility of classes and methods, hexagonal architecture, domain driven design... just to name some bass words. I would suggest learning as much as possible about these topics. 

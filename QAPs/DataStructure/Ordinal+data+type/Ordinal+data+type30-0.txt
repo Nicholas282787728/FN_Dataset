@@ -1,2 +1,0 @@
-Which two branches of mathematics are not related in any known way?
-I think saying "No, math is all interconnected" is a little lazy. Look at how long this Wikipedia article is: Glossary of areas of mathematics Here are a couple stabs. Go ahead and shoot me down, if you can. Pointless topology and game theory Ordinal arithmetic and spherical geometry Type theory and analytic combinatorics Quantum field theory and Ramsey theory Representation theory of the Lorentz group and information theory 

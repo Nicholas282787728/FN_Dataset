@@ -1,2 +1,0 @@
-★How do I find the mean of the reciprocal of the normal distribution?i.e. of 1/NormalDistribution[[Mu], [Sigma]]
-I'll take this to mean we'd like to find , where . By definition this is simply equal to This diverges, as explained by Michael Hochster in the comments to this answer.    Embed Quote

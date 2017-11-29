@@ -1,2 +1,0 @@
-Big Data: What kind of data science could you do with the usage information of a ski resort?
-A2A I would definitely focus on trying to solve the Cold start problem. Now seriously, this is not the right question to ask. Ever. As a Data Scientist you don't take data you have and ask what you can do with it. You find a problem and ask yourself what data you need to solve it. 

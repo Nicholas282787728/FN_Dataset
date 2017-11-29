@@ -1,2 +1,0 @@
-★What are some popular software packages for graphical models?Follow-up on Software Packages for Graphical Models by Kevin Murphy.
-Commercial: Hugin  (Home) -   The Hugin Tool for Learning Bayesian Networks , paper from '89:  HUGIN (cited in Probabilistic Graphical Models by Koller & Friedman, p.316 as state-of-the-art BN package)Open-Source: Bayes Net Toolbox for Matlab CRAN - Package bnlearn in R dLib - Bayesian Networks in C++ Open Bugs: FrontPage - OpenBUGS Related: What are some good implementations for probabilistic graphical models?    Embed Quote

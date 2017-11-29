@@ -1,2 +1,0 @@
-How do I design a distributed hash table?
-Don't Do ItThere are lots of them out there already. The world doesn't need another one and you aren't going to do as good of a job as these projects have. http://basho.com/riak/ http://www.project-voldemort.com... Do It AnywaysFeel free to ignore my plea and embark on this fools errand anyhow. If you do you should read up on those that have gone before you. Dynamo: amazon’s highly available key-value store Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications 1.4k Views · 3 Upvotes

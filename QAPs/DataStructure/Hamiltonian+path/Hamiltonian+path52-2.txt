@@ -1,1 +1,0 @@
-What is the best method to connect a network of points, ensuring that all are connected and that each point only has at most 2 connections?

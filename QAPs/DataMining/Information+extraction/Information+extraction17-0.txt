@@ -1,2 +1,0 @@
-★What are some good open source software/libraries for Information Extraction from the web?
-Heritrix. can easily combine with lucene and hadoop nutch. scalability, excellent performance    Embed Quote

@@ -1,2 +1,0 @@
-★What's the best IRC client for Mac OS X?I've been using Colloquy, but wonder if there are better options.
-Coming in very late, but I've grown fond of Textual. http://www.codeux.com/textual/ It's not perfect, but it suits me better than Colloquy or Adium. I'm still looking for perfection.

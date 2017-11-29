@@ -1,2 +1,0 @@
-What chapters should I read from Rosen's discrete math book for the GATE CSE?
-I would rather ask you to read the GATE book by GK publishers. I think GATE is an objective exam, there is not much emphasis on understanding concepts. Practicing objective questions is more important. 

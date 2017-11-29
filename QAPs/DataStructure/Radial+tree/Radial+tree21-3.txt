@@ -1,2 +1,0 @@
-Classification (machine learning): How do I design a classifier for this data set?
-SVM with a radial basis function will be the first choice. Boosted trees methods like treenet will also work well. This is a easily classifiable scenario just not linearly seperable 

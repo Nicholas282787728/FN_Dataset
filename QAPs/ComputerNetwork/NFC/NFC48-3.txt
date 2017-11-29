@@ -1,2 +1,0 @@
-★How much data can be stored on an NFC chip?There are supposedly going to be 40-50M NFC-enabled phones on the market in 2011. As a guide for app developers, how much data should they count on being able to store/access?
-The NFC chip in itself would not used to store applications. Depending on the nature of the application it would either reside on the phone or the UICC. These can range from 128k to 512k and you are starting to see the large UICC being deployed in certain countries.    Embed Quote

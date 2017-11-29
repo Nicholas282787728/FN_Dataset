@@ -1,2 +1,0 @@
-What are the best business intelligence solutions?
-There are many business intelligence solutions out there. I'm biased because I work for BIME Analytics, and I would say it's one of the best. It's user-friendly (I can safely say that it has the best UI best on the market), affordable, powerful (very powerful calculation engine behind the simplicity), with lots of connectors for various data sources, and lots of visualizations for creating dashboards. Check our showcase if you'd like to see examples. Hope this helps!    Embed Quote 

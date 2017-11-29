@@ -1,2 +1,0 @@
-What are some examples of when Haskell's type system is better than others?
-Why would you look on Quora for such things? There are thousands of Haskell resources on the web (apart from books) that discuss that issue in great detail. HaskellWiki would be one starting point. An obvious feature of Haskell's type system that no popular languages boast is typeclasses. That would also be a good place to start. 

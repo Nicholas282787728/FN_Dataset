@@ -1,2 +1,0 @@
-★Why android set top boxes available in market does not have coaxial cable input ports?
-Because there isn't a stable/open broadcast TV stack for Android (it is a phone device OS). Each market has its own flavour of TV (ISDB-T, ATSC, DVB-T, DVB-C, DVB-S, DVB-S2, DVB-T2, DVB-C2, etc) and many more sub-variants, so adding a generic coax to a generic box isn't easy.

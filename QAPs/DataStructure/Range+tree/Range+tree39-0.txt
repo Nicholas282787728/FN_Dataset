@@ -1,2 +1,0 @@
-How do I do a range update in a segment tree without using lazy propagation?
-See if this code from Shobhit Chaurasia helps: shobhit6993/segment_tree.cpp 

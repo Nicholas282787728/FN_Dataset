@@ -1,2 +1,0 @@
-What are some of the most influential books in data mining?
-My answer may be biased, but I'd cast my vote for V. Vapnik's "Statistical Learning Theory" book (http://www.goodreads.com/book/sh...), which is currently in my reading list. The book is by no means very readable. But I'm personally impressed how Vapnik amalgamates various theoretical results in mathematics and philosophy for inventing the rigorous background of machine learning.    Embed Quote 

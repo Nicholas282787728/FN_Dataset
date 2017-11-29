@@ -1,1 +1,0 @@
-What algorithms and data structures are useful for computing visibility maps for voxel environments?

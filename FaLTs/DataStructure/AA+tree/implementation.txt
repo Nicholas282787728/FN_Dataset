@@ -1,2 +1,0 @@
-Popular data structures implementing this type of tree include:
-AA tree AVL tree Red-black tree Scapegoat tree Splay tree Treap

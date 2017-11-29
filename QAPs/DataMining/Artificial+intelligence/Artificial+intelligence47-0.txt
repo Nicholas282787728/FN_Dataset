@@ -1,2 +1,0 @@
-Who is the father of Artificial Intelligence?
-John McCarthy (computer scientist) 1] Coined the term "artificial intelligence" 2] In 1960, wrote the paper "Programs with Common Sense". 3] Developed LISP - LISP was supposed to be a step towards AI and it almost was given that LISP was used to develop MicroPlanner which then was used to build SHRDLU. 4] He was the co-founder of MIT AI Lab and founder of the Stanford AI Lab. 5] He also was the co-organizer of the first conference on Artificial Intelligence [A]. [A] History of artificial intelligence    Embed Quote 

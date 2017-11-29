@@ -1,2 +1,0 @@
-★Are long URLs bad for SEO?Quora uses very nice and very readable urls for its question pages.  Does the length of the URLs do more harm to SEO than the benefit gained by including good content in the URL?
-In general yes they are.... particularly if you have a lot of slashes in them. That being said it's a trade off on keyword matching so questions on this site if under a couple of hundred characters should be fully encoded into the URL. They will produce good matching.    Embed Quote

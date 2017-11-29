@@ -1,2 +1,0 @@
-★What is the difference between VoD and iPTV?
-VoD stands for Video on Demand - typically delivered as unicast stream to end users. See Netflix as example of VoD service. IPTV stands for TV via IP networks - typically delivered as multicast stream to end users.

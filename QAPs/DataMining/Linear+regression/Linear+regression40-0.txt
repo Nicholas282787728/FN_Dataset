@@ -1,2 +1,0 @@
-★How is the significance of a predictor variable in multiple linear regression determined?
-The significance of predictor variable in linear regression is decided by the p-value of Student's t-test on . Normally, the null hypothesis is that equals to zero, and the test statistic is, where k is the number of predictors. For simple linear regression, the test statistic is . The null hypothesis can be rejected when , and the p-value equals to .    Embed Quote

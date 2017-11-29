@@ -1,2 +1,0 @@
-★Can you integrate an amplifier and a switching circuit on the same substrate?
-If the real question is whether one can integrate digital circuitry with analog, the answer is yes; however, there is usually two separate grounds, VGND and AGND.  In some cases, the analog voltage is different(usually higher), so there will be separate inputs for that.

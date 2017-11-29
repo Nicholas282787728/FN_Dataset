@@ -1,2 +1,0 @@
-★Does gradient descent only work under unconstrained conditions?
-You can adapt gradient descent to work on constrained problems.  One popular approach is the barrier method.  This is explained in chapter 11 of Boyd and Vandenberghe for Newton's method; the approach for gradient descent is largely the same. (There are other approaches as well, which will be discussed in any text on nonlinear optimization.)    Embed Quote

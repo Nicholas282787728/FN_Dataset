@@ -1,2 +1,0 @@
-★Mathematical Optimization: Is there a distributable algorithm to solve or approximate a linear program?Guess there are lots of papers on the technique, but is there a software package in C or Java, or even Matlab/R?
-There are plenty.  Just go to your favorite search engine and ask it for "distributed linear programming".  Is there something specific that you're looking for?    Embed Quote

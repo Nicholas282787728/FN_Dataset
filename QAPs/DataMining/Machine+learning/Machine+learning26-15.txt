@@ -1,2 +1,0 @@
-★What are some good books on machine learning?
-I'll add my 195-page e-book to the list. Whether it is good or not - the judgement is left to readers. Predicting movie ratings and recommender systems, A. Paterek The e-book contains a general introduction to machine learning / predictive analytics.    Embed Quote

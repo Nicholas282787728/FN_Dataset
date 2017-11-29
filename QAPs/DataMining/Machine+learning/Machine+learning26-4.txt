@@ -1,2 +1,0 @@
-★What are some good books on machine learning?
-I started out with this one: The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman It's pretty decent, assumes undergrad level math and worked well for me.    Embed Quote

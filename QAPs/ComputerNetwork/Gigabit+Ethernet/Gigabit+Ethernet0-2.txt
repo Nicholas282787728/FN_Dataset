@@ -1,2 +1,0 @@
-★When will 10 gigabit Ethernet overtake 1 gigabit Ethernet in deployment?
-When it is inexpensive enough for everyday use. The cost/ benefit ratio doesn't work for everyday desktop deployments at this time. Environments utilizing iSCSI-based virtualization are an example of an application that today might warrant 10GB ethernet to the desktop.

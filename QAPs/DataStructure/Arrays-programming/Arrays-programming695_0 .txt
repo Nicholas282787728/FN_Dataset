@@ -1,1 +1,0 @@
-Are arrays objects in Java?Each and every other datatype you use in Java is an Object. The Object class is the superclass of every other datatype and all datatypes are subclass of the Object class. The java.lang.Object class denotes the object class. So, in conclusion, arrays are also an object in Java. 157 Views  View Upvotes

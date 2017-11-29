@@ -1,2 +1,0 @@
-What in the scvngr list of game mechanics are actually game mechanics?
-If you look at the 5 elements required to qualify as a game:   Occurs in non-real space, Goal(s), Challenge(s), Rules and End/Win stateYou could describe a game mechanic (a slang term I do not care for) as the intersection of goals, challenges and rules.   A game mechanic then, is a reusable unit of game content that involves a goal, blocked by a challenge, where your solution is limited by rules. 

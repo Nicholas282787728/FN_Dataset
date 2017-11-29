@@ -1,1 +1,0 @@
-What SQL features does Cloudera's Impala not have?

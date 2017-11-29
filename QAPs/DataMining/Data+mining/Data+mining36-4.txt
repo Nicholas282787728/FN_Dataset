@@ -1,2 +1,0 @@
-What is the best software to implement machine learning/large scale data mining algorithms?
-If you have the chance to use SAS or Enterprise Miner I would take it.  Especially if you intend to be using large scale data sets. Since it is also a commercial product, SAS Documentation is also top-notch.  JMP (also by SAS) has great visualization capabilities. The algorithms SAS provides accomodates most of the mainstream algorithms which have proven worth. However if you are really intent on writing your own algorithms, "R" would be a better choice.    Embed Quote 

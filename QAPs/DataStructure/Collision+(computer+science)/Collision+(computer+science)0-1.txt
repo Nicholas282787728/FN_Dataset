@@ -1,2 +1,0 @@
-Why is it unlikely that any two non-identical files, in the real world, will not have the same md5 hash?Or is it?
-According to this answer in Cryptography Stack Exchange http://crypto.stackexchange.com/... MD5 is a 128-bit hash, so for two random files that differ the probability that they have the same MD5 hash is 2 128   . If they are encrypted with strong encryption, their encrypted versions will be random files with again 2 128   probability of having the same hash. The chance that both happen for the same files is then 2 256 .  

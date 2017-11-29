@@ -1,2 +1,0 @@
-Computer Graphics: How do I represent the voxel in different formats (eg. rectlinear, structure grid)?
-Rectilinear voxels are most (?) commonly represented by octree data structures. 

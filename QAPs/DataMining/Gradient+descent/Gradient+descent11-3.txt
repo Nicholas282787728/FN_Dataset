@@ -1,2 +1,0 @@
-★Convex Optimization: Why use gradient descent when the normal equation exists?
-Best way to figure out this question is perhaps try to implement these two methods, without any linear algebra libraries. Computer science is not exactly mathematics :)    Embed Quote

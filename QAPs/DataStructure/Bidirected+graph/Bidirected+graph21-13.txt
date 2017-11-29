@@ -1,2 +1,0 @@
-I am confused whether to use angular.js, underscore.js react.js, ember.js or backbone.js for my next project. Can someone help me with material which states which type of web apps each library rocks at?
-Great blog on React vs Angular - Coming to React from Angular 

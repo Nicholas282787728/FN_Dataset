@@ -1,1 +1,0 @@
-The UB-tree as proposed by Rudolf Bayer and Volker Markl is a balanced tree for storing and efficiently retrieving multidimensional data.

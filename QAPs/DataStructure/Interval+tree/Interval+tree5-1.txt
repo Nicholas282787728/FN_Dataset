@@ -1,1 +1,0 @@
-Can someone be expected to code interval trees in an interview with a big tech company?Insert, update, query operations for interval/segment trees are pretty difficult to code. Would you be expected to code it in a interview with companies like Palantir or Facebook or Google?

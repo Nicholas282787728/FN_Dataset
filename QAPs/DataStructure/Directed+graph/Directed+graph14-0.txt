@@ -1,2 +1,0 @@
-What algorithm can enumerate all biggest cycles in a directed graph?
-Determining whether there’s a cycle that visits every node in the graph is an NP-complete problem known as the Hamiltonian path problem. Since enumerating the biggest cycles would answer this question, no known efficient algorithm can do it. You can do it with backtracking, but it takes exponential time. 223 Views · 2 Upvotes

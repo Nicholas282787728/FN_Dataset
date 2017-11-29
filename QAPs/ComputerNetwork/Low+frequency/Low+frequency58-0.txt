@@ -1,2 +1,0 @@
-★Can multiple small speakers, instead of a single big speaker be used to generate low frequencies at moderate volume levels?
-Swept volume = (surface area * linear excursion) Unfortunately not many 4-inch drivers have as much excursion as regular 8-inch drivers. (You can't measure linear excursion range by hand, because it depends on voice coil and magnetic gap lengths.) Get a loudspeaker modelling software, it will make this design job much easier to succeed in.    Embed Quote

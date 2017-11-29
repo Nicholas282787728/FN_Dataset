@@ -1,7 +1,0 @@
-How do I conect other computer in local network by Mac address?You can¡¯t connect to MAC addresses because MAC addresses are used to transmit raw 802.3 ethernet frames.
-
-They aren¡¯t a connection oriented protocol, they¡¯re a raw datagram protocol.
-
-On top of that raw datagram protocol is the IP (Internet Protocol) layer. That¡¯s where your IP address lives. It¡¯s an unreliable protocol built on top of 802.3 frames.
-
-On top of the IP layer lives a connection oriented protocol layer, usually the TCP (Transmission Control Protocol) layer. But it could also be RTSP (Real Time Streaming Protocol) or some other connection oriented protocol.

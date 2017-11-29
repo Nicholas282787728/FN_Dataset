@@ -1,2 +1,0 @@
-★What is required to create a simple knowledge-based search?
-You write a set of queries  that will perform this for you. But there is a limit to how smart the search can be. What I mean is that you have to set some criteria to let the service know what to look for. For example: how will the search know that when you type "Google" the other time, you actually want it to look for people that used to work for Google. You set some filters that that the user searching the database is using to build the query dynamically.    Embed Quote

@@ -1,2 +1,0 @@
-★How can I connect to an ftp server with Linux?i want to know how file tranfer by ftp server
-The best FTP client, in my humble opinion, is FileZilla --> http://filezilla-project.org/ Try It!!

@@ -1,2 +1,0 @@
-★How interconnected is the Internet?Is it possible to visit any page from any other page using only links on the page?
-sure especially if the starting page is google ...  (but you still cant get to internal internets (intranets/localhosts/authenticated pages/etc) if the starting page has no links than probably not ... but at somepoint you will almost always be able to get to a search engine    Embed Quote

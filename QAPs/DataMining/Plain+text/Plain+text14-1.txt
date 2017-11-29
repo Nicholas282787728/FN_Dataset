@@ -1,2 +1,0 @@
-★Is it possible for encrypted material to appear as if it were plain text?That is to a large extent it would not be considered to be encrypted by a casual, or non casual viewer
-Yes easy. Just use a text cypher where the nth letter in the xth word (repeat by x) makes up your message. You will have to write the whole text, though, all the superfluous words...    Embed Quote

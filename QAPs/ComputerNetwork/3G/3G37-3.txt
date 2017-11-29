@@ -1,2 +1,0 @@
-★What is difference between 4G and 3G LTE?
-3G is also known as UMTS. This was a W-CDMA technology, Access network was based on ATM with some evolution to IP. Had a seperate voice and data network. HSPA+ is also a W-CDMA technology. Network has evolved towards IP quite a bit; but still seperate voice and data cores... LTE is an OFDM technology and as others have said is a pure IP network.

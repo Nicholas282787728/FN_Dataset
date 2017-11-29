@@ -1,2 +1,0 @@
-What are the best applications of Bloom filters?
-Originally Answered: Where are the uses of bloom filters?An example:  quickly check is it sure that a record does not exist in a database, to avoid a deep query on the non-exist record which may cause slow disk operation. Bloomfilter itself stays in memory and it usually consumes limited memory even if put all keys into it, compared to cache that can only contain a small part of records. 

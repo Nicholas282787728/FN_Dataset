@@ -1,2 +1,0 @@
-★What are some good resources to get started with Information Retrieval? Why?
-If you're into PHP here's a nice little site that has some good examples: http://phpir.com/    Embed Quote

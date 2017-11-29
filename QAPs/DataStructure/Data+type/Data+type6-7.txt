@@ -1,2 +1,0 @@
-What are user-defined data types?
-Originally Answered: What is a user defined data type? Well the general definition is contained in the term itself, i.e. the type of data that the variable/attribute/feature will contain is custom defined by a human being. If you are asking for application specific examples, then please state what program are you using. 120 Views

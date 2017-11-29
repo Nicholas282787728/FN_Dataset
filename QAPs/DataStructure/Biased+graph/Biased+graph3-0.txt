@@ -1,2 +1,0 @@
-What are good ways to implement bias vs variance graphs?
-You can plot the "learning curves" as done in this gist: https://gist.github.com/1540431 and explained in this blog post (summary of the ml-class.org tips and tricks): http://digitheadslabnotebook.blo... 766 Views · 4 Upvotes

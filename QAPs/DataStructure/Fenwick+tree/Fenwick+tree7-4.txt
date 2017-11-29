@@ -1,1 +1,0 @@
-What are the advantage of binary indexed tree (BIT or fenwick tree) over segment tree?It seems like both segment tree can BIT can do same tasks. What are the areas or cases where BIT or segment tree, exclusively prove to be advantageous.

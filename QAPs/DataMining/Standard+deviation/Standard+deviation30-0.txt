@@ -1,2 +1,0 @@
-★How do you draw a distribution curve of a data set if only the median, mean and standard deviation are provided?Assume the following values Mean: 60 Median: 50 Standard deviation: 20 Range of data: 0-100
-Without additional information or assumptions, you cannot do so. The range of 0 to 100 looks like it is imposed (that is, no one can get more than 100 or less than 0). That means a Gaussian cannot be strictly correct (but it might be a close fit). However, many data sets with very different distributions could have this set of values.    Embed Quote

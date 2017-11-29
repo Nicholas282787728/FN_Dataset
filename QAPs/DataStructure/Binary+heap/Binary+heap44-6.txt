@@ -1,2 +1,0 @@
-How much work did it take to get on the US IOI team?Specifically, how many hours per week, how many problems on which online judges, and how many practice contests.
-I have not participated in any OI contest before, but did participate in ICPC. I spend around 4 - 6 hours per day on solving problems (only coding / thinking time is included). In the first time I got higher than 100th place in USACO gold contest, I have roughly finish 1500 problems. So I think at least 2500 problems for making the top 4 to go to IOI. 

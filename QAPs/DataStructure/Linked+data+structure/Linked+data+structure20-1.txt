@@ -1,2 +1,0 @@
-What are the best resources to learn data structures and algorithms in Java or C?
-You can checkout these two courses provided by Peking University. 数据结构基础 Basic Data Structures and Algorithms 高级数据结构与算法 Advanced Data  Structures and Algorithms 

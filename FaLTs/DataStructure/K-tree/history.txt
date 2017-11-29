@@ -1,1 +1,0 @@
-Kneser graphs are named after Martin Kneser, who first investigated them in 1955.

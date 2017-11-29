@@ -1,2 +1,0 @@
-★Why couldn't MAC addresses be used instead of IPv4 or IPv6 addresses for networking?
-MAC addresses are essentially a serial number to a network adapter. They don't tell anything about the host network the adapter is on, which is where IP comes into play. It is more efficient to chain routing through a series of host networks than it is to lookup on a flat space.    Embed Quote

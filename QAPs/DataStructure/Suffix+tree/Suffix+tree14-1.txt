@@ -1,2 +1,0 @@
-Which book is best for advanced data structures like trie, suffix trees and many more?
-Algorithms on Strings, Trees and Sequences: Computer Science and Computational Biology: Dan Gusfield: 9780521585194: Amazon.com: Books 

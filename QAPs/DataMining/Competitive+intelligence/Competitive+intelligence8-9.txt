@@ -1,2 +1,0 @@
-Competitive Intelligence: How do you keep track of market news and competitors?
-I have used google reader for years to monitor competitors (50-100 hits per day), and a Knowledge management platform (initially Lotus database, then OpenText KMS, now Sharepoint) to archive and disseminate the relevant finds (1-5 relevant / day)    Embed Quote 

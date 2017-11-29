@@ -1,2 +1,0 @@
-★What are the best HTML5 frameworks?e.g. http://html5boilerplate.com/
-Its not possible to use each HTML5 frameworks & choose best one but i believe following are good choice : Joshfire framework , The HTML5 Media Framework , jQuery HTML5 framework for desktop, mobile app development, HTML5 data visualization ,

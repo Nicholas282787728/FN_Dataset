@@ -1,2 +1,0 @@
-★What are some awesome/cool GEMs to use in Rails?
-Rails Workflow Engine allowing to configure and build business processes with user operations, auto operations, error handling etc.

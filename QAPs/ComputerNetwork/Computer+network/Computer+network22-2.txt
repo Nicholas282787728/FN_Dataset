@@ -1,2 +1,0 @@
-★What is a socket in computer networks?
-In the era of google, wikipedia et all, this question made it all the way to Quora. Tempted to answer this: If you need mouth to talk, so you need Socket to communicate.

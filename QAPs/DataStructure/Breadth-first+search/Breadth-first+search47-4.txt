@@ -1,1 +1,0 @@
-What are the advantages of using BFS over DFS or using DFS over BFS? What are the applications and downsides of each?I know how each works.

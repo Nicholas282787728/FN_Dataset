@@ -1,2 +1,0 @@
-★Whats the diff between Big Data and Predictive Analytics?
-Big Data has to do with the quantity of data, typically in the range of .5 terabytes or more, where the capacity of relational database systems starts to degrade.  Predictive analytics has to do with the application of statistical models to existing data to forecast likely outcomes.  They're really apples and oranges.    Embed Quote

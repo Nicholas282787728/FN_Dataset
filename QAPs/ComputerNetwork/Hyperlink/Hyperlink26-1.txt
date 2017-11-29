@@ -1,2 +1,0 @@
-★How long before a hyperlink to a website is de-valued by Googlebot?
-1. It is not devalued, ever. 2. Googlebot is a crawler which has nothing to do with SERP ranks (except to find the links in the first place). 3. I highly recommend removing that request for people to link to you with a single anchor text...    Embed Quote

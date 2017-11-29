@@ -1,2 +1,0 @@
-★Are neural networks still popular in modeling?Neural networks can model almost any system given the right parameters (no, of layers, no. of nodes, etc). But, determining them is a very hard problem. So are they still popular in modeling? What problems are basically modeled using a neural network? I know that they are used to model the neurons and problems in pattern recognition and machine learning but, are they used to model anything else?
-Yes. They are all the rage as of January 2015.  Google "deep learning".    Embed Quote

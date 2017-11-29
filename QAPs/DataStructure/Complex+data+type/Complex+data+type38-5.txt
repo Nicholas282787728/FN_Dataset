@@ -1,2 +1,0 @@
-What advantages C++ offers as compared to C in competitive programming landscape?
-Just one: STL (Standard Template Library) Rest all depends on one's personal choice. 

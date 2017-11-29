@@ -1,2 +1,0 @@
-★Why is there no iPv5 after iPv4?
-IPv4:      4 * octet = 32 bits (2^32 Mac Addresses may get occupied in future) IPv6:     Designed to form 6 * octet = 48 bits (2^48  Mac Addresses are safe!) Same reason for IPv5 as IPv4.

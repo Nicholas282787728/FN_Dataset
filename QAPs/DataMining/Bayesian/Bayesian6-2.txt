@@ -1,2 +1,0 @@
-What is a good way to learn about Bayesian methods?
-I like the introductory videos by Jarad Niemi: Bayesian inference.  I would focus on the central idea: updating a Prior (assumptions) to a Posterior (assumptions + data).  These videos can be technical at times but they have some nice example applications.  I would suggest starting with these videos: 1) Bayes' Rule (medical testing example): 2) Bayesian Statistics: 3) Bayesian Parameter Estimation (basketball example):    Embed Quote 

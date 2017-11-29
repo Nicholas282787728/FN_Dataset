@@ -1,2 +1,0 @@
-How can I implement an English dictionary?
-the dictionary is not stored in a database. it's stored in a text file or gunzip file. Free english dictionary files can be downloaded from this URL: dicts.info/dictionaries.php. The easiest free dictionary file will be in the format of: word1 explanation for word1 word2 explanation for word2 There are some other formats as well. but all are stored in either text file or text.gz file. Python Tutorial: Dictionaries 

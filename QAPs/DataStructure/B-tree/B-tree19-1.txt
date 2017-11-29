@@ -1,2 +1,0 @@
-What does the 'B' stand for in B-Tree?
-The origin of "B-tree" has never been explained by the authors. As we  shall see, "balanced," "broad," or "bushy" might apply. Others suggest  that the "B" stands for Boeing. Because of his contributions, however,  it seems appropriate to think of B-trees as "Bayer"-trees.  (Comer 1979, p. 123 footnote 1) https://en.wikipedia.org/wiki/B-... 474 Views · 2 Upvotes

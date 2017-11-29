@@ -1,2 +1,0 @@
-★Why is DNS Pollution considered so bad?
-Their servers, their rules, but it doesn't strike me as compelling unless there's some interaction with the UI they're not spelling out. Some towns make you sign agreements to get your house colors approved by a local board before painting, whatever.

@@ -1,2 +1,0 @@
-★HTML5: What are the most important client-side (HTML5/CSS/JavaScript) libraries and why?I defer to the quora community to define "important" through the use of upvotes, as that's largely inevitable anyways.
-Adding more to the list : Raphaël :  For Vector Graphics Reflection.js : to create reflection effects Date.js : for Date manipulations Pretty Date  : another date manipulator by John Resig JsLoad : Remote loading API of JavaScript library.

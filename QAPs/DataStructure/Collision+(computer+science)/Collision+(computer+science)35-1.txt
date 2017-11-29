@@ -1,2 +1,0 @@
-Is a rigorous formal understanding of the big-O/theta/omega notation necessary to apply it successfully in computer science?
-No. But it's also really not that hard to understand. Asymptotics. Limits. This is just freshman calculus material. 

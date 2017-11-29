@@ -1,2 +1,0 @@
-★Why will a wireless router change on its own?
-The router configuration is stored in flash memory, and it's possible for flash memory to change spontaneously as it gets older. It's also possible for programming errors in the router firmware to result in unexpected configuration changes. Last but not least, routers can be vulnerable to attackers, who change the configuration to suit their purposes. Make sure your router is secured.    Embed Quote

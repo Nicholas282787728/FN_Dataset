@@ -1,2 +1,0 @@
-Is it right to put it this way: math is the study of objects that are defined using sets?
-to quote Terence Tao analyzing a different but analogous version of reductionism (see 254A, Notes 0: A review of probability theory), "that would be like calling number theory the study of strings of digits which terminate". 

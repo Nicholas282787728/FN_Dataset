@@ -1,2 +1,0 @@
-★How could I test if there is any DHCP server on the network?I'm using RHEL.
-Kelly Martin's answer is correct, the easy way of doing this is by just putting a PC that's configured to use DHCP on this LAN.  Your PC will send out the Discover packets and if there is a DHCP server that can hear it will reply. You can further examine the transaction by installing Wireshark · Go Deep.  Run a capture, on the ethernet interface, during the DHCP transaction and then you can see the full transaction and all the options and sub-options.

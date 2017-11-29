@@ -1,2 +1,0 @@
-★Can a fiber Internet cable terminate in Ethernet?
-Note that there is usually at least a media converter box, modem, or router to do this.

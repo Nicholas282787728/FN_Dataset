@@ -1,2 +1,0 @@
-What are some examples of domain specific languages?Such as CSound for example.
-Gemfiles in Bundler are a good, kinda minimal DSL: http://gembundler.com/gemfile.html 

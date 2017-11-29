@@ -1,2 +1,0 @@
-★What is the most important computer networking protocol?
-If I had to take only one or two names. TCP/IP protocols. HTTP and others are required at application layer level, for simple networking basic need is TCP/UDP.

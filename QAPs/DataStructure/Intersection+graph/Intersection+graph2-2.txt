@@ -1,1 +1,0 @@
-How do I find intersection points of polar graphs in TI Nspire CX?I am trying to find the intersection points of polar graphs in my Ti nspire cx cas. However, the calculator does not seem to recognize the polar graphs as functions. It tells me to select graphs, but they cannot be selected.

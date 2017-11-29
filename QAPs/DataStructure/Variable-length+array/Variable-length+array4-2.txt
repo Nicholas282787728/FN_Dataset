@@ -1,2 +1,0 @@
-To what extent is C a subset of C++?
-To no extent, this is a mischaracterization of the relationship o C and C++. C came first. C++ is a language built upon the backbone of C. 

@@ -1,2 +1,0 @@
-Which is the most Bug prone algorithm to code?
-Seg trees (range trees) are quite prone to seg faults. 

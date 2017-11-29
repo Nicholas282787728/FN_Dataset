@@ -1,2 +1,0 @@
-★How is Digital Ocean providing free bandwidth?I came across Digital Ocean's (Simple Cloud Hosting) offering of Free Bandwidth. Will they be able to provide it in long term, and won't it prove to be bottlenecks as number of users increases.
-@Goldpuma can you stop hijacking this answer thread, you are just another godaddy tail jumping ahead giving un-valuable suggestions.

@@ -1,2 +1,0 @@
-★What is the best way to store time series data in MongoDB?
-To my knowledge, storing each element of the time series as an element is a must. Then you may not need to worry about indexing issues or something like this in the lower level, because the key-value-based DB can do it for you. As long as you want to search or sort, the time stamp becomes a key so it is handy to have many functions. It would be even better if you have time series from different locations and multiple sources.    Embed Quote

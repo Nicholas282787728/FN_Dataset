@@ -1,1 +1,0 @@
-Is it possible to have a connected cyclic graph with no. of edges = (no. of nodes) -1?prove with exampleno of edges = no of nodes - 1 is a property of a tree. Trees don’t contain cycles. So it is impossible to have a continuous cyclic graph which satisfies that property. 22 Views · View Upvotes · Answer requested by 1 person

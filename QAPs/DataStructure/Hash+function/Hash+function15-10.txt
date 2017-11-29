@@ -1,1 +1,0 @@
-What should every programmer know about hash tables and hash functions?

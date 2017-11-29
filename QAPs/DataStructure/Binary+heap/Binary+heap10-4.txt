@@ -1,1 +1,0 @@
-Can we reduce the running time of huffman code to O(log log n) by replacing the binary heap with Van Emde Boas tree?

@@ -1,2 +1,0 @@
-What are the disadvantages of line graphs over bar graphs?
-Advantages Show relationships between 2 or more variables Good visual impression of trends and changes Can show positive and negative values Simple to construct and read Disadvantages Plotting too many bars makes it appear cluttered - less easy to interpret If there is a wide range of data it is difficult to read accurately... (more)

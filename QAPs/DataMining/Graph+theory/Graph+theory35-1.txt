@@ -1,2 +1,0 @@
-★What are real-world problems that graph theory can solve?
-One real-word problem solved by graph theory is finding the shortest path between two given points. Shortest path algorithms are widely used due their generality. http://en.wikipedia.org/wiki/Sho...    Embed Quote

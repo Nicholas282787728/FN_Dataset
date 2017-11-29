@@ -1,2 +1,0 @@
-What are "preimages" in the context of cryptographic hash functions?This is a follow-up question to How secure is MD5?.
-If 'X' is your data(message), 'H' is your cryptographic hash function and 'Y' is the output: Y=H(X) then X is the preimage of Y. If you find another X' s.t. X'!=X and H(X')=H(X) then X' is the second preimage of Y. 

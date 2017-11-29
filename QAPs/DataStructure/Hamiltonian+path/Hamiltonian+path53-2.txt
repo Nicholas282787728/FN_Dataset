@@ -1,2 +1,0 @@
-Why is the traveling salesman problem NP complete?
-I don't know if there's a "why," really, or what kind of reason you mean.  But the most immediate reason is that there's no polynomial-time algorithm to solve it without prior knowledge of what choices are correct. The only way to find the solution is to enumerate all possible solutions and check them for length. 

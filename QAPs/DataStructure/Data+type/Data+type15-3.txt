@@ -1,2 +1,0 @@
-Is String data type?
-First of all see… Primitive Data Types in java Java defines the following eight primitive data types and they are reserved words. byte short int long float... (more)

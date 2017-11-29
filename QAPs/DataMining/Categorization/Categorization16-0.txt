@@ -1,2 +1,0 @@
-How do the deal aggregators categorize their deals?
-Redeemio.com categorizes deals with an algorithm that parses the descriptions as they come in, which then scores them for categorization and places them into the correct categories. Word on the street was that Yipit was curating deals into categories by hand but I think they probably do it automatically now, you can always ask Jim Moran who is very active on Quora.    Embed Quote 

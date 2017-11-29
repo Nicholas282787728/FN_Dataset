@@ -1,2 +1,0 @@
-What are all the data structures that you have come to know about? Which of these do you use very frequently? Group them in "Basic" and "Advanced".
-I have chosen the data structures based on what I have mostly used for my projects at school and at work. In general most of my projects have been done using the simple data structures, only in few situations have I used the complex ones. Simple Linear: Arrays Linked Lists Stacks Queues Disjoint Set Linked List... (more)

@@ -1,2 +1,0 @@
-★Why DHCP is not used at IITB (or at any IIT) for IP allocation?
-Static IP allocation is generally preferred over DHCP in Colleges This is because with static IP tracing back the person would be easy in case of any cyber crime or complaints. However, even with DHCP tracing can be done but the colleges needs to maintain a very big data logs to store the time,ip,mac allocations etc.

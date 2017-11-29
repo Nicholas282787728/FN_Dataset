@@ -1,2 +1,0 @@
-Is there a C++ data type that can hold numbers with more than 20 digits?
-Just use GMP. That's what it's for! 

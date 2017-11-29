@@ -1,1 +1,0 @@
-Is decision tree a linear model? If so, Why is it so?I am completely sure but I think it is because it partitions the vector space linearly as shown below compared to few other classifiers 349 Views  View Upvotes

@@ -1,2 +1,0 @@
-★What approaches exist for data-mining time series?
-Among others, you have classification (e.g., see http://arxiv.org/abs/0811.3301), and segmentation (see http://arxiv.org/abs/0709.1166 and http://arxiv.org/abs/cs.DB/0605103).    Embed Quote

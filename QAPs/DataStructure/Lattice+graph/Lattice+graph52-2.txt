@@ -1,2 +1,0 @@
-What is the difference between homomorphism and homeomorphism?
-When I think homomorphism I think about algebraic symbols: [math]\phi(A \ast B) = \phi(A) \ast \phi(B)[/math] i.e. "I can do unary operation [math]\phi[/math] before or after binary operation [math]\ast[/math] and therefore these parentheses can be adjusted". Purely symbolic. When I think homeomorphism I think about the intersection of geometry & topology: continuous deformations that still leave thing X "the same". 

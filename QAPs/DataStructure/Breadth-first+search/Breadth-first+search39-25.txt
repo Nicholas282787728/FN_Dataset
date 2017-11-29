@@ -1,2 +1,0 @@
-How can one be well prepared to answer data structure/algorithm questions in interviews?
-Originally Answered: What is the best way to prepare data structure for an interview?Go for Page on geeksforgeeks.org. solve all questions on 1) Arrays 2)  Link list 3)  Trees 4) Dynamic programming. If you want elaborated list refer :http://www.geeksforgeeks.org/fun... By solving i mean write code in any language you prefer and then test it. This later part is very important. Also to remind you you must solve as many problems as from http://www.geeksforgeeks.org/fun.... All the best!! 

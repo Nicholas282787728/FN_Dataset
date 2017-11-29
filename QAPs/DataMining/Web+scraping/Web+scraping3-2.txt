@@ -1,2 +1,0 @@
-★What is the future of web scraping?
-Web scraping is awesome in terms of data you can get access to. Unless there is a new data ownership/privacy regulation that will restrict web scraping, or until there are sufficient, reasonably-priced data in dramarkets, it's sticking around for a long time. There will be more automated, easier to use tools.    Embed Quote

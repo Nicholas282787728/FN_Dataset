@@ -1,2 +1,0 @@
-In which cases should I prefer a linked list over any other data structure?
-When you need to random insert/delete elements from the list. Please refer to implementation of ArrayList and LinkedList in JDK. and pick up one of below books to read two or three times: Introduction to Algorithms, 3rd Edition Data Structures and Algorithms in Java, 6th Edition if you haven't read any book about data structures yet. 

@@ -1,2 +1,0 @@
-★Are there limitations for Cloud Code by Parse?
-In addition to resource limitations mentioned by Sinchan Banerjee, the limited ability to debug code can be frustrating. As there is no debugger, you must resort to printing debug statements to the log in many cases. This is made even more difficult because of a limit to the number of log messages that can be output from a single cloud code function. Those are some of the issues we've run into, but that's not to say that the cons outweigh the pros!    Embed Quote

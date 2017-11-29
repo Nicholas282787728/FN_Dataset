@@ -1,2 +1,0 @@
-★What is the most reliable DNS service provider?Like openDNS, EasyDNS, etc ... there are several, I am looking for reliability.
-I've read a lot of good things about route53, the DNS service from Amazon and it looks like they are a solid option if you host on top of AWS already (on the other hand, you're giving a lot of control to Amazon). On top of the namebench service ( https://code.google.com/p/namebe... )already mentioned by Ben Metcalfe, I'd recommend trying cloud harmony's DNS test service at http://cloudharmony.com/dnstest

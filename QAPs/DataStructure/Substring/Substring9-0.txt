@@ -1,2 +1,0 @@
-Is there an RE for a string without substring bb?
-Sure. It's a regular language, it must have a regex. For an easy way to construct a regex just say the same condition in other words: between any two consecutive "b"s there must be at least one other letter. 

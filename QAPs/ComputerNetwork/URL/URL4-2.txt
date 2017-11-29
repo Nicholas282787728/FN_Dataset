@@ -1,2 +1,0 @@
-★Are long URLs bad for SEO?Quora uses very nice and very readable urls for its question pages.  Does the length of the URLs do more harm to SEO than the benefit gained by including good content in the URL?
-People see the URL in search results. It has semantic value. A URL that's easier to understand will get more clicks, and more clicks mean higher rankings.    Embed Quote

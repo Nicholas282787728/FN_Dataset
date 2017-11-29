@@ -1,2 +1,0 @@
-★Is LDA (latent dirichlet allocation) unsupervised or supervised learning?
-Original LDA is unsupervised learning algorithm, while Labeled-LDA and Multi-Grain LDA, another topic model for classification and sentiment analysis, are supervised algorithm.    Embed Quote

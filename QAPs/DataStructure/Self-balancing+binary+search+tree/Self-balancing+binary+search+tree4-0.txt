@@ -1,2 +1,0 @@
-Difference between binary search tree and red black tree?
-A regular Binary Search tree is not self balancing, meaning depending on the order of insertions you will get different time complexities. For example; if you inserted in order {2, 3, 1}, the BST will be O( log(N) ) however if you inserted {1,2,3}, the BST will be O( N ), like a linked list.A Red Black tree however will reorganise itself so that you will always get O( log(N) ) complexity. In short; Red Black Tree : best case O(logN), worst case O(logN) Binary Search Tree: best case O(logN), worst case O(N) 

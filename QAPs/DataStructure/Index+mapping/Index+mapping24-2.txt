@@ -1,1 +1,0 @@
-In Elasticsearch, how do I get a list of the top 10 most frequently occurring values of a field?

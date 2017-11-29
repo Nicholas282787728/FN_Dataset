@@ -1,2 +1,0 @@
-★What is an intuitive explanation of stochastic gradient descent?
-Generally speaking, instead of taking a large step towards the steepest slope on a hill, in stochastic gradient descent you take small steps, which happens to be much faster in practice. You don't have to sum over all the training examples to compute the gradient, you compute the gradient for each training example or small batches at a time.    Embed Quote

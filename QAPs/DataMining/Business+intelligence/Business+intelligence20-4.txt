@@ -1,2 +1,0 @@
-Are small businesses interested in Business Intelligence (BI) software?
-It is expensive to do themselves or using cloud solutions - tech skills, infrastructure and ROI standpoint. My humble opinion: small business don't usually have enough data volume to have formal BI. There are some open source and cloud solutions are available, again ROI is question on the table. MS Excel is kind of Swissknife to do most of the base BI activities.    Embed Quote 

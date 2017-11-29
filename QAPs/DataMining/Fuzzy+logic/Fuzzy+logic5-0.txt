@@ -1,2 +1,0 @@
-★Does Google use Fuzzy Logic in its Search Engine?
-One place I know they use it is to look for related words in a query. For instance, if you entered "photos of Rick James" it would look for the words picture, pic, etc.    Embed Quote

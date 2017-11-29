@@ -1,2 +1,0 @@
-Are "vertex cut" and "cut vertex" the same thing in graph theory?I am confused by the investigation What is "cut ideal" or elaborately "ideals from cuts" in graph theory? where ProofWiki "cut vertex" where only one vertex and "vertex cut" where many vertices. Then again the speaker uses "vertex cut" and "cut vertex" interchangeable.
-A vertex cut of a connected graph G  is a set of vertices whose removal renders G  disconnected. A cut-vertex is a vertex cut that consists of only one vertex. 

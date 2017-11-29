@@ -1,2 +1,0 @@
-What do nodes in phylogenetic trees indicate?
-If drawn properly, they indicate the last common ancestor from which the branches evolved. 132 Views

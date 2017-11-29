@@ -1,2 +1,0 @@
-What is the difference between b-tree and m-way tree?
-A binary tree is a special case of an m-way tree with only one "value" per node (m = 1) and you either move down to the left or the right link. +----+ | 20 | +----+ | | +----+ +----+ | | +----+ +----+... (more)

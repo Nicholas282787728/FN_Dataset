@@ -1,2 +1,0 @@
-★How would you find intervals of positive and negative in quadratic, exponential, and linear functions?
-Find all the points at which the function is equal to zero.  Test a convenient point on each interval between two consecutive zeros.  If the point is positive, the interval is positive, if the point is negative, the interval is negative.    Embed Quote

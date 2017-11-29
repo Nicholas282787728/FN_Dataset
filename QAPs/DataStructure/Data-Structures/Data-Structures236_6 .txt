@@ -1,1 +1,0 @@
-What is the difference between keys and values in binary search trees in Java?I think this will help you Node consist of the 2 pairs . key and the value. key is used to insert the node to the correct place in binary tree. values is the nodes value it can be any data type. this is the information that the node have . 69 Views  View Upvotes

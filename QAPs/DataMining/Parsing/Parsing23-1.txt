@@ -1,2 +1,0 @@
-★What's the best way to parse a resume into database fields?What do you do if you have lots of resumes and need the data to be extracted (e.g. get their university) into individual items that can be placed into a Database?
-Jeff Hammerbacher's answer is good. One additional thing is that LinkedIn has hResume support (http://steve.ganz.name/blog/2007...). If all the resume's you are processing had an uptodate LinkedIn profile (or could be pursuaded to fill it in) then the parsing problem gets a lot easier.    Embed Quote

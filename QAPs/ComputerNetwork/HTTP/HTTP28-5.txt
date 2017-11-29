@@ -1,2 +1,0 @@
-★If HTTPS is more secure than HTTP, why don't all websites use HTTPS?
-Compared to HTTP, HTTPS is CPU and memory intensive. 5 years ago it made sense to use HTTPS only when you have to. It doesn't matter anymore.

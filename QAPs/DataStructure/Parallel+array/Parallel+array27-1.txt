@@ -1,2 +1,0 @@
-What is the use of restrict keyword in C99?
-This writeup on wikipedia is pretty good: restrict.  It appears that C++ has compiler-specific implementations at the moment and will likely add to the standard soon. You are promising the compiler that you won't use another pointer variable to point at the same memory during the life of the "restrict"ed pointer. This allows optimizing compilers to do a lot of FORTRAN-inspired tricks to parallelize processing of arrays. 

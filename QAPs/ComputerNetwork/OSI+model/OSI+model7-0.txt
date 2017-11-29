@@ -1,2 +1,0 @@
-★Does the Internet use the TCP/IP or the OSI model?
-Thank you for allowing us to help you with your homework. Please have your instructor forward us the grade. The Internet uses the TCP/IP model, and more importantly, the TCP/IP protocol stack.    Embed Quote

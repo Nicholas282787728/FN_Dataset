@@ -1,2 +1,0 @@
-What are real life applications of trees?
-the dictionay we use is based on a special data structure called try which is also a type of tree data structure.this is one implementation. 

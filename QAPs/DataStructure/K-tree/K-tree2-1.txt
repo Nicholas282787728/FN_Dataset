@@ -1,2 +1,0 @@
-How does a k-d tree work to find the K nearest neighbors?
-Jon Bentley, who I think is an excellent writer, describes k-d trees here: http://www.cs.cmu.edu/~christos/... and also here: K-d trees for semidynamic point sets The latter is payable, so I cannot read it, but as far as I remember, it contains an excellent and very simple description. 

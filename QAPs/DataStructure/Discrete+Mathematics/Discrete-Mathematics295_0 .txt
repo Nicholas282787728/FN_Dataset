@@ -1,1 +1,0 @@
-Can a simple undirected graph with 11 vertices and 53 edges have a Eulerian cycle?No. Hint: how many edges does the complete graph on 11 vertices have? Therefore, what can you say about the parity of the vertex degrees of a graph with 11 vertices and 53 edges? 1k Views  View Upvotes

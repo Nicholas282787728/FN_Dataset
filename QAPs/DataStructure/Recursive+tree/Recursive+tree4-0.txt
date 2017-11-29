@@ -1,2 +1,0 @@
-How do I calculate the height of a recursive tree in Merge sort algorithm?
-If you just want to know the height/depth of the tree in Merge Sort - The merge sort algorithm creates a complete binary tree, which has depth 'd' and at each level, a total of n elements. So, 2^d ≈ n, which implies d ≈ lg n 

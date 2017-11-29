@@ -1,2 +1,0 @@
-★What are the best text mining tools to recognize places in a corpus ? (addresses, buildingsI would like to recognize places in a corpus, for example : Building, addresses, streets, cities, and after that be able to geocode these places.
-Most of the main players in text and sentiment analysis are able to recognize the named entities of text as you are referring to. Look at: - Clarabridge - Lexalytics - Attensity - AlchemyAPI - Semantria - Bitext    Embed Quote

@@ -1,2 +1,0 @@
-Software Engineering: What are good ways to avoid bugs while programming?
-I  would add the oft misunderstood, oft misapplied, and too-frequently-abandoned  practice of Test-Driven Development (TDD), aka spec-level Behavior Driven Development (BDD). During almost 40 years  of programming, I've found TDD to be the best way to catch bugs before  they grow to maturity. Of course it's no silver bullet, but then,  nothing is; and the pursuit of a silver bullet is itself a waste of time. 

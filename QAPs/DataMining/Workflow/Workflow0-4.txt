@@ -1,2 +1,0 @@
-★What are the most useful tips on design workflow/tools?
-Two apps changed my workflow for the better in 2012. Layer Cake http://macrabbit.com/layercake/ Layer Cake reinvents Photoshop slicing. To export PSD elements as assets for your website or app, rename your layer groups once and let Layer Cake do the rest. Designers and developers, rejoice! LiveReload http://livereload.com/ The Web Developer Wonderland (a happy land where browsers don't need a Refresh button) CSS edits and image changes apply live. CoffeeScript, SASS, LESS and others just work.    Embed Quote

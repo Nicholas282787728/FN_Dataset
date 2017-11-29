@@ -1,2 +1,0 @@
-★What is the best technology for web scraping?
-scrapy and beautifulsoup are the two best packages within Python which support webscraping    Embed Quote

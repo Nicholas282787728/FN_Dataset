@@ -1,2 +1,0 @@
-What data structure holds the IP address in Tomcat and how can I search it on a heap dump using Eclipse Memory Analyzer?
-Assuming you are looking for  client IP that is hitting a particular Servlet then request.getRemoteAddr() will give you that IP address. In the heap dump you are probably looking for objects of type HttpServletRequest or whichever class implements ServletRequest which depends on which tomcat version you are working with. I think it's HttpServletRequestWrapper for tomcat 6 694 Views

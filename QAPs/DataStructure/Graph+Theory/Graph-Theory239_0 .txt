@@ -1,1 +1,0 @@
-How do I find if a graph is a clique?code would be icing on a cake!!Degree of each node =N-1. Just make sure that there are no multi-edges, and no self loops. 55 Views

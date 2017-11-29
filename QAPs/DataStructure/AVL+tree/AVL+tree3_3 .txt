@@ -1,1 +1,0 @@
-How do I implement an AVL tree in code?I understand the concept of insertion and rotation. However putting it all into code is something thats driving me nuts. I've been stuck at this for the past 2 days.Mark Allan Weiss's book for Data Structures has a complete implementation of AVL trees. I was using Data Structures and Algorithm Analysis in C++ book. 

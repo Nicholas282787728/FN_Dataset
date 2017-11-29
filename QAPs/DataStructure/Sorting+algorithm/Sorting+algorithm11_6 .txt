@@ -1,1 +1,0 @@
-Which sorting algorithms have the best case time complexity?It clearly depends on which model you choose. For example if you choose comparison based sorting then quick sort with random pivot is the best. 

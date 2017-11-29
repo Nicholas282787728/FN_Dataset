@@ -1,2 +1,0 @@
-★How do I develop a resume parser using NLP (Natural Language Processing)?
-Try a simple prolog program.....    Embed Quote

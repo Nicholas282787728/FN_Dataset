@@ -1,2 +1,0 @@
-What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
-Suffix Arrays, because 1. Its so simple to implement. 2. For its simplicity, it gives amazing power over substring searching. Also Suffix Trees/Trie for its application in a multitude of algorithmic problems. 

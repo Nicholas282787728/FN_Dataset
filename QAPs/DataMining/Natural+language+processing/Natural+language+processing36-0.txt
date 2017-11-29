@@ -1,2 +1,0 @@
-★Does Quora use natural language processing? If so, how does it work?Specifically I am curious as to how Quora's system auto categorizes questions.
-Here's how we're using Natural Language Processing to improve Quora. Download the EnFind Extension to use Quora with NLP    Embed Quote

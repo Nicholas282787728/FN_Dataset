@@ -1,2 +1,0 @@
-★If the training sets in Leave One Out Cross Validation (LOOCV) are highly correlated by only differing in one observation, why does this result in a high variance of the average of errors?
-The training sets are indeed almost identical, and thus the produced models should be very similar. However, the test set still differs. That's where can you expect the errors to have a high variance.    Embed Quote

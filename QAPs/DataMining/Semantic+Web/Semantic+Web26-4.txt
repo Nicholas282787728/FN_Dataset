@@ -1,2 +1,0 @@
-★What are the best examples of the semantic web being used by newspapers, magazines, and TV websites?
-As Roger Macdonald already points out here, the BBC is undoubtedly a global pioneer in the experimentation with and adoption of semantic technologies (often ably assisted by the Talis team). This is one of my favourites: http://www.bbc.co.uk/wildlifefin...    Embed Quote

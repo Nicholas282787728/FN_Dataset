@@ -1,2 +1,0 @@
-★Is the 'this' parameter an example of closure in JavaScript?
-Yes.    Embed Quote

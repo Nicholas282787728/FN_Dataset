@@ -1,1 +1,0 @@
-What are the examples of recursion algorithms?Here goes a simple one that almost every professional programmer has used at least once in real life ... In a complete form, how do you list a directory hierachy? dirWalker(dir) { for each file in dir if file is dir then dirWalker(file) then print file name } 562 Views  View Upvotes

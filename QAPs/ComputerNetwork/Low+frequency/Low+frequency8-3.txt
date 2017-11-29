@@ -1,2 +1,0 @@
-★Is there any existing camera that we can use to detect low frequency electromagnetic waves?Something similar to an infrared camera but instead of infrared, it detects low frequency EM waves i.e. 50 to 60 Hz. I do know that one can detect low freq EM wave using a normal EM detector, but such device only measures the magnitude at a single point. Is there any camera to "see" the relative position of the EM source as well?
-Still, pictures of objects in the cosmos, resolved at 60 Hz, might be very informative.    Embed Quote

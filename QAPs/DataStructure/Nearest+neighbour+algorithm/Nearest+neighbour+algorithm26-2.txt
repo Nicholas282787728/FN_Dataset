@@ -1,2 +1,0 @@
-What is your favorite "PYTHON" One-liner?
-This one liner generates random strings, consisting of alphabets and digits, which are 1 to 9 characters long (the length is random as well). ''.join([random.choice(list(map(chr, range(ord('A'), ord('Z') + 1))) + list(map(chr, range(ord('a'), ord('z') + 1))) + list(map(str, range(0, 10)))) for i in range(random.randrange(1, 10))] 

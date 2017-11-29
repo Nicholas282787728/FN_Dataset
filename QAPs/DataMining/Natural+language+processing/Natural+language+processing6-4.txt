@@ -1,2 +1,0 @@
-★What are the available APIs for NLP (Natural Language Processing)?What are the (open and commercial) available APIs for doing Natural Language Processing?
-You can check out following open source API's: 1. OpenNLP (http://incubator.apache.org/open...http://incubator.apache.org/opennlp/ (links to: http://incubator.apache.org/opennlp/)) 2. Stanford Parser (http://nlp.stanford.edu/software...http://nlp.stanford.edu/software/lex-parser.shtml (links to: http://nlp.stanford.edu/software/lex-parser.shtml))

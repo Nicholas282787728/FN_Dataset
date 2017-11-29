@@ -1,2 +1,0 @@
-Is there any recommended explanations for segment tree?
-I like these 2 blog posts on codeforces: - Introduction to Segment Trees (and other data structures) : Data structures - Application of Segment Trees : Everything About Segment Trees 

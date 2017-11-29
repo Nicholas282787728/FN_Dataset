@@ -1,2 +1,0 @@
-What are differences between large data set and data stream?
-Big Data is typically data at rest with a 6+ hour delay for ETL into something like Hadoop. Data streams are near real-time data in motion and are processed with tools like Storm, S4, Samza, Apama, StreamInsight, MillWheel, Kinesis and stored in databases like ScaleDB. The image from High-Velocity Data sums up the difference nicely:    Embed Quote 

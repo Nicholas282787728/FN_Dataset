@@ -1,2 +1,0 @@
-★Is there still a market for Cloud based ETL/Data Integration Services?The company I am working with is currently using Hadoop to integrate and analyze data....they are thinking about adding a ETL component/tool to their product in order to focus on "small" data as well as big. Is there still a market for this type of service?
-Absolutely. As more and more data moves to Cloud, there will be a need for automated ETL on Cloud. I have come across InstantStack, which sounded pretty cool.    Embed Quote

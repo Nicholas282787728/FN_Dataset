@@ -1,2 +1,0 @@
-What is the intuition behind the Kosaraju-Sharir algorithm for finding strongly connected components?
-(Shameless self promotion: ) Take a look at my blog post: Algorithm Intuition. 

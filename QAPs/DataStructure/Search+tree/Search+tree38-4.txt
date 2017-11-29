@@ -1,2 +1,0 @@
-Java (programming language): Is this method for inserting a new node into a binary search tree correct?
-yup , its correct 

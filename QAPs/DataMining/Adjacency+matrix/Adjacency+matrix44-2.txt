@@ -1,2 +1,0 @@
-★How can you run analysis on graphs located on multiple servers when you need the entire graph and not a subset of it?For example, Pagerank.  Its impossible google has everything on one machine yet they need all the nodes in the graph to generate pagerank for the web.  I think there are many other examples of graph analysis when you need the entire dataset, how do you deal with it when its too large for one machine? Strategies or tools would be great to know
-Map Reduce    Embed Quote

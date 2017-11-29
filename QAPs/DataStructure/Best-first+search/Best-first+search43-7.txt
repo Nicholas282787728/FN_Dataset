@@ -1,2 +1,0 @@
-What are the best resources to learn about graph theory?
-Frakly Speaking, I didn 't get much of resources to learn Graph Theory online. So the last resort to me were books. Then I decided to write a series of articles for learning Graph Theory. You can find the link here, Graph Theory - Techie Me - easy to understand 5.9k Views · 11 Upvotes

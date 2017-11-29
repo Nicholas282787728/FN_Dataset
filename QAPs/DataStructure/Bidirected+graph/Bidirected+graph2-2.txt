@@ -1,2 +1,0 @@
-What is the best way to represent a graph in MySQL?
-The standard textbook on this question is Joe Celko's Trees and Hierarchies in SQL for Smarties http://www.amazon.com/Hierarchie... Updated 5 Jun 2011 • View Upvotes

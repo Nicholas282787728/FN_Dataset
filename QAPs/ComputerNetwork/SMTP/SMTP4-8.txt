@@ -1,2 +1,0 @@
-★What hosted SMTP services are available to outsource your outgoing email delivery to increase deliverability?Especially if you send a lot of email. How do they compare? This is a follow-up question to What techniques can I use to prevent emails sent from my web site from being marked as spam and increase deliverability?.
-Another good option is Amazon. They've introduced Amazon Simple Email Service (SES) a while back and it's a good reliable option, they now also support domain verification. http://aws.amazon.com/ses/    Embed Quote

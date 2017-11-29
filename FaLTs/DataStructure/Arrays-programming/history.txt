@@ -1,4 +1,0 @@
-The concept of slicing was surely known even before the invention of compilers. Slicing as a language feature probably started with FORTRAN (1957), more as a consequence of non-existent type and range checking than by design. The concept was also alluded to in the preliminary report for the IAL (ALGOL 58) in that the syntax allowed one or more indices of an array element (or, for that matter, of a procedure call) to be omitted when used as an actual parameter.
-Kenneth Iverson's APL (1957) had very flexible multi-dimensional array slicing, which contributed much to the language's expressive power and popularity.
-ALGOL 68 (1968) introduced comprehensive multi-dimension array slicing and trimming features.
-Array slicing facilities have been incorporated in several modern languages, such as Ada 2005, Boo, Cobra, D, Fortran 90, Go, Rust, Matlab, Perl, Python, S-Lang, Windows PowerShell and the mathematical/statistical languages GNU Octave, S and R.

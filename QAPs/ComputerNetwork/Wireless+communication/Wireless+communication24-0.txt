@@ -1,2 +1,0 @@
-★Wireless Communication: What are the best books to learn about the Physical layer implementation of LTE?
-Fundamentals of LTE (Prentice Hall Communications Engineering and Emerging Technologies Series) ,  would be a good starting point.    Embed Quote

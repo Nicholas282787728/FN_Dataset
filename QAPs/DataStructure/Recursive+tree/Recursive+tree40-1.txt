@@ -1,2 +1,0 @@
-List all files and subdirectories like tree in current directory python using recursion?
-You can use os.walk() to get a list of all sub directories and files inside a directory.  However, its not entirely trivial to write your own implementation to achieve the same effect. The basic idea is to get a list of directory contents. Then go through each item, either saving them to a data structure or printing them. If any item is a directory, then you repeat the aforementioned process for them. Here's a sample implementation(using recursion) : listdir.py Hope this is helpful. 

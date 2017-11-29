@@ -1,2 +1,0 @@
-★What's a good engine to use for HTML5 games?
-Isometric and 2d multiplayer / MMO engine: http://www.isogenicengine.com

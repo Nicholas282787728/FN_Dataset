@@ -1,2 +1,0 @@
-★How does traffic congestion happen?
-Because of intersections. Thumb rule for free flow of traffic is to have intersection free roads. Heavy traffic from different directions results in a gridlock. Going by the above rule, traffic signals, while they help avoid accidents, lead to heavy traffic. They employ the buffer and burst method which is the most inefficient way of using the available bandwidth, which in this case is the road. An intersection free road with a minimum speed limit ensures a free flow of traffic.    Embed Quote

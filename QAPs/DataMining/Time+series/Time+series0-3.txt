@@ -1,2 +1,0 @@
-★What are some fantastic books on time series analysis?
-The time series analysis with applications in R, by Jonathan D. Cryer & Kung-Sik Chan. The R code example gives you hands-on experience in both R and the TS analysis.    Embed Quote

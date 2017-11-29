@@ -1,2 +1,0 @@
-★Is Ruby easier/better than Python for text parsing?I have experience with Python, and one of the things I love most is its text/string functions. It's been a while since I've used Python and I need to get started again. I'm trying to decide if I should stick with Python or learn Ruby instead for my startup.
-Python is the way to go!    Embed Quote

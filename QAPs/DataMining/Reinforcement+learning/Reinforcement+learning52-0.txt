@@ -1,2 +1,0 @@
-★Anyone has the solution of Reinforcement Learning by Sutton&Barto?
-Well, I don't have the solution but I can tell you how to get one. Take a look at this link if you haven't already - Reinforcement Learning: An Introduction    Embed Quote

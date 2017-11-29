@@ -1,2 +1,0 @@
-How can I learn about artificial neural networks if I don't know anything about this field?
-I read books and wrote code for a multi layer ANN. This was in 1996. I was doing my under grad project to predict machine tool wear by measuring vibration and speed of the lathe. I have moved away since. But this is an interesting area.    Embed Quote 

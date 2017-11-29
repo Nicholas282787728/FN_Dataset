@@ -1,2 +1,0 @@
-★Graphical Models: What is belief propagation and how do I understand and realize belief propagation algorithm in matlab code?
-Belief propagation is already discussed in this thread: Bayesian Networks: Can you explain the Belief Propagation algorithm?. Did you not see it or just didn't understand the explanations? As for belief propagation in MatLab, do you have access to the Bayes Net Toolbox?    Embed Quote

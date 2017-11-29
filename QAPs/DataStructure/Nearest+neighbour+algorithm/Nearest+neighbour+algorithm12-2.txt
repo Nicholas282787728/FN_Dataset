@@ -1,2 +1,0 @@
-What are some of the cool Python projects?
-TL;DR single module file: yserial = serialization + persistance In a few lines of Python code, compress and annotate Python objects into SQLite; then later retrieve them chronologically by keywords without any SQL. Highly useful NoSQL "standard" module for a database to store schema-less data. https://git.io/yserial 

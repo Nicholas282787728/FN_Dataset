@@ -1,2 +1,0 @@
-★Is there an open source cellular network effort?
-OpenBTS

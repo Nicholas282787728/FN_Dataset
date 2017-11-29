@@ -1,2 +1,0 @@
-What is the best business intelligence software?
-I'm not sure of the answer for part one of your question, but PinPoint is a practical B.I. software that requires minimal knowledge. It doesn't take any coding. You can create data visualizations just by "dropping and dragging". Nowadays a lot of companies can give their employees access to bi software to find information without the involvement of IT. Most BI tools should be easy to use IMO.    Embed Quote 

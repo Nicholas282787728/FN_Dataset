@@ -1,2 +1,0 @@
-How do I master the tree data structure and heaps in C? Are there good tutorials that provide enough details?
-go to topcoder.com they provide tutorials with enough containts and examples that will help you to understand the basic implementation, but mastering these things needs lots of practice so keep practicing and you will evantually become fluent in it just like any natural lamguage...best of luck 352 Views · 1 Upvote

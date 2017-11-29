@@ -1,1 +1,0 @@
-How does one remove an element from an array in Java?int[] array = {1,2,3,4,5}; if i want to remove index of 1 how to do thischeck out this tutorial it may help Learn JavaScript - How To Remove a Particular Element From an Array 24 Views

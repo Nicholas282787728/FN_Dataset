@@ -1,2 +1,0 @@
-★How do you differentiate the internet speed on mobile phones provided by various network services in India?
-It depends on your service provider. For 2G, speed varies from 5~100kbps. For 3G, speed varies from 500 kbps~10mbps+. Totally depends on the bandwidth & location where you live.

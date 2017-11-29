@@ -1,2 +1,0 @@
-★What are JEE web servers and application servers?I need to know the definition of 1) JEE web servers 2) application serevrs. And 3) their functions and differences.
-The Java EE Web Profile is a subset of the full Java EE stack. Study the differences and you will find answers to your question. Implementations of the Web Profile subset are usually loosely referred to as Servlet Containers (e.g Apache Tomcat), full EE implementations are usually referred to as Application Servers (e.g GlassFish).

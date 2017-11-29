@@ -1,2 +1,0 @@
-★What open standards relate to music metadata, playlists, etc.?
-ID3 Musicbrainz XSPF OGG as a container format hAudio Music Ontology M3U SMIL    Embed Quote

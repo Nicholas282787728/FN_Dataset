@@ -1,2 +1,0 @@
-What is locality-sensitive hashing?
-LSH can convert [N X D] matrix to [N X K] matrix. Here N is number of point in D dimensional space and K bit is used represent each number, K < D. First LSH takes K uniform, random hyperplane and checks if a point P is above or below of all those planes. It assigns 0/1 based on above/below checking. So for each number we get a K bit value (1 bit for each plane). This K bit number  is the hashed value for a point. We can perform hamming distance calculation on K bit value for nearest neighbor search. 

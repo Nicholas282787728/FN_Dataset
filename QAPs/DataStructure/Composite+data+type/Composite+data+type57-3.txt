@@ -1,1 +1,0 @@
-What are some good practices in functional programming?Tips for those new to FP.

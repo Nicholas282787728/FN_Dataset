@@ -1,2 +1,0 @@
-★Which best software to use to transfer files across the home network?I use uTorrent across the WAN and FastCopy from hard-disk to hard-disk. Both I find very reliable. How about for computer-to-computer transfers on the same LAN? Pause, resume, verify features would be awesome. Freeware would be great too.
-any FTP/S or SFTP server and the free AnyClient.  AnyClient has a synchronization module that can be used to synchronize directories up or down over these protocols.

@@ -1,2 +1,0 @@
-★Business Process Management: Is anyone doing BPM using 3D graphical models?
-Ross Brown et al at QUT are doing research on process modelling in 3-D virtual environments (http://bpmve.blogspot.com/), although they still seem to be mostly using flat 2-D models. That would definitely be a good starting point for doing 3-D models, since it would allow you to change viewpoint on the model as it expands. Or are you thinking of just 2-D drill-downs into a model where each layer visually supersedes the previous?    Embed Quote

@@ -1,2 +1,0 @@
-★How do you implement a typical linear regression model using a Bayesian approach?What benefits are there in doing so? Links to external tutorials v. welcome. Please explain in as intuitive terms as possible... I'm fairly new to all this.
-I have a different derivation, using projections operators Dimensional Reduction via an Effective Operator The fundamental assumption driving our approach is to explicitly partition the features into visible (P) and hidden (Q) features in order to explicitly reduce the dimensions of the problem    Embed Quote

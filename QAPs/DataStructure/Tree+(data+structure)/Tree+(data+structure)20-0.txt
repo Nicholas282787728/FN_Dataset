@@ -1,2 +1,0 @@
-What might be the simplest definition of tree data structure?
-Family !! Trees are usually used to store and represent data in some hierarchical order. The data are stored in the nodes, from which the tree is consisted of. 

@@ -1,2 +1,0 @@
-★What other application servers can be alternatives to GlassFish?
-use tom cat apache server

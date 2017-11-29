@@ -1,2 +1,0 @@
-What is the predicted appearance of metallic hydrogen? Is it in any way opaque to light?
-I can't say too much for sure, but metallic hydrogen would have valence electrons shared by all of the protons, and it would conduct electricity.  This means that at some depth it would reflect visible light and most of the radiation in the electromagnetic spectrum of slightly shorter wavelengths and longer wavelengths.  My guess is that it would have a silvery appearance.  Only thin sheets of metallic hydrogen would be transparent. 

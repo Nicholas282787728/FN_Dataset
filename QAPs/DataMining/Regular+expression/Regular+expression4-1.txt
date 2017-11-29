@@ -1,2 +1,0 @@
-★What is the best regular expression cheat sheet?
-Although this is from the Java API docs it's a pretty useful reference for general Perl-style regexes: http://download.oracle.com/javas...    Embed Quote

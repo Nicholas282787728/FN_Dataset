@@ -1,1 +1,0 @@
-When can I use Arrays over Arraylists in Java? And why?When you have dynamic data which can be increase or decreased according to the requirement. Most of the enterprise application prefer arraylist over array. 26 Views  View Upvotes

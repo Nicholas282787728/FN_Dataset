@@ -1,2 +1,0 @@
-★What purpose does the small cylindrical module near the end of my laptop charger cable serve?
-These "bumps" are called ferrite beads or sometimes ferrite chokes. Their goal in life is to reduce EMI (electromagnetic interference) and RFI (radio-frequency interference). for details follow this link HowStuffWorks "What are the bumps at the end of computer cables?"

@@ -1,2 +1,0 @@
-★A switch connecting 3 Ethernet Segments has how many input ports?
-At least three. Maybe more.

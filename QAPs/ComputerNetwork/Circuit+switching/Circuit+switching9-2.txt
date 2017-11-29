@@ -1,2 +1,0 @@
-★What is the switching circuit of NOR gate?
-I agree with the answer by Peter Hand.  Expanding a little, one can make a NOR gate with as many inputs as you wish by simply paralleling more NPN transistors with common collectors and common emitters.  The same function can also be produced by using N-channel FET's, which saves the area and capacitance of the input resistors.  Of course many variations of the circuit exist to provide additional pull-down drive or pull-up drive.

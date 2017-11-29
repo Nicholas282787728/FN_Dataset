@@ -1,2 +1,0 @@
-What is a tensor network?
-I think this guy is working on this topic: Jason Morton it has a lot of applications check his website it can span from quantum computation to graphical models/machine learning also  simons institute had some lectures on it : Simons Institute for the Theory of Computing Edit: this resource might be useful there is connection of tensor networks and tensor decompositions: Page on arxiv.org 

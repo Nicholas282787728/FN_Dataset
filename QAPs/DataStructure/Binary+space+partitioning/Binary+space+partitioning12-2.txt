@@ -1,1 +1,0 @@
-What are the real world examples of binary trees (not search tree)?

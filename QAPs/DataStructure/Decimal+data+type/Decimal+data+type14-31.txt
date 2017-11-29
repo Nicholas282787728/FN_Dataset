@@ -1,1 +1,0 @@
-What's the hardest bug you've debugged?

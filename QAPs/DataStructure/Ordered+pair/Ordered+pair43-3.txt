@@ -1,2 +1,0 @@
-Are "equivalent" and "equal" the same?
-It depends on the context and definitions but usually not. For example I would say that the following two formulas are equivalent but not equal: [math]a = b[/math] [math]2\cdot a = 2\cdot b[/math] Or the following logic formulas are (semantically) equivalent but not equal (syntactically -- not the same strings of characters). [math]\forall x(P(x) \land Q(x))[/math] [math](\forall x P(x)) \land (\forall x Q(x))[/math] 

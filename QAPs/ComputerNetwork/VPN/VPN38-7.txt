@@ -1,2 +1,0 @@
-★Can you use a VPN on an iPhone or iPad?
-Yes, you can. I connect using Overplay (https://www.flashrouters.com/ove...) via OpenVPN and PPTP on my iPad and iPhone when connected to public Wi-FI like Starbucks and Airports for safety reasons.    Embed Quote

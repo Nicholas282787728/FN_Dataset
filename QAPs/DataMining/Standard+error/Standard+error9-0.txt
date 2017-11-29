@@ -1,2 +1,0 @@
-★In scikit-learn, how can you obtain the standard errors of regression coefficients?
-It seems you cannot. You might have to go back to stats book and code it yourself.    Embed Quote

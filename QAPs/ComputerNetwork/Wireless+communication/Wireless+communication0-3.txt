@@ -1,2 +1,0 @@
-★What are the limitations of TCP/IP to handle wireless communication?
-Packet loss rate is the most significant impact. TCP will downgrade dramatically when loss rate increase. Based on my previous test, TCP performance would drop from 100Mbps to 10Mbps at 1% loss. In wireless environment, packets loss always happen, especially when there are obstacles or wireless signal pollution happens.    Embed Quote

@@ -1,2 +1,0 @@
-★Why is there a MAC address and an IP address?
-1. Suppose we have LAN1 and LAN2, 2. In order to reach a machine in LAN2 from LAN1 we need both IP Address and MAC Address, 3. We require IP Address to identify that machine is in LAN2, 4. After reaching LAN2, we need MAC Address to identify the machine within LAN2 based on IP address. So, you need IP address over MAC address for internetworking.    Embed Quote

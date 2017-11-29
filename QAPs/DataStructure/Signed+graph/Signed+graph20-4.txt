@@ -1,2 +1,0 @@
-Why is the fundamental theorem of calculus nontrivial?
-To some extend, you are right. It is trivial if you already know how to write equation this way. But the spirit of fundamental theorem of Calculus is to find the connection between the definition (concept) of integration and the definition (concept) of derivation, you have to admit it is a big deal by any standard. 

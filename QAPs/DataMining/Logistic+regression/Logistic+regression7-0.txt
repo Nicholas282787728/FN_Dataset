@@ -1,2 +1,0 @@
-★Why is logistic regression used so often in data science?
-There are a lot of binary response data and it is now relatively easy to estimate. Beyond that there are some theorems that show it is a sensible limiting case when you don't know much as it ends up being a maximum entropy classifier. In some disciplines that's what it's called. In some disciplines it is overused. Continuous variables should generally not be dichotomized and then analyzed by logistic regression. The information loss is marked.    Embed Quote

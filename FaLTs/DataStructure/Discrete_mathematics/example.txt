@@ -1,2 +1,0 @@
-Graphs like this are among the objects studied by discrete mathematics, for their interesting mathematical properties, their usefulness as models of real-world problems, and their importance in developing computer algorithms.
-For example, in most systems of logic (but not in intuitionistic logic) Peirce's law (((P→Q)→P)→P) is a theorem.

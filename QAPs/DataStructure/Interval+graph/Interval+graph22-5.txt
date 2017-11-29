@@ -1,1 +1,0 @@
-What is the intuition behind distributions without means?Where mean doesn't converge such as Cauchy distribution. What kind of implication does this have on physics? Certain quantities such as temperature are defined as mean in physics.

@@ -1,2 +1,0 @@
-What is the difference between business intelligence and business analytics?
-To some extents and some environments, here's how: Business Intelligence: focus on how to get the metrics right. Business Analytics: focus on how to get the right metrics. Data Mining: focus on how to get the right insight from metrics. Remember, in the real world, those boundaries are really weak.    Embed Quote 

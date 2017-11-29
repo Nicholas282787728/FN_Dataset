@@ -1,1 +1,0 @@
-What will be the complexity of quick sort if we insert an element at some random position in a sorted array and then ask it to sort again using quick sort?For example an array like this: 2, 4, 6, 55, 7, 9, 12, 15, 17, 20, 22The answer is still O(nlogn) The question is similar to asking: what is the complexity of quicksort of the array is already sorted, which is clearly O(nlogn) 

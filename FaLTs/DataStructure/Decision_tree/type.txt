@@ -1,5 +1,0 @@
-A decision tree consists of 3 types of nodes:
-
-    Decision nodes - commonly represented by squares
-    Chance nodes - represented by circles
-    End nodes - represented by triangles

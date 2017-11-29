@@ -1,2 +1,0 @@
-What is the difference between b-tree and m-way tree?
-Thank for A2A :) B tree is balanced where as m tree may be balanced or not,it could be skewed as well. B tree is balanced from bottom to top, this means all the leaf nodes will have m children/data node, except root node. Running time is guaranteed O(logN). N is number of elements in the tree. M ary tree O(N). Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 1.3k Views · 2 Upvotes · Answer requested by Suparna Biswas

@@ -1,2 +1,0 @@
-★Random variable x has the probability distribution with density . What is the probability distribution of the random variable?
-This question becomes a bit easier to deal with if you remember that follows a chi-squared distribution.  The basic approach is the same as what the other answers have outlined, but because the distribution you're starting with only has support on the right half-line, the transformation you're applying is strictly monotonic, and so you don't have to deal with some of the messy details that you get otherwise.    Embed Quote

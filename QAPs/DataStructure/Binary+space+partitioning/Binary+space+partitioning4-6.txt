@@ -1,1 +1,0 @@
-What are some applications of algorithms in theoretical computer science to problems in practice?Other than the obvious answer of sorting and searching. Preferably, something more advanced.

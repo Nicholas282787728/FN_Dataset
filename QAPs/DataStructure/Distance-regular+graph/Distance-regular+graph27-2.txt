@@ -1,2 +1,0 @@
-How does Facebook determine who is displayed as friends on the left side of the profile?
-Yes it is. Your friends are ranked based on how often you interact with their content (visit their profile page, message them, like or comment on their status, etc). It uses this ranking to decide which 9 friends to show on your profile page. In fact, facebook also uses this ranking to determine the order while displaying your friends that have liked any content on facebook. 

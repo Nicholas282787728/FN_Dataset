@@ -1,2 +1,0 @@
-Search Algorithms: Why can't there be an algorithm faster than binary search?
-1. Binary search Time complexity is: Average case: O(log n) There could be 2 more [better] ways: 2. Interpolation search Time complexity is: Average case: Ο(log (log n)), assuming data is sorted & equally distributed. 3. Hash table Time complexity is: Average case: Ο(1), assuming implemented well. Best of luck. 2.1k Views · 7 Upvotes

@@ -1,9 +1,0 @@
-★Difference Between HTML and CSS?
-HTML and CSS are complimentary to the creation and design of a web document. HTML (Hyper Text Markup Language)HTML creates the bones of the document. HTML can exist without CSS. Where to learn more: HTML Tutorial CSS (Cascading Style Sheets)CSS changes the way HTML looks. CSS can be placed separately or directly within HTML. Where to learn more: CSS Tutorial Example of HTML: 1
-2
- <p>The p tag defines a paragraph.</p> <p>With a few exceptions, all HTML tags require an opening and closing tag.</p> Example of CSS:CSS used separately from HTML: At the top of the document, the CSS can be contained within its own special section. In this example, we are choosing to make all HTML paragraph tags appear bolded: 1
-2
-3
- <style> p { font-style: bold; } </style> CSS used directly within HTML: The CSS rules can be placed directly within HTML in the document: 1
-2
- <p style="font-style: bold;">The p tag defines a paragraph.</p> <p style="font-style: bold;">The style attribute contained within the tag defines CSS rules chosen from a pre-defined list of commands (such as 'font-style').</p>

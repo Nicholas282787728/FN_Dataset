@@ -1,2 +1,0 @@
-How can something finite contain something infinite?
-You're going to have to be a bit more specific about what you mean. But interpreting your question literally, there's a pretty easy example: {R}  is a finite set containing only one element. And that element happens to be R  , which is an infinite set. 

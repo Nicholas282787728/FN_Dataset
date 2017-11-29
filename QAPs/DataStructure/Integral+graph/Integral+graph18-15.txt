@@ -1,2 +1,0 @@
-Which is the best network monitoring tool: Nagios or Zabbix?
-I think that none of them. At the moment there are a lot of people who have very little IT experience and they have to use network monitoring tools more and more often. So, we need very simple and reliable tools at the same time. So, I stick to the point that e.g.Anturis Server Monitoring, IT Infrastructure Monitoring, Website Monitoring can be considered to be such a user-friendly tool to monitor the network of the company. 

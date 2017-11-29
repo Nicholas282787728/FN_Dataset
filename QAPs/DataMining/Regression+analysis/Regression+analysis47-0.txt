@@ -1,2 +1,0 @@
-★Where do I find data for a regression analysis in-class project?I am looking for something systemic like some data that supports decision making or something and not just a simple technical mfg process. I need more than 7 regressors and one response. #Urgent
-UCL Machine learning repository    Embed Quote

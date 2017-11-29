@@ -1,2 +1,0 @@
-★What would be a very intuitive or metaphorical explanation of a communications protocol?I read that systems or networking layers use protocols to structure or format their messages so that they understand each other. How does that work? What would be a real-life example of that concept?
-Tin can's and/or throwing rocks over a brick wall

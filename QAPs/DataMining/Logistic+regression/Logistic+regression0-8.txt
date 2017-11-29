@@ -1,2 +1,0 @@
-★What is the difference between logistic regression and Naive Bayes?
-A comprehensive discussion on this question, with links to generative/discriminative models can be found at http://www.cs.cmu.edu/~tom/mlboo.... This material is written by Tom Mitchell, as a tentative chapter for the 2nd edition of his "Machine Learning" book.    Embed Quote

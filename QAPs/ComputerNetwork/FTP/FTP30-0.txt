@@ -1,2 +1,0 @@
-★Which is the best FTP server?Tell me good one? Cost is not an issue, suggest me good one? for linux based system?
-I recommend JSCAPE MFT Server. Not only does it support several file transfer protocols, including FTP, SFTP, FTPS, WebDAV/S, HTTP/S, OFTP, and AS2, it also comes with several security and automation features.  Want your uploaded files to be PGP-encrypted, scanned for viruses, archived, forwarded to another server, or to send out an email notification? JSCAPE MFT Server makes these and several other automation tasks easy.

@@ -1,2 +1,0 @@
-★Newsletter SMTP Settings, i have a php newsletter software that use a local smtp with php mailer. Waht are best practices for settings (dns-mail...)?
-I advise using Mandrill, or any other specialized 3rd party service for sending large amounts of emails - especially newsletters. FYI: Mandrill allows you to connect via SMTP using just an API key.    Embed Quote

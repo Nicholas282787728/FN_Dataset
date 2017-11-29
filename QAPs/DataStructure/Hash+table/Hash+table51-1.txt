@@ -1,2 +1,0 @@
-What is a hash table used for in computing?
-Search Efficiency See here an example to implement Dictionary using HashMap / HashTable Java - Implementation of a Dictionary using Java Collections 147 Views

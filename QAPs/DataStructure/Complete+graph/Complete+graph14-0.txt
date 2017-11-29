@@ -1,2 +1,0 @@
-What is an edge-weighted complete graph with 6 or less vertices but exactly 7 minimum spanning trees?
-*A2A* Consider K 8   . Choose 7 nodes in a cycle and label the edges with weights 1, 2, 3, 4, 5 and 6. Label all the other edges with weight 7. This graph has exactly 7 minimum spanning trees. Reason: Since we are looking for minimum spanning trees. The edges labeled with weights 1 to 6 will have to exist. The 8th free node will be connected to one of the 7 prior nodes each with weight 7, giving 7 different minimum spanning trees. 

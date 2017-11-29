@@ -1,1 +1,0 @@
-What is an intuitive explanation of the Whirlpool hash function? What are its advantages over other hash functions?

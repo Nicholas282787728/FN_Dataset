@@ -1,2 +1,0 @@
-Why does deep learning require the construction of generative data models?
-This is an old topic with an interesting update.  One answer to the original question is that deep learning doesn't always require generative models.  In some cases (like speech recognition) random initialization works. 

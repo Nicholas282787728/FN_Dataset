@@ -1,2 +1,0 @@
-What is the best way to scrape data from a website?
-If this is a one time job, you might be able to extract all the data you need from the website using the Diffbot 30-day trial. http://diffbot.com/    Embed Quote 

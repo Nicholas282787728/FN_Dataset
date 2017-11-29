@@ -1,2 +1,0 @@
-What are some interesting competitive programming problems that could be solved using interval trees?
-try this one: SPOJ.com - Problem GSS1 SPOJ.com - Problem GSS3 Funny Marbles 

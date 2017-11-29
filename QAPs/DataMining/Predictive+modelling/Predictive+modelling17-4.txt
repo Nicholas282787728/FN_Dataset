@@ -1,2 +1,0 @@
-★How can I deal with missing values in a predictive model?
-I just wanted to add a reference that can be used which goes into some depth on the subject.  Its a chapter on Missing Data Imputation from a book used at Columbia. http://www.stat.columbia.edu/~ge...    Embed Quote

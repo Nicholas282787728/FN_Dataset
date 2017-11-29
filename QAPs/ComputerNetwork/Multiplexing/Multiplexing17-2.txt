@@ -1,2 +1,0 @@
-★How does Frequency-Division Multiplexing (FDM) work?I read in Frequency Division Multiplexing multiple frequencies each encoded with separate information is combined into one complex signal. Frequency-division multiplexing How do you encode bits into a wave of a certain frequency?
-Best example is Cable TV. They send hundreds of channels on a single coax cable . How ? by FDM. Divide the available cable bandwidth into fixed frequency channels. Then shift( Frequency Translate) the channel carrier frequency to that of  cable channel frequency.    Embed Quote

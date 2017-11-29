@@ -1,2 +1,0 @@
-Is there a union/find-like data structure for directed graphs?
-Link/cut tree is probably what you are looking for. 1.5k Views · 9 Upvotes

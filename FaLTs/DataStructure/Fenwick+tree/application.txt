@@ -1,3 +1,0 @@
-Fenwick trees are used to implement the arithmetic coding algorithm. Development of operations it supports were primarily motivated by use in that case.
-Using a fenwick tree it is very easy to generate the cumulative sum table. From this cumulative sum table it is possible to calculate the summation of the frequencies in a certain range in order of O(log(n)).
-See also: Applications of Prefix sums

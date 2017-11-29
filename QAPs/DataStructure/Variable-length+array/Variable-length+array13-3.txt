@@ -1,2 +1,0 @@
-How can I make an array with variable size in the C language?
-Use calloc function : eg. int *a ; a = (int *)calloc( n , sizeof(int) ); this statement will define an array  a of 'n' elements, with all elements assigned to zeroes. You can use the malloc fuction too. a = (int *)malloc( n * sizeof(int) ); ....with the difference that malloc doesn't assign values to zero PS : both of them belong to the 'stdlib.h' library.. 

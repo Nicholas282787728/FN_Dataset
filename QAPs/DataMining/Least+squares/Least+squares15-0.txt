@@ -1,2 +1,0 @@
-★What is the difference between the least square estimation and ordinary least square estimation?
-Ordinary least squares refers to linear least squares. There is also nonlinear least squares, which allows for a great deal more flexibility in the regression equation. That is, the regression equation is [math]y = f(x, \beta)[\math] rather than a simple product. Generalized addtiive models are sometimes fit by penalized least squares, which would be one kind of (nonsimple) least squares.    Embed Quote

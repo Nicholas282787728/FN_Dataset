@@ -1,1 +1,0 @@
-Why is hashing function used in asymmetric cryptography?

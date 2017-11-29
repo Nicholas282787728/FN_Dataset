@@ -1,2 +1,0 @@
-What is the most esoteric programming language that you have tried?How did you learn about that programming language? What made you try programming using that language? Did you like programming using that language? Describe your experience.
-ZIL - Zork Implementation Language was a lisp-like language developed at MIT that was used to develop interactive fiction games such as "Zork", "Planetfall", and "The HitchHiker's Guide to the Galaxy" at Infocom during the 80's. 

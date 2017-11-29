@@ -1,2 +1,0 @@
-★What is currently the best technology stack for web scraping?
-Various web scraping techniques are there. Through these techniques we can scrape any type of data. We can update inventory, prices and so many things.    Embed Quote

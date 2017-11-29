@@ -1,2 +1,0 @@
-What is an algorithm to convert from an adjacency matrix to adjacency lists?
-You can do it in linear time by just scanning through and appending to lists as you go.  The naive solution is the fastest I think. 

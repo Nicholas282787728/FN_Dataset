@@ -1,2 +1,0 @@
-What is the process for a normal student to start from very basic coding to high level coding so I that I can solve problems from CodeChef TopCoder etc?
-Step 1 - Choose a programming language.C++ or Java would be a good choice. Step 2 - Get the standard books for the choosen language and learn the basics and try to write simple programs and execute.Remember starting from books is very important. Step 3 - Learn data structure and algorithms by taking online courses from different universities.Coursera and mitocw and many more are available. Now u r ready to go. 

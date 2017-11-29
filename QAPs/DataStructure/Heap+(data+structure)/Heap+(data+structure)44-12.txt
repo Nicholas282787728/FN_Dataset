@@ -1,2 +1,0 @@
-How do I start learning or strengthen my knowledge of data structures and algorithms?
-Originally Answered: How should I start learning data structure and algorithms? Take this class: Algorithms, Part I | Coursera …then take this class: Algorithms, Part II | Coursera …do all the homework because it will test if you are meant to continue in this field. 343 Views · 2 Upvotes

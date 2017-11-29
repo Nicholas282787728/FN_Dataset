@@ -1,2 +1,0 @@
-★Can REST API and REST concepts be applicable to FTP also?Are REST concepts applicable to non-HTTP protocols like the file transfer protocol also?
-Can you do a GET or POST to FTP?  No, not at all.  The protocol simply doesn't support that.  Could you use FTP to transmit and receive JSON?  Yes, absolutely. But I know of no defined interface to other programs that way.

@@ -1,5 +1,0 @@
-★What are some good Internet Explorer jokes?
-1
-2
-3
- <!--[if IE]>     <p>Are you okay bro?</p> <![endif]-->

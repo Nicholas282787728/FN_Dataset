@@ -1,2 +1,0 @@
-★Is Viber using SIP as a signalling VoIP protocol ?This is a follow-up question to How is Viber going to make money?.
-To the best of my knowledge, this is proprietary. They are also using a proprietary voice codec from Spirit DSP, though there are rumors that this might be changing (or has changed already). See here: http://www.mobilemage.com/2011/0...    Embed Quote

@@ -1,2 +1,0 @@
-★What are some interesting open source projects on machine learning/text mining? I am interested in contributing for themI am interested to work on machine learning/text mining open source projects to gain more knowledge
-For text mining, GenSim in Python it quite good. open nlp needs some new ideas I am open to collaborate on some ideas using redis / lua    Embed Quote

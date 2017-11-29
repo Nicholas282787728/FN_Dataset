@@ -1,2 +1,0 @@
-What are the best resources to learn data structures and algorithms in Java or C?
-Algorithms in C by Sedgwick . Search the pdf on Google 

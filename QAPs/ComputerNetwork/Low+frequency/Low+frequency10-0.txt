@@ -1,2 +1,0 @@
-★What is a low frequency and high frequency model in electronics?
-Basically there are stray impedances that come into play but are not always apparent until the signal hits a certain frequency. Appropriate models are devised to include or exclude these elements at appropriate frequencies. This is not specific to electronics but is a feature of any electrically excited system including applications as far removed from electronics like biological and chemical sciences.    Embed Quote

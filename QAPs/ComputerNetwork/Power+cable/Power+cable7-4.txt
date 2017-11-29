@@ -1,2 +1,0 @@
-★Is it ok to connect one power cable to two sata disk?​
-Depends on the power supply pin configuration.Varies according to manufacturer.But in most cases,you have a single cable with two pins to connect two HDDs-one for Master and for Slave. You can hack the pins(if you run out of it,which you wont,but just in case),to supply two hard disks.But make sure these two are met-The sum of HDDs current fall under max current capability of the cable. Happy Storage :)    Embed Quote

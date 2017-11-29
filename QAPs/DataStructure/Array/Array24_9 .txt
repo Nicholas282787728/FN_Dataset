@@ -1,1 +1,0 @@
-What's the difference between array and pointer in C/C++?Array is nothing but a sequence of data items of the same type, whereas a pointer is an address of the memory location where data is stored. Now in C/C++ the array name is a pointer to the first element of the array. 

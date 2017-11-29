@@ -1,2 +1,0 @@
-★What is an implementation of gradient descent in Matlab?For a logistic regression, the gradient descent is: / =
-You can program the gradient descent algorithm following the guide in this link, http://www.dsplog.com/2011/10/29.... In addition, there are two types of gradient descent algorithm including in the page, batch and stochastic. It depends on how huge amount of your data.    Embed Quote

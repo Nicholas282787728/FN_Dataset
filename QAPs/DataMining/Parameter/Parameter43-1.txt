@@ -1,2 +1,0 @@
-★What is the difference between a "parameter" and an "argument" in C programming language?I have just started learning C and I came across these terms .
-It has already been answered on Quora. arguments are values passed into a function call, and parameters are variables defined in the function to receive them. Anders Kaseorg's answer to Why are function parameters also called "arguments"?    Embed Quote

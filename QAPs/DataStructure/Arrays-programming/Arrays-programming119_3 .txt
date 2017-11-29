@@ -1,1 +1,0 @@
-Why is the length of an array always greater than the largest index of the array?Because the index of array is started from 0. There for indexes of array with N elements are: 0, 1, 2, 3, ...., N-1 35 Views  View Upvotes

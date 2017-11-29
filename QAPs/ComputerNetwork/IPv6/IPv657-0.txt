@@ -1,2 +1,0 @@
-★Why are IPv6 addresses only 128 bits long instead of 256 bits?Considering quantum computing & advancement in nanotechnology.
-Because that would have been wasteful. More bits in the address mean more overhead in every single packet. And it wouldn't have added any capabilities to the protocol. 2^128 is already a huge number and no one has made a credible argument that it's not enough. BTW, the right way of solving this problem was to make the address variable length. This was discussed and rejected.    Embed Quote

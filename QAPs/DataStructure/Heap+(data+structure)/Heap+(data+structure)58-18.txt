@@ -1,2 +1,0 @@
-What basic data structures and algorithms should one learn before starting competitive programming?
-Most Basic Algorithms to read before starting Competitive Programming.... Euler's function and its calculation [TeX] Binary exponentiation in O (Log N) [TeX] Euclid's algorithm of finding the GCD (greatest common divisor) [TeX] Sieve of Eratosthenes [TeX] Advanced Euclidean algorithm [TeX] Fibonacci numbers and their rapid calculation [TeX] Inverse element in the ring modulo [TeX]... (more)

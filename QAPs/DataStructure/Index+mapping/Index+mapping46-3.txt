@@ -1,1 +1,0 @@
-What's the best way to store millions of hashtags in a database?What's the best way to store millions of hashtags in database and efficient to retrieve those hashtags like Twitter?

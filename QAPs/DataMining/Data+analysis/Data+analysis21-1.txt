@@ -1,2 +1,0 @@
-Big Data Analysis: What are the Alternatives to Hadoop?
-A very good overview of Big Data alternatives to Hadoop can be found inMatt Turck's recently updated Big Data landscape. You can read additional explanations on the evolution of each field of Big Data in this blogpost: How To Fit Big Data In One Small Page.    Embed Quote 

@@ -1,2 +1,0 @@
-★What are the best beginning books about Pattern Recognition and Machine Learning?
-The following is a list of free, open source books on machine learning, statistics, data-mining, etc. josephmisiti/awesome-machine-learning Among these, An Introduction To Statistical Learning is my personal favorite.    Embed Quote

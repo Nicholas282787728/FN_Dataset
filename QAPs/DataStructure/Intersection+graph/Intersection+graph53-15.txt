@@ -1,2 +1,0 @@
-Which are the top blogs to follow to explore about algorithms and data structures?
-Javarevisited: Blog about Java Programming Tutorials, Examples, Design Patterns, Interview Questions and Answers, FIX Protocol, Tibco RV messaging, UNIX and Linux Commands, XML, SQL, MySQL, Oracle, jQuery, JavaScript,HTML, Multithreading, Collection, Error and Exception, Debugging, Best Practices and Practical tips from my experience.Would say one of the best blogs for algo's and data structures. and topcoder would be the best one. 

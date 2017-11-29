@@ -1,1 +1,0 @@
-The relationship between a binomial heap with n elements and the binary representation of n, is that each of the trees in the binomial heap correspond to a digit in the binary representation of the total number of nodes used to create the binomial heap. Is this relationship merely a coincidence?

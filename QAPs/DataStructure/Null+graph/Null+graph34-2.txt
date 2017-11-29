@@ -1,2 +1,0 @@
-Data Structures: How could I visualize data structures in c++?
-It depends on what kind of data structure you are looking at.. I like to visualize on paper by drawing boxes with lines. So, for example, if it was a tree structure then i would have one node at the top, two below and lines. Then flow downwards. If it was a double liked list then you can have a node then one either side and links.. and so on. You could also visualize as UML Class structures if you data struct has methods/functions. Hope that helps 

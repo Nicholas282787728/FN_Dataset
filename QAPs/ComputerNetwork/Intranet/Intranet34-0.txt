@@ -1,2 +1,0 @@
-★What does the Apple intranet look like?
-It looks like a bunch of wires and boxes hooked up to other boxes. If you could see other parts of the electromagnetic spectrum, you might be able to see the radio waves from the wireless portions. You want the topology of the network? I'm pretty sure that is both proprietary and only known to those who need to know* for security reasons. * within the company and in the NSA

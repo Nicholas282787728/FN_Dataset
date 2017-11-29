@@ -1,2 +1,0 @@
-What is the most efficient programming language for computations in Graph Theory?
-Use a graph library or toolkit. GraphLab , created by a Carnegie Mellon University Professor, is known to be one of the fastest graph processing platforms. It is written in C++ and can run on Hadoop (via YARN) for big data. I read an article somewhere that said Facebook was looking into GraphLab at some point because of its speed. You can also look into similar technologies such as Giraph and GraphX. 

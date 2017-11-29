@@ -1,6 +1,0 @@
-Because of evolving technology and locales, there are at least four different types of solution:
-
-Cluster: Advocacy groups which simply encourage sharing of unmetered internet bandwidth via Wi-Fi, may also index nodes, suggest uniform SSID (for low-quality roaming), supply equipment, DNS services, etc.
-Mesh: Technology groups which coordinate building a mesh network to provide Wi-Fi access to the internet
-WISP: A mesh that forwards all traffic back to consolidated link aggregation point(s) that have centralized access to the internet
-WUG: A wireless user group run by wireless enthusiasts. An open network not used for the reselling of internet. Running a combination of various off the shelf WIFI hardware running in the license free ISM bands 2.4 GHz/5.8 GHz

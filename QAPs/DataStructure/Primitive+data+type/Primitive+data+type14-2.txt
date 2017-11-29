@@ -1,2 +1,0 @@
-Why is wrapper class Integer required for basic datatype int?
-Java promotes object based programming. Hence instead of basic data types , it promotes the use of a number as an object of Class Integer and not int. Infact all important and advanced functions of integers are provided by Integer Class and not int data type. 

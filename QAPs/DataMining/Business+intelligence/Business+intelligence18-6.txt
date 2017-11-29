@@ -1,2 +1,0 @@
-What is the best Business Intelligence software in the marketplace?
-free version of Talend tool is one of the well known BI tools regarding the warehouse my suggestion would be to build your own on a data base not use a predefined cube or any thing.    Embed Quote 

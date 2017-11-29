@@ -1,2 +1,0 @@
-★What is the linearity of a function called if we allow a constant to the function?
-They're typically called affine maps or Affine transformations.    Embed Quote

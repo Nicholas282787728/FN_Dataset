@@ -1,2 +1,0 @@
-★What are the courses required to learn information retrieval and machine learning?
-Check cs276 and cs246 at Stanford,the slides are available and contain a ton of information. The books used at those courses are free online: Introduction to information retrieval and Mining of massive datasets. If you can red spanish fluently I can point you to my own course :)    Embed Quote

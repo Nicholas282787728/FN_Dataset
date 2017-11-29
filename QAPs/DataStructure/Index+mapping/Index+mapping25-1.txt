@@ -1,1 +1,0 @@
-How effective is the use of determining ssim i.e. structural similarity map and index of two images in MRI?

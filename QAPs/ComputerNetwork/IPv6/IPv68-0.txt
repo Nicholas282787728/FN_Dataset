@@ -1,2 +1,0 @@
-★What are the cleverest IPv6 addresses?Either in use or not. i.e. Facebook has 2620:0:1cfe:face:b00c::3 I believe.
-The BBC used to have 2001:4b10:bbc::2 tokyotosho (a Japanese bittorrent library) has 2001:470:27:4f7:0:0:b00b:babe:caf Cisco has 2001:420:80:1:c:15c0:d06:f00dAnd I'm sure there are many more. There are a lot of words you can write in hex! I'm sure some hillarious people have reverted back to first school and are playing with b00b:1e5    Embed Quote

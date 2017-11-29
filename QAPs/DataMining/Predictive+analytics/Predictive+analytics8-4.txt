@@ -1,2 +1,0 @@
-★Predictive Analytics: In regression modelling, is more sample data always better?
-If it is a time series model, then the weight of recent data point should obviously be more than the old data points. If your results are better by including only the recent data points, that means that your old data points are not relevant. If you look closely your model should be getting: Weight of the old data should become less R-square should get lower (for the model or the coefficient of the old data points) p-value of the coefficient should be high of the old data values.    Embed Quote

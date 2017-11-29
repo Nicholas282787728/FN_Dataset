@@ -1,2 +1,0 @@
-★What are some good graduate schools that are doing research in the areas of reinforcement learning and Deep Learning?Hey Guys looking for suggestions on good graduate schools that are doing research in areas of reinforcement learning or Deep Learning
-University of Alberta, Canada is very much reputed for RL research mainly due to Dr. Richard S Sutton who is "the man of Reinforcement Learning". Here is "the book" he wrote on RL Book    Embed Quote

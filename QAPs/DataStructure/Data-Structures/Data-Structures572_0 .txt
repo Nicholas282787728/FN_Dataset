@@ -1,1 +1,0 @@
-How do I learn data science without coding?You can learn statistical modelling which is also a part of data science and doesn’t need much coding skills. Basically you can use SAS, SQL, Excel, R, Advanced Excel etc. to predict and use into Data Science. But Python is very imp into data science and machine learning, So, beneficial if you learn coding for better results. 28 Views

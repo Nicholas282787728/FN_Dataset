@@ -1,2 +1,0 @@
-★What networking protocols are used in submarine communication cables?
-DP - QPSK (Dual polarization - Quadrature Phase Shift Keying) is the most commonly used modulation scheme. Ciena tested a 16-QAM modulation system on the undersea cable between Japan and the US in April. Wavelet Division Multiplexing (WDM) or Dense Wavelet Division Multiplexing (DWDM) schemes are used to multiplex a number of channels onto a single fiber.

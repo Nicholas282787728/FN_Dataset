@@ -1,2 +1,0 @@
-What are some good resources for learning about evolutionary graph theory?
-Martin Nowak goes over the essentials in Evolutionary Dynamics. His nature paper is more dense, but also a good introduction Page on harvard.edu. Before you delve into EGT, study some basics in graph theory, random graphs, and branching processes. Most of EGT is essentially concerned with studying how a Moran process would behave on different graph structures. 

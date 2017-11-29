@@ -1,2 +1,0 @@
-★Which is better for Computer Vision research direction, Neural Networks or Probabilistic Graphical Models?
-Neural nets is in essence a special form of graphical model based on gibbs distribution and behaves like loopy belief propagation algorithm. It is very much similar to so called conditional random field model in the jargon of pgms. Therefore studying pgd requires abit of work on neural nets at least.    Embed Quote

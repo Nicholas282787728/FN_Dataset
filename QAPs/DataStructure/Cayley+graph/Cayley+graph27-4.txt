@@ -1,2 +1,0 @@
-What are some things about databases everyone does not understand?What are some important things people should understand about databases? 'Everyone' means everyone who uses it (software engineers, developers, database administrators..).
-What management and some software engineers might not know - it's hard to change the structure, or even refactor, the structure of relational databases once they are set. Even when there's no real data yet. 

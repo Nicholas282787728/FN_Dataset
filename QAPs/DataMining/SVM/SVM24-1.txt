@@ -1,2 +1,0 @@
-★Support Vector Machines: Variations of SVMWhat are the available slight modifications of SVM ?
-Here are some examples : Regression: SVM-regression, Classification: Hard/Soft margin SVM, Transductive SVM, SVMStruct, SVMMulti Ranking: SVMRank There are many more problems for which SVM have been used.    Embed Quote

@@ -1,2 +1,0 @@
-Are there any algorithms or data structures is invented by sport programmers during competition?
-Competitive programmers aren't inventing algorithms nor data structures. They just implement what they learnt from the inventors. If you mean data structure or algorithm that you need to define yourself (because there is no library available in C++ or Java), it's often be Fenwick Tree, Segment Tree, Interval Tree, kd Tree or Graph. 

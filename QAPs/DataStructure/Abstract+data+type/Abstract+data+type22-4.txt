@@ -1,2 +1,0 @@
-How often does a computer scientist have to create their own ADT(abstract data type)? Ex: bigint?
-Almost never!    I made one about 10 years ago and it kicks ass, but I have yet to find a practical use for it in my daily work.   But yet you would think that a O(1) time and space dictionary search would have infinite uses ;-) EDIT: You absolutely MUST have the knowledge from learning to do it though to be a competent professional programmer though 

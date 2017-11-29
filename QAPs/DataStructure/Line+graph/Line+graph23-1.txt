@@ -1,2 +1,0 @@
-How might we transform a quadratic curve into a straight-line graph?
-The short answer is you cannot strictly transform a quadratic equation into a straight line, its like asking how can I resize a cat to become a dog. Transformations of quadratic equations involves vertical and horizontal shifts, as well as stretch and reflection. Look up transformations here: http://animated-mathematics.net/... 697 Views

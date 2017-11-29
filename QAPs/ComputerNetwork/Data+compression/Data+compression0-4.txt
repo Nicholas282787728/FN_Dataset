@@ -1,2 +1,0 @@
-★Is there a theoretical limit to data compression?If so, how was it found?
-Yes and no :)  For lossless data compression, there is a theoretical limit.  For lossy compression there is no limit except for the amount of loss you are willing to accept.

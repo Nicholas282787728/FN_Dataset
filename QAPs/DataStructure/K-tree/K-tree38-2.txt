@@ -1,2 +1,0 @@
-What is there difference between [math]O(n)[/math] and [math]O(\log n)[/math]?
-You can have O(logn loglogn) Time complexity: Also n^c for 0<c<1. Also: any polynomial of logn of positive degree (thanks Gram Zeppi). Updated 54w ago • View Upvotes

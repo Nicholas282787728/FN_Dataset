@@ -1,2 +1,0 @@
-★How is predictive modeling used in logistic regression?
-Logistic regression is a method to perform predictive modeling    Embed Quote

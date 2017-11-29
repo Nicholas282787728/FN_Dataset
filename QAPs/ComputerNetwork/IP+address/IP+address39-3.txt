@@ -1,2 +1,0 @@
-★How do I find out ISP from an IP address?
-There probably isn't a deterministic way for your application to determine performance between peers based on just location and their provider - perhaps you can have your peers work off of latency instead? Typically good round trip latency is indicative of an acceptable connection (depending on the bandwidth requirements of your application). To answer your specific question of how to correlate ISP to IP address, Leo hit the nail right on the head with a whois lookup.

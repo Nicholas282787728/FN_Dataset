@@ -1,1 +1,0 @@
-What is the graph of x^2+ (y-3√x^2) ^2=1?|x|≤1  |x|≤1 x=0,|y|=1  x=0,|y|=1 x=1,y=3  x=1,y=3 y=3|x|+1−x 2  − − − − −  √   y=3|x|+1−x2 y ′ =3−x1−x 2  − − − − −  √    y′=3−x1−x2 y ′ =0,x=310 − −  √    y′=0,x=310 y max =10 − −  √   ymax=10 The shape of that function is like stretched heart. 47 Views

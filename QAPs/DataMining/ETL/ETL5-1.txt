@@ -1,2 +1,0 @@
-★Are there any browser based ETL tools?Most of the ETL tools are desktop apps and needs to be installed on a desktop or a server. Are there any ETL tools that are developed as web applications?
-These days, SAS has SAS Studio: http://support.sas.com/resources... SAS Studio I don't know how well it works though, when i still worked with SAS software, it was Enterprise Guide mainly.    Embed Quote

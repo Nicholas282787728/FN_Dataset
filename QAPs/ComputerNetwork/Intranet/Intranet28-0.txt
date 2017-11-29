@@ -1,2 +1,0 @@
-★How can enterprises create an activity stream (like Facebook and Twitter) in their SharePoint intranet?
-Check out our Pulse product...really great extension for SharePoint...integrates with AD, has Q&A capabilities...fits inside My Sites...   check it  out www.whatispulse.com

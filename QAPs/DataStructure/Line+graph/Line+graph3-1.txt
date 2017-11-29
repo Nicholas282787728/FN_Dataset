@@ -1,2 +1,0 @@
-What does a straight line graph indicate?
-A straight line graph can also be used where exponentials are involved. Take the equation Q = AP^x , say.     Eq1 The data concerning Q and P is available, you know that there is not a linear relationship between Q and P. The problem now is to find a value for A and x. If logs. of both sides of Eq1 are taken ,the problem is reduced from being an exponential to a linear one, as. ... (more)

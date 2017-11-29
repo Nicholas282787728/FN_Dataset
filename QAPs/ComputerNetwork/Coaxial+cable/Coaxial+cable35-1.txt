@@ -1,2 +1,0 @@
-★How do I hack my coax cable wire into a internet connection via ethernet?I am in a house upstairs and in my room I have a coax cable that goes to my tv. I also have a wifi but the signal to my room is only 1 bar and my xbox is having problems staying connected wirelessly. How can I turn hack my coax cable tv cord so I can let my xbox tap into the network? Thanks
-There is an early ethernet spec called 10BASE2 which runs over coaxial cable, but you'll probably get far better performance with the weak-ass wireless link.

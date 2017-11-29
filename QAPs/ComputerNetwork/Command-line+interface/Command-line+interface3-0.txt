@@ -1,2 +1,0 @@
-★How important is it to learn command line interfaces?I'm currently learning Python, is this something I should spend time learning, or just go straight to learning more Python?
-More reasons to learn and use the command line: Repeatability. You know what steps need to be done in a task, versus the GUI which can have different results based on the state of user interface. Documentation. It is easier and more accurate to write the commands than the steps.

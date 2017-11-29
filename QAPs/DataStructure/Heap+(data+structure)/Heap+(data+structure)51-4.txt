@@ -1,2 +1,0 @@
-What is the practical application of trees or graphs in data structures?
-Trees: parsers, file systems, heaps, data organization Graphs: finding shortest routes, searching, social network connections, internet routing Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 4.3k Views · 8 Upvotes

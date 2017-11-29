@@ -1,2 +1,0 @@
-How do I design an attribute grammar to evaluate arithmetic expressions and give a complete dependency graph for the expression (1 + 2) * 3 * (4 + 5) n?
-Have you considered doing your own Computer Science homework? You'll learn much more that way. Having said that, this is a reasonable set of notes from a lecture on the topic: Page on ohio-state.edu 

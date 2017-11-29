@@ -1,2 +1,0 @@
-What is type wrapper in Java?
-A wrapper class is a class whose object wraps or contains a primitive data type. When we create an object to a wrapper class, it contains a field and in this field, we can store a primitive data type. In other words, we can wrap a primitive value into a wrapper class object. For example, if we create an object of Character wrapper class, it contains a single field char and it is possible to store a character like 'A' there. So, character is a wrapper class of char data type. 

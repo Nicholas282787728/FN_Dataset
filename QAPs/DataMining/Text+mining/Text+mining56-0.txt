@@ -1,2 +1,0 @@
-★Instead of Python, can I use C or C# for text mining?
-Yes, we can! It all depends on your scale. C strings would be faster. If your system is too complex, it would be probably very hard to do all the low level things in C. High level languages like python are there also for fast prototyping and experiments. More specific systems may be better fit.    Embed Quote

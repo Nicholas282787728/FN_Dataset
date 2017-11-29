@@ -1,2 +1,0 @@
-What is a list of data structures that a competitive programmer must know?
-It's all depends on the question you are trying to solve. In order to solve complex problems ..you need to be aware of Arrays, Stacks, Queues(Types), Trees(Types) , Symbol Tables(Dictionary), Graphs( ShortestPaths) with their understanding and applications. A problem can be solved by using two or more datastructures, but you have to choose best datastructure I.e taking time and space complexity in to consideration. 571 Views · 6 Upvotes

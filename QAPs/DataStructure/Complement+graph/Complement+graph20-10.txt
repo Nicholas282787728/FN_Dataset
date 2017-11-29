@@ -1,1 +1,0 @@
-Why aren't graph databases more popular?Graphs seem like a really natural way to express and query data in many domains.

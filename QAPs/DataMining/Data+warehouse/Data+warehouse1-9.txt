@@ -1,2 +1,0 @@
-★What are alternatives to building a data warehouse?
-For so many, the data warehouse is the answer. But computing changes so fast, there will be alternatives an new methods we will be forced to learn or become dinosaurs.    Embed Quote

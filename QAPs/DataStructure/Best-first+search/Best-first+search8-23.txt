@@ -1,2 +1,0 @@
-What are the 10 algorithms one must know in order to solve most algorithm problems?
-Looking for a silver bullet, er? Bad news: there is none. Maybe in earlier days of programming contests there was one, but nowadays the field is so advanced that you can't any more learn a couple of algorithms and "hit most questions". Standard algorithms are so, well, standard and known to most competitors that there's just no point giving problems which are based on them, at most they are used as building blocks for the solution. 2.3k Views · 2 Upvotes

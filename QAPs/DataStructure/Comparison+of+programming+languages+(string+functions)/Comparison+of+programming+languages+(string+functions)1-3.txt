@@ -1,2 +1,0 @@
-Is PHP dead?What is the job outlook and future of PHP in the next 5 years?
-Originally Answered: Is PHP dying with time?PHP presence on the Web is so overwhelming that it will never die. Even Google reckoned that PHP is present in 75% of the Web servers, and so they could not ignore the PHP market and added native PHP support to Google App Engine after 5 years reluctant to do so. This article describes the whole story with much more details. 5 Reasons Why the Web Platform War is Over: PHP Won with 75% says Google 

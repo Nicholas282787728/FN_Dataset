@@ -1,2 +1,0 @@
-What data structures should I know to become a great programmer?
-Data Structures Machine Data Representation Ones, Two's Complement, and Related Arithmetic Words, Pointers, Floating Point Bit Access, Shifting, and Manipulation Linked Lists Hash Tables (maps or dictionaries) Arrays Trees Stacks Queues Graphs Databases 

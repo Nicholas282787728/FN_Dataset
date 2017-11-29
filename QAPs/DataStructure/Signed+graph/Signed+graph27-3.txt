@@ -1,2 +1,0 @@
-How do I prove this without graphs?
-Well u see ur eqn can be written as a(x-r1)(x-r2) where r1 and r2 are the roots of the eqn. Now u only need to make the sign scheme(the variation of the sign of the eq from -inf to inf). If a is positive , the sign of the eq will be positive for (-inf,r1)union(r2,inf) and negative for (r1,r2) and vice versa. Well since ur N is between r1 and r2 ,the sign of the eqn will be negative ,and so  -a*f(N)>0 . Similarly for a<0. 

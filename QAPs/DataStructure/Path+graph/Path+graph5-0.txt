@@ -1,2 +1,0 @@
-What is the relationship between matrices and paths in graphs?
-Here's my answer to a previous related question: Jonathan Chung-Kuan Huang's answer to Mathematics: What is an intuitive explanation for why raising an adjacency matrix to the power of n gives a new matrix with the number of n-paths? 

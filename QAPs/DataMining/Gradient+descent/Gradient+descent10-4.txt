@@ -1,2 +1,0 @@
-★What are some tips for debugging a gradient descent algorithm that isn't converging?I'm interested in graphical and numerical methods for tuning hyperparameters, batch size, initial weights, etc.
-You ask about mini batch hence are doing stochastic gradient descent. Then step size must decrease or you jump around the minimum. Step size 1/t can be exponentially slow if you start too far. T^-1/2 is uniformly somewhat slow but robust.    Embed Quote

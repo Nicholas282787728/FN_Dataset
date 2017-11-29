@@ -1,2 +1,0 @@
-★How is principal component analysis used in machine learning?
-Data compression (Required memory) Visualisation (Less dimensions) Performance (Cycles and memory) Extra features (Rarely) Note that unless you have highly correlated data you will lose a lot of information in the process.    Embed Quote

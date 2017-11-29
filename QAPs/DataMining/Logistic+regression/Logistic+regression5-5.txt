@@ -1,2 +1,0 @@
-★Why is the output of logistic regression interpreted as a probability?
-With binary data you only have one possible distribution, the Bernoulli, which has only one parameter, the probability of success. Binary regression models generate the conditional probability of success using the Bernoulli likelihood, conditional on regressors passed through the link function (logistic, etc.)    Embed Quote

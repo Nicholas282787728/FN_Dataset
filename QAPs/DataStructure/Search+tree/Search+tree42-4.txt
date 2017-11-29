@@ -1,2 +1,0 @@
-How can we verify that a binary tree is a binary search tree in linear time and constant space?
-for skewed binary tress it will take O(n) to find whether it's a binary search tree for height balanced binary trees or complete binary tree it will take O(n) time 

@@ -1,2 +1,0 @@
-★How can I learn Computer Networking practically?I have only a laptop on which Windows is host and CentOS is running as guest on Virtualbox. I can arrange one more laptop, maybe a printer and a router at most. Is there any increase in possibilities after adding a couple more guest OSs in Virtualbox?
-Buy a cisco router, switch and 2 access points and turn your home network into a real business size network

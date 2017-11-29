@@ -1,2 +1,0 @@
-What are some great non-standard (not widely used) data structures?
-Bloom filters - http://en.wikipedia.org/wiki/Blo... 1k Views · 3 Upvotes

@@ -1,2 +1,0 @@
-What makes C++ so good?
-According to me, the following points makes C++ a brilliant language: -->Simple -->East to understand -->Speed -->Vast amount of Resources available -->Easy Debugging Moreover, after starting to learn C++ as your first language, one can easily adapt  different lang. such as Java, C# etc. 

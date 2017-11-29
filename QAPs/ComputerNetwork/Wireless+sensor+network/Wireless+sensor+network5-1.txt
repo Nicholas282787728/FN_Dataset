@@ -1,2 +1,0 @@
-★Wireless Sensor Network: Is there any program example of simulating wsn with NS2?
-i agree with Nabin Pradhan. Go through Mannasim. It is a tcl/otcl framework for creating ns2 script for the sensor networks. go through this tutorial for the mannasim installation procedure MannaSim Script generator framework installation procedure    Embed Quote

@@ -1,2 +1,0 @@
-What are some brain storming/puzzle questions asked in a data scientist/analyst interview?
-Here's a puzzle I was asked in one of my interviews for analyst profile. In a country in which people only want boys, every family continues to have children until they have a boy. If they have a girl, they have another child. If they have a boy, they stop. What is the proportion of boys to girls in the country? Hint: Try answering this question intuitively and then prove your answer mathematically. 

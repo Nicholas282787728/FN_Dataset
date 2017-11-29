@@ -1,2 +1,0 @@
-How many lines of code can a good programmer write in one hour?
-This question is based on a flaws assumption. Lines of code does not relate to how well written a program is. If I am working on something I already have figured out or is quite generic (like tying a gui to a business layer) then I can write stacks of code, even if some of it is auto generated.  Last week I spent pretty much the whole day writing not more than a dozen lines, the rest was spent debugging, creating test cases and generally trying to figure out an elusive problem in some complex code. 

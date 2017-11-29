@@ -1,2 +1,0 @@
-★What are the most common Regular Expressions one should know?
-. .+ .? .* (.)    Embed Quote

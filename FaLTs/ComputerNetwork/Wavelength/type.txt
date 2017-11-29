@@ -1,5 +1,0 @@
-The term subwavelength is used to describe an object having one or more dimensions smaller than the length of the wave with which the object interacts. For example, the term subwavelength-diameter optical fibre means an optical fibre whose diameter is less than the wavelength of light propagating through it.
-
-A subwavelength particle is a particle smaller than the wavelength of light with which it interacts (see Rayleigh scattering). Subwavelength apertures are holes smaller than the wavelength of light propagating through them. Such structures have applications in extraordinary optical transmission, and zero-mode waveguides, among other areas of photonics.
-
-Subwavelength may also refer to a phenomenon involving subwavelength objects; for example, subwavelength imaging.

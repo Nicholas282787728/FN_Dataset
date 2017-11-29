@@ -1,2 +1,0 @@
-★Why isn't Semantic Web technology used in programming?
-Code is meant to be easy to read by humans. XML is harder to read than plain text. Writing parsers that let a computer understand what's going on in code is tough, but it's a well-solved problem. Look at everything your IDE knows about that "plain text". How would "semantic web technology" make my life better as a programmer?    Embed Quote

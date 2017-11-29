@@ -1,1 +1,0 @@
-If all integral points (x,y) of a infinite area graph (where x,y are integers) are either of red or blue or green or yellow color, and we know the graph sheet has all four colors and each colors have more than 100 dots?Then what would be the probability of drawing an integral  vertex quadrilateral whose all vertex have similar colors?(consider vertex as unordered pair)

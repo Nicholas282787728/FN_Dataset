@@ -1,2 +1,0 @@
-What are some Indian startups working with Machine Learning or Data Mining?
-Check Nube(Large scale name and address normalization and deduplication.) Our tool Reifier is based on machine learning and data mining and helps cleanse business data. Disclosure: I am the founder of Nube.    Embed Quote Updated 17 Dec, 2013. 1,009 views. Asked to answer by Quora User.

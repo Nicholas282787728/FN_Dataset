@@ -1,2 +1,0 @@
-★How do I solve a linear program by the subgradient method?
-yes you are right    Embed Quote

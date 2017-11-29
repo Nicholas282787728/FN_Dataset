@@ -1,2 +1,0 @@
-Is there a name for the graph structure of something like Pascal's Triangle?
-That's a standard rectangular lattice, it's just rotated. You will get exactly the same pattern if you draw a grid into the first quadrant of the plane. 

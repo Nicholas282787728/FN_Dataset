@@ -1,1 +1,0 @@
-How do I merge two sorted linked lists (in place)?It is very simple. A. Iterate both the linked lists starting from the head. Whichever element is less insert it in the new linked list and make it its head. Also to keep track of which elements are already inserted, you delete the element and change it head. B. Repeat the process A till no elements are left. 702 Views

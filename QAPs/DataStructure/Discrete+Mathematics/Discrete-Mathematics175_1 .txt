@@ -1,1 +1,0 @@
-How do I find the negation of the statement (P∧¬R)⟺Q  (P∧¬R)⟺Q ?(P∧¬R)⇔Q  (P∧¬R)⇔Q is equivalent to ((P∧¬R)→Q)∧(Q→(P∧¬R))  ((P∧¬R)→Q)∧(Q→(P∧¬R)) The negation of above is ¬((P∧¬R)→Q)∨¬(Q→(P∧¬R))  ¬((P∧¬R)→Q)∨¬(Q→(P∧¬R)) which is equivalent to ((P∧¬R)∧¬Q)∨(Q∧¬(P∧¬R))  ((P∧¬R)∧¬Q)∨(Q∧¬(P∧¬R)) or equivalently, Q⇔¬(P∧¬R)  Q⇔¬(P∧¬R) 479 Views · View Upvotes

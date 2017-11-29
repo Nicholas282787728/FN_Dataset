@@ -1,2 +1,0 @@
-★Why would someone choose AWS over Azure or vice versa. All previous posts in this topic talk about IaaS vs PaaS but now both the vendors provide both IaaS and PaaS service. So what's the differentiating factor?
-Answer lies in your requirements. If your applications are mainly based on Microsoft Technologies it is better to go with Azure. Else AWS offers a comprehensive set of services that work well together. raj

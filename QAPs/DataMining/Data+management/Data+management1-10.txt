@@ -1,2 +1,0 @@
-What is the best master data management software right now?
-Pitney Bowes' Spectrum Technology Platform provides a unique approach to MDM with its Graph technology. It helps in resolving obvious and non obvious relationships and gives an insight into how entities are connected. With data quality and data integration solutions integrated in the platform, it offers a light weight solution to an end to end MDM requirement.    Embed Quote 

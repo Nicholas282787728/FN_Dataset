@@ -1,2 +1,0 @@
-★Are there any services available to verify physical addresses by sending out postcards with PIN numbers?Ideally something scalable that will automatically send postcards.
-Viapost (http://www.viapost.com/) would let you build something like that yourself, but using letters instead of postcards - it's an API for sending post. You'd still have to generate PDFs for printing, and handle the responses.    Embed Quote

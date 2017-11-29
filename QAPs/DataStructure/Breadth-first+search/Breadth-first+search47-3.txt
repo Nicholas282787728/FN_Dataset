@@ -1,2 +1,0 @@
-What are the advantages of using BFS over DFS or using DFS over BFS? What are the applications and downsides of each?I know how each works.
-DFS is usually better for memory perspective ( you did not need to store all pointers) BFS is faster if you need to go at the end of the three... Bottom line will ALWAYS depends of which data structure are you looking at. Will ALWAYS been a trade off. 

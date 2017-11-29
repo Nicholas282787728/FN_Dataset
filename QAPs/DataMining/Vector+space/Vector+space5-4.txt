@@ -1,2 +1,0 @@
-★What is the difference between a vector field and a vector space?
-A vector space is a R^n set which contains all possible vectors of those n dimensions. It's like an n-dimensional Euclidean space. A vector field can be thought of as a subset of a vector space. Each point (i.e. unique ordered coordinates) has only one vector associated with it. This is not true for a vector space, each of whose points has infinite vectors originating therefrom.    Embed Quote

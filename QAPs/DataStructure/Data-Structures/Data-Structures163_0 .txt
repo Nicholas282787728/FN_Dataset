@@ -1,1 +1,0 @@
-What is the use of the structure variable *start=NULL and *new_node in the below program?Here *start is a pointer of node which os initialized to NULL . And *new_node is a pointer which is further allocated or created a new node of specified size by using malloc function. 25 Views  Answer requested by Gayatri. Ramasamy

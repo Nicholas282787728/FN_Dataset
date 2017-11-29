@@ -1,2 +1,0 @@
-What fields in computer science are as difficult as string theory?
-Problem solving in automata, languages and complexity. Brief automata theory in my case. 

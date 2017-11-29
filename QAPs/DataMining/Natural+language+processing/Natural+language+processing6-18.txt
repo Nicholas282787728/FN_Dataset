@@ -1,2 +1,0 @@
-★What are the available APIs for NLP (Natural Language Processing)?What are the (open and commercial) available APIs for doing Natural Language Processing?
-Apicultur is a API marketplace for Natural Language Processing APIs (it covers Spanish language, for the time being). https://store.apicultur.com/ It includes part of speech tagging, lemmatisation, phonetic transcription, morphological analysis, frequency and complexity analysis of text, etc    Embed Quote

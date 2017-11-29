@@ -1,2 +1,0 @@
-★Why should PCA only be fit on the training set and not the test set?
-Because the point of having a test set is to see how well your algorithm generalizes to data it's not trained on. Training on the test set eliminates the point.    Embed Quote

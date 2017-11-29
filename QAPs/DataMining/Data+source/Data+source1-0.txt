@@ -1,2 +1,0 @@
-What are free data sources?
-Please specify what data you are looking for. A nice API with lots of government, financial and social data is Quandl. https://www.quandl.com/    Embed Quote 

@@ -1,2 +1,0 @@
-What basic data structures and algorithms should one learn before starting competitive programming?
-For starters, you require very few algorithms as it is mostly about logic. Still these are some algorithms worth knowing: Fast Sorting (merge/quick sort , counting sort) Finding all primes in a range: Sieve of Eratosthenes Fast power function: Exponential Squaring Finding Combination: Pascal's Triangle ... (more)

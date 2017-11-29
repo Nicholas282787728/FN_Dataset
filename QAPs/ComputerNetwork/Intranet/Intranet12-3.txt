@@ -1,2 +1,0 @@
-★Which plugins should I use to build an Intranet in WordPress?
-Here’s my actual list of WordPress plugins I'm using right now for our intranet: http://intwp.com/2012/03/wp-plug... The article is on Russian, sorry, but names and links are international :)

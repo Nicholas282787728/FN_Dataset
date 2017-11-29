@@ -1,2 +1,0 @@
-★How is NFC better than Bluetooth?
-In summary: on the speed of data transfer Bluetooth is the winner, but NFC is faster to connect. NFC and Bluetooth are very different wireless technologies: NFC is to connect two devices that are tapped or directly next to each other, while Bluetooth can connect many devices at once anywhere within the 30 to 300 foot range. NFC connections are instantaneous, while making a new Bluetooth connection ("pairing") can take a few good seconds, unless NFC is used to expedite the Bluetooth pairing process.    Embed Quote

@@ -1,2 +1,0 @@
-If 1=5, 2=10, 3=15 4=20 then 5=?
-Originally Answered: If 1=5, 2=10, 3=15, 4=20, then 5=?If 1=5 2=10 3=15 4=20 Then 5 would be 1 as the first equation says 1 = 5 (intuitively). If you look at the pattern, then 5 would be equal to 25 contradicting the commutative property of the equals sign "=".According to the function f : N --> N defined by f(x) = 5x ,domain and range of f is N (Natural Number). Here , when x =1 , f (1) = 5(1) = 5 when x =2 , f (2) = 5(2) = 10 when x =3 , f (3) = 5(3) = 15 when x =4 , f (4) = 5(4) = 20 So , when x =5 , f (5) = 5(5) = 25 

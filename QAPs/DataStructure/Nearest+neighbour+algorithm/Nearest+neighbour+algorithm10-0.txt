@@ -1,2 +1,0 @@
-What is the simplest artificial intelligence pseudocode algorithm?
-For classification the k-NN: k-nearest neighbors algorithm learning: Store everything of the training set (a vector with a label) classify new vector: 1. for every learned vector: Calculate distance 2. sort list of distances 3. take first 3 items and classify as the label that was most often there. If there are 3 different labels, take one of them at random. 

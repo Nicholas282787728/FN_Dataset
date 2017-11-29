@@ -1,2 +1,0 @@
-Why String is different from all other data types in Java?
-Because others is called as methods of java.lang class, while string ids separate class with his own methods, see Why are strings immutable in Java? 

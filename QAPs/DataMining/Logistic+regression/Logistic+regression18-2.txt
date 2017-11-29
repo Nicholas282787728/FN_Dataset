@@ -1,2 +1,0 @@
-★What is the difference between Logistic Regression and Max-entropy classifiers?
-I give a detailed explanation here: What is the relationship between Log Linear model, MaxEnt model and Logistic Regression?    Embed Quote

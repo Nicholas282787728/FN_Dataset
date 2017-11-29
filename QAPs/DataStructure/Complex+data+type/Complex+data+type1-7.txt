@@ -1,1 +1,0 @@
-Why do complex data types compare by the address of their location while primitive types compare by their actual values?Why don't complex data types compare their values by default instead of having to invoke equals()?

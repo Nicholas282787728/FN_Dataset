@@ -1,2 +1,0 @@
-★Can I use gradient descent for a linear function?
-To extend on what Yenson said, gradient projection (take a gradient step, project into the constraints) with step size t^-1/2 gives you a first order method which could be very nice as long as you do not need very high precision, and your constraints happen to be easy to project into (balls of some norms, probability simplex, products of other easy objects, ...).    Embed Quote

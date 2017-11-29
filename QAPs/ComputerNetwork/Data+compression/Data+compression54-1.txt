@@ -1,2 +1,0 @@
-★Data Compression: How should I go about reducing the size of a TIFF file without compromising the quality of the image?
-how i reduce the video files in to kb? any special or facified algorithms is there

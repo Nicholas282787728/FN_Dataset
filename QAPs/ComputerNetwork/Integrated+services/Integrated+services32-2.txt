@@ -1,2 +1,0 @@
-★How does 3rd party web service integration work ?Is it possible to discuss some issues on api design and implementation over a sequence of Q&A series.
-I like to write web services which offer a REST API, so you can write a function / class / service which corresponds with this.    Embed Quote

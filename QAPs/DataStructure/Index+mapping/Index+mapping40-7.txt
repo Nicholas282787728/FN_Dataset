@@ -1,2 +1,0 @@
-What are some must-have software for programmers using Linux?
-Valgrind is very useful for memory checking and profiling, if you're writing something that compiles to native executables. 

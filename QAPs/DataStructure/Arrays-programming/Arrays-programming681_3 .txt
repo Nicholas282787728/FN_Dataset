@@ -1,1 +1,0 @@
-What is the maximum size of an array that I can take on an online judge like CodeChef and Codeforces?Using malloc u can create array of size 10^8 231 Views  View Upvotes

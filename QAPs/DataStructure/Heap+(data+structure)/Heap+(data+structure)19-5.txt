@@ -1,2 +1,0 @@
-Where can I go online to study data structures, such as binary search trees, heaps, etc.?
-I find two courses on Coursera, Algorithms Part I and Part II by Princeton University the best source for learning Data Structures and Algorithms. 111 Views

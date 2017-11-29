@@ -1,2 +1,0 @@
-★What is the difference between CDMA and WCDMA network/sim?
-1. CDMA is a 2G technology while WCDMA is a 3G technology. 2. CDMA and WCDMA are not used together. 3. WCDMA offers much faster speeds compared to CDMA. 4. CDMA uses frequency bands 1.25Mhz wide while WCDMA uses frequency bands 5Mhz wide. 5. The WCDMA doesn’t share the same design as CDMA. 6. CDMA and its successors are being phased out in favor of GSM and WCDMA.

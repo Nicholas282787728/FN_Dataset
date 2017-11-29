@@ -1,1 +1,0 @@
-How do you explain the difference between a heap & a red-black tree to someone learning data structures for the first time?Take three different numerical values A>B>C (and then four) and draw all possible binary heaps. Then draw all possible binary search trees and mark those which are (un)balanced. 

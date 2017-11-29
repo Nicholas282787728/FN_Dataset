@@ -1,2 +1,0 @@
-What are some interesting repositories on GitHub that can be used for journalistic purposes?
-I'd also highly recommend Dataset, made by The Guardian and Beaucoup, at dataset for turning CSV and TSVs or Google Spreadsheets into iterable,filterable JavaScript objects 

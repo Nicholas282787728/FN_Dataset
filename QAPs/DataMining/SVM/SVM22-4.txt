@@ -1,2 +1,0 @@
-★What does support vector machine (SVM) mean in layman's terms?How to calculate the SVM taining accuracy using ROC area
-Hi, sorry for self promotion, but basically I have explained it on my blog some time ago. I hope the explanation I gave is clean enough, but maybe to much detailed, however I encourage you to check: Support Vector Machine (SVM) :) Regards! Joe    Embed Quote

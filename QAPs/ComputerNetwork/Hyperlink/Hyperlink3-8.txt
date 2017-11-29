@@ -1,2 +1,0 @@
-★Why is the logo hyperlink disabled on checkout pages for many e-commerce sites ?I have seen this on many e-commerce sites. The link to homepage on logo is disabled at checkout pages. The obvious reason I can think of is to increase the conversion rate and encourage user to complete the purchase. Is there any other particular reason for this ?
-Another reason might just be that, the checkout page is hosted by another company in the "white label" fashion, and the shopping cart solution just don't like the links.    Embed Quote

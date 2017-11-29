@@ -1,2 +1,0 @@
-★Is this a correct analogy for Domain Name Server?
-More correct analogy would be the Address Book in your Cellphone (or Contacts list as you call it), Because it helps you remember the name and not the number, same is case with DNS, you do not need to remember IP address ever, only the website name. Note:- In Telephone Directory you still have to dial the number yourself, after you know the name.

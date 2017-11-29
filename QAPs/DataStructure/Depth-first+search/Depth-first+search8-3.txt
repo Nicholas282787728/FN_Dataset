@@ -1,2 +1,0 @@
-How do I solve a maze with depth first search?
-To solve any maze that starts at a corner or edge and ends at a corner or edge, do this: Every turn you encounter, turn right. At a dead end, turn back, continuing with the turn right rule. 1.8k Views

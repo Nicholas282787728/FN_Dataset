@@ -1,2 +1,0 @@
-What are examples for problems that are best solved by robust programming?
-i would say all sensitive system where a valid answer is the most improtant thing instead of the best solution. especially when lifes depend on a setup this setup needs to be robust. one other example which comes to my mind are phased array antenna. the calibration of them is often made via robust optimization 

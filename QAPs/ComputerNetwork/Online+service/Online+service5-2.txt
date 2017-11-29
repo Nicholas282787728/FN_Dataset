@@ -1,2 +1,0 @@
-★What are some online services that provide group collaboration on the web?I have a group of 30 or so disparate partners that we want to be able to communicate together online.  Think Yammer with message boards.
-This is basically what we're working on at Pie (Pie - Better chat for work) It's a group chat app that makes chatrooms for every piece of content: On the left side you can see a stream of recently shared items. The right side shows discussion on the selected item.    Embed Quote

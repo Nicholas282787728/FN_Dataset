@@ -1,2 +1,0 @@
-★What is HTML?
-It helps you to make structure of page like how your page look a like.  css: gives colors, shapes, style finishing to that structure Server side Languages like Python PHP gives life To that structure

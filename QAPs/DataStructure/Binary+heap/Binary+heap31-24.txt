@@ -1,2 +1,0 @@
-What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
-Binary Indexed Trees. I find it cool to implement so much "efficency" within a couple of lines. I also absolutely love the union find data structure. 

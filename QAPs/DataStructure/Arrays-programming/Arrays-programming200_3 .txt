@@ -1,1 +1,0 @@
-Why don't they (CS book writers and programmers) make arrays that are sequential in memory and linked together?Thats called a "space" and is another type of abstract data type. However it has different properties then an array. It takes longer to make random access to, for instance. 27 Views

@@ -1,5 +1,0 @@
-How do two computers with the same IP from different networks communicate with each other? How does the routing work?To get into more details, let¡¯s first discuss private and public networks.
-
-IP addresses from private networks are not routable from Internet while Public IP addresses are.
-
-Some ranges of IP addresses are reserved for private networks and rest of the IP address ranges are allocated to ISPs, Corporations etc.. as public IP addresses. (Excluding a few more reserved IP address spaces)

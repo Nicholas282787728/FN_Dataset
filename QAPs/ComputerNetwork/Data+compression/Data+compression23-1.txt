@@ -1,2 +1,0 @@
-★Is there still a long way to go in data compression algorithms?
-Data compression depends on two factors - the amount of information in the data,  and the loss we are willing to accept. We already know the maximum compression of the first factor - Kolmogorov complexity - and we can reach that limit. The second factor is more interesting,  and there may be some room for improvement. But - the importance of compression is getting lower over time.   Doubling storage cspacity is easy,  but doubling compression ratio is very hard.

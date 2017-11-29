@@ -1,1 +1,0 @@
-How do I make the edges of a MDF board smooth?There is a tool by the name of router that is basically used to dmooth edges make patterns in mdf board. 6 Views

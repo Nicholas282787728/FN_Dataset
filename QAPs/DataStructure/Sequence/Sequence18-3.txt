@@ -1,2 +1,0 @@
-The sequency of the number is 17. If the second number is 3. What is the first number?
-IF the second number is 3, then the second number is.....  3. (And I didn't even have to know what sequency is!) Many math problems have "red herrings" (facts that aren't actually needed to solve the problem, but are there to distract people). 

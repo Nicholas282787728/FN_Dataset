@@ -1,2 +1,0 @@
-★Is there any way to run BlueStacks on a proxy server?
-I believe an easier way would just be to connect to a VPN on your host machine.    Embed Quote

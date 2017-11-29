@@ -1,2 +1,0 @@
-★What is a good, simple and easy-to-use knowledge management tool that can keep track of business processes?Preferably an online (cloud based) Knownledge Base tool that once can integrate with Basecamp or offers APIs for customization and is small business owner friendly.
-Try Bloomfire.com. Comes with an API and is used by over 3000 organizations. (Disclaimer: I work there. It's awesome.)    Embed Quote

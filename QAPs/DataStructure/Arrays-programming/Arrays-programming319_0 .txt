@@ -1,1 +1,0 @@
-Purpose of converting string to character array in Java?Its depends; however String are immutable hence how cannot change the particular character or character a particular location, if we convert string into array we can access the characters at particular index or access any location randomly 11 Views

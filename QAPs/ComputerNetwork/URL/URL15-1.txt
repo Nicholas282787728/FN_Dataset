@@ -1,2 +1,0 @@
-★Do URL shorteners affect Google indexing?Tweeting links to newly published pages can help them get indexed faster, but does it matter if a url shorterer is used or not?
-Back when Google had Realtime search, they would "unshorten" URLs and then aggregate all links pointing to an article ("shared by xx people"). So yes, Google can follow shortened links (even if they're no-follow) and resolve the 301 redirect appropriately. In my opinion, using well known shorteners should not affect indexation on social media platforms.    Embed Quote

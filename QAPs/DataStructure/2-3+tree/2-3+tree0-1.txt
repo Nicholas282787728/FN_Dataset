@@ -1,2 +1,0 @@
-What are 2-3 trees good for? When would you use a 2-3 tree rather than an AVL or other type of balanced BST? Frequently asked in
-2-3 trees are equivalent to RB trees. So when you only need a lot of retrieval operations but just few insertions, you may want AVL tree. In other cases, RB tree provides better average performance. You would use 2-3 tree very rarely because its implementation involves different types of nodes. Instead, people use RB trees. 

@@ -1,2 +1,0 @@
-Non-Profit Technology: What is a good volunteer data management program?
-Salesforce.com (10 users free) + Non-Profit Starter Pack + Groundwire Engage ($960.00/year) + Volunteers for Salesforce (free) = robust volunteer management system.  Integrate a mass emailing tool like Vertical Response (10,000/month free) with Salesforce and you have a solid foundation for about 1k/yr with no usage fees for the foreseeable future, unless you are tracking massive amounts of volunteers.  I believe Volgistics charges by the entry, which can become costly.    Embed Quote 

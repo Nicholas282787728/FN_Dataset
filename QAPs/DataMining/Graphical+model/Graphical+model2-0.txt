@@ -1,2 +1,0 @@
-★Is the brain a graphical model?Hinton, for example, suggests it is in his paper, "What kind of a graphical model is the brain?" http://www.cs.toronto.edu/~hinto... This is a follow-up question to How does the brain search memory?.
-Yes. The brain is a graphical model. The processing power and memory storing capabilities are all inherent in the design of linking up neurons to axons to other neurons.    Embed Quote

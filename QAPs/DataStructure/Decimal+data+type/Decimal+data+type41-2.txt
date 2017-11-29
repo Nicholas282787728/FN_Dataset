@@ -1,2 +1,0 @@
-How do I multiply two large numbers stored as strings in the C#?
-You could cast them as one of the numeric types and multiply as usual. Cast data type should be based on expected data type your string contains (integer, float etc.). Before casting, you may apply other business logics - removing spaces etc. You should plan in advance what kind of strings are supported - do you want to support "2.5 millions". You should be prepared to do exception handling. What if a string has two decimal points. 

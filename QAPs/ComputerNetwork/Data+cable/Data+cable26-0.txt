@@ -1,2 +1,0 @@
-★Why does my iPad show "not charging" when I connect it with my laptop with a genuine data cable?
-If you are using third party cables, then there are high chances for the cable to network when you are using iOS 7 and above. Apple made sure of that from iOS 7.

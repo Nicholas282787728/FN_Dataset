@@ -1,2 +1,0 @@
-★Can one track my real IP address when I use VPNs?
-It depends on where your VPN termination points are.  Think of VPN packets as a continuous stream of limousines with blacked out windows.  You can always tell where the limousines are going because you can track them through the highways and roads and see where they originate and where they end up but you can't tell what's/who's in them.

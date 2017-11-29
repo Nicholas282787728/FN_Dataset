@@ -1,2 +1,0 @@
-What algorithms and data structures should any software engineer know?
-This maybe a bit controversial, but I've found having a solid understanding of graphs can help formulate a lot of problems. This includes things like: Network topology Shortest path problem Topological sorting ... (more)

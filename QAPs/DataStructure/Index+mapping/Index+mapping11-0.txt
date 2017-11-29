@@ -1,2 +1,0 @@
-Can index alias combine 2 indexes that have completely different mappings (schema)?
-Yes, alias can combine two or more indices with completely different mapping. Multiple Indices: A search request can target multiple indices, so having the search alias point to tweets_1 and tweets_2is perfectly valid. However, indexing requests can target only a single index. 

@@ -1,2 +1,0 @@
-★Can PostgreSQL replace Oracle in a multi-TB data warehouse?
-Can you explain how you are optimizing your data warehouse?    Embed Quote

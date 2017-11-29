@@ -1,2 +1,0 @@
-How do I check if a non-binary tree is height balanced?
-As you have not asked for the code I am just writing the algorithm Assuming trre to be an n-ary tree 1.Start from the root vertex 2.compute the max and min among height of all its children if the difference between max and min is greater than 1 then tree is not height balanced 3.Recursively do this for all of its children until you hit null. 

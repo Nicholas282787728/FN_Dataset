@@ -1,2 +1,0 @@
-What can be done with Ruby or Python that just can't be done with PHP?
-System Admistration. PHP made for Web but Python and Ruby are more general scripting languages used a lot for SA tasks as well as for Web (I prefer Python or Ruby over PHP for Web. PHP is one of the ugliest language ever) 

@@ -1,1 +1,0 @@
-Can you solve the equation x+y+z=39 over the positive integers?We can tell how many possible solutions exist for x + y + z = 39 such that x,y,z are all positive integers. The answer would be (382)  (382) = 38⋅372   38⋅372 = 703 possible solutions exist such that x,y,z are all greater than 0. x can vary from 1 to 39, so can y and so can z 98 Views · View Upvotes

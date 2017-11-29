@@ -1,2 +1,0 @@
-Does Twitter continue with its "entire-graph-on-one-machine" design for the WTF (Whom to Follow) service?
-For WTF, we have moved away from using the entire graph on one machine model, and now using MapReduce (via Hadoop) and other open-source batch-processing tools that distribute the graph over a cluster. 

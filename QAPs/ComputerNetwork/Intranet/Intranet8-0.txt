@@ -1,2 +1,0 @@
-★What intranet does Apple use?The market for intranet isn't very diverse. Most are way to complicated, both for administrators and end-users. I doubt Apple would settle with Sharepoint or the likes of it. Does anyone know what they actually use?
-It was built in house when I was there. The thing to remember is Apple had one of the first networks period compared to most tech companies back then, so things like Sharepoint didn't exist. Their "17" A Class IP Address range should be proof enough to how early they had things wired up (early 90's).

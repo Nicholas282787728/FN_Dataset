@@ -1,2 +1,0 @@
-What is an algorithm to find a longest path in a unweighted directed acyclic graph?
-If it's a acyclic graph(tree), then this algorithm should work How does following algorithm for finding longest path in tree work? This will run in [math]O(E+v)[/math] 

@@ -1,2 +1,0 @@
-★How does Quora answer rating system affect the accuracy and/or usefulness of its knowledge base?A follow up to: How is Quora my best source of knowledge if intelligence is almost officially not considered important by writers and upvoters?
-Slashdot has a tag system ("insightful", "informative", "funny", "interesting") that accompanies the upvotes. Perhaps Quora needs something like this (with a few additional tags) that help to define the upvote or which allow filtering based on those tags.    Embed Quote

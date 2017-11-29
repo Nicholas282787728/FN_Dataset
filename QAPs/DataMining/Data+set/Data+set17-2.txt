@@ -1,2 +1,0 @@
-What are differences between large data set and data stream?
-I would think that anything attached to a active sensor or listener would be considered a data stream.  The output of a digital thermometer broadcasting to anything that is listening would be considered a data stream.  However, the history of NYC temperatures measured since recorded time would be considered a very large data set.    Embed Quote 

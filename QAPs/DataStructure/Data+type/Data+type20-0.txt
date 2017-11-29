@@ -1,2 +1,0 @@
-What means system defined data types and user defined data type?
-I think system defined data types are which you can reuse w/o creating them, e.g : int,char,.... And user defined data types could be : Person, Meal, Item,... and many more. Its just my understanding about these types. 955 Views

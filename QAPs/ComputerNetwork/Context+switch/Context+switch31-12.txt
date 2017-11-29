@@ -1,2 +1,0 @@
-★What is a coder's worst nightmare?
-You faced with a bug, you searched for it in Stack Overflow, you found EXACTLY the same problem asked by anybody else and you saw that there is an accepted answer with many "thank you! worked like a charm" comments below. You got really happy that you found the solution, you applied that solution in your code to fix it. And it didn't work. Very disappointing.

@@ -1,2 +1,0 @@
-★What are the disadvantage of genetic algorithm?
-The very basic disadvantage of Genetic algorithm is its unguided mutation. The mutation operator in GA functions like adding a randomly generated number to a parameter of an individual of the population. This is the only reason of a very slow convergence of genetic algorithm. We can do away with this problem by combining it with some other algorithms which perform guided search like Differential evolution.    Embed Quote

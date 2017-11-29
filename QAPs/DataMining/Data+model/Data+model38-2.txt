@@ -1,2 +1,0 @@
-What are some good "beginner level" data modeling/analytics approaches to kick start a data science/analytics team?
-Churn modeling is a good one. I'd also recommend some sort of a segmentation model that breaks user groups down by acquisition source. Both of these things can be visualized pretty easily, which helps with "wow factor". I wouldn't bother with email re-engagement analysis -- the incremental improvement numbers are so small (<1-2%) that it's difficult to really impress upon people how big of an impact the results can have.    Embed Quote 

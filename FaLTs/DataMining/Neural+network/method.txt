@@ -1,1 +1,0 @@
-Evolutionary methods,[85] gene expression programming,[86] simulated annealing,[87] expectation-maximization, non-parametric methods and particle swarm optimization[88] are other methods for training neural networks.

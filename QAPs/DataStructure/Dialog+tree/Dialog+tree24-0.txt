@@ -1,2 +1,0 @@
-Are there any AI systems that work by a debate-like process between alternative points of view?
-To add to Michael Miller's interesting contribution - in the field of Discourse analysis there are a number of rhetorical tools and techniques. For details, see my quick and dirty webpages: Rhetorical Parser | Meta-Guide.com Rhetorical Structure Tree | Meta-Guide.com RST (Rhetorical Structure Theory) & Dialog Systems | Meta-Guide.com 

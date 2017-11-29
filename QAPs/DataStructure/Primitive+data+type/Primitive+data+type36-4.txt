@@ -1,2 +1,0 @@
-How should I store huge numbers (more than 100 digits) in Java and C++?
-import java. math. BigInteger; Import this class in Java and C++ also contains the biginteger class (google for that) Example: if you want to store the integer containing 100 digits,  input it as a String say String s BigInteger a=new BigInteger(s) ; Alternatively,  you can directly take input as a BigInteger but taking input as a String and then convert it into BigInteger takes less time as compared to taking input as a BigInteger directly. PS: Time complexity matters. hope this helps. 

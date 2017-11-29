@@ -1,2 +1,0 @@
-What are some good MapReduce implementations for graphs?
-I would like to add to Ankur's answer. After realizing that matrix-vector multiplication is a basic primitive with which one can solve numerous graph mining problems, including triangle counting (Fast Counting of Triangles in Large Real Networks without Counting: Algorithms and Laws),  we built Pegasus Peta-Scale Graph Mining System. This  is one of the first open source Hadoop-based systems that was able to handle large-scale networks. 

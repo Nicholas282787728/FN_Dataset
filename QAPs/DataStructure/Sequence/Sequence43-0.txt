@@ -1,2 +1,0 @@
-What are the best visualizations of sequence alignments?
-I use IGV. It's free and can upload tracks in multiple different ways. You can look at .bam files, and see not only the individual tags, but also coverage. With .bw files, you can look at normalized alignments of your sequences if you want. 

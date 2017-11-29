@@ -1,2 +1,0 @@
-How should I choose whether I should use Student's t-test, Mann–Whitney U-test or ANOVA?
-T-test and Mann Whitney U are for two groups (there is also a one sample t-test, but that's probably not what you have in mind) ANOVA is for more than two groups. T-test makes assumptions about the distribution of the variables. Mann Whitney relaxes those assumptions.  In particular, the t-test assumes that the variables follow a Gaussian distribution. 

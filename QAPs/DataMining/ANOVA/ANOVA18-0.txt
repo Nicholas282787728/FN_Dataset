@@ -1,2 +1,0 @@
-★What is the non-parametric equivalent of factorial repeated measure anova ?
-Friedman test. Developed by Milton Friedman, who is far better known for other things, including winning the Nobel Prize* for economics. *I know it's not really called that, but I can't remember the real name, and everyone calls it that anyway.    Embed Quote

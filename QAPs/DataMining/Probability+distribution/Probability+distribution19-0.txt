@@ -1,2 +1,0 @@
-★Why are probability distributions sometimes referred to as laws?
-Probability distributions are nothing but statistical representation of certain phenomena. They are sometimes called as laws because these distributions help to explain different physical phenomena in the universe. e.g. the gaussian distribution.    Embed Quote

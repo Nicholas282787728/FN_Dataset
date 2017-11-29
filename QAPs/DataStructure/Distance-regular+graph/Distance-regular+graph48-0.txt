@@ -1,2 +1,0 @@
-What Uniform continunity of a function gives on the graph?
-If a function from [math]\mathbb{R}[/math] to [math]\mathbb{R}[/math] is continuous on a closed interval, then it's uniformly continuous on that interval.  So you don't really get any insight into the difference from looking at graphs here. 

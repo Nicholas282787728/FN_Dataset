@@ -1,2 +1,0 @@
-★When I model logistic regression on my train set it works, but when I do it on the test it fails. The variables are the same. What is the problem?
-Can I e-mail you the dataset? I'm really hopeless :(    Embed Quote

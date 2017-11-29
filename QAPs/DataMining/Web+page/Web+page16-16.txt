@@ -1,2 +1,0 @@
-★What is a good service that provides visual heatmaps of user clicks on a web page?I have already checked out crazyegg and clickdensity and am not impressed by either. Is there a service you would recommend? Is there an open source solution?
-Checkout www.heatmap.ca is the only free service, I mean 100% free! 500k clicks, unlimited page views, click and tap playback!    Embed Quote

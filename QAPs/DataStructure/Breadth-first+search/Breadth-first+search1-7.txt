@@ -1,1 +1,0 @@
-How does breadth-first search (BFS) work?With a queue? An intuitive explanation assuming no any prior knowledge in data structure would be greatly appreciated.

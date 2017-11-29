@@ -1,2 +1,0 @@
-How do the conditions for continuity differ from the conditions for differentiability for mathematical functions?Thank you!
-The Weierstrass function is continuous on the entire real line but doesn't have a derivative at even a single point.  If you take the time to understand why that happens, you'll get the difference between the two conditions in great detail. 

@@ -1,2 +1,0 @@
-Computational Complexity Theory: What are some NP-complete problems involving complete graphs?
-Here is a decent list: -Travelling Salesman Problem -Clique Note that most graph theory problems need to handle complete graphs so most other graph theoretic problems that are NP-complete apply: -Vertex Cover -Steiner Forest -Max-Degree Minimum Spanning Tree -... (and more and more and more!) 

@@ -1,1 +1,0 @@
-Which data type should I use for storing n=10^14 in C?18 digits gives a maximum possible value of 999,999,999,999,999,999 ≈ 9.9 × 10 17. This will fit into an unsigned, 64-bit integer (maximum value 264, which is about 1.8446744 × 1019). Try using the uint64_t type to ensure that you get this. Hope this helps! 57 Views · Answer requested by Prerana Babbar

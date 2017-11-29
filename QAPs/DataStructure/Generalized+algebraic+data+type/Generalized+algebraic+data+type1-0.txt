@@ -1,1 +1,0 @@
-Does Swift have any support for Generalized Algebraic Data Types (GADTs)?No, and I wouldn't expect it to be a feature any time soon. One of my main objections to its eventual inclusion is that GADTs require existentials which interact poorly with subtyping.

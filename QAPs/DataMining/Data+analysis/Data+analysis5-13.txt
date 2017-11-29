@@ -1,2 +1,0 @@
-How do I learn data analysis for Python?
-Since alot of people have already suggested the Coursera program, I'd like to add Google's Introduction to Python free online program (Google's Python Class) to the list as well. This is the same course Google provides to its employees internally who choose to enter Data Science field by learning Python programming as a starting point. Also, Udacity has a free course on similar lines as well. My current setup: Google's Python class -> Coursera (Data Analysis + Python 1 & 2 courses to start in May 2015) -> Certification    Embed Quote 

@@ -1,2 +1,0 @@
-★What is the best book about computer networking?
-As you are asking for the "basic" one, I would suggest Head First Networking The book has many easy examples to make you understand networking and it is written as a story so you never get bored and also the language is pretty straightforward.

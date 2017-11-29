@@ -1,2 +1,0 @@
-What is an algorithm to convert from an adjacency matrix to adjacency lists?
-I'm not sure if there exists a specific algorithm to it. Here is the naive one: adjList = adjacency list For each row i of the matrix:         For each column j in row i:                 if matrix ij =1                          adjList i .append(j)  

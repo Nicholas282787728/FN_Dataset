@@ -1,2 +1,0 @@
-What is the architecture of Amazon DynamoDB?
-Not much is known except that it leverages SSDs. One thing is for sure, apart from the name there is little that is shared between DynamoDB and the Dynamo paper. For instance the Dynamo paper explains a simple key value store while DynamoDB supports range keys, secondary indexes, complex data types, conditional writes and more. 

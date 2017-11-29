@@ -1,2 +1,0 @@
-★What course slides are best for graph theory?
-Don't know about slides, but you can have a look at Graph Theory course by IISc. It has good explanation of all the concepts and proofs. NPTEL :: Computer Science and Engineering    Embed Quote

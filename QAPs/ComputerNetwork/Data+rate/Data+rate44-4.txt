@@ -1,2 +1,0 @@
-★Econometrics: When doing a regression on macroeconomic data, do you regress the underlying data or the rate of change? How do you choose?
-This question can be answered in a short and straightforward manner. If whatever you are trying to predict is likely to be dependent on the amount of change in some signal rather than the absolute value of some signal, you should use the "amount of change" as an input to your predictive model.

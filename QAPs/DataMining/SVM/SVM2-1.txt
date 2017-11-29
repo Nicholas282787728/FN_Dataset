@@ -1,2 +1,0 @@
-★What is the computational complexity of an SVM?
-I agree with Alexandre. As a rule of thumb I use: O(n_samples^2 * n_features) for RBF kernel using SMO solver and n_sample * n_features for linear SVMs such as liblinear also noting that strong regularization (low C) makes it faster to converge too.    Embed Quote

@@ -1,2 +1,0 @@
-★What is the difference between baud rate and bit rate?
-Bit :Unit of information Bit rate : number of bits transmitted per second (b) Baud:unit of signalling speed Baud rate:number of symbols transmitted per second (s) Now we have b = s * nwhere n= number of bits per symbol.

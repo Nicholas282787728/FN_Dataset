@@ -1,2 +1,0 @@
-★What are some of the fascinating open problems in wireless communication and networking as of now?
-I'm just writing a blog on some of these ideas - many of which will feed into 5G. Full Duplex - eg Kumu Beanm-shaping & massive MIMO eg Is pCell, from Artemis, really "the Holy Grail of wireless networking"? New error correcting codes Increasing frequency (28GHz, 70GHz, etc) Better ways of linking IP to wireless (current systems are not optimised)    Embed Quote

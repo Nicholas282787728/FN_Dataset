@@ -1,2 +1,0 @@
-★Do mobile networks follow the OSI model or TCP/IP or any other models?
-Mobile networks are classified (for the majority of the part) at the Layer -1 (Physical). Like Wired, Wireless, Optical.    Embed Quote

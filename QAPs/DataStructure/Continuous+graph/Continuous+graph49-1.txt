@@ -1,2 +1,0 @@
-How do I find the point of discontinuity for the function x 2  − −  √   ?
-Thanks for A2A.  I agree with David Joyce.  The function is continuous everywhere.  Moreover, its first order derivative (slope of the plot) is discontinue at x=0. 

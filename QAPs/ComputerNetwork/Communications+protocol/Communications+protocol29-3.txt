@@ -1,2 +1,0 @@
-★What software/networking protocols are used to communicate with the Philae lander?
-The radio signals from all probes are received and processed by NASA's Deep Space Network: Deep Space Network - GDSCC It consists of three space communications facilities located in Barstow, California in the USA, Madrid in Spain and Canberra in Australia

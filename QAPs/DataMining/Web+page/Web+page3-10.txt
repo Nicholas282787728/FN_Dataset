@@ -1,2 +1,0 @@
-★Designers: How do I make better looking web pages?
-To add to Hector's answer, learn one of the HTML CSS frameworks. Twitter Bootstrap seems to be the current favourite, but there are many others. Having graphics skills, such as Photoshop or equivalent may be an advantage    Embed Quote

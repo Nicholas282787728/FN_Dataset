@@ -1,2 +1,0 @@
-In the context of Java, is it correct to say that an interface is an abstract data type and a class is a data structure?
-No. Data Type holds data whereas Interface doesn't hold anything. Interface is a contract about how to communicate with the underlying Class. Data type: a set of values together with operations on that type Data structure: a physical implementation of a data type Class can be better seen as Data Type. This could be a Data Structure too in some cases. 

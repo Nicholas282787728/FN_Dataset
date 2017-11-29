@@ -1,2 +1,0 @@
-★Why does WiFi "relieve" a cellular network? Does it actually use a different network?
-Pictorially, this picture (from Ruckus Wireless) shows in a simplified way how the mobile technologies, Wi-Fi and Fixed access use different access networks but can use the same core network and be able to provide similar services and applications: Source: Is Wi-Fi the third RAN?

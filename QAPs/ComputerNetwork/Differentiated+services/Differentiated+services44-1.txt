@@ -1,2 +1,0 @@
-★How accurate are Google Maps time estimates for the subways in NYC versus hopstop?Google maps estimates seem to be consistently ~10min shorter than hopstop for the same door to door trips; which is more accurate?
-There's a solution that's worlds better than both of the ones listed, called iTrans. It's in the App Store, and it has the actual subway timetables as well as very up to date info on service changes and repair outages. Also caches the main map data so its even useful on the subway without a signal. Highly recommend.

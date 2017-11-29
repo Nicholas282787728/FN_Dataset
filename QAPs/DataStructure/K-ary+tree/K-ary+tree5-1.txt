@@ -1,2 +1,0 @@
-How can we implement trees (Binary tree) using the LinkedList class in java?
-LOL! no LinkedLists(LL) cant be represented as trees.Arrays can be represented as k-ary tree but not LL They can be transformed to trees though and also vice-versa but cant be represented. 

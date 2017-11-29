@@ -1,2 +1,0 @@
-★What's the best way to get started with firmware/embedded systems programming?
-If you are looking to start with embedded programming, I personally recommend Arduino to get a feel of embedded systems programming. Although, when you move on to more complex architectures (ARM, etc.), and you should very quickly, you'll realize, that Arduino was just to get your interest going. Programming other architectures is a whole different story. But, for a start, Arduino would do.    Embed Quote

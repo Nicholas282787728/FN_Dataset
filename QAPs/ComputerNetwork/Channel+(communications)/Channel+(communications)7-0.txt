@@ -1,2 +1,0 @@
-★Which communication channel is used by the International Space Station for tweeting?If they communicate in broadcast which security protocol they use?
-Ku-band. Non-operational data is sent, along with video and payload data, via TDRSS to the ground using Ku-band.  It is encrypted.  The key strokes are then sent to a PC in the Mission Control Center, from which the actual tweet is generated and sent over the internet to the Twitter server.

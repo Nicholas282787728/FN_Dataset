@@ -1,2 +1,0 @@
-★HTML5: What are the most important client-side (HTML5/CSS/JavaScript) libraries and why?I defer to the quora community to define "important" through the use of upvotes, as that's largely inevitable anyways.
-For big JS applications that need dynamic code loading there is YUI. As a side note for date manipulation (with localization that works): http://momentjs.com/

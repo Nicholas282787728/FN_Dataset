@@ -1,2 +1,0 @@
-Given a set of strings (400 or so) what is the best way to generate a regular expression to match a substring of them all. Is there an app for this?
-The obvious solution for me is to write a script and do it yourself. This "app mania" has really gotten out of control. 

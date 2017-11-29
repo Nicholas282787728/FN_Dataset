@@ -1,2 +1,0 @@
-How can I add a Node at the front of the Doubly Linked List?
-Read your printlist function carefully, very very carefully. And if you are still wondering what is happening, comment all the printlist calls in the main method except the last one and see what happens. 

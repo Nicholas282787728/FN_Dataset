@@ -1,2 +1,0 @@
-★How do I do logistic regression modeling in Hadoop map reduce?
-Use Spark+MLLib, Hadoop Mapreduce may not be convenient to use.    Embed Quote

@@ -1,2 +1,0 @@
-★What is the best IM client on Ubuntu?Web apps included
-For me, Empathy is a friendly way to use the chat. For audio chat or videoconference I would use Skype (meanwhile GTalk videochat is ready).

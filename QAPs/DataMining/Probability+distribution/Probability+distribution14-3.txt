@@ -1,2 +1,0 @@
-★Can a Bayesian posterior probability distribution collapse in the same way as a quantum wavefunction?Say, you have new information N*, where P(X|N*) = 1. Does that effectively collapse the Bayesian posterior probability function?
-Yes, a lot of people have been working on this as a Bayesian reformulation of Quantum Mechanics. I've seen a lot of this especially with Quantum Computation.    Embed Quote

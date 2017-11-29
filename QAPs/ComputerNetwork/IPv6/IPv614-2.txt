@@ -1,2 +1,0 @@
-★Why couldn't MAC addresses be used instead of IPv4 or IPv6 addresses for networking?
-MAC addresses cannot be aggregated.    Embed Quote

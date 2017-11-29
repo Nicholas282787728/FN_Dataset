@@ -1,2 +1,0 @@
-★What are the deep learning methods of feature selection?
-There are several options: Use stacked autoencoders and keep the last hidden layer as your features. Use stacked RBMS (Deep Belief Network) and keep the last layer as features. Use sparse filtering in several layers. Use convolutional deep networks (for images)    Embed Quote

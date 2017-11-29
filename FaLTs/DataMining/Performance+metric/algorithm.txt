@@ -1,1 +1,0 @@
-Gauss–Newton algorithm Gradient descent Levenberg–Marquardt algorithm: a hybrid of Gauss-Newton and gradient descent

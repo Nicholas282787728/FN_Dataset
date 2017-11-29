@@ -1,2 +1,0 @@
-★What are some Simple Pattern Recognition Project for amateurs?
-Here's what I first did as a beginner in this field. Having been fascinated by Neural Networks, I tried to build a hand gesture recognition system using a simple feed-forward network. I used my webcam to capture images of my hand doing various gestures and trained a simple neural network with just one hidden layer containing about 20 neurons. To my surprise, it did a great job, more than enough to encourage me to dig deeper.    Embed Quote

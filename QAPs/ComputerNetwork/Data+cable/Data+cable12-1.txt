@@ -1,2 +1,0 @@
-★How can I access the internet in my Windows 8 phone from my laptop using data cable?
-Instead you should create a wifi hotspot in your laptop  to access Internet in your phone.

@@ -1,1 +1,0 @@
-What is the easiest way to prove that if the intersection of 2 paths is a connected graph, then the union of the 2 paths has at least one circuit?

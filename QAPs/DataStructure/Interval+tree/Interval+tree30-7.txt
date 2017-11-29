@@ -1,2 +1,0 @@
-What should I expect in a Software Engineer interview at Google and how should I prepare?
-Moishe hits the mark above, but I wanted to add: for the most part, the interviewer really wants you to succeed and do well. We discourage trick or gotcha questions, and you should feel free to ask clarifying questions. We're really trying to figure out what you know rather than exposing what you don't. I've done 150+ interviews and served on committees, as well as taught interview training. Loosen up, be confident in what you know and try to enjoy the experience. 

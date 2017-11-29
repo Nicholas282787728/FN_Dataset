@@ -1,2 +1,0 @@
-★I have RJ45 cable connection from my ISP, but I have router with DSL (means RJ11) port. Can I connect it?
-A router with only RJ11 port? very interesting...well in this case a converter via Ebay may help you out but I can take a while to reach you best option is to change router

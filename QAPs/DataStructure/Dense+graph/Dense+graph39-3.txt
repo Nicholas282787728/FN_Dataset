@@ -1,2 +1,0 @@
-Graph Theory: What's the intuition behind a Laplacian matrix?
-I found this paper to be a great introduction to laplacian matrices http://its-interesting.com/2015/...   Believe it or not, the first author on this is an NFL offensive lineman for the Baltimore Ravens! 

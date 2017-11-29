@@ -1,2 +1,0 @@
-★What is ANOVA?
-The logic of ANOVA, on a conceptual level, is a lot more straight forward than some make it out to be. It's just a calculation of the variance between groups, divided by the variance within groups. If the difference (the quotient) of this equation is significantly greater than one, then we attribute the difference to whatever the variable of interest was that differentiated between the two groups.    Embed Quote

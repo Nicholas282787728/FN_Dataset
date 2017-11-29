@@ -1,2 +1,0 @@
-★What IP address does a client use as source IP address while making a DHCP request and where does the DHCP server send the reply to?
-A broadcast message is sent to dhcp using Mac address and IP address as 0.0.0.0

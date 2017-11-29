@@ -1,2 +1,0 @@
-★Which DNS server does Google use?Is it Bind9, or something created internally?
-Google does not use any third party DNS management software such as BIND, instead relying on a custom-built implementation, conforming to the DNS standards set forth by the IETF.

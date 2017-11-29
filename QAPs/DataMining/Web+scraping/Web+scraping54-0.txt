@@ -1,2 +1,0 @@
-★What is the best language for HTML parsing and web scraping?Would it be Jsoup on Java or Beautifulsoup on Python ?
-Jsoup from apache best for html parsing    Embed Quote

@@ -1,2 +1,0 @@
-★Does OpenFlow basically centralise routing decisions?Trying to understand what's going on from reading this : http://www.wired.com/wiredenterp... Is OpenFlow basically central planning of routing decisions?
-It gives ability to quickly react to changing network conditions so that there is no performance impact on the applications. Quickly react could imply re-wiring or routing around hot spots. Another important aspect is it can lead to more true network virtualization in a multi-tenant scenario.    Embed Quote

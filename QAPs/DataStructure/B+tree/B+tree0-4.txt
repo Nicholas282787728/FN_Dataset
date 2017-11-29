@@ -1,2 +1,0 @@
-What are the advantages of B+ Trees over B Trees?
-Answer 1: ... (more)

@@ -1,2 +1,0 @@
-★Which is best for a corporate intranet, WordPress, MediaWiki, or Open Atrium?
-17% of the top 100 trafficked websites run on WordPress.  WordPress has the most flexibility to customize your intranet needs.  It has great options for user management, a file repository, online forms, managing events all via plugins.  I developed a single plugin called Simple Intranet for WordPress to do most of these functions.  That said, you can always add your own as well.

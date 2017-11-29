@@ -1,2 +1,0 @@
-What string parsing homework should I assign my intro level computer science students?
-Have them build a simple console menu. With some options that are numerical, and optionally a 'quit' option that is non numerical. Some strategies could be using the parseint exception to test if the input is 'quit' and why that's a bad strategy, but useful sometimes. It's useful, because building console menus is a pita when developing internal tools irl. Having students know how it works is a real bonus for their employers. 

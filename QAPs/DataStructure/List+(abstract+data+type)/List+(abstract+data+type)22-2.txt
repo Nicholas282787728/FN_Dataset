@@ -1,2 +1,0 @@
-In OOP, what is the difference between an abstract data type and a class or object?
-I explain this at Mark Miller's answer to In the context of Java, is it correct to say that an interface is an abstract data type and a class is a data structure? Updated 11w ago • View Upvotes

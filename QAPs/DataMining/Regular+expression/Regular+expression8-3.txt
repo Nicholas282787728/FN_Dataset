@@ -1,2 +1,0 @@
-★Is this a valid Regular Expression for an email address?^[a-zA-Z0-9_?]+((@{1}[a-zA-z]+).(org|net|com|gov|us|edu))\Z
-RFC822 is surprisingly subtle; you'd be surprised how weird emails can look. http://haacked.com/archive/2007/... This is the least erroneous email regex I know of: http://www.ex-parrot.com/~pdw/Ma... but IMO if you really want to know if a given thing is able to receive email as if it was an email address, your best bet is to actually try to send email to it.    Embed Quote

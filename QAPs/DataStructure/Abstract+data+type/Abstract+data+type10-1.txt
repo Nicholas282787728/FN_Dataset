@@ -1,2 +1,0 @@
-Are linked lists data structures or abstract data types? Why?
-Linked lists are a family of closely related data structures (there are many variations: singly vs. doubly linked, linear vs. circular) that are all specific implementations of the List ADT. Linked lists are also often used as building blocks of other data structures, which may be used as implementations of other ADTs. Updated 11w ago • View Upvotes

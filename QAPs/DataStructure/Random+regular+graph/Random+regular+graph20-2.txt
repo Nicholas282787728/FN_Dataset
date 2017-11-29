@@ -1,2 +1,0 @@
-What are the best talks/lectures related to big data/algorithms/machine learning?
-Most of the other resources people mentioned are great, but I think they are more of intermediate to advanced level or for those with quite a math background(except Andrew's Coursera). As a beginner myself, I found Nando de Freitas'(from University of British Columbia) lectures really helpful with his distinctive and intuitive style of presenting. Check 'em out here: Undergrad Level Course: undergraduate machine learning at UBC 2012 Graduate Level Course: Machine Learning 2013 

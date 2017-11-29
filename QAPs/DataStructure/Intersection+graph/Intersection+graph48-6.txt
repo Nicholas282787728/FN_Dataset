@@ -1,2 +1,0 @@
-If f(x)=7x+12  , what is f −1 (x)  ?
-Just replace f(x) by y so x=f-1(y) Adjust the equation to get the answer f(y)=(y-12)/7 

@@ -1,2 +1,0 @@
-What is an enumerated type?
-An enumerated type is a data type that can take on only finitely many values. 

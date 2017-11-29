@@ -1,2 +1,0 @@
-How can we simultaneously handle updates adding and multiplying a constant in a given range and then query for sum in a given range in a single segment tree?
-Wait A little bit Man. Let the contest end. After that, go through the Editorials. It will let you learn more. Happy Coding :) 

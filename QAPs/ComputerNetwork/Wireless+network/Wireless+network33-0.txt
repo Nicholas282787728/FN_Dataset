@@ -1,2 +1,0 @@
-★How safe are home wireless networks?
-It depends...if your network is unsecured or secured by WEP, then not very. If you have WPA2 with a strong encryption key, then I would say pretty safe. Tips to Secure Your Home Wi-Fi Network    Embed Quote

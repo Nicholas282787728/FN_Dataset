@@ -1,2 +1,0 @@
-★What are the best open source SMTP servers?in terms of reliability, performance, number of emails sent per day.
-At https://supportbee.com we are using to send and receive emails. However for sending emails, we are using mailgun and our postfix relays the emails to mailgun.    Embed Quote

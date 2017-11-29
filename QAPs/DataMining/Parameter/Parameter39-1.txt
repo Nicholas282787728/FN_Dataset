@@ -1,2 +1,0 @@
-★What is the self parameter when defining classes?I'm a beginner to programming, and in the book I'm reading it told me that when defining classes and methods to include the "self" parameter. Can somebody give me a more in-depth explanation to what this is and how it is used?
-If you know C++ already, then the answer is simple. Self in python refers to the same thing as this in C++.    Embed Quote

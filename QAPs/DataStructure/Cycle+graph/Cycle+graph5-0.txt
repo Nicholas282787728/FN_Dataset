@@ -1,2 +1,0 @@
-How can DFS and BFS be used to find out if there are cycles in a graph?
-Your graph has a cycle if DFS finds a back edge in the graph. The nodes and edges a DFS traverses produce a spanning tree of the graph. A back edge is an edge that points from a node up in the tree—it points to the node's ancestor. (It can also point to the node itself, which is trivially a cycle.) So you can just run DFS, checking for back edges. If you find one, you have a cycle. If you visit all the nodes in the graph and don't find one, there is no cycle. 

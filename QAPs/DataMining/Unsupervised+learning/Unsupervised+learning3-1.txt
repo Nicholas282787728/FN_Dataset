@@ -1,2 +1,0 @@
-★What is the difference between supervised and unsupervised learning algorithms?
-Decision Tree is one machine learning algorithm which is supervised, since you specify what the target variables or class/categories will be beforehand.  Clustering, on the other hand, is a prime example of an unsupervised algorithm, since you give the algorithm the data, but do NOT specify what the target variables are, so the outputs are usually latent variables which imply but do not state what the target variables could be.    Embed Quote

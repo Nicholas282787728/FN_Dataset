@@ -1,2 +1,0 @@
-★What is the difference between the perceptron learning algorithm and SVM?Both algorithms deal with trying to find some separating hyperplane. I know that perceptron has some well studied bounds with respect the the largest margin the data is separable by. SVM tries to solve some dual problem that maximizes the margin.
-One:Perceptron finds some separating hyperplane while svm fines the widest margin hyperplane. Two:If the training set is not separable perceptron fails while svm finds the minimum cost separation. This is known as soft margin.    Embed Quote

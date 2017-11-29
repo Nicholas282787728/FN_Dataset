@@ -1,1 +1,0 @@
-What is the state of the art in constructing perfect hash functions?A follow up question : In layman's terms, how does "compress, hash and displace (CHD)" perfect hashing algorithm work?

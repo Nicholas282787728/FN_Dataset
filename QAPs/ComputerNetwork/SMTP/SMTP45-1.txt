@@ -1,2 +1,0 @@
-★Why my antivirus blocks my connection to the smtp?
-yes Juergen Nieveler is correct most likely its trying to protect you by inserting a proxy, don't even try to deliver email on port 25 use the SMTP submission port 587 and authenticate to your mail server you will then be secure and it will work with other software as well.    Embed Quote

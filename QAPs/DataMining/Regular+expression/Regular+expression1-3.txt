@@ -1,2 +1,0 @@
-★What's the best book on regular expressions?
-Also while it's not quite a book, www.rubular.com is a great resource for practicing while you learn.    Embed Quote

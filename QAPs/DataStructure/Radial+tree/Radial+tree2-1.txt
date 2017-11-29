@@ -1,2 +1,0 @@
-What are most important Machine Learning algorithms?
-It really depends on the problem you're trying to solve. The first question to answer is whether you need a supervised algorithm (like neural nets) or unsupervised (like clustering). My favorite approach is evolutionary algorithms. 

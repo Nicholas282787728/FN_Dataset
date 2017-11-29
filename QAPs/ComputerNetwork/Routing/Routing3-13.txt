@@ -1,2 +1,0 @@
-★What is the difference between switching and routing?
-At the "consumer level" (home), a switch simply creates more ports. A router, also provides DHCP, a firewall, and other services.    Embed Quote

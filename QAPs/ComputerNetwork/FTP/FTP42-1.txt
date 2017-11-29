@@ -1,2 +1,0 @@
-★How do I access the FTP on my WordPress site?
-If you are using http://wordpress.org on your own web hosting account, then Tim's advice is right. You can check with your hosting provider for  specific details. If your site is on http://wordpress.com that is a different story. You can't FTP to WP.com sites. https://en.support.wordpress.com... offers more information.

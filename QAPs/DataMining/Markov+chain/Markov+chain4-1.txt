@@ -1,2 +1,0 @@
-★What are Markov Chain Monte Carlo methods in layman's terms?
-Think of it as knowing the odds of certain events happening and rolling a lot of dice to see if and when they happen - creating a probability distribution.  Markov Chain is special (and powerful) in that the past has an influence on future "dice rolls".  However something affected by many variables such as the stock market is pretty difficult to model accurately (as David points out in the comment to the answer above, its difficult to model extreme events which do indeed happen i.e. 9-11).    Embed Quote

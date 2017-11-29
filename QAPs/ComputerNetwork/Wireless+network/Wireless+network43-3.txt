@@ -1,2 +1,0 @@
-★Is it possible to make a private wireless network that has its own "internet"?A small scale internet service that I can send and receive data with to hardware devices I set up in my home without being connected to the actual internet.
-Project Byzantium is a good fit for this. Everyone keeps asking about this kind of thing but no one actually remembers where to go. Think they need a name change.    Embed Quote

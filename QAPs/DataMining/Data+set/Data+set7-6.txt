@@ -1,2 +1,0 @@
-What is the best way to implement an autocomplete search feature when dealing with large data sets?
-I would recommend solr. Its pretty fast and well capable of handling large data sets. It has lots of use full features like hit highlighting, faceted search, dynamic clustering, rich document (e.g., Word, PDF) handling, and geospatial search in addition to full text seach.    Embed Quote 

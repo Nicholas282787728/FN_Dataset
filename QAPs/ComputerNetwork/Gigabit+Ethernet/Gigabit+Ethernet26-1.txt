@@ -1,2 +1,0 @@
-★In enterprise networking and data centers, which switch is used more: hardware cut-through or store-and-forward? What's the typical performance value for each of them considering latency?
-The only group that I know of that cares enough about Low Latency to want cut-through at this point is the High-Frequency Trading crowd. Other than that, Patrick W. Gilmore's answer is dead on.

@@ -1,2 +1,0 @@
-★Who are the greatest female programmers?
-Sophie Wilson, inventor of the Arm instruction set. The Arm is in the vast majority of mobile phones and tablets, and is one of the two architectures that dominate today's computing. Grace Hopper, one of the originators of high level languages.

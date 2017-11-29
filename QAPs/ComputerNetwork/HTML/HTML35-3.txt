@@ -1,2 +1,0 @@
-★What is HTML Elements?
-A Html element is a specific variable or component that has a start and end tag

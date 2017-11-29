@@ -1,4 +1,0 @@
-Some languages like C++ implement strings as templates that can be used with any datatype, but this is the exception, not the rule.
-Some languages, such as C++ and Ruby, normally allow the contents of a string to be changed after it has been created; these are termed mutable strings. In other languages, such as Java and Python, the value is fixed and a new string must be created if any alteration is to be made; these are termed immutable strings.
-Strings are typically implemented as arrays of bytes, characters, or code units, in order to allow fast access to individual units or substrings—including characters when they have a fixed length. A few languages such as Haskell implement them as linked lists instead.
-Some languages, such as Prolog and Erlang, avoid implementing a dedicated string datatype at all, instead adopting the convention of representing strings as lists of character codes.

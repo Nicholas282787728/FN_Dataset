@@ -1,2 +1,0 @@
-How can I empty a String in Java?
-You can use StringBuffer objects instead and "clear" it with setLength(0). 

@@ -1,2 +1,0 @@
-★What's the best way to track tweets of URLs?
-The challenge with this is tracking a specific URL, regardless of which shortener is used. I'm assuming this is what you're looking for. As mentioned in my comment above, Twitter's Search API longifies shortened URLs, but the Streaming API does not. So you'll likely have to go with a third-party service like http://backtweets.com or just the search API.    Embed Quote

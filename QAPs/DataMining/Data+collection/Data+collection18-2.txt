@@ -1,2 +1,0 @@
-What is a good method for mobile data collection?
-BeyondCurious just wrote a blog post on an open-source platform for mobile data collection called Kobo Toolbox. It's quite robust. Check it out: Using Mobile Data Collection To Save the World. The tools are a project out of the Harvard Humanitarian Initiative.    Embed Quote 

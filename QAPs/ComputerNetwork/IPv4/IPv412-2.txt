@@ -1,2 +1,0 @@
-★How many chars do I need to store any numeric IPv4 address?If I want to store IPv4 address like 127.0.0.1, etc. in a database, how wide should my varchar column be?
-While the question specifies IPv4, you might want to also consider the fact that IPv6 is gaining popularity and requires more space. So you might want to think long and hard about if you will need IPv6 support, because retrofitting an application to support IPv6 is both painful and tedious.

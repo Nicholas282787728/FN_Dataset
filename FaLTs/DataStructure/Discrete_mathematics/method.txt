@@ -1,1 +1,0 @@
-Although the main objects of study in discrete mathematics are discrete objects, analytic methods from continuous mathematics are often employed as well.

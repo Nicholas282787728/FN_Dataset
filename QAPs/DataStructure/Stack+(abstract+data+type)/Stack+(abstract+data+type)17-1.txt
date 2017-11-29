@@ -1,2 +1,0 @@
-What are a stack and a queue and how do you distinguish between them?
-They are both just ways of ordering a dynamic-size linear array, the point is that you only interact with either structure by putting single elements in and taking single elements out. A stack inserts and removes at the same end, while a queue inserts at one end and removes from the other. Below is a picture that may make it clearer, hope it helps. 

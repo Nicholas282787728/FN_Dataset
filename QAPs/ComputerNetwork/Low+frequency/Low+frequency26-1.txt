@@ -1,2 +1,0 @@
-★Should I EQ-boost low frequencies, to resemble a subwoofer?
-I agree with Roland. Open the bass ports, they were designed to be open. Drivers that small probably aren't going to reproduce much output at 27hz. By trying to make them do that you are giving them too much power, possibly damaging them. Those frequencies below 30 hz are the province of larger drivers and specifically designed subs.  Check out inexpensive subs at partsexpress and I think you might find something that you will be pleased with for around $120    Embed Quote

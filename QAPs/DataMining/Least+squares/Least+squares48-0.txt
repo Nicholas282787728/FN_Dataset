@@ -1,2 +1,0 @@
-★If the system is solvable, is it the same as the least square problem/system ?
-Suppose that has a unique solution.  Then is invertible, which implies that is invertible as well.  So yes, the system has a unique solution which is the same as the unique solution to .    Embed Quote

@@ -1,2 +1,0 @@
-★What are the best open source machine learning libraries written in Python?
-"Programming Collective Intelligence" is a very intro book on machine learning and all of the examples are written in python: http://amzn.to/cPKbW0    Embed Quote

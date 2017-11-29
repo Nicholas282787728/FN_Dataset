@@ -1,2 +1,0 @@
-★What will be the effects of IPv4 exhaustion?This would be great in time line form, starting now until full IPv6 adoption.
-In a recent article from Network World (http://www.networkworld.com/news...) by switching to IPV6 Yahoo may shutout around 1 million of the 2 billion current internet users for around a .05% loss of connectivity.  There is a scheduled 'World IPV6 day' where Facebook, Google, and Yahoo have committed to attempt 24 hours offering IPV6 service to test the Internet's IPV6 capabilities on June 8th 2011.

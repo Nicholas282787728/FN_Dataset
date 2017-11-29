@@ -1,2 +1,0 @@
-★What would be the network topology/design/parameters that would be a real nightmare to any routing protocol?
-Unknown behavior combined with widespread connectivity. Software bugs always start out unknown. Once a phenomenon is known, it can be avoided or fixed. The unknowns are the hard ones. When they affect a large number of systems, they become nightmares. Centralized systems have expensive protection to avoid such nightmares. You may notice a large multi-story building with no windows in some cities. Those are central telephone exchanges.    Embed Quote

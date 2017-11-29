@@ -1,2 +1,0 @@
-Computer Programming: What's the funniest piece of code you've seen a student submit?
-I once asked a student to write a program for factorial of a number. The student wrote this: int fact(int n) {   return factorial(n) } In return, she said let me dry run the code for you. I asked her where is the logic to compute factorial. She said computers are there to compute. So, they can compute the factorial. You know, computers have become really smart with AI these days. Me: 

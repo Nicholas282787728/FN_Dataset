@@ -1,2 +1,0 @@
-★What is an intuitive explanation for how the t-distribution, normal distribution, F-distribution and Chi-square distribution relate to each other?Why do all these different distributions exist and how do we use them in statistics? What influences the choice of distribution in statistical testing?
-This paper tells you everything you'd ever want to know about this: Page on Mi And this for just the ones you asked about: Page on Nchu And perhaps the clearest of all, a web page devoted to the exact topic: Chart of distribution relationships    Embed Quote

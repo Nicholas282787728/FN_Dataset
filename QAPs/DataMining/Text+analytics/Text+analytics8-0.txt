@@ -1,2 +1,0 @@
-★Has anyone used text analytics techniques to analyze unstructured patents data?Methodology; Tools; Suggestions; How important is the use of ontologies
-I know a consultant who works at the SAS Institute who has done this exact same thing using their Text Analytics tools (Content Categorization, Semantics, etc) and he also has a library/ontology of patent specific terms that he uses as a toolkit.   If you elaborate on your question or direct message me, I can put you in touch with him.    Embed Quote

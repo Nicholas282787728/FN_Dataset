@@ -1,2 +1,0 @@
-★What are some recommended knowledge management tools for an enterprise?
-I agree with Sergiy Gladkyy - the suggestions he made both require significant investment, however. MediaWiki (the software that runs Wikipedia) might be something to look at as well. Though you will need to maintain and curate a Wiki the barrier to entry is rather low compared to the other tools and can be set up quite quickly. Getting the tribal knowledge from the heads of those that have it actually INTO the KMT is something else entirely. Good luck.    Embed Quote

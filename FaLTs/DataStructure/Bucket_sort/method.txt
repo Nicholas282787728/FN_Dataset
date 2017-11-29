@@ -1,6 +1,0 @@
-Bucket sort works as follows:
-
-    Set up an array of initially empty "buckets".
-    Scatter: Go over the original array, putting each object in its bucket.
-    Sort each non-empty bucket.
-    Gather: Visit the buckets in order and put all elements back into the original array.

@@ -1,2 +1,0 @@
-★How is the k-nearest neighbor algorithm different from k-means clustering?
-The same way car is different from carpet :) kmeans is unsupervised and for clustering.  knnis supervised and for classification. That "k" in kmeans has absolutely nothing to do with the "k" in knn. Look at Wikipedia and you will find out.    Embed Quote

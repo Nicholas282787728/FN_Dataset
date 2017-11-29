@@ -1,2 +1,0 @@
-If you include a graph in a university report, should it be referred to as a figure?
-Absolutely! Give it a figure number, a brief description of that figure in the caption, and make sure to refer to the figure beforehand in the text. 

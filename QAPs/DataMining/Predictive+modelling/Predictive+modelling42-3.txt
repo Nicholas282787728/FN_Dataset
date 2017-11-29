@@ -1,2 +1,0 @@
-★What are methods to make a predictive model more robust to outliers?
-You should have a look at robust estimators.  Robust estimators minimize the sum of the absolute values of the errors instead of the sum of squares.  This makes them more resistant to outliers.  The reason sum of squares is preferred is that it has an analytic derivative and so is easier to minimize.  Contrast the median as an example of a robust estimator, as opposed to the arithmetic mean.    Embed Quote

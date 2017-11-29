@@ -1,2 +1,0 @@
-★How can the NoSql database store unstructured data?How its different store un structure from RDBMS?
-Sounds like you need a primer. Mike Bowers gives a really good analysis of the differences between RDBMSes and NoSQL DBs:    Embed Quote

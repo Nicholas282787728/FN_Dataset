@@ -1,2 +1,0 @@
-★What are the advantages of spectral clustering over k-means clustering?
-Spectral clustering cares about connectivity instead of geometrical proximity. So if your data isn't well geometrically separated, but clusters aren't connected, spectral clustering will work well.    Embed Quote

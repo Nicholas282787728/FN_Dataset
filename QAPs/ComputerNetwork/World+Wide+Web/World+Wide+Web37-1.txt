@@ -1,2 +1,0 @@
-★World Wide Web: Why are there static and a dynamic IP addresses?Can someone explain why there needs to have both kind of addresses in the design of the internet?
-Currently the internet runs mainly on version 4 of ip (internet protocol) aka IPv4. There are simply not enough addresses to assign one to every system on the internet. The plan is to go over to IPv6. That version has many (as in billion billion) more addresses. With IPv6 every system on the internet will get a global address again. (As it should be)    Embed Quote

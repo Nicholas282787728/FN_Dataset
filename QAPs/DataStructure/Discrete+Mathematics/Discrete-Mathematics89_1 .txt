@@ -1,1 +1,0 @@
-What are unlabeled graphs in discrete mathematics?May I define them as classes of isomorphism of graphs?You would have to properly define a labelled graph and an isomorphism between labelled graphs. That shouldn’t be hard, just add a label set to the definition of a graph to get a labelled graph, and defined an unlabelled graph as one whose label set is empty. 86 Views

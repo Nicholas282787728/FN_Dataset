@@ -1,1 +1,0 @@
-Is the hash function H  defined below resistant to collisions?

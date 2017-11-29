@@ -1,2 +1,0 @@
-Sorting Algorithms: What are some of the best and easily implementable data structures that support finding the kth largest element quickly?
-Try inserting the elements into a max heap. Assuming n elements, you can build the max heap in O(n) time. Just perform the remove operation on the max heap k times, which shall take O(k*logn) time. The final operation gives you the kth largest element. Total time complexity: O(n) + O(k*logn) 

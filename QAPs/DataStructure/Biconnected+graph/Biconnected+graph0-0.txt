@@ -1,2 +1,0 @@
-What are some applications of biconnected graphs?
-Biconnected graphs are used in the design of power grid networks. Consider the nodes as cities and the edges as electrical connections between them, you would like the network to be robust and a failure at one city should not result in a loss of power in other cities. This can be ensured by making the graph biconnected. It is also used in social network analysis to try and identify the most influential nodes in the network. 

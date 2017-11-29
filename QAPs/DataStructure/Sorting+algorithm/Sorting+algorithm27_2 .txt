@@ -1,1 +1,0 @@
-Sorting Algorithms: different cases: speed?该网页不存在附加信息...First of all for really big data, like really big - order of GB, none of those is practical mainly because you can't store all that data in your RAM. Therefore external sorting is used. You can look it up on wiki. It mainly depends on your data,however I recommend that you use mergesort Just reverse the array :) 

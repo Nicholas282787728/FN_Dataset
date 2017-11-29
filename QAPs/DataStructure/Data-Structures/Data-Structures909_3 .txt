@@ -1,1 +1,0 @@
-Can structure variables be compared directly without accesssing each element of structure?Nope. in this if condition we’re trying compare two different instance addresses of a structure. what exactly e1/e2 is pointing to? its some address. so here we are comparing two different addresses.not the elements of the structure. 16 Views · View Upvotes · Answer requested by 1 person

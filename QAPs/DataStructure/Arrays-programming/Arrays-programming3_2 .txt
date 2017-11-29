@@ -1,1 +1,0 @@
-How can I code in Python to have an 2D array such that each row stores all pixel from an image?All images in same folderI would go with opencv cv2.imread(<path>,0) 0 stands for reading the image in grayscale and making it 2d array instead of 3d 11 Views

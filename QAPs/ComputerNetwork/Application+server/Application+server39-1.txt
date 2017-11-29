@@ -1,2 +1,0 @@
-★Should I virtualize every single application server by default - so it will be 6 vms?
-No you should group them into logical groupings by the primary function of each... for example the front-end oriented ones on one machine and the DB and other infrastructure ones on an other machine.

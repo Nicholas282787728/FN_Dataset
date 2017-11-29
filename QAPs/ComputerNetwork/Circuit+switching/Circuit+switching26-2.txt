@@ -1,2 +1,0 @@
-★For a circuit, why is the back EMF when the switch opened is greater than when the switch is closed?
-I assume you are asking why opening a conductive path across a voltage differential reduces the voltage differential. This involves a basic understanding of electronics. Permitting electrons to flow, tends to equalize the voltage difference.

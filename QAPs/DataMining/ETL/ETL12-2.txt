@@ -1,2 +1,0 @@
-★What are some of  the very good ETL tools for mysql?
-Simple. I can recommended Informatica and ODI    Embed Quote

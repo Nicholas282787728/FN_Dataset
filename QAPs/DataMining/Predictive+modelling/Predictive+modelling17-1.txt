@@ -1,2 +1,0 @@
-★How can I deal with missing values in a predictive model?
-One relatively standard method is multiple imputation. Although there are lots of subtleties, the general idea is to generate several data sets, each with different values for the missing values. These are then analyzed and the analyses combined    Embed Quote

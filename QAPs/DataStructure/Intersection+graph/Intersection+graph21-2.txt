@@ -1,2 +1,0 @@
-What does e x   mean?
-We can define the expression exp(x)=lim n→∞ ∑ n k=0 x k k!   for any real number x  . We can show that this limit exists for every real number x  ; i.e. the radius of convergence is infinite.   We denote e=exp(1)  . Assuming we have already defined exponentiation by a real power, we can then prove that exp(x)=e x   in fact, for all real x  .   For complex numbers z  , e z   is actually one way to define complex exponentiation, via Euler's famous identity. 

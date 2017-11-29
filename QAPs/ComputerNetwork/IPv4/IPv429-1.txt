@@ -1,2 +1,0 @@
-★Are IPv4 address assignments an appreciating or depreciating asset?
-Neither, since IP addresses are not owned, only assigned.

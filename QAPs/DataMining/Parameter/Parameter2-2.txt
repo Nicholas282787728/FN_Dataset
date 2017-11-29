@@ -1,2 +1,0 @@
-★Can function be used as a parameter of another function?
-Yes and as return values. OO in C - Part 1 - Pointers to Functions by Mick Stute on Computer Science in C    Embed Quote

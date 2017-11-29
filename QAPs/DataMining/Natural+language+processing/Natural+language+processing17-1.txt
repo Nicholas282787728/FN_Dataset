@@ -1,2 +1,0 @@
-★What are the current hot topics in natural language processing?
-Some of the trending topics in Natural Language Processing are: 1. Natural Language Understanding 2. Natural Language Generation 3. Text extraction 4. Language translation 5. Parsing 6. Parts-of-speech tagging This is not an exhaustive list. This is what I know of from my NLP class.    Embed Quote

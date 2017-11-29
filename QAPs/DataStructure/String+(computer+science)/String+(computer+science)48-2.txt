@@ -1,2 +1,0 @@
-What are Donald Knuth's main original contributions to computer science?
-Knuth won the Turing Award in 1974 for his contributions to the analysis of algorithms    I'd submit that his "expository" work in the form of The Art of Programming go well beyond simple exposition, and brought a rigor and precision to the analysis of algorithms which was (and probably still is) unparalleled in term of thoroughness and scope.   There is more knowledge in the margins of The Art of Programming than there is in most programming courses. 

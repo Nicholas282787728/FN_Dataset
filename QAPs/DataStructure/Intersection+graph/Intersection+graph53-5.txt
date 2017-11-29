@@ -1,2 +1,0 @@
-Which are the top blogs to follow to explore about algorithms and data structures?
-Compile, run, curse… Recompile, rerun, recurse… is a place where u get to learn the various types of  data structures like linked lists,stacks ,queues,trees etc. with the best explanations and test your knowledge by taking their quizzes.The special section of DSA questions strengthen ur knowledge in these concepts. Hope this helps! 

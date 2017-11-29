@@ -1,2 +1,0 @@
-How  does the Rolling Hash function used in Rabin Karp algorithm work?
-My answer Pawan Bhadauria's answer to What is a rolling hash and when is it useful? should help 

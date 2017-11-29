@@ -1,1 +1,0 @@
-Is there any sorting algorithm with time complexity less than n*logn?Oh yes, there are. Unfortunately they are not comparison based sorting techniques. One can prove that no comparison based sorting can have time complexity . Take a look at radix sort for example. The running time is where is the number of digits in a key. 

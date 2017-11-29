@@ -1,2 +1,0 @@
-★What's a good DSL for a beginner?
-Did you mean a good host language for writing internal DSLs? I recommend LISP, Groovy, Ruby, or Scala. It depends on your personal preferences on type-safety, meta-programming style, and runtime environment.

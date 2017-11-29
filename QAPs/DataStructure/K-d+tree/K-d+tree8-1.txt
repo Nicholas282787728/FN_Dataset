@@ -1,2 +1,0 @@
-Are there any algorithms of the order O(sqrt(n))?
-There are, but they can be strange at times.  Remember that this means that this algorithm must look at only a very small portion of its input.  It cannot even look at each item.  A particularly cool example is Grover's algorithm, which allows search (in quantum context) on unsorted input in time proportional to the square root of the size of the input. 

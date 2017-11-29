@@ -1,2 +1,0 @@
-Why would anyone use int or long data types in C?
-Because you want to use the printf() and scanf() functions without compiler warnings.  Once you've done I/O, then you can take care of how to match int and long to the various sized int types, using the #defined manifest constants for their ranges. 573 Views · 1 Upvote

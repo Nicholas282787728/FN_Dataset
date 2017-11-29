@@ -1,2 +1,0 @@
-★What is the usecase of whitening transform in Pattern Recognition and Machine Learning?
-One good example is Speech coding in your mobile phones.    Embed Quote

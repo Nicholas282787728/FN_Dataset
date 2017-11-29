@@ -1,2 +1,0 @@
-What are some practical applications of binary search trees?
-Saloni Verma has already covered many aspects. In addition to that, Binary Search Tree can be used for keeping data sorted. With height balancing the running time for the same can be reduced. Moreover they can provide the hierarchical structure for a file system. 

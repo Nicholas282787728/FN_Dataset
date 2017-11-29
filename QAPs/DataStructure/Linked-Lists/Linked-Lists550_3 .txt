@@ -1,1 +1,0 @@
-What would be the algorithm to find the middle element of the linked list without using an integer variable? Do not assume that the number of nodes is given.int middle(Node *head) {  Node *current=head;  Node *runner=head;  while(runner!=NULL && runner->next!=NULL)  {  runner=runner->next->next  current=current->next;  }  return current->data; } 418 Views  View Upvotes

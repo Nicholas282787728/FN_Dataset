@@ -1,2 +1,0 @@
-★How do you see the metadata of an MP3 file?Is there software that allows you to see all the metadata?
-aimp.ru - free awesome music player, that can play mp3 files and of course you can see/edit the MP3 metadata (id3 v1, id3 v2)    Embed Quote

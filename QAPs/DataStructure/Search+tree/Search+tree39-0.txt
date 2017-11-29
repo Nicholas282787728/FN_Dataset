@@ -1,2 +1,0 @@
-Is there any JDK class that provides binary search tree function and most importantly, possibility to augment this binary search tree?
-You could simply extend the TreeMap class, overriding / adding methods as you see fit. Though it's probably already better than most other forms of binary tree - it's using a red-black tree implementation (i.e. a balanced binary search tree). 

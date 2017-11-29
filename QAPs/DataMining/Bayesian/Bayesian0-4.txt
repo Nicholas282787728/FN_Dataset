@@ -1,2 +1,0 @@
-Are we all Bayesians?
-Bayes is only as good as your prior and your models. There are lots of situations, especially in the frontiers of science, where you don't have either. In that case you can do 'bayesian' but it basically devolves into frequentist stats. In the field of neuroscience, I think people are generally a bit too confident in their priors, which can lead to some faulty conclusions, and I'd be surprised if that wasn't the case in other fields of science too.    Embed Quote 

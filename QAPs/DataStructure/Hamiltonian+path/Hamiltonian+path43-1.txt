@@ -1,1 +1,0 @@
-What is the status of the Lovász conjecture?What about the special case of a Hamiltonian cycle on a Cayley graph? For reference: Lovász conjecture on Wikipedia.

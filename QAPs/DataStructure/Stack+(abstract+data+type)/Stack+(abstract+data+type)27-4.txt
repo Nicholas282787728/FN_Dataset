@@ -1,2 +1,0 @@
-What should I do/learn next?
-Without practice, how many knowledges you got is meanless. You can create algorithms but unless write and apply it on real app can prove that you understand the concept clearly. You got basic knowledges of OOP and know C/C++ why don't you get started with iOS development. You can discover a new Apple's tech stuff with lots of interesting features. 

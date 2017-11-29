@@ -1,2 +1,0 @@
-How do you test for an empty string in Javascript?
-This is very straightforward: function isEmptyString(x) { return x === ""; } The only trick is the triple equals operator (===) which is necessary because of possible type casting. 

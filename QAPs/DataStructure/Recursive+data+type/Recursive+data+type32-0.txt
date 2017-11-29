@@ -1,2 +1,0 @@
-Is Emacs Lisp the same as Common Lisp?
-No. Many differences are bridged by a compatibility library you can load, but one difference is pretty fundamental: emacs lisp has dynamic scope whereas common lisp has lexical scope by default. I hear that lexical scope is being introduced, though, which would bring the two languages closer together. 

@@ -1,2 +1,0 @@
-★What is the best way to explain and get a beginner interested about probabilistic and graphical models?
-As with any math concept, get them interested via a real-world example.  Facebook would probably be a good way to start.    Embed Quote

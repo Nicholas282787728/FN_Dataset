@@ -1,2 +1,0 @@
-Carl Friedrich Gauss: How would you explain the Gaussian distribution in layman's terms?
-Draw a bell shape. Then imagine this shows the number of adult men (or women) in one ethnical group. In the center, there are people with average height (let's say 1.75 m). We'll both agree that most people are around that tall. Then, on the left tail there are short men (eg. Less than 1.50m).  On the right tail are very tall men (eg. More than 2m). We'll agree that there are not that many men in either of these groups. That is a normal distribution.    Embed Quote 

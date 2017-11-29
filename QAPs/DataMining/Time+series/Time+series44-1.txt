@@ -1,2 +1,0 @@
-★Is time series an important topic to know for a data scientist?
-My entire job is about time series.    Embed Quote

@@ -1,2 +1,0 @@
-Object-Oriented Programming: Is it possible to learn Java without learning C/C++?
-Not only is it possible, I suggest that route. The first thing you need to do is get started. The last thing you need is the fear mongering done by folks like Spolsky :) If you do want to become a senior engineer, you will master all that stuff anyway, but that's not your problem now. Your problem right now is to get started. So to heck with the fear mongers. Just write Java! Hope this helps. Good luck! 

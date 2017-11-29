@@ -1,2 +1,0 @@
-What is the best algorithm for iterating over all the edges in a complete graph?
-In hastily invented pseudocode, assuming there is an ordering on the type of vertex labels: let V = set of vertices for(u ← V; v ← V if v < u) yield ⟨u, v⟩ 

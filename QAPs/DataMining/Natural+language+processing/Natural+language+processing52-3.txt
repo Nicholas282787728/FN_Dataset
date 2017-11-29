@@ -1,2 +1,0 @@
-★What are some great Machine Learning (ML) Natural Language Processing (NLP) blogs worth following?I am grad student in CS with interests in ML & NLP. There are many research papers & academic material out there, but I would like follow people who practically apply concepts from these fields.
-For the "mainstream" AI reader, nothing beat Kurzweil Accelerating Intelligence Although take his opinions/forecasts with a HEAVY grain of salt.    Embed Quote

@@ -1,2 +1,0 @@
-★How does file compression work?zip, tar, gz, rar etc. How does a file become 'smaller'?
-You know how many Chinese characters correspond to an English word rather than a letter? So anything you write in Chinese takes up less space than in English. So you can think of your file as translated into a language that takes up much less space to write.

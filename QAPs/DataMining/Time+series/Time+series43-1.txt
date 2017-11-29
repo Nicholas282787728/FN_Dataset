@@ -1,2 +1,0 @@
-★Would NoSQL databases be a good choice for storing large time series?If so, which is better - Redis, MongoDB, other?
-Here is a good Redis time series example on Ruby: redis-timeseries    Embed Quote

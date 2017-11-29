@@ -1,1 +1,0 @@
-In terms of computer programming, what is the difference between associative lookup and direct access?

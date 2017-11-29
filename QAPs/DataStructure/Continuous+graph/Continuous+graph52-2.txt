@@ -1,2 +1,0 @@
-For how long must escape velocity be maintained to escape from Earth?
-Escape velocity is the initial speed you must have at ground level in order to escape. You don't need to maintain it, just like you can throw a ball into the air and watch it slow as it rises. The thing about escape velocity is that it won't ever slow enough to fall back to Earth. So you don't "maintain" escape velocity. You reach it and then can coast the rest of the way into space without having to work any more. 

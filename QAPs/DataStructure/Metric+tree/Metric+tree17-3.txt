@@ -1,2 +1,0 @@
-What are the advantages of different classification algorithms?
-Thanks for A2A. The paper "Do we need hundreds of classifiers to solve real world classification problems?" by Fernández-Delgado M. et al. (pdf on jmlr.org) should answer your question with a great deal of details. But here's a tl;dr: if you want good performance, always apply Random Forests and SVMs with Gaussian kernels first. 

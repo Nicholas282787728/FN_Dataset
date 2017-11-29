@@ -1,2 +1,0 @@
-How do I convert a binary tree into min-heap in linear time and constant space?
-If the binary tree is a complete binary tree( means no hole in internal node) then you can apply BUILD HEAP method to do so. Probably reverse heapify. To do the same start from the last intetnal node ,compare with its children and make sure it satisfy min heap property. Do it till you reach root node you will get mean/max heap in O(n) time. Hope it clears your doubt. Updated 18 Sep

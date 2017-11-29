@@ -1,2 +1,0 @@
-What is the significance of NULL in SQL?
-Originally Answered: What does NULL mean in SQL?NULL means “a missing unknown value” and it is treated somewhat differently from other values. More details you can find here 3.3.4.6 Working with NULL Values In the above reference it will clearly shows the difference with other values. 

@@ -1,1 +1,0 @@
-What are some definitive reasons of [not] using a linked-list instead of arrays?For starters see this page on FuturechipsUse LL when you have more of insertions (especially in-between insertions as opposed to adding at the end) Use Array when you have to do more of indexed based access operations 173 Views

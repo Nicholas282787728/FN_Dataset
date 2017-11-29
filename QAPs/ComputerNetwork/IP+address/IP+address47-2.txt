@@ -1,2 +1,0 @@
-★How are IP addresses allotted to computers?
-This can be done by two ways Dynamic slotting This  type of alloting is mainly done by router or modem(house) by using DHCP service What is DHCP SERVER? DHCP is a server contain a pool of IP address whenever you start your computer it will automatically detect your system and allot a IP address from its pool to your system This called dynamic alloting.  Now , STATIC alloting This type of alloting requires self configuration in the system Hope you got your answer :)

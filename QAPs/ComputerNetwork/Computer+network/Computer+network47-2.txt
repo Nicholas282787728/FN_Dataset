@@ -1,2 +1,0 @@
-★What is the difference between host and server in terms of computer networking?
-A host stores the web site you create  and transmits it to the internet.  A server is just a fancy computer that "serves up" your web site to the internet.

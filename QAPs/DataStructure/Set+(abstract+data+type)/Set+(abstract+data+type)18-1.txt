@@ -1,2 +1,0 @@
-Many languages support the concept of abstract data types. However, languages seem to have various levels of implementation of this concept. Why do you think these different levels or categories exist?
-For the same reasons programming languages don't agree on whether control flow is delimited by line breaks, curly braces, parenthesis, semicolons or keywords;  assignment is LET, SET, =, left-arrow; equality =, ==, EQ, equals, or isequal. Language designers have different tastes and motivations, and do what they think best for the problems they are trying to solve. 

@@ -1,2 +1,0 @@
-★Is this multiplexer circuit correct?Sorry can't add the picture from tablet! But I used 4 transmission gates to make a 4*1 multiplexer! Is that correct?
-That will work, but most multiplexers have a stage of buffering on the output so the inputs are not loaded down by the output load.    Embed Quote

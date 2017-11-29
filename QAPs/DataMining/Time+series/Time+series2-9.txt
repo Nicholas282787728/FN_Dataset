@@ -1,2 +1,0 @@
-★What techniques are useful for data mining financial time series?
-This is exactly the challenge that EidoSearch (www.eidosearch.com) is attempted to solve - how can you mine data that appears as a time series. Their solution is to apply methods developed to optimize content-based search and apply them to financial data.    Embed Quote

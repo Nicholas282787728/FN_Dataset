@@ -1,2 +1,0 @@
-As we start planning the next edition of Introduction to Algorithms (CLRS), what should we add and what should we remove if the 4th edition cannot be larger than the 3rd edition?
-Please add detailed treatment on: - cache-oblivious algorithms - avl tree - bloom filters - Cardinality estimation - compression (covering commonly used algorithms like lz77, lz78, burrow-wheeler encoding up to paq etc) - regexp and Context-free grammar - LSM trees... (more)

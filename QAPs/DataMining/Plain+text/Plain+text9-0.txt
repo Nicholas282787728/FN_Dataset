@@ -1,2 +1,0 @@
-★Does a plain text without the a href tags count as a backlink?
-Matt Cutts said it's very unlikely that Google will ever count non-link mentions of a URL as backlinks: I've never seen any convincing evidence suggesting that they count as backlinks, so I think it's safe to assume that non-link mentions of a URL do not count as backlinks.    Embed Quote

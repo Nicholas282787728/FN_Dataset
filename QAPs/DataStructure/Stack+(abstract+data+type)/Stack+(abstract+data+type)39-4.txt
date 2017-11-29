@@ -1,2 +1,0 @@
-What is "must have" knowledge or skill set about Java for a recent CS graduate applying for an entry-level Java Position?
-To add to other answers.. Be very good at Object Oriented Programming concepts (read this several times). Interviews stress these a lot. My all time favorite book on Java "Beginning Java 2 by Ivor Horton". I read this in 2001 (Java 1.2) and still my favorite 

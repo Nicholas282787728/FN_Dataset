@@ -1,2 +1,0 @@
-What are two efficient implementations of a priority queue using binary trees?I have an assignment asking me for two different and efficient implementations.
-http://docs.python.org/library/h... Python uses Binary Heap to implement Priority Queue 

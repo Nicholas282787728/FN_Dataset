@@ -1,2 +1,0 @@
-★What does Ifttt think of adding a HTTP request channel?Adding a HTTP Request channel would allow developers to build their own custom channels. For example, you could connect your Pinboard to a custom script that saves the bookmark's HTML to a Dropbox. Developers could even publish these as recipes that anybody could use.
-I'd love to see something a bit broader, namely, the ability for developers to build their own channel implementations for community use. Heroku's Add-On ecosystem is analogous, and well done.

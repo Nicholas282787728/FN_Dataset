@@ -1,2 +1,0 @@
-★How do I do a reverse DNS lookup on an IP address?Is there a way to write a C program to perform reverse DNS lookup without using resolver function?
-for Windows users, nslookup <ip address> works as well.

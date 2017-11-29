@@ -1,2 +1,0 @@
-★Where can I learn and practice regular expressions?
-Perhaps you might be interested in http://www.debuggex.com/. I have found it very useful.    Embed Quote

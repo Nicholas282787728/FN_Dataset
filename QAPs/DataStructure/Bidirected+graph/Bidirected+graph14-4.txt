@@ -1,1 +1,0 @@
-What is social network analysis?Intuitive explanation please, also of network theory. It seems simply just connections between people to other people, I don't see how more involved analysis would proceed or it can construed as requiring theory. But I just want to be shown the light.

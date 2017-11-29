@@ -1,1 +1,0 @@
-Which is the best sorting algorithm and why?Quick sort As in the practical situations qsort is often the fastest available because of its low overhead and its average O(nlogn) behaviour.... Another advantage of qsort is locality of reference. 

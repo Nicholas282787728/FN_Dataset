@@ -1,1 +1,0 @@
-What is the best way to represent a graph in MySQL?

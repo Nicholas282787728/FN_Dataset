@@ -1,2 +1,0 @@
-★What is a URL?
-URL stands for Uniform  Resource Locator. You can see it on  the address bar of your web page. It atually includes the server/domain address of the remote server web page you want to be directed to,i.e. the web page you want to visit.    Embed Quote

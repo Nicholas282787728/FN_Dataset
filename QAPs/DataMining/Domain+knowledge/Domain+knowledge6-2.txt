@@ -1,2 +1,0 @@
-★How important is it for an Enterprise Architect to have business domain knowledge?
-Enterprise Architects must have a solid understanding of the business functions for their segments. They can work with subject matter experts to understand the activities, processes, and tasks to support modeling. There are major EA artifacts such as the roadmap, modernization blueprint, process maps, data flows that require an understanding of the business.    Embed Quote

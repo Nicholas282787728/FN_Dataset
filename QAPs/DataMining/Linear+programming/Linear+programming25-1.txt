@@ -1,2 +1,0 @@
-★What are some good resources for studying string algorithms, geometry algorithms, FFT and Linear Programming?
-I would suggest Introduction to Algorithms by Cormen,Leiserson,Rivest,Stein, popularly known as CLRS. PS: If you want to buy one, I have several copies of it with me.    Embed Quote

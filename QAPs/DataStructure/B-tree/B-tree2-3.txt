@@ -1,2 +1,0 @@
-What is a B+ Tree?
-Most important aspect of a B+Tree is that it greatly reduces the number of block device level operations that need to be done, such as very slow reads and writes to disk 14.1k Views · 3 Upvotes

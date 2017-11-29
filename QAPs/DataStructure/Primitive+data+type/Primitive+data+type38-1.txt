@@ -1,2 +1,0 @@
-What is non primitive data structure?
-Java has eight primitive types: byte , short , int , long , char , Boolean , float and double . Anything else is a non-primitive type. The data types that are derived from primary data types are known as non-Primitive data types. These datatype are used to store group of values. The non-primitive data types are Arrays Structure Union linked list Stacks Queue etc 

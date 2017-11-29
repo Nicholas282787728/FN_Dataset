@@ -1,2 +1,0 @@
-★What are some great texts on Bayesian inference?
-"Bayesian Data Analysis" by Andrew Gelman (http://www.stat.columbia.edu/~ge...) is a great resource, though it doesn't only focus on inference and isn't heavy on inference methods. "Pattern Recognition and Machine Learning" has a section on Bayesian inference in graphical models, and "Probabilistic Graphical Models" by Daphne Koller has much more material on Bayesian inference.    Embed Quote 

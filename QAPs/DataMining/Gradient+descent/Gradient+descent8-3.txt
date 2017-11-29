@@ -1,2 +1,0 @@
-★Mathematical Optimization: Why would someone use gradient descent for a convex function?Why wouldn't they just find the derivative of this function, and look for the minimum in the traditional way?
-Gradient descent can be pretty easily modified to deal with constraints, whereas finding an analytic solution to constrained optimization problems is generally a fool's errand.    Embed Quote

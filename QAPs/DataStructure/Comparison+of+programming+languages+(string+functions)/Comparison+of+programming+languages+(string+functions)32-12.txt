@@ -1,2 +1,0 @@
-What is the difference between a compiler and an interpreter?
-A compiler is a program that translates other programs to a more easily executable form. An interpreter is a program that, itself, executes other programs. From a technical perspective, this has nothing to do with the source language; for example, you could write a C++ compiler, or a C++ interpreter; you could write a PHP compiler or a PHP interpreter. Commonly, C++ is compiled and PHP is interpreted. 

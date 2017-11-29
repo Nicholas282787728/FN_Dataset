@@ -1,2 +1,0 @@
-★Which layer in the OSI reference model is responsible for determining the availability of the receiving program and checking to see if enough resources exist for that communication? A. transport B. network C. presentation D. session E. application
-I think you are looking for the Transportation Layer.   Amongst other things, the Transportation Layer determines the availability of the receiving node as well as managing the flow control; i.e. not sending more data than the receiving node can manage.    Embed Quote

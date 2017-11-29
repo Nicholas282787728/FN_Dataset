@@ -1,2 +1,0 @@
-★Supervised Learning: How do current NN approaches deal with the vanishing gradients of Backpropagation?I guess one of the solutions is the unsupervised pretraining of the NN before the supervised phase. What are the other possible solutions?
-Greedy, layer-wise training also produced good results for certain problems.    Embed Quote

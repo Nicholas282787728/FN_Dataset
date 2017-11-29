@@ -1,2 +1,0 @@
-★What are some free or low-cost intranet solutions?
-WordPress is a free open source platform that is excellent for intranet development.  I've developed a Simple Intranet plugin to give you all the most popular features clients request. This is by far the most cost effective solution with the most power/features.  Simple Intranet - Open source WordPress intranet software.

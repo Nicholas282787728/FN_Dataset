@@ -1,2 +1,0 @@
-What are the pros and cons of using Amazon Redshift?
-Have a look at this post. Its the most exhaustive one I've seen to date. http://blog.aggregateknowledge.c... Updated 27 Jul 2013 • View Upvotes

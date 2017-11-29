@@ -1,2 +1,0 @@
-★What is the difference between structured and unstructured data?
-For me, structured data lives in specified columns.  Unstructured data is text-like.  Semi-structured data is columns, but some of the columns are text-like, or jsons.    Embed Quote

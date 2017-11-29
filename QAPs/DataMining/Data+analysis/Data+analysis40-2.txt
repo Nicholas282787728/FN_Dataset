@@ -1,2 +1,0 @@
-What are some common fallacies or mistakes made by beginners in Statistics/Machine Learning/Data Analysis or they are prone to make?
-Lots of good answers here, but I will add: building a very complicated model without bothering to check how a very simple model would perform first. This mistake is not limited to beginners.    Embed Quote 

@@ -1,2 +1,0 @@
-What is difference between EMPTY and NULL string in Java?
-If you write any blank string like String s1=""; Then its called empty string. Now when you declare any string it gets default value of null.like, String s2; Null is basically non intialised value. 

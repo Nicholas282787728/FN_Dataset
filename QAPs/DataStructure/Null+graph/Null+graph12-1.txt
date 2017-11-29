@@ -1,2 +1,0 @@
-What are the top 10 math topics I should learn if I'm trying to become a data scientist?
-+1 re. many types of data scientist.  What you need to (re) learn: -  Calculus -  Numerical methods -  Probability and Statistics:    - Classic    - Bayesian    - Non-parametric    - Time Series Analysis -  Algorithms -  Operations Research:    - Stochastic Optimization -  Domain (whatever it is) -  Technical writing -  Data Visualization -  At least one programming language 

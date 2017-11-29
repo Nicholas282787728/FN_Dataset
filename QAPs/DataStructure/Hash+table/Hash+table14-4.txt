@@ -1,2 +1,0 @@
-Why do hash tables need to store the key of a record?
-Without the key, we can't access the hash directly. And, because hash tables are designed exactly for that reason: "A hash table is used when you need to access elements by using key, and you can identify a useful key value. Each item in the hash table has a key/value pair. The key is used to access the items in the collection." 977 Views

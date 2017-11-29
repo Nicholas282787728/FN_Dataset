@@ -1,2 +1,0 @@
-What is the coolest thing you can do with Mathematica?
-It might not be the coolest thing for you, but for me it is the capability of transform a multivariate equation or mathematical expression into a simpler one, or solve it in terms of its variables, and to give it the shape you want. 2.6k Views · 1 Upvote

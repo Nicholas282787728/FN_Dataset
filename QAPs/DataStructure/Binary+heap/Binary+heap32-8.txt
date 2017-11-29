@@ -1,2 +1,0 @@
-How can I design an efficient data structure that supports findMin, findMax, deleteMin, deleteMax, Insert, and delete?I need to design an efficient data structure that supports: findMin & findMax (most frequent) deleteMin & deleteMax (moderate frequent) Insert & delete (least frequent)
-He or She can use Heap data structure and heap sort for best result...Or self balancing binary search tree too. 

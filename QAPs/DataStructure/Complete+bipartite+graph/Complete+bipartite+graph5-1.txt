@@ -1,1 +1,0 @@
-At a party there were 7 boys and 6 girls. Every boy danced with every girl. Draw the graph representing the dancing. How many edges does it have? What are its degrees?

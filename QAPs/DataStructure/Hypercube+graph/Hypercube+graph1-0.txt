@@ -1,2 +1,0 @@
-What is the best way to draw a hypercube graph in the 5th dimension?
-I've studied simpleces in different dimensions, but not cubes. But could this be what you're looking for? File:5-cube graph.svg There's also this: Hypercube These articles are well written and fairly comprehensive. I hope they help, as this is a little out of my realm of experience. 

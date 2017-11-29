@@ -1,2 +1,0 @@
-★Why is the IP address used for routing of packets and not MAC addresses?MAC addresses are abundant and unique for every device.
-Two basic reasons.  1) MAC address space is flat.. and flat routing tables would not scale for a world with 2^64 hosts. 2) MAC addresses are meant for Local Area and medium access resolution. Reusing them for routing would require the change of the *entire* world's software/network stack.    Embed Quote

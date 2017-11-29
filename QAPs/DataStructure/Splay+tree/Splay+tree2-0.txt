@@ -1,2 +1,0 @@
-What are some practical applications of AVL trees and splay trees?
-Everywhere where searching is more frequent than insertion. Little overhead is associated with insertion in these, but it saves much time while searching. These are mainly used when huge amount of data is there. Data analysis, data mining etc. are the fields. Example can be:- a dictionaries may use this data structure. 

@@ -1,2 +1,0 @@
-★What are the best simulators for a peer-to-peer system or distributed system?I'm trying to test the performance of a distributed protocol. So it would be better to if the simulator can focus on the processing of single nodes and hide the detail of node to node communication. Another way to put this is that I want to run the protocol in a simulated platform and collect the log. And then do performance analysis based on these log.
-Try PeerSim: peersim Or ask the people behind this paper: Page on soda.swedish-ict.se    Embed Quote

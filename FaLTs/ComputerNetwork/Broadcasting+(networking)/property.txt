@@ -1,3 +1,0 @@
-Broadcasting is the most general communication method, and is also the most intensive in the sense that a large number of messages are required.
-Broadcasting may be performed as "all scatter" in which each sender performs its own scatter in which the messages are distinct for each receiver, or "all broadcast" in which they are the same.
-The MPI message passing method which is the de facto standard on large computer clusters includes the MPI_Alltoall method.

@@ -1,2 +1,0 @@
-★What are some open source Firewall/IDS software which I can use to protect my home network?Today, a colleague suggested me http://www.pfsense.org/. It seems it provides firewall service, but no intrusion detection. So, is there a better option?
-I used to recommend Astero to folks, know a few individuals and small companies that used that. Sophos purchased them, no idea what it's like now. Endian (http://www.endian.com/us/community/) seems to be the popular one now, probably worth checking out.

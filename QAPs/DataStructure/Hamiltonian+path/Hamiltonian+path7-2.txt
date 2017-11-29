@@ -1,1 +1,0 @@
-What is the name of the following problem: given a graph, find a path between 2 nodes that pass through each node once and only once?This is a variant of the Hamilton graph problem, but where you do not have to return to the original node.  What is this problem called?

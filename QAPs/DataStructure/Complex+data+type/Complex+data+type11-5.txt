@@ -1,2 +1,0 @@
-What makes C++ so good?
-C++ is restrictions less. You may just follow the Syntax and can go beyond imaginations. Who could wonder running for loop without initialisation, text expression, or increment. Python, and other languages have their for loops with all the three, whereas in C++ you can do it like for ( i=0 ; ; i-- ) OR for ( ; ; i++) or anything which gives you freedom to do anything. Cheers ! pLAY 

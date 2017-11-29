@@ -1,2 +1,0 @@
-★Are there any collaborative web scraping and indexing projects?
-In addition to | CommonCrawl for crawling, Faroo and yacy are examples of peer-to-peer search engines.    Embed Quote

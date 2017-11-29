@@ -1,2 +1,0 @@
-★Is my laptop more vulnerable to intrusions over public Wi-Fi or over a cellular network (hotspot)?
-Both of them usually have a NAT between your laptop and the public internet, the only difference is that there can be other [infected] laptops in the public wifi, in the same network with your laptop, which may cause problems. On the other hand, the cell net traffic is usually metered, so if an external intruder tries to hack your cellphone's external IP address, you will have to pay for traffic.

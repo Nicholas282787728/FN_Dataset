@@ -1,2 +1,0 @@
-★What is the difference between a URL and HTTP?
-url (uniform resource locator) is string locator for different kinds of possible resources server over different protocol, this can be remote or local. http is one of the protocols on which that resource can be served. others could be: ftp://   (remote) file:/// (local) etc...    Embed Quote

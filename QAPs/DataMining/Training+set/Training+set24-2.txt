@@ -1,2 +1,0 @@
-★How can one improve a classifier (random forest), when there is no overfitting + optimal parameter selection but performance on the test set is much lower than on the training set?
-try using transductive learning Machine Learning with Missing Labels:  Transductive SVMs this is possible even with random forests Page on icg.tugraz.at    Embed Quote

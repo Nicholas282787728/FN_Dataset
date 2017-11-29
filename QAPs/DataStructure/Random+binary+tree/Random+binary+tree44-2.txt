@@ -1,2 +1,0 @@
-What about Python makes it an increasingly popular language for scientific computing and data science?
-For me it's flexibility. Python has an easy syntax and works great with string data; numeric data issues are handled very well using pandas. Add in IPython Notebook and you've got an amazing combination. 

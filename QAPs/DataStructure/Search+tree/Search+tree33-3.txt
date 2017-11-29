@@ -1,2 +1,0 @@
-What is the difference between a AVL tree and a binary search tree?
-AVL is balanced binary search tree insert this element in Binary Search tree 1,2,3,4,5,6,7,8 see its height and now insert this element in AVL and find the height you will know the difference 

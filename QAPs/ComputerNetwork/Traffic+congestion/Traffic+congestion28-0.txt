@@ -1,2 +1,0 @@
-★How can I implement this project: ''traffic congestion alert system using GSM"?This project is my final year project to earn my bachelor's degree.
-What's the brief for it? Presumably the idea is to use GSM data from cell towers to identify high traffic volumes? Do you have access to those data, or are you building an app which people sign up to? You'll need to provide a little more detail on what you want to accomplish before we can help here.    Embed Quote

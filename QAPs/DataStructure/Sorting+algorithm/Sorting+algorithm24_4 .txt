@@ -1,1 +1,0 @@
-Can you implement a simple sorting algorithm using for loops?Yes you can. Look up "selection sort", "bubble sort", and "insertion sort". Bubble sort is one of the easiest sorting algorithms to understand and to implement. 

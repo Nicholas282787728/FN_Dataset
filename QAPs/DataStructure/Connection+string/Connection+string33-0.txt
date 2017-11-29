@@ -1,2 +1,0 @@
-If you had a string on Earth connected to Mars and pulled one end, wouldn't that information travel millions of miles a second?
-No. There are no perfectly unstretchable strings. Molecular bonds are of electromagnetic nature (details depend on particular bond type), therefore subject to the same restrictions as light itself. BTW, "signal" produced by tugging is a longitudinal density wave which propagates at the speed of sound. 

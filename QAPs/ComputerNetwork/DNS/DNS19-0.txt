@@ -1,2 +1,0 @@
-★Why is DNS Pollution considered so bad?
-To take it from this - dnsspam.nl It's not so much about the DNS, but about the waste of IP addresses. Reverse DNS lookups require unique IP addresses per host. The waste of IP addresses represents a "tragedy of the commons" situation. In the dnsspam site, they favor the used of fixed hosts or dynamic IP addresses from a pool. Contrast for example the evolution of HTTP. HTTP originally supported only one host per IP address. Name-based virtual hosts were later added to allow a large number of web hosts per physical host.

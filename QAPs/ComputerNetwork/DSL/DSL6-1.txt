@@ -1,2 +1,0 @@
-★What are good examples of Domain Specific Languages (DSL) in Haskell?Aim is to learn Haskell by doing, any ideas on would be appreciated.
-Accelerate - DSL for array processing allowing use of GPGPU (CUDA). Diagrams - to some extent visual DSL for 2D drawings

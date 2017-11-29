@@ -1,2 +1,0 @@
-★What are things that electronics and telecommunication engineers (ECE) know while other engineers don't?
-"Please Do Not Touch Steve's Pet Alligator". :P [Mnemonic generally used to help remember the layers of the OSI model]

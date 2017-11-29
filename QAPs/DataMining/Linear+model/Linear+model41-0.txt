@@ -1,2 +1,0 @@
-★How do you fit a linear model when the dependent variable is known to always be positive? Does taking the log of the dependent variable have unintended consequences?
-If you take the log of the dependent variable, then you're fitting a model of the form                                   or, equivalently,                                         which is not a linear model at all, but rather an exponential model.    Embed Quote

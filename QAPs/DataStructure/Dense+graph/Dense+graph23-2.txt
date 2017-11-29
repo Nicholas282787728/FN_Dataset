@@ -1,1 +1,0 @@
-What data structures does Google use for Google Maps?If they use database tables, how are they organized?

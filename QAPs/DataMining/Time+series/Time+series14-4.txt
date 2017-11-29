@@ -1,2 +1,0 @@
-★How do I learn about time series analysis?
-Check out the open-source book, A First Course on Time Series with SAS You can download the pdf at http://www.statistik-mathematik.... There is also an "Introduction to Time Series Analysis" from NIST at http://www.itl.nist.gov/div898/h... Also Harvard has a Time Series Center you could browse for interesting content: http://timemachine.iic.harvard.edu/    Embed Quote

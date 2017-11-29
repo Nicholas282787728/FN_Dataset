@@ -1,2 +1,0 @@
-Which are the top blogs to follow to explore about algorithms and data structures?
-R J lipton's blog is very good for general complexity theory related discussions. https://rjlipton.wordpress.com/ 

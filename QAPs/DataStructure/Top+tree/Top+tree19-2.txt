@@ -1,2 +1,0 @@
-What is the best Python suffix tree implementation?
-Gusield's strmat implementation is pretty good (http://www.cs.ucdavis.edu/~gusfi...) and you can find online python wrappers (https://hkn.eecs.berkeley.edu/~d...) as well. Do not expect it to handle big amounts of text, though. 

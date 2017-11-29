@@ -1,2 +1,0 @@
-★Why these two linear programs are not equal?
-the two formulas are the same and the wrong is in my MATLAB code. the third line should be changed to the following in the second code: b(6:end)=[100;70;250;-100;-70;-250];    Embed Quote

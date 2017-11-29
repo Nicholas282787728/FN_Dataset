@@ -1,1 +1,0 @@
-How do I know I have defined a state correctly in this "Trampoline maze" problem? How to know in all problems like this which require BFS in k-dimensions I have done it correctly?

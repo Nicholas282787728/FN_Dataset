@@ -1,1 +1,0 @@
-What is the best method for checking if a binary tree is a binary search tree?A simple DFS (depth first search) that goes on all the nodes in the tree O(N), while comparing if any node isn't in its place. Return false if you find any misplaced node, if you can't find a misplaced node, return true which will take a maximum of O(N) 

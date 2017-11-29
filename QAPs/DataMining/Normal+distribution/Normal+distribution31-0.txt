@@ -1,2 +1,0 @@
-★How do you plot a normal distribution in Excel (Mac)?The answer cannot involve the Analysis Toolpack.  That add-in is not available for the Mac.
-I don't have Excel in front of me right this second, so there may be a typo or two here, but this should give the general idea. In column A, put in your desired x values -- let's say from -2 to 2 in increments of 0.1 or so.  In B1, put in the formula = EXP( - 0.5 * (A1)^2 ) / SQRT(2 * Pi()) and fill the formula down column B.  Finally, insert a chart plotting column A versus column B.    Embed Quote

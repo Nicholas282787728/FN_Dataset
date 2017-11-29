@@ -1,2 +1,0 @@
-★Command Line Interfaces: What is a flag?
-Flags are additional information sent to any command. For example `ls' lists all files (but not the hidden ones), but passing a flag can be used to change this behaviour. `ls -A` lists all files including the hidden ones. If you're on linux, try `man ls' and it will show you a list of options that can be used with ls.

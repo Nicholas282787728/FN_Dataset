@@ -1,2 +1,0 @@
-★Why is there no micro Ethernet connector standard?We have micro USB (super-endorsed by EU), micro HDMI, and the Apple connectors getting smaller too... what's up with networking?
-most hdmi (including micro) can also carry ethernet

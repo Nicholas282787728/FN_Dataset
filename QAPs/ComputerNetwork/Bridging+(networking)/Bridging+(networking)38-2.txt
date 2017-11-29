@@ -1,2 +1,0 @@
-★Who are the greatest female programmers?
-Margaret Hamilton (scientist) was the lead software engineer for the Apollo project. as Wikipedia puts it, Hamilton is credited for coining the term “software engineering”.[13] In this field she pioneered the concepts ofasynchronous software, priority scheduling, end-to-end testing, and human-in-the-loop decision capability, such as priority displays which then became the foundation for ultra reliable software design.

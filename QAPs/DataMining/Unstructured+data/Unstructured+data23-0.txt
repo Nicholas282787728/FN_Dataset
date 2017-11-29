@@ -1,2 +1,0 @@
-★How it is useful in terms of structure, semi-structured and unstructured data?Big data come in three flavor, Structured, Semi-Structured, Un-Structured.
-Hi nisha , Big data come in three flavor, Structured, Semi-Structured,  Un-Structured and we need to process these data to come to some  conclusion / generate reports. Hadoop helps in writing sim-ple code to  handle these volume of data and analyze them. It enables parallel  computation on this huge data volume and get results much more faster.    Embed Quote

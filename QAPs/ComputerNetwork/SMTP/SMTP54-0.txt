@@ -1,2 +1,0 @@
-★What is a provider that is equivalent to Amazon SES SMTP service, comparably priced?
-Amazon SES is not possible to beat on price from my research, but it is very bare bones.  The new product from MailChimp called Mandrill seems like a great alternative. Sendgrid and Mailgun as well.    Embed Quote

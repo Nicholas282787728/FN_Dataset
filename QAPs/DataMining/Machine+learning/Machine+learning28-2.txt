@@ -1,2 +1,0 @@
-★Who are some notable machine learning researchers?i.e. people doing interesting stuff in ML This is a follow-up on How do I learn machine learning?
-Many are missing from the list, including: Ross Quinlan Radford M. Neal David MacKay Trevor Hastie Robert Tibshirani Jerome Friedman Carl Edward Rasmussen Christopher Williams John Shawe-Taylor John Hertz Brian Ripley    Embed Quote

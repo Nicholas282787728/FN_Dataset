@@ -1,2 +1,0 @@
-★Why does stochastic gradient descent have a tendency to overfit the data?I've read that stochastic gradient descent overfits the data because the earlier examples hold more "sway" than later ones. Why?
-Model overfits data. Optimization method solves model. So the question is ill-posed.    Embed Quote

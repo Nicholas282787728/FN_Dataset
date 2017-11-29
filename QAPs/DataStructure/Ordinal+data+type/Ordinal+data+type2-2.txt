@@ -1,2 +1,0 @@
-How do you best represent ordered lists in a relational database, allowing for easy and efficient updates (insertion/deletion of list elements)?
-I  believe you're over thinking this. You clearly have some criteria upon which the ordering is based. Why not simply store the attribute that the ordering is derived on and then just use that in the order by clause? 

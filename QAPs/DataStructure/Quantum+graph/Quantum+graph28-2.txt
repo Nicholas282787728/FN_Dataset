@@ -1,2 +1,0 @@
-Can a quantum computer be modeled on a standard computer?
-Quantum Computing Playground through Google looks like an interesting instance of simulating a quantum computer.  Has anyone here tried it? 

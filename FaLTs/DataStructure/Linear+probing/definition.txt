@@ -1,1 +1,0 @@
-Linear probing is a scheme in computer programming for resolving collisions in hash tables, data structures for maintaining a collection of key¨Cvalue pairs and looking up the value associated with a given key.

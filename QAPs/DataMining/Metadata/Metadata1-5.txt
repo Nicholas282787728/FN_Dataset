@@ -1,2 +1,0 @@
-★What's the difference between master data and metadata?
-Normally in a business transaction, all the noun consitute master data. Consider a simple business transaction e.g. "John bought a shirt and shipped it to his home address". In this statement, John as in customer, shirt as in product, home address as in location become master data. Metadata is obviously data about data like source, owner, data type, table name, column name etc.    Embed Quote

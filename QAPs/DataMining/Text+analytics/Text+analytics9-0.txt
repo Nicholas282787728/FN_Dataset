@@ -1,2 +1,0 @@
-★What are the most successful startups that provide text analytics products?e.g. categorization, named entity extraction, sentiment detection, etc.
-Here are a few companies that I think should be mentioned Saplo (company) - http://saplo.com Open Amplify - http://openamplify.com Lexalytics - http://lexalytics.com AlchemyAPI - http://alchemyapi.com Most of them are not startups anymore (depending on definition) but they are the all interesting players in the space. Full disclosure Im founder of Saplo    Embed Quote

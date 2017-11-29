@@ -1,2 +1,0 @@
-Can a non-cs graduate earn a MS degree in computer science?
-Sure it is. If you want admission to a top department, however, it gets a lot harder. I would suggest finding ways to build empirical evidence of your knowledge and skills in CS. Build a large system or mobile app, and put it on github, would be one example. 

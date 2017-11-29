@@ -1,2 +1,0 @@
-★Is there a good online service for nautical charts?
-OpenCPN with free NOAA charts is the way to go. Just as interesting as the open-source chart plotter itself is their open plugin architecture. Tens of plugins available, from weather forecasting, radar/CPN integration, and cruise planning    Embed Quote

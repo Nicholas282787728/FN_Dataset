@@ -1,2 +1,0 @@
-★Can frequency domain and time domain be plotted simultaneously?
-Such plots are called spectrograms.

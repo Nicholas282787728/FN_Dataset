@@ -1,2 +1,0 @@
-★What are some papers on machine learning techniques of pattern recognition in written documents?I'm pondering a research idea that will lean heavily on the probability of finding key patterns in written documents. I'm looking for some papers/research that can provide support to my thesis.
-I know about a book. Springer's "Pattern Recognition and Machine Learning" by Christopher M. Bishop    Embed Quote

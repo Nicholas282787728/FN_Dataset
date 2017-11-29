@@ -1,2 +1,0 @@
-★What companies are successfully using WordPress for their intranet?WordPress is a powerful, extensible CMS. I'm looking for success stories from companies using WordPress to power their intranet.
-The UK Government's Department of Culture, Media and Sport uses Wordpress: Intranets: DCMS doing it right You can download a copy of their template from Github: helpful/helpful-intranet

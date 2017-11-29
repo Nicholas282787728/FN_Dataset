@@ -1,1 +1,0 @@
-Cryptography: Are there any concerns using the NSA's common SHA-2 cryptographic hash functions?

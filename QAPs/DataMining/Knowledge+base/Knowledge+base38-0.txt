@@ -1,2 +1,0 @@
-★What are practical uses of knowledge bases such as Freebase and WikiData?
-Freebase powers recommendation and prediction engines across the web — from the Google Knowledge Graph to web stores - related content, other books by this author etc. At Ingen.io we're using it for Named Entity Recognition - and contextual graph building.    Embed Quote

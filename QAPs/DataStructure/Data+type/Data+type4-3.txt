@@ -1,2 +1,0 @@
-What is the difference between signed and unsigned data types?
-signed data types are lower in range because they consist both negative and positive values . While unsigned data types are wider in range because they consist only 'Zero' and positive values up to the range. 5.3k Views · 3 Upvotes · Answer requested by Reva Choubey

@@ -1,2 +1,0 @@
-How do you solve this SPOJ problem using both BIT and a segment tree?
-Timon has already given the right idea. Here is code: t3nsor/SPOJ/niceday-2.cpp Tip: Prefer BITs over segment trees when possible. They are faster and easier to code. 

@@ -1,2 +1,0 @@
-What are some great non-standard (not widely used) data structures?
-Got to say I'm a big fan of the Deque, i.e. double-ended queue. Deque (Java Platform SE 7 ) Double-ended queueThe name is great. It's a double-ended queue and it is pronounced "deck", like a deck of cards, and a deck of cards is like a double-ended queue! 

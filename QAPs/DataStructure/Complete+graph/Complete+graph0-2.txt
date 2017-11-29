@@ -1,2 +1,0 @@
-What is the size of the largest complete graph on Facebook?
-At most 5001 vertices (or 12502500 edges). Facebook has a 5000-person limit on the number of friends. (So, theoretically, the maximum clique problem can be solved in polynomial time on the class of facebook graphs.) Updated 19 Oct 2013 • View Upvotes

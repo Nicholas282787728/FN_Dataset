@@ -1,2 +1,0 @@
-★What is DNS?
-A Domain Name server provides lookup facility for web site name to address. It is like a directory service.

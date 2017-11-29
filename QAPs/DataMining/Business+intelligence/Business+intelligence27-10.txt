@@ -1,2 +1,0 @@
-What is the best, reasonably priced business intelligence application?
-We (http://www.flexmonster.com/) have a lot of clients from smb-segment. Its web based pivot table&charts component, no dashboards yet =(  But all needed functionality for advanced reporting is included. 1 eternal license includes one developer's key and can be used for single-company intranet deployment per unlimited number of end-users. Price starts from 499$.    Embed Quote 

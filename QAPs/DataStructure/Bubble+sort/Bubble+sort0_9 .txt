@@ -1,1 +1,0 @@
-Is this an efficient implementation of bubble sort?1. "efficient Bubble sort" is really an oximoron (unless its a pre-sorted array) 2. If at all you want to use Bubble sort, try bidirectional bubble sort 3. While implementing sorting algorithms it is always better to use arrays or ADTs instead of library collections like ArrayList 

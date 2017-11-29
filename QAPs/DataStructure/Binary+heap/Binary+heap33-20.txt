@@ -1,2 +1,0 @@
-What are the 10 must-know algorithms and data structures for a software engineer?
-Compiled list of all problems related to data structures for a software engineer Problem list for interviews 

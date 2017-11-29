@@ -1,1 +1,0 @@
-How can I grab dynamic data from a website (Cyberoam data usage) and plot it using graph in another website?The best way is to use Google Analytics if I am not wrong, else there might be some plugins in SEO and tools like for WordPress. Haven't tried yet but you can just follow my hint. It will help you for sure.. :) 37 Views

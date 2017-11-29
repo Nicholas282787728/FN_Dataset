@@ -1,2 +1,0 @@
-★What are the prominent alternatives to the vector space model for representing and modeling text data?
-I believe two of them are worth mentioning: shingling (k-gram sets of symbols are used rather than term vectors) and hashing, e.g. Locality Sensitive Hashing.    Embed Quote

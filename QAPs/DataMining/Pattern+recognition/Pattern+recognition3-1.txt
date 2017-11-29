@@ -1,2 +1,0 @@
-★What is the difference between pattern recognition and machine learning?
-Not much. The terms are nearly synonymous. Michael Bishop's textbook "Pattern Recognition and Machine Learning" very own title implies this. PR is historically associated with computer vision contexts. The journal IEEE Transactions on Pattern Analysis and Machine Intelligence being a place where a lot of the computer vision pioneering work was published. I'm curious, in what context are you wondering about their difference?    Embed Quote

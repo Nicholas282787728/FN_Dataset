@@ -1,2 +1,0 @@
-What are the most important data structures in a tech interview?
-Hash tables. Why? All tech interviewers are software engineers, and not all companies pull questions from Codeforces, Topcoder, etc - some come up with the questions themselves. The most commonly used data structure in work, from my experience, is the hash table, and that would inevitably show up more often than "academic" ones like the binary search tree, union-find sets, or other contest-oriented structures. 3.2k Views · 5 Upvotes

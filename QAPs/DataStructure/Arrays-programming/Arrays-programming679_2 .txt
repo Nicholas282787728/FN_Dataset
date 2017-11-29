@@ -1,1 +1,0 @@
-How do you clone an array that is indexed in an ArrayList of arrays in Java in Sam Hill?You get a reference to that array by iterating through the ArrayList. Then you can do whatever is your preferred way of cloning/copying arrays. 45 Views

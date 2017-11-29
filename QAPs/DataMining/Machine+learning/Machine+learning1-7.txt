@@ -1,2 +1,0 @@
-★What are the top 10 data mining or machine learning algorithms?
-Linear regression Logistic regression (with or without L1/L2) K-means SVMs (certainly,including kernel SVM) Random Forests SVD Gradient Boosted Decisión Trees  (GBDT) Naive Bayes (Artificial ) Neural Networks  (foundations of Deep Learning) Adaboosting (really powerful)    Embed Quote

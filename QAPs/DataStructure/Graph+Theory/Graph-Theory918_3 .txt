@@ -1,1 +1,0 @@
-How is I understand this physics graph question?The graph is mA vs volts but ohm result from a ratio volts to amps so to get it in amps 40 mA = 40*10^-3 A 12 Views  View Upvotes  Answer requested by 1 person

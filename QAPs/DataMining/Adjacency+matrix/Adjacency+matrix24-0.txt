@@ -1,2 +1,0 @@
-★Given an NXN adjacency matrix of a undirected graph, how do I find the maximum size set of vertices such that no two vertices in the set are connected?
-This is graph coloring problem. You may find various algo for graph colouring. It is important to note that if graph is planar you may find solution easily.. If it is non planar Using four color and five color theorem you can guess..but finding it by some method may be complicated    Embed Quote

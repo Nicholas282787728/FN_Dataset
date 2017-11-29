@@ -1,2 +1,0 @@
-C++ (programming language): How do you judge a C++ programmer by only 5 questions?
-Name tradeoffs between vector and list What would have to change in the C++ standard to implement, portably, "stack trace" printouts of uncaught exception, like python or java Use cases of virtual inheritance and weak pointers What are the properties of a type that can be placed in shared memory? Explain RVO, SSO, EBCO and other optimizations 

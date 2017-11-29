@@ -1,2 +1,0 @@
-★SMTP Error: Could not authenticate....What does it means?
-Its just a matter of entering your user name and password. In  some cases its something as simple as just checking that checkbox saying  to use the same username and  password for outgoing mail if you are using outlook or something like  that. Check if your outlook has username and password authentication for  outgoing messages.    Embed Quote

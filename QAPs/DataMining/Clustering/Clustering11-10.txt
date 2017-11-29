@@ -1,2 +1,0 @@
-What are the best open source tools for unsupervised clustering of text documents?
-Weka is Great to do the job.    Embed Quote 

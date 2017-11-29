@@ -1,2 +1,0 @@
-How should I implement a social networking analysis directed graph in c++?
-I'd use an existing library like igraph or networkx to build the graph. 189 Views

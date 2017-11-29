@@ -1,2 +1,0 @@
-I want to find the maximum value between 2 keys i < j, within worst case O(log n). How can I achieve that?
-The key to this is getting the values as you go through the tree getting the correct range of keys (which is O(logn) itself). There is no particular better or worse way of doing this traversal, as the key-value nature gives you no information about where the maximum is. 

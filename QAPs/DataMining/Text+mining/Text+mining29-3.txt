@@ -1,2 +1,0 @@
-★Where can I find datasets for my dissertation based on text mining?I am an M.Tech. student and want to do dissertation in Text mining area using Hive and Pig. But I am in search of a datasetation(not much big in size) on which I can work! Please let me know where I can find such datasets.
-A2A You can download large set of datasets from the below link - Sample Data Sets Data Sets Sample Data | GeoDa Center You can refer this link for your dissertation based on Text mining .    Embed Quote

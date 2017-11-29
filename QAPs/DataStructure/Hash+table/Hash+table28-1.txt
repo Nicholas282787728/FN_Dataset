@@ -1,2 +1,0 @@
-Can a hash table be implemented using an array?
-I'd like to point out that at the lowest level, an array is all you have. All the memory on a machine can be seen as one giant array -- your memory allocator is an abstraction on top of that. Therefore all data structures can be implemented in terms of an array. Or, if you prefer another formulation, arrays are enough to simulate a memory allocator. Therefore any data structure not implemented in terms of arrays can be simulated with arrays. 420 Views

@@ -1,2 +1,0 @@
-★What would you put on a regression analysis checklist?Basically what should you do whenever you run a regression. Examples: plot the residual, check the significance of coefficients etc.
-I found a great analysis guide here: Regression with Stata Web Book: Chapter 2 - regression diagnostics. And I found that link from here: Data Analysis The "is my model OK" section contains checklists for all sorts of regressions and models.    Embed Quote

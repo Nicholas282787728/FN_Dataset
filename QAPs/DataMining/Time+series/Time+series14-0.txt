@@ -1,2 +1,0 @@
-★How do I learn about time series analysis?
-I would recommend the lecture material here by Charlotte Wickham - Time Series and Spatial Statistics - to get yourself introduced to ARIMA models and time series analysis. Here's what the class covers. Here's one of her plots (they're very pretty)    Embed Quote

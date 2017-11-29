@@ -1,2 +1,0 @@
-What is a good source for learning about Bayesian networks?
-Coursera's Probabilistic Graphical Models course (Daphne Koller): https://www.coursera.org/course/pgm    Embed Quote 

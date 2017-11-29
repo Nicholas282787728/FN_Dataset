@@ -1,2 +1,0 @@
-How can I find the shortest path between two nodes if there might be negative cycles in the graph?I remember reading somewhere that this is a NP hard problem. But what if I add an aditional clause that guarantees that even though there might be a negative cycle in the graph, there exists a path that doesn't go through the negative cycle?
-Basic Implementation of Bellman–Ford algorithm O(nm) or Floyd–Warshall algorithm O(n^3) can easily solve your problem. You can read about them in more detail. 

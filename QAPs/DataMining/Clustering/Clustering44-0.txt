@@ -1,2 +1,0 @@
-How to add a node in Hadoop cluster?
-You do not need to shutdown and/or restart the entire cluster in this case.  First, add the new node's DNS name to the conf/slaves file on the master node.  Then log in to the new slave node and execute:   $ cd path/to/hadoop $ bin/hadoop-daemon.sh start datanode $ bin/hadoop-daemon.sh start tasktracker If you are using Cloudera's distribution of Hadoop CDH3 you can use: service hadoop-0.20-datanode start service hadoop-0.20-tasktracker start    Embed Quote 

@@ -1,2 +1,0 @@
-Is there any research about translation of music and sounds to sheet music and notes?
-First thing that jumped to mind: Page on rochester.edu  (Automatic Music Transcription Using Genetic Algorithms and Electronic Synthesis, David Lu!!, April 25, 2006) Next thing that jumped: ISMIR - The International Society for Music Information Retrieval Hope this helps you. 

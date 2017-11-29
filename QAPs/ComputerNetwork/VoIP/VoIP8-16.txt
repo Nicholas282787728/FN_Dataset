@@ -1,2 +1,0 @@
-★What are the best VOIP service providers and what distinguishes them?
-RingRoost is a do it yourself hosted VoIP solution, the interface is really flexible and basically allows your to setup any sort of call system you want.  FYI: I helped developed the software the powers RingRoost, so I'm of coursed biased.    Embed Quote

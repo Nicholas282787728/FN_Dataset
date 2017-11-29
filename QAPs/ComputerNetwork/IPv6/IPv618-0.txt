@@ -1,2 +1,0 @@
-★Why are we in a hurry for ipv6?
-Reason 1.  IP4 addresses are running out.  Fast. Source: IPv4 Address Report Reason 2: Devices that need IP addresses are growing.  Fast. Hacks like NAT will continue to bridge the gap, but seamless end-to-end any-to-any connectivity really calls for IPv6.    Embed Quote

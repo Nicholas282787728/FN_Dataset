@@ -1,1 +1,0 @@
-What are the pros and cons of using a hash index instead of a B-tree index?

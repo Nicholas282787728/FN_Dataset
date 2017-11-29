@@ -1,2 +1,0 @@
-★What is different between to store unstructure data in RDBMS and noSQL (MongoDB)?
-Many people use MongoDB for relational model an this is a bad design for scaling, there isn't silver bullet and in techonoly every tool has a purpose if you have a relational model for your business(design) use a relational database(Using foreign keys) but if you have a model with few relations you could use MongoDB. In many projects that I've doen I've used a relational database and others NoSQL such as MongoDB, Neo4j or Redis.    Embed Quote

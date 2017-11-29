@@ -1,2 +1,0 @@
-What would the correct chemical nomenclature be for this chemical compound: CHBO2Mg?
-If you want a good answer, you'll have to provide the structure of the compound, not just a string of the elements it contains.  (Sometimes a string is enough to specify the structure when ordered properly, especially in organic chemistry, but not in this case.) As is, the question is practically unanswerable.  Add a picture or at least some description of the structure. 

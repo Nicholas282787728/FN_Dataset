@@ -1,2 +1,0 @@
-How do I learn data mining?
-Here are a few books I've found to be useful in practice: "Exploratory Data Analysis" by John Tukey "Data Analysis with SQL and Excel" by Gordon Linoff "Data Preparation for Data Mining" by Dorian Pyle "A Handbook of Statistical Analyses using R" by Brian Everitt and Torsten HothornThere are good books for specific areas of data mining as well; would you mind making the question a bit more specific? 

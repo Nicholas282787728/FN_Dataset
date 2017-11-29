@@ -1,1 +1,0 @@
-Why can't constant values be used to define an array's initial size?Yes you can use constants to define array initial size . BTW how are initializing the size of the array up till now ? 7 Views

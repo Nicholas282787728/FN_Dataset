@@ -1,2 +1,0 @@
-★What are the ways to calculate SNR in wireless networks?
-Wireless signals are mostly in Digital domain. So they calculate BER(Bit Error Rate) instead of SNR(Signal to Noise Ratio). To calculate BER , they use bit error rate tester(BERT).    Embed Quote

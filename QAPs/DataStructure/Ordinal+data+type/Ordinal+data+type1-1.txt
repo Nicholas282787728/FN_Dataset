@@ -1,2 +1,0 @@
-How often do data scientists deal with categorical data?
-The balance of data type [categorical, ordinal, interval, ratio] depends on the application.  Social science data is chock full of non-ratio data.  Other fields may have less (hard science with instrument recordings, for example). I see categorical data in nearly every project. 

@@ -1,2 +1,0 @@
-What algorithms should a first year computer science student know?
-None. They should step back and look at the broad picture of the problem they are asked to solve, let their mind consider it while conscious, sleep on it and then spend time asking lots of questions about the specification, reprocess the improved specification, ask more questions and when the spec feels right or do'able start programming. 

@@ -1,2 +1,0 @@
-★What purpose does the small cylindrical module near the end of my laptop charger cable serve?
-It is called as ferrite bead which is nothing but inductor [passive electric component] that suppresses high frequency noise in electronic circuits. It is a specific type of electronic choke. Ferrite beads employ the dissipation of high frequency currents in a ferrite ceramic to build high frequency noise suppression devices. Ferrite beads may also be called blocks, cores, rings, EMI filters, or chokes. For more information refer @Ferrite bead    Embed Quote

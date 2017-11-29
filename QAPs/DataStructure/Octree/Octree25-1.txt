@@ -1,2 +1,0 @@
-What sort of software projects require graph algorithms or network flow algorithms?
-They're everywhere. Just to give you an example, graph cut methods have been used to efficiently solve energy minimization problems that are very useful in computer vision, and specifically in medical image processing. 

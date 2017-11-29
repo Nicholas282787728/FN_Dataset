@@ -1,2 +1,0 @@
-★Natural Language Processing: What are the best realtime text summarization APIs & Services?
-In my project I have used the summarization API provided by Summarize Articles, Editorials and Essays Automatically which I found to be the most efficient summarizer. You just have to register to get the API key, thats it. Register - SMMRY Partner > very efficient. > good documentation. (SMMRY API) > easy to use. > provides an API parameter to specify the % of shortening (line count). > only API key is mandatory.    Embed Quote

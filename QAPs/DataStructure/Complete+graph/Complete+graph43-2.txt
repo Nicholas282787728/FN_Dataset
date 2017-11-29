@@ -1,2 +1,0 @@
-Why is facebook's search called graph search? Does it use a kind of graph data structure or is it because of a completely different reason?
-When folks hear the term "graph" they think of a chart with x/y corrdinates.  That is not what's meant in graph data or graph databases.  When Google or Facebook or Twitter say they use a "graph" or allow "graph search"  or "knowledge graph" they mean the data is represented via "nodes"  and connected via named arcs (lines)... like below. (Compare this with SQL tables and keys)  Graph database are built on graph alegebra. 

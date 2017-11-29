@@ -1,2 +1,0 @@
-How does data structure (stack, queue, linked list) help in placements?
-Interviewer may ask you questions related to data structure like what is link list, how they work etc or they can give you a programming challenge.. So if you are proficient with the concepts  of data structure then it will be  easy for you to solve the query. Basic foundation should be strong. 

@@ -1,2 +1,0 @@
-Apart from introduction of object oriented programming, what other changes were made in c++ with regard to c?
-Many. A few of them -   Casting (very different in C++). The meaning of an empty parameter list. Templates. Function overloading. Declaration location requirements. Stream I/O. 

@@ -1,2 +1,0 @@
-Shortest Path problem for dynamically changing graph?
-IS-IS and OSPF are protocols that do what you are saying no? The graph changes can be modeled as discrete events and shortest path can be run for each discrete time instance and you will get the solution at each time instance? 

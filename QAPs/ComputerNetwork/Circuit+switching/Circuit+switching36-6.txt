@@ -1,2 +1,0 @@
-★What are some good resources for learning about distributed computing? Why?This is a follow-up question on How do I become a data scientist?
-Here is a talk about how Bitly uses NSQ for distributed computing and message processing: Bitly - Realtime Distributed Message Processing at Scale with NSQ Here is the video from that talk:

@@ -1,2 +1,0 @@
-★What is a good service that provides visual heatmaps of user clicks on a web page?I have already checked out crazyegg and clickdensity and am not impressed by either. Is there a service you would recommend? Is there an open source solution?
-think you are looking for some advanced features, try http://www.miapex.com Heatmaps, it has heatmap comparison, mostly used for A/B testing and find out variables that leads to different behaviors; it also has attention heatmaps that crazyegg doesn't have; it's also cross device monitoring.....try it yourself.    Embed Quote

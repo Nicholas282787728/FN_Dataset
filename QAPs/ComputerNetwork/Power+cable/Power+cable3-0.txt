@@ -1,2 +1,0 @@
-★Google map maker - How to map underground power cables?
-The policies regarding underground features, like underground power lines and subterranean rivers and canals, state that features like this shouldn't be mapped. If it's not visible on the surface, it's typically not mapped except in very specific cases. Additionally, there isn't a category for underground power cables in MapMaker, nor is there a comparable category available.    Embed Quote

@@ -1,1 +1,0 @@
-What is the difference between bipartite graph and weighted bipartite graph?A weighted bipartite graph is a bipartite graph that is weighted.

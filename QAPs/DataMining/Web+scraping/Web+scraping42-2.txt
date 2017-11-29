@@ -1,2 +1,0 @@
-★Web Scraping: How can one web-scrape a list of Nature articles for further processing (preferably with metadata if possible)?
-This is a broad question with many ways to do it. I think this can work well for Google for urls of nature websites with articles. create a job for each url using Web Data Extraction Tool. Run it in bulk in the cloud. Have us maintain the jobs (fix when website layout changes, ip gets throttled).    Embed Quote

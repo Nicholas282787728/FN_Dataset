@@ -1,2 +1,0 @@
-What are the 10 must-know algorithms and data structures for a software engineer?
-Depends on what your job is as a software engineer. I have never used any of the datastructures or algorithms mentioned in the answers below except for Arrays, Lists and Maps. I see no reason to re-invent the wheel by implementing my own sorting/hashing algorithms either. So, unless it's your job to come up with a better search or sort, there is no reason to really "must-know" any of those. Competitive programming, of course, is a whole new ball game. 

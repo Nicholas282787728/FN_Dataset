@@ -1,1 +1,0 @@
-How does a compiler know about data types?

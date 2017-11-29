@@ -1,2 +1,0 @@
-What is NP-Completeness?
-1. NP is set of all problems we can verify solution quickly but takes time(sometimes lot of time) to compute solution instead. 2. Reduction is a procedure of represent problem A in terms of problem B(or you can consider it as converting problem A to problem B) 3. there are some problems that we can reduce from any problem in NP(yes, even the problems that will be discovered in future) and we call these problems NP complete problems 

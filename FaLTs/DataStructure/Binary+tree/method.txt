@@ -1,3 +1,0 @@
-Binary trees can be constructed from programming language primitives in several ways.
-Nodes and references: In a language with records and references, binary trees are typically constructed by having a tree node structure which contains some data and references to its left child and its right child. 
-Arrays: Binary trees can also be stored in breadth-first order as an implicit data structure in arrays, and if the tree is a complete binary tree, this method wastes no space.

@@ -1,2 +1,0 @@
-★What are the best schools for studying Natural Language Processing?
-32. University of Texas at Dallas NLP impact factor: very high Notable NLP faculty: Sanda Harabagiu, Dan Moldovan, Yang Liu, Vincent Ng NLP Research: many interesting projects. Well known for research in Question Answering, information extraction, coreference resolution, semantic parsing, summarization. Recent interesting work Clinical NLP. URL: http://www.hlt.utdallas.edu    Embed Quote

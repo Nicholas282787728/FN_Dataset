@@ -1,2 +1,0 @@
-★Designers: What is your workflow when using Typekit for fonts?You can't download Typekit fonts to use in Photoshop, which makes designing comps extremely difficult. In-browser design is very slow, at least for me.
-A little late but you can use the PS plugin to preview fontshop fonts which covers a decent chunk :) http://www.fontshop.com/plugin/    Embed Quote

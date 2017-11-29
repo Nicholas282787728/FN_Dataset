@@ -1,2 +1,0 @@
-Data Structures: What data structure would allow adding an element, removing an element, and querying for the number of elements in the range (a, b), all in O(logn) time?
-1.) Learn what a treap is (it can do remove/insert in O(logn)) 2.) Implement it with split and merge functions 3.) Add to each node a variable "size" that tells you how big is that subtree 4.) perform a split on 'a'-1 then take the right tree that you get and perform a split on 'b' and the result is the size of the left tree you get after second split. (you need to update size when splitting) 

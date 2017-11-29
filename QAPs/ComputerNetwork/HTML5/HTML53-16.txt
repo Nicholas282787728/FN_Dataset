@@ -1,2 +1,0 @@
-★What are some good examples of HTML5 mobile websites?
-Dotgears is a great example of HTML5: http://www.dotgears.com/ It is the website of the developers of Flappy Bird.

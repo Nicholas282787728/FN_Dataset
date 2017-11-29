@@ -1,2 +1,0 @@
-What is the best way to scrape data from a website?
-I have seen a nice application that can do some wonders. It is called The Web Miner. You can set up some rules and the script will extract data. You don't need any programming.    Embed Quote 

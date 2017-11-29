@@ -1,2 +1,0 @@
-How do I implement Locality-Sensitive Hashing with respect to Levenshtein distance?I had like to solve a nearest neighborer problem using LSH, most LSH algorithms work with cosine or hamming distance, the distance in my dataset is a Levenshtein one, any idea how can I solve it?
-I agree with Wei Wang, and disagree with Erik. I'm not aware of any aproximation to Levenshtein with small distortion and thus there is no LSH method for Levenshtein. Wei's answer is really good giving you a work around using Jaccard where you do have an efficient way to create an LSH using minhash. 

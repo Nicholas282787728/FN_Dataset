@@ -1,2 +1,0 @@
-★Who is the best and most cost effective managed DNS provider?
-My vote here would be for DNS Made Easy.  This spells it out pretty nicely: Dyn vs UltraDNS vs AWS Comparison :)

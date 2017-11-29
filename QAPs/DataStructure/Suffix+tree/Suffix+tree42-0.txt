@@ -1,2 +1,0 @@
-What data structures are used in codechef questions?
-Most common data structures you might get across in some difficult problems are Range minimum queries, Suffix trees, Suffix arrays, Binary index trees, Heaps and union find. Remaining are very easy and you can learn to implement them in no time. Course on algorithms : Coursera Range minimum query : Algorithm Tutorials Suffix tree : Suffix Trees Suffix array : Brief Introduction to Suffix Array Also you can find implementations of all good algorithms in Stanford's website. 

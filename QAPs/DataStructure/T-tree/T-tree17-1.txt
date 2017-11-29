@@ -1,2 +1,0 @@
-How is a binary search tree useful? Where is it used in applications?
-In BST we can search any data with logn complexity which is faster than any other data structure. 

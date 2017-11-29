@@ -1,2 +1,0 @@
-How do I find the shortest path between the nodes of a graph under the below constraints?
-Find shortest path between two nodes in directed weighted graph 

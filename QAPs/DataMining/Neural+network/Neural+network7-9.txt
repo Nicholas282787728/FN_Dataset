@@ -1,2 +1,0 @@
-★How do I create a neural network for Alzheimer's detection?
-I'd start with something simpler.  The first thing I'd do is just take the data and construct a linear model in which the time left is simply a linear combination of the other data you have and see how well that works.  Based on that result I'd start thinking about whether to move to something more complicated.    Embed Quote

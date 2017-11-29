@@ -1,2 +1,0 @@
-★Is regression analysis legitimate for time series data?
-no not generally you need to use something like a co-integration test Causality vs Correlation: Granger Causality    Embed Quote

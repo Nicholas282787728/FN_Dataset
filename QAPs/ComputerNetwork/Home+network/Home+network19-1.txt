@@ -1,2 +1,0 @@
-★What is the best way to learn about OSPF in an inexpensive home network?
-Can we use gns3 for quagga routing software. Quagga is a linux based open source routing software.

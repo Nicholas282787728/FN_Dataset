@@ -1,2 +1,0 @@
-★What is the largest Markov chain ever used?
-Especially autoencoders and RBM are kind of Markov chains where each layer only uses the preceding layer to be activated and it conforms a  kind of Markov assumption. So maybe Andrew Ng and Google autoencoder over YouTube images can be deemed as the largest Markov model to my knowledge.    Embed Quote

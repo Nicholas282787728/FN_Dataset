@@ -1,2 +1,0 @@
-Can you help me solve e x =1−x  ?
-A quick graph of y =e^x and y =1-x  will confirm the single solution 

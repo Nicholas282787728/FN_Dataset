@@ -1,2 +1,0 @@
-★What are the best Task management tool with workflows?I want a task management tool which i can do; 1-Workflows shared with team or specific emails 2-Automatically send emails when job hasn't done in specific time period 3-Also when tasks finished system send automatic mails to the team
-Maybe you could integrate workflows into Pintask, as it allows to write custom extensions.    Embed Quote

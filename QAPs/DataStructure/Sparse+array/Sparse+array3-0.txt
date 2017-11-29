@@ -1,2 +1,0 @@
-A large, sparsely populated array contains numbers chosen from a large data set. The position of a given number in the array is random, and every number but one has a duplicate in the array. How would you determine which number is unique?
-bitwise xor all the numbers in the matrix together (no need to upvote, ancient programming puzzle, much older than me). 

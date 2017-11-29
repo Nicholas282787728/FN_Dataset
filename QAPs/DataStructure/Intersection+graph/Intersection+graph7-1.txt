@@ -1,2 +1,0 @@
-How do I verify that two graphs f(x) and g(x) intersect at x=0 and x =3.193? What's the area between them?f(x)=2sin(0.5x)  g(x)=0.5e 2x−5  
-Well you could evaluate both fucntions at the said x values and see if the evaluation yields the same result for both functions. If yes, they are intersecting. Or are you given only the graphs? 

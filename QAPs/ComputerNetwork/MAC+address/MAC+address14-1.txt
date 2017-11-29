@@ -1,2 +1,0 @@
-★(If) IP is an unique address of a host, then why is MAC address required?When IP can uniquely identify a host on a network, isn't then the MAC address redundant and an overhead?
-Because IP address of a computer get changed when you change your ISP but the Mac address is unique for a specific computer system.    Embed Quote

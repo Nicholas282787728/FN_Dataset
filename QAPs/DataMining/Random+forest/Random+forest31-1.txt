@@ -1,2 +1,0 @@
-★Why did Microsoft decide to use Random Forests in the Kinect?Did they try other algorithms?
-One main reason is that it is computationally very efficient compared to other models like conditional random fields.    Embed Quote

@@ -1,2 +1,0 @@
-What are the most popular computer programming jokes?
-Why did the chicken cross the road? Assembler Chicken: First, it builds the road ...... C Chicken: It crosses the road without looking both ways. C++ Chicken: The chicken wouldn't have to cross the road, you' d simply refer to him on the other side. ... (more)

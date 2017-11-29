@@ -1,2 +1,0 @@
-★Are there any Python/Django-friendly hosted Continuous Integration services?I'm looking for some rough equivalent to what http://travis-ci.org provides for the Ruby and Rails communities.
-We make a continuous integration service for Python: CircleCi - https://circleci.com. It's like TravisCI in that it handles hosting, databases, notifications, etc. Unlike TravisCI, it is really really fast, has seamless instant setup for Python projects, and supports continuous deployment.    Embed Quote

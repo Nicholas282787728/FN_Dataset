@@ -1,2 +1,0 @@
-How do you read histograms?
-plotly has a really nice, interactive tutorial on how to read histograms: Histogram | Description and Tutorial | plotly disclaimer: I'm a dev at plotly 

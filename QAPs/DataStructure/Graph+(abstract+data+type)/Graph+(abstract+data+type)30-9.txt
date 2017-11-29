@@ -1,2 +1,0 @@
-What is category theory?
-Check out this introduction by Dr. Tom LaGatta: Mathematics Lectures for Software Engineers: Category Theory by Tom LaGatta 

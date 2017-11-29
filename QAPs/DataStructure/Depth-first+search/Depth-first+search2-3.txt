@@ -1,2 +1,0 @@
-How does depth-first search (DFS) work?
-Try to imagine a stack where you traverse a node and putting its children to it for later traversal and then pop the top of the stack and do the same for it .. So If you have a tree like this you will traverse it in the following order: 36 -> 9 -> 3 -> 3 -> 4 -> 2 -> 2 ... (more)

@@ -1,2 +1,0 @@
-What are some tips for an intermediate level computer programmer to become an expert?
-Aditya, computer programming is one of many “learn by doing” activities. So Helbert’s excellent advice applies in spades.   My tips for moving successfully from intermediate to advanced programmer are summarised below:   ·       Work with Others ·       Interact with Others’ Code ·       Give Back ·       Help the Newbies ·       Ask Questions ·       Stay Current ·       Keep It Simple ·       Use Better Tools ·       Maintain Your Code ·       Monitor Your Code 

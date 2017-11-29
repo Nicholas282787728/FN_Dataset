@@ -1,2 +1,0 @@
-What is the best data structure for representing undirected graphs in Python?
-Any implementation is going to be dictated by the context in which it is going to be used. If you graphs are small and speed of accessing links needs to be high, then you could store them as a (densely stored; see numpy) adjacency matrix. If they are going to be really big you could indeed use dictionaries. Or lists of lists. 

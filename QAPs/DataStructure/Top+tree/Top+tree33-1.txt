@@ -1,2 +1,0 @@
-What is the best tool to use for 'classification trees'?
-A2A. As Ricardo Vladimiro wrote rpart and caret are two choices if you want to use R. In python, scikit-learn has Decision Tree Classifier which will suitable for you work. 

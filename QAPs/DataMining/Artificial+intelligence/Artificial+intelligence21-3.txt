@@ -1,2 +1,0 @@
-★How do I get started in Artificial Intelligence?
-Look at this : About CS188.1x Online course will start from Feb 18th. Programming assignments are also in Python. Course is being taken by Dan Klein, UCB.    Embed Quote 

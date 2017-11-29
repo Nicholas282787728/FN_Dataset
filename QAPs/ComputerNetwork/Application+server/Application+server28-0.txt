@@ -1,2 +1,0 @@
-★What application servers are free and support Java development ?
-JBoss or GlassFish are your top options. If you are just looking for a web container, Tomcat is a good choice.

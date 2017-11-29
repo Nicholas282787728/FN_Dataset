@@ -1,2 +1,0 @@
-★How can you show that this vector space is linearly independent?Let V be a vector space, given a collection of vectors v1,· · · vn ∈ V, and invertible linear transformation T : V → V . Show that {v1,· · · vn} are linearly independent if and only if {T v1,· · · T vn} are linearly independent.
-I will say something similar to David - only that you can use contradiction as a hint.    Embed Quote

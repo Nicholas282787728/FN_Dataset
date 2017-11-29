@@ -1,2 +1,0 @@
-What exactly is "print it modulo 10^9 + 7" in competitive programming websites?
-(A2A) As mentioned in the other answers, it simply means to output a number modulo 1000000007 (10^9 + 7). So if the answer was x, you are supposed to output x % 1000000007. This is primarily done when the output would be so huge so as not to fit into a primitive integer data type. Checking answer modulo a large number normally suffices for correctness tests. 

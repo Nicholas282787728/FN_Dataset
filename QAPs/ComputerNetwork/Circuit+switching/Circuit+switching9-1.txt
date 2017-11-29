@@ -1,2 +1,0 @@
-★What is the switching circuit of NOR gate?
-As per my congenial comment discussion with Peter Hand, here is a CMOS NOR gate, which you would more likely find in a modern integrated circuit. The top transistors (with the bubbles) turn ON when an input is zero (OFF), while the bottom transistors turn ON when an input is ON. Note that the logic is inverted, and an ON input results in the output being connected to ground (OFF). In a NOR gate, this is what we want however -- either input ON results in the output being OFF, while both inputs must be OFF  for the output to be ON.

@@ -1,2 +1,0 @@
-Did Twitter migrate from Memcached to Redis for its timeline storage? Why?
-Yes, because deep structural awareness in the storage layer (ziplists vs. blobs) allowed for more flexible feature development. Everything else is effectively the same. I believe the move is complete although I don't work there anymore. 

@@ -1,1 +1,0 @@
-When Rob Pike says "Go is about composition," what exactly does he mean?From "Less is Exponentially More": http://commandcenter.blogspot.co... If C++ and Java are about type hierarchies and the taxonomy of types, Go is about composition.

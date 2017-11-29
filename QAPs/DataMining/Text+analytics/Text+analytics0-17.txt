@@ -1,2 +1,0 @@
-★What is the best text analytics API + service?There are a lot of text analytics / text analysis APIs out there. What is your experience and what API do you think is the best one?
-We have our own text analytics API, which you're welcome to take a look at. It supports named entity extraction, classification, terminology extraction, and sentiment analysis for English, French, Spanish, German, Chinese, Swedish, and Greek. You can access it on Mashape here: https://www.mashape.com/sentinel... A demo is available at http://nlp.skyttle.com.    Embed Quote

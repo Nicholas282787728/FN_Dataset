@@ -1,2 +1,0 @@
-★Why doesn't the set of polynomials of degree equal to two form a vector space?
-no zero, no unit.    Embed Quote

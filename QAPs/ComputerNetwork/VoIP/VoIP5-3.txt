@@ -1,2 +1,0 @@
-★What is the best VoIP infrastructure service, API or open source solution to use for a mobile VoIP app?The mobile app is a SIP client.
-Try using Asterisk or Freeswitch . Recently i tried a service which is SIPWise (www.sipwise.com) . Quote good and effective .    Embed Quote

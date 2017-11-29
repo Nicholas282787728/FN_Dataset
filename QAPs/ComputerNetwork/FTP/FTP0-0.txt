@@ -1,2 +1,0 @@
-★What is FTP?
-File Transfer Protocol - it is used to transfer data from one device to another.

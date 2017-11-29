@@ -1,2 +1,0 @@
-★Can Thunderbolt be a consumer replacement for 10-gigabit ethernet?
-I would say no, as Thunderbolt has a maximum length of 3 meters. 10GigE can be optical or copper, but still achieves much longer runs than Thunderbolt can manage (100m for copper twisted pair).

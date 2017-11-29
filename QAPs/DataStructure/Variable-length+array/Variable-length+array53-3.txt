@@ -1,2 +1,0 @@
-Are all programming languages based on C?
-Nope. C itself was based on B, which was based on BCPL. 

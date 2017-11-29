@@ -1,2 +1,0 @@
-What is an integer?
-Integers are the set of whole numbers and their opposites. Whole numbers greater than zero are called positive integers. Whole numbers less than zero are called negative integers. The integer zero is neither positive nor negative, and has no sign. 

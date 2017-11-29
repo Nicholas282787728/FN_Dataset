@@ -1,2 +1,0 @@
-Is there any good package to read sparse matrices in R?
-Check out slam, which seems to be a pretty new package. You could try slam:   Title: Sparse Lightweight Arrays and Matrices  Description: Data structures and algorithms for sparse arrays and          matrices, based on index arrays and simple triplet          representations, respectively.  Author: Kurt Hornik, David Meyer, Christian Buchta 

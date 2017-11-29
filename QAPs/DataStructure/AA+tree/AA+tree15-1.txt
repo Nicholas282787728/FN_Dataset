@@ -1,2 +1,0 @@
-What might a database look like if it were a tangible non-computer thing?
-I was going to answer 'A filing cabinet' myself, however given some of the advanced mechanics that happen in databases these days (especially when it comes to large scale distributions and stuff) they also make me think of automated picking and warehouse management systems. It's a good reflection of some of the complexities. The last one is a great display of various automated elements. 

@@ -1,2 +1,0 @@
-★What is an intuitive explanation of logistic regression coefficients?Can I interpret the coefficients as giving a 'magnitude of importance' to the corresponding predictors?
-Think of the logistic part of the regression as a non-linear monotonic transformation. Inverting the transformation leaves you with a standard linear regression.    Embed Quote

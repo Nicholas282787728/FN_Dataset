@@ -1,2 +1,0 @@
-★What are the potential downsides of the gradient descent method?
-See What are the weaknesses of gradient descent?    Embed Quote

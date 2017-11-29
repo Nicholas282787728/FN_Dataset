@@ -1,2 +1,0 @@
-★What is/are the best resources to learn an introduction to predictive/regression modeling, feature selection, construction of predictive models, cross-validation?Emphasis is on regression and related analyses.
-A regression focused, but practical book is Regression Modeling Strategies by Frank Harrell.  Harrell is a great statistician, a gifted teacher and he has an ability to understand and simplify the domain problem being solved.    Embed Quote

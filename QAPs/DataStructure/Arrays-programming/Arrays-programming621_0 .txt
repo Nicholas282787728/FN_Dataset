@@ -1,1 +1,0 @@
-In C language, ten floats are to be stored in the memory. What would you prefer, an array or a structure?You can use Single-precision floating-point format. Refer : Single-precision floating-point format IEEE floating point What Every Computer Scientist Should Know About Floating-Point Arithmetic 79 Views  View Upvotes  Answer requested by Gulshan Kumar

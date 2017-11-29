@@ -1,2 +1,0 @@
-★What are the most useful tips on design workflow/tools?
-Would advise by adding to Tove's answer above: Keep it simple by keeping it high level. Consider what are the major stages and consider keeping it at this high level (both on paper and in your tools). The low level mapping is usually complicated (due to variety of options) and requires much time and implementation effort (in IT). Have a look at the concept we use in our cloud process management tool ProcessMate (Business Process Management Software in Cloud). Warning: I'm affiliated with the tool.    Embed Quote

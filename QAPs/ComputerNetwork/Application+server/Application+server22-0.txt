@@ -1,2 +1,0 @@
-★Is Tomcat a web server or an application server?
-It is considered a web server.

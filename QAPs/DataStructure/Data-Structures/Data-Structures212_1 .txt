@@ -1,1 +1,0 @@
-What are the limitations of binary search trees?The time complexity of delete and insert algorithm is O(h),where h varies from logn to n . Therefore the time complexity may go upto O(n),(in case of a skewed tree). 27 Views

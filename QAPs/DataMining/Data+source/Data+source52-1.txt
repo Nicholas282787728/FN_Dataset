@@ -1,2 +1,0 @@
-Where can I find public or free real-time or streaming data sources?
-Meetup is providing the streaming data of the RSVP's made on their site here: Streaming MEMEs. The APIs for accessing that streaming data is also made available here: Using the Meetup API    Embed Quote 

@@ -1,1 +1,0 @@
-Other than min and max heaps, which are the most useful types of heaps?

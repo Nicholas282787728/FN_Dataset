@@ -1,2 +1,0 @@
-When do programmers specify data types?
-You always consider the data types when making a program in a language that care about types. It’ll always be about considering what kind of characters you need and what kind of memory usage you want, etc. 30 Views

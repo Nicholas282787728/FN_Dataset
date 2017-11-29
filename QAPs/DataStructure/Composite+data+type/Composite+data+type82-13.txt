@@ -1,2 +1,0 @@
-How many lines of code can a good programmer write in one hour?
-Bill Gates once said, "Measuring programming progress by lines of code is like measuring aircraft building progress by weight". It is pretty much useless to think of the number of LOC as a metric for being a great programmer. Keep the syntax simple, and the algorithm tight. The number of lines of code can only make you seem busy, but are you really productive? 

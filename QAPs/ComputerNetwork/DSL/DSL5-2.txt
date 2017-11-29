@@ -1,2 +1,0 @@
-★What features are mandatory in a DSL?What features are required in a minimal Domain Specific Language, which does not have to be Turing complete?
-Here I provide a feature that I feel is necessary in today's world: running on the cloud in distributed mode: A Ruby DSL Design Pattern for Distributed Computing

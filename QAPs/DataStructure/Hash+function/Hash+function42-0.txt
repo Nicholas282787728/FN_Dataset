@@ -1,2 +1,0 @@
-What is the difference between bcrypt and general hashing functions like MD5?
-If you're talking about the password hashing algorithm bcrypt, the main difference is that md5 is designed to be fast, and bcrypt is designed to be slow.  This makes it harder for an attacker to brute-force a password. 

@@ -1,2 +1,0 @@
-What are the 10 algorithms one must know in order to solve most algorithm problems?
-To solve most of the challenges knowing 10 algorithms wont count much. An exhaustive list would contain more than 50 algorithms. The most used data structures and algorithms are : Binary Search Quicksort Merge Sort Suffix Array Knuth-Morris-Pratt Algorithm (KMP)... (more)

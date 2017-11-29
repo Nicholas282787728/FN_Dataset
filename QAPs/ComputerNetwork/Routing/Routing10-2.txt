@@ -1,2 +1,0 @@
-★What internal routing protocol do ISPs use?
-OSPF is far and away the predominant protocol for access networks (cable modem, DSL, FTTx, various kinds of wireless, etc).  IS-IS is nearly exclusively used in transit and core networks.  Both kinds of networks are "ISP" networks, so it really depends on what kind of network you have in mind (access versus core).    Embed Quote

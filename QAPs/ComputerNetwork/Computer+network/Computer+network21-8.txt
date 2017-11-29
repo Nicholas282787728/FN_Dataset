@@ -1,2 +1,0 @@
-★How do I learn Computer Networking in an effective and practical way?
-start with Data communications and networking by Behrouz A Forouzan and after reading the whole book you can do so many practical on computer network .

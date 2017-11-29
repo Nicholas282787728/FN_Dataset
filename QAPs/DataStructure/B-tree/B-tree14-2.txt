@@ -1,2 +1,0 @@
-What is the simple possible application using B tree?
-An extremely simple application can be a list of books in the library. You traverse B Tree via logarithmic and linear search. 62 Views

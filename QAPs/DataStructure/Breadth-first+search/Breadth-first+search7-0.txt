@@ -1,2 +1,0 @@
-How do I apply the breadth-first search, breadth-first search؟
-I couldn't see the map above! but I think you mean the 'classic' example in famous AI book by Russell & Norvig  ! here's the link : A Modern Approach (3rd Edition): Stuart Russell, Peter Norvig: 9780136042594: Amazon.com: Books you can find algorithms on section 3.4 (uninformed search) of that book and apply them easily on example. 

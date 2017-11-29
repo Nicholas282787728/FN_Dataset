@@ -1,2 +1,0 @@
-★What's the performance of statistic machine translation compared with recurrent neural network based machine translation?
-I am not an expert in machine translation. However, I found a recent paper that shows RNN and classical approach to be at least comparable: http://arxiv.org/pdf/1409.0473.pdf    Embed Quote

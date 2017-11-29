@@ -1,2 +1,0 @@
-★What is the relationship between Markov chains and probability?
-The transitions between the states in such a Markov chain are probabilistic (only had to see the PICTURE at the top of the Wikipedia article to realise that).    Embed Quote

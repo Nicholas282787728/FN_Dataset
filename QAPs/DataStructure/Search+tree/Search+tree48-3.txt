@@ -1,2 +1,0 @@
-It took me nearly 3 weeks to understand what a binary search tree is, am I stupid?
-Nah, the lesson you should learn from a binary search tree is you don't have to know everything, you just need to know where to look. :-) 

@@ -1,2 +1,0 @@
-★Semantic Web: Is there a need for a curated central repository for ontologies?
-I would more think about a kind of distributed directory. Curated and central will not scale fast enough.    Embed Quote

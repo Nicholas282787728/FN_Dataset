@@ -1,2 +1,0 @@
-★How much bandwidth does google use on pings?One of the first things that any geek/admin will do when a machine stops talking to "the internet" is to ping www.google.com. How much bandwidth does this use every day/year/etc. at google, and how much would money would it save them to stop replying to ping?
-hello unlimited seamlessly you can try to use the google to ping this site .. Google Ping

@@ -1,2 +1,0 @@
-What are some data structures implemented based on statistics / probability?
-Hash tables (and further structures built on them, commonly sets and dictionaries) are typically analyzed as probabilistic data structures. In particular, there are some advanced hashing schemes which rely quite heavily on probabilistic analysis (multiple choice, cuckoo, universal, static perfect, etc.), whose performance is usually characterized in terms of "high probability". Updated 256w ago • View Upvotes

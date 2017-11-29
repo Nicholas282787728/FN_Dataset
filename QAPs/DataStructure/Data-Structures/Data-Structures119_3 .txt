@@ -1,1 +1,0 @@
-Is it required that a person pursuing data analytics/data science/machine learning have a good knowledge of data structures? If yes, why?It is not required, however it does limit your ability to implement solutions in real life. 11 Views  Answer requested by 1 person

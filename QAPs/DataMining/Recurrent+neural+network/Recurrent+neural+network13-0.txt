@@ -1,2 +1,0 @@
-★What is a recurrent neural network and it's difference from conventional ANNs?
-A convolutional neural networks uses partially connected layers to allow for shift invariance. Christopher Olah does a much butter job explaining these than I can here: Conv Nets: A Modular Perspective. Recurrent neural nets use feedback loops, where the output of one or more neurons may be fed back into itself and are generally harder to train.    Embed Quote

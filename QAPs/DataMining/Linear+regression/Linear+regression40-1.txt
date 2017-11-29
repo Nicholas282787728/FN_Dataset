@@ -1,2 +1,0 @@
-★How is the significance of a predictor variable in multiple linear regression determined?
-By the p-value,  if the pvalue is less than significance level then the variable is significant.    Embed Quote

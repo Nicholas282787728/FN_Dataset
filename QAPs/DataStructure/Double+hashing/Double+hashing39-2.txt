@@ -1,2 +1,0 @@
-Should I expect questions on design patterns & Java / Spring semantics at an Amazon interview?
-Look at all Amazon interview sets here to get an idea - Amazon Interview | Set 2 - GeeksforGeeks 

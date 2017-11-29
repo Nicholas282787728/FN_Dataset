@@ -1,2 +1,0 @@
-What are some of the best sources to learn and practice segment trees and binary index trees?
-Binary Indexed Trees (Fenwick Trees) also Further problems on Binary Indexed Trees 

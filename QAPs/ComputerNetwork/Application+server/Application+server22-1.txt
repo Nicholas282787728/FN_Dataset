@@ -1,2 +1,0 @@
-★Is Tomcat a web server or an application server?
-Tomcat is a Web Server as it doesnt contains the jar and interface to handle applications. Tomcat can be used for WAR but not for EAR. JBoss is a Application Server which has the interfaces implemented and jars files necessary to handle application.

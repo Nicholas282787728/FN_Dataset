@@ -1,2 +1,0 @@
-How can I make my c language basics strong?
-Originally Answered: How can I make my c language basics strong?when we start to learn the c language first we try to understand the rules of c language it means hoe can we use of operator ,function ,array etc. and we do the practice in different problem then u can make you strong in c language. 

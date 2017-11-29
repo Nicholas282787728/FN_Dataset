@@ -1,2 +1,0 @@
-★What is the difference between a broadcast network and a switched network?
-A broadcast network is a network that when one device sends some data, all others receive it. On the other hand, a switched network is when a device sends a data and an intermediary node, named a switch, forward the data, or switches it, just to one node -- the recipient. This allows others nodes besides the sender and receiver to communicate simultaneously and thus saves bandwidth.

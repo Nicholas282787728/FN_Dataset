@@ -1,1 +1,0 @@
-Is there a way to find collision for a given hash function?

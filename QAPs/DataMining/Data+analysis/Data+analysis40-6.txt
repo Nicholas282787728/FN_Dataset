@@ -1,2 +1,0 @@
-What are some common fallacies or mistakes made by beginners in Statistics/Machine Learning/Data Analysis or they are prone to make?
-The idea that one can build machine learning systems using the same , mindless agile and / or waterfall processes used to build web platforms Machine learning and data science requires a significantly larger cognitive load than web engineering. In other words, you have to understand what is actually going on    Embed Quote 

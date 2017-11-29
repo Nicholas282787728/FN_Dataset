@@ -1,2 +1,0 @@
-★How do I build a simple web scraping application using Python?
-You can use just simple urllib requests and then extract the necessary information with help of regular expressions.    Embed Quote

@@ -1,2 +1,0 @@
-★Digital Signal Processing: How do you geometrically understand that the  orthogonal projection during least squares approximation has a minimum norm error?
-The perpendicular distance is the shortest distance between a point and a line(or in this case subspace ).In this case ,the projection which will give you the shortest distance (which will result in minimum norm error here) is the orthogonal projection of the point on the line.Hope this helps.    Embed Quote

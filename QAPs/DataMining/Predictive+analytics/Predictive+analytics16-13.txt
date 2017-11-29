@@ -1,2 +1,0 @@
-★What are some of the best blogs/resources for Business Intelligence and Predictive Analytics software?
-I recommend Predictive Analytics World, Strata and TDWI. If you are using a specific tool, such as SAS or R, attending those annual conferences may be a good idea as well.    Embed Quote

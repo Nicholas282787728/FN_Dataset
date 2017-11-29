@@ -1,2 +1,0 @@
-★Electronics Engineering: Why do we use bridge rectifier?If we already having a center tap rectifier with just two diodes doing the same work then why there is a need to use four diodes or the so called Bridge rectifier.
-1. PIV rating of the diodes can be less = V max    In FWR( non Bridge), it is 2 times V max. 2. Centre tapped transformer not required.

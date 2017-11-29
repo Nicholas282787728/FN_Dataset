@@ -1,1 +1,0 @@
-In Java, why can I create an array of strings but I can not create an array of stacks, and what are some examples?Sorry, you are not correct. You can create arrays of both:  String stringArray[] = new String[10];  Stack stackArray[] = new Stack[10]; 188 Views  View Upvotes  Answer requested by Yu Gu

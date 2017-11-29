@@ -1,2 +1,0 @@
-★What are good starting points (books, tools ) for learning text mining?
-Visualizing data is I think good book for understanding data structures..    Embed Quote

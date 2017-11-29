@@ -1,2 +1,0 @@
-★Is there any algorithm for finding the routes in a maze?I need an algorithm to find the route through the maze. Anybody?
-Do a DFS traversal until you find the end node. Here root will be your entering node and end node will be finish node. Once you get and leaf node ie. block, return to the current node and repeat same until you reach to the end.    Embed Quote

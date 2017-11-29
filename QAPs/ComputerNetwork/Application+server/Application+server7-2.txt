@@ -1,2 +1,0 @@
-★How do I configure Jboss application server in eclipse?
-If you want to control/use any web container or j2ee server, you should use WTP (Web tools platform) - If you have downloaded 'Eclipse IDE for Java EE developers' the plugin is already part of this package. In addition to this, you should install JBoss Tools plugin for Eclipse. Adds a lot of features. http://www.jboss.org/tools/

@@ -1,2 +1,0 @@
-★What is the beauty of Machine Learning?Why all of a sudden all programmers are interested in Machine Learning?
-I've been interested in machine learning since the 1980's. Like most engineers I'm interested in making useful artifacts: what is more useful than a device than can learn from it's environment? The factors that have made machine learning more popular recently are: A huge increase in computing power A huge increase in the availability of data from which to learn Significant improvement in machine learning algorithms and their availability    Embed Quote

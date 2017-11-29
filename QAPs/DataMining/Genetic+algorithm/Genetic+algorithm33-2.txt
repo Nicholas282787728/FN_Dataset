@@ -1,2 +1,0 @@
-★How can I optimize Apache Solr boost factors using genetic algorithms?
-You could work eDismax as a starting point.  It gives you a series of operators to use to boost and combine the various fields in different ways.  You'd generate various ASTs that evolve (the genetic part) based on some sort of metric you create to measure performance.  Cull the bad ones.  Evolve the good ones.  Joseph Turian?    Embed Quote

@@ -1,2 +1,0 @@
-What are the benefits and necessities of having object in heap?
-Why have huge objects in the stack? And there is no line between large and small. 

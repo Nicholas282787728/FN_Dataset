@@ -1,1 +1,0 @@
-What is a good use case in java for using circular linked lists, where a normal arraylist eill not do the job?One use case i can think of is developing Flames(friendship,love,affection,marriage,enemy,sister) finder. 21 Views

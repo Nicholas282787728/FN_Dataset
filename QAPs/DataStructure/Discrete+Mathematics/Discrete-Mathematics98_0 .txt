@@ -1,1 +1,0 @@
-What is the difference between whole numbers and natural numbers?The whole numbers and natural numbers are two names for the same set of numbers: {0, 1, 2, 3, ...}, although sometimes zero is not included in the natural numbers. When being precise, it should be made explicit whether or not it is included. 239 Views  View Upvotes

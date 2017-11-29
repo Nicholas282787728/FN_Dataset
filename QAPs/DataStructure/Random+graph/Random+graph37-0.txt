@@ -1,2 +1,0 @@
-Can all mathematical processes have graphs? Is there any exception?
-I have a terminology problem here. Graph of a function f is the collection of all ordered pairs (x, f(x)). You tagged your question graph theory, which is not answering questions about graphs from point (1). Maybe you wanted to ask if you can draw a graph of any function. Well, try plotting the Dirichlet Function, which is 1 at rational values of x and zero at irrational. You asked about mathematical processes. What kind of processes? Random processes? Random processes which generate random graphs? 

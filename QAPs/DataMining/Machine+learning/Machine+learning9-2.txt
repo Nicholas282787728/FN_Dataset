@@ -1,2 +1,0 @@
-★What are the best talks/lectures related to big data/algorithms/machine learning?
-I'm a big fan of Alex Smola's courses at CMU and Berkeley CMU course on machine learning by Smola and Gordan Introduction to Machine Learning Berkeley course on Scalable Machine Learning by Smola SML: Scalable Machine Learning There is also a course on advanced methods and optimization which, I believe, are some standard algorithms and data structures that people use for scaling machine learning algorithms. Advanced Optimization and Randomized Methods    Embed Quote

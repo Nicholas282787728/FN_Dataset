@@ -1,1 +1,0 @@
-How will you explain the position of pivot in a rotated sorted array in O(logn) time to a beginner with its correctness?Apply binary search until you find minimum element. Initialise min variable with the first element in array, with every search change the min variable. Complexity O(log n) 

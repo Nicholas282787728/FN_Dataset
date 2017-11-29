@@ -1,2 +1,0 @@
-★What are some good books on machine learning?
-Like many others I've been contemplating that question. The Bishop and Murphy books are good but If you are new to machine you need to: (1) get an overview of ML and (2) get your fingers dirty as quickly as possible. Therefore....spend the 30USD on Learning From Data. You can supplement with the accompanying video lectures and homeworks.    Embed Quote

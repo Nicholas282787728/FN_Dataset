@@ -1,2 +1,0 @@
-★Network Security: What is PGP?please explain me in simple terms that what the PGP is? and how it works? Thanks!
-PGP is short for Pretty Good Privacy. It is a cryptographic tool meant to provide end users with strong cryptography. It is used to digitally encrypt and sign user content. Fundamentally, it uses public key cryptography. Check out the open source OpenPGP.    Embed Quote

@@ -1,2 +1,0 @@
-★How do computer networks handle data overload?
-Data overload is also known as congestion. When a congestion event occurs, then there is some buffering that is used to help smooth out the demand.  If that buffer space is exhausted, then packets are intentionally discarded.

@@ -1,2 +1,0 @@
-★What's the difference between affine and linear functions?
-Briefly and perhaps oversimply: an affine function includes a translation -- a linear function does not.    Embed Quote

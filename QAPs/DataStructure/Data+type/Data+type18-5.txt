@@ -1,2 +1,0 @@
-What is data type in c++?
-When we are coding then we need various variables to store data. Data can be different types. according to data we select data type. It allocates memory for our data. 66 Views

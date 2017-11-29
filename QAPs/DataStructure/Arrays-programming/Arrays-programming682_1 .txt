@@ -1,1 +1,0 @@
-How do I find the capacity of an array list in Java?I think you can get it by using java reflection. Use the following code Field field = Arraylist.class.gtDeclaredFields("elementData); String [] dataElement = (String[])Field.get(list); int capacity = dataElement.length; Hope this helps. 250 Views

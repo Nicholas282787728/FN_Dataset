@@ -1,1 +1,0 @@
-How are arrays echoed in PHP?The simplest way... Use the implode function in php. Just one line of code. Arguments passed to the function are a delimeter that separates the values and the name of the array. Hope that helps. 9 Views

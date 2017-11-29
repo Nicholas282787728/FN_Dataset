@@ -1,2 +1,0 @@
-★HTML5: What are the most important client-side (HTML5/CSS/JavaScript) libraries and why?I defer to the quora community to define "important" through the use of upvotes, as that's largely inevitable anyways.
-"Important" is very objective word. If you build complex desktop-like web apps, it might be better to choose from component frameworks, like YUI, Dojo Toolkit, etc. Another option is DHTMLX, a mature JavaScript/CSS UI library: http://dhtmlx.com

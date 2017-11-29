@@ -1,2 +1,0 @@
-Is 50% solar efficiency enough to power a home on a cloudy day?
-If you have a pretty normal roof area and electricity usage, probably not. Most solar-equipped buildings can only self-power during bright summer afternoons. 5 kilowatts is a pretty normal residential system size, and 3-4 kilowatts is a pretty normal afternoon power draw, so on paper it makes sense. But clouds really hurt panel effectiveness -- you're definitely not getting 5 kW out of a 5 kW system under cloud cover. Low-energy homes and PV installations with significantly oversized capacity could do it. 

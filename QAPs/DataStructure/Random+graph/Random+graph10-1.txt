@@ -1,2 +1,0 @@
-What percent of people would understand me if I said my research was about generating random graphs with specific properties?
-Amongst those who have studied mathematics, computer science, or most fields called computational _____? Probably pretty high. Amongst the general population who has no experience in the above fields? Very very low. If they really have no experience in those fields (not even as a hobby) it's unlikely they'll know what you are talking about. 

@@ -1,2 +1,0 @@
-What is the relation between abstract data type and interface in Java?
-An interface is a specification of what an object looks like to other objects. An abstract class is an implementation of some portion of an object's functionality. An abstract class that contains no implementation at all (i.e., there are no internal fields and every method is abstract) is, in many respects, functionally equivalent to an interface. 

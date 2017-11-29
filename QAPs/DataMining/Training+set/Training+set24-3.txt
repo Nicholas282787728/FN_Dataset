@@ -1,2 +1,0 @@
-★How can one improve a classifier (random forest), when there is no overfitting + optimal parameter selection but performance on the test set is much lower than on the training set?
-Using cross-validation to prune the tree might work.    Embed Quote

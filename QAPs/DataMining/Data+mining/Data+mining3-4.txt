@@ -1,2 +1,0 @@
-What are the most useful data mining / analysis / science tools?
-I mostly use NumPy, SciPy & Matplotlib. NASA & JP Morgan Chase are also using these Python libraries, so this stack is good enough for me. A small selection of other Python libraries from the board Python Libraries and Links PyBrain http://pybrain.org/ Recipes for Mining Twitter https://github.com/ptwobrussell/... PySpread http://manns.github.com/pyspread/    Embed Quote 

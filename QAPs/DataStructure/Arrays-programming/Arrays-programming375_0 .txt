@@ -1,1 +1,0 @@
-I have array of strings. I want to show notification to user with different string each day. How should I do it in Android?Implement a receiver for ACTION_DATE_CHANGED event in your code. This event is fired every time system date changes. Once this event occurs then you can show notifications from your onReceive() method of receiver. Hope this helps... 31 Views

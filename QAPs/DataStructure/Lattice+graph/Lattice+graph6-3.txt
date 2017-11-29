@@ -1,2 +1,0 @@
-How can I solve [math]p^q - q^p = 1844[/math]?
-It is possible that there is a general method for solving this kind of equation. After all  the case [math]N=1[/math] is part of Catalan's conjecture which was solved in 2002. Maybe the method can be extended to any N. 

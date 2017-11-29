@@ -1,2 +1,0 @@
-How can one go about drawing the graph of [math]y = x \sin (\pi x)[/math]?
-First draw the graph of y=xsinx sinx=0 =>xsinx=0 sinx=1=>xsinx=x sinx=-1=>xsinx=-x now i think you can draw the curve for xsinx. now divide all the values at x axis by pi results in (pi x)sin(pi x). and dividing the amplitude by pi. you will have your final curve of xsin(pi x). 

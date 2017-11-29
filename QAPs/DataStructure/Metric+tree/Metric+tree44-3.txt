@@ -1,2 +1,0 @@
-Natural Language Processing: How would you programmatically parse a sentence and decide whether to answer "that's what she said"?
-You should take a look at "That's what she said: Double entendre identification," at the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL-HLT 2011). http://www.cs.washington.edu/hom... In particular, the authors develop a system with 12% higher precision than n-gram models like those Christopher Lin describes, by extracting features specific to double entendres and indecent metaphors. 

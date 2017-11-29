@@ -1,2 +1,0 @@
-Let (u,v) be a minimum weight edge in a graph G. How do I show the (u,v) belongs to some minimum spanning tree of G?
-Don't make it that difficult; just think of the path optimality condition (POC) in MSTs. POC: Any arc/edge in the path (in MST) from u to v has a smaller weight. If this is not the case, you're having a contradiction OR you can easily get a new MST by adding (u,v) and removing the max weight edge in the path. 

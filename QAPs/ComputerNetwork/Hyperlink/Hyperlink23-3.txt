@@ -1,2 +1,0 @@
-★How do you change the default hyperlink colour in HTML?I would like to make all links the following color: <font color="#339933"> by default (so I don't need to edit the HTML every time I add a link). How can I do this? Thanks
-how to connect html to css    Embed Quote

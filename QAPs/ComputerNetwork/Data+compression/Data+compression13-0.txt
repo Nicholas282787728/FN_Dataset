@@ -1,2 +1,0 @@
-★What is the history of data compression?
-I would suggest you read the short note at Wolfram History [of data compression] The Morse code is probably the earliest example of data compression; however, it was only after C. Shannon and the development of Information Theory and Rate Distortion Theory that people started having real tools to analyze how good a specific compression scheme was.

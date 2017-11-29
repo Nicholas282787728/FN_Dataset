@@ -1,1 +1,0 @@
-What are some best books of data structure and algorithm for beginners?Fundamentals of Data Structures by Sahni Horwitz.- Great book for beginners,very clear explanations. Data structures using c and c++ by Tenenbaum - Useful but not for beginners! These two books are sufficient to learn Data structures ! 168 Views

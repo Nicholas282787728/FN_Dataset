@@ -1,2 +1,0 @@
-★Internet of Things (IoT): Is there a metadata standardization effort globally?
-Metadata schemes are available for the fields you mentioned, here's a list of a few: http://en.wikipedia.org/wiki/Met...    Embed Quote

@@ -1,2 +1,0 @@
-★What are the advantages of wireless Ethernet?
-Typical Ethernet cabling is made from copper wires. Copper is relatively expensive, and there can be substantial costs to putting cabling in everywhere that you want to have Internet access. In those circumstances you'd pick wifi over wired access just because it costs way less.

@@ -1,2 +1,0 @@
-Is it bad if it takes me a day to understand and implement hard programming structures like suffix arrays, suffix trees etc?
-Ok thats nice to hear but am talking in the context of a sports programmer 

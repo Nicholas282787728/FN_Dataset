@@ -1,2 +1,0 @@
-★Is there any survey on modern reinforcement learning?
-From memory, in a 2013 issue of the IJRR. You could probably find it by Googling "survey reinforcement learning".    Embed Quote

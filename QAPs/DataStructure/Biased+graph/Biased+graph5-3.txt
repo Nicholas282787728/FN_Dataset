@@ -1,2 +1,0 @@
-Why does Windows still use NTFS? Why not ext4, the file system for Linux, since it actively prevents disk fragmentation?
-There are various answers, as Phillip Remaker said you’re showing a biased graph based on heavily fragmented NTFS disk that probably won’t happen in reality. The next point is that on SSD disks fragmentation has no effect, and the world is moving to SSD. 1.3k Views · 8 Upvotes · Answer requested by Simdi Ejinkeonye

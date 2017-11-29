@@ -1,2 +1,0 @@
-What do you use: BSD queue.h, Linux list.h or SGLIB?
-I second Nabarun. It depends on what you are doing. If you are writing an application layer software, then you will be using SGLIB or stdlib. Down at writing kernel modules you will end up using the kernel specific API. 

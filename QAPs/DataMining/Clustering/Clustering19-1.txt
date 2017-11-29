@@ -1,2 +1,0 @@
-Are there any cloud-based APIs for clustering Tweets?
-You should definitely check out Google's prediction API. http://code.google.com/apis/pred... If you are not concerned so much about what algorithm is being used, cross-validation, model performance, etc (aka you just want the tweets to be clustered), then just train up an algorithm on the Google cloud and start predicting. You could be clustering tweets within an hour of setting up an account, as the training is guaranteed to converge within 10 minutes.    Embed Quote 

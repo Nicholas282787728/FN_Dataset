@@ -1,2 +1,0 @@
-How can someone increase their programming logic?
-Lots and lots of practice. The problems at Project Euler should give you quite a bit of practice, both at coding and at thinking about the design of the algorithms to solve them. Alternatively, go to Wikipedia and look at fundamental algorithms like Djikstras and data structures like Splay trees and try to implement them from the pseudocode and descriptions provided. 

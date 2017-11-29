@@ -1,2 +1,0 @@
-★What is the relationship between Metropolis-Hastings algorithm for Markov Chain Monte Carlo and Gradient Descent?
-They're not similar at all.  Gradient descent is a generic optimization algorithm, and MCMC is a class of sampling algorithms.  MCMC methods can be used for optimization, but they can also be used for computing integrals, and Bayesian statistics, and a bunch of other stuff.    Embed Quote

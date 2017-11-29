@@ -1,1 +1,0 @@
-How do I extract one single row from a multidimensional array, and make that into a new array in c#?After the for is executed, your arrays stay modified, so arrays[0] will be the first line, arrays[1] the second, and so forth. If you want to compare the before and after, you have to save a copy of the original array before the for loop. 101 Views  View Upvotes

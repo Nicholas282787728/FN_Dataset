@@ -1,2 +1,0 @@
-★Which generalized linear regression model should one run for count data with a heavy tail?
-This isn't exactly my area of expertise, but it looks like the negative binomial-Lindley GLM was developed to handle this sort of thing.  See The negative binomial-Lindley generalized li... [Accid Anal Prev. 2012] for a recent paper on its application to traffic crash data.    Embed Quote

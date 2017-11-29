@@ -1,7 +1,0 @@
-How do two computers with the same IP from different networks communicate with each other? How does the routing work?You probably mean that the two machines are on different local network, with an address like 192.168.1.10.
-
-They are behind a router with NAT, so every machine on the inside looks like have the outside IP of the router.
-
-On the outside, the routers have different IP-adresses.
-
-To connect to a machine on the inside, the router must forward a port on the outside to a port on the inside.

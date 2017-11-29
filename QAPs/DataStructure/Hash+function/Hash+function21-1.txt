@@ -1,2 +1,0 @@
-Why are hash functions one way?
-Hash functions produce an output of a set length, but will accept input of any length. Regardless of the output size, it cannot be unique for every possible input, therefore multiple inputs will produce the same output, therefore it is impossible to determine a unique input from any given output of a hash function. 

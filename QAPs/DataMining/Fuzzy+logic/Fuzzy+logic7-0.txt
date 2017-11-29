@@ -1,2 +1,0 @@
-★Why isn't fuzzy logic more widely taught?
-It needs hand-crafted expert rules, which is not a scalable process and also relies heavily on domain experts. It is much more interesting to find ways such that the software automatically learns proper representations based on the pure data, i.e. machine learning. But not sure that it's not widely taught. I certainly learnt about it during my MSc and can see the benefits, e.g. for simple control systems.    Embed Quote

@@ -1,2 +1,0 @@
-What is the difference between Hash map, Hash tree and Hash table?Can you explain how their construction differ from each other with an example.
-From Java's perspective The main difference is synchronization, concurrency and performance between HashTable and HashMap 6 Difference between HashMap and HashTable : Popular Interview Question in Java with Example Jdk 1.7 onwards, HahsTables are obsolete. 

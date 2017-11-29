@@ -1,2 +1,0 @@
-★What is the best method for editing/managing metadata of digital photos?
-Both Lightroom and Aperture are excellent.  Lightroom makes life quite easy because you can also save a set of metadata to use for other batches you bring in; you won't need to re-type anything.  Something else to think about is to save those scans as DNG, or digital negative, which is cross platform and not tied to anything proprietary.  Good luck!    Embed Quote

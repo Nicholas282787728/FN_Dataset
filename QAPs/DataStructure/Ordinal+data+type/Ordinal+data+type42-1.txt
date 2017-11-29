@@ -1,2 +1,0 @@
-What are interesting and unsolved research questions in data visualization?
-Visualizing textual data  Textual information like twitter messages and facebook updates are important part of our lives. I think one of the areas of visualization that will be more and more useful in the future is visualizing textual data. There are a couple of ways for doing basic analysis on text, word clouds and Wordl being the most famous ones, but they are not useful for decision making. As social network interactions grow, this will become a more interesting field of research. 

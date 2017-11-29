@@ -1,2 +1,0 @@
-Is there any way to choose a random node from a tree without searching all nodes in the tree?
-Nope-- a simple way to see this is to consider any node that you don't access. Your probability distribution depends on whether the node actually exists or not, and you can't reliably tell these two cases apart without extra information in the tree or actually accessing the node. 

@@ -1,2 +1,0 @@
-★Mobile Telecom Network Operators: Does anyone know what software/systems mobile phone network operators use for their SMS transactions?
-These companies are major SMSC/SMS Gateway developers for Telecom Companies Comverse - Comverse SMSC | Comverse, Inc. | Telecom Business Solutions Airwide Solution (Mavenir) - Short Message Service Center (SMSC) Jataayu (Comviva) - Mobile Messaging Solutions - Comviva Ericsson - Messaging in One Huawei - SMS-Huawei Products Tango -  Next Generation Messaging, SMS Anti-Spam, Messaging Solutions, SMSC    Embed Quote

@@ -1,2 +1,0 @@
-What is the significance of the area under a line for graphs?I know it depends on the units for x and y but is there a general meaning to it?
-There  are many  quantities which  are the dependent on  two  quantities,  lets take a simple example  for  distance,  as we all  know that  Distance =  Speed X time ,  Basically  distance  is  Area under Speed Time graph,  some  time Speed is  not constant  refer to  attached Image  Blue area here refers as a Distance in both the cases  and this distance is nothing  but area under graph 

@@ -1,1 +1,0 @@
-What is a good and sane integration strategy for querying local semantic web data alongside a vertex-centric social graph database?

@@ -1,2 +1,0 @@
-★Is a web browser just an HTML interpreter?
-At the simplest level, a browser needs to do two things: HTML interpreter HTTP client Most modern browsers are also: CSS interpreters JavaScript interpreters Some modern browsers are also: Interpreters / execution hosts for other languages (plugins / extensions)

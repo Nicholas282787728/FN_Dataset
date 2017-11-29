@@ -1,2 +1,0 @@
-★How do I apply stochastic gradient descent after generating a regularized logistic regression (ridge) using R? (or Python)
-Is there some step you don't follow ? Here is a link on using regularized logistic regression using L2 ŷhat | Logistic Regression in Python For better follow Bob Carpenter's work here Logistic Regression Tutorial See also his note here http://lingpipe.files.wordpress....    Embed Quote

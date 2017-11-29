@@ -1,2 +1,0 @@
-Graph Theory: What algorithm can quickly find a cycle that contains a specific vertex?
-It can be done with a simple depth first search. Just start from the given vertex and marking each node that you visit as visited. Also store each vertex's parent. If any time in future(excluding the first time) you find that vertex again. You know that there is a cycle including that vertex otherwise there is no cycle. To generate all the nodes in the cycle you can simply backtrack from the node to find all the vertex by following the parents links. 

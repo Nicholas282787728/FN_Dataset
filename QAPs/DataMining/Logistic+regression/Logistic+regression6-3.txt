@@ -1,2 +1,0 @@
-★Why is logistic regression considered a linear model?
-Because for the predictor function f(i) = b_0 + b_1 * x_1,i + ... + b_n* x_m,i is linear.    Embed Quote

@@ -1,2 +1,0 @@
-★What is German equivalent for "web scraping"?
-Thanks for A2A In programming many English terms are used as well in German. So using the term 'web scraping' should be valid while talking to software developers. I don't know a real German Term for it but one would descripe it with "Automatisiertes Daten sammeln von web-sides" (automated collection of data from web-sides). Maybe "Daten abschöpfen" could also match.    Embed Quote

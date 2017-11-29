@@ -1,2 +1,0 @@
-★What problems in biology involve the collection and analysis of multi-terabyte data sets?
-Biological networks, when you analyze them comprehensively (rather than the toy examples often found in research papers).    Embed Quote 

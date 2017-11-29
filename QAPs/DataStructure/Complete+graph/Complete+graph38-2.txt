@@ -1,1 +1,0 @@
-Is there any known relationship between the number of edges in a graph and the length of its longest simple chordless cycle?Intuitively, graphs with lots of edges don't have long simple chordless cycles, and vice versa.  Is there any inequality that relates these two quantities?

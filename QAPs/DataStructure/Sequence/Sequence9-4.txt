@@ -1,2 +1,0 @@
-How can the sequence "3, 7, 15, 31, 63, etc." be continued?
-This sequence, like nearly all sequences that you'll find in text books and exam papers, can be uncovered by taking differences between consecutive terms. In this case, the differences are 4,8,16,32 And you can easily work out the next differences and hence the next terms 

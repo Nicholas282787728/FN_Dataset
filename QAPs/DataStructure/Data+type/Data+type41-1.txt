@@ -1,2 +1,0 @@
-What distributed database supports JSON data type?
-you would need to use something like Hbase  on Hadoop along with Phoenix that sits on top of Hbase as a SQL layer, this will provides the joins and the select queries. both of those are open source Apache projects with no licensing cost, later down the track if you get to a production environment you may want to add support from a Hadoop Distro leader.. check out this tutorial and presentation hopefully this will be something that will help..Hortonworks Technical Workshop: HBase and Apache Phoenix 508 Views

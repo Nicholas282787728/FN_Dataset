@@ -1,2 +1,0 @@
-★Public Transportation: How are bus routes determined?
-It is essentially bringing places where people are and places where people want/have to go together. This leads to a rough network (you may call it O-D matrix). From there you will determine routes, already keeping the operation pattern in mind. In fact, a goal is frequent service with timed connections. This always beats infrequent "single seat rides".    Embed Quote

@@ -1,2 +1,0 @@
-★What are some good learning projects to teach oneself about machine learning?This is a follow-up question to How do I learn machine learning?.
-You can also go through some of the practical Machine Learning books e.g. "Programming collective Intelligence" (http://amzn.com/0596529325) or "Machine Learning: An Algorithmic Perspective (http://amzn.com/1420067184)    Embed Quote

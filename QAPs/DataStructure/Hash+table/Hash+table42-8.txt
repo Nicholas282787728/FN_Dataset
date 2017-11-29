@@ -1,2 +1,0 @@
-Why doesn't C also provide default implementations for linked lists, trees, hash tables, sorting, etc. like Java does?
-It is not easy to come up with a clean design because c does not have generic types. You'd have to use void pointers. But the real answer is, c is a language of a different generation. Fortran, basic, pascal, lisp and cobol don't have these things in the standard library either. And apparently now c is fossilised to the extent that people are not willing to change the standard library that much. 513 Views · 4 Upvotes

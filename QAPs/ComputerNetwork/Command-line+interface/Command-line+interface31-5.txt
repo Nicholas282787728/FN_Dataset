@@ -1,2 +1,0 @@
-★Will I ever be able to reach a respectable level as a software engineer if I am not proficient with command-line and Unix environments?
-Maybe but not with that attitude. "Can I be X without doing Y?" is not the attitude of excellence. Instead you should be saying "I will do whatever it take to accomplish X. How can learning Y help?"

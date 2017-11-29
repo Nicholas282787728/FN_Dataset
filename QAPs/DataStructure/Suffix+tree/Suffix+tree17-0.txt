@@ -1,2 +1,0 @@
-When should one use a suffix tree and when should one use Knuth-Morris-Pratt?
-Knuth–Morris–Pratt algorithm preprocesses the pattern, to make the pattern searching better. Suffix tree preprocesses the text, to make any pattern searching better. You can preprocess the text and search any pattern in O(m) time, where m denotes the length of the pattern you are searching for. KMP is better when you have to find if x string is a substring of y string. As Suffix Tree is more general, it gives you more power. It is better to use it when you have a lot of queries in some text. 

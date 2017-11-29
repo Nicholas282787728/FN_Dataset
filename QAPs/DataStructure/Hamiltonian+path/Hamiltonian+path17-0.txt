@@ -1,2 +1,0 @@
-What is a good way to get an internship at Quora?
-Solve the programming challenges: http://www.quora.com/about/chall... (bonus points if you can find a polynomial-time algorithm for Hamiltonian path!) 

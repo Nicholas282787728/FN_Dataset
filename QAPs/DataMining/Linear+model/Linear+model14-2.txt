@@ -1,2 +1,0 @@
-★Regression (statistics): How do I fit a linear model to data that has a periodic component?
-Add dummy variables to capture the effect of seasons. For instance if your data has an effect due to weekdays, add binary variables from Monday to Saturday ( i'm omitting Sunday tobavoid multicollinearity) with a 1 when the data point belongs to such a day. Regressions with these dummy variables will allow you to capture the coefficients and trends of other variables independently of seasonality.    Embed Quote

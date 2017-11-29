@@ -1,2 +1,0 @@
-What is a constructive proof of existence?
-A constructive proof of existence shows that something exists and--this is the "constructive" part--shows how to find a specific example of it. 

@@ -1,2 +1,0 @@
-What are the best advice for problem setters in competitive programming?
-There are several problem preparation guides/discussions which I would start with: * Problem Preparation Guide * Way of problemsetter - Codeforces * Problemsetter's Memoir - Codeforces * Problem Setter Guide - Developer Docs * Problem setting guide at HackerEarth * Some thoughts about Surprise/Unknown Language Rounds - Codeforces (applies to a very specific competition format only :-)) 

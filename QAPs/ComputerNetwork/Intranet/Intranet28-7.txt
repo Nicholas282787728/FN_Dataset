@@ -1,2 +1,0 @@
-★How can enterprises create an activity stream (like Facebook and Twitter) in their SharePoint intranet?
-Newsgator can build an activity stream for your Sharepoint sites. A topic is dedicated to this solution : NewsGator

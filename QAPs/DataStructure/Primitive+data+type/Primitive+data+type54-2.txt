@@ -1,2 +1,0 @@
-What must be the answers to this question on constructors?
-While creating an object using existing  object , Copy constructor get called. But if Player obj1(10,45); Player obj2; obj2= obj1; // here overloaded assignment get called.  And it's definition is player(player &p) {   this->health=p.health;   this->age=p.age; } 

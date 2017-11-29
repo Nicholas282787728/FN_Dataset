@@ -1,2 +1,0 @@
-★How does Google do web scraping for collecting data for its indexes? How does it work?I am more interested in how Google filters the valuable data inside a webpage from lot of other recurring data in the HTML <body> tag like navigation bars, banners etc.
-For what i've seen and heard, they ofcourse index tons of source code, but most likely, the do comparisons, based on simillarities they know how to separate a menubare from the actual content.    Embed Quote

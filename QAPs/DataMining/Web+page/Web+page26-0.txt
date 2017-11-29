@@ -1,2 +1,0 @@
-★How do I archive a web page?
-You can do this with other browsers as well.  In Chrome, choose File -> Save Page As... and choose the path you want to save your page to.  If you leave Format as "Web Page, Complete," it will also save all of the assets (js, css, images) in a separate folder.  I believe that's what you want.    Embed Quote

@@ -1,2 +1,0 @@
-Why are Judy Arrays more memory efficient than a singly linked list?
-A Judy array is a sparse array, which basically means it only holds information about elements that are not the default value. More similar to a hash table than a linked list. If you want to store sparse data (most values are zeros or nulls) then a linked list wastes a lot of memory and access time. If you are just storing a list where each element is relevant, then a linked list is probably better. 

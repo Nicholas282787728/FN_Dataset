@@ -1,2 +1,0 @@
-When can I use structures and when can I use unions?
-Whenever you would like to have different memory locations for different internal primitive data types, use STRUCTURES. Whenever you want to have a common memory location shared among the internal primitive data types, use UNIONS 

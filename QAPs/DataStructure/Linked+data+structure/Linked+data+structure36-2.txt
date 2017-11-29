@@ -1,2 +1,0 @@
-I have done a link list, a stack and a queue. What else should I do in data structure?
-Apart from Linked-lists, Stacks and Queues there are various important data structures like Trees, Graphs, Dictionary, Heaps etc. You can go through different tutorials available online. A few are: Data Structures - topcoder Introduction to Basic and Advanced Data Structures and Algorithms Online CS Modules: Data Structures 

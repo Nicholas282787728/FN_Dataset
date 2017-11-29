@@ -1,2 +1,0 @@
-★What are some cool applications of approximation algorithms?working on a seminar
-A lot of the problems that end up being too hard to solve exactly come out of real applications in operations research.  For example, FedEx and their competitors are very interested in solving problems similar to the traveling salesman problem.  Better approximate solutions save them money, so they're very big consumers of the latest and greatest approximation algorithms.    Embed Quote

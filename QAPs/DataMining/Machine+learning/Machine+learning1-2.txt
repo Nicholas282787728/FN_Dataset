@@ -1,2 +1,0 @@
-★What are the top 10 data mining or machine learning algorithms?
-1.Linear Regression (Andrew Ng coursera) 2.Logistic Regression (Andrew Ng coursera) 3.SVM (Prof. Abu Mustafa Ml course on youtube) 4.SVD/PCA/Kernel PCA (Andrew Ng coursera) 5.k-means and hierarchical clustering (search on youtube) 6.Decision Trees and Random Forest (ML course by Prof Nando de Freitas) 7. Neural Networks (Andrew Ng coursera), its good to know a little bit about deep neural networks 8.Regularization for regression 9. Boosting 10.Naive Bayes    Embed Quote

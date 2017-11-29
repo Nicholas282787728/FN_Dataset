@@ -1,1 +1,0 @@
-How can I solve this problem?​First, look at the sum a1 + ... + an, we know that it is zero. Therefore, 0 = (a1 + ...+ an)^2 = ( (a1)^2 + ...+ (an)^2) + 2( (a1)(a2)+...+(a1)(an)+(a2)(a3)+...+(a2)(an)+...+(a(n-1))(an)). Since the sum of squares is n, you get the required result (-n/2). 73 Views

@@ -1,2 +1,0 @@
-★What are some good resources for learning about statistical analysis?This is a follow-up on How do I become a data scientist?
-On Online R tutorials and Data Science Courses - DataCamp you can find free interactive courses on data science and R (similar to tryR by code school but a lot more focused) : > Introduction to R course Introduction to R - DataCamp > Data analysis and statistical inference course by a professor from Duke University Data Analysis and Statistical Inference - DataCamp    Embed Quote

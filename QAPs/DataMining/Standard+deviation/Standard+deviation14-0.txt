@@ -1,2 +1,0 @@
-★How is standard deviation superior to variance?
-Standard deviation is the square root of variance, with both measuring the spread of the data in relation to the mean value. Variance is often a large number that is the square of the units of the measured data. Standard deviation is in the same units and is more practical in most cases as it can be compared with the data easily with regard to observing how variable and spread out the data is.    Embed Quote

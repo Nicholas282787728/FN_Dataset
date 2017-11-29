@@ -1,2 +1,0 @@
-What is the difference between a complete graph and a dense graph?
-Graph density is a spectrum from completely unconnected, ie no edges, to completely connected, ie all edges that can exist do exist. A complete graph is therefore the most dense graph and is not a subjective evaluation, whereas a dense graph in one context can be sparse in another depending on the perspective of the observer. 

@@ -1,2 +1,0 @@
-★What are the differences between HTML5 and HTML?
-HTML5 is just a newer version of the HTML coding language. It is more advanced, with new features and changes to improve it. For the most part, it is the same. If you know how to code in older versions of HTML, for the most part you should be fine writing HTML5.

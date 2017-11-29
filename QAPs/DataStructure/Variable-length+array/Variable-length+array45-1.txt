@@ -1,2 +1,0 @@
-Which are some good uses of flexible array member of a struct introduced by C99 standard?
-This was used all over the place long before standardization in C99, even in POSIX and Windows (e.g. struct _TOKEN_GROUPS) APIs, except that the array size had to be 1 for portability. Grepping my linux /usr/include now I see struct audit_sig_info,  struct _ftsent, struct _nc_eventlist, struct gcry_md_handle, and many more uses of this feature (mostly in its pre-C99 incarnation) 

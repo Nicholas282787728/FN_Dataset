@@ -1,1 +1,0 @@
-What is the efficient and secure hash function for integer and string hashing?

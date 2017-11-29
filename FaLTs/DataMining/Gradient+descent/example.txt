@@ -1,7 +1,0 @@
-Gradient descent has problems with pathological functions such as the Rosenbrock function shown here.
-
-The Rosenbrock function has a narrow curved valley which contains the minimum. The bottom of the valley is very flat. Because of the curved flat valley the optimization is zig-zagging slowly with small stepsizes towards the minimum.
-
-The "Zig-Zagging" nature of the method is also evident below, where the gradient ascent method is applied to .
-
-

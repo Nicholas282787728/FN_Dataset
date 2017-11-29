@@ -1,2 +1,0 @@
-★Are there any good logging proxy servers for web analytics?
-Adobe can actually provide you a daily feed of the collected raw data. It will be available for each report suite with DataWarehouse enabled. Connect with your Adobe account manager or ClientCare to have it set up.    Embed Quote

@@ -1,2 +1,0 @@
-Is 'void' a data type?
-I'm not an expert of C/C++ standards, but I would say that it is not a data type. It is only a marker for functions that return no value and pointers to an unspecified type. 231 Views

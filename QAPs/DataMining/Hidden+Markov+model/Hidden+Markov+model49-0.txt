@@ -1,2 +1,0 @@
-★What is the state of the art in speech recognition? Are HMMs (Hidden Markov Models) still used both by the research community and companies?
-Yes, the underlying models for phonemes in most state-of-the-art systems are still HMMs. The recent application of deep learning in this field only affects the acoustic and language models; the underlying phoneme structure remains unchanged. Recurrent Neural Network offers a promising alternative to HMM, as shown recently by Andrew Ng's group at Baidu: http://arxiv.org/abs/1412.5567    Embed Quote

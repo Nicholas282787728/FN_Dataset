@@ -1,2 +1,0 @@
-Which machine learning algorithms for classification support online learning?
-There are very fast algorithms in stream data mining, all of them supporting online learning. http://en.wikipedia.org/wiki/Dat... Some of them are: - Hoeffding Tree or VFDT: incremental decision tree - Bagging and Boosting for data streams - Multinominal Naive Bayes - Stochastic Gradient Descent 

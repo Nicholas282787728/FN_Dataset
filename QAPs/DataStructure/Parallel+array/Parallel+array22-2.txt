@@ -1,2 +1,0 @@
-What are the new features that will be in Java 8?
-Everyone's talking about lambda expressions which are great, but I think the biggest improvement in Java 8 is JavaFX being part of the Java JDK. This means, for example, instead of either using huge WAV files for sound or relying on external libraries, just using MP3 files. 

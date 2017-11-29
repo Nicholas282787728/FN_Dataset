@@ -1,2 +1,0 @@
-★What is the notation for reference parameters?
-Use '&' in the formal parameter e.g., void takesParamByRef( int &x );    Embed Quote

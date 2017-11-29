@@ -1,2 +1,0 @@
-★What are the recommended Python machine learning libraries for boosting, logistic regression etc in terms of performance?
-scikits-learn has a logistic regression implementation [1] based on liblinear a C package [2]. Additionally there are approaches tuned for larger datasets in lighting [3] [1] sklearn.linear_model.LogisticRegression - scikit-learn 0.14 documentation [2] LIBLINEAR -- A Library for Large Linear Classification [3] mblondel/lightning    Embed Quote

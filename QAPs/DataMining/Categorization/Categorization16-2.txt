@@ -1,2 +1,0 @@
-How do the deal aggregators categorize their deals?
-I can tell you a practical way to do it. Parse the deal title, match the key words. For example in my website http://ilovedeals.sg , since it is dedicated for Singapore market. If 'Phuket', 'Air ticket' appears in the deal title, I will categorize it into Travel. If 'Buffet', 'Dinner' appears in deal title, I will categorize it into Food  & Beverages. It is not very accurate, but for now, it is acceptable. For small site, reasonably useful.    Embed Quote Updated 16 Aug, 2011. 358 views.

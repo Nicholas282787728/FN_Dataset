@@ -1,1 +1,0 @@
-How does a k-d tree work to find the K nearest neighbors?I am looking for algorithm or work flow to find out K-nearest neighbours of a given query point. I understood how orthogonal search works, i.e. given a rectangle how many points lie in that rectangle I can report. I wanted to extend my KD tree implementation for K nearest neighbour of a given query point.

@@ -1,2 +1,0 @@
-★What is the best language for developing web scraping and web indexing softwares?
-I've always used Python and BeautifulSoup (We called him Tortoise because he taught us.) It has always served me well. I'v also looked into Nokogiri on Ruby too, which seems to work very similarly.    Embed Quote

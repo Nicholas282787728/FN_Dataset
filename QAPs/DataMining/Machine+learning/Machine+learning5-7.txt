@@ -1,2 +1,0 @@
-★How does Quora use machine learning?
-Quora definitely does use Machine Learning. The challenges they face are also very intriguing. This is evident from the ML CodeSprints they conduct every year. The training data for the challenges (Quora Answer Classifier) is sampled from the real production data of Quora. Quora is also doing an exclusive ML contest in association with HackerRank - Quora ML CodeSprint 2013    Embed Quote

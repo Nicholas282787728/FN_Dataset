@@ -1,2 +1,0 @@
-★What computer science (academic) conferences use double-blind reviews?
-CRYPTO EUROCRYPT ACM Computer and Communications Security IEEE Symposium on Security and Privacy Financial Cryptography Network Distributed Security Symposium

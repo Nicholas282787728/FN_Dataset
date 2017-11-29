@@ -1,2 +1,0 @@
-★What is predictive modeling healthcare?
-Predictive modeling in healthcare consists of identifying patterns in patient clinical, cost, medication, and behavior data to forecast future outcomes. At CliniCast, our customers use our predictive models to stratify patients by risk of admission to the hospital, compute the expected cost of care in the next 12 months, and match patients to appropriate clinical interventions. We use predictive modeling to match the right patient to the right intervention at the right time.    Embed Quote

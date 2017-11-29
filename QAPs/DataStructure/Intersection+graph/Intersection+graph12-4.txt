@@ -1,2 +1,0 @@
-Can you help me solve e x =1−x  ?
-Another very fun  way to solve it could be to make use of the Lambert W function: e x =1−x  divide both size by e x   1=(1−x)e −x   multiply both sides by e  e=(1−x)e 1−x   at this point, the RHS is in a form that allows us to use the Lambert W function. W(e)=1−x  1=1−x  =>x=0  

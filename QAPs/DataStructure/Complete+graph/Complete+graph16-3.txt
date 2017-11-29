@@ -1,1 +1,0 @@
-Let there be an undirected complete graph on n vertices where length of each edge is selected uniformly randomly and independently in the interval [0,1].   What will be the expected distance between any two vertices in the graph?

@@ -1,2 +1,0 @@
-★What are some continuous integration services that have built in support for the Github commit status API?
-We also support the GitHub commit status API at Distiller as well.    Embed Quote

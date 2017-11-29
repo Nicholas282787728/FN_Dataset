@@ -1,2 +1,0 @@
-How do you find the number of ordered pairs between two sets?
-Do you mean the cartesian product? Because Size(A X B) = Size(A) Size(B) where X is the cartesian product. Proof is simple, for every element a of A, there are total Size(B) elements of type (a,b) for b in B. Thus Size(B) + Size(B) + .... , Size(A) times = Size(A) Size(B). 

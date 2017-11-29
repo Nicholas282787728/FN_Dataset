@@ -1,2 +1,0 @@
-Where can I find the easy explanation of Manacher's algorithms to find the longest palindrome substring?
-Longest Palindromic Substring Part II Here, it is explained in detail with an example. 

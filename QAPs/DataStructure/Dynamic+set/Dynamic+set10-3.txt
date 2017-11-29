@@ -1,1 +1,0 @@
-Is there a Python script or way to send a file or two to two different computers that have changing IP addresses (due to using different wifis and dynamic set up)?u can send by email or upload to something like network disk or cloud.

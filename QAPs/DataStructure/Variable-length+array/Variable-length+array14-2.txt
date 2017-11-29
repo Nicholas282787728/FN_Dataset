@@ -1,2 +1,0 @@
-What is the best comment to a programmer who is still stuck at C-language (rather than C++)?
-As a decades-long C programmer whose first C++ project was to implement a <vector>-like template for other seasoned C++ programmers to use in their software, my response is simple: whatever works for you. Oh, and also: language bigotry is unbecoming for a programming professional. 

@@ -1,2 +1,0 @@
-★What do you think the future of VoIP will be?
-WebRTC is a big part of the future of VOIP in our opinion. Here at Speek.com we are at the forefront of using WebRTC in our product. WebRTC is open source, going to be part of the HTML5 standard, and will be baked into most browsers. It will make it very easy to do voice in browsers with no downloads, essentially making VOIP ubiquitous. Users will have a seamless experience from web and mobile products that require voice or video, and developers will no longer have to leverage clunky flash clients.    Embed Quote

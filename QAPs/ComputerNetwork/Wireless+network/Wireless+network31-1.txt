@@ -1,2 +1,0 @@
-★Why doesn't Android allow connections to ad hoc wireless networks?
-It seems google think it is not very emgency to add this function now, maybe it will be a future feature in andriod.    Embed Quote

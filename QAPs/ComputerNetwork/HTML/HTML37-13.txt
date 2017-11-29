@@ -1,2 +1,0 @@
-★What is the difference between HTML and JavaScript?
-HTML stands for Hypertext Mark-up Language and is an Internet World Wide Web description language that tells your web browser how a page is going to looklook and what content it should have. Javascript JavaScript is a scripting language originally developed by Sun Microsystemsat Netscape. Javascript has been JavaScript is used to customize web pagespages and add interactivity and dynamic content.

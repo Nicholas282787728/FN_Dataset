@@ -1,2 +1,0 @@
-Are there any public data sources for places of interest (POIs)?
-Factual just released POI datasets for a number of countries, including the US. http://www.factual.com/topic/local (I work at Factual. If there's a way this data could be more useful to you, please send me a message.)    Embed Quote 

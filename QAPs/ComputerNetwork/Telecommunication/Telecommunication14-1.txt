@@ -1,2 +1,0 @@
-★Why is 1550 nm used in telecommunication?
-Because it is the minimum loss wavelength in standard optical fiber, allowing the longest distance between repeaters for a given optical launch power.    Embed Quote

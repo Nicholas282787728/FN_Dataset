@@ -1,2 +1,0 @@
-Where can I find the best description of the IoT architecture and development flow?(HW, Cloud and apps)
-This video from Cisco may help to build a picture of IoT architecture... Page on youtube.com 

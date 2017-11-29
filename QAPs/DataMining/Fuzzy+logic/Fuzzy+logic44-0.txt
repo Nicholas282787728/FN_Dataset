@@ -1,2 +1,0 @@
-★Are there popular ways of doing fuzzy logic other than neural nets?
-Absolutely.  In fact, fuzzy logic is really somewhat orthogonal to neural nets, Fuzzy AND machines are a very common control mechanism. There are also Fuzzy State Machines.    Embed Quote

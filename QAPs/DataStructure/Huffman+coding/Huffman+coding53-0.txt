@@ -1,2 +1,0 @@
-What are the greedy algorithms every programmer should know?
-No programmer really needs to know any particular greedy algorithm, except maybe shortest path. Instead, the ideas behind greedy algorithms, and understanding when they are optimal, when they are okay and when they fail spectacularly are more important. For example, a lot of scheduling, routing, and ranking algorithms are greedy and work fairly well. Their specifics, however, aren't quite as important. 3.3k Views · 26 Upvotes

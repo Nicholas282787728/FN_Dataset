@@ -1,2 +1,0 @@
-★How do you explain semantic web to someone whose professional frame of reference is in order-taking, delivery, humoring customers, or catering in the food service industry?
-the connection between the customer order, menu, recipe, prep list, inventory... basically the stuff the chef is responsible for.    Embed Quote

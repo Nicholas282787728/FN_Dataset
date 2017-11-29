@@ -1,1 +1,0 @@
-MLconf 2015 Seattle: When do I use zero-mean/unit variance normalization vs unit L1/L2 normalization?

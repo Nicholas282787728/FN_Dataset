@@ -1,2 +1,0 @@
-★What is linear programming?
-A linear program is an optimization problem in which we're asked to find the value of that minimizes subject to the conditions that and .  The word "programming" in this sense is an earlier usage that predates computers.    Embed Quote

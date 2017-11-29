@@ -1,2 +1,0 @@
-What is a good workflow in documenting responsive web design?
-I checked out Brad Frost's approach, but found it too dense. He quotes Stephen Hay at the top of his page- Stephen developed the concept of "breakpoint graphs", which is what I am using. So far so good...the front-end coder is pretty happy with the level of detail, and it's far from burdensome to me. 

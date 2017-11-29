@@ -1,2 +1,0 @@
-Is there some connection between a regular and a planar graph?
-No direct connection. Regular graphs can be planar (an infinite grid or honeycomb, a cycle, K_4, the cube, the dodecahedron...) or not (Petersen, K_n for n larger than 4, K_{n,n) for n larger than 2...). Planar graphs can be regular (same examples) or not (a finite grid, a finite tree, any planar graph with an extra edge attached to some vertex...) 

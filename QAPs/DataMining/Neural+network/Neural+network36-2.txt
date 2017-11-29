@@ -1,2 +1,0 @@
-★Can you train neural networks in parallel?For instance, could I split my data set into two halves, train two networks with the same architecture, and then combine them somehow?
-I may be just a beginner but what I think you are looking for is Map Reduce. http://en.m.wikipedia.org/wiki/M...    Embed Quote

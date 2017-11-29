@@ -1,2 +1,0 @@
-What should every programmer know about hash tables and hash functions?
-Average constant time lookup/insert/delete - O(1). Beat that! 

@@ -1,2 +1,0 @@
-Software Engineering: What are the best data structures to learn about?
-Learn abstract data types: Array Container Map/Associative array/Dictionary Multimap List Set Multiset Priority queue Queue Deque Stack String Tree Graph 

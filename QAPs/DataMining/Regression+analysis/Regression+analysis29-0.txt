@@ -1,2 +1,0 @@
-★Is it possible to do a regression analysis on nominal data?
-The answer is yes. The details depend on whether it is the independent or the dependent variable that is nominal.  If it is the independent variable, then the solution is to dummy code the different levels of the variable. All good statistics programs (e.g. R, SAS, SPSS etc) will do this for you. If it is the dependent variable, then you want multinomial logistic regression.    Embed Quote

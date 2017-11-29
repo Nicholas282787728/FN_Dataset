@@ -1,2 +1,0 @@
-What are the greedy algorithms every programmer should know?
-You are expected to know the following in greedy: Minimum Spanning tree algorithms: Kruskal's and Prim's. Dijkstra's Algorithm Travelling Salesman Problem (naive) Huffman Coding 905 Views · 6 Upvotes · Answer requested by Abhinav Prince

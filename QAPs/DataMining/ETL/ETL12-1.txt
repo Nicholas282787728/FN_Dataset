@@ -1,2 +1,0 @@
-★What are some of  the very good ETL tools for mysql?
-I work for an ETL tool so I'm biased. But we, Xplenty, make it easy with a code free Data Integration platform powered by Hadoop.    Embed Quote

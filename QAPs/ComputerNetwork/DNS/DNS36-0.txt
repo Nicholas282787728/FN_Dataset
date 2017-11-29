@@ -1,2 +1,0 @@
-★What problem does Dynamic DNS solve?
-Let's say you have an internet connection at home, and your ISP dynamically assigns an IP address to you. This IP address may change over time. This is not great if you want the outside world to connect to you. So instead, you register with a Dynamic DNS provider, say dyndns.org and they give you a name, like foobar.dyndns.org. You run their client on your system, which sends dyndns updates whenever your IP address changes. This way, dyndns ensures that foobar.dyndns.org always points to you.

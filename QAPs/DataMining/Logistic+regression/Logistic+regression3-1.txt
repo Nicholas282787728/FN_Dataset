@@ -1,2 +1,0 @@
-★When does logistic regression not converge?
-Here are the two most common cases in my experience: Your learning rate is too large You have one attribute that completely dominates all other attributes in terms of predictive power, and that attribute has many "bumps". For example, when that feature is 0-10, you always have an outcome of 1. When that  feature is 11-20, you always have an outcome of 0. When that  feature  is 21-30, you always have an outcome of 1, and so on.    Embed Quote

@@ -1,2 +1,0 @@
-How many sites are integrating the Facebook the social graph?
-StreetLend.com (my P2P rental startup) uses the Facebook social graph to show links between lenders and borrowers (up to 2 degrees of separation). More information: StreetLend Unveils Two Major Innovations in Peer to Peer Trust 

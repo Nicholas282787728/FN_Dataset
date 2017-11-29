@@ -1,2 +1,0 @@
-How do you avoid a hash table getting sparsely populated?
-Sparsity depends on the number of items in the table against the size of the table. Assuming you know the number of items (keys) then all you need is an efficient hashing mechanism and you can use a hash table just a little larger than your number of keys avoiding sparsity. One simple solution with 90% or more efficiency in use of space is Hopscotch hashing. Cuckoo Hashing is also very efficient using 2 or 3 hashing functions and buckets of size 2 or 3. 132 Views

@@ -1,2 +1,0 @@
-★What is the difference between web harvesting and web scraping?
-It is just semantics, they are one and the same.    Embed Quote

@@ -1,2 +1,0 @@
-★I want to learn machine learning. Where should I start?
-I would recommend going through following set of material: 1) Mitchell book Machine Learning: Tom M. Mitchell: 9780070428072: Amazon.com: Books 2) ML course @ Coursera 3) ML course @ Itunes-> Machine Learning Also, Marsland book is a good resource with implementation of major algorithms Machine Learning: An Algorithmic Perspective    Embed Quote

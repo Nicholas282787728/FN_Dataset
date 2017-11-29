@@ -1,2 +1,0 @@
-★Is it possible to wiretap the packets of a non-screened Ethernet cable from another nearby Ethernet cable?
-If you have a managed switch, you can mirror other port(s) to the one that you are plugged into so that you can capture all of their packets.   If you are wondering about capturing information "leaking" out of the cable wirelessly, as far as I'm aware, that is not possible.

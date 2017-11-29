@@ -1,2 +1,0 @@
-Is it a good idea for a first-year algorithm student to implement some of the data structures (binary search tree, etc.) by myself to understand them better?
-It's almost never a bad idea to try to build something yourself. What's the worst case? You fail and try again, but you're trying out of your own volition so you're a little ahead of the game. A little hands on experience never hurt, no matter the age. 

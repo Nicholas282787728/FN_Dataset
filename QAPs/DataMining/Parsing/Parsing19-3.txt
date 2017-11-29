@@ -1,2 +1,0 @@
-★Can C++ be parsed correctly?I remember reading somewhere that no current parser is able to correctly parse all 100% of the C++ spec. Is this accurate? Is this still the case?
-I think you meant FREE or opensource parser for C++. Obviously any C++ compilers must be able to parse C++ spec 100% (more or less). I've known that Clang ( http://clang.llvm.org/ ) is a pretty decent C/C++ compiler and it's relatively easy to pick out the parser.    Embed Quote

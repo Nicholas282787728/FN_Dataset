@@ -1,2 +1,0 @@
-★What comes next in enterprise social networks and Intranets?Products like Yammer and Salesforce Chatter are still in their infancy. What will come next? What are the issues the existing problems do not solve well?
-The next will be to socialize legacy enterprise applications, maybe.

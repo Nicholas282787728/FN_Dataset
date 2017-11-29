@@ -1,1 +1,0 @@
-Why should one ever use a heap instead of a sorted array?该网页不存在附加信息...No, search into a sorted array is O(log n). Insertion is O(n) (you have to move all the elements after the one you're inserting). 

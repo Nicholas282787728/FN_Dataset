@@ -1,2 +1,0 @@
-★Does a typical academic network provider support DHCP/dynamic IP address allocation?
-Yes, they have to.  Can you imagine manually changing IP addresses every time a student went to a classroom?

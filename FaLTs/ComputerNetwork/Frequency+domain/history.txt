@@ -1,1 +1,0 @@
-The use of the terms "frequency domain" and "time domain" arose in communication engineering in the 1950s and early 1960s, with "frequency domain" appearing in 1953.[3] See time domain: origin of term for details.[4]

@@ -1,2 +1,0 @@
-Data Structures: What is a list of data structures that a competitive programmer must know?
-Lists (Stacks, Queues and Linked Lists), Sets, Dictionaries(Hash Tables), Trees and Graphs. I think most of the computer science students will know about these. But the best ones will know the optimal way to make use of these data structures and they'll identify the suitable data structures for the requirement. Updated 10w ago • View Upvotes

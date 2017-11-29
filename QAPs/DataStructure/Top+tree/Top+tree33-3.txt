@@ -1,2 +1,0 @@
-What is the best tool to use for 'classification trees'?
-For python check sklearn sklearn.tree.DecisionTreeClassifier - scikit-learn 0.15.2 documentation and Orange Classification trees For R, see rpart CRAN - Package rpart and caret The caret Package 

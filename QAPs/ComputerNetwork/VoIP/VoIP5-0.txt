@@ -1,2 +1,0 @@
-★What is the best VoIP infrastructure service, API or open source solution to use for a mobile VoIP app?The mobile app is a SIP client.
-If you're building a SIP-based app I recommend using Plivo. They have DID availability in tens of countries, low rates, a great API, native SIP signaling, and SIP account/endpoint creation/registration handled for you so there's no need maintain anything on the telephony side. We use them extensively for our sales platform Close.io.    Embed Quote

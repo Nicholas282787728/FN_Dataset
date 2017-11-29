@@ -1,2 +1,0 @@
-What is the coolest algorithm with complexity O(1)?
-Indexing into a HashTable. This operation involves storing or retrieving entire unique objects using a hash function and the modulus operator.  It is worth learning about it sooner rather than later if you are learning to program. 

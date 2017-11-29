@@ -1,2 +1,0 @@
-Why are Brodal priority queue/heap and strict Fibonacci heap considered impractical?
-As with many theoretically optimal algorithms, they have a huge constant factor that tends to overwhelm any asymptotic gains for real-world applications. They're also quite complex to code. 682 Views · 5 Upvotes

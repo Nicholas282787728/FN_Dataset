@@ -1,2 +1,0 @@
-If the number of variables increases in a training data set m should we go for a linear model prediction or decision tree prediction?
-I believe too many factors won't help rather try the same by selecting various combinations. Try data transformation & normalization and then you can go for decision tree. 

@@ -1,2 +1,0 @@
-★What are some techniques for pattern recognition in time variant data? (i.e. a signal)
-Taking the autocorrelation of your signal?    Embed Quote

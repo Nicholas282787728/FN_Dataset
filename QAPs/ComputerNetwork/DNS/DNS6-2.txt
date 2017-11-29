@@ -1,2 +1,0 @@
-★What is the best dynamic DNS service provider?I've used dyndns.com and no-ip.org in the past, but I'm curious if there's anything better.
-I can recommend HE https://dns.he.net/, they support dynamic DNS for A and AAAA records. But overall I don't see the need to change if you are satisfied with DynDns or no-ip.

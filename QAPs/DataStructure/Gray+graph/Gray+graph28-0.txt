@@ -1,2 +1,0 @@
-What are the different ranks of coders on TopCoder?Eg yellow, red etc? Please do classify them in the increasing order if possible.
-You can basically get it from looking at what What are some of the most amazing rating graphs in TopCoder profiles? has to offer, but I'll summarize it here. Gray (Rated 0-900) Green (900-1200) Blue (1200-1500) Yellow (1500-2200) Red (2200+) 

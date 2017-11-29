@@ -1,1 +1,0 @@
-How many Binary heaps can be made from N distinct elements?Two heaps should be considered the same if their (in order, post order, pre order) traversals are the same (i.e. left and right children can be distinguished)

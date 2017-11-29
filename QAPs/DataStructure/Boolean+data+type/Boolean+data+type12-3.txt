@@ -1,5 +1,0 @@
-How does a Programmer declare Two-dimensional Array of Boolean Data-type?Declaration array
-
-boolean rendered[][] = new Boolean[4][5];
-
-for(int i = 0; i < rendered.length; i++) for(int j = 0; j < rendered[i].length; j++) rendered[i][j] = false;

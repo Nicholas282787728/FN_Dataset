@@ -1,2 +1,0 @@
-★What is the difference between Voice Over LTE and 3G voice services?It seems current LTE network doesn't support voice, and voice is redirected to 3G network. What's the challenges to support VoLTE?
-Basically LTE does not support Voice.Its service or technology to enhance Data services. It may support call fall back to 3G,2G or CDMA technology. For other feature or want to read bullet points on LTE than please visit here LTE introduction in 15 bullet points - Telecom Coach

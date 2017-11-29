@@ -1,2 +1,0 @@
-★Why does Apple's MacBook Pro lack an Ethernet port?How can I overcome this issue?
-Because it's useless. If you need one you can get either an USB to ethernet, or thunderbolt to ethernet adapter.

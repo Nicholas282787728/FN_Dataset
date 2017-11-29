@@ -1,2 +1,0 @@
-Is it necessary for a machine learning guy to know all kinds of learning models and algorithms?
-To a guy probably not but to en expert yes. For example, until you understand how does Multinomial Naive Bayes work, you would not be able to say that it is the best choice of learning algorithm when your test data is biased wrt the training data. Until you understand how SVMs work, you will not be able to figure out how to make it do less errors on class A vs class B. And so on. 

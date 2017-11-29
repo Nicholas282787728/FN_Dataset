@@ -1,1 +1,0 @@
-How do you access each element of an array by using only pointers in C?You could try something like this (note— I only know C++): int main() { int array[] = { 2, 4, 8, 9 }; int size = 4; int printed = 0;   void* basePointer = &array; int* currentPtr = (int*)basePointer; while (printed < size) { printf("%d\n", *currentPtr); ++currentPtr; ++printed; }   return 0; } 167 Views

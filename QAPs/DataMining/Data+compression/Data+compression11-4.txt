@@ -1,2 +1,0 @@
-How does file compression work?
-One way compression works is by taking advantage of redundancies. Lossless compression schemes, like zip, gz, etc, build a "dictionary" of frequently used "words" (say, "the", "ar", "pre", "and"), etc.) and instead of sending those words, they send an index to the dictionary.  No need to send the actual dictionary, because the decoder can build it on the fly as well. You may want to read the wikipedia pages on lossless compression: http://en.wikipedia.org/wiki/Los...    Embed Quote 

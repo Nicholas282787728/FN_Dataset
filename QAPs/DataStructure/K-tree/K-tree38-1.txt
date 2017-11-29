@@ -1,2 +1,0 @@
-What is there difference between [math]O(n)[/math] and [math]O(\log n)[/math]?
-Everything that is bread and butter for people working in streaming algorithms. Usually, for most streaming algorithms O(n) space is too weak while O(log n) space is too hard to achieve. 

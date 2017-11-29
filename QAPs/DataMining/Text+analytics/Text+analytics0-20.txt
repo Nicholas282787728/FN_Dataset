@@ -1,2 +1,0 @@
-★What is the best text analytics API + service?There are a lot of text analytics / text analysis APIs out there. What is your experience and what API do you think is the best one?
-First Retail has a very lightweight Semantic Content Service: http://www.firstretail.com/produ... if you want to semantically search large (>100K+ documents) repositories of unstructured text documents. As a custom project we'd be happy to build topic and sentiment analysis or classification to a pre-defined taxonomy - with batched or streaming content.    Embed Quote

@@ -1,2 +1,0 @@
-★A DHCP reply message (from server) can be sent as (select all that apply): A. Broadcast B. Multicast C. Unicast?
-answer is undefined

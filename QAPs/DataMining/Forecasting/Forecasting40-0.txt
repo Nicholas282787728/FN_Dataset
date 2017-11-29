@@ -1,2 +1,0 @@
-★Is there a rails gem for weather forecast?I am making a site like Windguru.com and magicseaweed.com. The weather data used on these sites is publicly provided but I wondered if there was a gem already out there that would speed things up. Thanks
-Chances are you won't find a gem specific to all weather sources, but you can use https://github.com/jnunemaker/ht... to build your own wrapper around any API. See the examples, it is as simple as it gets. A good place to find gems is The Ruby Toolbox, but a quick search for weather didn't show anything relevant.    Embed Quote

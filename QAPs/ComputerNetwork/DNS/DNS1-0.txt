@@ -1,2 +1,0 @@
-★How does Google Cloud DNS compare to other DNS providers?How performant is it compared to DynDNS or Cloudflare? How cheap is the pricing relative to Amazon Route 53?
-The tech lead of the Google Cloud services is here on Quora:  Jean-Michel Léon

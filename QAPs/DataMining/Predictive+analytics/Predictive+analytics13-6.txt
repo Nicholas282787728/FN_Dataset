@@ -1,2 +1,0 @@
-★What is the typical success rate when using predictive analytics for e-commerce?Any Quora members currently using predictive analytics in e-commerce I'd like to hear about your application and success rates?
-We are data analytics company and recently helped an e-commerce company in its SKU rationalization and sales forecast. We are able to achieve around 7-10 % of variance each month.For more detail you can check the case study .  (http://thegmid.com/inventory-management-retail-CPG-anlaytics-case-study.html)    Embed Quote

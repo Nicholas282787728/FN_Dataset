@@ -1,2 +1,0 @@
-★Will I ever be able to reach a respectable level as a software engineer if I am not proficient with command-line and Unix environments?
-As with most things, you will most likely learn the things you need to know about both somewhere along the road. You don't get to "a respectable level as a software engineer" without working on real-life projects. As soon as there are some new commands or skills you need you will just sit down and learn them, by googling or asking a colleague.

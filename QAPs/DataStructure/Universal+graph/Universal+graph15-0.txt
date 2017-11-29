@@ -1,2 +1,0 @@
-Which are the best universities or colleges (worldwide, from, but not limited to, among the following list) to have a MSc on Graph Theory and specificially on Social Network Analysis?
-While Jon Kleinberg is a pioneer of the field, Lada Adamic, from U. Michigan, taught the Social Network Analysis course in Coursera, and did a wonderful job at that (another round of the course is due in October 2013). Check out her home page at U. Michigan for details about her research,  and Michigan Interactive & Social Computing for details about related graduate programs. 

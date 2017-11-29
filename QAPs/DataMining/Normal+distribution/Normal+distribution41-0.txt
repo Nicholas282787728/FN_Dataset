@@ -1,2 +1,0 @@
-★Are healing times for orthopedic injuries normally distributed?Note: Quora Content Review, if you remove any of my topics, I'm going to re-add them.
-No, healing times are not normally distributed.  ALL Gaussian-distributed measures have a finite but calculate-able  set of values less than zero.  Healing times cannot take on a value less than zero - one cannot heal before the injury occurs.  Therefore healing times cannot be Gaussian distributed.    Embed Quote

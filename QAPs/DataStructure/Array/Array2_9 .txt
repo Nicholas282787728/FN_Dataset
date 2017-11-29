@@ -1,1 +1,0 @@
-Is there an infinite array in Java? If there is, how can I create that array?You can only have an infinite array with a complete lack of common sense 

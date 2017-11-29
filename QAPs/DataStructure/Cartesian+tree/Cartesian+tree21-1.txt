@@ -1,2 +1,0 @@
-What is the Euler's identity of algorithms?
-My vote would be for Dijkstra's algorithm, as it is a very simple solution for a problem that seems quite difficult on the first glance, namely, finding the shortest path between two nodes of a graph. 

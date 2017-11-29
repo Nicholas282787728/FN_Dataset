@@ -1,2 +1,0 @@
-★What are the best resources for learning regular expressions?
-The O'Reilly book on Regular Expressions is absolutely superb. It will help you build a much deeper understanding if how they actually work than any online tutorial I've seen. Chapter 3 of "Text Processing in Python" is excellent too, and is available for free online: http://gnosis.cx/TPiP/chap3.txt    Embed Quote

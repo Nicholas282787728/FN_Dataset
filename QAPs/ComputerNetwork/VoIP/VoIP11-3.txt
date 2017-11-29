@@ -1,2 +1,0 @@
-★How can echo be reduced in a VOIP call?I have a VOIP service setup on a softphone. When I make a call, the receiver hears an echo of his own voice with about a half to one second delay loud and clear. I don't hear any echo or have any problems with the call quality though. What causes this and how can it be reduced/eliminated?
-Reducing the delay will never fix this problem completely. You should use a softphone with built-in AEC. For example you can try Mizu softphone: http://www.mizu-voip.com/Product...    Embed Quote

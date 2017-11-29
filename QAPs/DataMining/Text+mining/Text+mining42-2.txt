@@ -1,2 +1,0 @@
-★What can be an easy data set, and where can I find it for a dissertation on "Text Mining with Pig or Hive"?
-Social media data is readily available, but it's one topic that way too many folks would be working on. Why not try something more interesting, like the Enron email dataset? You could start with a question like ad relevance matching by email data mining. Sounds interesting?    Embed Quote

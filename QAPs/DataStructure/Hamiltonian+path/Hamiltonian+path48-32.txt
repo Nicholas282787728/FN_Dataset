@@ -1,2 +1,0 @@
-I want to practice algorithms for 10 days (240 hours). Where should I start?I have fair knowledge of Algorithms.
-Once you have got the basics of sorting and recursive programming the real fun starts with learning Graph Theory and algorithms such as Dijkstra's algorithm. From thereon proceed with learning Dynamic programming. 

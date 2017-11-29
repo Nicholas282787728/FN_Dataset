@@ -1,2 +1,0 @@
-★Why do so many Chinese websites use numbers in their domain names?For example Chinese mail services 163.com and 126.com.
-Back in the days when most people in China had dial up internet connections (if they had internet in their home at all) there were three diget phone numbers that would connect you to the server, rather than the usual 8 digit phone number.  The address for 163.com is a hold over from the days when people using netease's dial up service would dial 163 to get online.

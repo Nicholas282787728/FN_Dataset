@@ -1,2 +1,0 @@
-How are Haskell data structures represented so that they don't need to be copied every time I make a small change to them?
-If you have a small data structure, you can just copy it. If you have a larger structure, then split it into smaller parts so changes are localized. For your problem of appending an element to the list, you can try using doubly-linked lists. 

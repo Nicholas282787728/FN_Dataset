@@ -1,1 +1,0 @@
-Is every question on Quora indexed? If so, using what pattern are you indexing it and how do you map with users?

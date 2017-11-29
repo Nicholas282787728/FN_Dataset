@@ -1,2 +1,0 @@
-★What would happen if there were two identical IP addresses on the same private network?
-Most systems will discover this and complain loudly. Even if that doesn't happen, both systems will begin behaving very strangely. You can start surfing from one of the systems, only to have your web pages not load as the other system RSTs your TCP connections.    Embed Quote

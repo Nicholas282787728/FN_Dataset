@@ -1,1 +1,0 @@
-In telecommunication, data signaling rate (DSR), also known as gross bit rate, is the aggregate rate at which data pass a point in the transmission path of a data transmission system.

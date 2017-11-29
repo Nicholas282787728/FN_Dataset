@@ -1,2 +1,0 @@
-Business Intelligence: What are some good BI tools for MySQL?
-BIME (http://bimeanalytics.com) connects to a MySQL database within seconds. Our award-winning in-memory OLAP engine allows you to handle millions of lines of data in a single web browser, to make complex calculations and to create stunning visualizations and dashboards using the results.    Embed Quote Updated 8 Apr, 2013. 1,087 views.

@@ -1,2 +1,0 @@
-Deep Learning: Is there an implementation of the LSTM in the Sequence to Sequence Learning paper?
-I implemented this model in C++/CUDA. In the code you have the option to put each LSTM layer on its own GPU and it will do the same message passing scheme used in the paper. I found the speed of mine to be about the same as theirs. Link: isi-nlp/Zoph_RNN  

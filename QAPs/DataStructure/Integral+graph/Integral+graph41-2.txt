@@ -1,2 +1,0 @@
-Is this a valid way of proving that [math]\displaystyle\int^b_{a}xdx=\frac{b^2-a^2}{2}[/math]?
-You haven't really proven anything there. You've used the fact that the antiderivative of x is x²/2, which is basically the result you were supposed to prove (once you have that it is easy). 

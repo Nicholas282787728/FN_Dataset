@@ -1,2 +1,0 @@
-What is the minimum number of edges one needs to reverse in order to have at least one path from vertex 1 to vertex N, where the vertices are numbered from 1 to N?
-It may be possible to do this using a variation on the Floyd–Warshall algorithm, where you weight the number of flips required instead of the shortest path (weight of 0 for correctly directed edges, weight of 1 for edges to be flipped). Not sure if this is optimal, but the algorithm will give the shortest weight path length/weight (least flips), although it won't necessarily give the path. 

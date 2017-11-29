@@ -1,2 +1,0 @@
-Where/how can one practice C++ STL?
-Pick a competitive programming platform, and start implementing in C++. Here's one suggestion: uHunt :: UVa Hunting has a categorized list of exercises from UVa Online Judge - Home. In the Data Structures and Libraries section, there are quite a few questions that target specific C++ STL features. 

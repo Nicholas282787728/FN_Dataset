@@ -1,2 +1,0 @@
-★How do DNS clients decide which DNS host to query?
-With respect to which one of the many results a DNS client will choose, the behavior is undefined and the client generally will choose the first one first then more through the list until it gets a result or fails.

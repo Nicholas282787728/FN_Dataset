@@ -1,2 +1,0 @@
-How is a trie data structured considered an ordered tree data structure?
-I don't see why this is surprising. If you insert unordered keys into a BST and then do an in-order traversal, you get the sorted sequence. It's because the tree structure organizes the data during insertion. The same is true for tries. The data is organized by the act of insertion. Then when you traverse the trie, you get the data in-order. A trie is just a different way of organizing data with a different insertion procedure. 

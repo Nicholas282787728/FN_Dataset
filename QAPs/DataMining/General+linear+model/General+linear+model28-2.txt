@@ -1,2 +1,0 @@
-★What are some good resources for learning about statistical analysis?This is a follow-up on How do I become a data scientist?
-I was frustrated by how arcane statistics was as a grad student. The very basics can be learned quickly, but it's often poorly taught and most of us feel intimidated by the details, proofs, etc. Still, most of it comes down to how to draw a line on a graph, and why you'd care. That's not so bad. So I wrote this very short post to cover the essentials: Basic Statistics in 5 minutes!    Embed Quote

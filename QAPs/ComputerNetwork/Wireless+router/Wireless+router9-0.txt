@@ -1,2 +1,0 @@
-★What is the difference between a wireless router and a wireless range extender?
-A range extender creates a second network to provide clients connectivity to the router using its MAC address as the only connection.    Embed Quote

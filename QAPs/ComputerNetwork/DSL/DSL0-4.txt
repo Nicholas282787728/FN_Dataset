@@ -1,2 +1,0 @@
-★Is jQuery a DSL?
-A lot of other frameworks could be labeled DSLs if we go down that path. The way jQuery wraps DOM access syntax into $('div-id') is DSLy.

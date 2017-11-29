@@ -1,2 +1,0 @@
-What is the best software for exploratory data analysis?
-Hi, If you liked DataDesk and currently own a Mac, I encourage you to check out Wizard. It doesn't do social network analysis, but it does make it really, really easy to open up an unfamiliar data set and generate visualizations on the fly. For EDA Wizard is faster than anything else out there.    Embed Quote 

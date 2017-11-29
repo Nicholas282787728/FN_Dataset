@@ -1,2 +1,0 @@
-What is the advantage of using hash tables?
-The main advantage is the speed of access while searching or look ups, especially when the number of entries is huge. You can reduce the average access time by : choosing an appropriate hash function selecting the right internal data structures. appropriate bucket table size [if used]. Chaining is an alternative. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 2.7k Views · 2 Upvotes

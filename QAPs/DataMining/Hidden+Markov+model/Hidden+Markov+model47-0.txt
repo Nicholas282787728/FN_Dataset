@@ -1,2 +1,0 @@
-★What are the Matlab/R tools to help solve Auto-Regressive Hidden Markov Model?
-Look at the HDP-HMM toolbox Homepage of Emily B. Fox And I strongly suggest you read her Ph.D. thesis. It is very well written and gives an excellent introduction to Hierarchical Dirichlet Process and Non Parametric Bayesial learning in general.    Embed Quote

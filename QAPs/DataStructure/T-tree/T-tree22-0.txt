@@ -1,2 +1,0 @@
-What are the application of binary search trees?
-It seems, there is no specific application like stack, stack is used in automata,  function call,  recursion  call management and many more. BST is mostly  used for improving performance.  Some of the best  application sorting,  key value pair data(map, database), set e.t.c . If it's balance then all operations (insertion, deletion, updation) in logN time. Updated 10w ago • View Upvotes

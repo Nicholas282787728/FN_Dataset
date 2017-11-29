@@ -1,2 +1,0 @@
-★What are some interesting, modern examples of time series analysis?
-take a look at Professor Steven Skeina's free Computational Finance class. He expressed his unique thoughts about time series analysis. It is really worth of watching, since it is free    Embed Quote

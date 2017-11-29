@@ -1,2 +1,0 @@
-★What are the recommended Python machine learning libraries for boosting, logistic regression etc in terms of performance?
-As other answers have already suggested, Scikit-Learn is said to be the best machine learning library for Python (I also am learning Scikit-Learn). You can start your tutorial right away at An introduction to machine learning with scikit-learn.    Embed Quote

@@ -1,2 +1,0 @@
-★Is it possible to build a radio frequency receiver for a specific band completely on an FPGA?For example the RTL2832 stick, is it possible to implement something similar using an FPGA? Which components the FPGA will not be able to accomplish their jobs? for example the ADC circuit will be on an external PCB, what else and why can't the FPGA implement it?
-RF front end of the receiver is not included in the FPGA.    Embed Quote

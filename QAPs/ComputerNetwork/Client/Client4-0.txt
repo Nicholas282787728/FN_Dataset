@@ -1,2 +1,0 @@
-★What's the best email client for Mac OS X?
-I like and use Postbox - http://postbox-inc.com/ - it's made by the creators of Thunderbird, and has great threading and a totally clean UI. Does everything you could need a mail app to do. IMAP, POP, some good Facebook integration too.

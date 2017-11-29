@@ -1,2 +1,0 @@
-What is the highest meaningful number in mathematics?
-What is meaningful? Mathematically speaking:  - A funny answer would be. If there is no meaningful number bigger than X then X+1 is the smallest number in that range and therefore is meaningful. Practically speaking:  - The biggest number I add to work with was the number of possible Go games which is around 10^180 which is more than the number of atoms in the universe times the age in seconds of the universe. 

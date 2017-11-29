@@ -1,2 +1,0 @@
-Why is 9 a rational number?
-In mathematics, a rational number is any number that can be expressed as the quotient or fraction p/q of two integers, p and q, with the denominator q not equal to zero. Since q may be equal to 1, every integer is a rational number. By the same logic(or rather definition i.e. how rational numbers are defined by us) 9 is rational. Definition source Wikipedia. 

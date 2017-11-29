@@ -1,1 +1,0 @@
-In mathematics, a toroidal graph is a graph that can be embedded on a torus. In other words, the graph's vertices can be placed on a torus such that no edges cross.

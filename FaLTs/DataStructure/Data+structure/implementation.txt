@@ -1,1 +1,0 @@
-The implementation of a data structure usually requires writing a set of procedures that create and manipulate instances of that structure. 

@@ -1,2 +1,0 @@
-★How are IP addresses recycled?
-If the address was allocated to a host by DHCP, then it was granted with a lease time.  If, at the end of that time, the host has not renewed its lease, it returns into the DHCP address pool. If you are asking about entire prefixes, then normally when an organization changes ISP, it will return the prefix that it obtained from the former ISP.

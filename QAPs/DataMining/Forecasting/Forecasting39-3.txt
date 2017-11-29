@@ -1,2 +1,0 @@
-★How can you forecast or estimate sales on the app market?Is there some model utilizing publicly available data (such as # of reviews) that can help us model an apps sales numbers?
-I have found Applyzer (www.applyzer.com) to be quite helpful with that. When you make a free account, it lets you add apps to keep track of. You can, from there, read reviews from all around the world, and track it's daily position in markets around the world broken down by categorie. I hope this helps. Zach    Embed Quote

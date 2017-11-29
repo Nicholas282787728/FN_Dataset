@@ -1,2 +1,0 @@
-What is the difference between primitive type and reference type in Java?
-I'll just add to what has been told already. Primitive types or basic types: byte, short, int, long, float, double, char, boolean These are defined by the language utility and memory gets allocated for variables of these basic types at the time of their declaration itself. However, reference types like objects, arrays,  etc are defined by programmers and are allocated memory dynamically using new operator. Thanks for A2A :) 

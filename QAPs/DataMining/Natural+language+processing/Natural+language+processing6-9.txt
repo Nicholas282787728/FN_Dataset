@@ -1,2 +1,0 @@
-★What are the available APIs for NLP (Natural Language Processing)?What are the (open and commercial) available APIs for doing Natural Language Processing?
-Textocat API: TEXToCAT. We are currently in beta, focusing on Russian language. English is yet come. Follow us on Mashape: Textocat Beta API Documentation.    Embed Quote

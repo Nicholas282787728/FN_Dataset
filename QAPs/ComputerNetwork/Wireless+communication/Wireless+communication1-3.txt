@@ -1,2 +1,0 @@
-★Wireless Communication: What is the difference between TDD  and FDD?
-When there is two way communication going on, two nodes have to communicate with one another over orthogonal resources. When the available time is slotted and the communication slots are shared by the nodes in time it is called TDD-Time Division Duplexing. If orthogonal frequency bands are used by the users to communicate its called Frequency Division Duplexing.    Embed Quote

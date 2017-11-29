@@ -1,2 +1,0 @@
-Why don't we use ternary search even though the algorithm complexity (O(logn/log3)) is better than binary search complexity (O(logn/log2))?
-The base of the log is not 3, but is something else, since you don't always cut the problem size into a third every time. You can cut it into 2/3rd, which means your log base should be 3/2. 

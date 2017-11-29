@@ -1,2 +1,0 @@
-Which book(s) and other resources would you recommend for a beginner to understand Data Structures in C++?
-Still CLR/CLRS: Introduction to Algorithms: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein Updated 105w ago • View Upvotes • Asked to answer by Anonymous

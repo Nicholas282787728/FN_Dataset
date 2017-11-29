@@ -1,2 +1,0 @@
-What are the best big data analysis companies?
-Try http://www.thinkbiganalytics.com/ -- it's founded by Ron Bodkin, former VP Engineering at Quantcast.  If you're looking to hire a consultant, you should know that he's one of the best developers I've ever meet and one of the key people who built Quantcast's data processing pipeline.    Embed Quote 

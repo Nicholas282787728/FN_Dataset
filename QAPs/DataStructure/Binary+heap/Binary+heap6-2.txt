@@ -1,2 +1,0 @@
-How can we merge two binary heaps efficiently?The heap is represented as an array.
-Originally Answered: What is the most efficient algorithm and its Java implementation to merge 2 heaps into 1?If both heaps are empty, return an empty heap.  If one heap is empty but the other is not, return the nonempty heap.  If both heaps are nonempty, convert them into lists, combine the lists, and heapify the resulting list.  If you're clever about how you do that combination, this can be very efficient. 

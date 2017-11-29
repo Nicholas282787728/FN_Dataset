@@ -1,2 +1,0 @@
-Is String data type?
-Yes, String is a data type(It is a classification identifying one of various types of data). 180 Views

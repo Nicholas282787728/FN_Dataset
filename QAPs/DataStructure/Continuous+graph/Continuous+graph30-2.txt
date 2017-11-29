@@ -1,2 +1,0 @@
-Which mathematics courses may be useful for a Computer Science student ?
-May? All of them. On the other hand, I don't think there are any you absolutely cannot do without. However, I'd recommend at least a few basics: Discrete Math, Linear Algebra, Calculus, Probability And more depends on how you choose to specialise. 

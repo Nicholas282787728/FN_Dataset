@@ -1,2 +1,0 @@
-★What are the good examples of Neural Networks, Reinforcement Learning and SVM's applied on the web?
-I recently came across this Page on akinator.com and I think its the coolest AI web implementation just because of its simplicity and because it always gets you. You can take this concept and apply it to other user-cases.    Embed Quote

@@ -1,2 +1,0 @@
-If f(x)  is a continuous function satisfying f(x)=f(2x)  for all real x  , then is it necessarily a constant function?If so, how do we prove it? And if not, any counter examples?
-Yes.  Take any r∈R  and show that f(r)=f(0)  ,  because f(r)=f(r/2 n )  for all n∈N  

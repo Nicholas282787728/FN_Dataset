@@ -1,2 +1,0 @@
-★What are some good sources that explain Markov Chain Monte Carlo (stochastic simulation in general)?Wikipedia is way too vague and a textbook is too much, something in between ideally.
-Khanacademy.org is very resourceful. They have short videos on Markov chains and sampling.    Embed Quote

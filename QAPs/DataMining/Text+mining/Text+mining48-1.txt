@@ -1,2 +1,0 @@
-★What is a R text mining software package that works with latest Facebook APIs?
-Rfacebook package used to retrive data from the facebook api..    Embed Quote

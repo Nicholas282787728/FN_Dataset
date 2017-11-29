@@ -1,2 +1,0 @@
-★Is there a repository of different domain-specific languages (DSL)?
-can you suggest me some domains which are still untouched when coming to DSL design & development. Pls suggest me some example problem domains for DSL development. thanx in advance

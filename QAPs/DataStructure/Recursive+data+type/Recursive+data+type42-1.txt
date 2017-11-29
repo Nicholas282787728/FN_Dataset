@@ -1,2 +1,0 @@
-What are some facts about coding in the Java programming language that every computer student should know?
-Atleast for god sake ,  print the exception trace in catch block. Don't leave the catch block empty. try{ //something goes wrong here }catch(Exception e){ e.printStackTrace();  //This line will save your life while debugging } Most of the developers will develop the code as they wish without readabilty and standards. But finally it is the other person (who maintains the code after the developer left the organization) who is going to suffer and pay the technical debt. 

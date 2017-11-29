@@ -1,2 +1,0 @@
-Why are there no web services offering breadth-first searching for flight information?
-Actually something like this already exists and I love to use it to do day-dreaming travel plans You set a max price, month/season, what type of vacation you want and sit back to see the results: http://www.kayak.com/explore/ check out my blog for more tips at the http://www.thetravelabstract.com/ 

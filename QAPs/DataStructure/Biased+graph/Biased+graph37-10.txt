@@ -1,2 +1,0 @@
-What do people think of the TensorFlow sucks article?
-A bit overblown but true. TF has some major drawbacks even with Keras, while for example PyTorch has some really nice things like dynamic graph. But it also has a lot of nice things like TF Serving, Datasets, Keras, Tensor2Tensor and others. 921 Views · Answer requested by Kiki Rizki Arpiandi

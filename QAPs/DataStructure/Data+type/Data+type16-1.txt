@@ -1,2 +1,0 @@
-Why would anyone use int or long data types in C?
-stdint.h was introduced in C99. Many shops still use C90, or C90 with whatever C99 features that are found useful, and is provided by their current implementation. Further, while [u]int_[8|16|32|64]_t guarantees exact size, a platform need not implement them, they are in the words of Fixed width integer types (since C99): "provided only if the implementation directly supports the type". So, they might not be the  be-all and end-all of available, portable, strict sized integers. 791 Views · 4 Upvotes

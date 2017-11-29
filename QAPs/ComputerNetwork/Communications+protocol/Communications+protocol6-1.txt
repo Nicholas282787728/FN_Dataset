@@ -1,2 +1,0 @@
-★Is there any standard communication protocol for Internet of Things (IoT)? Is any group working on that?
-I answered this here What are the key technical standards and protocols for the Internet of Things (IoT)?

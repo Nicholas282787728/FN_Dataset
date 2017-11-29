@@ -1,2 +1,0 @@
-★What's the best IRC client for Mac OS X?I've been using Colloquy, but wonder if there are better options.
-irssi under screen in Terminal. Advantage is being able to re-attach your session from another machine while preserving state (scroll back). Despite running in, irssi is quite easy to use and is window-based (based on ncurses).

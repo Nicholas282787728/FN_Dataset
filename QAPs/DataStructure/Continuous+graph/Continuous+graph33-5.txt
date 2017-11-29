@@ -1,2 +1,0 @@
-If f(x)  is a continuous function satisfying f(x)=f(2x)  for all real x  , then is it necessarily a constant function?If so, how do we prove it? And if not, any counter examples?
-I'm sure I am missing something, but aren't we just looking for periodicity in log space, so the general solution is f(x) = exp(i*2*n*pi*ln(x)/ln2) for integer n? 

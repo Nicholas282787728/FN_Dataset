@@ -1,2 +1,0 @@
-What are the best books to learn algorithms and data structures? Are there any good blogs/posts on these? Which books explain these concepts in a simpler way?
-Originally Answered: Which is the best book for clearly understanding data structures and algorithm concepts?It really depends on your own level. Some books could be too advanced for you and others too swallow. Considering that, I would say that Algorithm Fourth Edition by Sedgewick and Wayne is a very good choice for people with basic or medium level cs background. 3.7k Views · 1 Upvote

@@ -1,2 +1,0 @@
-★What is the difference between HTTP and FTP?
-HTTP : Hyper Text Transfer Protocol FTP: File Transfer Protocol Both these terms have two words in common -- "Transfer Protocol" The difference is in "File" and "Hyper Text" Long answer short, FTP is used for transferring files through the internet whereas HTTP is used for transferring Hyper Text i.e Media, Sites, Audio etc There are many other differences, something that I'm not currently capable of answering. If you want to know more, you could read this: Programming Whiz

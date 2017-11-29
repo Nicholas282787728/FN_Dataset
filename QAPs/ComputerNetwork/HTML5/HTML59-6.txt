@@ -1,2 +1,0 @@
-★Is Bootstrap a complement or an alternative to HTML5 Boilerplate or viceversa?In one corner we have Bootstrap and Foundation, in the other we have HTML5 Boilerplate and similar HTML/CSS starting templates. Can they be used together or do we have to pick a side?
-It seems to me that Bootstrap and Boilerplate can complement each other. Boostrap provides base CSS and HTML for typography, forms, buttons, tables, grids, navigations. Boiletplate seems more concerned about best practice site-configurations, cross-browser compatibility and less concerned with styling.

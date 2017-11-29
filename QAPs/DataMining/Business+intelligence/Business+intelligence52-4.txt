@@ -1,2 +1,0 @@
-Business Intelligence: How is Domo priced and how does it compare with Tableau and QlikView?
-If you're looking for an alternative to Domo that all the features you'd expect from a modern Business Intelligence tool and that will cost you less than Domo you can have a look at BIME Analytics. You can try it for 14 days and see our pricing online here. (Disclaimer: I work at BIME)    Embed Quote 

@@ -1,2 +1,0 @@
-★Front-end: What's the best workflow?What's your workflow? Gulp, grunt, yeoman, sass, less, stylus, atomic design, jade, Boostrap? Tell me.
-WebStorm. Sketch for designing. SASS, try to use SASS instead JS, and try to use pure JS instead JQuery. Angular.js sometimes for panels. Some components of Bootstrap (especially for grid system and js features) Git (only app) Chrome Dev tools    Embed Quote

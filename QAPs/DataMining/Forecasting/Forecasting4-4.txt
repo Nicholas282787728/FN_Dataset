@@ -1,2 +1,0 @@
-★Who has the best forecasting software on the market?And why?  Ideally looking for a software package, not library for R or Python.
-Not sure if its the best ... but one forecasting software that i have heard is autobox.    Embed Quote

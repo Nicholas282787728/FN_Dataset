@@ -1,2 +1,0 @@
-Field Programmable Gate Arrays (FPGAs): How can I implement the Smith-Waterman algorithm in synthesizable VHDL?
-Smith-Waterman is one of the most commonly used algorithms in FPGA-based trading systems.  The code is available from a number of places but very often requires that you have a license for a commercial tool, e.g. ImpulseC to get it from C to VHDL. Just Google "smith-waterman vhdl" and you'll find dozens of well written papers on the subject and quite a few code links. 

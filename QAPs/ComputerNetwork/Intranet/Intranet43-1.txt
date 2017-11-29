@@ -1,2 +1,0 @@
-★Which one is better for a social intranet for a company: Slack or Flowdock?Slack has a good package but Flowdock has tagging. So which one should it be then?
-I've used both and I can honestly say that they're great for real time team communication but you'd struggle if you tried to use them for anything more. They're just not built for that. You might want to consider HighQ Collaborate instead. It allows teams to collaborate, share ideas and keep track of projects without the security problems experienced by Slack users.

@@ -1,2 +1,0 @@
-★What is the best NoSQL database to store unstructured data?
-Any of the document stores are worth a look - I'd suggest investigating MongoDB, Riak and CouchDB.    Embed Quote

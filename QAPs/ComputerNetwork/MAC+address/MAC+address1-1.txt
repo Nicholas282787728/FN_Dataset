@@ -1,2 +1,0 @@
-★Will MAC Addresses ever be exhausted?
-Here's a secret: network hardware being manufactured today has a decent chance of sharing a MAC address with another device that's been built at some point. That said, this is (almost) never a problem because the chances of two devices with the same MAC address being deployed on the same LAN is so incredibly low.    Embed Quote

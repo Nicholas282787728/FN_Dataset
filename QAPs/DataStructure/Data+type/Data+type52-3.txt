@@ -1,2 +1,0 @@
-What is the benefit of different data types in programming?
-Just try programming in assembler (perhaps with a few extensions allowing “if”, “while”, “for” to be more intuitive). You’ll see the motivation for data types. You have to keep track whether a place in memory has an integer, a floating point number, a character or a pointer; each represents something else entirely. 354 Views · 4 Upvotes

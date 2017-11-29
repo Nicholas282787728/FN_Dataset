@@ -1,2 +1,0 @@
-★What purpose does the small cylindrical module near the end of my laptop charger cable serve?
-That is a ferrite core wrapped in plastic. It's purpose in life is to suppress transient A/C voltages and minor spikes in the voltage supplied and to stop the wire acting as a broadcast antenna for Radio Frequency Interference. If you want to know more than you thought possible about it just ask Jacob VanWagoner. The answer from Amit Sinha is also very good.    Embed Quote

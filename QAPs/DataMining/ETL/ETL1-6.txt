@@ -1,2 +1,0 @@
-★Business Intelligence: ETL : which is the best open source ETL tool to start working ? specially if we are kick starting a BI project
-One has to compare the specific ETL requirements including the source/target systems and database against the specific capabilities of the tool including support for the source/target operating systems and databases.    Embed Quote

@@ -1,2 +1,0 @@
-★How does one model feedback loops in regression analysis?I'm researching the relationship between job turnover and risk preferences. I have a hypothesis that through a process of learning the two variables affect each other. How do I model this feedback loop?
-Not with regular regression analysis. You would need to get longitudinal data and probably get it very carefully. Then you would probably need quite a complex statistical analysis; some sort of time series is probably called for, so you would need data on a lot of time periods.    Embed Quote

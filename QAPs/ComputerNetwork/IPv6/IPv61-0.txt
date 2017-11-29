@@ -1,2 +1,0 @@
-★What is the benefit of IPv6?It seems like NAT is good enough.
-Andrew Yourtchenko wrote this tongue-in-cheek criticism of NAT. NATs are only "good enough" at very small scale.  They break end-to-end connectivity principles and introduce state that needs to be managed, either at a user's home connection or at a carrier run Carrier-grade NAT facility. NAT adds unneeded complexity, cost, and state to work around the limited addressing of IPv4.  This is a problem that IPv6 solves.    Embed Quote

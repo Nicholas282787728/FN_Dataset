@@ -1,2 +1,0 @@
-★How can I measure the dispersion of a set of time series?
-You may want to try Dynamic Time Warping or the Manhattan distance.    Embed Quote

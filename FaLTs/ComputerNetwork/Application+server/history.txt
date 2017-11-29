@@ -1,3 +1,0 @@
-The term was originally used when discussing early client¨Cserver systems to differentiate servers that contain application logic SQL services[3] and middleware servers as distinct from other types of data-servers.
-
-Currently, despite the fact that web-browsers have become ubiquitous and are typically the client for end-users in many application deployment strategies, browser-based web apps represent only a subset of application-server technologies.

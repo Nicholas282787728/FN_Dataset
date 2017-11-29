@@ -1,2 +1,0 @@
-Any ideas for a simple artificial intelligence/machine learning project?
-Hi, take a look at this question: How does one start writing practical machine learning programs?. In one answer, the user suggests some projects ideas. This can be useful for you.    Embed Quote 

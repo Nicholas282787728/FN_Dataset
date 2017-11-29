@@ -1,1 +1,0 @@
-How to dynamically set the number or reducers in hadoop mapreduce job?This functionality is provided with TotalOrderPartitioner which does distribution-aware partitioning that incurs extra overhead and time but which may pay for itself overall.

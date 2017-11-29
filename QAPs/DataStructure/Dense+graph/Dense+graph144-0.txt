@@ -1,2 +1,0 @@
-Is the Bellman-Ford algorithm pseudo polynomial?
-False. The number of vertices in a graph is at most double the number of edges. If that's not the case, remove the vertices that have no incoming or outgoing edges. In a very sparse graph, E = O(V), and Bellman-Ford takes time O(VE) = O(V^2). In a very dense graph, E=O(V^2), and Bellman-Ford takes time O(VE) = O(V^3). In the knapsack problem, the number of items and the weights are completely independent. 

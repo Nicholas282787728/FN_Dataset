@@ -1,2 +1,0 @@
-★What is your favourite graph theory problem?
-I'm fond of this one (interpreting "problem" as "puzzle", not "open problem"): Consider a graph in which any two distinct vertices have precisely one common neighbor. Prove that the graph has a vertex connected to all others (and, in fact, deduce the complete structure of the graph). Caution: the apparent simplicity of the question is deceptive. As far as I know, all known solutions rely on a little bit of linear algebra.    Embed Quote

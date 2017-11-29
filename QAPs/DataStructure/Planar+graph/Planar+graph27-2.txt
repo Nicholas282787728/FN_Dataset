@@ -1,2 +1,0 @@
-What is your favorite mathematical identity?
-I really like Euler's formula for planar graphs: v − e + f = 2. where v is the number of vertices, e is the number of edges and f is the number of faces. 

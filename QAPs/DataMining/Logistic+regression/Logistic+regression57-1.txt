@@ -1,2 +1,0 @@
-★In what circumstances or properties of the data will decision trees perform worse than logistic regression?
-In addition to Abhishek Ghose 's excellent answer, I think that DTs might do worse than LR if there are outliers in the data and if those outliers need to play a strong role in the model. DTs are not influenced by outliers. That's often good. But there could be cases where it is not    Embed Quote

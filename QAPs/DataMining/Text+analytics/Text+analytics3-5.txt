@@ -1,2 +1,0 @@
-★What are current commercial text analytics tools lacking?I'm talking about seemingly do-it-all solutions like Clarabridge. What business or user needs are they currently not responding to or what features or usability elements could be improved?
-Many text analytics solutions do not offer customization of their engines,Each user has a different set of requirements and each data set is unique.Most text Utilizing Analytics Software for Speech and Text analytics tools are using large keyword lists to classify content into similar topics.    Embed Quote

@@ -1,2 +1,0 @@
-Why is it important for a CS major to learn about databases?
-Because the world runs on business, business runs on a database. If your code screws up the database, you don't have a job 

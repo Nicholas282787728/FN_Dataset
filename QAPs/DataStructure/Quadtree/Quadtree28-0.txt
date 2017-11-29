@@ -1,2 +1,0 @@
-Is there a startup that creates an API for developers to build Uber/Lyft/Sidecar-like location and logistics features into apps?
-PubNub's EON Dashboard Framework includes a map widget that allows you to plot moving vehicles on a map. It works great on mobile, if you combine it with Cordova and other PubNub features you'd be about halfway there. http://pubnub.com/developers/eon 

@@ -1,2 +1,0 @@
-★What are the recommended performance metrics of a binary classifier when working with an example-based cost matrix?
-If it is binary classifier, the precision, recall and F1 score will be a good performance metric. Precision and recall F1 score Thank you    Embed Quote

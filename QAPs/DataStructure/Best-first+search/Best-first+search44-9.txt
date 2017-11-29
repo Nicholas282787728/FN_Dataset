@@ -1,2 +1,0 @@
-Where can I find large datasets open to the public?
-Kaggle recently launched Kaggle Datasets. You can download high quality public datasets here, run analytics on them through Kaggle Scripts, see others analyses, and discuss them in the forums. Here's a blog post describing this in more depth: Introducing Kaggle Datasets 5.5k Views · 35 Upvotes

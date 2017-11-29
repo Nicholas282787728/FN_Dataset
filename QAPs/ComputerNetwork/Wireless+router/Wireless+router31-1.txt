@@ -1,2 +1,0 @@
-★Why might wireless routers slow down internet speeds?I have a WNDR3700 Gigabit router at home. My download speeds on a Comcast cable modem internet does not exceed 10 MBPS ( Using the Cnet bandwidth meter). COmacst usually advertises over 20 MBPS at home. Anyone else facing this issue?
-Additionally, firewalls, NAT and other fancy stuff implemented on those boxes add some latency to the traffic. In some cases, a security feature may actually be the cause of slow down because it is "overacting" to false positives.    Embed Quote

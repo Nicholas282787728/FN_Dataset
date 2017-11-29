@@ -1,1 +1,0 @@
-Could you introduce the index-file structure and theory of Lucene?It is an inverted index structure by Lucene In Action, Can you introduce its specific index structure and mathematical theory in detail? and how to improve the performance of large index? thank you.

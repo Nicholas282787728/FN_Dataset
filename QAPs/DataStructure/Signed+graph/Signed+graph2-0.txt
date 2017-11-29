@@ -1,2 +1,0 @@
-In Algebra 2, what is a sign chart?
-It's a chart that indicates what the sign will be of the result of a mathematical operation between two unknowns. For example: The term "sign chart" is also used to describe a technique for solving polynomial inequalities that is also known as a factor table. For example, the factor table for (x2 + 2)(x + 5)³(4 – 2x)(x²)(x – 6) < 0 looks like this: The source for this image, Purple Math - Solving Polynomial Inequalities, also explains how they work. If I had to guess, I'd say you're looking for the latter example. 

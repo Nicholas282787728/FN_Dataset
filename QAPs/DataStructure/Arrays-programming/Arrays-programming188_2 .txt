@@ -1,1 +1,0 @@
-How do I use count as an array in programming?The following code snippet should work int count[n]; for(i:0 to n) for(j:0 to n) if(a[i,j]) count[j]++; Just think what you have and what you need, you can easily arrive at the solution. 68 Views  View Upvotes

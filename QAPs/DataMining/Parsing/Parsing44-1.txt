@@ -1,2 +1,0 @@
-★What are some recent advances in natural language parsing?
-I agree with the previous answer, though I would just point out that deep learning is still not easily applicable to large scale problems and data, and it has some parameters that they are not easy to tune. I would love to know if they are compared with simpler models on large scale problems.    Embed Quote

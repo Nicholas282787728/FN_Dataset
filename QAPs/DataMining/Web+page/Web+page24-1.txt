@@ -1,2 +1,0 @@
-★What are some good tools to analyze web page visitors' behaviors?Not only identify basic events (visited, clicked, etc) but also, for example, cluster users by their behavior?
-You should look for tools which are able to display user clusters based on behavior patterns. The features you should look for are: Ability to separate your product into life-cycle (progress) and areas/modules Automatic and manual user clustering and segmentation I would asvise you to take a look at http://www.totango.com - but there are also other tools who address this problem.    Embed Quote

@@ -1,2 +1,0 @@
-★What does the "regression" term refer to in "regression analysis"?I've been dabbling in setting up some regression models, and trying to wrap my mind around what exactly is regressing or being regressed.
-Just a historical thing, AFAIK One of the first studies that used regression was about heights in people population. It was shown that extreme heights are not passed on from fathers to sons and in general tend to be closer to the population mean.    Embed Quote

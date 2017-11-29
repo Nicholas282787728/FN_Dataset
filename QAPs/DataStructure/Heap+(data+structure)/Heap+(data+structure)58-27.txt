@@ -1,2 +1,0 @@
-What basic data structures and algorithms should one learn before starting competitive programming?
-Learn Basics of one Programming language,try to choose OOP languages like java,c++,python etc and just learn about input,out first and then follow: Competitive Programming http://www.geeksforgeeks.org/how... http://www.geeksforgeeks.org/how... http://www.geeksforgeeks.org/top... And practice on http://www.practice.geeksforgeeks.org Go through all the concepts and solve problems related to those concepts.... (more)

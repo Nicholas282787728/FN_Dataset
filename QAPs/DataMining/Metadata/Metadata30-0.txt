@@ -1,2 +1,0 @@
-★What's a good Metadata architecture?
-Dublin Core.    Embed Quote

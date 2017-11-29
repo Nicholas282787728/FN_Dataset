@@ -1,3 +1,0 @@
-Haskell (programming language): What are generalized algebraic datatypes (GADTs)? An algebraic data type can have many constructors. Each of them is essentially a function that takes a bunch of arguments and returns an object of the type being constructed. I say "essentially" because that's not what the syntax of a data type declaration suggests.
-
-Some types are polymorphic. They are actually families of types parameterized by other types. How do you construct an object of a polymorphic type? Well, their constructors have to be polymorphic functions. The type they return is determined by the types of the arguments. 

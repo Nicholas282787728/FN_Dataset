@@ -1,2 +1,0 @@
-★What does following algorithm approximate?
-It's the square root of m. I think that the implementation is according to the Newton-Raphson iterative formula: When you put (where N is the number for which we have to calculate the square root), then the above formula reduces to: Again, it's 3 a.m. here so I haven't really confirmed it but that's what it looks like.    Embed Quote

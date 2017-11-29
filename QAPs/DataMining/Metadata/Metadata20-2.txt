@@ -1,2 +1,0 @@
-★Is there a free tool which can complete music metadata by identifying the song?I have a very large collection of songs but the metadata is very haphazard. What free tool can be used to correct this? Open source tools which work on Linux are preferred.
-. the universal Tag Editor (ID3v2, MP4, OGG, FLAC, ...) . The Open Music Encyclopedia    Embed Quote

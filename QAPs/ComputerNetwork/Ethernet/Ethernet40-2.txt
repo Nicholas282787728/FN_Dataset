@@ -1,2 +1,0 @@
-★How does one plug in a Ethernet cable into a tablet that has no Ethernet port?
-Most Tablets have mini USB port so u may need one more adapter to convert mini to full USB if your SB->Ethernet adapter has full USB PickYourTab

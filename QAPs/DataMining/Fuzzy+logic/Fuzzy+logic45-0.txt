@@ -1,2 +1,0 @@
-★Procurement Technology: Can fuzzy logic improve purchasing and inventory software?
-I haven't heard the two concepts (fuzzy logic + inventory software) used in the same context (let alone product) - but then again that doesn't mean much on its own. If I could risk a guess though I'd say that it would only make sense at really big stock levels (think Amazon or Walmart) where there is significant amount of data to process. Then again, margins of error in these businesses translate to a lot in absolute numbers so it's probably not used there either .    Embed Quote

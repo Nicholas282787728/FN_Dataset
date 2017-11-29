@@ -1,2 +1,0 @@
-★How can I make a plot in Python to show the method of the least squares regression line?I want to plot a line and a few scatter points around it.
-You can use the matplotlib package in python. It is built on top of gnuplot. An example is given in the scikit- learn page on  Linear Regression.    Embed Quote

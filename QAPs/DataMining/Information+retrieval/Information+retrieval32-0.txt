@@ -1,2 +1,0 @@
-★Is there a design pattern library for information retrieval?
-You might find the collection at http://www.patternbrowser.org/ useful – filter by category "InfoViz Patterns" and drill down. Another collection is at http://www.infodesignpatterns.com; both mentioned sites deal with information visualisation and retrieval. Hope this hits the spot!    Embed Quote

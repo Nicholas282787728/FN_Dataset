@@ -1,2 +1,0 @@
-Why is there no tree data structure available in C++ STL?
-Actually there are are tree data structures available in C++ stl. Only problem is that they are not called as a "tree" but as a set or a map. Set and maps are internally implemented as balanced tree's (R&B tree )which grant them the almost exact classic tree complexities and features. Beware that unordered_set and unordered_map are not implemented as a tree but as a quasi hash-map. 

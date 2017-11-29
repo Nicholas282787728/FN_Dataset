@@ -1,1 +1,0 @@
-Given an array of N integers, how can you find M elements to remove so that the array will end up in sorted order?Although finding the elements takes time, there’s a nice approximation algorithm to find at most elements such that the rest are in sorted order, in time—see this answer by Mark Gordon.   

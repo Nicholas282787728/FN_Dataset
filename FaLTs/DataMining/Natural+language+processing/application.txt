@@ -1,1 +1,0 @@
-Application domains where relationship extraction is useful include gene-disease relationships,[1] protein-protein interaction[2] etc.

@@ -1,2 +1,0 @@
-★How can I split a distribution into 2 or more normal distributions?For example, something like this below: I can see maybe 2 or three distributions here, but it is difficult to know the parameters of each. A solution that can integrate with Python or Matlab is a plus.
-A free curve fitting toolbox for Matlab Works well :)    Embed Quote

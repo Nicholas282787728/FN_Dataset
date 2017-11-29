@@ -1,2 +1,0 @@
-★How do I make a chat messenger (that uses LAN or Google API)?I am a third year civil engineering student with interest in Computer Science.I have my placements next month and am preparing for an IT job. I am interested in making a chat messenger over LAN or Google API. I have decent knowledge of C++,C and data structures and algorithms.What all subjects are prerequisite for making that app a reality.
-there are many ip messanger already created.you can google it for ex.-IP messanger.So try something new that are not developed upto now.    Embed Quote

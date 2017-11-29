@@ -1,2 +1,0 @@
-★Who are some notable machine learning researchers?i.e. people doing interesting stuff in ML This is a follow-up on How do I learn machine learning?
-Zoubin Ghahramani, Michael Jordan, David Blei, Yee Whye Teh    Embed Quote

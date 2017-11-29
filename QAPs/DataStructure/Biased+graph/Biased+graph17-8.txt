@@ -1,2 +1,0 @@
-What are the concise meaning and interpretation of bias and variance in machine learning and statistics?
-Bias = error on the training set. Variance = additional error on the test set. 648 Views · 3 Upvotes

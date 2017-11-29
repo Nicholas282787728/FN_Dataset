@@ -1,1 +1,0 @@
-Why are Depth First Search and Breadth First Search called so?

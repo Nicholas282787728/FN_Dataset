@@ -1,2 +1,0 @@
-★What are some real-world examples of predictive analytics?
-Well, you can apply predictive analytics anywhere, make sure that it provides meaning to your data or numbers. It is not about extracting the data, it is all about learning the data and turning them in to better decision making. Recently read an interesting case study/example about how big data and predictive analytics can be used as a combination. Check out the below source:- How Big Data Can Fuel Predictive Analytics Engine    Embed Quote

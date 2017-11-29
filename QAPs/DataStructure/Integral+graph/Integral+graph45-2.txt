@@ -1,2 +1,0 @@
-If some random person adds you on Facebook, should you accept?
-I know that Facebook actively discourages you from friending strangers, for both privacy/security reasons as well as social graph integrity reasons. When I was at Facebook, we asked you how you knew the person whose friend request you were accepting, and if you selected "I don't know this person", we would disallow it. Friending randoms messes with the social graph. 

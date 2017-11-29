@@ -1,1 +1,0 @@
-What is best way to master sorting algorithms?There are various techniques for sorting depending on input size. It is good idea to keep some of them like insertion sort, merge sort, quick sort and probably heap sort at your fingertips to master the sorting. 

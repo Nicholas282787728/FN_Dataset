@@ -1,2 +1,0 @@
-★What's the best URL shortener for brands / corporations?With the landscape evolving from cli.gs to http://bit.ly pro, awe.sm, and budURL.com and others-- what is best from a feature standpoint? what's the most secure? (here's an outdated roundup for info! http://selnd.com/hWBNIo)
-Bitly has url shortening service on your own domain. For 1 domain the service is free. I have written a detailed blog post about how to use bitly to make your own short url on your custom domain. You can check it out here: Get Custom Branded Short URLs on Your Domain with Bitly    Embed Quote

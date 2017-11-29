@@ -1,2 +1,0 @@
-★What are the advantages of SIP for VoIP?
-The main advantage is the large ecosystem that SIP has today for VoIP. The main issue, is what is it you are looking for. Viber and Skype are both proprietary solutions: when these companies need to add features such as PSTN connectivity, IVR, multipoint conferencing, etc - they have to develop it from scratch on their own. Wish SIP, you have such off the shelf solutions from multiple vendors to use.    Embed Quote

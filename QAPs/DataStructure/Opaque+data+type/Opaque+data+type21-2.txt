@@ -1,2 +1,0 @@
-What does the concept of Universal Grammar mean?
-To put it briefly, the idea of a universal grammar is this: all human beings have an innate cognitive structure for processing language, irrespective of the languages they speak. This innate structure allows for the production of endless kinds of sentences. Universal grammar explains how the surface structure (say a sentence) arises out of the deep structure (vocabulary and universal set of rules for combining words). 

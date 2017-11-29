@@ -1,1 +1,0 @@
-Is sorting algorithms a closed topic?People are still working on parallelly sorting. 

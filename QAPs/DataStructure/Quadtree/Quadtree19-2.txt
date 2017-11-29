@@ -1,2 +1,0 @@
-Is there any good tutorial to understand how to create an Uber-like app for Android?
-I find this tutorial very helpful and apt. Let me know if your requirement don not match what is taught here in this tutorial 

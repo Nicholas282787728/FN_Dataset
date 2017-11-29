@@ -1,1 +1,0 @@
-What is a good Python library for decision trees?Orange is a Python machine learning toolkit with extensive support for classification and regression treees: http://www.ailab.si/orange/ 10.7k Views  View Upvotes

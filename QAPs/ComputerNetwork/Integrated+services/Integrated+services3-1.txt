@@ -1,2 +1,0 @@
-★Which companies provide software to hardware integration services?
-we can take care of hardware part, However duplicating existing software is not worth the effort as this is a single unit. Ask the software provider if he can send the cabinet number on USB port? we can receive data on USB port and switch on the light and then switch off when cabinet is closed.    Embed Quote

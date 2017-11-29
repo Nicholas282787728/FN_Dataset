@@ -1,2 +1,0 @@
-What data structure does Google use to implement the "Did you mean" feature?
-Its basically a hybrid version of natural language processing coupled with Tries (search tress that provide O(m) complexity where m is the number of characters in the string ) These trees are also used in Forward and reverse DNS lookup caches  In case need more detail and programming implementation ,do comment below kudos!! 

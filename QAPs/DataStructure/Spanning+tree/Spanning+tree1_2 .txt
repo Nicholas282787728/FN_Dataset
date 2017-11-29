@@ -1,1 +1,0 @@
-What is the maximum spanning tree algorithm?A maximum spanning tree is a spanning tree of a weighted graph having maximum weight. You can compute maximum spanning tree using Kruskal Algorithm with edges sorted into decreasing order. 

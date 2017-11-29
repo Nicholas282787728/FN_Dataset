@@ -1,2 +1,0 @@
-How many ordered pairs [math](x,y)[/math] exist (where [math] x , y [/math] are prime numbers), such that [math] x^2 - 2y^2 =1 [/math]?
-x is odd.  [math]x^2= 1+2y^2[/math] Since  [math]x^2[/math] is odd, therefore, x is odd. Since x is odd, x^2 is of the form 4n+1.  [math]2y^2=4n, .'. y^2=even[/math] Therefore, y is even. Since y is prime, y can only be equal to 2. For y=2, x=3, also a prime. Only one ordered pair exists. 

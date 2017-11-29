@@ -1,2 +1,0 @@
-What is the most simple & efficient C++ code for Dijkstra's shortest path algorithm?
-I think the best way to answer this question would be by scouring the Internet, finding different implementations. Then set up some tests of your own, run them, compare results and finally, if you think you can write a better implementation based on your criteria, do it and test it. I'm not trying to be rude, I honestly think it would be awesome to prove it yourself as to which implementation is best. 

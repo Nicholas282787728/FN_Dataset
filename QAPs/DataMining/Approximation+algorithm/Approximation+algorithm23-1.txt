@@ -1,2 +1,0 @@
-★What does following algorithm approximate?
-It gives the approximate square root of "m"    Embed Quote

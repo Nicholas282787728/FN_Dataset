@@ -1,2 +1,0 @@
-★What are hosted continuous integration services for Windows?
-Try my company Shippable - free hosted platform for continuous integration and deployment of github projects . We support .NET builds on windows.    Embed Quote

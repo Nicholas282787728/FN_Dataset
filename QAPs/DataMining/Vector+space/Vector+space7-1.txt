@@ -1,2 +1,0 @@
-★How do mathematicians understand vector spaces?
-They understand it as any set with two binary operations that satisfy certain axioms. These axioms can be found in the Wikipedia page of vector space.    Embed Quote

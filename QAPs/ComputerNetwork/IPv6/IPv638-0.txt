@@ -1,2 +1,0 @@
-★What is the IPv6 address format?
-IPv6 addresses use a hexadecimal format.  Each address consists of a 128 bit bit value which uses 8 x 16 bit octets each separated by a : an example address is 2001:1998:2002:402::200  You may be asking yourself why are there not 8 octets there? The answer is that leading 0's and blocks of 0000 may be omitted however 2 colons are used only when one or more entire octets have been left out to signify the omission.    Embed Quote

@@ -1,2 +1,0 @@
-★What's the difference between master data and metadata?
-Master data is data that is commonly used across an enterprise. Examples of this are customer name, product SKU, etc. Metadata is data that describes data field.    Embed Quote

@@ -1,2 +1,0 @@
-What's the best regression technique to fit on data with both labels and continuous values?
-Piece of cake for regression trees 

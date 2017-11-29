@@ -1,2 +1,0 @@
-★Why is MTU of Ethernet 1500 bytes and how was it counted?
-The Ethernet MTU of 1500B was a compromise between throughput and buffer space. At the time of Ethernet's definition, 1500B was a substantial payload and gave good efficiency. However, making packets larger would have required that more memory be devoted to buffering packets for hosts, bridges, and routers. 1500B was a reasonable sweet spot between these two competing forces at the time. The Ethernet MTU normally includes the link layer header plus full payload. It does not include the preamble or trailing CRC.

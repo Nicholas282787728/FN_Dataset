@@ -1,2 +1,0 @@
-Where can I find large datasets open to the public?
-Since we get asked this question by our Machine Learning oriented users very frequently, my company (BigML) has compiled a list with over 250 sources here: List of Public Data Sources Fit for Machine Learning You may also want to check out the related blog post for some more context: Data, Data, Data: Thousands of Public Data Sources Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 21.8k Views · 82 Upvotes

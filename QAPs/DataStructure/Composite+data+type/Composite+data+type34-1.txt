@@ -1,2 +1,0 @@
-What language is better for a B2B-focused digital healthcare product: ASP.NET or Ruby on Rails?
-I'm supposed to "fill in the breach" as Peter Wone said, as a long-time Ruby guy (who hates ASP.net), but instead I'm going to say this: The best one is the one that you know. If you don't know any, and you plan to hire somebody else to build it, then the best one is the one known by the dev(s) who convince you more that they can build the product to your specs. 

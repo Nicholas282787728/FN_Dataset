@@ -1,2 +1,0 @@
-★Does fiber optic cabling decrease the ping versus regular cabling?I've just always wondered as fiber optic uses traveling light as opposed to electrons. I would assume that the light travels a larger distance over all I've always thought that light travels faster than an electron. How does it stack up in short distance versus long distance?
-Light and electricity travel at about the same speed in their respective media. Light travels at about 66% of c in glass fiber, the "speed" of electricity in a coaxial cable is similar. Optical fiber Speed of electricity

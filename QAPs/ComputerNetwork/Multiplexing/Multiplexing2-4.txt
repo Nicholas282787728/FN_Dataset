@@ -1,2 +1,0 @@
-★What is the difference between a multiplexer and a decoder?In computer architecture, all the cases where you implement multiplexer can be replaced by implementing decoders right?
-Multiplexer connects data from one of n sources to its output. decoder convert an input binary code into a corresponding single active output.got from yahoo answers    Embed Quote

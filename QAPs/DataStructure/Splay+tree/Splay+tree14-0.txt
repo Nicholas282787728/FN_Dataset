@@ -1,2 +1,0 @@
-How would the CLRS authors fare in TopCoder against people like Gennady Korotkevich (competitive programmer)?
-They would be demolished. Regardless of whether their ability to solve problems is comparable to Gennady's, they certainly would lag far behind Gennady in coding speed and challenge ability because they haven't practiced nearly as much as him. 

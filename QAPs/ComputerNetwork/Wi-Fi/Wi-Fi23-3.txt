@@ -1,2 +1,0 @@
-★Why does my download speed through wi-fi become zero when i place my mobile just above my wi-fi router?
-You are overloading your receiver. It is similar to me yelling in your ear - in most cases you will not be able to understand me better, in fact you will probably not be able to understand me at all. I've found that lowering the transmit power on my WiFi actually increased my throughput because my access point is very near where I use it.    Embed Quote

@@ -1,2 +1,0 @@
-★What makes USB 3.0 faster than USB 2.0?
-USB 3.o adds 5 new wires to the connector (in parallel with the existing 4 USB 2.0 wires for backwards compatability). It uses a new signalling standard over those extra wires to send the higher speed data.  Of course, the data cable has improved physical properties to make it possible to run at higher speed.  

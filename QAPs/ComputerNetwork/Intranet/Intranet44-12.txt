@@ -1,2 +1,0 @@
-★What is the most all-inclusive internally-focused social media/intranet/collaboration and knowledge management platform on the market today?
-I think the answer is simple. If you want an on-prem environment, Sharepoint is the answer. If you are talking about a cloud based system, our HyperOffice probably comes closest to Sharepoint in terms of breadth: - document management - project management - enterprise social networks - intranet publishing - email - contacts and calendaring - wikis - mobility - workflows and web forms http://www.hyperoffice.com

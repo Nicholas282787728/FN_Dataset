@@ -1,2 +1,0 @@
-★Computer Programming: Do larger screen sizes make programming easier? If so, why?
-Large resolutions do because it makes it easier to context switch.  I like to have my IDE of choice on one monitor, my database tool on another, and my web browser on a third... in an ideal web developer setup.

@@ -1,2 +1,0 @@
-★What does an ETL Architect in your company do?I am looking for answers beyond "architect, design, and develop ETL solutions"
-understands business requirement doc / SRS. to prepare Technical design specification doc. to prepare mapping document. to apply optimization/performance improvement techniques. guides ETL developers for driving the development process. ensures data quality, high availability. Collaborate with Business analysts, Data architect, clients etc.    Embed Quote

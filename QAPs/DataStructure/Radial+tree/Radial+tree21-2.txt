@@ -1,2 +1,0 @@
-Classification (machine learning): How do I design a classifier for this data set?
-The above situation is very much valid. I have not faced such situation but designing a classifier is possible in this case. For such problems you might want to use SVM with any non-linear kernel like Gaussian Kernel. 

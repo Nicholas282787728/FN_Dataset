@@ -1,2 +1,0 @@
-Is there a standard algorithm to determine if a given point lies in any rectangle (out of a set of rectangles)?
-Try using slab method to find the region where the point lies. Store in each vertex, info regarding parent rectangle, use this info, in the found region to get corresponding rectangle. i think it will take O(nlogn) time, where n is the number of vertices 

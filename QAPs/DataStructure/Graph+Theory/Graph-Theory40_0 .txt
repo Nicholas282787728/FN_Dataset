@@ -1,1 +1,0 @@
-Is graph theory used in finance?A friend of mine who’s working on a PhD in finance is analyzing a large part of LinkedIn’s social graph, so yes, there are apparently applications. I don’t know any of the specifics of what she’s doing, though. 828 Views · View Upvotes

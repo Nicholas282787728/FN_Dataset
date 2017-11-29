@@ -1,2 +1,0 @@
-★What is the best plain text editor (equivalent to the MS Notepad) for Linux? Is there a simple program I can use for plain text that can be sent to Linux, Windows, and Apple machines?
-I use nano on a command line which is most of the time.  I actually detest vi.  I know that's sacrilege. In a GUI jedit...  or if I have to... gedit.  Jedit has a lot of plugins for transforming text and coding. My favorite editor of all time is bbedit for Mac.    Embed Quote

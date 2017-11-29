@@ -1,1 +1,0 @@
-How is the floating point number stored in a 32-bit microcontroller memory?

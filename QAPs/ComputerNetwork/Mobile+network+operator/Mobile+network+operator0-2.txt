@@ -1,2 +1,0 @@
-★What are good tools for identifying mobile network operator based on IP address?Mobile analytics, categorizing mobile traffic by mobile operator/carrier
-Subscribe to a service like max mind whose API is here https://www.maxmind.com/en/isp You could also do a cross check that it is a mobile with the user agent.    Embed Quote

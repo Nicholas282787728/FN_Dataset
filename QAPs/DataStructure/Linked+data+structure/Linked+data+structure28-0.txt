@@ -1,2 +1,0 @@
-Can someone list all storage data structures other than array and linked lists?
-See the List of data structures on the Wikipedia. 

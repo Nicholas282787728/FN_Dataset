@@ -1,2 +1,0 @@
-What is the minimum number of edges one needs to reverse in order to have at least one path from vertex 1 to vertex N, where the vertices are numbered from 1 to N?
-Did you find the correct answer? This seems like a trick, but I guess 2. Perhaps my answer is influenced by previous answers. However, the first thing that popped into my mind was 2. 

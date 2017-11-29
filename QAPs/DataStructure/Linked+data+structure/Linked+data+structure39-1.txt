@@ -1,2 +1,0 @@
-How can a linked list or tree data structure be saved in memory permanently as a database?
-My question is like, When We design Data Structure in C, like Tree, Graphs, Linked List.  We Fill data values,  and test it for algorithmic purposes for faster data traversing, data searching.   How can save data permanently, and Read Data permanently. 

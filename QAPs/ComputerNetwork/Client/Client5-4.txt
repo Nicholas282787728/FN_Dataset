@@ -1,2 +1,0 @@
-★What are the best Twitter clients?
-We thought that Android was lacking a good Twitter client with simple nice UI and we just launched Tweagle. Tweagle is also first Twitter client using location in a new way, allowing users to see what's being tweeted around them and follow locations like they follow users. The app can be found at www.tweagleapp.com Disclaimer: Tweagle leverages Walkbase indoor positioning and I'm the CEO of Walkbase, company behind the positioning tech and the app.

@@ -1,2 +1,0 @@
-Is there an equation to represent a set of ordered pairs [math](x,y)[/math] in which  [math]x = n, n+1, n+2, n+3, \ldots [/math] and  [math]y[/math] is equal to  [math]n, 2n, 2(2n), 2(2(2n)), \ldots ?[/math]
-I think what you want is:      [math]\{(n+k,2^k\cdot n)\colon k\in\mathbb{N}\}[/math] which is the set of ordered pairs beginning [math](n,n)[/math] [math](n+1,2n)[/math] [math](n+2,4n)[/math]and so on. 

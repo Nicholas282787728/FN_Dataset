@@ -1,2 +1,0 @@
-★Is there a better ETL approach? Data Warehouse is all about loading data from source to target. Traditionally, source system produces files and an ETL job loads those files into target system. Is there a better ETL approach which is not using file business?
-Hmmmm, not sure if this answers it, but here is how to use ETL and Hadoop. It seems to be a good approach. Although I am not certain that this answers your question exactly...maybe: Large Scale ETL with Hadoop by Cloudera    Embed Quote

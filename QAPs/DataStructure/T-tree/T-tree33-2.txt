@@ -1,2 +1,0 @@
-When would you use void pointers in C?
-I would like to expand on what Ken said and say that it's common to see void pointers be used in async libraries APIs (like libevent). In those cases you pass the API a "baton" (some data / state). Then that library will pass you your baton when invoking callbacks. The library expects you to know what it is but it doesn't it self. Kind of a combination of all 3 above. 

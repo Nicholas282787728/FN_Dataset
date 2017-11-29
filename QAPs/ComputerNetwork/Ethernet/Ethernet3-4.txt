@@ -1,2 +1,0 @@
-★Why is there no micro Ethernet connector standard?We have micro USB (super-endorsed by EU), micro HDMI, and the Apple connectors getting smaller too... what's up with networking?
-Nowaday people mostly using wi-fi like wireless... So maybe its going to be extinct... then what s the relevance in miniaturizing.

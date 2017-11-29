@@ -1,2 +1,0 @@
-★Neural Network: Is there any online course for neural network?
-University of Toronto offered a course titled "Neural Networks for Machine Learning" on Coursera back in 2012. Not sure why they did not come up with another session of the course. However, the course archive is still open and can be accessed at https://www.coursera.org/course/... Course video:    Embed Quote

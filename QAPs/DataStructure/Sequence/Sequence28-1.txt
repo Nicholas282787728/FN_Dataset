@@ -1,2 +1,0 @@
-Deep Learning: Is there an implementation of the LSTM in the Sequence to Sequence Learning paper?
-Yes! In google recent opensource release TensorFlow, there is exact code for the seq2seq model. Check it out here: Page on tensorflow.org 

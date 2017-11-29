@@ -1,2 +1,0 @@
-What are the concise meaning and interpretation of bias and variance in machine learning and statistics?
-Michael Hochster gave a good technical answer; more informally: Suppose you have two bathroom scales. Suppose you weigh yourself on a balance scale (gold standard) and find you weigh 80 kg. You get on scale 1 4 times and get weights of 81, 82, 81, 82, You get on scale 2 4 times and get weights of 75, 85, 75, 85. Scale 1 has low variance but is biased. Scale 2 is unbiased but has high variance.... (more)

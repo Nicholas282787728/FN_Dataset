@@ -1,2 +1,0 @@
-★How many types of VPN are there?
-Cyberoam offers the option of IPSec VPN, L2TP, PPTP and SSL VPN over its network security appliances (Next-Generation Firewalls/UTMs), providing secure remote access to organizations.    Embed Quote

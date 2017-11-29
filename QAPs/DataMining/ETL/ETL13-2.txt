@@ -1,2 +1,0 @@
-★What are the extract, transform, and load (ETL) tools used at Facebook, Twitter, and LinkedIn?
-Google and LinkedIn are both very departmental meaning there are no standards. I know both use pentaho. But I suspect because each of the many departments are autonomous they probably also use every other ETL tool. So the answer is not very useful    Embed Quote

@@ -1,2 +1,0 @@
-How do you allocate memory dynamically without using malloc or new?
-You just somehow get a big chunk of memory, either with a call to the OS, or you just declare a big array.  In most dumb and unsafe languages you can then compute a pointer into that and pass back that pointer.   That's how malloc() does it. 

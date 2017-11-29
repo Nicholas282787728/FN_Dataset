@@ -1,2 +1,0 @@
-How does Java overload operator "+" connect two strings? How does that invisible part work?
-An extension to Sagar's comment. String a = b +c; is transformed by the complier to the following statement : String a = new StringBuilder(b).append(c).toString(); As a side note, StringBuffer is a slight variation of StringBuilder in that, it is preferred in cases where synchronisation is not needed (ie) you don't want to share the buffer between threads. 

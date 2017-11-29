@@ -1,2 +1,0 @@
-★Which hosted continuous integration services show you individual Java test results?
-Shippable (www.shippable.com) has integrated test results visualization where you can drill down to an individual test and see results. We have also integrated code coverage visualizations. Also, you can set up CI and CD for unlimited public repositories and up to 5 private repositories for free.    Embed Quote

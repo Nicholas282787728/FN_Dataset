@@ -1,2 +1,0 @@
-★What are some Natural Language Processing algorithms used to build Quora?
-Classification algorithm for grouping questions into categories. Parsing algorithm for grammar correction. Clustering/or similarity calculating algorithm for finding duplicate questions. And so on...    Embed Quote

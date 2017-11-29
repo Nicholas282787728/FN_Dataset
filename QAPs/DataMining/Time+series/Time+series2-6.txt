@@ -1,2 +1,0 @@
-★What techniques are useful for data mining financial time series?
-If you are doing options pricing research, knowledge of ARCH-type (especially GARCH) is nice to have.    Embed Quote

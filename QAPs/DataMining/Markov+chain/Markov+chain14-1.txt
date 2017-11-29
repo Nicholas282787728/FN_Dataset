@@ -1,2 +1,0 @@
-★What is an intuitive explanation of a stationary distribution on a Markov Chain?
-At a stationary state in a Markov Chain, the probability of leaving a state is the same as the probability of entering that same state.    Embed Quote

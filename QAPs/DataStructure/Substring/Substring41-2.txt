@@ -1,2 +1,0 @@
-How do you find the longest substring whose reverse is also present in the same string?
-I think this is same as finding longest palindromic substring. 

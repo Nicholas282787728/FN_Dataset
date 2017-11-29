@@ -1,1 +1,0 @@
-Without looking at the graph, how does one know x=0 is the only possible discontinuity for |x|?

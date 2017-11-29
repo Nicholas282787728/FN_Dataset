@@ -1,2 +1,0 @@
-What is discrete math?
-Discrete means not continuous. Graph theory and discrete sets (e.g. integer numbers) are examples of discrete math. 

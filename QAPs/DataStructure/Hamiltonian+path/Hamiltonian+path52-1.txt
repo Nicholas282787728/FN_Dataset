@@ -1,2 +1,0 @@
-What is the best method to connect a network of points, ensuring that all are connected and that each point only has at most 2 connections?
-What is the pseudocode for generating a Hamiltonian path from a graph of coordinates? EDIT: given a function which defines the distance/weight of each connection. Also, it does not matter where the path starts or finishes. I should also add that i need the shortest path, and that this graph is undirected. 

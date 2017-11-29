@@ -1,2 +1,0 @@
-★What are the characteristics of a good training set for machine learning or neural network?
-Good coverage of the parts of the input space you care about. Low noise/variance (things you don't want to model). Big enough for the degrees of freedom you have in your model. Correct labels.    Embed Quote

@@ -1,2 +1,0 @@
-Does Facebook know my password?
-No, Facebook does not know your password. We follow expected security protocols and don't store passwords in plaintext. 

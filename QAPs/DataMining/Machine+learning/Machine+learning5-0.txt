@@ -1,2 +1,0 @@
-★How does Quora use machine learning?
-They seem to use machine learning algorithms mainly for the ranking of answers and possibly also in putting together feeds for each user. From the description for their ongoing Codesprint challenge (https://www.hackerrank.com/conte...): Quora uses a combination of machine learning algorithms and moderation to ensure high-quality content on the site. High question and answer quality has helped Quora distinguish itself from other Q&A sites on the web.    Embed Quote

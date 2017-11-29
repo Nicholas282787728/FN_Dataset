@@ -1,2 +1,0 @@
-★What causes Google Apps mail to bounce with a DNS error?
-I happened to face the same issue with one of the clients domain today. Inspecting through https://toolbox.googleapps.com/a...omain.com said domain didn't have name servers! While the domain had name servers of cloud flare and DNS records properly configured. Ultimately there was some technical issue at domain registrars side. Contacting your domain registrar or web host would be the best thing to do. They should be able to help you out.

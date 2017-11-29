@@ -1,2 +1,0 @@
-★How do I find somebody in Western Australia to help investigate about a potential algorithm for lossless data compression?
-You don't find them, you attract them to you. Publish papers / write blogs challenging the existing methods with solid suggestions for improvement but fall short of giving your solution. Spark enough interest to enter into discussions, but make it clear that only very selected people will learn the idea in full in the end.

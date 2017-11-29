@@ -1,2 +1,0 @@
-★What are current research trends in feature selection?
-To make it more and more automatic and as far as possible from hand-made features. Deep learning is all about that.    Embed Quote

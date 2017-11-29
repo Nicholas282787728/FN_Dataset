@@ -1,2 +1,0 @@
-★What kind of tree algorithm is best for implementing a random forest, and why?Many different trees can be used, what's common practice?
-the general tree based algorithm that breaks the node on the basis of information gain works well.    Embed Quote

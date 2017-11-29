@@ -1,1 +1,0 @@
-Are data structures less relevant (or irrelevant) in functional programming compared to object-oriented programming?

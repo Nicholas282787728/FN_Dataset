@@ -1,2 +1,0 @@
-★What's the relationship between logistic regression and latent Dirichlet allocation?
-I don't see the connection. LDA is a generative model, which means, it can produce more data consistent with you have given to it, and explain the similarities in data with finding hidden groups. And logistic regression is a statistical model, it doesn't really explain anything. It's only purpose is prediction, no matter what underlying patterns are there in the data.    Embed Quote

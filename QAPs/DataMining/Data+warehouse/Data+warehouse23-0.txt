@@ -1,2 +1,0 @@
-★Can PostgreSQL replace Oracle in a multi-TB data warehouse?
-I did that in a project for a large bank in Mexico. It worked smoothly. The main advantages are: - GIS capabilities integrated - Foreign data wrappers - Customizable Analytic Functions - Json storage (  9.4+ , like a Nonsql database) - Strong full text search - Integration with several languages (R, python, C, Java, etc) with out restrictions - and most important: Freedom If you need more info or help please contact me.    Embed Quote

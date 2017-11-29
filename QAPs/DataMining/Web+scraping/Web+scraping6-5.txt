@@ -1,2 +1,0 @@
-★What are the best web scraping open source tools?
-For Node.js framework, Zombie and CasperJS would be good choice. Zombie is based on PhantomJS (headless scraping browser kit - very fast)JSDOM. An outdated but still can be used would be pjscrape javascript library. In the ruby world, try nokogiri and mechanize, they will serve your purpose.

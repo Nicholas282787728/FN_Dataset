@@ -1,2 +1,0 @@
-What are some applications of biconnected graphs?
-Dating algorithms. 

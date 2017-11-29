@@ -1,9 +1,0 @@
-★Information Retrieval: How to build a simple inverted index?
-A simple inverted index is best implemented as a hash where the keys are the words and the values are lists of documents. In JSON[1], this would look like: 1
-2
-3
-4
- invertedIndex: {      "word1": ["docID1", "docID2", ...],      "word2": [..., ...] } In the inverted index you describe, we need to store the word's position (or positions?) and frequency for each doc, so each docId needs to also be a hash with a structure like: 1
-2
-3
- doc_i: {"positions": ["pos1", "pos2",....],           "frequency": freq } Here I am assuming that you want to store the word's frequency for each doc (aka "Term Frequency"). Note that this is also the length of the list in "positions". So the final structure is a hash of hashes of lists/ints. Of course this isn't the only way, but it's the most flexible because you can easily add new named fields to docId objects. Finally, the actual structures you would use obviously depend upon the implementation language. Python dictionaries & lists, Perl hashes & arrays, Java HashMaps & ArrayLists, etc....    Storage will require serializing the object, which also will depend upon the language you're using. Most languages have good libraries for JSON serialization, which would allow you to store the object as readable text. [1] JSON    Embed Quote

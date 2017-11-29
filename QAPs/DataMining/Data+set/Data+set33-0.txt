@@ -1,2 +1,0 @@
-What is a good introduction to working with large data sets?
-R doesn't actually handle big data that well. If you want to learn how to access SQL data pick any book If you want to learn about new noSQL type databases check http://www.google.co.uk/search?q... or http://www.fulcrum-mktg.com/data...    Embed Quote 

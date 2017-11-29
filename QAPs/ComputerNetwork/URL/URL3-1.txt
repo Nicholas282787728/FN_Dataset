@@ -1,2 +1,0 @@
-★Is there a short URL for DuckDuckGo?It would be nice if there was a shorter URL, like http://ddg.com.
-I think there is some confusion here.  The only official short url URL to use is http://ddg.gg.  The rest are either to ancillary sites related to DuckDuckGo or, like https://i.duck.co, they're used during a search request to serve specific types of content.

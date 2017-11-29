@@ -1,2 +1,0 @@
-★Why did Facebook buy Parse?Facebook blog: Welcoming Parse to Facebook Parse blog: The Future of Parse
-So companies like ShowKit can say "Facebook's parse blog recently wrote about ShowKit." Check it out here: Guest Post: Integrate the ShowKit SDK into Your Parse-Powered App for Conferencing, Screen Sharing, and Gesture Control    Embed Quote

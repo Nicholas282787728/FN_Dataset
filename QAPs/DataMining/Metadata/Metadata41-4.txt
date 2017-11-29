@@ -1,2 +1,0 @@
-★What academic reference management tools provide successful automatic metadata extraction from a collection of PDF files?It seems like it shouldn't be hard to detect the title of each file and look up the metadata online automatically, but I haven't yet encountered a tool that does this robustly for computer science papers. This is a follow-up question to What's the best academic bookmarking tool?.
-If you are on osx Papers at http://mekentosj.com/papers/ is excellent. It integrates searching for articles from a variety of databases    Embed Quote

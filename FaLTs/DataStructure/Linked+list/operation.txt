@@ -1,5 +1,0 @@
-When manipulating linked lists in-place, care must be taken to not use values that you have invalidated in previous assignments. This makes algorithms for inserting or deleting linked list nodes somewhat subtle. This section gives pseudocode for adding or removing nodes from singly, doubly, and circularly linked lists in-place. 
-Our node data structure will have two fields. We also keep a variable firstNode which always points to the first node in the list, or is null for an empty list.
-Traversal of a singly linked list is simple, beginning at the first node and following each next link until we come to the end:
-Inserting at the beginning of the list requires a separate function. This requires updating firstNode
-Operations that can be performed on singly linked lists include insertion, deletion and traversal.

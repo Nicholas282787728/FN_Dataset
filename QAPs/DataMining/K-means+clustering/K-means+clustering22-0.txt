@@ -1,2 +1,0 @@
-★Why is k-means clustering so popular, given that more sophisticated alternatives exist?
-The answer to any "why <a simpler Machine Learning technique> is more popular than <an advanced Machine Learning technique> is generally that the gains in performance for a complex algorithm are not worth the complexity of  implementation for most people"    Embed Quote

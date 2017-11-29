@@ -1,2 +1,0 @@
-As a coder, why do you prefer C++ over C?
-As the name suggests C++ is the better version of C ( U can here actually consider ++ as increment operator. C++ can be considered as the incremented version of C). It has all the features of C plus it adds a few features of its own (method overloading, operator overloading etc). More importantly it implements Object Oriented Programming (OOP). So if u know C and want to learn the concepts of Object Oriented Programming then C++ is the best option. 

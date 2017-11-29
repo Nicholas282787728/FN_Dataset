@@ -1,2 +1,0 @@
-What are the must know things in Linux/Unix for a Java/J2EE developer?
-Running build and deployment tools from the command line. Command line Git (revision control)/version control. Working with Linux processes and measuring them, for performance. Linux networking, sockets, front end web servers like nginx. 

@@ -1,2 +1,0 @@
-★In Tornado, how can I access POST parameters?self.get_argument(<name>) will get the GET and POST parameters with the name <name>. How can I just get the POST parameters?
-That's quite simple. For you can get the headers and body of the request by using self.request, so def post(self):        data_json = tornado.escape.json_decode(self.request.body) will be your solution.    Embed Quote

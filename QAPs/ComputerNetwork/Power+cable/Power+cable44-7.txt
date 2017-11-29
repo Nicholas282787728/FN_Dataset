@@ -1,2 +1,0 @@
-★What purpose does the small cylindrical module near the end of my laptop charger cable serve?
-It contains a ferrite torus.  The ferrite has a high permeability which means it helps build inductance in the wires going through it.  The inductance blocks high frequency noise from climbing out of the laptop and polluting out wiress spectrum.   The ferrite is also lossy so it absorbs a lot of the noise.   Think of it as a pillow on the wire, smothering the noise, just as it works on smothering the noise from a uncooperative Zombie.    Embed Quote

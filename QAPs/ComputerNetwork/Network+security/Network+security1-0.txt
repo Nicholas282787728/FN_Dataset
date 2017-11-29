@@ -1,2 +1,0 @@
-★What makes the Bitcoin network secure?
-I think this is a question with excellent answers in a lot of places. Quora may not add much here. If you are new, I would recommend: Bitcoin: The security of transaction block chains Talks titled "Understanding Bitcoin" world bitcoin network I will keep adding resources as I remember.    Embed Quote

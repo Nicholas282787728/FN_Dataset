@@ -1,1 +1,0 @@
-What is the difference between node* next & node *next?I am working on linked list and I got stuck with this ……If there is a difference between the two could someone just explain it to me.(if possible diagrammatically to understand in a better way.)They both are pointer to node data type. Just the declaration syntax is different. Both are valid. 124 Views  View Upvotes

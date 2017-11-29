@@ -1,2 +1,0 @@
-★How does 3rd party web service integration work ?Is it possible to discuss some issues on api design and implementation over a sequence of Q&A series.
-See Representational state transfer (REST) and Simple Object Access Protocol (SOAP)    Embed Quote

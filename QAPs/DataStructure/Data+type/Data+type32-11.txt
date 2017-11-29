@@ -1,2 +1,0 @@
-Can the % operater be used on all data types in C?
-No % i.e modules operator is used only with integer datatype as it is used to find remainder 51 Views

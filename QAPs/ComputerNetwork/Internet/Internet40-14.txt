@@ -1,2 +1,0 @@
-★Who will be the leading companies of the Internet of Things?Everything relating to the ethos of connecting the worlds devices to the web makes sense. I wonder in what timeframe it will play out? And who will be the leaders of this wave of technology.
-I agree, that IoT by its nature demands open standards and open code. Therefore, I think the organizations who make the openness of the ecosystem their paradigm must be most successful in the long term. Good examples of such are: Arduino (Arduino - Home), Kaa project (Kaa Open Source IoT Platform), Hyper/CAT (HyperCat), etc.

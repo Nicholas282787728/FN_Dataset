@@ -1,1 +1,0 @@
-How do you remove duplicates from a linked list?Use a hash table. Traverse from head to tail. On encountering a node, check if its present in the hash table, if yes, delete it, else enter it into the hash table. It takes O(n), n is the number of elements. 346 Views  View Upvotes

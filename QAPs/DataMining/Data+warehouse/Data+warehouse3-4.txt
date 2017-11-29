@@ -1,2 +1,0 @@
-★Why are data warehouse appliances so popular?If you have a good team of sysadmins and DBAs why wouldn't a normal set of hardware and software work just as well as an appliance? Also, with an appliance, aren't you limiting your expansion options?
-The same reason good decisions are so popular to rising the corporate ladder. Companies grow based on good decisions. Decisions are dependent on information. Informations comes from reports and reports are the byproduct of BI    Embed Quote

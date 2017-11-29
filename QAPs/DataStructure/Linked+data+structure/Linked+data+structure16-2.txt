@@ -1,2 +1,0 @@
-Is there any application of linked list and array in data structures?
-alt+tab is an application of circular linked list 

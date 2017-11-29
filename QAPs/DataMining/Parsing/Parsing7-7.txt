@@ -1,2 +1,0 @@
-★Could there be an open source equivalent to Parse (the cloud backend)?
-There are a few initiatives, but none is near the completeness that Parse provides. Deployd seems to be better among others LeanEngine is another DataKit [https://github.com/eaigner/DataK...] is missing from the answers    Embed Quote

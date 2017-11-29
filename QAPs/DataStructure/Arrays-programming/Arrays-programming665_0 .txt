@@ -1,1 +1,0 @@
-What does jagged array mean in C#?A special type of array is introduced in C#. A Jagged Array is an array of an array in which the length of each array index can differ. Example: A Jagged Array can be used is to create a table in which the lengths of the rows are not same. This Array is declaredusing square brackets ( [ ] ) to indicate each dimension. 104 Views  View Upvotes

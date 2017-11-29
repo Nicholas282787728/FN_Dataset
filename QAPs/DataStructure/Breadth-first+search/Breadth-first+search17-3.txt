@@ -1,1 +1,0 @@
-Is depth first search always better than breadth first search?

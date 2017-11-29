@@ -1,1 +1,0 @@
-Is hash function reversible?

@@ -1,2 +1,0 @@
-What is the best way to Implement a LRU Cache?
-An LRU Cache is usually implemented by using a combination of a Hash Table and a Linked List. The Hash Table serves to enable quick lookup and the (doubly linked) List serves as the structure used to enable location the least recently used item for quick eviction. You can find many excellent implementations Online. 

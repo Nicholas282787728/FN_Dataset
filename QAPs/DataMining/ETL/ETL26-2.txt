@@ -1,2 +1,0 @@
-★How do I use Python as an ETL - data integration tool?
-Here is an ETL example I found which is coded in a Python. pygrametl The source states that  "This turns out to be very efficient, also when compared to drawing the process  in a graphical user interface (GUI)". Can't say if this is true or not, but I would guess that graphical ETL is more efficient over a longer timeframe, since it is more suitable for different kinds of developers, not only Python programmers.    Embed Quote

@@ -1,2 +1,0 @@
-What are some great non-standard (not widely used) data structures?
-Question title seems borrowed from http://stackoverflow.com/questio... , which has a great set of answers. Also check out What are some data structures implemented based on statistics / probability? (some overlap). What are some of your favorite data structures? is related. Also, ZDDs are cool: http://ashutoshmehra.net/blog/20.... 2.7k Views · 4 Upvotes

@@ -1,2 +1,0 @@
-★How does Google use machine learning?With Google using ML in plenty of places, what are the least known places where google uses these techinques?
-Google News. It's all algorithmically categorized. [1] [1] Systems and Methods for Improving the Ranking of News Articles    Embed Quote

@@ -1,2 +1,0 @@
-What is the best, reasonably priced business intelligence application?
-Agree.. Power Pivot is by far the most cost-effective solution on the market.  It's a powerful tool (no pun intended), and is a free add-on to Excel.  Power Pivot is just Excel and pivot tables on steroids, including an in-memory cache stream of data that improves performance significantly over previous generations and many other tools.    Embed Quote 

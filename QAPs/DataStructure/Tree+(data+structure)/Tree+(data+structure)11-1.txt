@@ -1,2 +1,0 @@
-What is the best site to study tree data structure in C++?
-Data Structure is an important topic of computer science. Few topics can't be completed through websites. For them you need video lectures. However, you can try my blog for flash based examples, algorithms, easy to access DS contents at http://codstudio.WordPress.com There are also few sites as StudyTonight, GeeksForGeeks, and others. 

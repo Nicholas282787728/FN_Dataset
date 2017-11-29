@@ -1,2 +1,0 @@
-What is the difference between the linked list and array data structures in Python?
-Linked list doesn't give you ability to access Nth item in list easily. Array is similiar to python's list - ["some_text", 4, ...] but supports only one type. You can't mix them like in the above list. Profit of such solution is speed of accessing to Nth item. Linked list isn't exactly the same as normal python's list. 

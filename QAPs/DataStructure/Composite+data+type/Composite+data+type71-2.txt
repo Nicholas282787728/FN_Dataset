@@ -1,2 +1,0 @@
-Functional Programming: What is a functor?
-The answers I've found about this was serching Functor as a math topic because is fairly based on this apparently, but Norman Ramsey from stackoverflow has a more easy to understand one. Check this out: In Functional Programming, what is a functor? 

@@ -1,2 +1,0 @@
-How many data types are there in Java?
-What is Data Type?   Data type is a classification of the type of data that a variable or object can hold in computer programming. Ex: character, integer, float etc.... > Java supports explicit declaration of Data types. (we need to specify the data type before declaring the Variable) ... (more)

@@ -1,2 +1,0 @@
-★Does it make sense to wire my house for a LAN given how fast wireless has become?We're doing renovations on our house and are going to redo the electricity and we thought about pulling Ethernet cables (or something fatter like Optical Fiber), but does it make sense to do this at all given that wireless is getting faster and faster?
-Wired is always the most secure. Though wireless has been a lot better over the years.    Embed Quote

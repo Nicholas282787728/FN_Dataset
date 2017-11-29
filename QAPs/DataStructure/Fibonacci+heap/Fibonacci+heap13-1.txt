@@ -1,2 +1,0 @@
-Would checking data structures like bloom filters, fibonacci heaps etc. (ones that are not very common) help you get a tech startup idea?
-I doubt getting a tech startup idea. However, you can research in the area and find better algorithms.. Improve efficiency and become a consultant/ software architect. Quora, Facebook, yahoo etc. use bloom filters. But you never know, during the research you might even landup on a brilliant idea. 151 Views · 1 Upvote

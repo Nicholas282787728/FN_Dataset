@@ -1,2 +1,0 @@
-What are some tricks and tips that every beginner Android Developer should be aware about?
-Above all answers are related to coding, so I will give you a tip which will be helpful while running your app. If anytime you come across adb error,it will ask you to manually exit it and restart. So in such cases do just one thing restart your pc/laptop. In most of cases error will be solved. Apply this when you are not with enough of data to update your studio. Thank you!! 

@@ -1,2 +1,0 @@
-How do practical path-finding algorithms work on huge graphs?
-maybe.. but I find Google map always points me to the highway.. so I guess when the algorithm expands one node, it will prioritize some specific nodes based on rules.. and it definitely will not expand all possible nodes 

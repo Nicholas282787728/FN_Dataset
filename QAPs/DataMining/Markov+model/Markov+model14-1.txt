@@ -1,2 +1,0 @@
-★What are some examples of how Hidden Markov Models are used in Quantitive Trading?
-One example that I can quote is of the usage of Hidden Markov models is in High Frequency Trading (HFT) where the success of this technique in the prediction of financial time series has been great. As a reference, I can point you to this small blogpost " http://thegrahamian.blogspot.in/... "    Embed Quote

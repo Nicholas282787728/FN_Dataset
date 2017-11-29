@@ -1,2 +1,0 @@
-What is a good resource for experienced programmers to learn Excel VBA?
-Twop books spring to mind: 1) Professional Excel Development (2nd Edition) - Rob Bovey, Dennise Wallentin, Stephen Bullen, John Green 2) VBA Developers Handbook -Ken Getz, Mike Gilbert The PED book above really upped by VBA skills. Fantastically written and opened my eyes to what VBA could actually do. The second book is also pretty good too, but not as well written (IMHO) but does provide other useful pieces of information. Updated 14w ago • View Upvotes

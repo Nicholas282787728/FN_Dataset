@@ -1,1 +1,0 @@
-What does the graph of (a+b)^n looks like?Consider "a" and "b" integers and "n" a natural number.Very simple, if we treat ^ just as a binary operator (that is not commutative, simlar to MINUS or DIVIDE):  ^  / \  / n  +  / \  a b 107 Views

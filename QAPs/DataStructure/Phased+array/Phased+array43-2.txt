@@ -1,2 +1,0 @@
-Can you construct a spherical wave as a sum of plane waves?
-No, one can't simply get a spherical wave as sum of plane waves. As per the Sommerfeld identity used in the theory of propagation of waves spherical wave can be approximated by sum of cylindrical waves multiplied by plane wave. See more Sommerfeld identity | WikiWand 

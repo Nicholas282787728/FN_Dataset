@@ -1,2 +1,0 @@
-How can I get back my AutoCAD command bar?
-You can do one of two things 1) type "commandline" and press enter. 2) CTRL+9 if neither of these work, i would suggest contacting autodesk help line or try to re-install. 

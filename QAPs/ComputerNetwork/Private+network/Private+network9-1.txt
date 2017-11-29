@@ -1,2 +1,0 @@
-★What is the advantage of having VPN (virtual private network)?
-As the name indicates, by using vpn you can have a separate network within a public network. For an example if you want to allow access to your internal network to a remote person you can setup a vpn and allow access to the remote location with enforced security rules.    Embed Quote

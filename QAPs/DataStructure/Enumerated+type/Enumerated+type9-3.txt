@@ -1,2 +1,0 @@
-If C++ is a strongly typed language, then why does it allow these type of implicit conversions?
-If I recall, in Stroustrups Design and evolution of C++ it was that there was a time when implicit conversions like this were errors. In practice, there was a large code base that otherwise work fine, but now didn't compile. So it was left alone, and left out of compiler. 

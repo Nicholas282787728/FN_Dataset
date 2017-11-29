@@ -1,2 +1,0 @@
-★What are some good resources to learn about linear programming?
-cs.berkeley.edu/~vazirani/algorithms/chap7.pdf is a great introduction for the absolute beginner. ieor.berkeley.edu/~ieor162/162syllabus.pdf uses Introduction to Mathematical Programming: Applications and Algorithms by W. L. Winston & M. Venkataramanan. ieor.berkeley.edu/~ieor262a/262asyllabus.pdf uses Introduction to Linear Optimization by Dimitris Bertsimas and John N. Tsitsiklis. en.wikipedia.org/wiki/Linear_programming#Further_reading lists other resources.    Embed Quote

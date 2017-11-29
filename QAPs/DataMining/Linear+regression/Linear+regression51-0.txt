@@ -1,2 +1,0 @@
-★What are the most important questions to ask when examining the residual outputs of a standard linear regression model?Lets split the question in two: out of sample residuals and in sample residuals.  What insights can we glean?  What pitfalls can we avoid?  What should we always check for?
-SAS and R (and probably other programs) print out nice plots of some of the basics. In SAS, see the PLOTS = statement    Embed Quote

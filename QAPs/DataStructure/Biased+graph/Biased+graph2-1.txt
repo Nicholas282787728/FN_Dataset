@@ -1,2 +1,0 @@
-How can people create bias using graphs and charts?
-The simplest method of flummoxing the audience is to show two different sets of data, with different nits and scales, on the same chart. People will look at it and say the levels of a are higher than b, without looking at the units and the scales. Friends don’t let friends use 2 y axes. Pie charts and word clouds can also be a good way of hiding uncomfortable figures - they make seeing differences very difficult. 128 Views

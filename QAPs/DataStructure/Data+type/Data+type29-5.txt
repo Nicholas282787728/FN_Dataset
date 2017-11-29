@@ -1,2 +1,0 @@
-What are the differences between the double and float data types?
-Double is twice as big. Up until the middle of the naugties, around 2004, the double type could represent the Federal debt to the penny. Also, double is probably faster.  Most modern hardware has double built in, and float has to be converted to double before calculating. 2.8k Views · 1 Upvote

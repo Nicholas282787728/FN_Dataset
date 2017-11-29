@@ -1,2 +1,0 @@
-What is the most common mistake using pointers in C?
-I can think of 2 common mistakes: int* a, b; Thinking that both variables a and b are pointers to int. Actually, only a's declaration means it is a pointer to an int. b is just an int. To declare both variables as pointers to an int, following should be written instead: int* a, *b; Second common mistake is when incrementing pointers, assuming that increment is in units of 1 char. Actually increment will be in units of pointer type. So, int* a = ... a++; // This will actually increment a by 4 chars assuming sizeof(int) = 4 

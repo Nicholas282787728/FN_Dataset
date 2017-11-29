@@ -1,2 +1,0 @@
-★What are the interview questions on regression modeling?
-I was once given a regression output and asked to explain it in technical and lay terms. This was a great question as it was testing my knowledge, ability to communicate and whether I would ask the right questions where I didn't have enough information to interpret something.    Embed Quote

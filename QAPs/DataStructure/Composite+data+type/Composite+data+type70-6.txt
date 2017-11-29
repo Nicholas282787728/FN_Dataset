@@ -1,2 +1,0 @@
-What data structures should I know to become a great programmer?
-Ordered sets come up a lot in practice. Having set of records ordered ascending or descending, for example. Balanced trees are very useful data structure for this. Some of them are aa, avl, splay, red black and so on. For more details have a look here Data Structure Visualization. 

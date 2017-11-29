@@ -1,1 +1,0 @@
-Which data type should I use for storing n=10^14 in C?You can use long long or unsigned long long(for positive values) integer data types for storing such large numbers. A long long integer is supposed to hold a 64- bit value. I guess this will solve your problem. 41 Views  Answer requested by Prerana Babbar

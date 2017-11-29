@@ -1,2 +1,0 @@
-★What's the best URL shortener for brands / corporations?With the landscape evolving from cli.gs to http://bit.ly pro, awe.sm, and budURL.com and others-- what is best from a feature standpoint? what's the most secure? (here's an outdated roundup for info! http://selnd.com/hWBNIo)
-I prefer Google's shortener (https://www.google.com/accounts/...), but http://bit.ly is very nice as well. Don't forget to add metrics you would like to measure via the Google URL builder: http://www.google.com/support/go...    Embed Quote

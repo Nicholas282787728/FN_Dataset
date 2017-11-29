@@ -1,2 +1,0 @@
-★What is greatest advantage of using linked lists over arrays?
-The greatest advantage of linked list over arrays is that the size of the array is fixed while a linked list uses dynamic memory allocation. The dynamic allocation of memory allows flexibility in the size of the data structure thereby not imposing an upper limit or advance knowledge about the number of elements we want to store.    Embed Quote

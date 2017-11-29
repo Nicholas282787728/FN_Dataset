@@ -1,2 +1,0 @@
-★Why does plugging two ends of an ethernet cable into a router cause it to crash?
-The ethernet protocol, unlike IP, has no concept of a time to live, which means that it's possible for two devices to forward the same packet back and forth indefinitely. As new frames get added that get bounced back and forth forever, eventually there as so many frames in flight that the link saturates and no other data can pass. By contrast, IP packets have a time-to-live value that is decremented at each forwarding hop, so in a looping situation the packets will eventually get dropped.

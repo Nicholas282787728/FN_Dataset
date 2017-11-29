@@ -1,2 +1,0 @@
-How can a linked list or tree data structure be saved in memory permanently as a database?
-To be able to reconstruct the linked list across different runs of your application, you need to store the data on a non-volatile storage device, read it at the start of every run and rebuild the last instance of the structure. 

@@ -1,2 +1,0 @@
-What's the size of char, int and float data types?
-Compiler and system dependent. If the system is 64 bit then generally the integer happens to be of  32 bit if the compiler supports 32 bit. likewise for other datatypes. Check the datatype size in your system by running the following code in C compiler: main(){ printf("%d\n",sizeof(int)); printf("%d\n",sizeof(char)); printf("%d",sizeof(float)); }... (more)

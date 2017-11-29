@@ -1,2 +1,0 @@
-How do I calculate the number of edges in a complete graph?wiki says n(n-1)/2 Complete graph But how do I calculate it?
-Assume, graph have (n - 1) vertex.  The number of edges are given by a function f (n).  When you add the nth vertex, you added (n - 1) new edges. Recurrence relation follows, f (n) = (n - 1) + f (n - 1) f (0) = 0 Solving this recurrence relation will give you, f (n) = n * (n - 1) / 2 

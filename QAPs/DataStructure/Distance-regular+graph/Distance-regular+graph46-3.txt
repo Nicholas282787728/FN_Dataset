@@ -1,2 +1,0 @@
-What are the good ways to learn Data Structures?
-You can go for CS50 course by Harvard university at edx.org. This course will not only make you understand algorithms and data structure but will also Give you  better understanding of advance computer programming concepts. Alternatively, if you are specifically looking for DS tutorials then try Algoriths part 1 and part 2 on coursera.org. Data structure tutorials direct download link : Lets 'Share n Care' only on jabweshare..... Updated 11w ago • View Upvotes • Asked to answer by Anonymous

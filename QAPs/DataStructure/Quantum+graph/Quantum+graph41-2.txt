@@ -1,2 +1,0 @@
-Is there a lot of math in computer science?
-if you are doing artificial intelligence or theoretical computer science, yes there are a lot of math. however, the vast majority of people with computer science training do something else, without much math. 

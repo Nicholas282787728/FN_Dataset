@@ -1,1 +1,0 @@
-Can a linked list traversal run-time do better than O(n) - linear run-time?Can a linked list traversal run-time do better than O(n) - linear run-time? Unless you are using some form of parallelism, you can't traverse any data structure in less than O(n) time. After all, you need to process each element; that's n right there. 167 Views

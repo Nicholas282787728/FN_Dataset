@@ -1,2 +1,0 @@
-★Is Ethernet faster than wireless?this gig I have wants me to connect via ethernet to my router. I do it, but it's kinda a pain. Is connecting via ethernet significantly faster?
-Yes, Ethernet is always faster than a wireless connection.If you are using a desktop , connect the ethernet directly to your PC . Here's a link which you might find interesting and would help you decide.  m.digitaltrends.com/computing/wi-fi-vs-ethernet-has-wireless-killed-wired/

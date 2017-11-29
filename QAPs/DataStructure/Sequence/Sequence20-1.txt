@@ -1,2 +1,0 @@
-Number Sequence: Given the sequence: 1,3,7,13,21,31,43 ... which number stands in place 1001?
-The series is Nth term is [N * (N-1)] + 1 For example N =1, Nth term is 1 N =2, Nth term is 3 N =3, Nth term is 7 And so on... Therefore for N=1001, Nth term is 1001001 

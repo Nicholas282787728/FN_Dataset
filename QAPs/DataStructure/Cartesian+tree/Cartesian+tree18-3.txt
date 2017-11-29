@@ -1,2 +1,0 @@
-Where can I find topic wise algorithmic problems?
-There are many problem classifiers available. One that I know of is Virtual Online Contests I would also recommend doing some course on algorithms as it will give you some structure to study the material Some available courses are Introduction to Algorithms 

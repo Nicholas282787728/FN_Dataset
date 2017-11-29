@@ -1,2 +1,0 @@
-What are the pros and cons of using a hash index instead of a B-tree index?
-If all you need are lookups, hash will give the best performance - O(1). With Btree you can do more: -lookup/find - O(log n) -max, min, predecessor, successor - O(log n) -nth biggest/smallest element - O(log n) -rank (no of elements greater or less than a specific value) - O(log n) -sort - O(n) Thank you for your feedback! Your response is private. Is this answer still relevant and up to date? YesNo 2.3k Views · 3 Upvotes

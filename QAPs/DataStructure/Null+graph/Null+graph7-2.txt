@@ -1,2 +1,0 @@
-What is the best way to build, update and store a trie dictionary?
-I have built a simple Trie in Java here: http://exceptional-code.blogspot... You can modify it to take inputs from a text file or from stdin. 

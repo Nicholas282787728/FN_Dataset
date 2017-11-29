@@ -1,1 +1,0 @@
-★How do DNS clients decide which DNS host to query?

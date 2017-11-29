@@ -1,2 +1,0 @@
-★Do Play Framework support comet?I mean 2 way channel communication as Tornado?
-I just created a demo application and wrote a blog post about Play! and WebSockets - check it out: http://geeks.aretotally.in/webso.... Source code is available on Github.

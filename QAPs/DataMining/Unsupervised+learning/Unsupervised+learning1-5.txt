@@ -1,2 +1,0 @@
-★Which machine learning algorithms effectively combine supervised and unsupervised learning?What ML algorithms beyond Restricted Boltzmann Machines and similar deep learning effectively combine learning from both labeled and unlabeled data
-I believe Robert Hecht-Neilson's Counterpropagation artificial network qualifies, as it combines a Kohonen network (self-organizing) with an outstar layer.    Embed Quote

@@ -1,2 +1,0 @@
-★How do convolutional neural networks work?Especially, what kind of benefits does convolution give you?
-please, I have a problem with this ufldl example , my problem concentrated in that the gradient check gives me error. the weights in the convolutional layer is correct compared with the weights computed numerically. but the pooled layer weights aren't corrected could any one help me    Embed Quote

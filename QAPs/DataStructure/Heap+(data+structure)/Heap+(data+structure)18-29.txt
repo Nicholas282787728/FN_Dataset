@@ -1,2 +1,0 @@
-What are the top 10 algorithms every software engineer should know by heart?
-Never, ever, know ANY algorithm by heart. Always try to GROK them i.e. understamd them in an intuitive manner, through : >flowcharts, >real life analogies >implementation using a language YOU are comfortable with, >realizing its time complexity i.e. BIG O >limitations and trade-offs >real life use-cases of the algo in industry. >most importantly, how to express your understanding to a 5-year old about that particular algorithm.... (more)

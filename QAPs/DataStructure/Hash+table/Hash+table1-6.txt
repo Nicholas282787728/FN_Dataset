@@ -1,2 +1,0 @@
-How would you implement a hash table in C from scratch?
-Let me Google that for you 231 Views · Answer requested by Anellena Santos

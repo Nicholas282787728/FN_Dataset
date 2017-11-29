@@ -1,2 +1,0 @@
-★What is the best online service for creating charts & graphs?
-plotly (https://plot.ly) is a free, online tool for making  and sharing publication-quality graphs. Here are some examples (the links open to interactive SVG versions of the images): Temperature data (linear fit with dates): https://plot.ly/~jackp/487 Dark and light solar cell IV curve (partial linear fit): https://plot.ly/~jackp/489 5th order polynomial fit: https://plot.ly/~jackp/490 (Disclosure: I'm one of plotly's co-creators)    Embed Quote

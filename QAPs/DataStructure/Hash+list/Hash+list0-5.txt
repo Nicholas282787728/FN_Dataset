@@ -1,1 +1,0 @@
-For performance, is it better to add each pair to a sorted  structure (eg., heap or AVL tree), or use an unordered structure (hash or  list) and sort at the end?I am constructing a large sorted list of key value pairs (sorted by  keys). Both seem like O(nlogn) to me (assuming a  decent sorting algo)

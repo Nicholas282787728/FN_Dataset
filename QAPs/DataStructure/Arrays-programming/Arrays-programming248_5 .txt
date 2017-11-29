@@ -1,1 +1,0 @@
-How can I write a code with 2 loops for this question?Take the example of the second 3. The search would only continue after it and it would get printed. You might try searching for matches right from the beginning for each element but that would be really naive approach. 203 Views  View Upvotes

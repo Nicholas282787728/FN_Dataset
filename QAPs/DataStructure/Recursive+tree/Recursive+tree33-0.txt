@@ -1,2 +1,0 @@
-How can make a recursive level order insertion C++ for a string binary tree?
-There's  a trick. Pass a pointer to a pointer. Then you can pass a pointer to the left or right sibling, and the downstream code can just set it. 

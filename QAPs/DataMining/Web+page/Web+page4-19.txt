@@ -1,2 +1,0 @@
-★What is the difference between a PHP and HTML Web page?
-PHP can have all kinds of HTML tag and will display it along with the PHP logics and queries. It will render all the dynamic content from server too. But when it comes to HTML page, its just a framework and anything of PHP logics you write in it wont work at all.    Embed Quote

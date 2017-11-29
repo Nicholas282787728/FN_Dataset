@@ -1,2 +1,0 @@
-★How is the Standard Error of the Regression in the same units as the dependent variable?
-You forgot one term of your formula: SER=Sqrt(SSR/n-2).    Embed Quote

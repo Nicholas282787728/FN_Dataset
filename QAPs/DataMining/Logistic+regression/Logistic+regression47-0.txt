@@ -1,2 +1,0 @@
-★Is there a CTR prediction example with code implementation using like Logistic Regression?I want to make a implementation of some algorithms using the ipinyou dataset from iPinYou：Global DSP Bidding Algorithm Competition. But as i don't have any experience on machine learning projects , i want to find some examples.Any answer is appreciated.
-summit it just now,,simple lr code for kaggle,just simple,still need lot of preprocess maxiao001/logistic_regression-for-ctr-predict    Embed Quote

@@ -1,2 +1,0 @@
-What data type should I use for n=10^18?
-it depends, do you need fractional parts?   Do you need exact results? a 64-bit integer will be more than enough to represent 10^18 as an exact integer. a 64-bit real, often called a "double", is NOT large enough for that, but it can represent fractional parts, and give you 15 digits of precision. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 1.4k Views

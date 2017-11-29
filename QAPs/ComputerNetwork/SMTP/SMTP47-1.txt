@@ -1,2 +1,0 @@
-★Does SMTP relay process need any authentication from server to server?
-This depends on the setting of course. A regular SMTP relay on an ISP for example does not require authentication other filtering the IP addresses of the customers (usually, ie. my current ISP) But most other SMTP servers do require authentication, check out SPF.    Embed Quote

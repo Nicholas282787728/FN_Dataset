@@ -1,2 +1,0 @@
-What is the easiest way to implement a suffix tree data structure?
-Use a Trie, where you insert all suffixes of each string in the Trie. The construction will be O(N^2) time but it's easy to code. Btw, I think a question like that would be a terrible interview question. 

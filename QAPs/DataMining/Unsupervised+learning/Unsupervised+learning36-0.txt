@@ -1,2 +1,0 @@
-★Is there a relationship between unsupervised learning and non-parametric statistics?
-Not really.  While the most common unsupervised learning method is (I think) cluster analysis and that is non-parametric, that's more happenstance than any deep relation. Note Tanmoy Mukherjee 's comment. Cluster analysis is usually non-parametric these days, but there can be and has been parametric cluster analysis.    Embed Quote

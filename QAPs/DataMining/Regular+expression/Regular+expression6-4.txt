@@ -1,2 +1,0 @@
-★What are the best resources for learning regular expressions?
-For learning by doing, get a small Perl installation such as DWIM Perl for Windows and read [Chapter 6] Pattern Matching in the Perl Cookbook.  Then write some file scanning scripts, e.g. screen-scraping your profile page(s) on Quora.    Embed Quote

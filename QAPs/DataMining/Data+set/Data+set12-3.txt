@@ -1,2 +1,0 @@
-★Why is it that, in many data sets, there are about six times more numbers starting with the digit 1 than with the digit 9?
-Intuitively, any value that grows exponentially (population, dow jones, etc) will exhibit this property independent of growth rate or initial value.  For example:  when the Dow is at 10,000, it has to double to get to 20,000 and knock that 1 off (umm yeah, still waiting for that event).  But when it was at 9,000 it only had to grow by 11% to knock off that 9.  Oh Dow 9,000, I hardly knew ye.    Embed Quote 

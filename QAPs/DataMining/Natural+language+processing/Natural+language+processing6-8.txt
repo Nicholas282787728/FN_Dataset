@@ -1,2 +1,0 @@
-★What are the available APIs for NLP (Natural Language Processing)?What are the (open and commercial) available APIs for doing Natural Language Processing?
-I'm surprised noone has added uClassify to the list. uClassify let's you evaluate text across multiple axes by creating classifiers and then training them by giving sample texts. They also have a few public classifiers such as sentiment analysis, topic classification etc. Check it out at free text classifier web service    Embed Quote

@@ -1,2 +1,0 @@
-What's the best analogy to explain binary search trees to a layman?
-Try this. Not a BST but a natural complete binary tree: On a serious note, I have tried to explain this in my answer here. Try reading it, till you hit binary search tree: Pawan Bhadauria's answer to How do I start learning or strengthen my knowledge of data structures and algorithms? 

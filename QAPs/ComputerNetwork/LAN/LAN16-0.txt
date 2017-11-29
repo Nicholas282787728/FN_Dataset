@@ -1,2 +1,0 @@
-★How do I build a LAN search tool using Python?
-If you're looking forward to build a tool which will search LAN then you may want to know about the Scapy & Twisted packages in Python. They both have excellent documentation followed by an interactive tutorial to help you along.    Embed Quote

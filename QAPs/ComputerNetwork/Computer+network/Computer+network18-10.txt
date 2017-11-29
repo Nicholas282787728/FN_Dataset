@@ -1,2 +1,0 @@
-★Skyfall (2012 movie): Why would Q attach the computer of a known cyberterrorist to the MI6 computer network?Is he the worst digital forensics investigator in history?
-Because it was necessary for the plot. Of course "in real life", nobody would do that. Air gaps (at the least) standard practice in situations like that.

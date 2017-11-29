@@ -1,2 +1,0 @@
-What is the best way to scrape data from a website?
-Hello, Prisync.com  is an Online Price Tracking Software and it uses data scraping techniques.  Service itself is a SaaS solution mainly for Online Retailers,E-commerce Companies, Brands and Distrubitors. It provides all you need about your price competitiveness. It tracks the prices and stock availabilities of products in one of the most frequent ways and sends notifications when there is a change in competitors' prices or  in the market.    Embed Quote 

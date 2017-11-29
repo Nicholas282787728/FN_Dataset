@@ -1,2 +1,0 @@
-Which CS areas have the most low-hanging fruit for research?
-Almost certainly HCI. The "surface area" of HCI is much larger than other sub-disciplines since it involves a much wider ranging scope of questions. I've known second year undergrads who have tackled and solved open questions in HCI. 

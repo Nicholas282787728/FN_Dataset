@@ -1,2 +1,0 @@
-★If I want to provide gigabit Ethernet connection to 1000 users, is it better to use a single business class router which is expanded via Ethernet switches or Is it better to use multiple routers?
-For my money, you probably want both: router interfaces are expensive, but provide manageability. Switch ports are cheaper, but are a management nightmare at scale. I would optimize to provide N user ports via a switch per single router port. Vary N based on budget and performance requirements, but 100-200 would probably be a good starting point.

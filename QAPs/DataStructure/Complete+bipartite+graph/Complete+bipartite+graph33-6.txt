@@ -1,2 +1,0 @@
-Why is divisibility by two (even/odd) considered an important quality for numbers? Why not divisibility by 3? Or 17?
-As the only even prime number, it shapes the way we see all other numbers (factorized). This is an abstraction that results from splitting physical objects. Before you can divide something whole into 3 or more pieces, it has to become 2 (uneven) pieces first. As long as there is division taking place at all, evenness is like checking the horizon for balance. 

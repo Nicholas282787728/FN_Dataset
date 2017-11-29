@@ -1,1 +1,0 @@
-What are some interesting applications of De Morgan's laws?One of the most interesting applications. by applying De Morgan's law on logical gates you can build any logical circuit using only NAND gates. the transformation could used as follow: NOT x => x NAND x x AND y => NOT ( x NAND y) x OR y => [NOT(x)] NAND [NOT(y)] 283 Views  View Upvotes

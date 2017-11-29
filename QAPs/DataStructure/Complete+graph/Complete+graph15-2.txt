@@ -1,1 +1,0 @@
-What is total number of edges in a completed graph when it contains 10 nodes?

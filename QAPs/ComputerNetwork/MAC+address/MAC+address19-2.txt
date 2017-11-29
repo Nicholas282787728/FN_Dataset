@@ -1,2 +1,0 @@
-★Computer Hacking: Is it possible to change MAC address?If yes then how?
-It depends on your network interface. If that allows for the changing of the MAC address, then it's possible.. How it's done also depends on your specific network interface and often also what os you have installed. Find out what interface chip set is installed on your system, do a Google search to find the utility you need for changing the MAC address on your specific machine. Install it and off you go    Embed Quote

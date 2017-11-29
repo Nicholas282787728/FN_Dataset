@@ -1,2 +1,0 @@
-If complex numbers are just imaginary and an assumption, why are they necessary to solve other problems?
-All numbers are imaginary. 

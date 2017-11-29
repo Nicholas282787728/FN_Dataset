@@ -1,1 +1,0 @@
-What kind of data structure is being used by large games like GTA to store the game map data?

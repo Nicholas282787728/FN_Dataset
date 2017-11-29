@@ -1,2 +1,0 @@
-★When and why is  naive bayes classifier a better/worse choice than random forest  classifier?
-Always worse.    Embed Quote

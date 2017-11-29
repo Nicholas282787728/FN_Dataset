@@ -1,2 +1,0 @@
-What are some basic programming questions asked in IT interviews? What are some questions from C, C++, Java, and data structures (top 50 questions)?
-You can't fake your way through a coding interview.  Even if you memorize the answers to the top 50 questions, they can just ask "why", and then your charade is revealed.  Or they can ask you to sketch out a hash or sparse array implementation, and you're stuck. 

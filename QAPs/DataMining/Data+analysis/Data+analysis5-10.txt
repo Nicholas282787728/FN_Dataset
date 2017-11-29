@@ -1,2 +1,0 @@
-How do I learn data analysis for Python?
-Of all the tutorials I've seen I liked this the most. SciPy 2013 :: Tutorials But its more about learning by doing. So i would recommend you to just start google + code in python what you have been doing in R or any other language. Start directly with pandas,  or scipy they have very R like and efficient data structures for fast panel data operations(infact pan(el) da(ta) s got its name for the same reason).    Embed Quote 

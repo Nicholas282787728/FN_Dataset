@@ -1,2 +1,0 @@
-What are some examples of graphs with an infinite number of vertices?
-is a graph (specifically, a path) with vertex set V = set of all lattice points in R^2 starting at the origin. The path is (0,0)->(1,0)->(1,1)->(0,1) etc 

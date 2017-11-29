@@ -1,2 +1,0 @@
-How do I design an auto-complete feature for a string database with a billion or more entries?
-Of-course Trie is the way to go but space efficiency can be achieved by using Ternary search tree , Google uses Patricia tree with lot other optimization in the algorithms. 

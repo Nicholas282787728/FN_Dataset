@@ -1,1 +1,0 @@
-What does it mean for B+ trees to have high fanout?Fanout refers to the number of children for an internal node. High fanout would make the tree bushy and hence have a low height. Since the time to operate on a B+ tree is proportional to the height of the tree, a high fanout would make the tree more efficient 

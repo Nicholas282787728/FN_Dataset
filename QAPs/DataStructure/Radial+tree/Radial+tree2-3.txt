@@ -1,2 +1,0 @@
-What are most important Machine Learning algorithms?
-Naive Bayes 

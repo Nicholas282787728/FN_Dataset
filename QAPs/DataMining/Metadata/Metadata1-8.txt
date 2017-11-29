@@ -1,2 +1,0 @@
-★What's the difference between master data and metadata?
-Metadata has traditionally been data about data.  Master data refers to the corporate information assets which were managed in ERP, by a distinct group of users who must show a burden of proof on all customers where revenue will be reported.    Embed Quote

@@ -1,2 +1,0 @@
-Can you help me solve e x =1−x  ?
-Y=e^x+x-1 Y'=e^x+1 >0 Y is continuous and always increasing Y(-Inf)=-Inf Y(Inf)=Inf. Therefore, exactly one real root. 

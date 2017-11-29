@@ -1,2 +1,0 @@
-★What is the state of the art in speech recognition? Are HMMs (Hidden Markov Models) still used both by the research community and companies?
-Page on microsoft.com (RNNLM) is the best speech recognition algorithm which is in use by many labs/companies. The latest popular algorithm (came out just this month) is DeepSpeech by Andrew Ng's team as mentioned in another answer .    Embed Quote

@@ -1,2 +1,0 @@
-★What are low-cost ways to implement wireless communication in embedded systems?
-Digi XBee Series 1 modules have consistently been the cheapest and easiest to integrate on my projects, however it can be cheaper and simpler to just use "dumb" RF modules like this unit: http://www.sparkfun.com/commerce... so long as data fidelity, speed, and range are not critical.    Embed Quote

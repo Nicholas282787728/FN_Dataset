@@ -1,2 +1,0 @@
-What techniques are useful for data mining financial time series?
-Handbook of Statistical Analysis and Data Mining Applications by Robert Nisbet, John Elder IV and Gary D. Miner (Jun 5, 2009) is a great text -- has a chapter on time series analysis.    Embed Quote 

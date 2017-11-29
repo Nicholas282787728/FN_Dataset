@@ -1,2 +1,0 @@
-★How dangerous is a DDoS attack?
-It is not dangerous as in the hacker doesn't get access to any of the data, but it cripples your website.   Estonia is a victim of a vicious DDoS attack in the 2006 I guess, the entire country's network was down since the country depends a lot  on Internet, almost everything online was brought to a screeching halt.

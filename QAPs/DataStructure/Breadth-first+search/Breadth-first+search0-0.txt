@@ -1,2 +1,0 @@
-How can one speed up breadth-first search?
-Have a look at Beamer et. al. "Direction-Optimizing Breadth-First Search": Page on Berkeley The basic idea is that if your frontier is very large, it is better to check all vertices in the graph one by one to see if they have neighbor in the frontier than by enumerating the neighbors of each frontier vertex (because it leads to many duplicate accesses). 

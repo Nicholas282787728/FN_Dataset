@@ -1,2 +1,0 @@
-Is this correct in showing that [math](0,0)\neq\vec{0}[/math] and [math](-1,-1)=\vec{0}[/math] given a set of ordered pairs and a definition for addition and scalar multiplication operations?
-Yes that is correct. You just need to show that the sum of (-1,-1) with a pair u in V is u. And you can do that exactly the same way you showed that (0,0) + (u1,u2) is not equal to (u1,u2) 

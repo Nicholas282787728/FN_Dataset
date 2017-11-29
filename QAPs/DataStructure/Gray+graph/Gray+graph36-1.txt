@@ -1,2 +1,0 @@
-What initiatives are there in building a social graph representing the history of ideas?
-Mike Love's Genealogy of Influence is one such effort.  His data was added to Freebase and enhanced by others so that it now contains over 50K influencers/influencees. https://www.freebase.com/influen... For more current figures, Google Scholar, Citeseer, and the various other citation network databases represents a view of influence seen through the lens of publication. Another view which has value is looking at people who won award in various domains. https://www.freebase.com/award 

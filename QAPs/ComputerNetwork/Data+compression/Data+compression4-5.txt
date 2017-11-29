@@ -1,2 +1,0 @@
-★Is data compression a dual of learning? If not, why?Just like the reverse version of MDL
-Compression is basically modeling + coding. Modeling is an intractable AI problem. So I'd answer that yes, it is a dual. A program that passes a Turing test would be an excellent compressor because of its understanding of the human language which will give it a very good way to predict text leading to excellent compression.

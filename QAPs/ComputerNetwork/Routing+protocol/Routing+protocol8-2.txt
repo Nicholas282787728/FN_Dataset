@@ -1,2 +1,0 @@
-★Why do we have MAC protocols and routing protocols?
-This is a far better explanation than I could give.  :) What is the exact use of a MAC address?    Embed Quote

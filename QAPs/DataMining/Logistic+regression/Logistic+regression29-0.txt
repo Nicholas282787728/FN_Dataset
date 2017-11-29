@@ -1,2 +1,0 @@
-★What are the differences between mixed effect logistic regression and multinomial logistic regression?
-Mixed effect logistic regression is a type of multilevel model. These models are used when the assumption that the data are independent is violated (e.g. repeated meaures, clustered data).  "Mixed effect logistic" would usually refer to cases where the outcome has 2 levels. Multinomial logistic regression is used when the dependent variable has more than two levels and they cannot be ordered.    Embed Quote

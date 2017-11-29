@@ -1,1 +1,0 @@
-How can I implement a simple locality sensitive hash function in C?Locality Sensitive Hash functions are widely used by top tech companies, but how can i implement a simple LSH technique in C just for fun. Really simple!

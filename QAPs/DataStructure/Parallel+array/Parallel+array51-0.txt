@@ -1,2 +1,0 @@
-Where can I find a programmer willing to teach an 11 year old to make video games?
-The two best way to learn to make games are (in my opinion) Minecraft modding and Game Maker (or something similar). I started with game maker when I was your age. Admittedly I went too far with it and tried to create a full blown render engine, but it taught me some of the fundamentals. Once you understand basic syntax, I would highly recommend Minecraft modding. As a way to understand object-oriented languages, I think it is unmatched. 

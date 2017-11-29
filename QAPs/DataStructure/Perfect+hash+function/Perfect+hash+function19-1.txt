@@ -1,2 +1,0 @@
-How do I use switch case if there are three letters inside the case?
-If you propose to use a switch/case construct I assume the set of combinations is fixed at compile time. One approach is to determine a Perfect hash function then map the results through that possibly using as switch/case structure or a more conventional hash-table. 

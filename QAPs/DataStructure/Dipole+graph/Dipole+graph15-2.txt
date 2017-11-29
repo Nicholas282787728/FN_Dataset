@@ -1,2 +1,0 @@
-Thermodynamics: Why does the H2O-Ethanol solution have less volume than the pure components?
-The reason that the increase is different is that the volume occupied by  a given number of water molecules depends upon the identity of the  surrounding molecules. The value 14 cm3 is said to be the partial molar volume of water in ethanol. Different in size of molecules leads to different packing density in mixtures as compared to pure solution. 

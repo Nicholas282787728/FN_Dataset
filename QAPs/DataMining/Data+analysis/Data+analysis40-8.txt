@@ -1,2 +1,0 @@
-What are some common fallacies or mistakes made by beginners in Statistics/Machine Learning/Data Analysis or they are prone to make?
-Overfitting might be the most common mistake..    Embed Quote 

@@ -1,2 +1,0 @@
-★Has anyone implemented a fully-featured email server (i.e., SMTP, IMAP & POP server) using Node.js?What are some of pros/cons when you come to Node.js and it's ecosystem?
-Yes, I have written an incoming/outgoing SMTP server and POP server in Node. Many of the existing email modules for Node have bugs or don't handle the myriad of protocol edge cases: MIME encoding/decoding, greylisting, retries etc.    Embed Quote

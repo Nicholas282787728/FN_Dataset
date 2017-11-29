@@ -1,2 +1,0 @@
-★What are the advantages of SIP for VoIP?
-The open standard SIP should be always preferred instead of proprietary locked down solutions such as Skype. In short: SIP doesn't have any disadvantage and you can implement everything over SIP. Everything depends on the software/platform you use.    Embed Quote

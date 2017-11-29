@@ -1,2 +1,0 @@
-What is being done to improve PHP?
-The people who generate the most hate toward PHP are basing what they know of it on PHP 5.2 or earlier. The language has come a LONG way in the last 5-6 years, and people need to separate themselves from their preconceived notions and give it a go again. I did, and it completely changed the way I look at PHP. 

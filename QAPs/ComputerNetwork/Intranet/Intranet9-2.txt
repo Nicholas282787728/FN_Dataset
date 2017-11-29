@@ -1,2 +1,0 @@
-★Why is Google's intranet system named Moma?
-Lots of close-but-no-cigar here in the answers, but to my (not, I have to say, first hand) knowledge it's because 'moma' was the name of the server the intranet was originally on. Servers were named after SF landmarks, I guess.

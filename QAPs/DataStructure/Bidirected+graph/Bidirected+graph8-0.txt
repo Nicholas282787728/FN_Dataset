@@ -1,2 +1,0 @@
-What are some tips, tricks and gotchas when using Dijkstra's algorithm for graphs?
--Be sure to fill the paths correctly. Bidirectional vs Unidirectional. -Be sure to iterate enough times to properly relax. -Use a fast heap data structure with O(logn) for lookups like <set> or fibonacci heap. 

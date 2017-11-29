@@ -1,2 +1,0 @@
-★How long can the burn in period be for markov chain monte carlo estimation (MCMC)?
-Try to lessen it or avoid it altogether.  This gentleman does a good explanation of how and why: Burn-In    Embed Quote

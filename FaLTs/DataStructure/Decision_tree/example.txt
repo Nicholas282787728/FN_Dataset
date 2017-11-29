@@ -1,2 +1,0 @@
-Analysis can take into account the decision maker's (e.g., the company's) preference or utility function, for example:
-The basic interpretation in this situation is that the company prefers B's risk and payoffs under realistic risk preference coefficients (greater than $400K—in that range of risk aversion, the company would need to model a third strategy, "Neither A nor B").

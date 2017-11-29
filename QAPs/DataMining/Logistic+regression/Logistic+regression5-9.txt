@@ -1,2 +1,0 @@
-★Why is the output of logistic regression interpreted as a probability?
-Because the sigmoid function forces the result to between 0 and 1, the same as the range of probability values.    Embed Quote

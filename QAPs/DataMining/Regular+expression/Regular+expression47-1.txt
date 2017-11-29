@@ -1,2 +1,0 @@
-★Regular Expressions (computing): What are the best resources for learning RegEx?
-Jan Goyvaerts is a widely recognized Regex expert.He put out a very helpful book a couple of years ago that makes Regex much more approachable. I use a tool he sells called Regex Buddy which can whip up regular expressions in a wide variety of dialects depending on which programming language you are using.    Embed Quote

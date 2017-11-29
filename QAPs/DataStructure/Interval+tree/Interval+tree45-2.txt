@@ -1,1 +1,0 @@
-What are some advanced data structures that one needs to be familiar with?After being familiar with the most common data structures such as queues and linked lists what are some really good data structures that would help build well optimized code.

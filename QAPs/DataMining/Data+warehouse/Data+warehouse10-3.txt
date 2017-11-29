@@ -1,2 +1,0 @@
-★What is the best data warehouse product/service for a startup?Should one build a bespoke architechture? Zoho Reports? Private SQL Server?
-Focus on business needs and expectations and not the technology Conduct an alternatives analysis Dont be swayed by the value drivers of vendors, but find your own true business value components partner with business stakeholders and actual users ina Key Decision Process Be scientifiic in your selection and not emotional    Embed Quote

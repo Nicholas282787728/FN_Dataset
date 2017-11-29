@@ -1,2 +1,0 @@
-Does the length of an antenna have any effect on the strength of a signal that can be transmitted/received?
-In so far as I remember, the length of the antenna is to do with frequency for purposes of wave propagation.  Strength of the signal is determined by the amplifier powering the antenna. 

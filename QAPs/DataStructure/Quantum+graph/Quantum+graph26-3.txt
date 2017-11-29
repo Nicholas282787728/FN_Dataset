@@ -1,2 +1,0 @@
-What would happen if my freezer temperature were absolute zero?
-You would void your warranty on your freezer;) Seriously: freezer technology is simply not designed to cool that much. You have to use very weird cooling technologies to get within milliKelvins of absolute zero. The Rankine cycle used in your freezer will not even get you down low enough to liquify nitrogen. 

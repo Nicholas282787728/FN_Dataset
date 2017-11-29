@@ -1,2 +1,0 @@
-What do people think of the TensorFlow sucks article?
-Life is short, I use PyTorch. Each time I start a script for debugging, tf takes 10~30 seconds to import and another 20~30 seconds to build the graph. Within tf, you will get redefined argparse, gzip, unittest, …, and lots of things. tf wants you to do all the thing inside itself, and I’m pretty sure that finally it will redefine Python. 60 Views · 4 Upvotes

@@ -1,2 +1,0 @@
-What are some programming languages commonly used in data mining, and why?
-Probably something you typically would not see in the mix is using .NET as a data mining language.  Especially if you consider that it is tightly integrated with Microsoft SQL Server OLAP cubes, Excel,  and can perform queries via an MDX SQL like query language.  It can also perform data mining algorithm such as clustering via calls to SQL Server Analytic Services.    Embed Quote 

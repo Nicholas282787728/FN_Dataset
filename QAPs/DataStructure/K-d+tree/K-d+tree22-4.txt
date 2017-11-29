@@ -1,1 +1,0 @@
-What are the techniques used to find nearest neighbor for large scale machine learning?

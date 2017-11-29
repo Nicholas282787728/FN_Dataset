@@ -1,1 +1,0 @@
-How do you find out if a linked-list has an end? (i.e. the list is not a cycle)Floyd Cycle detection algorithm with a good example: cycle detection algorithms PS: Watch till 3:10, and for further info on: How to find starting point of loop and its length, proceed further. 26 Views  View Upvotes

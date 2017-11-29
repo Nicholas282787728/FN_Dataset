@@ -1,1 +1,0 @@
-What is the difference between discrete and continuous random variables?One big difference is that a discrete random variables have nonzero probability values at specific points, whereas continuous random variable can adopt nonzero probability values only on intervals. 2.9k Views

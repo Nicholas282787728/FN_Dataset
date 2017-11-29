@@ -1,2 +1,0 @@
-How can I do a projection with a 100-dimensional vector to preserve the inner product?
-You can't. If you give me an inner product space, I can determine the dimension of the space as the maximum size of a set of vectors v 1 ,…,v n   such that ⟨v i ,v i ⟩=1  and ⟨v i ,v j ⟩=0  .  Consequently, if you have a space that preserves the inner product structure of a 100-dimensional space, that space is at least 100 dimensional! 

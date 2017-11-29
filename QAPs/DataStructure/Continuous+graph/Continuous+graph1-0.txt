@@ -1,2 +1,0 @@
-What is discrete math?
-From MathWorld;  "Discrete mathematics is the branch of mathematics dealing with objects that can assume only distinct, separated values. The term "discrete mathematics" is therefore used in contrast with "continuous mathematics," which is the branch of mathematics dealing with objects that can vary smoothly (and which includes, for example, calculus). Whereas discrete objects can often be characterized by integers, continuous objects require real numbers." 

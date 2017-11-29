@@ -1,2 +1,0 @@
-What are the real world applications of some advanced data structures?
-Originally Answered: What are the real world applications of data structure and advanced data structure?fast databse lookups (for example would you tolerate 5+ mins for this site to find anything)?  for advanced stuff the applications get even greater like facebook and all other social nets are impossible without a knowledge of graphs. 

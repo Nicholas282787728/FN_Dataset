@@ -1,2 +1,0 @@
-How do you judge a JavaScript programmer by only 5 questions?
-Explain closures and scope rules. Explain why "self" is needed instead of "this". Explain how to write class methods vs instance methods. Explain some/any class derivation techniques. Explain some/all of the methods of "Object" (Object.create, Object.defineproperty, Object.prototype). 

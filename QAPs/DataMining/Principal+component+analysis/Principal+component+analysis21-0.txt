@@ -1,2 +1,0 @@
-★What is a good ratio between samples and features for principal component analysis learning?
-It depends on your primary interest but a good rule of thumb is #cases > 10*#features.    Embed Quote

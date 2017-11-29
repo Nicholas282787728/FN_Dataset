@@ -1,2 +1,0 @@
-What are the most popular computer programming jokes?
-True story:  I recently told a colleague that Bjarne Stroustrup, the author of the C++ language, once said that “C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off” (Stroustrup: FAQ). Without missing a beat, my friend realized, “Well, actually, it blows off every subclass of Appendage.” 11.8k Views · 40 Upvotes

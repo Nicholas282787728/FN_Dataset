@@ -1,2 +1,0 @@
-★Is the address of variables printed in a C program Physical address or a Logical address?
-It depends on the type and runing mode of your CPU. The most time it is logic address.However Some small CPU do not support logic address. Some CPU use physical address on bootup stage, so some bootloader writed by C will use physical address, and of course the pointer printed as physical address on the screen.    Embed Quote

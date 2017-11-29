@@ -1,2 +1,0 @@
-How do you solve tree problems using DFS, BFS and recursion?
-A depth first approach would do the following: For each child it would call itself passing the child or child reference as input Perform some function Return A breadth first approach takes that from side to side before going down. 

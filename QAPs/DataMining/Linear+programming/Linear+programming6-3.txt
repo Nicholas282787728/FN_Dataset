@@ -1,2 +1,0 @@
-★What are some good resources to learn about linear programming?
-If you are looking to apply linear programs as a modeling paradigm, The ampl book by Robert Fourer is a great book. For algorithms you can any of the above books listed. The one I had used was the classic text by chvatal which does not cover interior point methods for linear programs. For ipm you can look at any of the classical barrier methods introduced by    Embed Quote

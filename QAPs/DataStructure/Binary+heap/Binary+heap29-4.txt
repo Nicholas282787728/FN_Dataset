@@ -1,1 +1,0 @@
-How do you explain the difference between a heap & a red-black tree to someone learning data structures for the first time?

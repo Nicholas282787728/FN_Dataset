@@ -1,2 +1,0 @@
-★What's an SMTP server that has a reliable deliverability for personal emails?
-For personal email I've used AuthSMTP quite a bit and never really had any issues with it. See Outgoing authenticated SMTP server and email relay service (solves most SMTP and email relay errors).    Embed Quote

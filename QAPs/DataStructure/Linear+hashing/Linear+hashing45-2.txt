@@ -1,2 +1,0 @@
-How do I count the number of subarrays (contiguous) with sum zero using DP?
-Maintain continuous sum and if the value matches it means there were some elements which cancelled out each other. Let me take your array as an example: A = {-2, -1, 0, 1, 2} s[0] = 0 s[1] = 0 + -2 = -2 s[2] = -2 -1 =-3 s[3] = -3 + 0 = -3 s[4] = -3 + 1 =-2 s[5] = -2 + 2 =0 So, we have below sum array whose value matches s[0] & s[5]  -- you can see from 1 to 5th index the sum is 0 s[1] & s[4]  -- from 2 to 4th index the sum is 0 s[2] & s[3] -- from 3 to 3rd index the sum is 0 Enjoy!! 

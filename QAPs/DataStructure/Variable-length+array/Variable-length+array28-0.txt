@@ -1,2 +1,0 @@
-What is the difference between a GCC compiler and a Turbo C compiler in term of their syntax usage?
-Turbo C is even older than the oldest C standard (C89/90), so there are many things Turbo C doesn't follow the standard or doesn't support. GCC supports C99 and has many more features. Turbo C doesn't have long long or complex type, no variable length arrays... You can see C99's new features here C99 Updated 66w ago • View Upvotes

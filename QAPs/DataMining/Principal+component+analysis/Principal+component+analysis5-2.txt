@@ -1,2 +1,0 @@
-★Principal Component Analysis: What is the intuitive meaning of a covariance matrix?If a matrix is a linear operator that transform space in a certain way, what transformation does a covariance matrix produce?
-It is related to certain quadratic forms, particularly in the multivariate Gaussian, where the inverse covariance matrix is crucial. PCA could be thought of as seeking a low rank approximation of it. I highly recommend: http://www.multivariatestatistic... It has a treatment based on the singular value decomposition.    Embed Quote

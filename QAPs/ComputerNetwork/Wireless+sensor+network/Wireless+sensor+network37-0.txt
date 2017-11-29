@@ -1,2 +1,0 @@
-★How can we use swarm intelligence in a wireless sensor network?
-Swarm intelligence techniques such as Ant Colony Optimization, Bees Colony Optimization, Bat Algorithms, etc can be used in WSN for finding the best route between source and destination.    Embed Quote

@@ -1,2 +1,0 @@
-What are some modern day applications of classification in data mining?
-Clutersing news based on the topics in Mobile application and websites example Pulse. Prediction Problems. Clustering Answers based on the topics Example Quora. Image classification for automatic story telling. Document classification . CLUSTERING AND CLASSIFICATION: DATA MINING APPROACHES Data mining: Classification and prediction 

@@ -1,1 +1,0 @@
-Which data type should I use for storing n=10^14 in C?You can use “gmp” or GNU Multiple Precision Arithmetic Library. It can be used to store and manipulate very large numbers in both C and C++ programming languages. You can read more about it and how to use it here: The GNU MP Bignum Library 83 Views · View Upvotes

@@ -1,1 +1,0 @@
-How do you implement breadth first search on a binary tree using just recursion and no explicit data structures such as a queue, stack, list etc.?

@@ -1,2 +1,0 @@
-★What is a good write up on principal component analysis or similar methods?
-Check out the chapter 12,"Continuous Latent Variables" from Pattern Recognition and Machine Learning, Bishop.    Embed Quote

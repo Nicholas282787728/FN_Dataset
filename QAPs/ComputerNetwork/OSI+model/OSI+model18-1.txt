@@ -1,2 +1,0 @@
-★What is a good document which describes all seven layers of the ISO / OSI model with examples of content at each layer?Preferably with illustrations, please :)
-Wikipedia has a fairly good article with concise information about the workings of each layer as well as the typical network hardware and protocols that operate on the 7 layers. OSI model This article in the Cisco Learning Network also explains it with a good amount of details: Cisco Learning Network Mobile Hope this helps.    Embed Quote

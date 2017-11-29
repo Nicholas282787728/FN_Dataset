@@ -1,2 +1,0 @@
-★Why would HTTP long-polling be used instead of HTTP Streaming to achieve real-time push notifications?
-The biggest challenge we faced when implementing HTTP streaming using chunked HTTP response is that there is basically no way for JavaScript to get a chance to get notified after a piece of data is returned. Using JSONP doesn't solve the problem either, the . The JSONP function calls returned by server simply don't run before streaming is finished. I heard that using iframe can solve part of the problemproblem partially, but IMO it's too much of a hack.

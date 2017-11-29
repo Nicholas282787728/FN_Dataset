@@ -1,2 +1,0 @@
-What graph topics should I study in order to be adequately prepared for a Google Software Engineer interview?
-Irrespective of Google & Interviews, Adding other interesting questions to the list : - Counting the number of triangles in a Graph - Max Flow in graph - Graph Partitioning 

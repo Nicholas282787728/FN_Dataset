@@ -1,1 +1,0 @@
-Why are there no web services offering breadth-first searching for flight information?

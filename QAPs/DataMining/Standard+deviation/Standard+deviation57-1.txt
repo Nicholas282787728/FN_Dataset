@@ -1,2 +1,0 @@
-★What does a standardized normal distribution of mean 0 and standard deviation 1 mean?
-It means there's a bell shaped distribution of numbers. The average of those numbers is zero. A std dev of 1 means that about 2/3 of the numbers will be between -1 and +1    Embed Quote

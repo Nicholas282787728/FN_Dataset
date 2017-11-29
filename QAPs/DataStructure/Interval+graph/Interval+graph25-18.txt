@@ -1,2 +1,0 @@
-What are some of the most counterintuitive mathematical results?Like cantor's results on infinities, the rearrangement theorem in analysis
-In many data sets, there are about six times more numbers starting with the digit 1 than with the digit 9. Known as Benford's Law( http://en.wikipedia.org/wiki/Ben...), it seemed counter-intuitive at first. More detailed explanation about this phenomenon is given here: Why is it that, in many data sets, there are about six times more numbers starting with the digit 1 than with the digit 9? 

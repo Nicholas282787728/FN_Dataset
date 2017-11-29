@@ -1,2 +1,0 @@
-★How can I configure static DHCP on a Netgear WNDR3400v3?
-you question doesn't make sense. DHCP = dynamic - adresses automatically and can change (depending on configuration, timer)  and static is an address you physically input and it remains constant

@@ -1,2 +1,0 @@
-★How do IIT'ians download stuff from torrent by cheating the proxy server?
-I hope you are not sysadmin at IIT and planning to block the services which is used for cheating the proxy server. just kidding. There is possibility that people could use seedbox to download the torrent files to the seedbox, then downloading from seedbox directly. There are many of them.    Embed Quote

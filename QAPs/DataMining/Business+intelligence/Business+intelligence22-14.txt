@@ -1,2 +1,0 @@
-Is data analytics/business intelligence a good career option for me?
-You're speaking about your logical capabilities. Learning basics wont be enough. You have more things to learn. You have to add more skill sets. The programming world is more than the RDBMS. Now, we are in the age of NoSQL. You don't need worry about all those things. Learn all the necessary skills. My personal suggestion would be - learn big data concepts and hadoop. You'll be way out of the league !    Embed Quote 

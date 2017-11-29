@@ -1,2 +1,0 @@
-What is the most esoteric programming language that you have tried?How did you learn about that programming language? What made you try programming using that language? Did you like programming using that language? Describe your experience.
-PDP 11 macro language. Esoteric only because of age. It was pretty easy to use, but now qualifies as very obscure. My high school had an Intergraph mainframe, and it was more fun than the Apple or Commodore microcomputers we also had. 

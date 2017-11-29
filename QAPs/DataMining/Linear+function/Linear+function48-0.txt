@@ -1,2 +1,0 @@
-★Support Vector Machines: How does going to higher dimension help data get linearly separable which was non linearly separable in actual dimension?
-One or more of the additional dimensions may create distance between the classes that can be modeled with a linear function. This is best explained with a visual example: Data that is not linearly separable in two dimensions... (no single straight line can separate blue and red dots) ...may be linearly separable in three dimensions. (a vertical plane between the dots separates the colors)    Embed Quote

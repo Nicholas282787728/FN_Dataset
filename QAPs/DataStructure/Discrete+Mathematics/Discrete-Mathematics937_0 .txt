@@ -1,1 +1,0 @@
-What is graph theory in discrete mathematics?Yes and no. Depends on how you define discrete math. If you define it as anything that is not continues math (calculus) then it is. But in reality it really a part of abstract geometry which is neither classic discrete math or continues math. Abstract geometry leads into other interesting areas like topology. 156 Views

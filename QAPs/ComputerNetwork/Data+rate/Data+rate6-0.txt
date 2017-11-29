@@ -1,2 +1,0 @@
-★What's the data rate of Bluetooth 4.0 EDR?
-2.1 Mbit/s.

@@ -1,2 +1,0 @@
-★Should input data to logistic regression be normalized?Is it helpful to give columns zero mean and unit variance?  Any caveats here?  Theoretical explanations of why or why not are welcome.
-I try not to.  Interpretation of coefficients in logistic regression can be fairly complex since the coefficients represent changes in the logit, and not the dependent variable per se.  Normalizing the variables make it even more complicated and hard to explain    Embed Quote

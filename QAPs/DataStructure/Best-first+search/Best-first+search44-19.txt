@@ -1,2 +1,0 @@
-Where can I find large datasets open to the public?
-Socrata hosts open data websites for a number of governments, government agencies, and non-profits including: http://data.seattle.gov http://data.cityofchicago.org http://data.medicare.gov http://data.sunlightlabs.com http://www.datakc.org http://gettingpastgo.socrata.com http://data.govloop.com... (more)

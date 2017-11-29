@@ -1,2 +1,0 @@
-★Do any NoSQL databases store unstructured data in a way that is searchable?
-that is the idea of a database to store in a searchable way. mongodb can store in memory unstructured data very well, hp vertica's flex table can store unstructured data in a flextable (a json row with easily extractable column for fast use) mongodb can store and modify inside . others can't- just modify the main document search document database for more databases    Embed Quote

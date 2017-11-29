@@ -1,2 +1,0 @@
-★Which software solutions provide real-time ETL?
-The closest I've seen is Data Vault, but there's no such thing as real time. Very short latency perhaps but not real time.    Embed Quote

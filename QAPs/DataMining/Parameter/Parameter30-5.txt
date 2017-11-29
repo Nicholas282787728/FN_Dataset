@@ -1,2 +1,0 @@
-★In the C programming language, can a void function return any parameter?
-In some old compilers the void type is treated as int and will not be checked if you return a type accidentally. But this is frowned upon and leads to non-portability. There is one parameter (usually this word is interpreted as an argument of the function) that can be returned and that is if you pass an array to a void function. This is for efficiency reasons and us equivalent to passing a pointer to a variable.    Embed Quote

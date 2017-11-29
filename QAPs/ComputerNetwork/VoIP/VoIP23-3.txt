@@ -1,2 +1,0 @@
-★Which VoIP services offer high-quality voice?In Verizon FiOS: How clear is FiOS digital voice?, it is stated that FiOS uses the same compression algorithm as traditional landline service. Are there service providers who deliver better quality, ideally with both wider-band codec and some traffic policy / QoS
-For connection to a VoIP PBX with QoS (called SIP trunking) combined with a T1 or better, I've had good experience with bandwidth.com. Not combined with the broadband (so, quality will vary - more like using Vonage), check out http://www.voicepulse.com/    Embed Quote

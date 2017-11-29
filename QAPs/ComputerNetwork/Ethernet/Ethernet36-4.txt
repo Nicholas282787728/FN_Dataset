@@ -1,2 +1,0 @@
-★If your Mac has working Wifi and Ethernet, which does it prioritize?
-I would assume any wise developer would program such a protocol into the system as a decision maker using ifs and whens with their magic variables and constants

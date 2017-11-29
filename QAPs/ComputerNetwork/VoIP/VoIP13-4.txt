@@ -1,2 +1,0 @@
-★What are the advantages of SIP for VoIP?
-I think the best feature SIP has is the ability to modify it according to our need.SIP,to me is the most interesting protocols to study and the level of modification using SIP normalization or making changes to SIP profiles fascinates me the most    Embed Quote

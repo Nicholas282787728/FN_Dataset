@@ -1,2 +1,0 @@
-Which of the following grid dimensions would not allow the generation of a grid quadtree?
-Option 'A' would make life a pain. Because you will have to deal with fractional limits instead of integral when you keep subdividing. It is possible with any. Powers of 2 would be better for us. 

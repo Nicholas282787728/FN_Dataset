@@ -1,2 +1,0 @@
-★What SMTP server implementation does Google use for Gmail?
-Gmail uses its own custom SMTP server.    Embed Quote

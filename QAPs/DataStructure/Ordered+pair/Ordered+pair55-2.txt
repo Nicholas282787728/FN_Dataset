@@ -1,2 +1,0 @@
-How many pairs of X and Y is possible in the number f 763X4Y2 if the number is divisible by 9?
-Any number divisible by 9 should have the sum of its digits divisible by 9. (7+6+3+X+4+Y+2) mod 9 = 0 (4+X+Y) mod 9 = 0 => X+Y=5  is one condition--> You need to find the number of ordered pairs of X & Y which satisfy this   (6 pairs) => X+Y=14 is the second condition-->You need to find the number of ordered pairs of X & Y which satisfy this (5 pairs) Total: 11 pairs 

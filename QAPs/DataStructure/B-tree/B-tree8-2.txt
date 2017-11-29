@@ -1,2 +1,0 @@
-What are some real-world applications using B-tree?
-Dictionary - range queries, say if you want to find all entries where the key is between two values in a sorted order. For range queries like between XX and YY ( Trie is used for queries like word beginning by e.g ‘a’,’b’) to map folders/directories with a number of files that you see in the GUI. 3.1k Views · 2 Upvotes

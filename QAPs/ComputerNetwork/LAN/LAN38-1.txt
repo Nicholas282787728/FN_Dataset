@@ -1,2 +1,0 @@
-★Can I share speakers with another computer over LAN?
-Yes, you must "encode" your audio in real time trhough windows media encoder or so, then, over TCP/IP, open the stream you just opened and you're done. You may also want to research bluetooth A2DP e AVRCP, AirPlay, dlna and so on.    Embed Quote

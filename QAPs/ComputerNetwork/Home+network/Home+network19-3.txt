@@ -1,2 +1,0 @@
-★What is the best way to learn about OSPF in an inexpensive home network?
-Yes, you will need the IOS images for the Cisco routers.  Another thing about GNS3 is that it only supports routers.  It doesn't emulate switches at the moment.

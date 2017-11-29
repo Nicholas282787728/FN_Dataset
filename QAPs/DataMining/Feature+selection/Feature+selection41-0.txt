@@ -1,2 +1,0 @@
-★For a feature selection/dimensionality reduction problem, what's the difference between PCA, LDA, and the AdaBoost algorithm? Which is the best to use and why?
-PCA, unsupervised, reduces dimensions of features but doesn't keep the origin meaning of the features anymore . LDA, supervised, reduces dimensions by mapping data to a hyper-plane (so it will be linearly separable) and maximizing the ratio of between group variance and within group variance.    Embed Quote

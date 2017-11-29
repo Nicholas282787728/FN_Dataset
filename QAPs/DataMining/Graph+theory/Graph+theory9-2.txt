@@ -1,2 +1,0 @@
-★What are some good books for self-studying graph theory?
-To add to Alon Amit's answer. You might find these books useful if you are a Computer Science student wanting to understand graph theory: Graph Theory (Graduate Texts in Mathematics): Adrian Bondy, U.S.R. Murty: 9781846289699: Amazon.com: Books Graphs, Algorithms, and Optimization (Discrete Mathematics and Its Applications): William Kocay, Donald L. Kreher: 9781584883968: Amazon.com: Books    Embed Quote

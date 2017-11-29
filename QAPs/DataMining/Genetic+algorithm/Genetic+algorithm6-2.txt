@@ -1,2 +1,0 @@
-★What should every programmer know about genetic algorithms?
-Their applications are limited and one should try simulated annealing before trying genetic algorithms. They might also take a long time to arrive at a desirable solution. They don't have much mathematical backing.    Embed Quote

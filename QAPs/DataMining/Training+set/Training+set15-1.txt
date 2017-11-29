@@ -1,2 +1,0 @@
-★Why should PCA only be fit on the training set and not the test set?
-You can use all the data you have when you build a production system, if the data is scarce and you believe that the additional data will make a difference. You don't want to use the test set when you are designing, testing and refining your algorithm, as you would have no way of knowing how well the algorithm would generalize on new data.    Embed Quote

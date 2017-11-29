@@ -1,2 +1,0 @@
-★In Mathematica, how can I define an arbitrary probability distribution?I want an arbitrary function p[x] that integrates to 1 and for all x, 0 <= p[x] <= 1. Some kind of transformation rule?
-This is easy with the new Probability and Statistics functions in Mathematica version 8. Take a look at ProbabilityDistribution.    Embed Quote

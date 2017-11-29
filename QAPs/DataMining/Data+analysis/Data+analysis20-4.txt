@@ -1,2 +1,0 @@
-What's the best free data analysis and visualization software out there right now?
-MATLAB and Scilab are great tools for data analysis- with a good measure of data visualization too- especially if you're dealing with numbers (though they're not limited to numbers). You should take a look at Python too. Though this sort of stuff is probably not Python's core focus, it does have some good tools you can use- matplotlib, numpy/scipy. It's very nicely integrated with a number of libraries and can be well extended with numerous modules.    Embed Quote 

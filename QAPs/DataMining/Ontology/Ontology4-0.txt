@@ -1,2 +1,0 @@
-★What's the difference between an ontology and a taxonomy?
-the other answers are precise but probably a bit complicated for the non-expert... a shorter answer: taxonomy is usually only a hierarchy of concepts (i.e. the only relation between the concepts is parent/child, or subClass/superClass, or broader/narrower) in an ontology, arbitrary complex relations between concepts can be expressed too (X marriedTo Y; or A worksFor B; or C locatedIn D, etc )    Embed Quote

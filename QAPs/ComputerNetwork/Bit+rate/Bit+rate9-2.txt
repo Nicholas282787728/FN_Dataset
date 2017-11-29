@@ -1,2 +1,0 @@
-★What is the difference between throughput and bit rate?
-Bit rate (simplified) is the number of bits per second required to produce a given level of quality for a given media codec. Throughput is the rate of transfer one is able to sustain over a data link (which could be between two remote locations through the internet or a data bus internally in a computer). To achieve sustained playback (without skipping or buffering) of a media, effective throughput must be equal to or higher than the bit rate.

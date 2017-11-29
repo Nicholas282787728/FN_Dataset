@@ -1,2 +1,0 @@
-What are the trending research areas in computer networks?
-Software-defined Networks (SDN) is a growing research area and there is a lot of activities in the tool around it like opendaylight, OVS, mininet and others. 

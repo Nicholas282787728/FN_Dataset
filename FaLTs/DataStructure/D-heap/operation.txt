@@ -1,3 +1,0 @@
-To insert a new item into the heap, the item is appended to the end of the array, and then while the heap property is violated it is swapped with its parent, moving it upward in the tree and earlier in the array, until eventually the heap property is satisfied. The same upward-swapping procedure may be used to decrease the priority of an item in a min-heap, or to increase the priority of an item in a max-heap.[2][3]
-
-To create a new heap from an array of n items, one may loop over the items in reverse order, starting from the item at position n ? 1 and ending at the item at position 0, applying the downward-swapping procedure for each item.

@@ -1,2 +1,0 @@
-★What is the best tool to create a company intranet?
-"Depends" What is the size of the company? What are the goals of the Intranet? What are the defined strategies to achieve these goals? What are the tactics to achieve these strategies? What is the process you'll use to achieve these tactics? What is the maturity of the company in regards to ECM, BPM, and BI? Do you have an information architect? What has governance for the intranet?

@@ -1,2 +1,0 @@
-★Why do we use least squares rather than mod?Appreciate this probably a very naive question. Obvious we want to minimise both + & - value of the error, but why square it rather than just using the absolute Presumably squaring is better than linear (because bigger errors get more weight?)
-is a differentiable function of , but is not.  That means that you can write down a formula for the least squares regression coefficients, but computing the least absolute deviation line for a large data set requires some serious computing power.    Embed Quote

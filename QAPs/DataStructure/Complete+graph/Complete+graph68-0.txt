@@ -1,1 +1,0 @@
-How do I convert adjacency matrix to incidence matrix for a complete graph?

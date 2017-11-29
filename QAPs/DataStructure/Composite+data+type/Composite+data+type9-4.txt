@@ -1,2 +1,0 @@
-Is there a tendency of functional programming languages becoming a major force in programming technologies?1. C# -> Functional elements added 2. Python -> Functional elements 3. JS 4. C++
-Yes. You have noted several instances of this trend. But no, lambdas will not save Java. 

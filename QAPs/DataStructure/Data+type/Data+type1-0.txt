@@ -1,2 +1,0 @@
-Is 'void' a data type?
-It's tagged C and C++, neither of those languages has a formal concept of "data type" (they use that expression informally a couple times though). They have object types, function types, and (in C++) reference types. void is classified as an incomplete object type (in both languages). Other incomplete object types are forward-declared structs/classes/unions and arrays of unknown bound. In particular, this implies that pointers to void point to objects, and not, e.g. functions. 4.3k Views · 32 Upvotes

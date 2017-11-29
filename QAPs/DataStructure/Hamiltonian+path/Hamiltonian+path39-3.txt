@@ -1,1 +1,0 @@
-How can one determine every possible route which covers all vertices between two given points in an undirected graph?Details can be found at http://www.quora.com/challenges.

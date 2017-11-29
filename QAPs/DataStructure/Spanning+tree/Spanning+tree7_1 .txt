@@ -1,1 +1,0 @@
-CodeChef: What are some suggestions for problems that use spanning tree as the primary concept?Min spanning tree, max spanning tree, minimax, second max .. etc On codechef and spoj only.SPOJ: MST, BLINNET, CSTREET, RAINBOW, INVENT. 

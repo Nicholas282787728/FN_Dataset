@@ -1,2 +1,0 @@
-★Which is the best open source/ free database management system for building a data warehouse?What is the best data warehousing / OLAP solution present in opensource and used by big companies?
-As a complement to Curt Monash's answer, you might want to look at Mondrian for OLAP, at Talend and at Pentaho Kettle (now PDI) for ETL tools.    Embed Quote

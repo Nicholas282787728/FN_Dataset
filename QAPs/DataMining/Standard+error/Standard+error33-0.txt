@@ -1,2 +1,0 @@
-★When trying to calculate the standard error of the mean, do you use n-1 or n?Apparently when calculating the standard deviation if you use the whole population you use n, and if it's a sample of that you use n-1. Is the same true when calculating the standard error or do you use just n regardless? I've tried searching this on google and it keeps telling me about the standard deviation.
-The standard error of the mean is usually estimated by the sample standard deviation (the one with n-1 in the denominator) divided by the square root of n.    Embed Quote

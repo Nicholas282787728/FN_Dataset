@@ -1,1 +1,0 @@
-What is the best sorting technique in data structures?There is no specific best. it depend on what purpose u r doing it. n the kind of data u have. if data is sorted binary search would be fine. if not quicksort usually is used. 41 Views

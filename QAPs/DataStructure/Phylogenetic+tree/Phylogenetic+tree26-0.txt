@@ -1,2 +1,0 @@
-What do nodes in phylogenetic trees indicate?
-A phylogeny, or evolutionary tree, represents the evolutionary relationships among a set of organisms or groups of organisms, called taxa (singular: taxon). The tips of the tree represent groups of descendant taxa (often species) and the nodes on the tree represent the common ancestors of those descendants. 160 Views

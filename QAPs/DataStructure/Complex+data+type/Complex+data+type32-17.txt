@@ -1,2 +1,0 @@
-How much time did you spend preparing for Google's interviews?
-I never studied for Google specifically, but I have a few years' worth of experience with algorithms and their implementations. 

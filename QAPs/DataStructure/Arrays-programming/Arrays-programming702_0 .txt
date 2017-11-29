@@ -1,1 +1,0 @@
-What is an ordered array?I know that my question is trivial but is that ordered array is sorted array ??An ordered array (or sorted array) is an array that keeps its elements sorted. For instance, if you have an array arr = [1, 2, 3, 4] and you add another element 2, then arr = [1, 2, 2, 3, 4] instead of arr = [1, 2, 3, 4, 2] (if arr were a 'regular' array). 643 Views

@@ -1,1 +1,0 @@
-How do I verify that two graphs f(x) and g(x) intersect at x=0 and x =3.193? What's the area between them?f(x)=2sin(0.5x)  g(x)=0.5e 2x−5  

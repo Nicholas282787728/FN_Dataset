@@ -1,2 +1,0 @@
-★How is bandwidth calculated for a web application?
-100,000 monthly (or even daily for that matter) hits is nothing. An average dedicated server will handle it perfectly well. Thus the cost ought to be somewhat around GBP 100.00/month.

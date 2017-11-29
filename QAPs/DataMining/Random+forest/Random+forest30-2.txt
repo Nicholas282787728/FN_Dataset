@@ -1,2 +1,0 @@
-★What is Gradient Boosting Models and Random Forests using layman terms?
-For an intuitive explanation of Random Forests, you should look at Edwin Chen's answer on Random Forests: How do random forests work in layman's terms? The real world example he provides is really intuitive.    Embed Quote

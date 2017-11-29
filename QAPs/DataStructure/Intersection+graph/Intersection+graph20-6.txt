@@ -1,2 +1,0 @@
-Why are there no solutions to the equation x 2 +6x+9 − − − − − − − − −  √ =x  ? Wouldn't x=−3/2  be a solution?
-Why do you have any doubts? Square both sides of the equation, cancel the x^2s and you are left with 0 = 6x + 9 or X = - 3/2 If still in doubt here is more detail:   √(x^2 + 6x + 9) = X square both sides x^2 + 6x +9 = x^2  (remove x^2s from both sides and there is the answer. The automated collapser, keeps collapsing a perfectly good answer. Is it frightened of dangerous intelectuals? 

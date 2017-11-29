@@ -1,2 +1,0 @@
-★What is the h parameter in a Facebook outbound link?
-It's from a system called Linkshim, which helps to preserve the privacy of users and prevent the endpoint from being used as an open redirector. You can read more about it at Link Shim - Protecting the People who Use Facebook from Malicious URLs    Embed Quote

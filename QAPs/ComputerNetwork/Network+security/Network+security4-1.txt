@@ -1,2 +1,0 @@
-★What's the future of network security?
-The End of the Static Endpoint A security fabric, an array of security enforcement points that pushes security close to the end user, wherever the user may be, and on whatever device that end user might have from Cisco    Embed Quote

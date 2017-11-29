@@ -1,2 +1,0 @@
-If C++ is a strongly typed language, then why does it allow these type of implicit conversions?
-1) library reuse and compatibility, not everyone may agree on what types to use for what things 2) practicality, specially on some level algorithms or interfacing with hardware which may not always give you the correct types, so what would be the purpose of always restricting you? 

@@ -1,2 +1,0 @@
-What is data type in Java?
-Data Type in Java Datatype is a spacial keyword used to allocate sufficient memory space for the data, in other words Data type is used for representing the data in main memory (RAM) of the computer. In general every programming language is containing three categories of data types. They are Fundamental or primitive data types Derived data types User defined data types. ... (more)

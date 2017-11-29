@@ -1,2 +1,0 @@
-★What are the largest DDoS attacks in history?Bonus: could any amount of infrastructure have stopped them?
-Re: infrastructure—Yes. Nobody has successfully DDoS'd Google.

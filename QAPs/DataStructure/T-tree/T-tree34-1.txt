@@ -1,2 +1,0 @@
-How does git determine the type of an object, given only its hash as file name and the object file in .git/objects folder?
-Git compresses a file, and creates a SHA1 of the "contents" of that file. Then it creates a file (tree) which has filenames against SHA1 of the file and same for dirs. It hashes this also. Then it creates a file for commit which has list of trees and SHA1s of these. Everything is unique! It then reverse engineers it! 

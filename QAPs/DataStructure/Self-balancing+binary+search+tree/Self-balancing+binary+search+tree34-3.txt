@@ -1,2 +1,0 @@
-What is the best way to self-teach the skills and knowledge gained in a typical computer science degree?
-Perhaps following site of online courses should help you. http://www.udacity.com It offers most of the essential courses of CS. The does not include everything but a good starting point. Apart from this, you'll need to have good hold on Mathematics (Discrete Maths, Probability, Operational Research) to develop fundamentals. 

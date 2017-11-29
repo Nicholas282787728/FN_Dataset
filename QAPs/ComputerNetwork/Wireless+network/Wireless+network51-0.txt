@@ -1,2 +1,0 @@
-★What are the dangers of connecting to unsecure wireless networks?e.g. wireless hotspots at starbucks
-all of your traffic can be seen by anyone else on the network.  This includes your email password if you use outlook or a similar client, your social network logins, your IM password.    Embed Quote

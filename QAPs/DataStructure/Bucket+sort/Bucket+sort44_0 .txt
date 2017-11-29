@@ -1,1 +1,0 @@
-Iff you know that all of the values are of within a given range that guarantees that there will be duplicates (that is, it spans less than 10^5), then a modified bucket sort can be of use. Otherwise, a simple sort is enough, with a slight modification. 

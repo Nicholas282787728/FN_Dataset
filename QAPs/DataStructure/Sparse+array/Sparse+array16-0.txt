@@ -1,2 +1,0 @@
-How do I write a code in C to print repeated numbers?
-The concept of sparse arrays can help you. Actually if the numbers are small you can even use normal arrays. Hint: for (i=0; i < MAX_NUM ; i++)     sparse_array [array(i)]++; 

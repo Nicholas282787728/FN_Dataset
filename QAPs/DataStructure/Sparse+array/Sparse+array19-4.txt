@@ -1,2 +1,0 @@
-Why does the healthcare industry use M/MUMPS instead of a more modern or more widely used programming language?
-Here's some Mumps-related resources that may help to answer the question and also dispel some of the things Mark has suggested would prevent its use for new applications: Making Mumps Acceptable to the Mainstream Generally, read the articles in my blog, the EWD Files: The EWD Files Rob 

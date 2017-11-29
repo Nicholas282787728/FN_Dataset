@@ -1,2 +1,0 @@
-★What OSI layer does IPSec work on?
-Correct me if I am wrong, but I believe it's layer 3, the network layer IPsec - Wikipedia    Embed Quote

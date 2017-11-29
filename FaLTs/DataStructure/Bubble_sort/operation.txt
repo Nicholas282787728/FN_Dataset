@@ -1,2 +1,0 @@
-optimise bubble sort using insertion sort or vice versa
-combine merge sort and bubble sort into a single C programme

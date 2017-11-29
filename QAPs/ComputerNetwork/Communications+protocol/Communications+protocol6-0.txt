@@ -1,2 +1,0 @@
-★Is there any standard communication protocol for Internet of Things (IoT)? Is any group working on that?
-Check out machine to machine (M2M) protocol. mqtt.org has details about it.

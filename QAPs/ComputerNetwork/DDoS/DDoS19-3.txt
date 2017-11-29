@@ -1,2 +1,0 @@
-★How do I protect a VPS from DDoS attacks?
-It always depends on how much data is being thrown at your VPS, but in a nutshell, no. If computers from around the globe are totally saturating the connection to your server, your VPS has no chance of surviving. The server owner would normally need to speak to their datacentre to try and get the traffic null routed, and even the datacentre might need to speak to their upstream provider. The lowly VPS unfortunately won't stand a chance on its own against a broad attack!

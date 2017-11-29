@@ -1,2 +1,0 @@
-★Could there be an open source equivalent to Parse (the cloud backend)?
-You can also try StackMob this I believe is the closest to Parse.com    Embed Quote

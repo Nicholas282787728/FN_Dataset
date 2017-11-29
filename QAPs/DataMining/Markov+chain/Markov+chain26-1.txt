@@ -1,2 +1,0 @@
-★What is the relationship between finite automaton and Markov chain?
-If you take a finite automaton (visualized as some points, the states, some linked by arrows, the transitions) and assign a probability to each state transition arrow, then you have a Markov chain.    Embed Quote

@@ -1,2 +1,0 @@
-★What is HTML?
-Hyper Text Markup Language is a language used to mark up conents that can be read by web browsers.

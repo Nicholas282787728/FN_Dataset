@@ -1,2 +1,0 @@
-★How would you configure and verify DHCP (IOS router), and configure router interfaces to use DHCP?
-The documentation can be found here: IP Addressing: DHCP Configuration Guide, Cisco IOS In most cases, routers should NOT be configured to be DHCP clients. Home routers are the exception, and those are set up for DHCP by default.

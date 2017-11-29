@@ -1,1 +1,0 @@
-Is this an efficient implementation of bubble sort?well there are mny efficient sorting algo. apart frm bubble sort. Cming to ur ques.... ur implemention is not efficent as it uses recursion which might add over head of function call. So bst way is to use 2 for loop as this will be fast as compared to recursion 

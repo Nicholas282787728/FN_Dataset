@@ -1,2 +1,0 @@
-I am confused whether to use angular.js, underscore.js react.js, ember.js or backbone.js for my next project. Can someone help me with material which states which type of web apps each library rocks at?
-Others have already said the bulk of what there is to say but here is a minor addition: underscore.js - underscore.js can be used with any of the above. It is an amazing utility library that leans toward functional programming paradigms and lodash as mentioned by others is a fork of underscore that provides some additional features and performance increases 

@@ -1,2 +1,0 @@
-★What is the LAN speed at IIIT Hyderabad?
-Around 8-12 Mbps through http servers and IDMs. 9-10 Mbps for torrenting. And for file sharing on intranet, it is 1 GBps, which is only restricted  by read and write speeds of the devices involved. (as an engineering student, I hope you understand the last part)    Embed Quote

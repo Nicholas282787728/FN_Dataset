@@ -1,2 +1,0 @@
-What is the best (programming) algorithm that you have ever created?Anything that you're proud of and would like to share the algorithm as well?
-When I was nine or ten, I remember waiting in the car in the parking lot of a K-Mart in Chicago and for some reason I was thinking really hard about image file compression and I remember having an insight that you could replace a series of the same bytes with a count of how many of that byte to repeat.  Years later I found out that I had discovered Run Length Encoding. 

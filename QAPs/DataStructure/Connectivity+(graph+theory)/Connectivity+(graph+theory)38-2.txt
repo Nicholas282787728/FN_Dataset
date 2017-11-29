@@ -1,2 +1,0 @@
-What is the most intriguing mathematical concept you have ever encountered?
-Inspired by today's mildly NSFW Saturday Morning Breakfast Cereal: Euler's formula tells us that e iθ =cos(θ)+isin(θ)  .  By taking θ=π  , you get the famous identity e iπ +1=0  .  However, if you take θ=π2   , you find that e iπ2  =i  .  Therefore i i =e i 2 π2    .  But since i 2 =−1  , you realize that i i =e −π2    , which is a real number. 

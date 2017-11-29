@@ -1,2 +1,0 @@
-★How does multithreading work in a single-core computer?
-Define "single core". I haven't seen a general-purpose processor without multiple integer, floating point, etc. units for a very long time.

@@ -1,2 +1,0 @@
-As a beginner, should I learn C or Python as my first programming language?
-As far as first languages go, Python is a much, much better choice. With python, you can start doing useful things within a very short space of time, which will keep your enthusiasm and get you to do programming to accomplish real tasks. Once you've learned the important programming concepts with Python, you can move to C and learn about things like pointers. Note, your barrier to entry will be much lower at this point since you will already know and understand functions/loops/logic etc. 

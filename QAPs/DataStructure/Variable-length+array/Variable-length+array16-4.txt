@@ -1,2 +1,0 @@
-How do you allocate memory dynamically without using malloc or new?
-Allocate a biiiiig static array and then put your own memory manager on top of it. It's what we used to do in good old Fortran 77 (and earlier). 

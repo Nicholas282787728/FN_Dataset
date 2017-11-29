@@ -1,2 +1,0 @@
-Why is the complexity to search in a splay tree O (log n)?  How do you prove it?
-The cost of searching in any balanced binary tree is [math]O(log  n)[/math]. Proving it is hard: Page on princeton.edu Updated 87w ago • View Upvotes

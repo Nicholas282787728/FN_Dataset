@@ -1,2 +1,0 @@
-Who are the big players in business intelligence?
-If you mean the behemoths that have been around for decades now, that would be MicroStrategy, Cognos, SAP, Informatica, Oracle, etc. If you mean the new players, I would suggest those also mentioned in Gartner's Who's Who report, including BIME Analytics, the company I work for.    Embed Quote 

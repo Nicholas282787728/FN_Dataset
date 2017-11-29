@@ -1,2 +1,0 @@
-How does a one-way hash function work?
-Every hash function is by definition a one way function. Most hash functions such as (MD5, SHA-1,SHA-2,...) split the input in blocks, use modulo functions on each block and combine them back with and, or and xor functions. This makes it look like their is no relation between the input and output and makes it almost impossible to reverse it. 

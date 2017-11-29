@@ -1,2 +1,0 @@
-What are some of the most important algorithms used in quantitative trading?
-If you're asking about what data structures are prevalent in low latency trading systems Intrusive linked lists SSO strings Pooled allocators Arrays Shared memory Grouping data by the order variables are accessed in time Also 

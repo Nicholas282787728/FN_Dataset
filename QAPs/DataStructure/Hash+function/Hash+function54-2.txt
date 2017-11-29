@@ -1,1 +1,0 @@
-What are some fast H3 (universal) hash function implementations for C or C++?I have found and optimized this class https://github.com/bro/bro/blob/... to my data size of 4 bytes, but wonder if anything faster exists, perhaps exploiting SSE instructions?

@@ -1,4 +1,0 @@
-A graph with six nodes.
-The diagram at right is a graphic representation of the following graph:
-V = {1, 2, 3, 4, 5, 6} E = {{1, 2}, {1, 5}, {2, 3}, {2, 5}, {3, 4}, {4, 5}, {4, 6}}.
-In category theory a small category can be represented by a directed multigraph in which the objects of the category represented as vertices and the morphisms as directed edges. Then, the functors between categories induce some, but not necessarily all, of the digraph morphisms of the graph. In computer science, directed graphs are used to represent knowledge (e.g., Conceptual graph), finite state machines, and many other discrete structures. A binary relation R on a set X defines a directed graph. An element x of X is a direct predecessor of an element y of X iff xRy.

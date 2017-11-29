@@ -1,2 +1,0 @@
-Why are B-trees and its variants, the preferred data structures for database or filesystem implementations?
-Short answer: they work well for data on disk-based storage and provide robustly good performance both for updates and look-up queries, including specifically range queries, even in worst-case behavior. 921 Views · 4 Upvotes

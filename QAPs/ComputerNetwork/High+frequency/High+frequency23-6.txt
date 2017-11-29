@@ -1,2 +1,0 @@
-★Does Ohm's Law change at extremely high frequencies?I was told by a college professor that one reason processors have not  exceeded 4 GHz was that the fundamental v=ir changes at extremely high  frequencies.  Is this true?
-Certainly, every answer here is correct; however, one of the simpler practical reasons is that many resistors are constructed wire-wound for precision versus carbon, and each of those resistors are inductive by nature.  This would immediately skew any results from Ohm's Law at high frequency.

@@ -1,6 +1,0 @@
-There are also specific methods that can be employed to derandomize particular randomized algorithms:
-
-the method of conditional probabilities, and its generalization, pessimistic estimators
-discrepancy theory (which is used to derandomize geometric algorithms)
-the exploitation of limited independence in the random variables used by the algorithm, such as the pairwise independence used in universal hashing
-the use of expander graphs (or dispersers in general) to amplify a limited amount of initial randomness (this last approach is also referred to as generating pseudorandom bits from a random source, and leads to the related topic of pseudorandomness)

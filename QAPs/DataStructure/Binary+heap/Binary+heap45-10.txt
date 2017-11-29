@@ -1,2 +1,0 @@
-How did you go from understanding algorithms to being able to design them yourself?
-You have been doing it wrong. When you studied those algorithms, you didn't think of possible solutions to those problems yourself. The best way to start getting the hang of developing solutions to problems using algorithms yourself would be going through already prevalent ones and trying to find alternative methods to carry out the same functions. Or trying to derive them on your own before you study them. 

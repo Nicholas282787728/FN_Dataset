@@ -1,2 +1,0 @@
-What are the real world applications of some advanced data structures?
-Bloom filter: In WebKit library(used in most of the modern browsers) for finding CSS symbols. Also, in Chromium for fast look-up of url from safe browsing list. 

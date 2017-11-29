@@ -1,2 +1,0 @@
-★Why is the output of logistic regression interpreted as a probability?
-I think of it like this: in regression we are usually modelling the expected Y-value (given X).  In logistic regression, Y is either 0 or 1. So the expected value of Y is E(Y)=P(Y=1)*1 + P(Y=0)*0 = P(Y=1). So the regression output, the expected Y, is just the probability that Y=1.    Embed Quote

@@ -1,2 +1,0 @@
-Why aren't graph databases more popular?Graphs seem like a really natural way to express and query data in many domains.
-Philosophically speaking, Graph is one data structure which can't be managed in it's complete avatar. It has to be finite to be controlled by us mortals. If it is finite, it isn't really a Graph (like tree is a special case of Graph). Why you think Java doesn't support Graphs? Graph databases aren't much popular for they are never structured and if they are, they are just another special case. Graph is God. 

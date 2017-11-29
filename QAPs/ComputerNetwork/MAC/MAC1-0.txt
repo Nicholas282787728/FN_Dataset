@@ -1,1 +1,0 @@
-When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?yeah mac address is unique but the format of mac address differs from underlying network like ethernet networks supports 48bit mac address and apple talk supports a 1bit dynamic mac address.

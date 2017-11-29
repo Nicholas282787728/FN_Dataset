@@ -1,2 +1,0 @@
-What are some of the famous questions in calculating the shortest paths (graphs) using Dijkstra's, DAG, and Bellman-Ford?
-The same as for any other algorithm: 1) How does it work? 2) What is complexity in space and time? 

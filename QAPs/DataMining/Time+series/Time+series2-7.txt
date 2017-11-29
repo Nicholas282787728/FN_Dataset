@@ -1,2 +1,0 @@
-★What techniques are useful for data mining financial time series?
-You should take a look at this free Computational Finance class. It is taught by a Professor named Steven Skeina who is from Stony Brook. In this class, he goes over all the details    Embed Quote

@@ -1,2 +1,0 @@
-Who are some of the greatest scientists, past and present, in the field of distributed or concurrent systems?Also what are their accomplishments?
-Obviously Leslie Lamport.  Time, Clocks, and the Ordering of Events in a Distributed System is fundamental to understanding distributed systems, and Paxos (computer science) was the way to do state machine replication. Robbert van Renesse at Cornell is very prolific with a lot of  papers on distributed systems middleware. 

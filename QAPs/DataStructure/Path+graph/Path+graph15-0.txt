@@ -1,2 +1,0 @@
-Does anyone find it helpful to write out the graph, path, code, etc. when trying to understand an algorithm or function?
-Yes, I personally often find it helpful to be able to step though my own code or graph to better understand my program, and to identify why it might not be doing what I think it is doing. 

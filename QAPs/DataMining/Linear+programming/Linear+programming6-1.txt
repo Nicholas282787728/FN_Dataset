@@ -1,2 +1,0 @@
-★What are some good resources to learn about linear programming?
-These courses are totally free and delivered by world class faculty: 1. Coursera - Linear and Integer Programming 2. Coursera -Linear and Discrete Optimization 3. Coursera - Discrete Optimization 4. Video Courses on Academic Earth Page no 2 : Convex Optimization 1 and 2 by Stanford's EE Professor Stephen Boyd: they cover linear programming along with assignments and quizzes.    Embed Quote

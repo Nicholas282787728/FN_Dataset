@@ -1,2 +1,0 @@
-What would be the recursion tree for [math]T(n) =T(n−1) +T(\frac{n}{2}) +n?[/math]
-The recursion tree for the recurrence [math]T(n) = T(n-1) + T(n/2) + n[/math] looks like this: n -- n-1 -- n-2 -- ..|    |      ||    |      :|    ||    (n-1)/2 -- (n-1)/2-1 -- ..|    |          ||    :          :|n/2 -- n/2-1 -- n/2-2 -- ..|      |        ||      :        :|n/4 -- ..|: The root node has label n. The leaves have label 1. Every branch node has two children: to the right with label one less, and below with label intdiv 2. 

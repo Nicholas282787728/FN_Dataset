@@ -1,2 +1,0 @@
-Who are some of the greatest scientists, past and present, in the field of distributed or concurrent systems?Also what are their accomplishments?
-Leslie Lamport basically laid the foundations for the theory of distributed systems. Joseph Halpern has done foundational work in reasoning about who knows what, which is more important for distributed systems than it might sound. 

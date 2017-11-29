@@ -1,2 +1,0 @@
-★Payment technologies/gateways to create a peer-to-peer marketplace? Paypal?
-I have been facing a similar problem.  WePay is a great alternative to PayPal.  The APIs are very straight forward and there is much less re-direct off your site than what PayPal requires.    Embed Quote

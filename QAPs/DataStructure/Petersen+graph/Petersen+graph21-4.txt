@@ -1,2 +1,0 @@
-What is the relationship between systems biology and computational biology?
-Systems biology is the computational and mathematical modeling of complex biological systems. Computational biology involves the development and application of data-analytical and theoretical methods, mathematical modeling and computational simulation techniques to the study of biological, behavioral, and social systems. 

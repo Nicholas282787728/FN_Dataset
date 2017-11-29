@@ -1,2 +1,0 @@
-Mathematical Fallacies: How does one explain the “π = 4” proof regarding a square reduced to a circle?
-Originally Answered: What's wrong in this?The ambitious mathematician says that perimeter is still 4. ! here is used as an exclamatory mark and not as factorial. Now back to the contradiction: continuing the steps till infinity will not result in a continuous circle or a continuous graph. Hence, the wrong limit. 

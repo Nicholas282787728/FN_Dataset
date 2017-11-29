@@ -1,2 +1,0 @@
-What are the uses for a broken line graph?
-When several series (say various years or various periods) are being graphed as lines on the same page it can be difficult to distinguish one from another. Using colour helps but using a broken line is often better. It may have, for example dots for one series, short lines for another and a combination of dots and lines for yet another. A broken line conveys exactly the same information as a continuous line. 351 Views

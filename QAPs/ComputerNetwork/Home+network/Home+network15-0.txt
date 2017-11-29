@@ -1,2 +1,0 @@
-★What is the best software for managing a music collection over a home network?Requirements: *I can manually manage my folder/file structure *New files are automatically added to library *Can add files to your local mobile device from the network library.
-You are looking for XBMC. Installation is quick and simple, user interface is amazing, and you get iOS apps to control it remotely over your home network.

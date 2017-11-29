@@ -1,2 +1,0 @@
-What is a Fibonacci Heap?
-I think the fibonacci heap has a major advantange is mergeable. This feature made it useful under some requirement. Other operations have no advantage than binary heap. And its time complexity is amortized. 

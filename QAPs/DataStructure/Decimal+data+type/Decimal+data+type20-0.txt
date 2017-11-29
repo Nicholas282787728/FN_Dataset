@@ -1,2 +1,0 @@
-Which data type should I use to store a 12 digit integer in C++?
-12 decimal digits need 44 bits. $ echo "l(10^13 - 1) / l(2)" | bc -l 43.18506523353556625325 So, int64_t or uint64_t is it. It's in #include <cstdint>. Use long long when working with older C++ standards. Hint: #include <cstdint> typedef uint64_t T; static_assert( static_cast<uint64_t>(static_cast<T>(1e13-1)) == static_cast<uint64_t>(1e13-1), "T is not large enough to hold (10^13 - 1)."); g++ -std=c++11 code.cc Will generate a compile error if T can't hold 10 13 −1=999999999999  . 

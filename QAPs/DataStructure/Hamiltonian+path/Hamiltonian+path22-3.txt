@@ -1,1 +1,0 @@
-What is the probability that an n-tournament is strongly connected?Where a tournament is defined as "a directed graph (digraph) obtained by assigning a direction for each edge in an undirected complete graph" (Source: Wikipedia, Tournament (graph theory)) This is equivalent to asking whether an n-tournament contains a Hamilton cycle.

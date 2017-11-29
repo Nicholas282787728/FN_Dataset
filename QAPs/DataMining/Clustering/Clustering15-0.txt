@@ -1,2 +1,0 @@
-Are there any clustering algorithms for tagged data?
-Some time ago we approached a similar problem by building a graph: nodes represented the tags, edges represented the data instances. The spectral clustering algorithm was used to group the tags. The problem may be stated in your way as well: let the graph nodes represent data instances, while the edges represent tags. See more details in the paper: http://gregory.begelman.us/10.1....    Embed Quote 

@@ -1,2 +1,0 @@
-How can I replace all occurrences of a substring from a string with a smaller substring, in-place?
-As much as I like C++ for some tasks, I think it's pointlessly clumsy for this one. For the sake of contrast, let's consider what the task would look like in the long-since obsolete SNOBOL 4 programming language: * define our input string:    IN = 'ABCDBC'* find `BC` in `IN`, and replace with `X`, repeat as long as successfulCHANGE  IN 'BC' = 'X' : S(CHANGE)* Display the result    OUTPUT = INEND The result is `AXDX` as expected. 

@@ -1,1 +1,0 @@
-What is the most efficient way to sort 4TB on a single machine with 4GB of RAM?

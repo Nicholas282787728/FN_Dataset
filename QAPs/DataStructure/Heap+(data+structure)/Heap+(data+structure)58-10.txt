@@ -1,2 +1,0 @@
-What basic data structures and algorithms should one learn before starting competitive programming?
-Basic data sturctures (arrays, queues, linked lists, etc.). Bit manipulation. Advanced data structures: a. Union-Find Disjoint Sets. b. Segment Tree. c. Binary Indexed Tree (a.k.a Fenwik Tree). d. Graph. e. Treap.... (more)

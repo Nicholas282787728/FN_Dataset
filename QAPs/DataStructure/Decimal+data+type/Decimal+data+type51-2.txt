@@ -1,2 +1,0 @@
-How do I write a C++ program to add 10^30 and 10^30 efficiently?P.S I often face this big integer arithmetic problem during programming contests because of which i am unable to solve simple problems during contests. It would be helpful if you would provide some resources to do this arithmetic. I don't want to use Java BigInteger class and purely use c++.
-There are arbitrary precision libraries for C, C++ (e.g. The GNU MP Bignum Library). If rules allow use of such a library, then it seems a silly thing to waste time on during a contest. 

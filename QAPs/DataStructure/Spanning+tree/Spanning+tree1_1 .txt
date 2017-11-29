@@ -1,1 +1,0 @@
-What is the maximum spanning tree algorithm?The same thing as an algorithm to find the Minimum spanning tree (after you multiplied the cost of each edge by -1). 

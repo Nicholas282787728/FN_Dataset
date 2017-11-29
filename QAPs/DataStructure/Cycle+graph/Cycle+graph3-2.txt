@@ -1,1 +1,0 @@
-What happens when there is negative cycle in the graph?consider the above graph with give algorithm , will the given dijkstra algorithm works fine?

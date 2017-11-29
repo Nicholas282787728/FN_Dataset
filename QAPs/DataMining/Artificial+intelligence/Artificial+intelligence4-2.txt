@@ -1,2 +1,0 @@
-★What are basic artificial intelligence projects for beginners?Some basic projects other than pac-man, 8 queen puzzle etc
-Classify MNIST: MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges See also: The Home of Data Science    Embed Quote

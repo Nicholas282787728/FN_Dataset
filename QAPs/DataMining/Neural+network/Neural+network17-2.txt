@@ -1,2 +1,0 @@
-★How big is the largest feedforward neural network ever trained, and what for?
-NEW NEWS: Using 96 Blue Gene/Q racks (1,572,864 processor cores, 1.5 PB memory, 98,304 MPI processes, and 6,291,456 threads),  IBM and LBNL achieved an  unprecedented scale of 2.084 billion neurosynaptic cores  containing 53x10to10th neurons and 1.37x10to14th synapses running only 1542× slower than real time.    Embed Quote

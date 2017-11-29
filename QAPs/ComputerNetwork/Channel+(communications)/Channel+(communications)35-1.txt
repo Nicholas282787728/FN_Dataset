@@ -1,2 +1,0 @@
-★How likely is it to build an Earth-Mars optical communication channel that can allow people on Mars to fluently connect to the internet? What will be the signal power, relative stationary obits, content delivery caching storage, and bandwidth constraints?
-Not that hard, but remember the speed of light.  There would be an inherent delay of many minutes.  I assume that a "mirror copy" would need to be kept round Mars.

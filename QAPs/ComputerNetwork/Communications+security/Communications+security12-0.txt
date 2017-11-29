@@ -1,2 +1,0 @@
-★What are some FPGA projects ideas of moderate difficulty? Preferably in the field of networks, communication and network security.
-Different to the pure networking but nice and challenging is real-time DVB/MPEG-TS processing. Packet processing and filters, multiplexing and demuxing.

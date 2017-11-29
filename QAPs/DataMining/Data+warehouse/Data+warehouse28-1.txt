@@ -1,2 +1,0 @@
-★What features of a relational database are most useful when building a data warehouse?
-Partitions Bitmap indexes Window functions Materialized views CUBE

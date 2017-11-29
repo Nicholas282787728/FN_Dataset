@@ -1,2 +1,0 @@
-What is the simplest language with which to learn algorithms and data structures?
-I think Haskell is also a good language for this purpose. I found Algorithms: A Functional Programming Approach very useful (amazon link-> http://amzn.to/hajMgq) If you choose Python, I recommend Magnus Lie Hetland's book, Python Algorithms: Mastering Algorithms in the Python Language (amazon link -> http://amzn.to/froxVX). It's very readable and easy to follow. Hetland wrote an excellent book on Python before this one. 

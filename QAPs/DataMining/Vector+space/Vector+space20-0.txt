@@ -1,2 +1,0 @@
-★Linear Algebra: In any vector space, what is the real difference between its spanning set and the basis? How do these differ? Please give some examples of a vector space where a spanning set can't be said to be the basis.
-A basis for a vector space is a linearly independent set of vectors whose span is equal to .  The important consequence of this is that, while any vector in has a representation as a linear combination of the elements of any spanning set of , that representation is unique if and only if the spanning set is a basis.    Embed Quote

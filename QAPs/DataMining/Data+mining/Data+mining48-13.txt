@@ -1,2 +1,0 @@
-Are there any startups in the Business Analytics / Intelligence / data mining space based out of India, especially Bangalore?
-We (Helical IT Solutions Pvt. Ltd. / Helical It Solutions)  are a startup in DW / BI space based out of Hyderabad. We work with open source data warehousing and buiness intelligence tools like Pentaho and Jaspersoft. We have our own BI tool called Helical Dashboard Insights - which is a BI framework/ BI platform, and ETL Framework called Helical Scrunch.    Embed Quote 

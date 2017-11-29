@@ -1,2 +1,0 @@
-★Computer Programming: Do larger screen sizes make programming easier? If so, why?
-Yes. Context switching when reading stuff in a small screen is costly.

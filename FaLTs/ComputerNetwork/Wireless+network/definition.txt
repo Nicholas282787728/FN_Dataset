@@ -1,3 +1,0 @@
-A wireless network is a computer network that uses wireless data connections between network nodes.[1]
-
-Wireless networking is a method by which homes, telecommunications networks and business installations avoid the costly process of introducing cables into a building, or as a connection between various equipment locations.[2] Wireless telecommunications networks are generally implemented and administered using radio communication. This implementation takes place at the physical level (layer) of the OSI model network structure.

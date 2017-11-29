@@ -1,2 +1,0 @@
-★How long can the burn in period be for markov chain monte carlo estimation (MCMC)?
-If you have large amount of data, then likelihood term is likely to dominate the prior term in the posterior. In such cases, I start from maximum likelihood estimates to make sure that I quickly converge. I think this is a good strategy that can save you a lot of time. Of course calculating maximum likelihood estimates may not be easy in some cases.    Embed Quote

@@ -1,1 +1,0 @@
-As a coder, why do you prefer C++ over C?

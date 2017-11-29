@@ -1,2 +1,0 @@
-★Does coaxial cable have an upper limit of speed?Fiber is ostensibly limited by the speed of light and the hardware switching the packets. But does a single coaxial cable have an upper bound of bandwidth speeds?
-Note that bandwidth is not, technically, a measure of speed.  Its a measure of volume. Consumers often get this confused because volume effects total time to download a file, and because marketers don't know any more generally then customers do.

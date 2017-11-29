@@ -1,1 +1,0 @@
-What is an array?An array is a linear data structure to hold data in consecutive memory locations which can grow in one direction only. For eg. Stack of plates, 

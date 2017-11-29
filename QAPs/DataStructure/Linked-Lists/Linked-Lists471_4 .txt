@@ -1,1 +1,0 @@
-How do I implement a C code to insert an element at the middle of the linked list if the size of the list is not known?Traverse linked list using two pointers. Move one pointer by one and other pointer by two. When the fast pointer reaches end slow pointer will reach middle of the linked list. Now insert! 500 Views  View Upvotes

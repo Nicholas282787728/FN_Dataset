@@ -1,2 +1,0 @@
-★How do you clean a copy in Pages, leaving only plain text?I'm using a macbook, obviously
-Hey, a quick way to do this is to copy all the text, and paste it into the Text Edit app (this 'cleans' it into plain text) then to copy and paste it all back.    Embed Quote

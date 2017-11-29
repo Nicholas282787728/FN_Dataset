@@ -1,2 +1,0 @@
-★Intranets: What alternatives to Yammer are easily white labeled or better branded?
-(disclaimer: I work for a Yammer competitor) At IdeaPlane (http://ideaplane.com/) we aim to deliver the best of both worlds: easiness of consumer tools customization and security for business purposes. We created a fully branded version for a top tier investment bank. The only thing we don't have at the moment is the desktop app.

@@ -1,2 +1,0 @@
-What are some "practice problems" that everyone should work on in-order to get better at programming (in any programming language)?If you have any problems corresponding to your field of work/research then mention that as well!
-There's a recent project, www.exercism.io, that focuses on creating "good" code from a peer-reviewed and social perspective. Passing the tests is only a small portion of the site's philosophy. Writing clean, expressive code is the main objective. 

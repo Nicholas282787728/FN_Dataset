@@ -1,2 +1,0 @@
-★What are the most common Regular Expressions one should know?
-(0+1)* = set of all integers in binary * is the Kleene star.    Embed Quote

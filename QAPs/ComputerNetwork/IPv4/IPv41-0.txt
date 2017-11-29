@@ -1,2 +1,0 @@
-★How is Anycast implemented  using IPv4?
-Anycast is implemented as a strange exception.  Multiple hosts advertise the exact same IP address and inject the same prefix covering that address from multiple points on the Internet.  Routing then directs traffic to the nearest anycast advertiser. It's practical for a few things, such as DNS, but in general is more awkward and difficult to debug than it's worth.

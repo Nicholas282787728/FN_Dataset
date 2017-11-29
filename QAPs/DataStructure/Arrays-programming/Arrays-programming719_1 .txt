@@ -1,1 +1,0 @@
-How do I make an array selection, based on another array?The easiest way is probably using map(): var vals = ["first", "second", "third"] var indices = [2, 0, 1, 100] var res = indices.map(function (i) { return vals[i]; }) // res == ["third", "first", "second", undefined] 180 Views  View Upvotes

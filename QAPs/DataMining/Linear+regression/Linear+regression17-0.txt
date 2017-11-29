@@ -1,2 +1,0 @@
-★What is an intuitive explanation of linear regression?
-What is an intuitive explanation of linear regression? Linear regression implies that the plotted curve has the minimum error with respect to the data as compared to any other curve which could plotted using the same data and regression dimension. If the data had no noise, the minimal error curve would overly the data.    Embed Quote

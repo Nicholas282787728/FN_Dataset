@@ -1,2 +1,0 @@
-★What problem does Dynamic DNS solve?
-In short, dynamic DNS service maps your dynamic IP address to a static hostname.

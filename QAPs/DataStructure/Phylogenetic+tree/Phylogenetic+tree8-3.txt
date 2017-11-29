@@ -1,2 +1,0 @@
-Why don't phylogenetic trees usually include common ancestors?
-The common ancestor are the species on the previous branch. No further refinement might be possible due to gaps in the record. Even though we may never find the most recent common ancestor, You probably can get all relevant information you need from the species that came just before the most recent common ancestor 70 Views · 1 Upvote

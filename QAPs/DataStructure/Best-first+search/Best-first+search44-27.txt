@@ -1,2 +1,0 @@
-Where can I find large datasets open to the public?
-Originally Answered: Where's the best source to get structured data?The best source of structured data I've seen so far is the UCI Machine Learning Repository: Data Sets This question has extensive resources for data sets open to the public, Where can I find large datasets open to the public? 6.2k Views · 10 Upvotes

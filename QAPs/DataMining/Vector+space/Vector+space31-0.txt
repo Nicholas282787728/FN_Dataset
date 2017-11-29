@@ -1,2 +1,0 @@
-★Does a shift operator on an infinite vector space have an inverse?
-The Wikipedia article on shift operators: Shift operator is pretty short and clear. The brief version is: two-sided operators have inverses. one-sided "left shift" operators that lose the first coordinate don't. one-sided "right shift" operators that replace the first coordinate with 0 and shift everything else right do basically do, but you have to be a little careful about what spaces the operators work on.    Embed Quote

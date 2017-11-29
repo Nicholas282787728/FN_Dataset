@@ -1,2 +1,0 @@
-How did Glassdoor's Facebook App increase by one million DAU in one day?
-The graph appears to be off by one day. The jump was most likely due to their new blog post (http://www.glassdoor.com/blog/co...) that went viral via FB/Twitter/Digg/Pinterest (bound to, given the number of people looking for jobs). DAUs dropped in a few days, so the user engagement wasn't sustained (although about 25% of the new users seem to have been retained). Overall it's a nice case study of how inbound marketing via blogging can be pretty effective. 

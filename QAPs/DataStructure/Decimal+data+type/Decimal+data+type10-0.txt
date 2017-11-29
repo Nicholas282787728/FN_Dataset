@@ -1,2 +1,0 @@
-What happens when I cast an integer pointer to a character pointer and vice versa in C?
-Nothing major happens as long as you don't do arithmetic operations on the pointer. Pointer increments are done based on the type of the pointer. For example, char ptr increments by 1(size of char) whereas integer ptr increments by 4(size of int). 

@@ -1,2 +1,0 @@
-★What are the interesting applications of classification algorithms like neural networks and random forests?
-Adding to Vijay Agneeswaran's answer: Click Stream Analysis : Predicting whether an user will make purchase/not based on his click history and current pattern in eCommerce    Embed Quote

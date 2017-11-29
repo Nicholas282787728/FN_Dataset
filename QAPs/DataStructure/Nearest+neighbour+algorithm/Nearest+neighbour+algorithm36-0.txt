@@ -1,2 +1,0 @@
-How much of machine learning must one know to understand and go through the new course of Deep learning offered by Google at Udacity?
-It is important to know what is supervised learning and a basic supervised classification algorithm such as nearest neighbour method. You should know what an input datsaset is, what an output dataset means and in general what a loss function is used for. Linear algebra knowledge of working with matrices helps and a basic knowledge of how to differentiate a function also helps. 

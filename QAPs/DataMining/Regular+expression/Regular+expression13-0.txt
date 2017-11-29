@@ -1,2 +1,0 @@
-★What are the most common Regular Expressions one should know?
-From my .vimrc: autocmd BufWritePre * :%s/[ \t]\+$//e Trim all whitespace at the end of lines every time I save a file. This rule is only turned on by other non-posted code for specific individual programming languages though.    Embed Quote

@@ -1,2 +1,0 @@
-What major factors distinguish advanced and elementary data structures?In other words, what makes stacks, queues, linked lists, hash tables elementary, and what makes B-trees, Fibonacci Heaps, and van Emde Boas Trees advanced?
-Sophistication. Compare the concepts in an algorithms text. You'll see that the latter take more effort to describe and implement. Updated 12 Jul 2014 • View Upvotes

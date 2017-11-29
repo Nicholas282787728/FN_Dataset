@@ -1,2 +1,0 @@
-★Natural Language Processing: How would you programmatically parse a sentence and decide whether to answer "that's what she said"?Outline an algorithm that, given a sentence, returns true or false for whether a "that's what she said" is appropriate.
-Nil, it’s always appropriate. Just have an old Commodor 64 very slowly speak “T H A T  I S  W H A T  S H E  W O U L D  H A V E  S A I D,” after everything that is ever typed.    Embed Quote

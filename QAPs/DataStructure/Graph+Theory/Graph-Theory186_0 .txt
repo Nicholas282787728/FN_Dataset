@@ -1,1 +1,0 @@
-What is the degree of vertex in a directed graph?I understand what the degree of vertex is in an undirected graph. But for a directed one, is it the number of arrows pointing towards the vertex or number of arrows pointing away from the vertex?It is the in-degree + out-degree 57 Views

@@ -1,2 +1,0 @@
-★What will be the underlying technologies in 5G wireless networks?
-The key technologies that are being discussed for ‘5G’ are as follows: Non-Orthogonal Multiple Access (NOMA) Filter Bank Multicarrier (FBMC) Millimetre frequencies/waves 3D Massive MIMO Cognitive radio spectrum sensing techniques Super wideband spectrum smaller cells and ultra dense HetNets. Multi-technology carrier-aggregation You can learn more about '5G' in my recent blog post: #5G: Your Questions Answered    Embed Quote

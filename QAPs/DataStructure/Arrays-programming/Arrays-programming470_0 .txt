@@ -1,1 +1,0 @@
-What is the formula to calculate address in three dimensional array?For array A of size nmp nmp , the address of A[i][j][k] is A+imp+jp+k. A+imp+jp+k. 325 Views  Answer requested by 1 person

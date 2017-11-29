@@ -1,2 +1,0 @@
-In a square area with sides equal to 5 m, one has to plant mango trees. The distance between two consecutive trees should be 1 m. What will be the total number of trees in that area?
-1st side of 5m > 6 trees 3rd side of 5m (opposite) > 6 trees 2nd side of 5 m > 4 trees 4th side of 5 m > 4 trees 2nd and 4th sides have less number of trees because there are already trees at the corners hence, total number of trees would be 20 

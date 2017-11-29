@@ -1,2 +1,0 @@
-★Which is the best way to sync a Mac's address book with Google Apps Contacts?Many times, just synching with Mobile Me + Gmail (or Google Apps) creates quite a few of conflicts and or duplicates which escalate and grow. I've tried Sync Man, but it really removes quite a bit of information from the contact, and didn't keep some of the rich data that is in a vCard.
-Using an iPhone you can sync Mac<->iPhone<->Google Contacts.    Embed Quote

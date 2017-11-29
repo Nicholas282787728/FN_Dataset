@@ -1,2 +1,0 @@
-★What's the best IPsec VPN client for Android?
-I am using get-a-robot-vpnc (http://code.google.com/p/get-a-r...)  on my NexusOne for connecting to Cisco corporate IPSec VPN. The downside is of this app is, you need a ROM with root and tun support.    Embed Quote

@@ -1,2 +1,0 @@
-What are the real world applications of Breadth First Search?
-Originally Answered: What are the real world application for breadth first search? Web Crawlers To determine the shortest path between two places - Navigation system Graph search 

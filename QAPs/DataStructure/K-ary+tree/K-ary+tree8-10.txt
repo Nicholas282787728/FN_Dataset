@@ -1,2 +1,0 @@
-What is the process for a normal student to start from very basic coding to high level coding so I that I can solve problems from CodeChef TopCoder etc?
-Just to add to Mitesh Pathak's answer do only top 10-15 problems from codechef then leave it and start spoj because codechef contains similar type of problems and spoj contains different types of problem so you'll learn more. 

@@ -1,2 +1,0 @@
-★Information Retrieval: Why does Gmail take longer to search my inbox than Google takes to search the entire web?It often takes 3+ seconds for Gmail to search my inbox, and it usually takes less than 1 second for Google to return results for a search query on the web. Why is there this speed difference?
-Because the web has already been indexed by Googlebot.  Your mail may not have been indexed yet when you search.    Embed Quote

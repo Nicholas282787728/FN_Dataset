@@ -1,2 +1,0 @@
-What should I do/learn next?
-You can try: Project Euler : which is a series of challenging mathematics/computer programming problems. Stack Overflow : which is a website featuring questions and answers on a wide range of topics in computer programming. Tiobe Index (The Coding Standards Company) : the TIOBE programming community index gives on indication of the popularity of programming language. This book also may help : Think Like a Programmer Remember this : we build, we test we build, we test without failure we don't learn Good Luck ! 

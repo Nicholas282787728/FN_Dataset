@@ -1,2 +1,0 @@
-★Is the Fourier transform of a finite discrete sequence always an infinite sequence in the frequency domain?
-Yes. Fourier transform of a finite discrete sequence will be a continuous function in frequency. It'll have all frequency components from 0 to .

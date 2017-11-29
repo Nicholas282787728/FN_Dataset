@@ -1,1 +1,0 @@
-Are all full binary trees also ternary trees?yes,because it satisfies the property of ternary tree that every node has maximum three children. actually,not only full binary tree,but all binary trees are ternary trees. 

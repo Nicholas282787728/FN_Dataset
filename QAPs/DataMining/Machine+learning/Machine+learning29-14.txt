@@ -1,2 +1,0 @@
-★Why isn't supervised machine learning more automated?
-It is evolving . Recent demonstrations of  Deep Learning based on ANNs suggests that such a "Go" button is not too distant in the future.    Embed Quote

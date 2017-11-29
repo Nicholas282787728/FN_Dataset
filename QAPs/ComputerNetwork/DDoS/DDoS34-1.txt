@@ -1,2 +1,0 @@
-★Are Obamacare websites getting hit by DDOS attacks?All the news reports are saying that the sites are down due to overwhelming traffic.  Is there any way to verify that *all* that traffic is legitimate?  I don't understand DDOS attacks very well.
-According to this article, Yes! Hackers Target Obamacare Website

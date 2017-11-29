@@ -1,1 +1,0 @@
-When is the random forest better than decision tree?For accuracy: random forest is almost always better. For computational load: A single decision tree will train much more quickly, and computing a prediction is also much quicker. For comprehensibility: A decision tree is more comprehensible. 252 Views  View Upvotes

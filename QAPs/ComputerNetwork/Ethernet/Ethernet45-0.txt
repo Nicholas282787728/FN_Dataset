@@ -1,2 +1,0 @@
-★How does powerline ethernet work?
-Powerline ethernet works basically by sending the data signals piggybacking on the sinusoidal AC power signal; somewhat like how DSL signals can piggyback a voice POTS line.  The data signal appears as spikes on the normally smooth sine wave.  The problem is that if you use uninterruptible power supplies or surge suppressors, these spikes are mistakenly targeted as "line noise and spikes" and thus damped down, thereby severely interfering with your data transmission.

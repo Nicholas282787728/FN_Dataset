@@ -1,2 +1,0 @@
-★Is Thunderbolt (light peak) a suitable cluster computing interconnect?How does it compare to Myrinet, Infiniband, etc.?
-It seems it is, since Apple advertises IP via Thunderbolt.    Embed Quote

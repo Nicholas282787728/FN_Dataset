@@ -1,2 +1,0 @@
-What are the best books to learn algorithms and data structures? Are there any good blogs/posts on these? Which books explain these concepts in a simpler way?
-Here is a list of online books about Algorithms and Data Structures in various formats available for free : Advances in Evolutionary Algorithms by Witold Kosinski, 2008, 284 pages, 40MB, PDF Advances in Genetic Programming, Vol. 3 edited by L. Spector, W.B. Langdon, U. O’Reilly, P.J. Angeline, 1999, PDF Algorithmic Algebra by Bhubaneswar Mishra, 1993, 425 pages, 2.3MB, PDF Algorithmic Graph Theory... (more)

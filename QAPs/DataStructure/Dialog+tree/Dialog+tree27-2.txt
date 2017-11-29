@@ -1,2 +1,0 @@
-How can I get back my AutoCAD command bar?
-Right click on one of the standard tile menus and check "console". 

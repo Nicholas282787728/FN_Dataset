@@ -1,2 +1,0 @@
-★Designers: How do I make better looking web pages?
-Assuming yours is the type of out-of-date site I come across every day, here are a couple immediate fixes you can do now: Make your p tag bigger (no more 12px). Change the 'html blue' on links and lose the underline. Make your buttons larger, not green, and remove the glassy effect on them. Stop dropping 120px left aligned images in your content area Stop centre aligning h tags. Put a call to action on your homepage.    Embed Quote

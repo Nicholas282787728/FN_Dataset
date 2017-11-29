@@ -1,2 +1,0 @@
-★What are some good books for Computer Networks?
-Computer Networks by Andrew S. Tanenbaum and David J. Wetherall makes a readable introductory text. While not always exposing full technical details, it is certainly an entertaining and informative read.

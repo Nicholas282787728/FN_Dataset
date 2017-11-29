@@ -1,2 +1,0 @@
-★What is the difference between switching and routing?
-I guess this has been answered to death. But the way I often explain it to people (and I am aware this is flawed) is that switches act to create 'a network' whereas routers connect 'different networks' together. A very simplistic view... but makes some kind of sense!    Embed Quote

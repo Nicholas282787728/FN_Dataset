@@ -1,2 +1,0 @@
-★What is back propagation in neural networks?
-Backpropagation is just a special name given to finding the gradient of the cost function in a neural network. There's really no magic going on, just some reasonably straight forward calculus. Backpropagation really threw me off when I first learned NNs, because I thought it was some highly specialized technique - It's not. This is not to say it's not a difficult, but under the hood it's straight forward calculus.    Embed Quote

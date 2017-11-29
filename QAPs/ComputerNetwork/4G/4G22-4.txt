@@ -1,2 +1,0 @@
-★Why is 4G (Advanced) named LTE and not 5G?
-hi, Lte stands on 3.9 G which does not fulfill all the criteria to be called as 4G. 4G is the advanced version of LTE. Lte is having high throughput then WCDMA, & in case of 4G it'll be a bit more. 5G standard is still in the testing stage.

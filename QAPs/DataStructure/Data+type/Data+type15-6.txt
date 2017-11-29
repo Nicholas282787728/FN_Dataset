@@ -1,2 +1,0 @@
-Is String data type?
-String is a data type in java and not a a primitive data type . String is predefined class in java and a class is referred as an abstract data type. even if we notice general syntax to define the variable it goes like : <data_type> <reference_name>=<valid_value>; Everything that fits into the data_type placeholder without giving any compilation error is a data type whether it is primitive or not or may be categorization of class and interface is a matter of separate/special categorization. 198 Views

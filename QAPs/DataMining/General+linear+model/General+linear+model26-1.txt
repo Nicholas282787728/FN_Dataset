@@ -1,2 +1,0 @@
-★How do I deal with normalization of feature vectors when they contain both discrete and continuous valued features?
-Normalization is done on a per-attribute basis, so usually you would normalize the continuous values per-attribute and leave the discrete values as is. You are normalizing so you can use a method like nearest neighbor?    Embed Quote

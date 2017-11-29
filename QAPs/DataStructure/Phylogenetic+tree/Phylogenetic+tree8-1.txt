@@ -1,2 +1,0 @@
-Why don't phylogenetic trees usually include common ancestors?
-We don’t actually know what’s at the split. We’re limited to fossils and other remains, from which we can usually say, based on morphology and the aggregation of data from both fossil and living species, that a particular specimen is likely very closely related to the common ancestor of A and B species. We can’t say the fossil specimen definitely is that species. 96 Views · 4 Upvotes

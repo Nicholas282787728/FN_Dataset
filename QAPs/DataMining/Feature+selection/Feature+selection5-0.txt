@@ -1,2 +1,0 @@
-★What is the best feature selection method on text mining?
-The best method depends of what you want to do with the data.  The features can be the counts of words which occur in different classes of document and the number of samples which occur in each class.  This information can be used for calculating documents.  You can also use tf-idf weights.  This would involve maintaining a vector for each document that you process.  This information can be used to derive topics and infer the content of a document samples.    Embed Quote

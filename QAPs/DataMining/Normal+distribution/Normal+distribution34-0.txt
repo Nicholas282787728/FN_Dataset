@@ -1,2 +1,0 @@
-★Does engineering prowess follow a log-normal distribution?
-I hope not. Such an model would not account for the negative-X engineers who actually do measurably more harm than good (salaries aside). I get that 1X should be the mean (or median perhaps) but you really need to decide how these X ratings combine for groups (product? sum? soft-max?) so we can attempt to label anyone other than the 10X case before speculating on distributions.    Embed Quote

@@ -1,2 +1,0 @@
-★What is the best social intranet software available?
-eXo Platform (Open Source Enterprise Social Network and Enterprise Portal) is an open source alternative to Yammer and Jive. It's a social collaboration platform that is highly extensible and based on open standards. The UI and UX are amazing, just have a look

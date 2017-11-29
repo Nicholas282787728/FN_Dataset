@@ -1,2 +1,0 @@
-★How do you interpret Neural Network results?Ive watch quite a few youtube videos on neural nets and even pumped some data through them. Can someone give me an example of how one would intepret these results, preferbly in a business setting (ex: users defecting from a website, credit default, purchasing xyz product)
-Identify (discover) the defining features of your most profitable customers. Focus your marketing attention on obtaining more customers who exhibit these characteristics.    Embed Quote

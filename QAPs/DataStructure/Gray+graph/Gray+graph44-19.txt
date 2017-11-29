@@ -1,2 +1,0 @@
-What are the greatest dashboard designs, and why?I am looking for some cool dashboard designs following the latest design trends and UI Patterns. Dashboards mainly displaying the analytics, performance graphs and the most vital information.
-This is Insight, a dashboard for Pivotal Tracker. Here is what makes it great: Clean font and font-sizes Good color contrast Good data-ink ratio Fully customizable in colours, positioning and sizing 

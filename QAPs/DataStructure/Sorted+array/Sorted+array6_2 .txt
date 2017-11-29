@@ -1,1 +1,0 @@
-Why is processing a sorted array faster than an unsorted array?Processing? I assume you mean finding some element in a sorted array. It's fast because you can employ algorithms like bisection sort. 

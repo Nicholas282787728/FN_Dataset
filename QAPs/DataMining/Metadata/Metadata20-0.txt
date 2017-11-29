@@ -1,2 +1,0 @@
-★Is there a free tool which can complete music metadata by identifying the song?I have a very large collection of songs but the metadata is very haphazard. What free tool can be used to correct this? Open source tools which work on Linux are preferred.
-Linux and open source, you say?  Check out this fingerprinting service built by the guys at Last.fm - I hear the folks who built it are incredibly talented: http://blog.last.fm/2010/07/09/f... And the GitHub repo for the client: http://github.com/lastfm/Fingerp...    Embed Quote

@@ -1,2 +1,0 @@
-How did you go from understanding algorithms to being able to design them yourself?
-I find that algorithms emerge from problems and not necessarily from other algorithms. So I believe the best way to find an algorithm is to go out and solve problems. The more problems you see. The more solutions you experience. The more likely you are to put things together and create a new one.  Majority of new algorithms will basically be enhancements of old ones because they don't quite solve your particular flavor of the problem. 

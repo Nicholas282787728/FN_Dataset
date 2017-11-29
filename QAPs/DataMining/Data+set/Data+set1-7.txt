@@ -1,2 +1,0 @@
-As a data scientist, how do you start investigating a data set?
-Once you have the data - you need to conduct  data exploration. refer this presentation on how to conduct data exploration. Data Visualization 2-20121121 1834-1.wmv    Embed Quote 

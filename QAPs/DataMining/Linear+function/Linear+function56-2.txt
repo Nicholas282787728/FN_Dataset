@@ -1,2 +1,0 @@
-★Linear Algebra: What is the meaning of rank of a matrix?What is the meaning of rank of a matrix. What all are its applications?
-That is defined to be the number of linearly independent rows in your matrix. It also happens to be the number of linearly independent columns. If you need to compute it, row reduce your matrix (just to REF, no need to go all the way to RREF), and count the number of nonzero rows in the result.    Embed Quote

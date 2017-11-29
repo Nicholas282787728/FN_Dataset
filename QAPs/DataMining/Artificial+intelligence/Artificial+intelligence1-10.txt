@@ -1,2 +1,0 @@
-★What will be the next big thing in artificial intelligence in the next 10 to 20 years?
-Reducing gap between human brain and machine. http://en.m.wikipedia.org/wiki/I... Currently 1. Human brain states a problem. 2. Then you pass it into computer. 3. Computer process the task (applying natural language processing, Machine learning, Pattern recognition...) 4. Finally you get your results and 5. interpret and analize. Steps 2 and 4 are total time wasters and should be reduced to minimum.    Embed Quote

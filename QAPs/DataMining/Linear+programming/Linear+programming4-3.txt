@@ -1,2 +1,0 @@
-★Why these two linear programs are not equal?
-Many errors, for eg beq=[100; 70; 250]; should be beq=[100; 70; 100]; and Aeq=[1 1 0 0 0;0 0 1 1 0;0 1 1 1 1]; should be Aeq=[1 1 0 0 0;0 0 1 1 0;0 1 1 2 5]; Please refer to Solve linear programming problems    Embed Quote

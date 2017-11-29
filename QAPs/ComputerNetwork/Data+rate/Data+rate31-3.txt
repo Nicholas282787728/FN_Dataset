@@ -1,2 +1,0 @@
-★Information Theory: Is there a theoretical limit to data transfer rates?
-Shannon's Theory explains that limit and S/N ratio also.

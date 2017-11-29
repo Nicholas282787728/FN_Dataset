@@ -1,2 +1,0 @@
-What is the relationship between music and math?Convergence of infinite harmonic series and the musical octaves as manifested in the piano keys.
-Originally Answered: Interdisciplinary Topics: How closely related are music and math?Musical pieces can be modeled as a walk over the vertices of a certain four-dimensional structure, and that actually gives some insight into the structure of a piece that can be difficult to see through traditional music theory.  See A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice for details. 

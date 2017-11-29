@@ -1,2 +1,0 @@
-What is fractional cascading on a segment tree (merge sort tree)?
-Check this out - You could have invented fractional cascading. 

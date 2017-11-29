@@ -1,2 +1,0 @@
-What should you do if you want to join against your main database from Hadoop?There are at least a few reasons why just querying it adhoc might be bad: network saturation on your Hadoop cluster, performance of MapReduce, load on your databases.
-At Meebo, we used Pig for log analysis, and our solution to this problem was to include as much info in the log lines as possible to reduce the need for this, or post-pone joining until a future step (usually, in the indexing/map step of our CouchDB summary views). 

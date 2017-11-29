@@ -1,2 +1,0 @@
-★What are basic artificial intelligence projects for beginners?Some basic projects other than pac-man, 8 queen puzzle etc
-If you are interested in Machine Learning (a branch of AI that focuses on data driven learning, statistics etc.) then I would recommend taking a look at Kaggle: The Home of Data Science.    Embed Quote

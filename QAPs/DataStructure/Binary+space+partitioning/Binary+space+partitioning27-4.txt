@@ -1,1 +1,0 @@
-What's the difference between distributed and distributional (semantic) representations?Besides the differences in learning algorithms, i.e. LSA for distributional and neural net language models for the distributed, what is the intrinsic difference between these two kinds of word semantic representations?

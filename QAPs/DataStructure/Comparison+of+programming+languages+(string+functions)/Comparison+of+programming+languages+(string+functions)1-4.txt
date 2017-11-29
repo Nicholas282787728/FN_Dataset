@@ -1,2 +1,0 @@
-Is PHP dead?What is the job outlook and future of PHP in the next 5 years?
-Originally Answered: Is PHP dying with time?No, but the number of people asking this question on a monthly basis seems to be staying constant. 

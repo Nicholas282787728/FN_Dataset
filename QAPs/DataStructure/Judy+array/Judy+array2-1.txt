@@ -1,2 +1,0 @@
-What are some good project ideas to be a kickass algorithmist?
-My preferred site to learn (and practice) algorithms is the USA Computing Olympiad training program: USACO Training Program Gateway It is divided in modules in increasing difficulty level and each subject is usually in its own submodule. Besides problems, it also offers quite a few texts about different algorithms, data structures and general techniques. The drawback is that it is a bit old and still uses files for input/output instead of the standard input/output. 

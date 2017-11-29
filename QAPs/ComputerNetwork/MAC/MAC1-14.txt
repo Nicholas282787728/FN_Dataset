@@ -1,3 +1,0 @@
-When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?Because a MAC address is set in the factory and can end up anywhere.  It would be possible to route via MAC addresses, but every device would have to store the location of every other device.  That would make for an impacticaly large and unusable route table.
-
-IP addresses on the otherhand are assigned by location, so to reach another IP address you can send the packet in the general direction and know that devices closer to the destination will know how to find it.

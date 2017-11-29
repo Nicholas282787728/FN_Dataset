@@ -1,2 +1,0 @@
-Which data type is used to store values as large as 100! In C?
-100! = 9.332621544×10^157 There's no data type in C to store such a big integer. But you can use an array(of integers),which acts like a single integer.Keep computing and modifying the result within the array itself  until you get to the factorial of the desired number. 

@@ -1,2 +1,0 @@
-★What are some tricks for using regular expressions with Python?
-I can't say "tricks", lemme say tip. Understand basic regular expressions (You can get this book Regular Expression Pocket Reference, 2nd Edition ISBN:978-0-596-51427-3). And don't rewrite complex code that already exists, look 'em up. E.g. use re package. >>import re >>help(re) happy "pythoning"    Embed Quote

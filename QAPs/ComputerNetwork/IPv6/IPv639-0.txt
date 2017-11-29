@@ -1,2 +1,0 @@
-★Has vimeo.com supported IPv6? And What is its IPV6 address?
-No, they don't.  You can tell whether or not a given service / host supports ipv6 by doing a simple DNS lookup, or if you're already running ipv6 you can even more trivially just hit it with the 'ping6' command: cpatti@zen: ~ $ ping6 Vimeo, Your Videos Belong Here                                                    [14:32:20] ping6: getaddrinfo -- nodename nor servname provided, or not known FAIL: 1 cpatti@zen: ~ $    Embed Quote

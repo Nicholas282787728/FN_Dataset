@@ -1,2 +1,0 @@
-What are some things that programmers and computer scientists know, but most people don't?
-NEVER attract a programmer's attention if he's staring blankly at anything. The semicolon is worst button to malfunction on a keyboard. You wish for a language with the speed of C and the readability of Python You know the differences between "void", "null", and "zero." The 'Heartbleed' bug is pretty simple and lots of 'secure' technology today may be vulnerable to it. Updated 30 Nov 2014 • View Upvotes

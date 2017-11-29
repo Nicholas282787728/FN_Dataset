@@ -1,2 +1,0 @@
-★What is the difference between a process and a thread?
-There are several differences between a thread and a process: Each process has its own code, data and kernel context (VM structures, descriptor table, etc). While the threads of a process, they share the same code, data and kernel context. Processes usually form a tree hierarchy. P0 spawning off P1 and so on. While all the threads of a process are peers. Process context switch is much heavier than a thread context switch for the OS kernel because there is much more state to change.

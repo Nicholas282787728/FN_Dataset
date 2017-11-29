@@ -1,2 +1,0 @@
-★What are some reasons to fit a linear regression using the least square by minimizing the l2 norm?Specifically, first, l1 norm is robust to outliers. Why not use l1? Second, computationally, how does the performance of solving the l2 minimization problem(either solving the normal equations or gradient descent) compare to linear programming (using simplex or interior interior point method ) for l1 norm?
-These days, the main reason is that it is familiar to a lot of people. My view is that other methods (in particular quantile regression) are under used.    Embed Quote

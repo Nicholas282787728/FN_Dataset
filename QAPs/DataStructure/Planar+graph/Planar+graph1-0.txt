@@ -1,2 +1,0 @@
-What is the difference between a simple planar graph and a planar graph?
-A graph is planar if it can be drawn in a plane without graph edges crossing while a graph is simple if it has no multiple edges or loops. So, I guess a simple planar graph is a graph that is both simple and planar. But, there is no real difference between the two as adding multiple edges preserves planarity (and the same holds for loops). 

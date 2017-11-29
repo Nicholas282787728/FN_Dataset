@@ -1,2 +1,0 @@
-How can I create a multiple line graph in Excel?
-Instead of having one row of information you just highlight the two rows of information and click “Insert” then Line Chart like below: If you highlighted all of the above in excel and clicked to insert a line graph you would be presented with the below: Hope this helps. 381 Views · 1 Upvote

@@ -1,2 +1,0 @@
-Why are there no solutions to the equation x 2 +6x+9 − − − − − − − − −  √ =x  ? Wouldn't x=−3/2  be a solution?
-Indeed, if you interpret "sqrt" function to mean the negative square root.  Then x = - 3/2 is a solution. In this case, sqrt(x^2 + 6x + 9) = -(x+3). And, -(x+3) = x when x = -3/2. So there are no solutions because we have the convention that the sqrt function returns the positive square root. The answer is not very deep -- just a matter of convention and definition. 

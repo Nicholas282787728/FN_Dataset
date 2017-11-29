@@ -1,2 +1,0 @@
-★What are the best open source machine learning libraries written in Python?
-Orange is the best one that I have ever used: http://www.ailab.si/orange/ . I think that it is mostly written in C++ but it has huge collection of Python based modules.    Embed Quote

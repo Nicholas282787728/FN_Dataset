@@ -1,2 +1,0 @@
-★If HTTPS is more secure than HTTP, why don't all websites use HTTPS?
-Additionally, even though desktop devices have a lot of computing power mobile devices don't. Encryption is usually avoided in mobile communications.

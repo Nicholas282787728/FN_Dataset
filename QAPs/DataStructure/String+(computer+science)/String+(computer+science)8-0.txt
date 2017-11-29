@@ -1,2 +1,0 @@
-How computer science can impact biological studies and researches in biology field?
-Computer science is extremely important for biology.  Analysing DNA requires a number of computer science algorithms designed to find patterns and similarities in long strings.  Computer science is needed for the analysis of xrays of crystalized enzmyes, protiens, and DNA; for creation of CT Scans and MRIs; for modeling biological and ecological processes; for simulating cells and neurons; etc. 

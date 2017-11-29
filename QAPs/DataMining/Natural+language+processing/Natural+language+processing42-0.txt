@@ -1,2 +1,0 @@
-★How good is the most advanced natural language processing system today?
-The short answer: good. The long answer: not good :) We're making lots of progress on specific problems. There are fantastic practical applications of nlp literally in our palm that would have been unimaginable years ago. We are however very far from any sort of general language understanding. That's what makes this field so interesting...    Embed Quote

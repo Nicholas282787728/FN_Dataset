@@ -1,2 +1,0 @@
-★What's a good way to parse XML in C#?
-It depends on what you want to do with it. As Lohith said, you can use XmlDocument using a syntax like this: [code] XmlDocument document = new XmlDocument(); document.Load(THE FILE); XmlNode node = document.DocumentElement.SelectSingleNode(THE TAG);[/code] You can also use XmlReader. Take a look here: http://msdn.microsoft.com/en-us/...    Embed Quote

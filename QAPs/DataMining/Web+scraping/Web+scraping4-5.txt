@@ -1,2 +1,0 @@
-★What is the legality of web scraping?
-Intellectual property is not your only concern when it comes to scraping.  Trespass, the Computer Fraud and Abuse Act, Unjust Enrichment, and various other state and federal law are at issue. Bottom line, if you scrape a site in a way that breaches their Terms of Use, you are probably in violation of one or all of the above mentioned laws/doctrines, and could be liable for civil and also criminal (see CFAA) liability.    Embed Quote

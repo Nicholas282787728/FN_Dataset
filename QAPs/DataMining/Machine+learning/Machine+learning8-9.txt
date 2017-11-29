@@ -1,2 +1,0 @@
-★What are the best interview questions to evaluate a machine learning researcher?
-They must be able to formally define probability, shannon entropy, and kullback leibler divergence.  Then ask them some use cases of each. Then expand from there.    Embed Quote

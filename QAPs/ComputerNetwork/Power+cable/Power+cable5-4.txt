@@ -1,2 +1,0 @@
-★What is meant by an electric power cable rated at a voltage grade of 450/750V?
-It means that phase to phase voltage is 750 & phase to line ground voltage is 450

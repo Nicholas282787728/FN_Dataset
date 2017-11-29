@@ -1,1 +1,0 @@
-What's the difference between a data structure and an abstract data type?

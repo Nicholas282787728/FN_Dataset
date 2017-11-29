@@ -1,1 +1,0 @@
-What will the array be after 1 pass in insertion sort?for example array is 5 6 3 1 2.Same . As at first pass it will check the value which is at index 1 with index 0. In this example it 5 is smaller than 6 so values will not be changed. 84 Views

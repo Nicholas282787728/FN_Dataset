@@ -1,2 +1,0 @@
-Why string is not a primitive data type in Java?
-String is a class in java . Not A primitive data type . That’s why there are various String methods for manipulation , modification of String defined in String Class . Java is beautiful . 711 Views · 1 Upvote

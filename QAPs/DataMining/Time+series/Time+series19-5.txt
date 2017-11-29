@@ -1,2 +1,0 @@
-★What is a good algorithm to interpolate missing time-series data?
-Optimum method is to use Wiener Filtering method.. There are three verities of interpolation. 1) Prediction (Forward or Backward) 2) Smoothing 3) Filtering Depending on where ur data is missed in time line, u can use any one of the method..    Embed Quote

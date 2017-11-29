@@ -1,2 +1,0 @@
-What are some bad uses of Python's dictionaries or Hash tables in general?
-If you find yourself doing operations on hashes or dictionaries that contain more than 1000 members, you should probably be using a database instead. 129 Views · 1 Upvote

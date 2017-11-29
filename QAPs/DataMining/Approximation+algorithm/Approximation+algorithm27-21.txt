@@ -1,2 +1,0 @@
-★Have there been any new brilliant computer science algorithms in last 10 years?Especially those that may REPLACE some algorithms in current textbook. Since most of the algorithms in textbook are designed in 20th century.
-Here are a couple of algorithms that came into being in the 90s that became very useful practically. 1) BSP trees which John Carmack invented 2) BWT compression that forms the basis for BZip    Embed Quote

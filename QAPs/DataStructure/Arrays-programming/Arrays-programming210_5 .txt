@@ -1,1 +1,0 @@
-Can we create a array without specifing a size?It depends on the language. In C it is not possible as far as I know. In C++ we can use generic vector<> and use push_back() to insert elements without actually specifying the size. 130 Views  Answer requested by Kandala.vamshidhar Reddy

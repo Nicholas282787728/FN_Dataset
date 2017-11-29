@@ -1,2 +1,0 @@
-What is the best software to implement machine learning/large scale data mining algorithms?
-For large-scale one of the fertile option is to use Apache mahout. Mahout is a scalable machine learning library.  Check the book Mahout in Action for further detail. Also check if the algorithms you intend to use are already present https://cwiki.apache.org/conflue... . Also, if you are already in love with Weka , you can try out Pentaho(http://www.pentaho.com/ ). People comfortable in Matlab can use distributed/parallel framework that Matlab provides.    Embed Quote 

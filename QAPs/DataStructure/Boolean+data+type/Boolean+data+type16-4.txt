@@ -1,5 +1,0 @@
-What are the advantages and disadvantages of these data types: integer, floating point, string and boolean?Depending on what you you want for a result of a mathematical, logical, computation. Boolean, yes, no. Float fractions only to the right of the decimal point , string always a alphanumeric data type, integer, whole number.
-
-So it all comes down to the expected result as to which to use where.
-
-I hope this has helped you understand the difference between them and why you use which when. Advantatages disadvantages are very subjective. All depends on what you want as an answer or for the variables that you pass to other parts of the code regardless of language. These principles are fundamental to programming.

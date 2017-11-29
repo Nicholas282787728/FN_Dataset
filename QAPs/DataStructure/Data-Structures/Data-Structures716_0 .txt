@@ -1,1 +1,0 @@
-What is the routine to display the elements of a (singly) linked queue?// vague class definition Class Node{ int data; Node next; } // code to display elements of a singly linked list. Node current = head; while(current != null){ System.out.println(current.data); current = current.next; } 14 Views  View Upvotes

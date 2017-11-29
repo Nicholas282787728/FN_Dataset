@@ -1,2 +1,0 @@
-★What is best way to represent text information as vector in K-dimensional vector space?Suppose small text database, text may be 250 character length. I need to implement K-Means clustering and K-NN classification algorithms for this texts what is best way to solve this problem ?
-Create a vector with something like doc2vec: gensim: topic modelling for humans Or create word vectors (word2vec) and just average them.    Embed Quote

@@ -1,2 +1,0 @@
-★What is a good Node js workflow, editor tools & framework?I am looking at switching from Django/Python and want to know what are the good tools and frameworks for web design in Node.js. I want to try on your development shoes and see if they fit.
-I have been using for the last six months these: Express Angular Pages load almost instantly, data-binding is awesome and the code is very clear to mantain once you understand how Angular works.    Embed Quote

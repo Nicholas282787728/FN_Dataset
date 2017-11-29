@@ -1,2 +1,0 @@
-★What are the best undergraduate textbooks on computer networks?This is for someone with a computer/electrical engineering background
-Computer Networks by Andrew S. Tanenbaum. Its brilliantly written with lucid real life examples and ample historical evidence to support the reasoning behind each step taken to develop networks as we see them today. Must read. For undergrad, i guess this sole book is sufficient.

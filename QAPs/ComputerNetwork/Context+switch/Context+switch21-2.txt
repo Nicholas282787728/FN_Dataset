@@ -1,2 +1,0 @@
-★What would happen if a thread is somehow put on the runqueue in the middle of thread switch where context switch has not happened yet?Any difference from doing so after the switch is complete?
-Yesterday I was checking linux scheduling algorithm. While switching thread the first thing kernel does is "disable preemption". Before enabling preemption, it performs context switch also. So I may not have understood your question correctly but this case seems impossible.

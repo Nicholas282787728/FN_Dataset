@@ -1,2 +1,0 @@
-★What is the best VoIP infrastructure service, API or open source solution to use for a mobile VoIP app?The mobile app is a SIP client.
-Rebtel is easy to use. Check http://comparebestvoip.com for rebtel review.    Embed Quote

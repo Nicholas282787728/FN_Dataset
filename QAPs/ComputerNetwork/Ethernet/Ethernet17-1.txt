@@ -1,2 +1,0 @@
-★Why aren't there any wireless Ethernet cables?
-What is a wireless wired cable? Wireless can't provide the same quality of service as a network cable. A cable gives you 1Gbps each way, stable, whilst wireless gives you, best case, 300Mbps shared between the computers connected, minus the noise from other networks, Bluetooth, microwaves, etc.

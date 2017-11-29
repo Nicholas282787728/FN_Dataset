@@ -1,2 +1,0 @@
-★What is greatest advantage of using linked lists over arrays?
-You  can't really store more than one record in an array location, but you  can fake it by making each array location be a pointer to a linked list.    Embed Quote

@@ -1,2 +1,0 @@
-What is going on with (x^2 - 9)/(x+3)? Why do weird things happen when x gets close to -3?
-Try a different calculator.  Nothing should be going on.  It's just [math]x-3[/math]. A decent calculator would see that [math]x+3[/math] is a factor of the numerator and divide it out.  What you are seeing is an artifact of rounding error in the computation when it is coming close to dividing by [math]0[/math]. 

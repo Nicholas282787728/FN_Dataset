@@ -1,2 +1,0 @@
-★What are the advantages of least squares regression?
-If you assume the errors made in measurement are i.i.d., the maximum likelihood solution is the regression line obtained by LS. From the practical point of view, the objective function is convex so it's easy to find the parameters of the model.    Embed Quote

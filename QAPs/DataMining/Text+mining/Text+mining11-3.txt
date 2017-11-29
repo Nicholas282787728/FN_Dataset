@@ -1,2 +1,0 @@
-★Which open source NLP/text mining framework has the best support for Chinese?
-check the link( lihttp://www.chinesecomputing.com/...) for information regarding some Chinese natural language processing tool and resources. Standford parser( http://nlp.stanford.edu/software...), GATE(http://gate.ac.uk/) and lingpipe(http://alias-i.com/lingpipe/web/...) also supports Chinese language, although I have never tried them for Chinese language.    Embed Quote

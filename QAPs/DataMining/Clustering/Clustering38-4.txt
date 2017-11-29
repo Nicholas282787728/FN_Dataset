@@ -1,2 +1,0 @@
-How do you load data into a Hadoop cluster?
-Depends on your requirements. There are dozens of approaches.    Embed Quote 

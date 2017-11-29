@@ -1,2 +1,0 @@
-What are the different dimensionality reduction methods in statistics?
-The main ones that are purely a dimension reduction technique are principal component analysis and variations on it. Others are more for model selection in regression (or some other method) and these include stepwise (terrible), LASSO and LAR (much better), elastic net, partial least squares, genetic algorithms and so on. 

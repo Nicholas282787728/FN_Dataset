@@ -1,2 +1,0 @@
-★What is the best way to extend the reach of a wireless router at home?I'd rather setup some sort of antenna as opposed to repeaters.
-If you can afford more hotspots then set them to the lowest power settting and put them far apart to cover the most area without overlapping with one another. Also configure them to use non-overlapping spectrum as much as possible (and consider other hotspots in your area).    Embed Quote

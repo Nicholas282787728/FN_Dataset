@@ -1,2 +1,0 @@
-What are the best sites (or tools) using the Strava API?What are some of the best examples or executions of 3rd parties utilizing Strava's API for any of Strava's sports?
-http://www.stravatrailracing.co.uk uses the Strava API to run a regional racing series. 

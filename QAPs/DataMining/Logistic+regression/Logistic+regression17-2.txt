@@ -1,2 +1,0 @@
-★How can I use categorical variables in logistic regression?
-There is an other method to handle categoric variables in a logistic regression model. For each value 1, ..., k of a categoric variable Var one can define the Weight-of-Evidence by WoE_{Var = i} = log (Prob(Var=i|Target = 0) / Prob(Var=i|Target = 1) ). This new variable WoE_{Var} sorts the values by the Prob(Target = 1), and it is suitable for LR.    Embed Quote

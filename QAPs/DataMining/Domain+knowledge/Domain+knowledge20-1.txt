@@ -1,2 +1,0 @@
-★What are some good ways to capture an expert's domain knowledge for writing a program to implement it?
-The same way you learn things from anyone.  You talk to them, a lot. It's very important to the success of an application to have a domain expert available to answer questions, assist with defining correctness, and reviewing work done. Specifically I try to keep the feedback loop very short and not bite off too much at once.  The more uncertain you are about something, the more important it is to quickly prototype and show to the stakeholder.    Embed Quote

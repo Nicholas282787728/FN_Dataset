@@ -1,1 +1,0 @@
-How do we add two arrays in java?Love to write code in less lines :-) int a[]={1,2,3,4,5}; int b[]={6,7,8}; int c[]= new int[a.length+b.length]; System.arraycopy(a, 0, c, 0, a.length); System.arraycopy(b, 0, c, a.length, b.length); for(int a1:c)System.out.println(a1); output: 1 2 3 4 5 6 7 8 131 Views  View Upvotes

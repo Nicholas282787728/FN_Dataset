@@ -1,1 +1,0 @@
-For a given polynomial, is it always possible to associate 'geometric properties' of the curve to its coefficients?For example, we all know that for the polynomial mx+c, m represents the slope and c the intercept. Are there similar interpretations for higher polynomials? I am particularly interested in the 5th order polynomial.

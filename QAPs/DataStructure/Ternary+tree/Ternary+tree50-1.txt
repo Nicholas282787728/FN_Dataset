@@ -1,2 +1,0 @@
-Why don't we use ternary search even though the algorithm complexity (O(logn/log3)) is better than binary search complexity (O(logn/log2))?
-Your Question assumes that both algorithms could be used interchangeably, and this is not true. Revise definitions from wiki. Sometimes we could use one instead of the other, but not always. If this is the case, as Mark Gordon mentioned, binary search is more efficient (factor 2 vs factor 1.5). 

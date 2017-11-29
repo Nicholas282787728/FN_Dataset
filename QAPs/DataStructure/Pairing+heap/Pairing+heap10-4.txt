@@ -1,2 +1,0 @@
-What are the minimum set of required computer science skills for a web developer who does not have a CS degree to be a good programmer?
-If you want to be a competent programmer, here is the list of stuffs that you should be knowing Programmer Competency Matrix. Well, this list is opinionated but I personally feel it makes a lot of sense. Having said that, as Edgar mentioned you should know the basic data structures, algorithms and most importantly how to read others code. Never forget to read this Teach Yourself Programming in Ten Years, before you start. 

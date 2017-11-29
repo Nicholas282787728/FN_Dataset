@@ -1,2 +1,0 @@
-★School internet goes through a proxy server, how do I get out?
-Most of the times a complete http proxy setup will include a redirect rule in your NAT router wich will send all http and https traffic through the proxy ensuring then that you can't surf the web without proxy credentials negotiation. You can circunvent the http proxy by using socks proxys instead, being the most common a SSH túnel into a outside Server whenever you got a shell. Cheers.    Embed Quote

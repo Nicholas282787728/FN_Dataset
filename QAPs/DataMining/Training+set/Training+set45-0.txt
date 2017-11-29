@@ -1,2 +1,0 @@
-★In a support vector machine, the number of support vectors can be much smaller than the training set. How can this feature be useful?
-This is useful in the practical sense that during prediction you need to do fewer computations. Contrast this with a naive implementation of k-nearest neighbors algorithm - you need to compute similarities with all points in the dataset for a prediction. So if you training dataset has 10k points, you are looking at 10k computations. With a sparser output, you don't have this problem with SVMs.    Embed Quote

@@ -1,2 +1,0 @@
-Which business intelligence tools have the best user interface?
-It depends what is best for you. If "best" means integration in an existing broader solution, very easy configuration of the cubes and the data loading layer and query debugging and profiling capabilities all in a web-based interface then I definitely favor the BI suite of my friends from icCube. See here: OLAP Server and Business Intelligence Reporting. If "best" means alerts, pdf generation, limit management, ... then I guess there are other tools out there that are best fit.    Embed Quote 

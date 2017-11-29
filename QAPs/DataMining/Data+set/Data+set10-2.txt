@@ -1,2 +1,0 @@
-Which is better for analyzing large data sets, R or Mathematica?
-R should work great. For datasets in the few gig size, I like using R with MySQL. Depending on the complexity of the models you're trying to build, Python + MySQL works great too.    Embed Quote 

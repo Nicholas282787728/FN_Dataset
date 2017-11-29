@@ -1,1 +1,0 @@
-Why is time always represented in the X-axis of a graph?Its just a convention everyone follows. You can represent it on Y-Axis too but then considering that you take the vertically upwards direction as positive direction for time then you can not move vertically downwards on it for time does not changes direction 63 Views  View Upvotes

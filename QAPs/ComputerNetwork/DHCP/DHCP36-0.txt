@@ -1,2 +1,0 @@
-★A DHCP reply message (from server) can be sent as (select all that apply): A. Broadcast B. Multicast C. Unicast?
-DHCPRelease Sent by a DHCP client to a DHCP server, relinquishing an IP address and canceling the remaining lease. This is unicast to the server that provided the lease. How DHCP Technology Works

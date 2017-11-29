@@ -1,2 +1,0 @@
-How would you explain a B-Tree data structure in layman's terms?
-Consider an apartment complex/condo community that you are visiting, with 1000 apartments/Condos spread among several buildings and a gate in the middle. As you drive in the first board you meet says 1-500      501-1000  <-               -> The Apartment number you want to visit is 807, so take right. Next you see buildings each with numbers such as ... (more)

@@ -1,2 +1,0 @@
-★What is the difference between Logistic Regression and Max-entropy classifiers?
-A name. The math is identical.    Embed Quote

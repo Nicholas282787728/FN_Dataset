@@ -1,2 +1,0 @@
-★When is it appropriate to condition on a binary variable in a linear regression vs. including it as a feature in the linear regression?The former would produce two separately trained regression models. The latter would produce one.
-Whenever cross-validation indicates it's better :) In practice, if it is, there are better ways to handle the data. Conditioning on one variable just leaves too much entropy on the table.    Embed Quote

@@ -1,2 +1,0 @@
-★Is the semantic web a silver bullet for all my problems modeling the world in a relational database?
-I think of it more as an adjunct.  (I also believe there's nothing that can't be modeled in an RDBMS, but that's just one guy's opinion.)    Embed Quote

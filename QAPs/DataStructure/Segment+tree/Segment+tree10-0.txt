@@ -1,2 +1,0 @@
-What are some easy segment tree problems on HackerEarth?
-You can checkout some Segment Tree problems on HackerEarth's website at https://www.hackerearth.com/code.... This is part of HackerEarth's Code Monk series which is helping programmers to take their coding skills to the next level. P.S: You can read more about Segment Tree here - Segment Tree and Lazy Propagation - Akash Sharma 

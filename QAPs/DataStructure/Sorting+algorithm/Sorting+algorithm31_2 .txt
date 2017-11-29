@@ -1,1 +1,0 @@
-Is there any sorting algorithm which is in place, stable, and has linear runtime?The closest you can get to linear run time might be a radix-sort, and that only works for one digit or modulo element at a time. And that's not in-place, but it is stable, in most implementations. One glitch is that if you do it true modulo, that involves a slow division operation. 

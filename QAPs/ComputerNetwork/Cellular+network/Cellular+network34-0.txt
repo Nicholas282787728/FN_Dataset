@@ -1,2 +1,0 @@
-★What are the incentives for cellular network operators to support Apple SIM?
-Neutral SIMS were created and specified by the telco standards comitee, 3GPP. Apple is just the first ones using them.

@@ -1,1 +1,0 @@
-Can anyone give a solution in c/c++ on how to reverse the second half of an input linked list?Traverse linked list using two pointers. Move one pointer by one and other pointer by two. When the fast pointer reaches end slow pointer will reach middle of the linked list. Make a note of end node and midpoints. Reverse the subset of the linked list. 116 Views

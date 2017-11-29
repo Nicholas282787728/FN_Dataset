@@ -1,2 +1,0 @@
-★Are regular expressions concepts generic?Or the concepts differ for different programming languages? I want to master regular expressions in Python. I need some guidance. Thanks.
-Regular expressions are a part of the fundamental theoretical foundations of programming.  Unfortunately, many programmers are not exposed to this part of the game. Please do pick up any good textbook on "Compiler Design" and read up on Grammars->Regular Grammars->Regular Expressions.  You will find the experience immensely enriching and I assure you lots of fun! Enjoy!    Embed Quote

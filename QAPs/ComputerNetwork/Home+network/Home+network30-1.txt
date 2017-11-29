@@ -1,2 +1,0 @@
-★How can I monitor my wireless home network to view the bandwith used by each computer?Sometimes my connection is slow, and it'd be helpful to know if one of my housemates is downloading large files 24/7.
-It appears the answer is no for Apple Airport Extreme. I found these two apps which will monitor total bandwidth, but not bandwidth by device PeakHour NetUse Here is the Apple Support thread.

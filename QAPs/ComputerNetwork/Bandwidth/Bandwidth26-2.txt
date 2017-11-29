@@ -1,2 +1,0 @@
-★What is the total input and output bandwidth of the human brain?
-The input bandwidth is variable over time.  The nature of synaptic (gated) signal transmission is variable bit rate, not constant bit rate.

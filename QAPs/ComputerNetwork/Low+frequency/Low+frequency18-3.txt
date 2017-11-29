@@ -1,2 +1,0 @@
-★Why does a capacitor function as an open circuit at low frequencies, while at high frequencies it acts as a short circuit?
-Check out this lecture from MIT open courseware, will solve all the doubts about the passive filters:    Embed Quote

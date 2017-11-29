@@ -1,2 +1,0 @@
-★What are the most common Regular Expressions one should know?
-RE is just a pattern matching grammar. Learn that and you have all of them. Couple of hours work at most.    Embed Quote

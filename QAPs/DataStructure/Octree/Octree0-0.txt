@@ -1,2 +1,0 @@
-Where can I find an octree implementation in C?
-My knee-jerk is CGAL[1] but it's C++.  I doubt you'll find a quality implementation in C, why can't it be C++?  You can just write C wrappers and link it in normally. [1]: http://www.cgal.org/ 

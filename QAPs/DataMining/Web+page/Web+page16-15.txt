@@ -1,2 +1,0 @@
-★What is a good service that provides visual heatmaps of user clicks on a web page?I have already checked out crazyegg and clickdensity and am not impressed by either. Is there a service you would recommend? Is there an open source solution?
-Not exactly what you are looking for, but we have developed a site that lets you visualize your Google Analytics geo data using a heatmap overlaid on a regular map.  (myHeatmap.com)    Embed Quote

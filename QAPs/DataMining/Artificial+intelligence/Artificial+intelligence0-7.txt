@@ -1,2 +1,0 @@
-★What are the most interesting open-source projects in artificial intelligence and machine learning?What projects should people be paying attention to and studying?
-mloss (http://mloss.org/software/ ) gives brief idea of current state of art of machine learning and machine learning open source tools.    Embed Quote

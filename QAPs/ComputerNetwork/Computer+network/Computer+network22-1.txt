@@ -1,2 +1,0 @@
-★What is a socket in computer networks?
-I highly suggest you ask such questions on Google before posting on forums. A socket is bound to a port number so that the TCP layer can identify the application that data is destined to be sent to. An endpoint is a combination of an IP address and a port number. For example; 192.168.10.1:8080 If you need any more help, please contact me.

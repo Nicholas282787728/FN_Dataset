@@ -1,2 +1,0 @@
-Why is it that every convergent sequence is a Cauchy sequence?
-It's a consequence of the triangle inequality.  If you know that [math]|x_n - L| < \epsilon / 2[/math] and [math]|x_m - L| < \epsilon / 2[/math], then you can use that to show that [math]|x_n - x_m| < \epsilon[/math]. 

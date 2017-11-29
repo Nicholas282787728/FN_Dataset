@@ -1,2 +1,0 @@
-★What's a good engine to use for HTML5 games?
-There is another choice:cocos2d, the address is http://cocos2d-javascript.org. The cocos2d have many version, such as android, ios.But I don't know cocos2d-js support ios or android.

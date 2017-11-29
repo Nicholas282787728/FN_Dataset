@@ -1,1 +1,0 @@
-Logic Synthesis and Verification System ABC A set of utilities for AIGs AIGER OpenAccess Gear

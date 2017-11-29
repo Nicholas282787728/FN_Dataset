@@ -1,2 +1,0 @@
-What are some interesting algorithms that have no known implementation to date?
-Pick any of the quantum algorithms, e.g. Shor's, Grover's. The hardware to implement them usefully doesn't exist yet. 

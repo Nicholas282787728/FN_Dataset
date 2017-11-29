@@ -1,2 +1,0 @@
-★What are good layer 3 switches that handle DHCP server functions?
-It all depends on your needs and the size of your network. for up to 50 Users, every DHCP could do the work. If you have more users/devices then I'd rather use a Windows/Linux as a DHCP server and a Cisco Layer 3 switch to act as a DHCP relay. Of course you can support more users using a simple de vice who supports DHCP but you will have lack of control, ,mostly performance issues and not to mention that it can be very hard to manage

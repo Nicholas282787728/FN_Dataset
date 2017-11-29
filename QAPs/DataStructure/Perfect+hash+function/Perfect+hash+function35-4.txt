@@ -1,2 +1,0 @@
-What feature of C is used very often by experienced programmers but not so much by a newbie?
-As no one has mentioned the preprocessor....  I saw something like this in gcc when I was much younger and it completely blew my mind. struct whatever{#include <something_else.h>}; Not a trick to use too many times in a career, but it has come in handy. 

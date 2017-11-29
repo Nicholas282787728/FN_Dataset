@@ -1,2 +1,0 @@
-★What is the difference between web server, application server and db server?
-The names say it all, no?

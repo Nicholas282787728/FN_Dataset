@@ -1,1 +1,0 @@
-How do I print pascal's triangle in C++ using 2D arrays?Each element would be the sum of the above 2 elements A[0][0]=1; For(i=1;i<n; i++) { A[i][0]=A[i][2n]=A[i-1][0]; For(j=1;j<2n;j++) { A[i][j]=A[i-1][j-1]+A[i-1][j]; } } 716 Views  View Upvotes

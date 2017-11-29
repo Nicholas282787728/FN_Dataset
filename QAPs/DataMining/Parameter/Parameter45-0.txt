@@ -1,2 +1,0 @@
-★Why template parameters are only resolved by method parameter in C#?
-It's not allowed because you are returning a generic empty IEnumerable, so you have to include which concrete class you want with this instance.    Embed Quote

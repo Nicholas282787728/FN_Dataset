@@ -1,2 +1,0 @@
-In what ways are the major modern functional languages different from each other?... compare and contrast Haskell, OCaml, Clojure, Scala, Erlang, and F#, say, (or whatever subset you know about).
-Scala is evolution not revolution; it has maximum back-compatibility with Java. Haskell is the opposite. Clojure is Lisp. 

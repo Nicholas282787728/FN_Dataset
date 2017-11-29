@@ -1,2 +1,0 @@
-★How can I calculate the distance of LASER beam if we know the wavelength?e.g I have a LASER light of 630-680nm. What will be the distance which it will cover ? The power is about <1mw
-Well all light eventually diverges so I don't think that there will be a specific 'distance'. Mostly longer than till where you can see the last dot...    Embed Quote

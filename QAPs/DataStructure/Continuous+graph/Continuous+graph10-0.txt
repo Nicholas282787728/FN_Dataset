@@ -1,2 +1,0 @@
-Why must the base of a logarithm be positive?I'm confused by the following line in Tim Wilson's answer to How do you determine the domain and range of a logarithmic function? f 3 (x)=logx∈R  only if x∈(0,∞)  .
-x must be positive, but x is not the base, 10 is. Because the base is 10, x is the result of 10 raised to something else. There is nothing one can raise 10 to to get a real negative number. 

@@ -1,2 +1,0 @@
-★Are there crowdsourcing tools for information retrieval tasks?Are there widely used tools that ease the process of acquiring labels for various information retrieval tasks (e.g. classification, relevance assessment)? User friendly GUI (even better a web interface) and basic support for data management are desirable. Unfortunately, I didn't manage to find any available tool used on relevant initiatives like TREC.
-Take a look at Crowdflower    Embed Quote

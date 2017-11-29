@@ -1,2 +1,0 @@
-Business Intelligence: What are some good BI tools for MySQL?
-SiSense Business Intelligence Analytics & Dashboard Software  is a great BI tool for MySQL. It's a fully-functional, powerful, yet cost efficient, web-based data analytics, dashboard and reporting tool for MySQL data. You can use it with local, remote or cloud databases. You can play with an interactive demo here to see some 0f the features: See BI Dashboards & Reporting In Action    Embed Quote 

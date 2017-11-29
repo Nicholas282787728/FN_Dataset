@@ -1,2 +1,0 @@
-★On my MBP, under "Network", Wifi and Ethernet are labelled backwards. Wifi says 'Ethernet" and 'Ethernet" says "Wifi". How do I fix this?I tried "Rename Service" under the gear drop down.  It let me type it in, hit "Apply".  Closed "Network", re-opened  but no change.
-Delete all connections and remake them using the + button.

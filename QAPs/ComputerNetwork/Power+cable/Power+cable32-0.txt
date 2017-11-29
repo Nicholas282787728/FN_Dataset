@@ -1,2 +1,0 @@
-★Do I need to unplug the power cable at the wall as well as out of back of the router when rebooting?
-Nope.  Doing one or the other is sufficient. Most consumer routers are built to be low cost so they don't have on/off or reset switches.  If your router had a switch, you actually wouldn't need to disconnect anything. Disconecting the power cable from ether end of the cord simply turns off the device.  Once power is restored, the router "reboots" in the same way a computer does, by reinitializing itself.    Embed Quote

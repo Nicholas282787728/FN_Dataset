@@ -1,2 +1,0 @@
-★Is Viber using SIP as a signalling VoIP protocol ?This is a follow-up question to How is Viber going to make money?.
-No - Viber is not using SIP because SIP P2P is still in a undefined state. SIncethey are not using SIP, I am very curious how will they then integrate with rest of the world on phone - like skype's call out?  Giving apps free and then having proprietary protocol like skype. Interesting ... So far so good. sandeep http://www.rapidsoftsystems.com    Embed Quote

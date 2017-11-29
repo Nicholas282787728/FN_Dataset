@@ -1,2 +1,0 @@
-What programming language do people hate the most, and why?
-Enterprise style Java. Bloated with design patterns and unnecessary class hierarchies. The core Java language is not that bad, in my opinion it comes somewhere in the middle of the programming languages ranking. 

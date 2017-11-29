@@ -1,1 +1,0 @@
-How can you insert slicer on a line graph in Excel 2010?Slicers are a component of Pivot Tables. So if the line graph is created from a pivot table, then you can use a slicer. 8 Views

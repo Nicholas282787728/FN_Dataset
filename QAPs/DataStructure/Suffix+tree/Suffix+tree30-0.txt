@@ -1,2 +1,0 @@
-How often do questions involving Trie, Suffix Arrays and Suffix Trees come up in interviews for internship positions?
-Questions that can be solved using Tries may be asked as it is nothing special, just augmented tree and possibly can be solved using other DS too if not optimally. Suffix arrays are generally not asked. But you should know what all three are. 

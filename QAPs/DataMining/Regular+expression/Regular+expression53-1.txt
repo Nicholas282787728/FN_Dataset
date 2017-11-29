@@ -1,2 +1,0 @@
-★Are there any good tutorials for learning regular expression?
-You can just google around for the basic syntax then use https://regex101.com for building quick explained expressions    Embed Quote

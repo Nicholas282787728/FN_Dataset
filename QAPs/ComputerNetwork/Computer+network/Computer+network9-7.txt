@@ -1,2 +1,0 @@
-★What is the best book about computer networking?
-This was one of the ref books when I studied few years back. Really liked it, clearly described and detailed concepts Computer Networks (5th Edition): Andrew S. Tanenbaum, David J. Wetherall: 9780132126953: Amazon.com: Books There are free pdfs also out there on net

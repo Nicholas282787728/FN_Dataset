@@ -1,2 +1,0 @@
-★How do I create a network connection between my physical computer and a VM running atop it?I have a Thinkpad X1 Carbon running 64-bit Windows 8.1, and a VMware virtual machine on top of it running 64-bit RedHat Linux Enterprise 6.5. I need to create a network connection between the two machines. How do I do it? Please provide detailed instructions as I do not have a clear background in networking setups.
-For VMware For VirtualBox:

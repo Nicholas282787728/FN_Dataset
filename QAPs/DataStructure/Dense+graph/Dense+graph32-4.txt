@@ -1,1 +1,0 @@
-What are some examples of how conditional random fields works?

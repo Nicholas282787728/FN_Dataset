@@ -1,2 +1,0 @@
-★Is data warehouse normalized or denormalized? Why?
-There  are completely normalized data warehouses, there are such  that have a dimensional (star schema) architecture with normalized fact  tables and denormalized dimensions, and combinations: data warehouses  that (in addition to the ETL/staging layer) have a normalized "business  layer", and a dimensionally designed "presentation layer", which is fed  from the business layer. Normalized data warehouses are often associated with the name Inmon, dimensional design is associated with the name Kimball.    Embed Quote

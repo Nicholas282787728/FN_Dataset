@@ -1,2 +1,0 @@
-Which are some of the best web data scraping tools?
-I recommend SiteSucker on a Mac, if you have a simple job. Its easy to use, fast (took 10 mins) & free. My job was simple; to archive the blog posts on my website so I can migrate everything to a new CMS. NB my site is very simple: a dozen static pages about my consulting work and a blog - only 4 levels deep, < 500 pages, few images and video, no tricks and treats. SiteSucker for OS X    Embed Quote 

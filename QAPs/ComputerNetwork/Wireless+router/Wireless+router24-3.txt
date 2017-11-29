@@ -1,2 +1,0 @@
-★Why will a wireless router change on its own?
-Depending what changed it could be a software problem. If it the wireless channel some routers will automatically switch to a less crowded channel to improve performance. If it's anything else and your router is relatively new I would suggest you look for an update.    Embed Quote

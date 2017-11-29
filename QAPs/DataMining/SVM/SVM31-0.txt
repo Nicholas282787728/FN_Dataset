@@ -1,2 +1,0 @@
-★Is there any library for SVM supported by Hackerrank/Interviewstreet?Or does it expects us to write the code for SVM which involves Quadratic Programming as well.
-We have ML and nlp libraries enabled for Machine Learning challenges. liblinear and libsvm for c/c++. weka, stanford-nlp and java-ml for java, nltk, numpy, scipy and sklearn for python/python3. You can try these libraries for any of the challenges in this category => https://www.hackerrank.com/categ...    Embed Quote

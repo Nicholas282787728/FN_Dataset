@@ -1,2 +1,0 @@
-★Is HTML5 better than Flash?
-That's a very hot discussion right now. Personally I would say it all depends on what you are wanting to do or achieve. Flash certainly has more versatility in doing most things, but HTML5 is supported in theory by more devices. I think as time goes on we will start to see clear advantages of both, but I'm pretty confident they can both live together on the web, with the developers using what they feel is necessary.

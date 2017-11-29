@@ -1,2 +1,0 @@
-★What is the evil twin method in wireless networking?
-1. Identify target & do recon; 2. Clone the target network; 3. Redirect traffic on cloned AP to a service page (asking for the WPA-2 Key) -- this page has to be on point, convincing; 4. Deauthenticate the hosts on the original network, and wait 'till they connect to our cloned network; Check out the video: http://vimeo.com/34309678    Embed Quote

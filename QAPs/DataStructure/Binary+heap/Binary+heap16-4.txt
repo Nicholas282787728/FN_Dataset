@@ -1,1 +1,0 @@
-Given an in-order traversal of a special binary tree having property that the node is always greater than its left and right child. How can we reconstruct the tree efficiently?

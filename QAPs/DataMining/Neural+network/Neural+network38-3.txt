@@ -1,2 +1,0 @@
-★What are some advantages of using neural networks over decision trees?references to benchmarks on specific datasets would be very helpful
-The recent development of Deep Learning has improved the standard of neural networks to be the technique of choice for many hard problems. For an excellent overview see http://www.iro.umontreal.ca/~ben...    Embed Quote

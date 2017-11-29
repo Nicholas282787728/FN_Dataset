@@ -1,2 +1,0 @@
-★Who is working on HTML5 Document Viewers?
-Adding to Ryan Damico's answer… We (Box + Crocodoc) are! We just launched the Box View API in beta last week: http://developers.box.com/view/. Box View is the latest incarnation of what was formerly Crocodoc [1]. Box View handles converting Office and PDF documents into beautiful HTML5. You can see an example converted PPT here: http://box.crocodoc.com/document... Message me or email me at sean AT box dot com if you have any questions. [1] HTML5 Document Embedding | Crocodoc

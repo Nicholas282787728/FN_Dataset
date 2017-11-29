@@ -1,2 +1,0 @@
-★Why is logistic regression considered a linear model?
-The whole reason for taking the logit is to make it possible to use a linear model.  That is, the model is linear of the logit.    Embed Quote

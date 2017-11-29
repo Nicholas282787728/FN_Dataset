@@ -1,2 +1,0 @@
-★What can I do If 64 bit Windows 8.1 is not able to detect Moto G phone connected via USB data cable?
-There has to be some setting  like USB connection or in developer setting USB dubug

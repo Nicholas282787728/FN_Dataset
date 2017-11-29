@@ -1,2 +1,0 @@
-★What is the difference between statistics and machine learning?
-Statistics focuses on all aspect of data-analysis such as descriptive, exploratory, inferential,  predictive and causal. But, machine learning only focus on  predictive modeling.    Embed Quote

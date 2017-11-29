@@ -1,2 +1,0 @@
-★Why is the minimum packet size 576 and 1280 bytes in ipv4 and ipv6, respectively?
-576 bytes is actually what is called Minimum Transmission Unit, which is to say that every implementation is supposed to be handle this much size at once and nothing less than that should be transmitted as a result of defragmentation. This is more do with the transmission level than IP itself. This is more of a convention to avoid too much fragmentation.

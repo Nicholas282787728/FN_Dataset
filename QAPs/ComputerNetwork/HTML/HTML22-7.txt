@@ -1,2 +1,0 @@
-★What are the differences between HTML5 and HTML?
-HTML5 is used nowadays to peform more functionality than HTML. Especially to embed audio and video files in wabpages. There a traidional way in html to declare heading footer etc. But in HTML5 these are override by navbar, container etc. This is basic difference. HTML5 has more tags than html.

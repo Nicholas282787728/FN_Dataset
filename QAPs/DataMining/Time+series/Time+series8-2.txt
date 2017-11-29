@@ -1,2 +1,0 @@
-★What is the best way to store time series data in MongoDB?
-I would use a capped collection (http://www.mongodb.org/display/D...) as a scratch area and have some aggregating process that would use the business rules to build collections and indexes relevant to my business rules / user stories. Splunk (http://splunk.com) is using that kind of approach when indexing, and the result is really fast (no mongodb though - they use a proprietary technology for storing their indexes)    Embed Quote

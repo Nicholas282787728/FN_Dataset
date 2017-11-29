@@ -1,2 +1,0 @@
-How long does it take for OSPF to converge in a k-ary fat-tree topology built from 128-port switches from a cold state?
-That depends on the implementation. 

@@ -1,2 +1,0 @@
-My amplifier is producing a slight buzzing sound when i connect it to my guitar. This sound stops when i touch the strings. Whats the problem?It is an ashton amplifier. The sound is more noticeable with distortion on higher volumes. The wires seem to be okay.
-This is normal. When using passive pickups, you are the path to ground. The ground circuit is complete when you touch metal on your guitar. The only ways to avoid this fully is to use active pickups that are internally shielded (like EMG), or to use a wireless unit, which isolates you from the electrical system. 

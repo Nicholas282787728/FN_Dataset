@@ -1,2 +1,0 @@
-★What communication protocols are used with telecommunication satellites?
-DVB-S (Digital Video Broadcasting - Satellite) is a widely used standard, not only for video distribution but as a transport mechanism for IP. It specifies a framing structure as well as a range of standard modulations and error correction coding rates. It's current iteration, DVB-S2, allows those modulation schemes and error correction codes (MODCODS) to be tailored for every receiver according to their link conditions. This is known as Adaptive Coding and Modulation (ACM). See: Standards - DVB

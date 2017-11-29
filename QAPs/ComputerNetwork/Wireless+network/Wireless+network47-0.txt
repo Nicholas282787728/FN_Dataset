@@ -1,2 +1,0 @@
-★If I poach wireless from an open wireless network, am I probably going to "get hacked"? Should I never do that?
-It is true that you're increasing your exposure to hackers if you use untrusted wireless access points, but the majority of people with open wireless networks aren't hackers, so it is unlikely that you'll get hacked from doing this. It also depends a lot on context.  If you are staying at a hotel where DEFCON is going on, you should be much more careful than if you are living in an old folks home, for example.    Embed Quote

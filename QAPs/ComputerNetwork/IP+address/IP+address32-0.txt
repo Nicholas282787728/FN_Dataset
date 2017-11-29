@@ -1,2 +1,0 @@
-★Can one track my real IP address when I use VPNs?
-There are always bugs that can leak information. Here's one recent example. Huge Security Flaw Leaks VPN Users' Real IP-Addresses | TorrentFreak VPN users are facing a massive security flaw as websites can easily see their home IP-addresses through WebRTC. The vulnerability is limited to supporting browsers such as Firefox and Chrome, and appears to affect Windows users only. Luckily the security hole is relatively easy to fix. This is from January 30, 2015.

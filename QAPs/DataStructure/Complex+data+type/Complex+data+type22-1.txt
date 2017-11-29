@@ -1,2 +1,0 @@
-What is C++ good at that cannot be achieved in Java?Follow up question: What are the types of applications that can be built in C++ but not in Java?
-Here's a full article on the differences between C++ and Java: Comparison of Java and C++ One big difference that I haven't seen mentioned in the other answers is generic programming. For instance, only C++ templates can be speciailized and C++ template parameters can have default arguments. 

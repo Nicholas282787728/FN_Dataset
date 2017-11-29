@@ -1,2 +1,0 @@
-★Why will a wireless router change on its own?
-It was inadvertently restarted (ie. power fluctuation) and the working configuration wasn't saved (ie. made changes that weren't persistent).    Embed Quote

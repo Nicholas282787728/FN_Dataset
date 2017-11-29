@@ -1,2 +1,0 @@
-Why is "social graph" the most appropriate term to describe the underlying concept?
-Facebook's Mark Zuckerberg was the first I remember using the term, back in 2007 if I remember right. I doubt he invented the term, though, he just made it stick. I couldn't come up with a better term. Contact graph? Relationship graph? 

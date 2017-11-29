@@ -1,1 +1,0 @@
-What does the private hash() function in the HashMap class do?

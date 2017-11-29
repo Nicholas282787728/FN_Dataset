@@ -1,2 +1,0 @@
-What is void data type?
-‘void’ is not a datatype. It is a keyword. ‘void’ means nothing. A function returning nothing must be preceded with void keyword. However, in some programming languages (not all) like C, you may write ‘void’ inside parenthesis if in case there is no parameter to a function. Example: void myFunc(void) { //statements } 311 Views

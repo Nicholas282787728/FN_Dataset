@@ -1,2 +1,0 @@
-Is there a way to find the last element of an array without involving a counter, neither explicitly nor implicitly?
-Why do you think that array[-1] uses a counter internally?  Python is almost certainly calculating the address of that element by subtracting from the address of the last element.  The address of the last element (or equivalently, the current length of the list) is stored as part of the implementation of the list, not recalculated by counting elements.  There should be no counter involved, explicitly or implicitly, in array[-1]. 

@@ -1,2 +1,0 @@
-★What are the benefits of HTML5 ?
-These are some of the advantages of HTML5 - 1. Improved Semantics 2. Cleaner markup 3. Enhanced Accessibility 4. Consistency 5. Fulfilling customized needs of Web applications 6. Geolocation support 7. Client-side database Source- HTML5- 10 Most Important Features and Advantages

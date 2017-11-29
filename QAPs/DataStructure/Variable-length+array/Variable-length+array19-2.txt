@@ -1,2 +1,0 @@
-How is a long integer implemented in python?
-It uses arbitrary-precision arithmetic which implements long maths in the way similar to elementary school maths when you do operations digit by digit. However it doesn't use such small digits but typically large digits in base 2³² (in 32-bit computers) or base 2⁶⁴ (in 64-bit computers) for performance and memory usage reasons. Sometimes base 10⁹ and base 10¹⁹ in 32 and 64-bit computers respectively are also used when you often need to print or read numbers in decimal. The maximum value depends on how much memory you have. 

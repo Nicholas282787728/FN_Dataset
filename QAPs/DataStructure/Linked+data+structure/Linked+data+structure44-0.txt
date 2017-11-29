@@ -1,2 +1,0 @@
-When we have an RDBMS like MySQL with excellent features for storing data, why do we need data structures like linked lists in real time applications?
-It is because we can't afford an RDMS when a simple linked list will do. 

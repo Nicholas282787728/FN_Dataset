@@ -1,2 +1,0 @@
-★How can I deal with missing values in a predictive model?
-do you mean missing values in your training data? use sampling instead of training on the entire dataset, better yet train several models on subsets of randomly sampled data and then apply some boosting method to assembly them, pruning weak classifiers in the process. This might generalize better.    Embed Quote

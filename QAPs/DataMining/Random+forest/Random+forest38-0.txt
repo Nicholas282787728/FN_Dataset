@@ -1,2 +1,0 @@
-★How reliable are Random Forest OOB error estimates?
-Not reliable enough to use as an estimate for error on a separate test set (will typically under-estimate error), but still very useful to observe after adding each tree to verify that your forest is still learning. If it stops decreasing for a few iterations stop adding trees.    Embed Quote

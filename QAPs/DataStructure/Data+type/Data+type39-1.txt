@@ -1,2 +1,0 @@
-What data type should I use for n=10^18?
-I am assuming you are asking for C/C++ programming language. You must use long long or unsigned long long. Check this link in stackoverflow for more details. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 1.8k Views

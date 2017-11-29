@@ -1,2 +1,0 @@
-Why is malloc used in this C code? What is the use of it anyway?
-The purpose of malloc is to allocate storage for an array. In this common use case the size of the array is not known until runtime, so the alternative of static allocation is inappropriate. 

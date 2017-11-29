@@ -1,2 +1,0 @@
-What are the top ten things a beginner must know about JavaScript?
-There's a very helpful slideshow created by Mozilla Evangelist Christian Heilmann (Javascript Best Practices). A couple of weeks ago, we adapted this information to create an interactive guide using code samples (like Baptiste's incredible post at the top). Hope this helps: Javascript Best Practices Part 1 Javascript Best Practices Part 2 

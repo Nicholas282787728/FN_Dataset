@@ -1,2 +1,0 @@
-How is collision handled in HashMap?
-there are multiple stratagies to avoid collisions. One is to choose a good hash function, and also people use double hashing to avoid collisions. Double hashing 

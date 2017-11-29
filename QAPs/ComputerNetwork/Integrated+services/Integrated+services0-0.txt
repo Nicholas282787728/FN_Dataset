@@ -1,2 +1,0 @@
-★What is integrated service in .NET?
-MSDN has a great resource for this type of question since it is really a broad topic. You will be able to find resources and answers to this question there. Integration Services Programming Overview    Embed Quote

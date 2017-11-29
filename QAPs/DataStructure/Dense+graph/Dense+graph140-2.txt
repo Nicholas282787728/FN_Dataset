@@ -1,2 +1,0 @@
-Is it possible to adapt sql to do graph database query? Are there any available tools?
-Using `WITH RECURSIVE`, yes. 

@@ -1,4 +1,0 @@
-Information extraction dates back to the late 1970s in the early days of NLP.[1] An early commercial system from the mid 1980s was JASPER built for Reuters by the Carnegie Group with the aim of providing real-time financial news to financial traders.[2]
-Beginning in 1987, IE was spurred by a series of Message Understanding Conferences. MUC is a competition-based conference that focused on the following domains:
-MUC-1 (1987), MUC-2 (1989): Naval operations messages. MUC-3 (1991), MUC-4 (1992): Terrorism in Latin American countries. MUC-5 (1993): Joint ventures and microelectronics domain. MUC-6 (1995): News articles on management changes. MUC-7 (1998): Satellite launch reports.
-Considerable support came from DARPA, the US defense agency, who wished to automate mundane tasks performed by government analysts, such as scanning newspapers for possible links to terrorism.

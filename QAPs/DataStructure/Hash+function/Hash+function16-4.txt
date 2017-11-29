@@ -1,1 +1,0 @@
-What are some best practices to write a good hash function?

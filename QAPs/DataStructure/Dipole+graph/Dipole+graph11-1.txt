@@ -1,2 +1,0 @@
-What is a simple, useful way of visualizing the magnetic moment of a system?
-If you look at a modern rotary actuator disk drive, it has what is called a linear motor or voice coil (from its use in audio speakers) in a magnet field created by neodymium magnets that are stationary.  Applying current to the coil creates a torque which when large enough causes the arm to rotate.  The force created by the reaction of the current to the magnetic field through which it passes acts around the rotational center to be a "magnetic moment" 

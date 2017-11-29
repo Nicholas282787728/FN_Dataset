@@ -1,2 +1,0 @@
-What is "must have" knowledge or skill set about Java for a recent CS graduate applying for an entry-level Java Position?
-types, constants, array, conditional loops. Formatting swings and knows how to works with numeric and boolean logic.  Start from histogram program. Good to know how to program by object close to Java Bean implemenation. Java AWT and SWING for UI. If you will know JSP or Servlets will be advantage but not necessary. Good with SQL. 

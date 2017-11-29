@@ -1,2 +1,0 @@
-How many data types are there in Java?
-If you are taking about basic data types of primitives then there are following data types Int, float, double, long, char, byte, short, string 

@@ -1,2 +1,0 @@
-★What are the plug-and-play solutions to DOS/DDOS attacks?Is there any software or system that you can use or put in front of your servers that can protect your servers from DOS/DDOS attacks? What are the approaches of companies like Facebook/Google/Twitter/Quora to DOS/DDOS?
-Prolexic (http://www.prolexic.com/) is a service you can use to protect against DOS/DDOS attacks.

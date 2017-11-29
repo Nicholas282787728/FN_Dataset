@@ -1,2 +1,0 @@
-★Command Line Interfaces: What is a flag?
-A CLI flag, like AFK flags, is something that you can raise, or not. So `--with-cookies` would be a flag. You can raise multiple flags `grep -i -v` raises the 'i' and 'v' flags If you can set some value, it's usually not called a flag, so `--banana-countdown=42` would be an option or parameter. But people are not so rigorous in naming things, so think of this as just a heuristic. At least you now know where the name 'flag' comes from.

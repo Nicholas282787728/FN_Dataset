@@ -1,2 +1,0 @@
-Is recursion actually useful? I can't find any reason to use it. Why do some people love to use it?
-Some problems are much simpler to solve recursively. One example is when you want to traverse a binary tree using depth-first search. You can do it in three steps. Depth-first: 1) Visit the root node. 2) Visit the left half of the tree (recursively). 3) Visit the right half of the tree (recursively). Iterative solutions exist, but they're harder to get right. 

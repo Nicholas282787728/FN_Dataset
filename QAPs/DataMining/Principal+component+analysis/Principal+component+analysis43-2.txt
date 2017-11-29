@@ -1,2 +1,0 @@
-★How can I decide which type of data—mean corrected data or standardized data—is to be used in principal component analysis?
-Depends on how your data looks like and what you wish to achieve (does it make sense?). I don't think standardization is really necessary (most of the time). I would rather mean-correct first. If you go to full standardization, you basically end up with a Factor Analysis (your covariates would be correlations as well if I'm not mistaken)    Embed Quote

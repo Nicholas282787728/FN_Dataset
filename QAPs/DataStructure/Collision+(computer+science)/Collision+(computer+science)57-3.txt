@@ -1,2 +1,0 @@
-How should I prepare for a Software Development Engineer interview at Amazon?
-Prepare challenges from GeeksforGeeks - A computer science portal for geeks and that should be good enough. !! 

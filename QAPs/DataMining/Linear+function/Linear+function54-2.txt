@@ -1,2 +1,0 @@
-★Are polynomials linear functions?
-A function is an abstract machine that transforms inputs of one type into outputs of a possibly different type. A polynomial is an expression that can be used to define a function (that would be a polynomial function), but polynomials and functions are objects of different types. Linear functions are those that use a polynomial composed of monomials of degree in their definition. Note that linear and affine are not the same.    Embed Quote

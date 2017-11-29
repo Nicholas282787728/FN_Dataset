@@ -1,2 +1,0 @@
-★What is the best continuous integration & deployment server?
-This will be the second time I have answered in favor of a JetBrains product, so I am sure I will come off as a bit of a shill, but TeamCity for .NET development is the clear winner.  I can't speak to its use in other languages, but I know it handles a lot of different scenariors.  It is extremely easy to use and configure for the most advanced scenarios.  I have set it up at 2 different companies now and I was very happy with it.    Embed Quote

@@ -1,2 +1,0 @@
-★What does support vector machine (SVM) mean in layman's terms?How to calculate the SVM taining accuracy using ROC area
-If we assume 2 class problem with linear separability, find the boundary instances of each class (for class A this is the instance closest to one of the class B instance ) between 2 classes and find a line between them separating at the middle.    Embed Quote

@@ -1,2 +1,0 @@
-In the extension of the digits of pi, what is the longest ( known and theoretical ) consecutively repeated substring sequence of digits?
-If (as is conjectured), the decimal digits of pi form a disjunctive sequence (Disjunctive sequence), then the answer would be that you could find arbitrarily long strings which immediately repeated. I don't know what strings of that type exist in the digits that have been calculated, and I don't know where you'd go to find out. 

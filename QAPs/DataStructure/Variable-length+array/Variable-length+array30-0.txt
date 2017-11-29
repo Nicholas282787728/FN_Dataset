@@ -1,2 +1,0 @@
-Why i am getting "Runtime Error(SIGSEGV)" in codechef, while it works perfectly in my local system?
-Your problem is with this line: int n,k,arr[n]; Here the value of n is not defined and is probably 0. Hence you are declaring an empty array and trying to input in it. declare arr[n] AFTER  cin>>n>>k; P.S. Your solution will give TLE after this modification because cin,cout are too slow. Try using scanf,printf. 

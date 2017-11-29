@@ -1,2 +1,0 @@
-★Can we do principal component analysis on a dataset which is not multivariate normal?
-PCA is basically a method of rotation. In this method a data which is not in Eucledin space is transformed in it... It does not require any assumption about normality...    Embed Quote

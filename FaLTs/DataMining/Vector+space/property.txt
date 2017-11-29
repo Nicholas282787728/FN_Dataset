@@ -1,2 +1,0 @@
-A way to characterize subspaces is that they are closed under linear combinations. That is, a nonempty set W is a subspace if and only if every linear combination of (finitely many) elements of W also belongs to W. Conditions 2 and 3 for a subspace are simply the most basic kinds of linear combinations.
-A subspace W of X need not be closed in general, but a Euclidean subspace is always closed.[1]

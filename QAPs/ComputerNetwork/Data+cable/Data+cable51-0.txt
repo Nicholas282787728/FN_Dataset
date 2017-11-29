@@ -1,2 +1,0 @@
-★What determines the speed data transfer in LAN cable?
-What determines the speed? Physics. Speed of light in a vacuum is approx 186,000 miles per second. Speed of an electrical signal through a copper LAN cable is a little slower at approx 127,000 miles per second. If however you mean bandwidth or throughput then this is determined by the technology used to push the data through it. Example, most Ethernet LANs run at either 10 / 100 / 1000 Mbps. (mega bits per second)

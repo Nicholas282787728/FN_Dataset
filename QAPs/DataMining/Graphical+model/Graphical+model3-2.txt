@@ -1,2 +1,0 @@
-★What are some good implementations for probabilistic graphical models?In particular, I want to be able to create and visualize belief networks, and apply various algorithms like variable elimination, belief propagation, junction tree, loopy belief propagation and other approximation algorithms. (any language, but active support is a plus)
-David Barber has a toolbox for his textbook "Bayesian Reasoning and Machine Leaning", which has an interesting collection of tools: David Barber : Brml    Embed Quote

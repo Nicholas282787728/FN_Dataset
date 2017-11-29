@@ -1,2 +1,0 @@
-★What are the use cases for Amazon GPU Cluster?
-http://gpgpu.org/ This site is totally dedicated to use GPU for general purpose computations.    Embed Quote 

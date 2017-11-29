@@ -1,1 +1,0 @@
-Should I store data in an array in PHP or put it in the DB?Store the data in Database.. That's the best solution rather than storing in an array in PHP :) U can restore data easily in database :) 817 Views

@@ -1,2 +1,0 @@
-★What is your favourite graph theory problem?
-The (n/2-n/2-n/2) conjecture: Let G be a graph with n vertices such that at least n/2 vertices have degree at least n/2. Then G contains all trees with at most n/2 vertices. This has been proved for all sufficiently large n.(The proof uses Szemeredi regularity lemma.)    Embed Quote

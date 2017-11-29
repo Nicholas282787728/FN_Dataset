@@ -1,2 +1,0 @@
-Software Engineering: What are the best data structures to learn about?
-Since my first "real" language was C, I tend to think like a C programmer. Arrays, linked lists, doubly-linked lists, stacks, trees, unions, big and little endian variables, stacks, queues and buffers. 

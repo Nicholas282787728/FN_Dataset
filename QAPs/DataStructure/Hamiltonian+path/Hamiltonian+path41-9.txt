@@ -1,2 +1,0 @@
-How does one become good at problem solving?
-According to George Polya in his excellent book "How to Solve It" there are four steps to solving a problem: 1. Understand the problem 2. Make a plan 3. Carry out the plan 4. Check your answer In my experience a lot of people (myself included) are tempted to jump straight to step 3 and get stuck. The book contains plenty of advice about how to approach each stage of this process, with particular emphasis on finding analogies. 

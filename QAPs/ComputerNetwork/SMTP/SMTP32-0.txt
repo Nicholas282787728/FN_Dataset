@@ -1,2 +1,0 @@
-★Do some Internet providers capture (not block) SMTP port 25?
-I know some who do. They block access to unknown SMTP servers. This is likely to avoid spamming from customer devices. The rule is a bit extreme. In some cases, they don't out right block TCP/25 but they push the traffic to an email scanning appliance which might not react properly to your calls depending on how it's configured.    Embed Quote

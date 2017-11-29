@@ -1,2 +1,0 @@
-What is the most recommended coding language for creating full blown human AI?
-I think that it's not about the language but about the architecture. If You want to implement the entire system in one language I would suggest C/C++ with python. 

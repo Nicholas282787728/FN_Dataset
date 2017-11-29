@@ -1,2 +1,0 @@
-What are all the data structures that you have come to know about? Which of these do you use very frequently? Group them in "Basic" and "Advanced".
-1) Linked list - most underrated and underused IMO. I've seen many huge perf gains by refactoring core data structures to Link lists 2) Skip list - Easy to implement, threadsafe, search and sorting algorithm which has a log n expected time complexity 3) quadtrees/octrees - great for spatial partitioning in game programming 397 Views · 2 Upvotes

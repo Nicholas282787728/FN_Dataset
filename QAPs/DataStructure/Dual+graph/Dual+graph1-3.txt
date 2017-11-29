@@ -1,2 +1,0 @@
-What is your favorite example of duality in math?
-The duality between time and frequency becomes almost second nature to Electrical Engineers.  The Fourier Transform provides the means for crossing between frequency space and time.  As with logarithms (which may be another example of duality) many problems are more easily solved by taking the Transform of a function that describes the behavior of a circuit in the time domain and using that transform to examine the circuit's behavior in the frequency domain.  The reverse also works as well. 

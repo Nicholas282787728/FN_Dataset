@@ -1,2 +1,0 @@
-★What are some popular software packages for graphical models?Follow-up on Software Packages for Graphical Models by Kevin Murphy.
-Adding to the list pymc pymc-devs/pymc    Embed Quote

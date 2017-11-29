@@ -1,2 +1,0 @@
-If advanced algorithms and data structures are never used in industry, then why learn them?
-This is like a football player asking "Why lift weights when a football weighs less than a pound?" The point is to train yourself to the point where the algorithms problems you actually run into are all trivial, and you can devote your mental resources to building good systems instead of trying to remember how quicksort works. 

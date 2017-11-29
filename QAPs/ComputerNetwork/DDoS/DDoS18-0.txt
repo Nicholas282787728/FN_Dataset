@@ -1,2 +1,0 @@
-★How many DDOS attacks does Facebook get in 1 day?
-Note: My answer just reflect my guess and do not have any factual evidence. Big companies/sites like Facebook probably receive lots of DDOS attacks but 99,99999...% are unsuccessful. To take down such sites they need gigantic botnets and clever DDOS attacks. I cannot remember an attack that took Facebook down for even some minutes. It's also worth notice that these attacks are expensive and need a strong motivation, and I don't know any motive for such an attack to Facebook.

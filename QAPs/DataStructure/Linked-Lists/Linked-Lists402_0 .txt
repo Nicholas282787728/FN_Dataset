@@ -1,1 +1,0 @@
-What are the advantages of recursion vs iteration in linked lists?Tail recursion optimization aside, iteration is more space efficient because with each recursive call, you add function calls to the stack (those take up space). 175 Views  View Upvotes

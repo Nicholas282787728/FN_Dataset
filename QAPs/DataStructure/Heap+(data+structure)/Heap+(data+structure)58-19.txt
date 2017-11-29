@@ -1,2 +1,0 @@
-What basic data structures and algorithms should one learn before starting competitive programming?
-I think you are looking for something like this. Here is pretty good list of all the data structures and algorithms with some links of problems from sites like spoj, TopCoder, CodeChef,  etc. I think it's useful. ProgrammingCampSyllabus.pdf - Google Drive You can also have a look at this, but this is basic: What basic data structures and algorithms should one learn before starting competitive programming? 7.5k Views · 27 Upvotes

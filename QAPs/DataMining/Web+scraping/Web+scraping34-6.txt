@@ -1,2 +1,0 @@
-★What is the best language for developing web scraping and web indexing softwares?
-Web scraping with PHP and web indexing with Pyhton.    Embed Quote

@@ -1,2 +1,0 @@
-What is the solution to this algorithmic problem that involves graphs and data structures?
-You can do this with a Link/cut tree in [math]O(\log n)[/math] per operation, by maintaining such a tree for each owner. This is overkill for the given problem, though, as the problem constraints are much simpler and only require maintaining chains instead of trees. 

@@ -1,2 +1,0 @@
-What is Evernote missing?
-For me it has to be support for Markdown. The rich text features in Evernote feel clunky at best, especially the way formatting gets carried between devices. It would be awesome to have universal markup support so one can write documents in plain text and be able to view them as formatted notes when needed. 

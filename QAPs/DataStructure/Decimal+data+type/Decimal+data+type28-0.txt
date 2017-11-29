@@ -1,2 +1,0 @@
-How do I print 5.00 in place of 5 in a C++ code?
-Change the data type from int to float. But just doing that won't change the output. It will still not print the required zeros after decimal points. To get the required output, you can add the code: cout.precision(2); cout << fixed << x << endl; 

@@ -1,2 +1,0 @@
-What sort of software projects require graph algorithms or network flow algorithms?
-Any company that needs to route stuff through a complex network (cities, for instance) will make heavy use of Dijkstra's / A* algorithms and variants. 

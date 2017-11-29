@@ -1,2 +1,0 @@
-What are the new features that will be in Java 8?
-Another summary of "everything" in Java 8: Everything about Java 8 

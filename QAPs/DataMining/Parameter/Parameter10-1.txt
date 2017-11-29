@@ -1,2 +1,0 @@
-★Why doesn’t "sizeof(a)/sizeof(a[0])" work for an array passed as a parameter?
-Arrays in C do not know their size. When you pass them to a function as an argument, you are passing a pointer.  All information about their size is lost at that time.  The receiving routine knows nothing about the array's size.  A fix: pass an integer reflecting the array's size.    Embed Quote

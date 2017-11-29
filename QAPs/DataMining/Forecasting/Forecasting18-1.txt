@@ -1,2 +1,0 @@
-★What are the most innovative demand forecasting models?
-Like Mohit has already mentioned - look at machine learning techniques, especially GMDH-type neural networks. GMDH Shell has great success with this method.    Embed Quote

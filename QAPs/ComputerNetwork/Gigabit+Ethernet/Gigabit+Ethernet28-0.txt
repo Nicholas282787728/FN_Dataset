@@ -1,2 +1,0 @@
-★If you want to hardwire a network through your house, as opposed to wireless, via plug outlets, what is the best product to do that to support high speed?I have wireless router but the signal comes and goes which make th the xbox fluctuate between HD and not. I am looking for another alternative that has a stable but equally high speed connection.
-Category 6a twisted pair cable for Gigabit Ethernet or 10 Gigabit Ethernet. Category 5e twisted pair cable for Fast (100Mb) Ethernet, or gigabit Ethernet. multimode fiber.

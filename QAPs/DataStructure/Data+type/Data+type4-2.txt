@@ -1,2 +1,0 @@
-What is the difference between signed and unsigned data types?
-signed data type can store both negative and positive values and unsigned data type can store only positive values including zero. For more, see this answer : What's the difference between a signed and an unsigned integer? Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 9.1k Views · 4 Upvotes

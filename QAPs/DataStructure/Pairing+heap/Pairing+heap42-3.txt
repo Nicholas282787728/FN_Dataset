@@ -1,2 +1,0 @@
-Why is it impossible to have a comparison sort better than O(nlogn) time?
-In any comparison sorting algorithm, the minimum number of comparisons required is log(n!). But according to Stirling's approximation, we know that log(n!) is in Ω(nlogn), and hence we cannot have a comparison sort better than Ω(nlogn) time. 

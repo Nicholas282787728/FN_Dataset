@@ -1,2 +1,0 @@
-★Can VoIP ever have latency as low as a "regular" phone line?
-It's not your bandwidth. I would check with Ooma to see what ports their device uses. Probably 5061 and 10,000 through 20,000. Make sure your router has those ports open. Considering the amount of bandwidth, QoS is not going to be an issue, but if your router supports it, give VoIP the highest priority. I think the issue lies with the device that converts your old telephone to VoIP. To test that assumption, try Skype. If you are having no delays get on Ooma's tech support. It is their problem.    Embed Quote

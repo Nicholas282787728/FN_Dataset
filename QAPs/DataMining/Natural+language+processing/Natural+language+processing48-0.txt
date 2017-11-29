@@ -1,2 +1,0 @@
-★What are some good books on natural language processing and semantic analysis?For noobs
-My two all time favorites are a) Foundations of Statistical Natural Language Processing by Manning and Schuetze b) Speech and Language Processing by Jurafsky and Martin. And, some papers mentioned here are also recommended.  Natural Language Processing: What are the most important research papers which all NLP students should definitely read?    Embed Quote

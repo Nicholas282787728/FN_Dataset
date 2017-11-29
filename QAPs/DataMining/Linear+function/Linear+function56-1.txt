@@ -1,2 +1,0 @@
-★Linear Algebra: What is the meaning of rank of a matrix?What is the meaning of rank of a matrix. What all are its applications?
-The amount of information carried by a matrix.    Embed Quote

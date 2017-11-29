@@ -1,2 +1,0 @@
-What are pros and cons of PostgreSQL and MySQL?With respect to reliability, speed, scalability, and features. I've heard a lot about how Postgres is superior to MySQL in a number of ways, but I only have a loose understanding of the differences.
-This wiki page [ http://en.wikipedia.org/wiki/Com... ] is what my friend and I call "a list of everything Postgres does and a chart of what every other RDBMS does or doesn't do". (Obviously not exactly accurate -- Postgres does have a few reds -- but it's pretty impressive how much ground Postgres covers.) 

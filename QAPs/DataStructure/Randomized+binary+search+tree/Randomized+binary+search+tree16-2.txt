@@ -1,2 +1,0 @@
-What is a possible implementation for std::deque?
-You could have an internal TreeMap<int, T> for the deque<T>, where the integral key is current epoch time if you add an element to the end, or negate epoch time if you add an element to the front. This would take O(lgN) time for inserting into or deleting from both ends. However there may be linear implementation that I'm so pleased to wait for the answer :) 

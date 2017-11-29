@@ -1,2 +1,0 @@
-★What can be an easy data set, and where can I find it for a dissertation on "Text Mining with Pig or Hive"?
-Look here, and knock yourself out: http://www.nactem.ac.uk/resource...    Embed Quote

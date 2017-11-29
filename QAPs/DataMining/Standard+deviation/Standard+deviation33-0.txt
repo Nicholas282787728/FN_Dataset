@@ -1,2 +1,0 @@
-★Why is there a degree of freedom of n-1 for sample standard deviation?
-The super short answer? The 1 represents the mean.  You can't estimate a standard deviation without estimating a mean first (check the formula; or just use your intuition).  That degree of freedom is gone! A longer answer by a smarter person: Review and intuition why we divide by n-1 for the unbiased sample variance If you are comfortable with the preamble, skip ahead to the 6:00 or 7:00. There is also a simulation in the next video if you're not convinced!    Embed Quote

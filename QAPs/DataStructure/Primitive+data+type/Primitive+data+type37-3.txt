@@ -1,2 +1,0 @@
-How can I store 100 factorials in an integer?
-You cannot use integer for number that are bigger than 32 bits or 8 bytes. My suggestion would be to use Double for storing very large number. Please look into this post for more clarification  When calculating the factorial of 100 (100!) with Java using integers I get 0 

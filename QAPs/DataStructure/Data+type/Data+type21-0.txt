@@ -1,2 +1,0 @@
-What are data type qualifiers?
-With Respect to Programming Languages such as C, C++ etc, data type qualifiers are keywords that informs the compiler about the 'type' or the nature of the value that will be stored in a variable/constant/object. Consider free memory as a empty space in a room, and when we declare a variable, a portion of empty space in that room is 'reserved' for that particular variable. Here we need to ensure/know two things 1. How much space to reserve? 2. How can I prevent abuse of this reserved space?... (more)

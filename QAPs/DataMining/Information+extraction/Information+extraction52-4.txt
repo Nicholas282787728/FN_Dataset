@@ -1,2 +1,0 @@
-★Big Data: How is big data stored? Do they use databases like Oracle? How do they extract information from them?
-I guess it uses metadata to store data in column based format contrary to row based databases to eliminate the problem of fragmentation. Correct me if I am wrong.    Embed Quote

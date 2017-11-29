@@ -1,2 +1,0 @@
-★How secure are cellular networks?Specifically LTE and 3G connectivity.
-Very. The security services and law enforcement can listen to anything and have a huge degree of access. But other than that, these are some of the most secure communications you can use. Far better than WiFi or using a PC for anything at all. This wikipedia is a bit dated, but has the key things Mobile security GSM is now vulnerable (but even then beyond the reach of most amateurs), but 3G is still secure and LTE is even more.

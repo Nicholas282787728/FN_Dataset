@@ -1,2 +1,0 @@
-★What are some good Python web scraping tutorials?EDIT: I'm not looking for tutorials on Python, just webscraping/data munging with Python.
-Webscraping using Python without using large frameworks like Scrapy - Check out this if you know basic python . Later it is best to move to some good frameworks like Scrapy.    Embed Quote

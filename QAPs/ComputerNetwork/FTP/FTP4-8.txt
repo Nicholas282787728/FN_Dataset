@@ -1,2 +1,0 @@
-★What is the best FTP client for Windows and Mac OS?I have been introduced to some security issues with several FTP clients. I am looking for the most secure, feature-rich FTP client with versions for both Mac OS and Windows. According to me the most important features are good queue management, different connections in tabs, supporting SFTP, simple interface, handling large files elegantly and good UI responsiveness.
-AnyClient is a good FTP client.  Platform independent and supports FTP, FTPS, SFTP and Amazon S3.   http://www.anyclient.com

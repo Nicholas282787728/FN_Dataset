@@ -1,2 +1,0 @@
-★What IS IPTV products?
-Products required for end to end IPTV service delivery, we distribute these in following categories : IPTV Headend RF Section (will remain same for typical signal reception) Acquisition (IP Encoders, may vary as per requirements of codec & bandwidth) Backend Systems (Middleware, Monitoring, Streaming Products) Access Network (will remain same just supporting multicast delivery) Clients (STBs)

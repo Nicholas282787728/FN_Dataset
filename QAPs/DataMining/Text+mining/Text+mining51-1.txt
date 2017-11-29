@@ -1,2 +1,0 @@
-★What are some real world applications of text mining and nlp?Could anybody tell me what are doing text mining and NLP to make this a better world?.
-Search, recommendation.  Spam detection. Those are good enough.    Embed Quote

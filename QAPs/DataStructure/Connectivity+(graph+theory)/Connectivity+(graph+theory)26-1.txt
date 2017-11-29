@@ -1,2 +1,0 @@
-Do electrical engineers study graph theory?
-At an advance analog circuits level, yes.   Typically you don't need to dive that deep for an intro circuit analysis course.  You can take the math on faith without knowing the connections to graph theory. If, however, you want to understand how SPICE works, you'll be exposed to graph theory because it relates to both how circuits are converted into linear algebra and how various analysis techniques are performed. 

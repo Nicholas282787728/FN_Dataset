@@ -1,2 +1,0 @@
-★What is the future of wireless mesh networks in your opinion?
-What do you mean by "mesh"? Most networks today are tree or star: you seem to be assuming that by saying "AP" and "node" In which case: absolutely yes, IoT, M2M and products "fridge, electricity meter, lights) will become smart nodes HOWEVER that is not "mesh" mesh means so me sort of any:any connection, with dynamic routing - sort of like BGP does at a higher level. All the attempts to do mesh at access layer have failed.    Embed Quote

@@ -1,2 +1,0 @@
-★Why haven't Microsoft Photosynth or Seadragon been more  integrated with online services such as Flickr?
-Photosynth and the technology formerly known as SeaDragon seem to be pretty well integrated- if you click the "grid" view in photosynth, it certainly looks a bunch like the seadragon demos.  Photosynth is also very nicely integrated into Bing Maps.  Can you be a bit more specific about the types of integration that you want to see?    Embed Quote

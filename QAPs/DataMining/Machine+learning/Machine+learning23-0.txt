@@ -1,2 +1,0 @@
-★What is the best machine learning algorithm?
-The most appropriate algorithm for you to choose depends on your goal.  However, I think people put too much emphasis on the algorithm and not enough emphasis on the quality of the data in the underlying corpus as well as the selection of features.  (In reality data quality and features tend to matter far more than the specific algorithmic choice.)    Embed Quote

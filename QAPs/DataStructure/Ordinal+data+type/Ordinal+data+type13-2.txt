@@ -1,2 +1,0 @@
-In Oracle database, while creating a table keeping the columns those are having varchar2, as the end columns, in anyway will it increase the performance or reduce the memory size of the table?
-I can not think of a single reason why performance or memory size could be impaced by the column orderinal regardless of data type. Once a table is created the column ordinal is not even a configurable data dictionary attribute. 

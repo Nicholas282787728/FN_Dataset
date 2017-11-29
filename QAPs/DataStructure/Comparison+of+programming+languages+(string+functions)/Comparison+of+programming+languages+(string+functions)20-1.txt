@@ -1,2 +1,0 @@
-Functional Programming: How does F# compare to OCaml?
-While I don't know a ton about the subject, as no one else has answered – F# Manual - is an excellent reference detailing where OCaml and F# differ. It may be a bit dry but it should answer most of your questions :) 

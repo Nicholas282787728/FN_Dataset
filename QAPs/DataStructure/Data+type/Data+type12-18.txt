@@ -1,2 +1,0 @@
-Which data type is better either float or double in c++?
-Double and float each have their own uses. One can take 308 digits with 15 precision point whereas another can take only 32 digits with 7 precision point. So according to your requirement use it. 15 Views

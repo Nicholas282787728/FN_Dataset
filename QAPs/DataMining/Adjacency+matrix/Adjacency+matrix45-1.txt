@@ -1,2 +1,0 @@
-★What is an efficient algorithm to find an island of connected 1s in a matrix of 0s and 1s?
-It looks like you're trying to find the strongly connected components in the graph represented by a given adjacency matrix.  That's a pretty standard problem, and any of the algorithms in Wikipedia's article on strongly connected components will solve it for you.    Embed Quote

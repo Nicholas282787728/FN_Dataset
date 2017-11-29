@@ -1,6 +1,0 @@
-Bayesian methods are characterized by concepts and procedures as follows:
-
-The use of random variables, or more generally unknown quantities,[8] to model all sources of uncertainty in statistical models including uncertainty resulting from lack of information (see also aleatoric and epistemic uncertainty).
-The need to determine the prior probability distribution taking into account the available (prior) information.
-The sequential use of Bayes' formula: when more data become available, calculate the posterior distribution using Bayes' formula; subsequently, the posterior distribution becomes the next prior.
-While for the frequentist a hypothesis is a proposition (which must be either true or false), so that the frequentist probability of a hypothesis is either 0 or 1, in Bayesian statistics the probability that can be assigned to a hypothesis can also be in a range from 0 to 1 if the truth value is uncertain.

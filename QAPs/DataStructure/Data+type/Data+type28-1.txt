@@ -1,2 +1,0 @@
-What is the biggest data type we can declare in C?
-The biggest data type is long long . 23 Views

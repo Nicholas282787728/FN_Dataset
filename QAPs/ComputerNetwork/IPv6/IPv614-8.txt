@@ -1,2 +1,0 @@
-★Why couldn't MAC addresses be used instead of IPv4 or IPv6 addresses for networking?
-MAC addresses are organizationally assigned and IP addresses are kind of geographically assigned at least on the top level( tell on which network your device is located). Also NAT keeps the IP Addresses tractable.    Embed Quote

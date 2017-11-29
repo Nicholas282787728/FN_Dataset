@@ -1,2 +1,0 @@
-★What is ontology in information science?
-Ontology in information science is data and concept modeling and meta-modeling with a concern for schema operations such as comparison and integration. Throw in a little philosophy and reflection on methods, in order to create some conceptual headroom.    Embed Quote

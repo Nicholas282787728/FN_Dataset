@@ -1,1 +1,0 @@
-How do you detect if a linked list in Java is a palindrome or not if your linked list is a single non-circular one without a tail and has a dummy head?Imagine we have a reverse list function if that helps.Check whether the list and the list reversed are equal. 267 Views

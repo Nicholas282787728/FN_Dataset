@@ -1,2 +1,0 @@
-Can you help me solve e x =1−x  ?
-Actually this equation is a typical one and has another nice approach. Construct the function f(x)=e x +x−1  . Taking the first derivative of it we get f ′ (x)=e x +1  which is always positive. This means the function f(x) is increasing. Since x=0 it's a root of that function that's the only one. 

@@ -1,2 +1,0 @@
-★Web Scraping: What sites are unscrapable?Which websites would be considered unscrapable or very difficult to scrape? Is there a lot of value in their data?
-nmlsconsumeraccess.org would be a difficult one to scrape because it quickly blocks your IP, displays CAPTCHA's, and does not let you access if a page unless found through a search result.    Embed Quote

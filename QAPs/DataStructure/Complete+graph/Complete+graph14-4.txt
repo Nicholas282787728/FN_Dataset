@@ -1,1 +1,0 @@
-What is an edge-weighted complete graph with 6 or less vertices but exactly 7 minimum spanning trees?

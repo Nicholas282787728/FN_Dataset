@@ -1,4 +1,0 @@
-An automated online assistant providing customer service on a web page �?one of many very primitive applications of artificial intelligence.
-This section requires expansion. (January 2011)
-Main article: Applications of artificial intelligence
-Artificial intelligence techniques are pervasive and are too numerous to list. Frequently, when a technique reaches mainstream use, it is no longer considered artificial intelligence; this phenomenon is described as the AI effect.[158]

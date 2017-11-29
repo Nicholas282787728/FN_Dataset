@@ -1,2 +1,0 @@
-What is the 'virtual' data type in C++? How is it different from other data types?
-virtual isnt a data type, its a method specifier. when applied to a method its means that method may be overriden by a sub-class. 149 Views · 2 Upvotes

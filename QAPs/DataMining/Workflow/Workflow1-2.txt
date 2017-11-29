@@ -1,2 +1,0 @@
-★Front-end: What's the best workflow?What's your workflow? Gulp, grunt, yeoman, sass, less, stylus, atomic design, jade, Boostrap? Tell me.
-Sublime 3 with Emmet, layout from scratch, CSS from scratch with SMACSS architecture, Chrome and Chrome Dev tools. I try to avoid JS and use pure CSS whenever possible, and I don't use JQuery.    Embed Quote

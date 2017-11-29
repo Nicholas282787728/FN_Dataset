@@ -1,1 +1,0 @@
-In C/C++, why are pointers given a data type?Since pointers only have to store memory locations of other variables then why don't they all have a a single data type?

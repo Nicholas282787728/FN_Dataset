@@ -1,2 +1,0 @@
-What is data mining?
-The practice of examining large databases in order to generate new information. via Wikipedia I found some good blogs to read on data mining and also help you to understand the techniques.. What is Data Mining, Predictive Analytics, Big Data Best Data Mining Techniques and Trends Five Data Mining Techniques That Help Create Business Value Hope you will now understand the definition and techniques of data mining...    Embed Quote 

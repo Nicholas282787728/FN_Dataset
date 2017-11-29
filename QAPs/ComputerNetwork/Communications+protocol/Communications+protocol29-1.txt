@@ -1,2 +1,0 @@
-★What software/networking protocols are used to communicate with the Philae lander?
-I believe they are using INMARSAT software for radio transmissions in the S-Band. See www.inmarsat.com and www.esa.int/bulletin/bullet93/VER.pdf, the latter gives a good hardware overview of Philae.

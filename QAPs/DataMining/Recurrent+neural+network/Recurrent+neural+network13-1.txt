@@ -1,2 +1,0 @@
-★What is a recurrent neural network and it's difference from conventional ANNs?
-A recurrent net has loops in connections. Meaning some outputs of later layers are fed back into earlier layers.    Embed Quote

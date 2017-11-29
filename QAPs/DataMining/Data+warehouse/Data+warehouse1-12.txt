@@ -1,2 +1,0 @@
-★What are alternatives to building a data warehouse?
-Based on the description you provided you'll have around 40mm records per year and need a low budget solution that will still be able to address your analytic needs. For your data volume it may be an over-kill to use Hadoop, you should be able to build a DWH to accommodate your analytical needs using MySql (free and fairly powerful) on a single server. You can use Shell, Python, Perl (all free and can connect to your upstream data sources) for your ETL.    Embed Quote

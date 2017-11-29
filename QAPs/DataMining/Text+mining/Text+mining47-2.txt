@@ -1,2 +1,0 @@
-★I'm looking for resources and previous work on using Text-mining / NLP techniques to infer location information from articles. Any pointers?
-Try out the Yahoo Placemaker API as I think this does pretty much what you're after - i've used it a number of times and been impressed. See http://www.readwriteweb.com/arch... for an overview when it was launched.    Embed Quote

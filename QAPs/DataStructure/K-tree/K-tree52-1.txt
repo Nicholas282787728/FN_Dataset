@@ -1,2 +1,0 @@
-How can I compare images of the same origin that were cropped?
-This problem is known as near-dup detection. Lots of folks re-crop images and upload them and tech giants don't want the top image search to return 10 nearly identical images, so lots of Google engineers have worked on this exact problem. Local features are your friend. See the other answers -- they give you more details on how to do this. 

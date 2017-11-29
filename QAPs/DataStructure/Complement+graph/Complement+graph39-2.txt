@@ -1,2 +1,0 @@
-What is the most difficult computer science course at Stanford?
-I used to think I was smart because I got into Stanford, but then I took CS228: Structured Probabilistic Models.  It was hard. CS229: Machine Learning is a pretty hardcore, too. 

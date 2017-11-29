@@ -1,2 +1,0 @@
-★What can you learn from someone's IP address?
-You can learn a rough idea of their location. It's pretty obvious what city they're in, for example. You can learn which Internet Service Provider they use. You may be able to figure out how much bandwidth they have.

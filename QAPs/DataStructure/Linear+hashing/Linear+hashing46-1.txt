@@ -1,2 +1,0 @@
-What algorithm did you derive that you're most proud of?
-Loop rerolling.  Not a standard or normally documented code optimization, but given the circumstances my team was operating under, it was necessary for performance.  It's not a unique optimization (I know other teams have done it previously), but I had to construct it from scratch and add special cases that probably haven't appeared for others.  In some cases, the speedup was >100X. Without the loop reroller, our startup probably wouldn't have been acquired, so I feel like I did my part. 

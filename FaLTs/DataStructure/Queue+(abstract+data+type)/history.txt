@@ -1,1 +1,0 @@
-The stack was first proposed in 1946, in the computer design of Alan M. Turing (who used the terms "bury" and "unbury") as a means of calling and returning from subroutines. In 1957, the Germans Klaus Samelson and Friedrich L. Bauer patented the idea.[2] The same concept was developed, independently, by the Australian Charles Leonard Hamblin in the first half of 1957.[3]

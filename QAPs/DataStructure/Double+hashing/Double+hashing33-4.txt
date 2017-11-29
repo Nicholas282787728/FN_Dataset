@@ -1,2 +1,0 @@
-Which are the popular algorithms asked in tech interviews?
-Linked lists. Reversing, cycle-detection, etc. I don't know why, but I have been asked more of these than any other. 

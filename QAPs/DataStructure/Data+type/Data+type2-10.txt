@@ -1,2 +1,0 @@
-What are data types in c?
-Originally Answered: Data type in c programming?long long or long long int are used to hold such ranges. Basically it can hold integers upto -9,223,372,036,854,775,807 to +9,223,372,036,854,775,807. Where as unsigned long long or unsigned long long int can hold integers from 0 to 18,446,744,073,709,551,615 Read more about Data types in C and their range. 177 Views

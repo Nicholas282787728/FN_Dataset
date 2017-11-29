@@ -1,2 +1,0 @@
-How effective is Leetcode for preparing for technical interviews?
-I think Leetcode is good for preparing for interviews. They have good range of questions . I have seen lot of questions from Leetcode been asked in interviews. I think the key is to solve the question on our own and try to understand the logic behind it. Leetcode or any other site is of no use if you just look for solutions and try to memorize it . 

@@ -1,2 +1,0 @@
-What are the top 10 algorithms every researcher in Machine Learning should know about?
-C4.5 k-Means Support Vector Machines (SVM) Apriori Expectation Maximization (EM) PageRank AdaBoost k-Nearest Neighbors (kNN) Naive Bayes Classification and Regression Tree (CART) But, how can one leave out the basics like Logistic, Mahanoblis Outlier Detection, Lasso, Ridge, Least Squares, etc. 10 is very less, I mean statistically insignificant ;) 

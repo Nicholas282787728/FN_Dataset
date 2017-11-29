@@ -1,2 +1,0 @@
-What is the gradient in a straight line graph?
-The ‘steepness’ of the line - how much does y change with respect to x. 49 Views

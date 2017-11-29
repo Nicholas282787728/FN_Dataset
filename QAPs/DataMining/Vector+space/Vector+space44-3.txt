@@ -1,2 +1,0 @@
-★Why is the matrix vector space written like R^(m×n)? For example, isn't a square 2x2 matrix really still contained in R^2?
-An n dimensional vector is contained in R^n, eg. (x, y, z) is in R^3. So an m x n dimensional matrix can be seen as 'm' 'n dimensional vectors', which together span m*n dimensions.    Embed Quote

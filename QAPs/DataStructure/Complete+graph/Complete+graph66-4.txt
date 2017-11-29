@@ -1,1 +1,0 @@
-Is there a formula to find the number of different areas formed by crossing every vertice on a n-sided regular polygon?

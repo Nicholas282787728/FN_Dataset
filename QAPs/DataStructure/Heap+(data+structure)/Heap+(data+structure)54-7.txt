@@ -1,2 +1,0 @@
-What algorithms and data structures should any software engineer know?
-1. Arrays Know how to use arrays. You will use them a lot. Learn how to make them grow dynamically (for programming languages like C). Know how to use a standard library array (example: vector) Learn to use strings (they are arrays). Know how to sort them with two good sorting algorithms (QuickSort and MergeSort) Learn to search in an array. First linear search and then binary search. Learn QuickSelect, it will be useful. ... (more)

@@ -1,2 +1,0 @@
-★How would you go about generating Jokes and Puns using Genetic Algorithms?As a final year project at the CS bachelor's degree level, if I decide to do something regarding Joke/Pun generation using GAs, what all do I need to know? Where do I start?
-By solving the general problem of artificial intelligence.    Embed Quote

@@ -1,2 +1,0 @@
-★What are some good resources for learning about data compression? Why?
-I strongly recommend  Data Compression Explained .

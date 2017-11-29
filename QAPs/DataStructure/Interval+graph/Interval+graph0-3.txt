@@ -1,1 +1,0 @@
-Does Interval Graph always a connected Graph?can we consider this as interval graph; because it is disconnected components?

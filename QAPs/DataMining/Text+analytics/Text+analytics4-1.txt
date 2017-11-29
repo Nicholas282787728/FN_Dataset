@@ -1,2 +1,0 @@
-★What are the next big trends in text analytics?
-Automated analysis of unstructured web sites It is quite hard to crawl the web and extract unstructured information and place it into structured form.  The next gen text analytics package will analyze the DOM trees of known HTML pages, automatically build classifiers around  these pges, and then incrementally crawl and learn new information from less structured websites    Embed Quote

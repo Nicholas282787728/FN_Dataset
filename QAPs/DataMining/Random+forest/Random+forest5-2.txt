@@ -1,2 +1,0 @@
-★Classification (machine learning): What are good libraries for random forest?Like in linear classification we have Liblinear and Vowpal Wabbit.
-The is also a random forest implementation in Apache Mahout. https://cwiki.apache.org/MAHOUT/...    Embed Quote

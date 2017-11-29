@@ -1,2 +1,0 @@
-How can I apply a custom style sheet to a 3rd-party site after making changes using Chrome's Inspect element feature?
-Google Reader is dead, but you are asking about applying custom CSS to specific websites. There are many extensions for that. I upvoted a few relevant answers that were collapsed for an unknown reason. Enjoy :) Simply search for "CSS extension" for whatever browser you wish to use. 

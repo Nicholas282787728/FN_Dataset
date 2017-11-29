@@ -1,2 +1,0 @@
-Should one do programming without having knowledge of data structures and algorithms? How can it be helpful?
-You shouldn't do it. Data Structures and algorithms form basis for building anything real. Without them, programming is not at all helpfu and you are missing a lot of fun of it. Learn DS and Also, I'm sure you'll love them. 

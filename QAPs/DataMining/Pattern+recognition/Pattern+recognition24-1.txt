@@ -1,2 +1,0 @@
-★What is a good introductory article/textbook on the subject of statistical pattern recognition?
-Bishop's Pattern Recognition and Machine Learning text is a mainstay of machine learning courses.    Embed Quote

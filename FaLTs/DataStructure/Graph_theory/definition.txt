@@ -1,2 +1,0 @@
-In mathematics graph theory is the study of graphs, which are mathematical structures used to model pairwise relations between objects. 
-In the most common sense of the term,[1] a graph is an ordered pair G = (V, E) comprising a set V of vertices or nodes or points together with a set E of edges or arcs or lines, which are 2-element subsets of V (i.e. an edge is associated with two vertices, and that association takes the form of the unordered pair comprising those two vertices).

@@ -1,2 +1,0 @@
-What are the best resources for writing voxel (block-world) 3D graphics engines?
-Minecraft is not a voxel engine.  Its a standard polygonal engine that is being used to render bricks made of polygons. Is Minecraft Voxel? I thought it was real (if blocky) 3D? If you really want to know abotu voxels, thats a whole different way of representing the world that is mostly used by accelerated ray-tracers and isnt really suitable to modern game development. 

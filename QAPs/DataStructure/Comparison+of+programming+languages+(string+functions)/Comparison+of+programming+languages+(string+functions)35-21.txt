@@ -1,2 +1,0 @@
-Why do many software engineers not like Java?
-For small projects there is a lot of boilerplate and it takes longer to get things done quickly. I suspect that most of these developers don't work at a company where code needs to be maintained for several years by different people. Java excels at these types of projects. Updated 19 Jan • View Upvotes

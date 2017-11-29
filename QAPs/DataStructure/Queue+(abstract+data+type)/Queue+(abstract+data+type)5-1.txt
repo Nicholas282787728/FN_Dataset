@@ -1,2 +1,0 @@
-How many stacks are required to implement a queue?
-Implementation of a queue with 2 stacks is well known. I don't know if it is /(im)+possible/ to do with 1 stack but most probably it's impossible. 

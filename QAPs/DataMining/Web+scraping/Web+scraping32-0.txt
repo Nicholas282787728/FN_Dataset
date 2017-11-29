@@ -1,2 +1,0 @@
-★Does Wikipedia allow web scraping of its contents by bots?Is it legal to scrape the content of Wikipedia and use it for gathering additional data about a specific term.
-There shouldn't be any reason to scrape Wikipedia.  They offer their entire database for direct download.  They also offer tools to help you navigate and parse the data. Wikipedia:Database download Wikimedia Downloads    Embed Quote

@@ -1,2 +1,0 @@
-What are the most useful gems to use in Rails?
-Devise - a very useful gem that manages user authentication and session information. A very simple way to learn how this process works. 

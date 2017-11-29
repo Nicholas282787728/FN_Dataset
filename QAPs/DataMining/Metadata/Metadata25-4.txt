@@ -1,2 +1,0 @@
-★How do I generate the metadata of an XML file?Is there any open source Java library available? means the structure of xml file and position of each tags in this xml file so that we can keep track any movement of tags e.g say tag xvy1 is shifted from position 4 to 9 position or it is removed completely.Please suggest any open source API in java
-Am no geek in XML , so all I can do is link you to the best resource you could get on the internet XML Tutorial    Embed Quote

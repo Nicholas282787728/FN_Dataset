@@ -1,2 +1,0 @@
-What is the best tool to use for 'classification trees'?
-I am mostly google searching on your behalf ... From the MATLAB documentation: Call Python Libraries From python you can use: sklearn.tree.DecisionTreeClassifier Even better: sklearn.ensemble.RandomForestClassifier 

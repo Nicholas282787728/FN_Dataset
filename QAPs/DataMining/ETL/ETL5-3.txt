@@ -1,2 +1,0 @@
-★Are there any browser based ETL tools?Most of the ETL tools are desktop apps and needs to be installed on a desktop or a server. Are there any ETL tools that are developed as web applications?
-There is EVVSTL tools in the form of web applications (extract, very very slight transform, load) - Informatica On Demand (IOD).    Embed Quote

@@ -1,2 +1,0 @@
-How can I find the k-th smallest in two sorted arrays in O(log m + log n) time?
-Shen's answer is fine, but getting the edge cases exactly right is a bit tricky. In python you could write the following def select(A, B, k): if k >= len(A) + len(B): raise IndexError('list index out of range') while k > 0: m = (k - 1)/2 if m >= len(A): B = B[m+1:]... (more)

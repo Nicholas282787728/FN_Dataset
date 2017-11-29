@@ -1,2 +1,0 @@
-What are data types?
-There are 2 data types 1- Primitive 2- non primitive String, int, Boolean, Float, long, short, byte, char Check here a quick tutorial with real example. 18 Views

@@ -1,2 +1,0 @@
-★What is the exact difference between continuous fourier transform, discrete Time Fourier Transform(DTFT), Discrete Fourier Transform (DFT) Fourier series and Discrete Fourier Series (DFS) ? In which cases is which one used?
-Dft is for finite duration discrete periodic signals having a period say N=11 . It has a direct relation with dtft as a matter of fact dft is obtained by frequency sampling the spectrum of dtft. The continuous dtft spectrum when sampled at a particular frequency gives the dft spectrum which is discrete in the frequency domain.

@@ -1,2 +1,0 @@
-What is the most unexpected relationship that you have come across in mathematical statistics (connecting different distributions)?
-The Cauchy distribution is the source of many surprises. For instance, if [math]X \sim Cauchy(0,\gamma)[/math] then [math]1/X \sim Cauchy(0,1/\gamma)[/math]... uh, OK. The lognormal distribution is the most widely used "weird" one I can think of. It's a boundary case of the log-T, which has no moments at all. 

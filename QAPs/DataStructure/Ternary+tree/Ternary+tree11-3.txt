@@ -1,2 +1,0 @@
-What are the best applications for Tries (the data structure)?
-recommend looking at past and forthcoming SPIRE proceedings if you want to learn about bleeding-edge research related to trie-related data structure - http://spire2010.natix.org/ 

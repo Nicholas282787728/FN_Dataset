@@ -1,2 +1,0 @@
-What is the best web-based project management software?
-There is no such tool, I suppose. Everything depends on your mindset and needs. If you like visual tools and techniques, take a look at https://casual.pm/ Casual helps you organize your projects as visual maps with dependencies. It's great for non-professional project managers, who appreciate intuitive and simple tools. 

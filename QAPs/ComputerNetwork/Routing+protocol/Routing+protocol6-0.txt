@@ -1,2 +1,0 @@
-★Routing Protocols: What are some good BGP textbooks and architecture guides?With an emphasis on freely available resources please!
-http://www.bgp4.as/ http://www.tcpipguide.com/free/t... http://nanog.org/presentations/a... http://www.nsrc.org/ There are some excellent presentations and guides there.  Should help to get you started    Embed Quote

@@ -1,2 +1,0 @@
-What are some of the coolest applications of programming competition algorithms in real life?
-I saw some guys used quadtree in the collision detection of 2d game. I don't know if it is still good enough for the greater games or not, but I believe that comprehending quadtree is required. 

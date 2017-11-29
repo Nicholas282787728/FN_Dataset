@@ -1,1 +1,0 @@
-Can you prove that k divides (knn) with n,k>0 ?Yes. Remember the definition of (knn) : (knn)=(kn)!(kn−n)!n!  It is easy to see that k is a divisor here, since k is a divisor in kn . If we write the last expression differently, we see that (knn)=∏ n−1 x=0 (kn−x)∏ n x=1 x =knn ∏ n−1 x=1 kn−xx =k∏ n−1 x=1 kn−xx  and now it is obvious that k is a divisor. 319 Views · View Upvotes

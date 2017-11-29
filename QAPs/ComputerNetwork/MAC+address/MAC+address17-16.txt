@@ -1,2 +1,0 @@
-★When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?
-Good question...I will give one simple example just consider the MAC address = DNA of Living thing and IP Address = Full Name of that Living thing....you may got my point. How difficult if we call any person along with his/her DNA instead of Name.    Embed Quote

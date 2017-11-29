@@ -1,2 +1,0 @@
-What graph algorithms should a sophomore CS undergrad implement?
-Write an algorithm to determine if a graph is planar. It is very tough and detail oriented. 

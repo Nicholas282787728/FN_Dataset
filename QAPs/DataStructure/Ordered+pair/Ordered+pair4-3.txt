@@ -1,2 +1,0 @@
-How do you determine the shortest distance from the ordered pair (1,4) to the graph of y = x^2?
-So in some of the comments I saw that this is supposed to be a precalc question (even though this exactly the type of problem calculus was devised for). The best solution I can think of is graph the square of the distance (which is a 'nice' polynomial) and find the minimum value of the function (then take the square root to get the actual distance).  It's not quite an analytical solution but its hard for me to think of how to solve this question without calculus. 

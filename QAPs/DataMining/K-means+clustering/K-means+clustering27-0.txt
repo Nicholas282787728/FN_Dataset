@@ -1,2 +1,0 @@
-★Is there a way to formulate a VBA for fuzzy c-means clustering or soft k-means clustering?
-Without details, it's hard to say, but perhaps this fits: Page on arxiv.org    Embed Quote

@@ -1,1 +1,0 @@
-Can anyone produce a graph of tax revenue plotted against economic activity in the UK for the past 50 or 75 years?The Guardian has the source data here:UK tax receipts since 1963: full data Here are a couple of charts I made from the data - tax as a percentage of GDP, and the absolute tax and GDP numbers: 209 Views  View Upvotes

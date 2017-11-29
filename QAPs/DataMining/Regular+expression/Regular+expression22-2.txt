@@ -1,2 +1,0 @@
-★Regular Expressions (computing): What is the correct way to pronounce "regex"?I can think of three possibilities: 1.) Reh-gex (hard g) 2.) Rej-ex 3.) Rejects
-I've heard 'reg-eks or 'rej-eks. Others say "regexp" ('reg-eksp or 'rej-eksp). Unless writing, it is safer to use the term "regular expression". It is also a good idea to define the type of regular expression syntax (e.g. "Perl 5 regular expression", "Java regular expression", etc.), unless it is already clear in the context.    Embed Quote

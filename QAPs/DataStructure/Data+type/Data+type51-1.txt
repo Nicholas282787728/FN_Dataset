@@ -1,2 +1,0 @@
-Is a Java class an abstract data type?
-A java class could be modeled also as an abstract data type but what you asked does not represent the java class definition. 109 Views · 1 Upvote

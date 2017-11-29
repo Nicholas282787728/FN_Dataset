@@ -1,2 +1,0 @@
-★What are some of the most interesting uses of reinforcement learning?For instance, DeepMind used RL with an agent that looks at a screen and chooses actions to play a game called Atari. The representation of state is interesting: a sequence of images and actions (a trajectory). Are there any obvious goal-directed learning tasks in which the RL framework cannot be used?
-Also for game playing: td-gammon is solved through reinforcement learning.    Embed Quote

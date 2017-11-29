@@ -1,2 +1,0 @@
-★Will bandwidth get cheaper and cheaper?
-The "easy" answer will be, no, but it will get faster and faster. For example: Today, you can watch for example Netflix in full quality with ~10mbit, but in 5-10 years, 4K content(And 8K) will be much more available and will be the standard. UHD will require much faster internet connection. The price for the required bandwidth for 1080p today will probably cost the same as the required bandwidth for 4K/8K in a couple of years. If you look a few years back, one could only dream of the bandwidth speeds we get today for ~30$ a month.

@@ -1,2 +1,0 @@
-★Why do we square instead of using the absolute value when calculating variance and standard deviation?
-What you are calculating is the average distance from the mean.  This can be done in many ways but it is standard to use the type norm.  This is the standard norm used in all mathematics prior to the discussion of what a metric is.  It is the distance formula used in Euclidean geometry and all of algebra.    Embed Quote

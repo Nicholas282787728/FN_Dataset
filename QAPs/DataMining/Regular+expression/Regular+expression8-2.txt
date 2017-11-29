@@ -1,2 +1,0 @@
-★Is this a valid Regular Expression for an email address?^[a-zA-Z0-9_?]+((@{1}[a-zA-z]+).(org|net|com|gov|us|edu))\Z
-Seems very US-centric. i.e: Any one with a non-US email would fail your test, so no its not. However, I believe email validation is not actually 100% doable with RegEx's.    Embed Quote

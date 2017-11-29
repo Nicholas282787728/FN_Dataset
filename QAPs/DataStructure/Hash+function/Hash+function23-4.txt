@@ -1,1 +1,0 @@
-Why aren't cryptographic hash functions used in data structures?

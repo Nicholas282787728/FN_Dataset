@@ -1,2 +1,0 @@
-What things do I need to know about Java memory model for a tech interview?
-About heap and stack memory allocation. It would be good to know about memory deallocation as well. How GARBAGE COLLECTOR de allocates and reorganised memory 

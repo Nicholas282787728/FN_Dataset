@@ -1,1 +1,0 @@
-Is it possible to draw Cayley graphs of algebra with two operations?

@@ -1,2 +1,0 @@
-Does Interval Graph always a connected Graph?can we consider this as interval graph; because it is disconnected components?
-Thanks for the A2A I am not sure what you are trying to say. Are you asking whether an Interval graph is always a connected graph ? If that is what you meant, then no, it doesn't always need to be a connected graph. For example the graph with vertices [0,2], [1,3], [10,20], [19,30] consists of two unconnected components: {[0,2],[1,3]} and {[10,20],[19,30]}. If this was not what you meant to ask, please clarify your question. 

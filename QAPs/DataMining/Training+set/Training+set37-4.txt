@@ -1,2 +1,0 @@
-★When training and testing data sets, is it possible to test a complete different data set from the training set?
-You can also try a leave-one-out method. For example, if you have 100 samples, you train with 99 samples and test with the 1 extra sample. You repeat this 100 times leaving a different value out. You could extend to leave-some-out.    Embed Quote

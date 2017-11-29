@@ -1,1 +1,0 @@
-What are some of the algorithms/data structures that software engineers use at work? How often do they use them?Most common ones would search and sort algorithms. Fortunately you don't write them they come to you as some form of language API. But at times you need to write them. 29 Views  View Upvotes

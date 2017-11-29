@@ -1,2 +1,0 @@
-On a quantum computer, how does the full stack required to calculate 1+1 look like?
-I know almost nothing about quantum computers. But what I do know is this: They are created to solve a certain type of problem and "1 + 1" doesn't meet the criterion. Also, you cannot expect to understand a quantum computer in terms of the computers you are use to. They function completely differently. Although, I guess what you really want to ask is "What does the Hello World program look like on a quantum computer". 

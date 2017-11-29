@@ -1,1 +1,0 @@
-Can I use normal index together with geospatial index in one map function in CouchBase?It means, can I filter geolocation and document attribute at the same time in one query?

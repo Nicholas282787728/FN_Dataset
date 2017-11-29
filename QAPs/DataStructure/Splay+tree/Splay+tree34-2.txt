@@ -1,2 +1,0 @@
-What major factors distinguish advanced and elementary data structures?
-Sophistication. Compare the concepts in an algorithms text. You'll see that the latter take more effort to describe and implement. Updated 81w ago • View Upvotes

@@ -1,2 +1,0 @@
-In variable length coding such as in Huffman and Shanno-Fanno coding, how does the decoder come to know the length of code?
-Huffman and Shannon-Fanno encoders build a tree. The decoder traverses the tree until it reaches a leaf node, which represents the end of the code.  The length of the code is the # of steps from root to leaf + 1. 162 Views · 4 Upvotes

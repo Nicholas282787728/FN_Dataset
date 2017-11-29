@@ -1,2 +1,0 @@
-★What does {mean in regular expression?Could anybody explain this with an example? Try this one: [0-9]{2,4}\.
-Let P be a pattern. P{M} means a pattern repeated M times. P{M,N} means a pattern repeated M-N times. [0-9]{2,4} matches everything from 00-9999.    Embed Quote

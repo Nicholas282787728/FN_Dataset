@@ -1,2 +1,0 @@
-★What is the difference between 100 MBPS on optic fiber and 100 MBPS on coaxial cable?
-I'm not sure I understand the question.  The difference between 100 Mbps over copper or over fiber is nothing except for the physical media and connectors.  Data throughput is data put through a system, whether it travels over copper or glass is irrelevant.  In more general terms, fiber can push more data over longer distances faster than copper, see Cable Lengths and Transmission Speeds.    Embed Quote

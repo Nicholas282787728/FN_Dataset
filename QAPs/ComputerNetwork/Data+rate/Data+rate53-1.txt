@@ -1,2 +1,0 @@
-★Apple Watch in 2015: In what form does Apple Watch return heart rate data to the apps? What is the frequency and precision of data points?
-Here's a partial answer from the  website By flashing its LED lights hundreds of times per second, Apple Watch can calculate the number of times your heart beats each minute during your workout. That measurement is your heart rate.

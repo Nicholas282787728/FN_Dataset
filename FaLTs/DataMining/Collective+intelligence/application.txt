@@ -1,2 +1,0 @@
-The Bees Algorithm has found many applications in engineering, such as:
-Training neural networks for pattern recognition.[9][10][11][12][13] Forming manufacturing cells.[2] Scheduling jobs for a production machine.[3] Solving continuous problems and engineering optimization.[14] Finding multiple feasible solutions to a preliminary design problems.[15] Data clustering[16] Optimising the design of mechanical components.[17] Multi-Objective Optimisation.[18] Tuning a fuzzy logic controller for a robot gymnast.[19] Computer Vision and Image Analysis.[20][21][22]

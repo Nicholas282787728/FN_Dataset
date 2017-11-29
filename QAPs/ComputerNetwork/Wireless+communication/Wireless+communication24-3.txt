@@ -1,2 +1,0 @@
-★Wireless Communication: What are the best books to learn about the Physical layer implementation of LTE?
-Also do remember to view 3GPP Releases. Particular interest for PHY Layer is 36.2xx series.    Embed Quote

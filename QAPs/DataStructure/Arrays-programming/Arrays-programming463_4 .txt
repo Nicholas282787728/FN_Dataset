@@ -1,1 +1,0 @@
-How do I write a program that count the occurrence of each element in an int array of size 25?For C language!If I read the question correctly: int arr[25]; int count, counter; count = 0; for(counter = 0; counter < 25; ++counter){  if(arr[counter] == occurrence) ++count; } It also sounds like you want to find which elements are present. 95 Views

@@ -1,1 +1,0 @@
-Is there any algorithm to know a path which covers all vertices?

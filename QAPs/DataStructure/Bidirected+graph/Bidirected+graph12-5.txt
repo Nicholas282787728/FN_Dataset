@@ -1,2 +1,0 @@
-What is the importance of this algorithm?
-Some that I can think of are spell check word prediction.(for use on word suggestions on the phone keyboards) OCR. Such an algorithm can be used to predict the word from an image if one the image clarity isn't that good. 

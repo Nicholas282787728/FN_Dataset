@@ -1,2 +1,0 @@
-What's the hardest bug you've debugged?
-if (bitmask & 0xF0 == 0xF0) ... Cost me a week of chasing on a bare machine (no printf, no debugger, no ICE) in college. For why its a bug, see C++ Operator Precedence Its why I tell my students to ALWAYS parenthesize.  Parenthesis are free, *never* assume order of operations. (edit: Btw this is why strong typing is such a good thing.  C# won't even let that compile.) 

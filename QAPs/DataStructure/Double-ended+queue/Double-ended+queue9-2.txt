@@ -1,2 +1,0 @@
-What are some of your favorite data structures?
-Enjoy'd learning about time traveling, caching and other data structures in Erik Demaine's course Advanced Data Structures (6.851). Bloom filters are interesting as well. Updated 120w ago • View Upvotes

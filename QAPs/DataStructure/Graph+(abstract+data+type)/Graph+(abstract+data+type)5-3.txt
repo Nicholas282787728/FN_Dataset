@@ -1,2 +1,0 @@
-Software Engineering: What are the best data structures to learn about?
-In addition to being familiar with a wide set of data structures listed in the other answers, one should know the correct data structure to satisfy each use case access pattern. For complex use cases these often involve combining cooperative and / or nested data structures.  For instance ordered lists, maps and trees are often used together.  For instance to support multiple graphical views such as a graph, tree and ordered list all using the same items. 

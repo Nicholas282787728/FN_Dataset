@@ -1,2 +1,0 @@
-★Is NFC a form of RFID?
-Near Field Communications (NFC) is a type or application of Radio Frequency Identification (RFID). NFC is short range, and involves contact or very close contact-less RFID readers and passive RFID tags.    Embed Quote

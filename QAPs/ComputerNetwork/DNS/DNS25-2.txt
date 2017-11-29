@@ -1,2 +1,0 @@
-★What causes Google Apps mail to bounce with a DNS error?
-Getting the same problem DNS Error: DNS server returned answer with no data

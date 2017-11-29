@@ -1,2 +1,0 @@
-What is your favorite "PYTHON" One-liner?
-4*sum((-1.0)**(n%2) / (2*n + 1) for n in range(271828182)) I won't tell you what it does. Go check yourself. :P If possible print the value in both Python 2.x and 3.x 

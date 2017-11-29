@@ -1,2 +1,0 @@
-★Give some advantages and disadvantages of combining the  session, presentation, and application layer in the OSI model into one  single application layer in the Internet model.?
-It's much simpler.    Embed Quote

@@ -1,2 +1,0 @@
-★Is there a way to add standard error bars to GoodData line charts?
-Thank you for the question and we understand and appreciate the need for error bars. We don't support error bars just yet, but you could add additional min and max series and pick the same light grey color for them and thus achieve the desired behavior of indicating a range for a metric.    Embed Quote

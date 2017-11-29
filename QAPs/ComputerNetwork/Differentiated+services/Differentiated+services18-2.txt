@@ -1,2 +1,0 @@
-★Are oDesk and Elance considered as SAAS?
-oDesk, Elance, Staff.com and freelancer--these are online staffing platforms and can't be categorized as "software" Usually with SaaS, you have a client software in which associated data are stored on the vendor's server. For example, www.timedoctor.com is a time tracking SaaS--you can download its software client, and whenever you use it, data will be stored on the vendor's server. Another example that I can think of is Dropbox

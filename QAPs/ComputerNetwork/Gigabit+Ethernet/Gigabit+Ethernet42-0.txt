@@ -1,2 +1,0 @@
-★What is the Internet like at Microsoft?What are the torrent speeds like?
-Maxes out the Gigabit Ethernet connection. Latencies below 1ms according to Speed test.

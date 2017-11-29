@@ -1,2 +1,0 @@
-★What is the benefit of IPv6?It seems like NAT is good enough.
-A couple of simple ones: No requirement for NAT to allow devices public IP addressing (and therefore easier connectivity between all devices with no need for port forwarding etc) Much larger address space meaning allocations don't need to be so strictly policed and each business can be given enough IP addresses to foresee-ably last them for years right from their first allocation.    Embed Quote

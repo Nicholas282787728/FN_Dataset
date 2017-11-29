@@ -1,2 +1,0 @@
-★What are some fantastic books on time series analysis?
-If you are interested in applications in financial markets, I would recommend Tsay's " Analysis of financial time series". It is easy to read and provides hands on exercises. http://www.amazon.com/Analysis-F...    Embed Quote

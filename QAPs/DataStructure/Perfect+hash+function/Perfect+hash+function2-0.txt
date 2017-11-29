@@ -1,2 +1,0 @@
-What is the mathematical theory behind non-cryptographic Perfect Hash Functions?
-They are non-cryptographic because they were not designed to be unreversible. However, most of the hashes about are designed to be used in use cases involving the creation of a hash based lookup tables. So they have to be designed with collision resistance, good distribution, good avalanche behavior and good performance. 

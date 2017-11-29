@@ -1,2 +1,0 @@
-I want to practice algorithms for 10 days (240 hours). Where should I start?I have fair knowledge of Algorithms.
-I would recommend tackling some Project Euler (About - Project Euler) problems using your favorite programming language. There is more than 10 days worth of good math & algorithm practice there. Updated 15 May • View Upvotes

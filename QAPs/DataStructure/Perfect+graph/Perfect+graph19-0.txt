@@ -1,2 +1,0 @@
-Explain the shape of graph obtained between pressure P and 1/v for perfect gas at constant temperature?
-Since PV=nRT, for a fixed amount of gas at constant temperature, P is directly proportional to 1/V. Therefore the P vs 1/V graph is a line. 

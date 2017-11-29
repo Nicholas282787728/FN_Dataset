@@ -1,1 +1,0 @@
-What is the difference between graph theory and network theory?According to Wikipedia, network theory is a subset of graph theory, but it's not clear to me how that is exactly.

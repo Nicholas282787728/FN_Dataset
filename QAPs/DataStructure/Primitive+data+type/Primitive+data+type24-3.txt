@@ -1,2 +1,0 @@
-How do you judge a Java programmer with only 5 questions?
-As a first question, I would ask the programmer: How do you judge a Java programmer with only 4 questions? If she replies "As a first question, I would ask the programmer: How do you judge a Java programmer with only 3 questions?", then at least she understood recursion. Updated 41w ago • View Upvotes

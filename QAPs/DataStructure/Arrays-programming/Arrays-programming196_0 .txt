@@ -1,1 +1,0 @@
-Why are two dimensional arrays used?Eg: state machines When we need to handle an event depends on current state, We use two dimensional array 66 Views  Answer requested by 1 person

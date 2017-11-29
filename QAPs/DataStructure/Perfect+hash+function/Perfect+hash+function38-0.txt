@@ -1,2 +1,0 @@
-What is the best way to store passwords?
-According to the article at http://codahale.com/how-to-safel... by Coda Hale, it's important to use a hash function with a tunable work factor to ensure the time taken to compute the hash will remain constant despite improvements in hardware. 

@@ -1,2 +1,0 @@
-What is your favorite example of duality in math?
-My favorite example of duality: polytopes have dual polytope, graphs have dual graphs. 

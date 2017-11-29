@@ -1,2 +1,0 @@
-What are Donald Knuth's main original contributions to computer science?
-From: A.M. Turing Award Winner Knuth has stated that developing analysis of algorithms as an academic subject is his proudest achievement. Another very important work is: Compiler design. 

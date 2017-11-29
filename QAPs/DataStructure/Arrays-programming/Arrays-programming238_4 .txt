@@ -1,1 +1,0 @@
-What is the best way to store an array of arrays in a MySQL table?The more important question is why would you want to store a multidimensional array in a relational table? That's like using a wrench to pound in a screw. 362 Views  View Upvotes

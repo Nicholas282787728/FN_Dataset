@@ -1,2 +1,0 @@
-What are some facts about coding in the Java programming language that every computer student should know?
-Java is a single paradigm language that use primitive variables as they are but anything else is an object , single inheritance  only, statically typed, all method invocation is dynamic,object stored in heap. 

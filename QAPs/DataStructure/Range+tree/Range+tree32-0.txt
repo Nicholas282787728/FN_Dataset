@@ -1,2 +1,0 @@
-I need a "C" implementation (source code) of min-max kd trees, with range search and nearest neighbour search functionality?
-The nearest thing I know of that is similar to what you are asking for is the ANN library: Approximate Nearest Neighbor Library. However, it's in C++ and it doesn't exactly meet your criteria. 

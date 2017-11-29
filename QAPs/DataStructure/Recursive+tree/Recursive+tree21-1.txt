@@ -1,2 +1,0 @@
-What is tail recursion? Why is it so bad?
-Tail recursion is recursion where the function calls itself at the end ("tail") of the function. At some point, the function decides not to call itself again and the result is returned. Thus this behavior is analogous to a loop, and can be optimized into such. Loops are more efficient than recursion since they don't require stack space and are easier to optimize, and are sometimes easier to understand. Tail recursion isn't bad, per se: it's just suboptimal, but premature optimization isn't helpful either. 

@@ -1,2 +1,0 @@
-★What radio frequency do police in Ireland use?
-I think the TETRA system the Gardaí now use (as of a few years ago) operates around 400MHz. However, it's an encrypted digital system, so listening in isn't an option, if that's what you had in mind. Tetra Ireland    Embed Quote

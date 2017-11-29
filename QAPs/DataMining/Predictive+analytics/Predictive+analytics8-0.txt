@@ -1,2 +1,0 @@
-★Predictive Analytics: In regression modelling, is more sample data always better?
-In general case, when your samples are independent to each other, more sample means  smaller variances in your prediction. If the points are correlated, then no matter how you increase your sample size, you will not be able to reduce the variance in your prediction. For example, the most simple linear model, ,  and note that . If all the assumptions hold, then . Suppose . Then, Which contains a constant term , and it is not possible to reduce it down further more.    Embed Quote

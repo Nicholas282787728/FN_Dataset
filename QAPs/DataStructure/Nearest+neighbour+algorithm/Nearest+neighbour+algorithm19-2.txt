@@ -1,2 +1,0 @@
-What are all the major graph algorithms used in the world of programming?
-Not enough Tarjan in that list. :) Tarjan - All cycles (strongly connected components) in a rooted directed graph in linear time Lengauer-Tarjan - Dominator tree of rooted directed graph 

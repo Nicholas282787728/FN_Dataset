@@ -1,2 +1,0 @@
-★What is a URL?
-In simple terms URL is nothing but a name given to a location which consists some data. To access the data you need to call the URL. For example if someone wants to talk to you he doesn't describe or start calling you by appearance like hey Guy with a Yellow shirt, black trousers, red hat, white shoes blah blah blah... Hence you are given a name . In the same way a particular location (server in this case) is given a name which is easier to call .    Embed Quote

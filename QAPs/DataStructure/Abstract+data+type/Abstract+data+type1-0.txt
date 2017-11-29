@@ -1,2 +1,0 @@
-What is the linked-list abstract data type?
-As the name my suggest it is a "list" of elements, formed by treating each element as a "node" that contains a pointer to the next object in the list. One of its primary advantages over other list-like structures is the ability to efficiently insert and remove elements from the list in constant time (simply by changing the respective pointers). Moreover, this algorithm can easily be extended to move around a particular section of the list or to move elements between multiple lists in constant time. 

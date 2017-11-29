@@ -1,6 +1,0 @@
-For most line codes and modulation methods:
-
-Symbol rate ¡Ü Gross bit rate
-More specifically, a line code (or baseband transmission scheme) representing the data using pulse-amplitude modulation with 2N different voltage levels, can transfer N bit/pulse. A digital modulation method (or passband transmission scheme) using 2N different symbols, for example 2N amplitudes, phases or frequencies, can transfer N bit/symbol. This results in:
-
-Gross bit rate = Symbol rate ¡¤ N

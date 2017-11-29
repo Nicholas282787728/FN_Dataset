@@ -1,1 +1,0 @@
-Can a binary tree node have multiple parents?No. Because the definition of a tree, is "a undirected graph, which is connected, and without circle". So it is not even a tree. 64 Views

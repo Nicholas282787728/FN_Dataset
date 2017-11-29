@@ -1,2 +1,0 @@
-What mathematics do I have to study for theoretical computer science?
-Game Theory has applications in various areas of human activity: biology, psychology, economics, and yes computer science. https://en.wikipedia.org/wiki/Game_theory It will also give you some insight into how various math theories and solutions can be applied to other fields. Theoretical Math or CS without real-world applications is not as useful.  ( Unless you are doing fundamental research only) 

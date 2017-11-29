@@ -1,1 +1,0 @@
-What are some of the great projects implemented using the concepts of Graph Theory?Real Life Products or Projects that involve the usage of graphs for  implementing them.

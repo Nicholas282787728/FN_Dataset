@@ -1,1 +1,0 @@
-I have an array of n integers. How many subarrays are contained in my array?If by "subarray" one means A[i..j]  A[i..j] for 1≤i≤j≤n  1≤i≤j≤n where A  A is an array containing n  n integers then there are (n2)=12 n(n−1)  (n2)=12n(n−1) subarrays because a subarray is uniquely determined by an unordered pair of indicies 1≤i≤j≤n  1≤i≤j≤n . 1.5k Views · View Upvotes

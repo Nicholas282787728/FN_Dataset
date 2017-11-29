@@ -1,2 +1,0 @@
-Which book(s) and other resources would you recommend for a beginner to understand Data Structures in C++?
-1) Lecture series on Data Structures by Dr. Naveen Garg, IIT Delhi...its available on nptel and youtube. 2) Data Structures , book by Tenebaum. 

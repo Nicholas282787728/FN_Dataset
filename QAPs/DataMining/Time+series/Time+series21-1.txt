@@ -1,2 +1,0 @@
-★Where is the best place to learn time series forecasting?
-StatsModels in Python is deprecated. It's better to use the "forecast" package in R    Embed Quote

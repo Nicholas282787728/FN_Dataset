@@ -1,2 +1,0 @@
-What are the most important data structures in a tech interview?
-The responses so far are right on - strings, lists, stack and queue! Heap is an amazing data structure that works wonders with time and space complexity (of course depending on the problem). Since Heap is a complete binary tree the time complexity during worst case is height of the tree (always less than size of the tree). Unlike strings there is no continuous allocation of memory, so there is huge emphasis on implementation - remove reference for clean up. 1.4k Views · 2 Upvotes

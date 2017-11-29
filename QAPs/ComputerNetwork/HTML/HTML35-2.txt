@@ -1,2 +1,0 @@
-★What is HTML Elements?
-every things that you placed between tag is html element

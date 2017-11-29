@@ -1,1 +1,0 @@
-Is recursion actually useful? I can't find any reason to use it. Why do some people love to use it?

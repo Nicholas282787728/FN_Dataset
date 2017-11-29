@@ -1,2 +1,0 @@
-What is the main difficulty in parallel computing?
-Concurrency control. Amdahl's Law. 

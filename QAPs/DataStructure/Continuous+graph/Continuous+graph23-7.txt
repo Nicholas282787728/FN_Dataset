@@ -1,2 +1,0 @@
-What is any number raise to the power of infinity? What is any number divided by infinity?
-Let 'n' be a real number. lim x→∞ nx =0  That is, as the value of the denominator keeps increasing, n divided by x keeps decreasing. So, if x approaches infinity, n divided by x will approach zero. But this does not mean any number divided by infinity equals zero. 

@@ -1,2 +1,0 @@
-Why is there no built-in graph implementation in the Java SDK?
-Because it's usage is not that common. That's why you get some 3rd-party libs for it, but no JDK support. 

@@ -1,2 +1,0 @@
-★How can one use socket and serversocket to make a chat application working over internet. i did it for private networks but couldnt make it to work over internet?
-you need to have a public IP address for your char server to make it work across internet.    Embed Quote

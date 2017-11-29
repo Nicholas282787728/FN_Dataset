@@ -1,2 +1,0 @@
-★When economists talk about regression analysis or running a regression, what are they talking about?
-They are trying to generate a causal relationship between two variables. This is basically used for forecasting or interpretation.    Embed Quote

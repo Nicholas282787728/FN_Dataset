@@ -1,2 +1,0 @@
-★Do users pay attention to and interact with URL paths?Technical users appear to, but how much benefit is gained for regular users by having a well-crafted hierarchy of clean URLs for your website? Specifically, this is referring to the URL path - not the domain.
-No. People don't know what a URL is, let alone paths. When people want to go to Facebook, they type in Facebook (or Facebook.com) to Google and then go. Remember the RWW Facebook Login incident: http://www.readwriteweb.com/arch...    Embed Quote

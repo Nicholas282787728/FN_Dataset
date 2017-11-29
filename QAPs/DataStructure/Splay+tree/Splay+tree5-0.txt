@@ -1,2 +1,0 @@
-Why do many ACMers prefer splay trees rather than treaps?
-I'm not exactly an ACMer, so my answer may not stand on theirs' point. The Splay or Treap trees are both one of the balanced tree. ACM nowadays allow players to use STL, so I would rather to use std::set or std::map instead. However, you may have to extend a balanced tree sometime. In such a situation, I think AVL tree is easier and enough. 

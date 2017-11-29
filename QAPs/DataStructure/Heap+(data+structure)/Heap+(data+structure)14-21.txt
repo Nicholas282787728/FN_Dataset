@@ -1,2 +1,0 @@
-As we start planning the next edition of Introduction to Algorithms (CLRS), what should we add and what should we remove if the 4th edition cannot be larger than the 3rd edition?
-Very happy to find this question as I recently wrote a long post about this: Modern Algorithms or The Brave New O of the Big N You can scroll down to the last section for detailed suggestions and their justifications. 964 Views · 1 Upvote

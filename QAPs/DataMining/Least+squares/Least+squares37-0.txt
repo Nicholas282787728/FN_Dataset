@@ -1,2 +1,0 @@
-★Is it better to do QR, Cholesky, or SVD for solving least squares estimate and why?In particular, referring to inverse of
-These days QR seems to be the consensus for most practical problems. SVD is computationally more costly but has some numerical advantages while Cholesky is cheaper but suffers from "conditioning squared" due to the fact that you have to operate on , not .    Embed Quote

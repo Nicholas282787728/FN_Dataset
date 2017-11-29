@@ -1,2 +1,0 @@
-★How can I make bayesian Inference of probability graphical model with non-conjugate prior?
-The problem of non-conjugate priors have been studied with document hierarchies. David Mimno has a paper on using Gibbs Sampling with Graph based priors (Page on Cornell). There has been some recent work by Chong Wang too [1209.4360] Variational Inference in Nonconjugate Models.    Embed Quote

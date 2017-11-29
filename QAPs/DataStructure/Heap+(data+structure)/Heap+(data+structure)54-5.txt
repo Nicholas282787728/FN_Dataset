@@ -1,2 +1,0 @@
-What algorithms and data structures should any software engineer know?
-Must know data structures: 1. Strings 2. Arrays 3. Linked Lists 4. Stacks 5. Trees - Binary Tree, BST, AVL Tree, Trie 6. Graphs 7. Heaps... (more)

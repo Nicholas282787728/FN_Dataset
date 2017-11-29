@@ -1,2 +1,0 @@
-★What is the best way to understand neural networks and fuzzy logic?
-I took Fuzzy logic course as a part of my engineering course requirements, where we had Fuzzy Logic with Engineering Applications by Timothy Ross as the course textbook. It is a fantastic book covering a lot of examples where fuzzy logic can be used practically. It also includes a chapter on  Artificial Neural Networks and Genetic Algorithms which is beautifully explained. Fuzzy Logic with Engineering Applications, 3rd Edition    Embed Quote

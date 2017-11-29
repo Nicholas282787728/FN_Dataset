@@ -1,2 +1,0 @@
-How can I scrape data from an E-commerce store?
-Use a special service like ThePriceMiner ( http://thepriceminer.com )    Embed Quote 

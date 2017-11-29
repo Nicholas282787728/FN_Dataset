@@ -1,2 +1,0 @@
-★How common are parameter sweeps in astrophysics research?
-My background is predominantly in cosmological aspects of astrophysics and in that field parameter estimation with Bayesian techniques such as Monte-Carlo Markov Chains is very common. There is an MCMC code CosmoMC  that was designed specifically to do parameter sweeps on CMB data for example. My entire PhD (dark matter/galactic dynamics) has been about using (and abusing) parameter sweeps. Astrophysics is rich in data and parametric models!    Embed Quote

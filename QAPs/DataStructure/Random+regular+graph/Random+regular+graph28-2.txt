@@ -1,2 +1,0 @@
-What are the most mathematical areas of statistics?
-Time series analysis/stochastic processes or survival analysis, I would suspect. Functional data analysis might be another contender. 

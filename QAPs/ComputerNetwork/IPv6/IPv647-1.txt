@@ -1,2 +1,0 @@
-★How do I use IPv6 in Windows 7?I use openDNS and have Windows 7. When i go to, for instance, v6.facebook.com or ipv6.google.com it doesn't work. How do I use IPV6 in Windows 7?
-Well, first and foremost it depends on your uplink provider. If you don't have an IPv6 internet connection there is nothing you can do... but, you could check up on tunnel brokers.    Embed Quote

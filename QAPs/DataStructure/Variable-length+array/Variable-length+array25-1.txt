@@ -1,2 +1,0 @@
-What are the benefits and necessities of having object in heap?
-In most systems, particularly small systems, there is a finite stack, while heap is larger, generally more "permanent", and more amenable to larger and dynamic memory structures.  Even bigger systems often have relatively small stack sizes (often a meg or less of RAM, and sometimes only a few k, particularly in multithreaded environments). In small systems, a static array may be used to substitute for heap, but you're careful to avoid putting anything big on the stack. 

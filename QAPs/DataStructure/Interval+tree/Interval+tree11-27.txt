@@ -1,2 +1,0 @@
-What are the 10 algorithms one must know in order to solve most algorithm problems?
-In addition to what others have written: 1. As I recall, a lot of computer time is spent on SORTING algorithms. 2. Don't forget LINEAR PROGRAMMING. 3. In my work, DYNAMIC PROGRAMMING has been the most useful. I (with colleagues) used it for almost a dozen research papers in various application areas. 4. Often GREEDY algorithms are used to find suboptimal solutions fast. 

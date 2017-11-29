@@ -1,2 +1,0 @@
-Datasets, Statistics: Any real-world (skewed) data points with outliers?
-Many variables have a long right tail: Income and wealth Reaction time to tasks Masses of animals of different species Lengths Many measures of complexity Volume of calls received to a call center in a given unit of timeI'm sure I could come up with more if pressed, but that is a good list. Datasets for all are available in various textbooks.    Embed Quote 

@@ -1,2 +1,0 @@
-★Why use DHCP?Why should I use DHCP when i can use a static IP-number?
-Because it's more comfortable to plug in the cable and instantly be online, in every and any network (which is using dhcp). (From the sight of a private person) Because you can manage all your servers ip, route, gateway, dns, netbios, printer, proxy and a punch more network settings from ONE dedicated machine (dhcp server). (From the sight of enterprise network administrator)

@@ -1,2 +1,0 @@
-What is the difference between a compiler and an interpreter?
-Originally Answered: What is the main difference between compiler and interpreter?The main difference between an interpreter and a compiler is that compilation requires analysis and the generation of machine code only once, whereas an interpreter may need to analyse and interpret the same program statements each time it meets them e.g. instructions appearing within a loop. 

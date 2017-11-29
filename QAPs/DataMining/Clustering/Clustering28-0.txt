@@ -1,2 +1,0 @@
-High Availability: How clustering multiple load balancers ?
-See How do you load balance between load balancers? for general (non HAProxy specific) discussion on the topic.    Embed Quote 

@@ -1,2 +1,0 @@
-What algorithm can enumerate all biggest cycles in a directed graph?
-This sounds suspiciously like “The Travelling Salesman Problem”, it may be that there is no good algorithm short of “try all possible cycles, sort them by length”. 61 Views · 1 Upvote

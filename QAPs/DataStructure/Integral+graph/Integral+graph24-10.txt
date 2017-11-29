@@ -1,2 +1,0 @@
-My calculus teacher said that it's impossible to integrate the function sin(x 2 )  . How, then, is my TI-84 graphing calculator able to find the area underneath its curve between two points?
-Your calculator is doing it numerically. Likey by the Rhomberg technique. Simpson's rule more appropriate for you I imagine...it should be in your calculus text. Look it up. 

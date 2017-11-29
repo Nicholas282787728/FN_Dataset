@@ -1,2 +1,0 @@
-Sorting Algorithms: What are some of the best and easily implementable data structures that support finding the kth largest element quickly?
-If the data can be compressed into integers or is bounded to integers less than some N, binary searching on a Binary Indexed Tree aka Fenwick tree allows updates and queries in O(log N), and is far easier to implement than conventional balanced binary search trees. 

@@ -1,2 +1,0 @@
-★Natural Language Processing: How would you programmatically parse a sentence and decide whether to answer "that's what she said"?Outline an algorithm that, given a sentence, returns true or false for whether a "that's what she said" is appropriate.
-Some code for a TWSS bot in Ruby: https://github.com/bvandenbos/twss    Embed Quote

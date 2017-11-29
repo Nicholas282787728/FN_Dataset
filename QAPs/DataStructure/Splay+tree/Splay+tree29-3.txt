@@ -1,2 +1,0 @@
-What are some useful but lesser known data structures?
-A huge and awesome list: http://stackoverflow.com/questio... A few names: Tries Bloom filter Rope Skip lists Spatial Indices KD-trees R-trees Zippers  Disjoint Set Fibonacci heaps BSP trees Huffman trees Finger Trees Interval Trees Suffix Tree Splay Trees Updated 176w ago • View Upvotes

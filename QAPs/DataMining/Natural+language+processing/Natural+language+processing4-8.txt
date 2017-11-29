@@ -1,2 +1,0 @@
-★What programming languages are suitable for natural language processing?
-I would recommend to focus on your specific NLP tasks and the required tools/models, instead of the programming language, e.g.: how many of my tasks can I perform with the out-of-the-box tools and models (e.g. do nltk or UIMA contain models for my own tasks like spanish tokenisation, protein NER, or twitter parsing)? how easy is it for me to add the missing tools.    Embed Quote

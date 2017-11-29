@@ -1,2 +1,0 @@
-★What will be used next after IPv6?
-Tunneling technology. As there're so many 'services' required. Just IPv6 is not enough, so any tunneling is still used (from gre, l2tp to mpls and even ip over ip)    Embed Quote

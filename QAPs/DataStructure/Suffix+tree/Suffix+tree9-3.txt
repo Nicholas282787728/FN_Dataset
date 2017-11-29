@@ -1,2 +1,0 @@
-Write an algo to compare two string such that k mismatch are allowed. Suffix Tree?
-Depending on your definition of "mismatch", you may find Edit Distance useful. The algorithm returns the number of character operations (replace, add, remove) required to transform one string to another. 

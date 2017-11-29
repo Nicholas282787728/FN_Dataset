@@ -1,2 +1,0 @@
-How would you explain Java to a 15 year old that knows nothing about programming?
-Here are some tips.  They are classroom-oriented, but you may find some helpful info as well:   Good luck! 

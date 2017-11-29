@@ -1,2 +1,0 @@
-What's the best parallelized sparse SVD code publicly available?
-I can add information about my little experience with Decomposer. It really keeps in memory only the matrix non zero values. But usually singular vectors are dense and they are all used at each iteration  so must be kept in memory. So, for example my Wikipedia singular vector was 100mb each, I get 100 vectors and lost 10gb of memory. 

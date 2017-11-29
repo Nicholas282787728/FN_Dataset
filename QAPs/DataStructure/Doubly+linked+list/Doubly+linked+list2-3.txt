@@ -1,2 +1,0 @@
-Does using a doubly linked list help to reverse the stack in constant time? How?
-With a doubly linked list, you can traverse through the list forward and backward with the same amount of complexity.  I don't know what you mean about "reverse the stack in constant time",  I think you'll need to provide a few more details to get the answer you are looking for. 

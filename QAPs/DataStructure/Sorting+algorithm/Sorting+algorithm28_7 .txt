@@ -1,1 +1,0 @@
-How does randomized quick sort perform better than the standard quick sort algorithm?Why should anybody care about a sorting method that is not optimal (has more than linear growth)?They perform same on the average, but randomize quick sort perform better in special situation. for example, data has a lot and currently in such 987654321 

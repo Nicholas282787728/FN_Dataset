@@ -1,2 +1,0 @@
-★Data Compression: What could be a better alternative to arithmatic coding?In a special case, the probabilities of the alphabet of n charachters are : P(A) = close to 99% P(B) = P(C) = P(D) = P(E).. = (100 - P(A))/(n+1)
-Arithmetic coding is provably the best encoding method, since it can assign a fractional number of bits to symbols. By definition it is impossible to do better.

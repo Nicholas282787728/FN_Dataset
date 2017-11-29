@@ -1,2 +1,0 @@
-★What techniques are useful for data mining financial time series?
-Linear models such as ARMA or GARCH, some neural networks. You will have to learn about CAPM http://en.wikipedia.org/wiki/Cap... ML can help in optimising these linear models. Have a look at these lecture notes http://personal.lse.ac.uk/mele/f...    Embed Quote

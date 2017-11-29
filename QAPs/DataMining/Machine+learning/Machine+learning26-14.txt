@@ -1,2 +1,0 @@
-★What are some good books on machine learning?
-Having a book for reference is good, but if you really want to get down and dirty, ML class in Coursera by Andrew Ng is probably your best bet. I think the videos are also available in MIT Open Courseware.    Embed Quote

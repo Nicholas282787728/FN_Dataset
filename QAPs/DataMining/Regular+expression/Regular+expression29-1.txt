@@ -1,2 +1,0 @@
-★What's the word boundary mark in vim regular expression?
-<> are often used in regular expressions to mark word boundaries.  The same applies to vim regular expressions.  Note that the <> need to be quote (e.g. \<word\>).    Embed Quote

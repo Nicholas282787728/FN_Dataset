@@ -1,2 +1,0 @@
-What is the coolest algorithm with complexity O(1)?
-The scheduling algorithm used in Linux Kernel (2.6 to 2.6.63). Irrespective of the number of processes it used to take constant time. 

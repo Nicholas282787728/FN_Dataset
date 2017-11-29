@@ -1,2 +1,0 @@
-★What are major Natural Language Processing breakthroughs in the past 3 years (2012-2015)?
-Word embeddings getting really good Elasticsearch becoming mainstream IBM Watson (even if it was 2011)    Embed Quote

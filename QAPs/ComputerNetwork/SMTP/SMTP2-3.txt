@@ -1,2 +1,0 @@
-★Why would an IT department disable POP3, IMAP & SMTP?quoting "security reasons" - what are these?
-A regular user does not need SMTP access, one needs smtp-submission with TLS, to send email. For the rest, see Richard Reiner's answer.    Embed Quote

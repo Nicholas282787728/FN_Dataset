@@ -1,2 +1,0 @@
-What are some of the most ridiculous proofs in mathematics?Especially for easier concepts.
-Here's a proof I learned during a class on the foundations of math. It uses the von Neumann ordinal definition of the natural numbers. Claim: For all natural numbers a  , a≮a  . Proof: We use strong induction. 0  is the empty set, so it contains no elements. In particular, it does not contain itself. Now suppose that for all b<a  , we know that b≮b  . Suppose a<a  . Then by the inductive hypothesis, a≮a  . QED Updated 21 Nov 2012 • View Upvotes

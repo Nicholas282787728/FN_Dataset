@@ -1,2 +1,0 @@
-★What is the easiest command line interface library for Python 2.7?I am working on a small project and would like to make something like this: I want to create something like a GUI in a Command Line (TUI). Also, I am doing this in GNU/Linux (Ubuntu 13.04).
-I did write a project using Windows GUI in python, but don't know the best way on Linux. Should you ever consider pure command line? It's a lot easier, and most of Linux good tools use this style.

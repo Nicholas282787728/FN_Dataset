@@ -1,2 +1,0 @@
-What is the difference between a B-tree index and a Bitmap index in Oracle?
-Just as what others have said, there are a few differences. Syntax The syntax of a b-tree index doesn’t need any keyword to say it is a b-tree index, as it’s the default: CREATE INDEX idx_emp_id ON employee (id); A bitmap index would need the keyword BITMAP: CREATE BITMAP INDEX idx_emp_gender ON employee(gender);... (more)

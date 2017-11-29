@@ -1,2 +1,0 @@
-★What does R^2 tell in a linear regression analysis?
-tells you what proportion of the variance in the dependent variable is accounted for by the model.    Embed Quote

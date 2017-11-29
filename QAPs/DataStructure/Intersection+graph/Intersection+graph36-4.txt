@@ -1,1 +1,0 @@
-Is there some sort of analogue tothe vertical line test for polar coordinates?

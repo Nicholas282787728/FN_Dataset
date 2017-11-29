@@ -1,2 +1,0 @@
-★How important are DNS firewalls?How does BLOX's solution stack up?
-Vital layer of defense to fight APT and malware that bypasses traditional protection

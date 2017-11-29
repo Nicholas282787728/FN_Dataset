@@ -1,2 +1,0 @@
-How many stacks are required to implement a queue?
-With 2 stacks you can imitate a queue. First stack to take the input. Second stack to reverse the stack each time you have new entry in the first stack. I hope this solves your problem. 

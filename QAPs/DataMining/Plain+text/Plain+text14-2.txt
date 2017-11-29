@@ -1,2 +1,0 @@
-★Is it possible for encrypted material to appear as if it were plain text?That is to a large extent it would not be considered to be encrypted by a casual, or non casual viewer
-Format preserving encryption (FPE) tries to do this.    Embed Quote

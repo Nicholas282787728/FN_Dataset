@@ -1,2 +1,0 @@
-★Why so many lame questions are there in NLP and Text Mining topics in quora?People are asking questions about NLP which are purely imbecile in nature. The questions which are not debatable and rather a web search would suffice the answer? For instance, questions as simple as "Name any POS tagging library in java?". Aren't people aware about the google-search?
-Cross-pollination with the neuro linguistic programming folks.    Embed Quote

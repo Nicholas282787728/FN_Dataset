@@ -1,2 +1,0 @@
-★What are some good jokes about computer networks?
-Came across this epic riddle by Paul Mockapetris in Andrew S. Tanenbaum's Computer Networks textbook (on Demerits of OSI model) Q. What do you get when you cross a mobster with an international Standard? A. Someone who makes you an offer you can't understand! Funny on so many levels!

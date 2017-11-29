@@ -1,1 +1,0 @@
-In layman's terms, what is a k-d tree and how does it work?

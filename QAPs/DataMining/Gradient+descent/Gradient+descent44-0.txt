@@ -1,2 +1,0 @@
-★Is gradient descent (which is used for optimizing the cost function of any learning algorithm) a greedy approach? If yes how do we make sure that we approach the cost which is the global minimum and not the local minimum using gradient descent?
-Yes. Gradient Descent has no mechanism by which you could avoid local minima.    Embed Quote

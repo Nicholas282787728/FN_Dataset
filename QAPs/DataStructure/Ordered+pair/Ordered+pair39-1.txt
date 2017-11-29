@@ -1,2 +1,0 @@
-What is the physical significance and use of equivalence relation in math?
-Equivalence relations allow you to partition a set in a way that the elements in a given partition are, for your purposes, equivalent. So you can consider each partition of equivalent elements as one thing, and look at the set of those, instead of the full set. (This is called "quotienting out by the equivalence relation"). This is often useful. 

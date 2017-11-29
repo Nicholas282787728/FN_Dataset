@@ -1,2 +1,0 @@
-What tools exist for building a competitive intelligence knowledge base or dashboard?
-I don't know of any tools, and it is such a specific area that I suspect that the software will be part of a service that monitors for you.  The most promising tools will likely be in social media monitoring and PR monitoring like Alterian, Lithium, Brandwatch, etc. They won't do stock price.  You might also consider something in social curation like Scoop.it.    Embed Quote 

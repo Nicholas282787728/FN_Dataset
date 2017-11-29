@@ -1,2 +1,0 @@
-Why mysql uses B/B+ trees and not Fibonacci heap structure?
-A very important operation in SQL is the range query, to find all keys between two values. The B-Tree has good support for this. I'm not an expert on Fibonacci heaps but it's not clear that this would be equally straightforward. Other helpful features of B-Trees for a disk based database are fixed size nodes, with guaranteed minimum occupancy. (Also see Douglas Comer, "The Ubiquitous B-Tree") 978 Views · 3 Upvotes

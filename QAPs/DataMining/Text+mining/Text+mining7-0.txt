@@ -1,2 +1,0 @@
-★What are some of the most important papers in text mining?
-The classic University of Chicago work on Latent Semantic Analysis / Indexing Scott Deerwester, Susan T. Dumais, George W. Furnas, Thomas K. Landauer, Richard Harshman (1990). "Indexing by Latent Semantic Analysis" (PDF). Journal of the American Society for Information Science 41 (6): 391–407. doi:10.1002/(SICI)1097-4571(199009)41:6<391::AID-ASI1>3.0.CO;2-9.    Embed Quote

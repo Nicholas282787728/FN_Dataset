@@ -1,2 +1,0 @@
-★Which A/B testing tools can be used on a Sharepoint Intranet?Are there A/B or multi variant testing tools that can be used behind the firewall on data driven Sharepoint pages?
-I agree with Paras, most A/B testing tools should be able to run just fine on a Sharepoint site.  I'd test drive some of the free and lower cost solutions first and if you find you require more, you can always look at a high end solution.

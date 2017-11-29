@@ -1,2 +1,0 @@
-★How can I perform PCA (principal component analysis) for (100 X 100) array using Python?
-You can make use of sklearn.decomposition from Page on scikit-lear.org.Install the package of scikit for python and for coding part refer to the webpage. Second way would be using R-Programming which is used for analysis stuff    Embed Quote

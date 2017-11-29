@@ -1,5 +1,0 @@
-Some operations that are often specified for ADTs (possibly under other names) are
-compare(s,t), that tests whether two structures are equivalent in some sense; hash(s), that computes some standard hash function from the instance's state; print(s) or show(s), that produces a human-readable representation of the structure's state.
-In imperative-style ADT definitions, one often finds also
-create(), that yields a new instance of the ADT; initialize(s), that prepares a newly created instance s for further operations, or resets it to some "initial state"; copy(s,t), that puts instance s in a state equivalent to that of t; clone(t), that performs s �?new(), copy(s,t), and returns s; free(s) or destroy(s), that reclaims the memory and other resources used by s;
-The free operation is not normally relevant or meaningful, since ADTs are theoretical entities that do not "use memory". However, it may be necessary when one needs to analyze the storage used by an algorithm that uses the ADT. In that case one needs additional axioms that specify how much memory each ADT instance uses, as a function of its state, and how much of it is returned to the pool by free.

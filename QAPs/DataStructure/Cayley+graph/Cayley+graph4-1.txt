@@ -1,2 +1,0 @@
-What are some examples of graphs with an infinite number of vertices?
-Consider a "game" where you start with zero points, and you repeatedly flip a coin.  Every time it comes up heads, you get a point, and every time it comes up tails you lose a point.  If you play this forever, we can model your score as a random walk whose vertices are the integers, and whose edges are of the form (k,k−1)  and (k,k+1)  .  That's probably the most natural example of an infinite graph. 

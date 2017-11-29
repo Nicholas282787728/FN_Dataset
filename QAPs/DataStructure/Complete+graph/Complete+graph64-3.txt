@@ -1,1 +1,0 @@
-How do you prove that if all the edges and diagonals of a 17-gon are each coloured red, green, or blue, then you can find a single-colour triangle?

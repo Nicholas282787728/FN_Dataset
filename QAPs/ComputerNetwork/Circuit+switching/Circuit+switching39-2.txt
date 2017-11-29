@@ -1,2 +1,0 @@
-★With an Arduino or similar board, how do you switch on a circuit in a certain direction?I have a small motor that I want to turn on and off in a certain direction using an Arduino board. Basically I want to use the Arduino as a switch for the circuit of the motor with a battery. The Arduino should be able to close that circuit and also be able to change its direction. Is this what a relay does or would I need another gadget for that?
-Here's a good article to help you get started - DC Motor Control Using an H-Bridge

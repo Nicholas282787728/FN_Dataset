@@ -1,2 +1,0 @@
-★How many types of VPN are there?
-There are 6 types of VPN in terms of protocol: PPTP  L2TP/IPSec  SSL  OpenVPN  SSTP  IPSec PPTP L2TP/IPSec SSL OpenVPN SSTP IPSecsource: http://www.bestvpnservice.com

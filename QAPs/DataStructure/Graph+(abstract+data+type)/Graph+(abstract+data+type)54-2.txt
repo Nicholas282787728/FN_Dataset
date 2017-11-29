@@ -1,2 +1,0 @@
-Which is better for quantitative finance, R or Matlab?Which do you prefer for what? Or just general pros and cons.
-R (programming language) is perfect for Quantitative Finance, Portfolio Management and many more finance-related topics. Even, the R Community has a annual conference dedicated to the different uses of R on the Finance's industry called R/Finance (http://www.rinfinance.com/). A good quantity of excellent talks was done in the last edition of the event. You can see them here: http://www.rinfinance.com/agenda/ Best wishes 

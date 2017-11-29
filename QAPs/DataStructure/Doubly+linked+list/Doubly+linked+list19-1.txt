@@ -1,2 +1,0 @@
-How can I add a Node at the front of the Doubly Linked List?
-Question: should printlist modify the list at all? How could you tell if it does or does not? P.S. If you use C++ and mark methods as const, the compiler would catch this for you :) 

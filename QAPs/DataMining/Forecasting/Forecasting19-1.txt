@@ -1,2 +1,0 @@
-★What are the fundamental equations used in weather forecasting?
-I believe it is not just equations but the problem that modeling requires evaluating them iteratively across very very large matrices of cells. If you lack a supercomputer you may be SOL doing the immense number crunching in real time even with access to data. And data access may not be cheap either.    Embed Quote

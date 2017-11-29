@@ -1,2 +1,0 @@
-★What is the difference between a parameter and a statistic?
-Any measure of population is called parameter. & Any calculation on the sample data is called statistic.    Embed Quote

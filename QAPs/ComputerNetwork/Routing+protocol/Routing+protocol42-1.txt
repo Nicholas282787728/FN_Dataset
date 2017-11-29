@@ -1,2 +1,0 @@
-★Difference between TCP and IP protocols?
-I know that tcp is connection oriented protocol running on layer 4. IP is on network layer. what actually means for IP is connectionless protocol and TCP is connection oriented protocol IP packet data is tcp packet. How tcp is connection oriented, ip itself is connection less protocol.    Embed Quote

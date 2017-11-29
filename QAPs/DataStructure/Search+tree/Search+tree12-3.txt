@@ -1,2 +1,0 @@
-How can you efficiently determine the k-th maximum element in an binary search tree?
-K’th Largest Element in BST . Learn how to think for such problem and solve with recursion . K’th Largest Element in BST when modification to BST is not allowed 

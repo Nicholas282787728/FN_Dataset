@@ -1,2 +1,0 @@
-★How can we implement full adder using 8:1 multiplexer?
-Write the minterms corresponding to the sum of a,b, and cin(carry_in) using a K-map. Then, just connect the corresponding inputs of the multiplexer to '1', and the rest to '0'. This should do the trick. Doing it will make you understand the working of all the components fairly well.    Embed Quote

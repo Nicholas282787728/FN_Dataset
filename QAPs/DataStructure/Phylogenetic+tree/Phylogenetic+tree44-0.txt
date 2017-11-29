@@ -1,2 +1,0 @@
-Is there a way to add expression data (from deep-seq) to phylogenetic trees?
-What is it you're trying to see by performing this. Isn't expression data a bit too much in quantity and diversion than to be represented by a tree ? 470 Views

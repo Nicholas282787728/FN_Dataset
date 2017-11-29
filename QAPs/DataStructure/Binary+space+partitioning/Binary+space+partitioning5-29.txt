@@ -1,2 +1,0 @@
-What are some of the most ingenious algorithms in computer science?added bonus if the algorithm runs in constant time
-The Boyer-Moore string searching algorithm. It starts by trying to match the end of the target text, so typically works faster the larger the target is. http://www.cs.utexas.edu/~moore/... - if you click the links on this site it has a good comparison with Knuth-Pratt-Morris. 

@@ -1,2 +1,0 @@
-★Hidden Markov Models: Are there any implementations of an HMM with inputs represented as vectors of features?
-HMM is used in CMU Sphinx framework for voice to text conversion. Here is the link to CMU Sphinx : CMU Sphinx    Embed Quote

@@ -1,2 +1,0 @@
-What is the difference between histograms and bar charts?
-A histogram is a specialized bar chart that bins data into a small number of categories and shows the magnitude for each category. 

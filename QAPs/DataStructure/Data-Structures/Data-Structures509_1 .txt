@@ -1,1 +1,0 @@
-Is there any book or series of articles similar to "Purely Functional Data Structures" by Chris Okasaki but with code in Haskell?I don’t know what kind of similarity are you talking about, but maybe Richard Bird’s book will be interesting for you? 181 Views · View Upvotes · Answer requested by Karpichev Roman

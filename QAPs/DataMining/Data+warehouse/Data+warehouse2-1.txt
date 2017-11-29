@@ -1,2 +1,0 @@
-★What data warehouse does Facebook use?
-Data scraped from production servers and web logs are stored in the form of Hive tables in HADOOP. Summarized data typically resides in an Oracle Exadata system either in the form of dimensional models or other de-normalized structures.    Embed Quote

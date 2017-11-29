@@ -1,4 +1,0 @@
-The vertex- and edge-connectivities of a disconnected graph are both 0.
-1-connectedness is equivalent to connectedness for graphs of at least 2 vertices.
-The complete graph on n vertices has edge-connectivity equal to n ? 1. Every other simple graph on n vertices has strictly smaller edge-connectivity.
-In a tree, the local edge-connectivity between every pair of vertices is 1.

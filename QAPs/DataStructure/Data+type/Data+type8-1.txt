@@ -1,2 +1,0 @@
-What's the difference between a data structure and an abstract data type?
-ADT is to an interface (what it does) what a data structure is to a class (how it does it). ADT is the logical picture of the data and the operations to manipulate the component elements of the data. Data structure is the actual representation of the data during the implementation and the algorithms to manipulate the data elements. So, in short ADT is in the logical level and data structure is in the implementation level. ... (more)

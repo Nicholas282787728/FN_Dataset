@@ -1,2 +1,0 @@
-How can we find all simple cycles in an undirected graph efficiently?
-If you could do this efficiently you could find all cycles, take the largest and check to see if it was a Hamiltonian cycle.  So I think this is NP-Complete.  I guess a simple algorithm would be to just enumerate all the paths in the graph and check if they were cycles.  Simple but not efficient 

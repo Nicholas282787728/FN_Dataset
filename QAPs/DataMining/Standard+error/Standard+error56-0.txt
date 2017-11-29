@@ -1,2 +1,0 @@
-★What does the shell command "rm tut1 2>~/junk" do?
-It deletes file tut1. If there's an error, the standard error goes to file ~/junk, presumably because they didn't want to show the error output. It seems likely that they didn't know about /dev/null, which could be used in place of ~/junk to throw the error away altogether.    Embed Quote

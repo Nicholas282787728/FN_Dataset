@@ -1,2 +1,0 @@
-What are the top data visualization tools in 2014?For programmers and for non-programmers.
-You can try Ubiq, a new cloud-based data visualization tool, with powerful features & capabilities. Ubiq lets you: Visualize data using a drag & drop interface Save visualizations into real-time dashboards Share dashboards & visualizations with others Interactively slice & dice data on the fly, using dynamic filters Export visualizations in various formats such as PDF/CSV/Image Visualize data in more than 20 types of visualizations 

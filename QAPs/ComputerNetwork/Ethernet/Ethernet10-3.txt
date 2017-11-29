@@ -1,2 +1,0 @@
-★What are the benefits of using an ethernet cable over a wifi router?
-Data flow over Ethernet is not required to be encrypted like your typical WiFi connection and therefore the greatest benefit is, its much more faster. File transfers and online gaming speeds are greatly improved through Ethernet  Additionally not utilizing WiFi on a Laptop allows you to turn it off providing more battery life.

@@ -1,2 +1,0 @@
-What is Fibonacci Heap used for in real life?
-Originally Answered: What are examples of real world applications of Fibonacci Heaps?They are often used as min-priority queues with Dijkstra's shortest path algorithm.  This is the most efficient single-source shortest path algorithm currently used.  This can be used to solve complex routing problems. 1.1k Views

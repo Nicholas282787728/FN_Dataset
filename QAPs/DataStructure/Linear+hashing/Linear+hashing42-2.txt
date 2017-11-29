@@ -1,2 +1,0 @@
-Which data structure is better to implement a phone book: Trie or Hash? Why?
-The actual implementation will depend heavily on the volume of data you have to process. Assuming that you have strict performance requirement I'm inclined towards trie. Here's a good implementation: Phone Directory Implementation Using TRIE 

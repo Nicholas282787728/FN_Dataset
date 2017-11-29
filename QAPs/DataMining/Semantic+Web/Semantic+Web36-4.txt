@@ -1,2 +1,0 @@
-★Which digital content curation tools/services leverage semantic web / linked data principles?
-Perhaps www.evri.com could be considered a semantic web/ linked data content curation tool. It's not obvious but behind the scenes it is using semantic web/ linked data to find related streams and related articles.    Embed Quote

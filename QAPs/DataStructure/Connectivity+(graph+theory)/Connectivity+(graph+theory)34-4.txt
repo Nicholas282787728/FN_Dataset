@@ -1,1 +1,0 @@
-What are some must-know topics in discrete math and probability for competitive programming?I am currently doing topcoder and learning newer algorithms. But I want to know the specific topics in Discrete math and probability which will help me get a better understanding of algorithms.

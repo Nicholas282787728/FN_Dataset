@@ -1,2 +1,0 @@
-★If HTTPS is more secure than HTTP, why don't all websites use HTTPS?
-because it makes your connection slow, by encripting it. http is faster, but not safe.

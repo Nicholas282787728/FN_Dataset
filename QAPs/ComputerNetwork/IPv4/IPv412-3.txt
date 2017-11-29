@@ -1,2 +1,0 @@
-★How many chars do I need to store any numeric IPv4 address?If I want to store IPv4 address like 127.0.0.1, etc. in a database, how wide should my varchar column be?
-If you using PHP, use ip2long (only works for IPv4 though) - also check ntoa aton if using C

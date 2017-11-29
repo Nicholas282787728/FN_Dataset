@@ -1,2 +1,0 @@
-★Why does the OSI model follow a horizontal approach and TCP/IP follow a vertical one?
-In the OSI model, there are no intermediate nodes between transport layer or above layers....hence these layers communicate directly with each other....hence horizontal approch While in TCP/IP,  each layer is traversed starting from application layer-transport layer-internet layer-host_to_network layer, and then msg is sent. Meaning data travels each layer, accessing their functionality...only then it is sent...hence vertical approch.    Embed Quote

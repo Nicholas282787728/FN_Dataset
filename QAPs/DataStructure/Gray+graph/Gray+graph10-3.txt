@@ -1,2 +1,0 @@
-Who are some of the greatest scientists, past and present, in the field of distributed or concurrent systems?Also what are their accomplishments?
-Maurice Herlihy's Personal Page -- Linearization Jim Gray (computer scientist)  -- transaction processing Edsger W. Dijkstra -- graph theory, asynchronous logic (Predicate transformers, etc) Claude Shannon  -- information theory Leslie Lamport -- sequential consistency, distributed clocks, etc 

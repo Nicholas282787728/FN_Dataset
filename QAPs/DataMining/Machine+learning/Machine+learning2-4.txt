@@ -1,2 +1,0 @@
-★What are the best machine learning blogs or resources available?Looking for some regularly updated and high quality content blogs.
-Although not only about machine learning, the Netflix Tech Blog posts incredibly high quality content describing how they use machine learning or other forms of AI in their movie recommendation algorithms.    Embed Quote

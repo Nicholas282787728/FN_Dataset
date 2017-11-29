@@ -1,2 +1,0 @@
-★What are the disadvantages of simple FFT/IFFT filtering for EEG signals?
-Basically you are looking for IIR and FIR filtering Just look up in any good DSP references to get more information about it P.S. I like my answers to be short :D    Embed Quote

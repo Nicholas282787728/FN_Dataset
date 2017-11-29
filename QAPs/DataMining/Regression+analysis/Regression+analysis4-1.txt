@@ -1,2 +1,0 @@
-★Is regression analysis legitimate for time series data?
-There are regression models that are appropriate for time series data, but ordinary least squares doesn't work.  What to do with time series data is beyond the scope of a Quora answer, but there are a lot of books that you can look into.  I'd recommend Brockwell & Davis.    Embed Quote

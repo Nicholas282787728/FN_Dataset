@@ -1,2 +1,0 @@
-Where can I find a C++ implementation of RBT for contests like ICPC?
-All associative containers ( map, set, multimap and multiset ) are implementations of binary search trees using Red Black Tree concept. They are part of the STL. 

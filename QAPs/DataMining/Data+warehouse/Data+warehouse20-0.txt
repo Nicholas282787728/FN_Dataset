@@ -1,2 +1,0 @@
-★Is data warehouse a database? Why?
-Yes it is. A data warehouse is also a database where data from many other data sources are stored in a consistent way.    Embed Quote

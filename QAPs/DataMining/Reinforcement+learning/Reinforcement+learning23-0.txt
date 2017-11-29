@@ -1,2 +1,0 @@
-★What are some cool examples of companies using reinforcement learning in their products?
-This isn't a company really but you can take some off the shelf RC helicopters and teach them to fly themselves. See http://heli.stanford.edu/ http://www.tested.com/tech/robot...    Embed Quote

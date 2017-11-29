@@ -1,1 +1,0 @@
-How do I represent the list of neighbours in C++ in Prayatna PR SPOJ using only arrays?The question is simply : Finding number of connected components given a graph. Simple DFS will do the trick. As, 2 <= N <= 100000 is constraint. 250 Views  View Upvotes

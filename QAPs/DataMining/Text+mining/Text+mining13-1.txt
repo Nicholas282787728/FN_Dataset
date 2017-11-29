@@ -1,2 +1,0 @@
-★In text mining is there any standard way to measure cool?
-If you don't have a list of words that can be used to define a text as "cool", you could alternatively try to identify a handful of texts that you would say are cool. Then you use this "cool corpus" in combination with natural language processing techniques to identify words or phrases (n-grams) occurring significantly more frequently in the "cool corpus" than in some other neutral corpus. Voilà, your handcrafted list of "cool" indicator words.    Embed Quote

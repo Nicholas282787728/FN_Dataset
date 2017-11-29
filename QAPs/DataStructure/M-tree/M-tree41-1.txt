@@ -1,2 +1,0 @@
-How does a 2D segment tree work?
-Refer to this link : http://e-maxx.ru/algo/segment_tree Although the page is in Russian, but Google Translate would be good enough. This page explains the 1-D segment tree first. On the bottom, there is a section titled 'The two-dimensional tree segments in its simplest form' which would give you the required explanation. 

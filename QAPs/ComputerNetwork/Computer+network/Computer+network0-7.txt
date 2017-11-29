@@ -1,2 +1,0 @@
-★Is computer networks a boring area?
-Jennifer Rexford Princeton University had written a very nice article in SIGCOMM  titled "Network Philosophers Problem". The paper talks about what networking is and what it should be. More importantly it identified the contributions networking makes to other fields. So no, networking is not boring but a wide open field with many interesting problems. You can find the paper here: Page on princeton.edu

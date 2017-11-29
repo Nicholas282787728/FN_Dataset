@@ -1,2 +1,0 @@
-★What are the advantages of SIP for VoIP?
-With SIP you can reduce the cost of the buying the hardware. Moreover SIP supports multiple modes of communication that includes video and instant messaging. this allows greater levels of user presence. SIP Trunking uses DID’s (Direct Inward Dials)which allows the users to have their own phone line. This help in increasing the flexibility and implementation of call control. These features makes SIP a great choice for VoIP.    Embed Quote

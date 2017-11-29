@@ -1,2 +1,0 @@
-★What are the best Twitter clients?
-We launched Twimbow.com in alpha in June 2010 and in Beta in October. It's a very powerful social media dashboard powered by HTML5 and new approaches to let users "consume" Twitter in an innovative way. It's by invitation only. I firmly believe that the browser is the new OS, so why the need of a desktop app?

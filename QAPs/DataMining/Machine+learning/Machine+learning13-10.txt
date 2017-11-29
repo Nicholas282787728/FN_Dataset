@@ -1,2 +1,0 @@
-★How do you explain Machine Learning and Data Mining to non Computer Science people?
-You could start with one of the simplest examples of machine learning - the "line of best fit". http://commons.wikimedia.org/wik... Many other machine learning algorithms are more advanced versions of this. For example they can work with millions of variables instead of two, they may create multi-dimensional "hyperplanes" instead of simple lines, they may use all kinds of clever transformations to make the data more suitable for processing, etc..    Embed Quote

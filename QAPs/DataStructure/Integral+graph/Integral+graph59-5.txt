@@ -1,2 +1,0 @@
-What are the most useful gems to use in Rails?
-You could try out Informant – http://informantapp.com – analytics on Rails form errors so you can see where your users are screwing up. Full disclosure, I'm the cocreator of Informant :) 

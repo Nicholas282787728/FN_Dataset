@@ -1,2 +1,0 @@
-★Why is L1 metric better than L2 metrics in convex linear programming?
-L1 can allow sparse solutions (solution vectors with many zeroed values) as an optimum and if you have a suitable method like gradient or quadratic linear approx methods you might get to those solutions. These are useful properties when looking for PCA feature selection problems or other matrix decomposition problems. Like justin said l2 is not linear.    Embed Quote

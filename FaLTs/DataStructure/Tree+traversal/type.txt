@@ -1,1 +1,0 @@
-There are three common ways to traverse them in depth-first order: in-order, pre-order and post-order.[1] Beyond these basic traversals, various more complex or hybrid schemes are possible, such as depth-limited searches like iterative deepening depth-first search.

@@ -1,2 +1,0 @@
-What are some of the application of splay trees?
-Lexicographic Search Tree Data Compression Encryption Cache Implementation 

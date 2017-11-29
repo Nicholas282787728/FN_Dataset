@@ -1,2 +1,0 @@
-★I am interested in the field of data compression. Being a complete beginner, how can I start out to pursue my interest?
-You haven't provided a clear background apart from being a beginner, so I will not be able to answer specifically for you. Basics: Mathematics, primarily probability theory, along with Information theory and Coding. Learn a programming language like C or C++, along with Data Structures and Algorithms There is already a lot of research done in this field, familiarize yourself with that. These would be good enough to get you started.

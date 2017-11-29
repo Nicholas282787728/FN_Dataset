@@ -1,2 +1,0 @@
-★What else is a finite state machine used for except language parsing?
-Network protocols

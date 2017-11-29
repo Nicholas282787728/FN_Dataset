@@ -1,2 +1,0 @@
-Can a tree be a Binary Search Tree if more than one nodes have the same value?
-No, each node must have a different value. Each time a new valueis entered, a 'search' function is invoked(called) to tackle such discrepancy,   Now,there's a broad perspective to this.What you study at collg level is just to make it easy fr understanding by taking only integer values in the BST but may have wide applications in real time world(other than only integer values).So, you must have an industrial view. Google abt it. It'll help you in the longer run. 

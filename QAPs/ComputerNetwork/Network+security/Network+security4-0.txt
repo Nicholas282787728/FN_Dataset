@@ -1,2 +1,0 @@
-★What's the future of network security?
-Software defined networks which include built in security modules. Each individual endpoint / server being firewalled. No more "DMZ". Auto creation of firewall rulesets based on the provisioning of the cloud instances.    Embed Quote

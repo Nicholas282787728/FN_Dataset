@@ -1,2 +1,0 @@
-★What are the most interesting uses of predictive modeling?
-One of the most interesting use cases I have had the opportunity to work on was to predict if you would buy flowers on Valentine's day or not based on your previous purchases. I quite enjoyed the whole project. :)    Embed Quote

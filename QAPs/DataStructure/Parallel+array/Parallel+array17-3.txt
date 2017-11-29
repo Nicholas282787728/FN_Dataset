@@ -1,2 +1,0 @@
-Why doesn't Haskell have mutable array without IO monad?
-If you realy want to work with arrays in Haskell you should take a look at Repa library: Numeric Haskell: A Repa Tutorial. 

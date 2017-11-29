@@ -1,1 +1,0 @@
-Why do we need to color a node grey in the Breadth First Search in addition to other colors, black and white?As given in the book CLRS, while doing a BFS, we color the node grey if it was previously white and would now be inserted into the queue. But we never check whether a node is grey or not. So why do we color a node grey?

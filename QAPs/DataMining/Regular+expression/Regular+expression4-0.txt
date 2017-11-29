@@ -1,2 +1,0 @@
-★What is the best regular expression cheat sheet?
-It's not exactly a printable cheat-sheet, but I happen to like the pages at http://www.regular-expressions.i... (the ~6 pages listed in the 'Regex Reference' box on the left).    Embed Quote

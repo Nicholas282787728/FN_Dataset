@@ -1,2 +1,0 @@
-Why can't binary be reversed to source code exactly as it was before compilation?
-It totally can, in some highly reflective languages, like C#, the binary holds all the information of the original source code. Most of the time though there is a lot of data in the source code that is thrown away by the compilation process. For instance, when you write the program in C: for (int to_the_stars_and_beyond=0;;++to_the_stars_and_beyond); Why would the compiler bother storing the string 'to_the_stars_and_beyond' in the executable file? 

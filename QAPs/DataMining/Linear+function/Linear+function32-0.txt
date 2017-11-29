@@ -1,2 +1,0 @@
-★Are sin, cos and tan linearly independent functions?
-We have to prove that if , . Assume . Choose , such that . Clearly  , hence . We also have that and . Hence .    Embed Quote

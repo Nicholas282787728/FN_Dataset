@@ -1,2 +1,0 @@
-★What is the relationship between finite automaton and Markov chain?
-If you give independent random inputs to a finite state automaton, then the sequence of states you visit forms a Markov chain.  The chain is time homogeneous exactly when the probability of choosing a given letter doesn't change over time.    Embed Quote

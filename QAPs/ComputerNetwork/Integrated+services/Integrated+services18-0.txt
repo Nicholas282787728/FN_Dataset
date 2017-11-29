@@ -1,2 +1,0 @@
-★Is there any hosted Continuos Integration service that is free for students and compatible with BitBucket?
-Try Shippable - www.shippable.com. It is a hosted CI/CD platform completely free for public and private repos both. It is also fully integrated with GitHub and Bitbucket.    Embed Quote

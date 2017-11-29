@@ -1,2 +1,0 @@
-★What is your average day like of a predictive modeler? What skills and tools are most important in becomming one?
-My days have 4 parts: 1. Applying old models to new data 2. Tracking the performance of old models to measure their performance and deterioration (interestingly, they never seem to get better...hmmm) 3. Creating new hypotheses 4. Building/learning new models, adapting old models, mixing models to explain new data/hypotheses    Embed Quote

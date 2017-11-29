@@ -1,2 +1,0 @@
-★Can a genetic algorithm evolve a neural net algorithm?
-For the Ruby platform, RubyNEAT Wiki -- Neural Evolution of Augmenting Topologies    Embed Quote

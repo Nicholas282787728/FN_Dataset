@@ -1,2 +1,0 @@
-★How are frames converted to bits in the OSI model in networks?
-This smells like a bad homework question. First of all, the OSI model doesn't convert much of anything.  Real hardware has to do that.  That hardware is strictly part of the OSI layer 1 implementation.    Embed Quote

@@ -1,2 +1,0 @@
-Are there any good tutorial blogs on Codeforces?
-Following are few tutorial links at CF A little bit of classics: dynamic programming over subsets and paths in graphs - Codeforces Dynamic Programming Type - Codeforces Basic Binary Indexed Tree (English version) - Codeforces Z Algorithm - Codeforces Partially Ordered Sets - Codeforces Implicit cartesian tree in GNU C++ STL. - Codeforces Segment Tree - Codeforces 

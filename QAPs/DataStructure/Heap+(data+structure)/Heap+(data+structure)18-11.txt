@@ -1,2 +1,0 @@
-What are the top 10 algorithms every software engineer should know by heart?
-I couldn’t just compile top 10 algorithms, so I’m going to list out what I think is best. Here goes the list - Insertion sort or Selection sort or Bubble sort Merge Sort Quicksort Binary Search Breadth First Search (BFS) | Iterative & Recursive Implementation Depth First Search (DFS) | Iterative & Recursive Implementation Lee algorithm | Shortest path in a Maze... (more)

@@ -1,2 +1,0 @@
-Stable bloom filter implementation for streaming data?
-stable_bloom_filter 

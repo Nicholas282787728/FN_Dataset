@@ -1,2 +1,0 @@
-Self-taught: After teaching myself programming for one year, how much of the subject should I know?
-I think after 1 year, you should be able to write a mid-range program. Basically, you should be capable of more than writing a 'To-do list' application, but nobody is going to ask you to write a competitor to Photoshop. I'd focus less on what you know, and more on what you can do. 

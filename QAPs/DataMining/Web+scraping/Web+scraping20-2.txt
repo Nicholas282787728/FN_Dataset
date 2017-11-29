@@ -1,2 +1,0 @@
-★Is there any open-source web scraping tool such as Scrapinghub or DiffBot?
-Try A Fast and Powerful Scraping and Web Crawling Framework There are other DIY tools service providers like Import .io, Kimonolabs. If you want a customised web crawler try PromptCloud    Embed Quote

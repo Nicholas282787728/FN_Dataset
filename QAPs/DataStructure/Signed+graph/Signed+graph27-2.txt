@@ -1,2 +1,0 @@
-How do I prove this without graphs?
-Consider N<both roots. f(N) and d(-infinity) will have the same sign. And sign of f(-infinity) is the same as sign of 'a' and sign of f(N) will be the sign of 'a'. Hence, a*F(N) is greater than 0. Completely agree with Sanidhya Gupta on this answer,same thoughts came to my mind :) 

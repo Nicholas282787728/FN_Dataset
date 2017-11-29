@@ -1,1 +1,0 @@
-What are some properties of minimum spanning trees?The cut property. For a given cut in the graph, if the smallest edge weight is unique among edges of the cut, then this edge will be in the MST. 

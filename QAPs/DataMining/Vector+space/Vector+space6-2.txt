@@ -1,2 +1,0 @@
-★What are some open-source implementations of vector space models?
-I found something interesting a tool that convert strings into Vector Spaces A Tool for Embedding Strings in Vector Spaces sally.    Embed Quote

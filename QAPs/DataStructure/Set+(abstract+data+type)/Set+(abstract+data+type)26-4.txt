@@ -1,2 +1,0 @@
-What are data structures and algorithms?
-Data structures is how information is stored. Algorithms is how this stored data can be processed. 

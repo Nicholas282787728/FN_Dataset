@@ -1,2 +1,0 @@
-★Can Hidden Markov Models be used as binary classifiers? If yes, how?
-HMM is used for structured predictions, for example on sequence data like Speech, text, DNA If you need to predict labels (binary or not) on each token in a sequence, HMM is very good for that. If you just need a single binary prediction on the whole, you can't just use HMM, perhaps you can feed output of HMM into other classifier though.    Embed Quote

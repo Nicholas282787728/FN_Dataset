@@ -1,2 +1,0 @@
-What should every programmer know about functional programming?
-Fact 1: People say a lot of incredibly false things about functional programming.  Fact 2: It rocks. Fact 3: Statman gave a proof that higher order logics have significantly shorter proofs (I'm sure there is an easier version of this to stomach somewhere).  The full Curry–Howard correspondence states that functional programs are proofs for higher order logic.  Thus, in some formal sense, functional programs are going to be significantly shorter than imperative ones to do the same things. 

@@ -1,1 +1,0 @@
-What's the use of graph traversal and minimun spanning tree algorithms in social networks?

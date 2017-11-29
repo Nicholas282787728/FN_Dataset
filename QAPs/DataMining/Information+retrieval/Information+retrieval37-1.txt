@@ -1,2 +1,0 @@
-★What are some important papers on music information retrieval and music synthesis?
-Content-Based Music Information Retrieval: Current Directions and Future Challenges - Good overview paper.    Embed Quote

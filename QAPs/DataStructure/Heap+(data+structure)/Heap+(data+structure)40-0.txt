@@ -1,2 +1,0 @@
-In a Lab: I would like to hack something in 3 days but I need an idea. I would like my project to include at least one data structure like skip lists or fibonacci heaps. What I come up with is a basic persistant database implementation that will guarantee O(1) lookup. Is it possible to code it in three days?
-Suggestion : Try implementing some advanced optimizations wrt to space and time complexity for your favorite algorithm and make an analysis plot on the complexity to prove the complexities practically. 208 Views

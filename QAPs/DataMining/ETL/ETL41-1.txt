@@ -1,2 +1,0 @@
-★Why is ETL associated mostly with data warehousing? Isn't ETL a procedure that eventually may apply when loading raw data to a transactional database?Why is ETL associated mostly with Data Warehousing? Isn't ETL a procedure that eventually even may apply when loading raw data to a transactional databse?
-What you indicate is the T and L  part.  Where is the E?    Embed Quote

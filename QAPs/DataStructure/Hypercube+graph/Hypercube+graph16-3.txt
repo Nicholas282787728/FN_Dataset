@@ -1,2 +1,0 @@
-What are Graham's number and Tree(3) used for?
-Mainly to explain people how large some useful numbers can be. 

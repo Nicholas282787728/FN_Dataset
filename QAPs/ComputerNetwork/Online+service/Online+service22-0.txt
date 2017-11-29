@@ -1,2 +1,0 @@
-★What's a good online service for virus removal?
-Removal of Virus infections is one of the few security services that does not work well as an online service. You really need an antivirus installed on your computer, to capture and remove most infections. To reduce the chance of infection to begin with you can use online services for Spam-filter: like mailfoundry or postini; Web-filters ZScaler and OpenDNS which is a service that provides some of the web-filtering functionality through Domain blocking.    Embed Quote

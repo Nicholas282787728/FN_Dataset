@@ -1,2 +1,0 @@
-Why is there no Fibonacci heap implementation in the Standard Java API?
-To add to point #3 of Tim Wilson's answer to Why is there no Fibonacci heap implementation in the Standard Java API? - the PriorityQueue came along with JSR 166 Concurrency Utilities. This is based on Dr. Doug Lea's Java concurrent work which dates back to 1998 - http://gee.cs.oswego.edu/dl/clas... 513 Views · 2 Upvotes

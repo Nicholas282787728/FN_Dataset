@@ -1,2 +1,0 @@
-Software engineering: How to generate a C++ function programmatically?
-C++11 - Lambda Closures, the Definitive Guide - Cprogramming.com (not the only option, and not necessarily the best option, but worth considering) 

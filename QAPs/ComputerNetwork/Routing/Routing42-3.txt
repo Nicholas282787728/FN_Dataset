@@ -1,2 +1,0 @@
-★What are the difference between forwarding and routing?
-routing is based on knowing where the destination is and to which interface the layer 3 device should send it to.. forwarding on the other hand(i believe) is just receiving the packet and forwarding it in a hope that it would reach its destination. basically routing is where the device knows how to reach the destination whereas forwarding is just forwarding the packet not knowing whether it would reach destination or not..    Embed Quote

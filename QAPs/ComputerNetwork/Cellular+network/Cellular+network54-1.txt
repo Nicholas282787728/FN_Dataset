@@ -1,2 +1,0 @@
-★What's the difference between cellular networks for phone calls and their data networks for the Internet, and why don't we just use data for all phone calls?
-All cellular traffic is data. They charge you a different tarriff for voice a) because it takes more 1s and 0s to encode analog to digital than digital to digital and b) because they can, because there is a distinction in your head. Voice v. data is only relevant over PSTN.

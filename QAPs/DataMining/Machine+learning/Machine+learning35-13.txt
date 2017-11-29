@@ -1,2 +1,0 @@
-★What are the best open source machine learning libraries written in Python?
-Panda    Embed Quote

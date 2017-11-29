@@ -1,1 +1,0 @@
-How can we implement trees (Binary tree) using the LinkedList class in java?

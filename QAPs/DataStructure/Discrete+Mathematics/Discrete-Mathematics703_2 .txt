@@ -1,1 +1,0 @@
-How can I find all integers solutions to 5x ≡ 1 (mod 1303), 5x ≡ 15 (mod 1303), 5x ≡ 10 (mod 30)?5x ≡ 1 (mod 1303) x = 782+1303n x=782 5x ≡ 15 (mod 1303) x = 3+1303n x = 3 5x ≡ 10 (mod 30) x = 2+36n x = 6n + 2 Discrete Math 21 Views

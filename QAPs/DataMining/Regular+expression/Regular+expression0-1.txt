@@ -1,2 +1,0 @@
-★How are regular expressions implemented?
-See http://swtch.com/~rsc/regexp/reg...    Embed Quote

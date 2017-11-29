@@ -1,2 +1,0 @@
-★Is there a way to encode a MPEG2 video at a bit rate of over 40Mbps?
-You need to find an MPEG-2 codec that supports the 4:2:2 High Profile which targets the video distribution market. As a reference the old digital betacam supported up to 90 Mbits/s, and that's where this bit rate comes about.

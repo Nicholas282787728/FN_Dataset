@@ -1,2 +1,0 @@
-What are some good research topics in data mining?
-A2A.  I'm not all that familiar with current research in data mining, but I know that the big conference is run through SIGKDD.  Looking at the conference proceedings for the past few years is a great way to see what the current topics are and who's publishing on them.  Then you can start looking at the citations, and at other papers by the same people.    Embed Quote 

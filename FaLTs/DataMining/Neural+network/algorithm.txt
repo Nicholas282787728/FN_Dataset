@@ -1,8 +1,0 @@
-Training a neural network model essentially means selecting one model from the set of allowed models (or, in a Bayesian framework, determining a distribution over the set of allowed models) that minimizes the cost. Numerous algorithms are available for training neural network models; most of them can be viewed as a straightforward application of optimization theory and statistical estimation.
-
-Most employ some form of gradient descent, using backpropagation to compute the actual gradients. This is done by simply taking the derivative of the cost function with respect to the network parameters and then changing those parameters in a gradient-related direction. Backpropagation training algorithms fall into three categories:
-
-steepest descent (with variable learning rate and momentum, resilient backpropagation);
-quasi-Newton (Broyden-Fletcher-Goldfarb-Shanno, one step secant);
-Levenberg-Marquardt and conjugate gradient (Fletcher-Reeves update, Polak-Ribi¨¦re update, Powell-Beale restart, scaled conjugate gradient).[84]
-Evolutionary methods,[85] gene expression programming,[86] simulated annealing,[87] expectation-maximization, non-parametric methods and particle swarm optimization[88] are other methods for training neural networks.

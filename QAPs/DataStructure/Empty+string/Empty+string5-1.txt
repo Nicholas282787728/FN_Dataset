@@ -1,2 +1,0 @@
-If I had foo+"" are there any cases where the empty string is not optimized out?
-Empty String is definitely not removed in the binary code. Though ways of JIT is much more unpredictable. Adding string will convert foo to String. The second action of concatenation should be removed. The whole line of code might be ignored if foo was of a String type. Compiling a code is not a direct one to one conversion. Behavior of compiler can depend on the code above the line and below it. Version of JIT, OS type, Architecture. Everything matters. 

@@ -1,2 +1,0 @@
-What is a load line in a transistor?
-Load line is locus of operating point of the transistor. It is graph plotted between Ic and Vce for any configuration. It helps you to decide respective values of collector current and collector to emitter voltage to operate transistor in any particular mode or region. According to these values only you bias you transistor. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 2.3k Views · 19 Upvotes

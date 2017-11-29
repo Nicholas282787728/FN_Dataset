@@ -1,2 +1,0 @@
-What is wrong with my code for prime factorization of the number?
-There r many mistakes in program the first while loop gives const output for uncertain input the second while loop checks 3,5,7,9,11.... While 9 Is nt prime output of both while loops r separate so u need to add the results of both n then give an output 

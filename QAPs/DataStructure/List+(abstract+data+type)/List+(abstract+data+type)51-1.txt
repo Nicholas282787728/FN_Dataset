@@ -1,2 +1,0 @@
-What is the application of linked lists in data structures?
-Open a folder that has images. Use Microsoft Image Viewer to view the images. In the UI, '->' button is your node->next; The '<-' button is your node->prev. This is one example which if told to someone, that someone would remember it for their programming lifetime. :) 

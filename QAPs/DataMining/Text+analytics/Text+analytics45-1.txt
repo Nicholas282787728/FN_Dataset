@@ -1,2 +1,0 @@
-★What are some good methods for coding large amounts of open-end comments, aside from outsourcing? Are there any new, more accurate text analytics products out there?
-You can try out Surveyi2i from BRIDGEi2i Analytics Solutions ( www.bridgei2i.com ) . It is just released for broader group and have a free version available for you to test out. Surveyi2i specifically got developed to simplify survey analysis tasks. It has good comments mining , categorizing and sentiment analysis ability.    Embed Quote

@@ -1,2 +1,0 @@
-Why do some people not like OOP and prefer functional programming?Is it just a matter of taste, or are there some other reasons behind it?
-Some tasks can be implemented more succinctly using functional programming. FP also has some advantage in parallel programming. But overall it does seem like a matter of educational background and personal taste. 

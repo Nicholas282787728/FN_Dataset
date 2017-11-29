@@ -1,2 +1,0 @@
-What is the easiest way to calculate the area under the curve (integral) of a graph in excel?
-You want to numerically integrate the data. Trapezoidal integration is probably a good approach. Here are two explanations of how to do that in Excel: Page on umt.edu 

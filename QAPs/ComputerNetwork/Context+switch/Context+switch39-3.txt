@@ -1,2 +1,0 @@
-★What kind of projects will get me a job at Google?
-Be a top programmer on an open source project.  Many of the lead developers of Blender have had offers from google.  Characteristics of the developers included high productivity, regular creation of advanced and interesting features (often based on recent computer science papers), and regular bug fixing of their own and others bugs.

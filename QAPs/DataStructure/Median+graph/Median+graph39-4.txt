@@ -1,2 +1,0 @@
-What are some examples of great new-user experience flows on the web?
-I'm sure the content here is dated at this point, but the folks at KissMetrics.com put this together years ago and I still think it's a pretty valuable tool: http://productplanner.com/ Shows the registration flows + viral loops for dozens of sites, apps, facebook games, etc. As I said, probably a bit dated, but still good stuff. 

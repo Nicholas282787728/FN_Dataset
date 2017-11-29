@@ -1,2 +1,0 @@
-★How do I set up my Windows Server 2008 R2 server to be a proxy server?
-CCProxy is an alternative software solution for Windows environments - Proxy Server for WinXP, Win7, Vista, Win2003, Win2008, Win2000, Win98, WinNT and WinME    Embed Quote

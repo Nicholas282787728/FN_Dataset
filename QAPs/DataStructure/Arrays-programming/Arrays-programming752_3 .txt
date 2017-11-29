@@ -1,1 +1,0 @@
-How do I create arrays implicitly?if n=3 how to create 3 arrays implicitly in c programming language?If implicit means dynamic then I guess you need to just use the combination of pointer to array and malloc. malloc is used just for this purpose. 47 Views  Answer requested by Naresh Reddy

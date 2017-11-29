@@ -1,2 +1,0 @@
-★Which hosting providers offer affordable unmetered bandwidth for dedicated servers?Rackspace does not provide unmetered bandwidth for dedicated servers. Softlayer asks for $2000/month for 100Mbps Uplink. Are there any reliable and trusted hosting providers out there offering affordable unmetered bandwidth plan that I should know of?
-from europe i think about ovh and hetzner from tha states there are a lot too..

@@ -1,2 +1,0 @@
-★What are some good interview questions asked from computer networks?I am a fresher.
-Something which will be asked in every interview. What happens when you enter a url in browser's aderess bar qnd press enter? Explain the process as much as in detail. Although question seems pretty simple to answer, it is up to you to take answer in depth.

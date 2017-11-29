@@ -1,1 +1,0 @@
-Can every real number be expressed in the form of x^x, where x can be any real number?

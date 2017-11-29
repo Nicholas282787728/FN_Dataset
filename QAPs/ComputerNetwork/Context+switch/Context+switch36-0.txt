@@ -1,2 +1,0 @@
-★What is the difference between concurrency and parallelism?
-Strictly speaking, two entities are run in parallel if at a given instant, both are currently executing. However, two entities are concurrent if their execution lifetimes overlap.  The difference being that you can have concurrent threads on a uniprocessor and context switch between them, whereas in true parallelism you need at least two cores the threads need to both be executing at the same time.

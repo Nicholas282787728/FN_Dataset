@@ -1,1 +1,0 @@
-Do we know whether factorization is harder than graph isomorphism?

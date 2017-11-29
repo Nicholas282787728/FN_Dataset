@@ -1,2 +1,0 @@
-What are some programming languages commonly used in data mining, and why?
-Ed has captured the essentials very well I would add Scala into the mix because of it's functional feature set plus the ability to work with Java Traditionally AI folks used LISP but many have switched to Python - see [1]. Clojure also has possibilities in this domain [1] Peter Norvig http://norvig.com/python-lisp.html    Embed Quote 

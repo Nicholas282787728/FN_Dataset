@@ -1,2 +1,0 @@
-What is the best way to prepare for software engineering job interviews in 2 months?
-Read and the do the problems in these: Programming Interviews Exposed: Secrets to Landing Your Next Job Elements of Programming Interviews: 300 Questions and Solutions Cracking the Coding Interview: 150 Programming Questions and Solutions Once you're comfortable with the content in those books, you'll be more than prepared for your interviews. Programming Interviews Exposed has more advanced problems than the other two.  All provide good insights, however. 

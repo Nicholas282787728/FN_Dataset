@@ -1,2 +1,0 @@
-★How do I remotely find a computer's MAC address?
-If you have access to the computer run the following command from a cmd prompt / terminal; ifconfig or iwconfig (Linux) ipconfig (Windows)    Embed Quote

@@ -1,2 +1,0 @@
-Where can I find examples of a U-Squared distribution?
-The classical harmonic oscillator is a great example - the probability of being between x + dx is inversely proportional to its velocity there, therefore it's most likely to be near the extrema of the potential. here's a paper that calculates the PDF: http://robinett.phys.psu.edu/qm/... the PDF is simply: 1πx 2 0 −x 2   √     1πx02−x2  where x0 is the amplitude of oscillation. here's a plot for an amplitude of 10: ... (more)

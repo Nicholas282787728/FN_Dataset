@@ -1,1 +1,0 @@
-Where can I find someone willing to teach me data structure and algorithms for free or in very cheap cost?I always want to become a software developer but the only barriers for me is the technical interview, I can’t pass it, I want to find someone to teach me the data structure and algorithms.There are excellent courses on Coursera on Algorithm by Sedgwick. 43 Views

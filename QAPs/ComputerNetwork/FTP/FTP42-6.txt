@@ -1,2 +1,0 @@
-★How do I access the FTP on my WordPress site?
-It's like any normal FTP server. Get a FTP Client, the most popular one's FileZilla - Client Download Install it and get the ftp information from your hosting.(You may find it on your cPanel) Enter them and click Quickconnect or save them as a site in the Site Manager. That's it!

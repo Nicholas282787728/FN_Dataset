@@ -1,2 +1,0 @@
-★Why does the light's wavelength change, and not frequency, during refraction?
-It results from conservation of energy. The energy of a photon with frequency f is given by (hf). At an interface the total energy must add up and this requires the frequency to remain constant outside and inside the medium. On the other hand the wavelength ,lamda, depends on the speed of light in the medium and is reduced by the index of refraction, n.    Embed Quote

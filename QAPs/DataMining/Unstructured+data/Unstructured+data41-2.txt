@@ -1,2 +1,0 @@
-★For an enterprise (say Coca-Cola or J. P. Morgan), is the unstructured data a big deal? Should a CIO really have a big data strategy?
-Unstructured data is a very big deal for enterprises. If overlooked, organizations can end up with massive legal issues. Embracing data governance and stewardship practices can solve many problems. The article below explains a number of these. 6 Reasons Why Companies Gotta Have Data Governance    Embed Quote

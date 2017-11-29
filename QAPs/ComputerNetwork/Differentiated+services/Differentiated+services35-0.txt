@@ -1,2 +1,0 @@
-★How can one differentiate from EJB, RMI and web services in Java/J2EE?
-Hi, following link shows difference between RMI and web services. Rmi vs Web Service

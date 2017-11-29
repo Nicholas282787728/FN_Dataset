@@ -1,2 +1,0 @@
-How will you design a contact list in a cell phone? What data structure will you use?
-Well the Best data Structure to be used for this kind of operations is Suffix Tree Suffix tree . Trie will fail for partial searches. 

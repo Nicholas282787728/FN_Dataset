@@ -1,2 +1,0 @@
-★Can the Internet ever be shut down?
-No, having helped build it, I can tell you that there is no way to shut the whole thing down. Yes, of course, parts can be turned off, and without some parts, we'd see horrible congestion, but the basic infrastructure would still be operating, albeit possibly supersaturated. This is a direct result of the design of the routing protocols that are intentionally designed to route around any outages. Any parts that aren't working will be bypassed.    Embed Quote

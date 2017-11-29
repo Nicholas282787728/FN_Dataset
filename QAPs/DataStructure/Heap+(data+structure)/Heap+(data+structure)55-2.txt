@@ -1,2 +1,0 @@
-Why is dynamic memory allocation called heap memory allocation?
-'Heap' doesn't refer to the heap data structure.  It's just the name of the memory region that is dynamically grown/shrunk/assigned on request and resides in a different physical location than other memory regions.  (Think of heap as in a pile.)  The stack is the region that grows and shrinks with the call stack and locally scoped variables.  Many systems support dynamically allocation on the stack with alloca().  2k Views · 5 Upvotes

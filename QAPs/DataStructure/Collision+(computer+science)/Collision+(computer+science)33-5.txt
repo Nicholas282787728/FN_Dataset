@@ -1,2 +1,0 @@
-What algorithms should a first year computer science student know?
-At least the very basics: Iteration and recursion. Basic data structures: at least lists, arrays, and hashing. A general sense of growth rates: at least the differences between near-constant, linear, polynomial, and exponential. Sorting and searching. Then: An understanding of memory management. heap vs stack allocation. garbage collection versus manual management. Strings. 

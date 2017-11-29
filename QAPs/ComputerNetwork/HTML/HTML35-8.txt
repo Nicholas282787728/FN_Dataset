@@ -1,2 +1,0 @@
-★What is HTML Elements?
-An HTML element is an individual component of an HTML document or web page, once this has been parsed into the Document Object Model. HTML is composed of a tree of HTML elements and other nodes, such as text nodes. Each element can have HTML attributes specified. You can get the elements in detail with its attributes and examples: HTML Elements

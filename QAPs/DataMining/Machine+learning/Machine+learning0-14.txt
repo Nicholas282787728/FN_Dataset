@@ -1,2 +1,0 @@
-★How do I learn machine learning?
-Thanks for A2A. I am reproducing part of my answer from How do I become a data scientist? Machine Learning: Data Mining Map, Coursera-Machine Learning, A Programmer's Guide to Data Mining, STATS 202 Data Mining & Analysis, Mining Massive Data Sets-Stanford, Learning From Data - CalTech, Coursera-Web Intelligence & Big Data. Apply the knowledge: Harvard Data Science Course Homework Kaggle: The Home of Data Science    Embed Quote

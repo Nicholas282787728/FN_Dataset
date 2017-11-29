@@ -1,2 +1,0 @@
-★Where can I find some PDF about vector spaces ?
-In my experience the best way to learn about vector spaces isn't with a single source but with multiple short definitions and examples online. Once you've built up an intuition, just about anything can be found by googling "linear algebra".    Embed Quote

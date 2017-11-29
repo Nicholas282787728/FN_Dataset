@@ -1,2 +1,0 @@
-★How important is linear algebra in computer science?what is the relation between computer engineering and linear algebra
-Dan O'Neill listed applicable fields nicely. It is very common in scientific computing. Take a look at BLAS (BASIC Linear Algebra Subprograms) and  and LAPACK http://en.wikipedia.org/wiki/Bas... Some of the notable ones are Netlib BLAS, GNU Scientific Library (GSL), Intel Math Kernel Library (MKL), NVIDIA CUDA

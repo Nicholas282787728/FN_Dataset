@@ -1,2 +1,0 @@
-★What is HTTP?
-HTTP works as a request-response protocol between a client and server. More details: What is HTTP? | Technology Park

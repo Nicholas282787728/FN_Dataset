@@ -1,2 +1,0 @@
-★What is the difference between HTML and JavaScript?
-From what I've learnt, HTML is about structure and content while CSS adds style and Javascript adds functionality. Rob Percival's course on Udemy  comes highly recommended. Look for Rob Percival's Complete Web Development course on Udemy, it comes highly recommended.

@@ -1,2 +1,0 @@
-★What is a good bandwidth monitor for routers?I am looking for a free utility to monitor bandwidth with Shaw internet. My cap is at 100gb per month and do not want to go over the limit.
-You may want to try our product: Bandwidth monitoring software | PRTG Network Monitor.

@@ -1,2 +1,0 @@
-★What is the best Twitter client for Linux?
-If you are using Ubuntu greater than 10.04, then you already have the answer: Gwibber. Gwibber is the internal Twitter (and other social network) client that works very good, integrates itself in the Me Menu of the Ubuntu. You can found it easily in the Me Menu in the top panel of your desktop. Its name is "Broadcast". (If you can't find the Me Menu: it's the simple messaging icon, beside the clock, if you have a default condition.)

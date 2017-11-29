@@ -1,2 +1,0 @@
-What is the most complex line of C code you have created or encountered?
-Nothing stellar, but this is one: int nMatch = inner_product(vv[x].begin() + 3, vv[x].end(), vv[i].begin() + 3, 0, plus<int>(), equal_to<string>()); For a topcoder problem, counts the number of items starting from the third one in the vector vv[x] that match the corresponding ones in vv[i] 

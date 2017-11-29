@@ -1,2 +1,0 @@
-I was told my child who can add and subtract can enjoy Euler’s formula about faces, vertices, and edges, can someone explain it simply?
-Not really sure what are you asking, but: In a polyhedron, the number of the faces plus the number of the vertices equals the number of edges plus 2 

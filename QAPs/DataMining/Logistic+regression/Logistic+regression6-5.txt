@@ -1,2 +1,0 @@
-★Why is logistic regression considered a linear model?
-Just because there is + (addition, adaptivity) between the parameters / features . However, the function behind the logit model is non-linear function (log- normal). Best, Nir Kaldero Director of Science, Data Science Experts galvanizeU    Embed Quote

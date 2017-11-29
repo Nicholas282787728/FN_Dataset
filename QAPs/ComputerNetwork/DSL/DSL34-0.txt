@@ -1,2 +1,0 @@
-★I have RJ45 cable connection from my ISP, but I have router with DSL (means RJ11) port. Can I connect it?
-Technically it may be possible, but it isn't worth it.   You almost certainly would not get the full bandwidth you are paying for on your ISP.   It would be much better, easier and faster to just purchase a new router.

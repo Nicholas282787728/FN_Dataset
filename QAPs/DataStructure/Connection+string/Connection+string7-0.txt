@@ -1,2 +1,0 @@
-Is Azure Connect unstable or is it my connection string to my local SQL Server causing problems?It works with one ipv6 address and the next day at work it doesn't work anymore. Changing the address I got it working again, but next day it did't work anymore on that address neighter. Error message: The exception message is 'A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible.
-Setting the machine name instead of the IPv6 address works so far. 

@@ -1,2 +1,0 @@
-★Who's doing what in the semantic web?
-If your looking for specific people, here who I can add to the list so far. Jim Hendler - Great video from 2007 "Why the Semantic Web will never work" Dave Beckett - Planet RDF, redland Tim Berners Lee: Semantic Web roadmap Sean B Palmer has posted about the semantic web in the past but I have not found anything recently posted. The Semantic Web: An Introduction    Embed Quote

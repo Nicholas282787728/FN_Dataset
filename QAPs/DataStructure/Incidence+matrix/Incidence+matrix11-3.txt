@@ -1,5 +1,0 @@
-What is and usage of Incident Power Matrix in power system?In power system, the Electrical network is a graph and as such, graph theory tools can be applied for the analysis of some of it proprieties. For instance, the adjacency matrix reflect the connectivity between buses and it¡¯s an image of the admittance matrix (Ybus; just replace y != 0 by 1).
-
-the adjacency matrix can be used for the analysis of network connectivity (topology) e.g. detect if a bus (or a sub network) is not connected to the network (islanding), N-k security,...
-
-the incidence matrix can be is used to construct the admittance matrix Ybus = A * y * A', system reconfiguration (distribution network)

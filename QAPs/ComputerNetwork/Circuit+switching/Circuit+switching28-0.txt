@@ -1,2 +1,0 @@
-★How is the Internet data (4G, 3G, 2G, Wi-Fi, etc.) produced? How is the business happening?Don't just tel me simply by spectrum.
-4g,3g,2g is not the internet data , it is the service provided by telecom operators to the end users for using internet, 2g is circuit switched ,3g is packet+circuit switched and 4g is packet switched technology ,each provide differnt speeds and protocols for using internet and call over phone

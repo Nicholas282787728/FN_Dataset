@@ -1,2 +1,0 @@
-Field Programmable Gate Arrays (FPGAs): How can I implement the Smith-Waterman algorithm in synthesizable VHDL?
-By programming? Convey have done this.... Page on Conveycomputer 

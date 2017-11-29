@@ -1,2 +1,0 @@
-What is B-trees index in SQL?
-i am understand your question and i am giving some link over here to you. you can easy way to understand and implement into sql database. 1.http://use-the-index-luke.com/sql/anatomy/the-tree 2.http://sqlity.net/en/2445/b-plus-tree/ you can see the video and easy to understand for B-tree indexing in sql. 442 Views

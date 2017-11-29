@@ -1,2 +1,0 @@
-★Random variable x has the probability distribution with density . What is the probability distribution of the random variable?
-This is a transformation of your random variable . We can define a new random variable: . is piecewise monotone on - that is, it is monotone over two ranges of - negative real numbers and positive real numbers. We can define the pdf of in terms of and take the sum of the two monotone ranges: If you want to learn more about transformations, I would suggest watching Joe Blitzsteins lecture on the topic:    Embed Quote

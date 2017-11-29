@@ -1,2 +1,0 @@
-★What are the most interesting open-source projects in artificial intelligence and machine learning?What projects should people be paying attention to and studying?
-The Torch7 distribution (http://torch.ch/ ) is analogous to Theano/Pylearn2. 

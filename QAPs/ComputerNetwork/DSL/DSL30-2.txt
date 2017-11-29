@@ -1,2 +1,0 @@
-★Should I connect dsl router to wan port of wifi router?
-I think the solution is to connect LAN to LAN and disable router 2's DHCP setting (letting router 1 do the DHCP.)

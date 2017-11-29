@@ -1,2 +1,0 @@
-In a realistic Trie implementation, how is a node stored compactly and efficiently?
-You can decrease the branching factor of a trie by increasing its depth. For example, instead of storing one Unicode character at each level of the trie, you could store one byte of the UTF-8 encoding. (This is how the RE2 library compiles Unicode regular expressions.) Or you could store one hex nibble at each level, or even one bit at each level. Updated 117w ago • View Upvotes

@@ -1,2 +1,0 @@
-When do you need to use a multimap in Java?
-Use a multimap when a key can have multiple associated values. One use case for this is if you want to keep track of birthdays in your contact list. Potentially, there are days where two or more of your contacts have birthdays. Likewise, unless you have many contacts, there are also days where none of your contacts have birthdays. Using a multimap lets you model that: you'd use Multimap<LocalDate, Contact>. 

@@ -1,1 +1,0 @@
-Are arrays in JavaScript similar to Arraylists?I more or less believe that JavaScript is JavaScript, and not Java, and the code in JavaScript should not mimic Java. E.g. there are actually no arrays in JavaScript. No sets. We have to live with it, and find good solution for this environment. 871 Views  Answer requested by 1 person

@@ -1,2 +1,0 @@
-How can we create MySQL shards?
-There are so many ways to answer this, you'll have to be less vague. Justin's answer gives a lot of detail, but could be too much, and may miss some specific use-case clauses, which only a professional consultant could highlight for you! For fast answers read Justin's answer, but please don't just take internet advice, it may cost you down the line, so probably best to get a professional to investigate your specific use-case! 

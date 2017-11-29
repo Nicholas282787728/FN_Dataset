@@ -1,2 +1,0 @@
-★How do I add metadata to my EndNote library?
-Multiple connections is really the holy grail of information and citation management. To my knowledge, the only commercial software product that actually works well with multiple connections is The Brain http://www.thebrain.com/ Tufts Universities VUE has potential, but it's still in very early beta. http://vue.tufts.edu/ Many of my users at the library find Zotero useful for research and marking up research ideas. http://www.zotero.org/    Embed Quote

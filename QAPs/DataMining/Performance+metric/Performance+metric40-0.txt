@@ -1,2 +1,0 @@
-★How can you compare the performance metric of Apache Drill versus Apache Phoenix with HBase?
-First read FAQ page of both framework & compare. Apache Drill FAQ Apache Phoenix FAQ At the end of Drill's page, you will get list of features provided. Just read & compare.    Embed Quote

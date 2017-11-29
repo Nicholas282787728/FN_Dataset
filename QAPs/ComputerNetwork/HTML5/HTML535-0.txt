@@ -1,2 +1,0 @@
-★What are the best HTML5 practices on Internet, with HTML5 tutorials?
-I am a big fan of http://www.html5rocks.com/ It has easy to follow tutorials that guide you through some core html5 features.

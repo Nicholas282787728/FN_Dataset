@@ -1,2 +1,0 @@
-★What are some of the best tips for reading big code base when you have limited domain knowledge?Oh did I mention no documentation :) ... Tests are definitely the starting point, but what more can you do?
-Try not to get everything in the first shot. Skim and guess what the code would be doing. Do this repeatedly. You'll keep getting better and this state of yours is the case in most of the projects.    Embed Quote

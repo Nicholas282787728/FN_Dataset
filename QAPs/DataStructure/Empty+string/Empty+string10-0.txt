@@ -1,2 +1,0 @@
-How can I empty a String in Java?
-You can't. Strings are immutable. You can just reference a new string object that has 0 characters. So if you have the string String whoIsAwesome = "you"; you can assign a new String object to your variable like so: String whoIsAwesome = "" but technically you didn't emptied the string, just referenced a new instance. 

@@ -1,2 +1,0 @@
-When char x=-135, printf ("%d", x) gives output= 121, how?
-As We have total 256 characters in C (0-255). If We want to print ASCII value of A Character having ASCII Value inNegative, then it will sum up in 256, means -135 == 256 + (-135) are equal in C, in case of Character. So you will get 121. x = -135; & printf("%c",x) -> y 

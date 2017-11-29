@@ -1,2 +1,0 @@
-★What is the safest home network wireless authentication option?
-The safest but still simple enough for home users is to use WPA2 PSK (Pre Shared Key). Set a strong password that is randomly generated, contains alphanumeric and special characters. For example you can use something like 1Password or Lastpass to generate a strong password and they store this securely for when you need it in future.

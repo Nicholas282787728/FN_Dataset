@@ -1,2 +1,0 @@
-★What is the difference between reinforcement learning and planning?
-In reinforcement learning, the objective would be to maximize the reward through experience and through interaction with the environment. There are multiple approaches this can be done with. One of them is to first build a model of the world, and then search that model for the best policy. The second step is called planning. In simple words, learning is going from experience to a policy, whereas planning is going from a model to a policy.    Embed Quote

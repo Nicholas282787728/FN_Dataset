@@ -1,2 +1,0 @@
-What was your favorite computer science applications class and why?
-Back in 1995, it was a course on network programming.  We wrote some various client/server apps using tcp and udp, the usual stuff.  But what was really cool at the time was doing RPC (remote procedure calls) over the internet, which was cutting edge back then. 

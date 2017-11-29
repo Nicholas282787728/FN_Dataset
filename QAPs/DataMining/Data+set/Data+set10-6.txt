@@ -1,2 +1,0 @@
-Which is better for analyzing large data sets, R or Mathematica?
-I'd recommend a hybrid type thing: take a subset of the data and play around with it in M-. M's interactive and visualization capabilities surpass anything else out there. R is probably faster for whatever final solutions you come up with.    Embed Quote 

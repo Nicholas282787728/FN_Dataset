@@ -1,2 +1,0 @@
-What exactly is "print it modulo 10^9 + 7" in competitive programming websites?
-Let M = 10^9 + 7 It serves mainly three purposes: Fits in the range of int in languages like C/C++. One doesn't need to deal with overflows when doing addition/subtraction modulo M. M is a prime number. You can perform division modulo M just by calculating the modular inverse of the divisor. The square of M fits in 63 bits (size of long long), so you can perform multiplication modulo M without overflows. 

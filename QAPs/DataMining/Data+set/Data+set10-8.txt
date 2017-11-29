@@ -1,2 +1,0 @@
-Which is better for analyzing large data sets, R or Mathematica?
-Then I suggest to try it with R first. Importantly, it is likely more the algorithm you are going to use that matters here, not the environment in which you will run that algorithm.    Embed Quote 

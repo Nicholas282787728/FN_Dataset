@@ -1,2 +1,0 @@
-Are there any desktop business intelligence tools for data analytics?
-Tableau  Public is 100% free but you publish your materials online.  Having seen  it in action, I can say that Tableau is efficient at creating any  visualization and mashup of data you want.  I'd rank it as simple or more rewarding than using Excel.  You get to see your data visualized quickly, and you get the advantage of quick/prepackaged insights.    Embed Quote 

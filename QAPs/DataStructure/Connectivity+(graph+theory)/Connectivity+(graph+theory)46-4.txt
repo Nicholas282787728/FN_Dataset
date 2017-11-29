@@ -1,1 +1,0 @@
-What kind of graph theory is used in automatic garbage collection? How is it used?

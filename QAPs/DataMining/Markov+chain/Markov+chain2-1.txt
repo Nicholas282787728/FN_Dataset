@@ -1,2 +1,0 @@
-★What should every programmer know about Markov Chains?
-MCs are generalizable to probabilistic graph theory, which actually makes them fundamental to a truly robust model of many real processes. The best thing for a programmer to know is how to identify situations where MCs may be useful (i.e. when the Markov Property holds for some stochastic process under consideration). Mastering this is sufficient in lieu of a more in depth study of the subject in most professional environments.    Embed Quote

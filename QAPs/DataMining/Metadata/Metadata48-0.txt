@@ -1,2 +1,0 @@
-★Are API metadata standards really RESTful?
-If your application state isn't driven by hypertext, you're not RESTful.    Embed Quote

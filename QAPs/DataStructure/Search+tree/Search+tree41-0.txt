@@ -1,2 +1,0 @@
-Could anyone write a C program to display a binary search tree in graphical form and explain it?
-Yes. It is possible. 

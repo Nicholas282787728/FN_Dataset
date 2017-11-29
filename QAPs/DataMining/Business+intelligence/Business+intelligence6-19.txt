@@ -1,2 +1,0 @@
-What are the most cost effective Business Intelligence tools?
-Like Yee mentioned, it really depends on what you're trying to accomplish. In my opinion, QlikView is a cost-effective BI solution and can save your company plenty of money if used properly. It's short time to implementation, ease of use, and cost effectiveness places it above many other BI tools in the market.    Embed Quote 

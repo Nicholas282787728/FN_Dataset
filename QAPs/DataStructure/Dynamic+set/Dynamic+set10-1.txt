@@ -1,1 +1,0 @@
-Is there a Python script or way to send a file or two to two different computers that have changing IP addresses (due to using different wifis and dynamic set up)?Can you make the 2 computers report their IPs to the server on regular basis? So when the servers wants to send data, it will find latest ip.

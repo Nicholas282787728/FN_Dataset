@@ -1,2 +1,0 @@
-★Which public DNS is best for India?I'm trying to figure out if any one public DNS is better for an Indian internet connection.
-Google Public DNS should be fast and effective from anywhere, since it's Google. The IP's for that are 8.8.8.8 and 8.8.4.4. There is also OpenDNS, which should also be fast no matter where you are. IP's are 208.67.222.222 and 208.67.220.220. Google would probably be fastest, given Google is Google.

@@ -1,2 +1,0 @@
-★Give some advantages and disadvantages of combining the  session, presentation, and application layer in the OSI model into one  single application layer in the Internet model.?
-You can open both the application and network security issues in a single platform. As an attacker it would be great to destroy and exploit all the vulnerability entry point. Well on the positive side its minimal as it is already performing in the transmission mechanism    Embed Quote

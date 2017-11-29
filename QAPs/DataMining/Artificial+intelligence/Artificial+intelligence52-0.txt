@@ -1,2 +1,0 @@
-What types of problems will the Facebook Artificial Intelligence Lab work on solving?
-A video of the announcement at NIPS: Some of the focus is aligned with Yann LeCun's current research interests. Try deciphering the echoey speech to decipher what topics some of the people in the lab will be (or already are) working on. Update (03/18/2014): DeepFace: Closing the Gap to Human-Level Performance in Face Verification and more generally AI Research Publications at Facebook.    Embed Quote Updated 19 Mar, 2014. 1,033 views.

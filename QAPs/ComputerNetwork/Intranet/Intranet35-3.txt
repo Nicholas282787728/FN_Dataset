@@ -1,2 +1,0 @@
-★What is the best wiki engine for small business intranet documentation?
-We're happily using Atlassian Confluence since more than a year now, and it's working very well (with a couple of plugins). It's user friendly, pretty versatile and cheap (not free).

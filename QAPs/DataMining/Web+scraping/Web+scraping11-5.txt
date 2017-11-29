@@ -1,2 +1,0 @@
-★What is web scraping and is Python the best language to use for this?If so why is python the best?
-Web scraping involves extracting structured data out of webpages. Python is a good choice because a lot of people use it for web scraping so there a lot of existing libraries you can build from: lxml, scrapy, etc    Embed Quote

@@ -1,2 +1,0 @@
-★How can I realize an FTP to FTP transfer directly?I want to know how to realize FTP to FTP transfer directly?
-To solve this problem, you can try MultCloud. Do you know it before? As its name suggests, multiple cloud manager, but it also supports FTP servers. First, Adding your FTP accounts in it, then you can direct transfer between FTP without downloading and re-uploading. Official tutorial: Direct FTP to FTP Transfer Tool - MultCloud

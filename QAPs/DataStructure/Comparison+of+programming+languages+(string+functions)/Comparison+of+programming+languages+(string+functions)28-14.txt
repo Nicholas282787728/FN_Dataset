@@ -1,2 +1,0 @@
-What can be done with Ruby or Python that just can't be done with PHP?
-Python & Ruby are driven by there frameworks Django & Rails (and Rhodes) respectively. PHP on the other-hand is awesome (as a scripting language) but there is nothing that actually drives it. Also the community of the later is active and to be precise a lot of active development is driving these languages forward (surpassing PHP) besides there lucid Programming structures and inbuilt language advantages. 

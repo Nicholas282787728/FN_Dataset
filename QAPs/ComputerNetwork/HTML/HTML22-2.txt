@@ -1,2 +1,0 @@
-★What are the differences between HTML5 and HTML?
-HTML is a markup language but HTML 5 is new, there is no big difference in both of them. HTML 5 have some tags and attributes which are not in HTML.HTML 5 is an updated version of HTML and it has an updation of Audio and Video Tag.And html5 and css3 you can create "live sites" with a lot of animations

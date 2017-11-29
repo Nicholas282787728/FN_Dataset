@@ -1,2 +1,0 @@
-What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
-Halfedge (or quad-edge) mesh data structures -- they allow you to implement incredibly complex geometric and topological operations on meshes without paying for speed.  http://www.cs.sunysb.edu/~gu/lec... They're particularly powerful when paired with the magic of "discrete exterior calculus" (DEC); the two fit together perfectly -- http://brickisland.net/cs177/?p=274 

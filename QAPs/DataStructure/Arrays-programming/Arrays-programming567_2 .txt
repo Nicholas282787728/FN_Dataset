@@ -1,1 +1,0 @@
-How Numpy's array and matrix type are stored in memory?(A2A) I don't know, but if I had to guess I'd point out that many data structures that support appending buffer extra space to hold newly-inserted elements; this is generally more efficient than allocating a couple of extra bytes every single time someone inserts something. 213 Views  Answer requested by Andrew Bean

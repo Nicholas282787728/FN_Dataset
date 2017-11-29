@@ -1,2 +1,0 @@
-★What are the best HTML5 practices on Internet, with HTML5 tutorials?
-Here some of my suggested resources for HTML5 tutorials and practices: Nettuts+: http://net.tutsplus.com/category... Smashing Magazine: http://www.smashingmagazine.com/... I think these are good starting points. Hopefully you can get your desired information from there.

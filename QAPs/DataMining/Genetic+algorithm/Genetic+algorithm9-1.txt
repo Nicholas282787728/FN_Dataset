@@ -1,2 +1,0 @@
-★What are some examples of commercially successful genetic algorithms?
-Industrial Application - Electronic Nose - it's an electronic hardware which uses sensors to classify the tea leaves. The GA along with PCA is utilized to optimize the redundant information from various sensors. The main objective is sensor optimization .    Embed Quote

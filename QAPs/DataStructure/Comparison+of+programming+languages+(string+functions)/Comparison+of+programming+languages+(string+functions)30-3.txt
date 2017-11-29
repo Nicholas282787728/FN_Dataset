@@ -1,2 +1,0 @@
-Do you think Lisp is jealous of Haskell?
-I don't think so. Where are the powerful object system, multiple inheritance, generic functions, multimethods, keyword, optional and rest parameters, dynamic variables, restartable conditions, macros, reader syntax, meta object protocol, the live image and REPL, in Haskell? Lisp and Haskell represent two different approaches to programming, but I don't think they should be jealous of one another, apart from some good features missing from the other. Updated 12 Mar • View Upvotes

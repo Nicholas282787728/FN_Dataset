@@ -1,2 +1,0 @@
-What is alpha beta pruning?
-Lets say we have a function f whose job is to identify best job in hand, which could be choosing of best move on board games. So f can this way also identify the worst among n moves. We can always drop this part of the worst choice, and no more check again on it in next move with f . This removes the number of choices in hand and termed as alpha-beta pruning because of cutting of branches(choices) in tree. Check an example of tic-tac-toe game with alpha-beta pruning method. 

@@ -1,2 +1,0 @@
-★How do I enable IPv6 support using DD-WRT and Comcast?
-Unfortunately the answer to your question depends heavily on what Comcast has enabled in your area from an IPv6 perspective. The DD-WRT site has some great tutorials on enabling IPv6, but Comcast is currently in the process of testing multiple ways of deploying IPv6 (6RD, 6to4), etc. You may want to check out Comcast's IPv6 information center, as it will likely give you at least some of the information you need to follow the correct configuration steps on DD-WRT's site: http://www.comcast6.net/    Embed Quote

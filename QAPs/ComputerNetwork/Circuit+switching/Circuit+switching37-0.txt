@@ -1,2 +1,0 @@
-★What is the use of a transistor and diode.explain?
-Some major uses : Transistor- BJT, MOSFET, JFET are the common types. Transistor- used as a switch, amplifier, oscillators etc. Diode- Rectifiers, Clamping circuits, Switch

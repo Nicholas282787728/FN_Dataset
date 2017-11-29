@@ -1,2 +1,0 @@
-What does root expansion in Linux mean? How is it carried out?
-It means making the partition assigned to root larger assuming you have additional unassigned disk space available. Some distributions of Linux may come as a binary file with a designated size. This is very common in virtual systems such as Amazon Web Services (AWS) -  Cloud Computing Services and embedded (or micro) systems such as Raspberry Pi. How it is carried out depends on the distribution of linux you are using. Here is the AWS help article on expanding for Amazon Linux: Expanding a Linux Partition. 

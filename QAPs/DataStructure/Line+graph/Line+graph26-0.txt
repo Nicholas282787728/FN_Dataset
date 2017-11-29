@@ -1,2 +1,0 @@
-What characteristics does a line graph have?
-Line graph is a representation of a any graph. It has only two characterstics: a) Each vertex of line graph represents an edge b) Two vertices are adjacent if they share a same endpoint. 472 Views

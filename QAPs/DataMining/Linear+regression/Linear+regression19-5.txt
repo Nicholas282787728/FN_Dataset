@@ -1,2 +1,0 @@
-★I am creating a multi-linear regression to forecast electricity consumption in a multi-tenanted office building. The best R2 value is 61% (aiming for 75%), hence am considering non-linear regression. Any advice on the form of non-linear regression to try?
-The short answer: Use best of the shelf non-parametric regression, gradient boosted machines (gbm package in R). The long answer: if the response is not normally distributed, R2 is not a good measure. try to "get" the non-linearity by adding non-linear features, log (x), x^0.5, x*y, etc...    Embed Quote

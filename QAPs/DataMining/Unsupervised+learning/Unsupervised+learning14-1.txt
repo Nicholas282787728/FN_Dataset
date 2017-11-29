@@ -1,2 +1,0 @@
-★Support Vector Machines: Is it possible to use SVMs for unsupervised learning/density estimation?
-Since unsupervised learning is usually represented by clustering, Support Vector Clustering (SVC) is the closest application of the support vector philosophy to unsupervised learning. The method was first proposed by Asa Ben-Hur et al. in a JMLR 2001 paper, available at http://jmlr.csail.mit.edu/papers...    Embed Quote

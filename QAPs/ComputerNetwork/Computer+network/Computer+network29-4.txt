@@ -1,2 +1,0 @@
-★What are some good interview questions asked from computer networks?I am a fresher.
-Have a clear idea of OSI layer , TCP/IP layer and their Protocols. You will get question only in and around this.

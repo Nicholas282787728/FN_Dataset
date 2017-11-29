@@ -1,1 +1,0 @@
-Is it true that writing operating system code and kernel code is extremely difficult? If so, how much do those types of programmers make?

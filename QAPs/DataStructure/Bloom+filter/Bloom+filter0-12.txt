@@ -1,2 +1,0 @@
-What are the best applications of Bloom filters?
-http://ieeexplore.ieee.org/xpl/a... The above paper proposes using Bloom filters to find duplicate clicks in a stream of advertising data, to detect potential click fraud. They maintain last 'n' clicks in a Bloom filter and lookup the incoming click. Since a Bloom filter has no false negatives, it's efficient for the common case of a click not being fraud. Updated 3 Nov 2014 • View Upvotes

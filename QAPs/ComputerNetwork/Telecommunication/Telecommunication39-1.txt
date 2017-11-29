@@ -1,2 +1,0 @@
-★What are the good books for understanding telecommunication technologies as a beginner?Actually i'm a beginner in this field although i've got some basic knowledge in packet switch networking as i've read some basic networking books like Computer Networking  A top down approach- Ross, Kurose :)
-Forget books, its all theory - if you want to know how a real national telco works and the tech they use try http://www.samknows.com they work with governments helping them understand, guide and regulate telcos. Lots of interesting stuff about BT in particular.    Embed Quote

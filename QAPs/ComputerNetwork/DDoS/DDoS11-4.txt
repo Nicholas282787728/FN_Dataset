@@ -1,2 +1,0 @@
-★How can I DDoS a website?
-Make a team of hackers Get high speed broadband connection Choose an anonymoyse proxy server/ VPN Use app as low orbit ion canon/ high orbit ion  canon Attack all in one go If all went fine , the webserver will stop respond being after a while, unless you are planning to ddos google or Facebook as they already receive hundreds of such attacks so, they have made their system robust enough to handle such traffics. Please use to for educational purpose and test it in lab environment only.

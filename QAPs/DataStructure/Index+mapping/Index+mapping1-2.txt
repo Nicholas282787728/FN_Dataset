@@ -1,1 +1,0 @@
-Elasticsearch: Is it possible to have the same index on different maps?In ElasticSearch, can 2 different maps be applied to same index? If yes, how? and how to access the fields of such index with different maps?

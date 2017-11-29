@@ -1,2 +1,0 @@
-★When will IPv6 replace IPv4 completely on the planet?
-We must note the current deployment status as mere 2% most of the devices are incompatible. Switching to v6 will render all the devices inoperable. It will take maybe 20 years yet only hybrid stacks will exist. To crown all, predicting such thing is meaningless

@@ -1,2 +1,0 @@
-What are common programming errors or "gotchas" in C++?
-Virtual destructors. If you delete an object of some class via a pointer to it, but the compile time type of the pointer might be that of a parent class of the object, you'll likely need a virtual destructor for the class. Sadly C++ wasn't designed to make it easy for machines to reason about the language, so the onus is on the programmer to spot this. 

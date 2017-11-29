@@ -1,2 +1,0 @@
-Is there any recommended explanations for segment tree?
-I like the explanation here: Segment tree - PEGWiki I also recently wrote an explanation of both segment trees and BITs (a related data structure) here: Eugene Yarovoi's answer to What are the advantage of binary indexed tree (BIT or fenwick tree) over segment tree? Updated 8w ago • View Upvotes • Asked to answer by Anonymous

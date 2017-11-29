@@ -1,1 +1,0 @@
-How does R plot its graphs? Using a backend like Gnuplot or completely autonomous?

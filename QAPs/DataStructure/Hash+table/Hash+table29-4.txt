@@ -1,2 +1,0 @@
-Are all NoSQL databases based on a distributed hash table? If yes, then how do they handle range queries?
-No, there are many different types of NoSQL database. key-value like memcached document stores like MongoDB where the values are themselves structured like an XML document or a table graph databases, including object databases like ObjectDB various other kinds ... (more)

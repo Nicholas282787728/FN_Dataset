@@ -1,2 +1,0 @@
-★Big Data: How is big data stored? Do they use databases like Oracle? How do they extract information from them?
-The Oracle NoSQL Database can be used as BIG data Solution as it  provides highly reliable, scalable and available data storage across a configurable set of systems that function as storage nodes.    Embed Quote

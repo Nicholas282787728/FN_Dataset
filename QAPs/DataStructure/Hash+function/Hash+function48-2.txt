@@ -1,1 +1,0 @@
-Cryptography: Are all hash functions public?or is there a reason to keep them secret?

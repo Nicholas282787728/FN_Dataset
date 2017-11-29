@@ -1,2 +1,0 @@
-Are there any programming concepts not yet implemented? What are they?
-I think Effect system is one of very interesting areas to study. The main goal is to isolate side-effects and figure out what parts of the program changes the state. Some programming languages already have effect system concepts in use, but those are just very early versions. 

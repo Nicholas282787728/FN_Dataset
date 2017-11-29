@@ -1,2 +1,0 @@
-★Why do we use least squares rather than mod?Appreciate this probably a very naive question. Obvious we want to minimise both + & - value of the error, but why square it rather than just using the absolute Presumably squaring is better than linear (because bigger errors get more weight?)
-the ease with x^2 can be integrated/differetiated in comparision with |x| is the main reason for using least squares rather than mod i.e. it is mathematically more tractable    Embed Quote

@@ -1,1 +1,0 @@
-How would you convert Longitude/Latitude to a physical address?This is a follow-up question to Where or how does a company, like foursquare, get a directory of all locations and their addresses?.

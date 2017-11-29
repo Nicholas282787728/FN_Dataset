@@ -1,2 +1,0 @@
-★What is a coder's worst nightmare?
-I remember a case where it took me 2 days to find out that there was a "=" instead of "==" in an if clause. These freak mistakes are actually the worst nightmares.

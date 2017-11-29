@@ -1,2 +1,0 @@
-★How much bandwidth does Quora use per second?I read somewhere that Facebook uses 824,000 Mbps of bandwidth continuously. I am curious about Quora.
-I think it would not be more than 100Gbps or so I guess.

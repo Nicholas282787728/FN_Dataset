@@ -1,2 +1,0 @@
-What are the top 10 algorithms every software engineer should know by heart?
-Well I do not have much experience as software engineer. But I list down few algorithms that I think every software engineer should know by heart. Sorting algorithms: Bubble sort, insertion sort, quick sort, merge sort Binary search Hashing Depth-first search. Breadth-first search Dijkstra’s shortest path algorithm String matching algorithm, it can be Knuth-Morris-Pratt or Rabin-Karp... (more)

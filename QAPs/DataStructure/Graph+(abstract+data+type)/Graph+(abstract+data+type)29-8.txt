@@ -1,1 +1,0 @@
-Where can I find the best description of the IoT architecture and development flow?(HW, Cloud and apps)

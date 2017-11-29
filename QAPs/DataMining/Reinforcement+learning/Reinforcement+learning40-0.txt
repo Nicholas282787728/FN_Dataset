@@ -1,2 +1,0 @@
-★What is the difference between reinforcement learning and planning?
-Planning happens ahead of time. There is little to no learning involved. Reinforcement learning is when there is a feedback parameter that tweaks the algorithm according to some sort of an error metric decided ahead of time.    Embed Quote

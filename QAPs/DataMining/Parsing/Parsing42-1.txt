@@ -1,2 +1,0 @@
-★What are the parsing techniques used by modern compilers?Do they use parser generators (if yes, which) ? Which kind of parser algorithms do they use (and why) ?
-V8 (JS engine) and the various parsers for Dart are all hand-written recursive descent. From what I've heard from MS folks, the C# compiler is hand-written as well.    Embed Quote

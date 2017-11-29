@@ -1,2 +1,0 @@
-★If the system is solvable, is it the same as the least square problem/system ?
-For (i.e. a matrix) with and we know, that a minimises if and only if . If you want (i.e. ), then it follows of course, that if and only if .    Embed Quote

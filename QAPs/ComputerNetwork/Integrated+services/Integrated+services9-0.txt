@@ -1,2 +1,0 @@
-★Which hosted continuous integration services show you individual Java test results?
-To clarify, you *can* publish Java test results in CircleCI, as artifacts. If you are using JUnit (or most other available test runners), you can dump results as html, xml, csv, and others. All you need to do is declare those as artifacts in your build setup. We output ours as xml. It's not super-pretty like your example, but it has the data we need.    Embed Quote

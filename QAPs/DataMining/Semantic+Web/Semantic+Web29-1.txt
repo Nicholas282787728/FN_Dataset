@@ -1,2 +1,0 @@
-★How do you explain semantic web to a nine-year old child in one sentence?"If you can't explain it to a six year old, you don't understand it yourself." —Albert Einstein
-You won't need to.  If the semantic web is ever built successfully, it will answer that question for you ;) Or, if you want to try now... 'A web where computers better understand the real meaning of the words we use to communicate with them'    Embed Quote

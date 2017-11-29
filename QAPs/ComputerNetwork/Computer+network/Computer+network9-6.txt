@@ -1,2 +1,0 @@
-★What is the best book about computer networking?
-You should look at Data Communications and Networking, by Behrouz A. Forouzan, 2nd Edition. I would like to stress on the 2nd Edition because it contains certain topics like go back n protocol,selective repeat protocol which are not present in the later editions. This book has got a compact writing style and explains all the concepts of networking very clearly.

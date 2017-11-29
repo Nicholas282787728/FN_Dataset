@@ -1,1 +1,0 @@
-What are XOR Linked Lists?XOR linked lists are doubly linked lists which store addresses in just one field instead of two in traditional doubly linked lists. For more information here's the wikipedia link http://en.wikipedia.org/wiki/XOR... 951 Views  View Upvotes

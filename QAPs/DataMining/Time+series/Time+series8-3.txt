@@ -1,2 +1,0 @@
-★What is the best way to store time series data in MongoDB?
-The following Quora thread may help. What is the best way to store time series data in Redis? Redis' ability to store collections makes it a suitable candidate for this kind of requirement. Some additional pointers: http://www.talkunafraid.co.uk/20... http://yinhm.appspot.com/2010/05...    Embed Quote

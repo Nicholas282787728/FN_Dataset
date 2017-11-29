@@ -1,2 +1,0 @@
-★What startups are focused on the Internet of Things (IoT)?
-Disclaimer: I am the founder of http://OpenSensors.io We are focusing on making data from devices easily accessible, people can share data with anyone (via an open data license) or create IoT products privately.

@@ -1,2 +1,0 @@
-What is the benefit of different data types in programming?
-Datatypes do make difference in programming. Each datatype reserves some space in the memory and that varies from one datatype another datatype. For example: short - 16bit (2 bytes) int - 32bit (4 bytes) long - 64bit (8 bytes) boolean - 1bit char - 16bit unicode (2 bytes)... (more)

@@ -1,2 +1,0 @@
-★Is it possible to mimic RFID (radio frequency identification) on a cellphone?Without including any extra chips and assuming there is not an RFID chip already present.  Could an iPhone replicate/replace an RFID chip just by using software? Even by just recording the frequency which the RFID chip "responds" with and replaying that.
-If the phone supports NFC, then it can. One of the three modes of NFC is card emulation.    Embed Quote

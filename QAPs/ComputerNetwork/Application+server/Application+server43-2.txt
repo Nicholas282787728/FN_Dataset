@@ -1,2 +1,0 @@
-★What is Apache and Tomcat? If Apache is Web Server, can we call Tomcat Application Server?
-It is not a full fledged application server like jboss or weblogic but it supports some of the JavaEE specifications like Servlet, JSP, JNDI etc. Yes, you can call it Application Server.

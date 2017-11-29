@@ -1,2 +1,0 @@
-I want to work on data compression algorithms using the C language. Where should I begin?
-Try to figure out the Huffman coding algorithm and program it. Refer these it will help- Implementing Huffman Coding in C and here the code is documented well so you can see this also- http://www.go4expert.com/articles/huffman-encoding-using-c-t23691/ Thank you for your feedback! Your response is private. Is this answer still relevant and up to date? YesNo 1.6k Views · 4 Upvotes · Answer requested by Ruman Khan

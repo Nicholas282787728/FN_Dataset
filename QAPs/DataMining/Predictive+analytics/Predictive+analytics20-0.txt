@@ -1,2 +1,0 @@
-★Who, if anyone, is using predictive analytics in finance?Predictive analytics from my understanding means using machine learning and big data to draw conclusions about the future.
-What key player is not, is the real question. From HFT to portfolio construction using mortgage-backed securities, just about everyone that matters in Finance makes extensive use of statistical / machine-learning techniques.    Embed Quote

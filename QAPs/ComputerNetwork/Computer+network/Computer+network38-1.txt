@@ -1,2 +1,0 @@
-★What are the seminal papers and RFCs in computer networking?
-Allman, Paxson and Blanton,"TCP Congestion Control," RFC 5681, September 2009. Jitendra Padhye, Victor Firoiu, Donald F. Towsley and James F. Kurose Modeling TCP Reno performance: a simple model and its empirical validation K. Tan et al,A Compound TCP Approach for High-speed and Long Distance Networks V. Jacobson and M. Karels, Congestion Avoidance and Control, In Proc. ACM SIGCOMM '88  (Stanford, CA, August, 1988) Caesar and Rexford,BGP Policies in ISP Networks

@@ -1,2 +1,0 @@
-Why are some people so in love with Bloom filters?The extent to which people are obsessed with it is too high. What's the secret?
-Adding to excellent answers by Adam D'Angelo and Josh Wills (from four years ago), note that there's something magical and counterintuitive in recognizing (with high probability) that you've seen something without actually remembering how it looked. In other words, you can use Bloom filters to keep track of (collections of) objects with any amount of structure, but without storing any such objects explicitly. Updated 3 Mar 2014 • View Upvotes

@@ -1,2 +1,0 @@
-Number Sequence: What is the next number in the sequence: 1,3,7,13,21,31,43? The function f(n) = ... .
-The next number in the sequence will be 57.   Between each number in the sequence, the difference between them increases by 2 every time. In that case, the pattern goes as follows:   1+ 2 = 3 3 + 4 = 7 7 + 6 = 13 13 + 8 = 21 21 + 10 = 31 31 + 12 = 43   Hence, ultimately, this means that: 43 + 14 = 57 

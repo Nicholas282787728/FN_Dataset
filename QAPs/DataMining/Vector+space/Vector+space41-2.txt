@@ -1,2 +1,0 @@
-★There exist 6 linearly independent vectors in a 4-dimensional vector space. Is this true or false?
-There are 4 independent vectors. For finite dimensional vector spaces, the cardinality of the basis set is the dimension of the space. If you choose 2 of these vectors at a time, there are 6 independent subspaces (planes) that you can span.    Embed Quote

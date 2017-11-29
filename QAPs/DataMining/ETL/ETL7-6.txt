@@ -1,2 +1,0 @@
-★What are some best practices when writing ETLs?
-Usability should be the #1 best practice. Make sure the software is usable by everyone in your group. Centerprise Data Integrator 5.0    Embed Quote

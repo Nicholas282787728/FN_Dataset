@@ -1,2 +1,0 @@
-★Is the FFTW library still the most optimal FFT implementation in C?
-As far as I know the answer is yes.    Embed Quote

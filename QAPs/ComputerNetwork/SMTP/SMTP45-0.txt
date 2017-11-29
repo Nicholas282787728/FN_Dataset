@@ -1,2 +1,0 @@
-★Why my antivirus blocks my connection to the smtp?
-Could it be that an upgrade was installed, or a policy updated? Virus scanners often have a feature of blocking outbound SMTP connections (sometimes checking which application tries to send out and allowing on that basis) - this is to prevent trojans from abusing an infected machine to send out spam.    Embed Quote

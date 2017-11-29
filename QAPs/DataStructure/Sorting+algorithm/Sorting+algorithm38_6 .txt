@@ -1,1 +1,0 @@
-Is there any sorting algorithm with time complexity less than n*logn?Yes there are, Like counting sort , bucket sort etc, Bt no comparision based soting algorithm cannot have average complexity less than nlogn 

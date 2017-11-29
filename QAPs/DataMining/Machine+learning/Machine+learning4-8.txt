@@ -1,2 +1,0 @@
-★How does one start writing practical machine learning programs?
-Get your hands dirtied with examples in the net. The specific steps how to start are already in the other answers here. For example follow the solutions in the netflix challenge(http://www.netflixprize.com) or those found in kaggle.com. Depending on your skills in programming and background in ML, there are several solutions lying out there you can start with.    Embed Quote

@@ -1,2 +1,0 @@
-★Does coaxial cable have an upper limit of speed?Fiber is ostensibly limited by the speed of light and the hardware switching the packets. But does a single coaxial cable have an upper bound of bandwidth speeds?
-With advanced modulation techniques and improved MER, existing residential coaxial cable can deliver a ~10 Gb/s downstream and ~2.5 Gb/s upstream service.

@@ -1,1 +1,0 @@
-Let a, b and c be sets. How do I prove that a⊆b and b⊂c, then a⊂c?A2A. Since it is likely to be a homework, I'll only give some hints. Recall the definition of inclusion: a⊆b⇔∀x(x∈a⇒x∈b)  a⊆b⇔∀x(x∈a⇒x∈b) . The proof follows almost immediately. 75 Views · Answer requested by 1 person

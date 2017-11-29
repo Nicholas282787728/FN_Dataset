@@ -1,1 +1,0 @@
-For what value of input size (N) for an array selection sort would outperform Quicksort?In between 10 and 100 We had to do comparison of sorting algorithms in college. Values for n = 10 and 100 Selection - 8us and 29us Quick - 8us and 18us PM your email id. I'll mail my code. You can use it to time and get a better value. 

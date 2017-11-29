@@ -1,2 +1,0 @@
-Is it a good UX or a bad one to have Google Maps as the index page?
-Good or bad depends on the users and their goals. It sounds like filtering is the primary functionality of the site, so making sure that the filter slide-in is visible and at the top of the visual hierarchy for the page would probably be a good idea. Making the filtering as simple to use as possible and structuring it so it is self explanatory to use will probably be the biggest challenge. It may be a good idea to include some sort of introductory walk through if users don't get it right away. 

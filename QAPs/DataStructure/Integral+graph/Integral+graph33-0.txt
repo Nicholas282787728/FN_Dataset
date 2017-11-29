@@ -1,2 +1,0 @@
-What is a good and sane integration strategy for querying local semantic web data alongside a vertex-centric social graph database?
-I would convert it all to triples in MarkLogic while keeping in different documents. Use low-latency replication to get them there - storage is cheap 

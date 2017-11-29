@@ -1,1 +1,0 @@
-How can I sort just a single sub-array in a multidimensional array?It will depend on your choice of language. In C and Java, you can always isolate the one dimensional array inside the multidimensional array and use the appropriate sorting function on the extent of this 1-D array. 40 Views

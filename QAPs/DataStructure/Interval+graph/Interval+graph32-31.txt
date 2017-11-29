@@ -1,2 +1,0 @@
-What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
-The law of large numbers, which essentially says that if you average a huge list of numbers from some distribution, you should get, um, the average. 

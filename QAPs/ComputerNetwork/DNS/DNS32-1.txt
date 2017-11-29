@@ -1,2 +1,0 @@
-★What DNS software does Cloudflare use?Is it custom or some BIND variant etc.?
-Are you asking about what we use to power the CloudFlare network? We don't discuss the internal network structure for security reasons.

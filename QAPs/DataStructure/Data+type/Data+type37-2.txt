@@ -1,2 +1,0 @@
-How do you Explain "Abstract Data Types" in layman terms?
-Abstract Data Types describes the possible ways a client could interact with the data (i.e the interface). It doesn't concern its self with how that particular ADT is implemented in code, hence the word Abstract.   For example the Stack is an ADT, and could possibly be implemented using arrays or linked lists. Whatever one is chosen will not change the fact thats the client is interfacing with a stack. 1.8k Views · 3 Upvotes

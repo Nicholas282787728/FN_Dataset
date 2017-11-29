@@ -1,2 +1,0 @@
-★What is routing?I understand it makes the URLs prettier. Some examples show PHP code, some just show examples of a mod_rewrite. Can someone explain the logic of routing and why it's used?
-In web software, routing is the process of determining which bit of code to execute given the path from the URL. This can be done either client side using hash URLs, or he history API, or server side using various mechanisms defined by the HTTP server and programming language.    Embed Quote

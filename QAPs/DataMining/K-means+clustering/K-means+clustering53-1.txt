@@ -1,2 +1,0 @@
-★What are the most popular clustering algorithms?
-To add more: An important K-means variant "Bisecting K-Means" is a very very popular algorithm (http://glaros.dtc.umn.edu/gkhome...). There is a well known algorithm for density based clustering, used for clustering when natural clusters are in arbitrary shape rather than spherical: DBSCAN (http://en.wikipedia.org/wiki/DBSCAN). BIRCH also can be mentioned for very large datasets. (http://en.wikipedia.org/wiki/Bir....    Embed Quote

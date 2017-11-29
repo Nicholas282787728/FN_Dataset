@@ -1,2 +1,0 @@
-Why is Freebase proprietary?It would seem quite sensible to make the software behind Freebase free, as Freebase is part of an open data. But Freebase was always proprietary from the start. Why is that so?
-While you might say that the core of freebase is closed; there's certainly always been the idea (through acre) that the frontend is open - at least in the sense that you can fork it, tweak it, and understand how it works. I'd wager this was part of the strategy around encouraging the building graph focused apps - it's hard to get your head around an open world data model. 

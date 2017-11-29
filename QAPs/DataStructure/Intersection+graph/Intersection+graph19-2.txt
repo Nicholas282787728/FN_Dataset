@@ -1,2 +1,0 @@
-How do you solve this equation using the a graphing calculator? 5^X = 1000
-A2A. You can use either the log methods others have already shown, or using the graph function:   -graph 5^x and 1000 and use the "intersect" function -graph 5^x - 1000 and use the "zero" or "root" function (which I now see Andrew already posted). 

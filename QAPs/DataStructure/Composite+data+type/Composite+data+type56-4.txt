@@ -1,2 +1,0 @@
-Why would someone use an SQL query when everything is available on GUI?
-You have more control when on the command line , and also "host" commands can be mixed in the code. GUI's are more for workflow and version-ing(for Development use) . Admin - prefer cmd line tools(faster, more control,no extra resources, native) 

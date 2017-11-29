@@ -1,2 +1,0 @@
-How effective is Leetcode for preparing for technical interviews?
-Your mileage may vary. I interviewed a front end engineering candidate last week, and he told me he spent a lot of time doing problems on Leetcode. During the technical interview, his performance was among the bottom two out of 15 candidates I was considering. 

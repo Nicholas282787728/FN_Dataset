@@ -1,2 +1,0 @@
-★What are some recommendations on ACH payment processes for my private network members?More specifically, I am looking to accept payment on behalf of my other private network members for things such as dues or professional fees that can get up in the hundreds of dollars on a daily basis. We do not need any credit card acceptance, ONLY ACH.
-You can look into Synapse Payments they have risk/fraud prevention built-in, open API's, and a flat fee structure of 25c per transaction.    Embed Quote

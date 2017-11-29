@@ -1,2 +1,0 @@
-What is the logic for cracking the '2048 puzzle'?
-2048 is a strategy based game which can easily be cleared using gravity approach which says to keep things down as far as possible. or in other words, avoid using up key till the point it is avoidable. I wrote a thorough explanation for this game at 2048 - A simple game of Mathematics which you might find helpful. 

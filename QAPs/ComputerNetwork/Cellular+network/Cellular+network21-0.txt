@@ -1,2 +1,0 @@
-★How can you create a peer-to-peer app that shares your cellular network?
-Check out "Open Garden"

@@ -1,2 +1,0 @@
-Is there an easy method to determine if a graph is planar or not?
-Every planer graph can be colored in almost 4 color, so if graph chromatic number >4 then it’s not a planer, otherwise it may be planer 

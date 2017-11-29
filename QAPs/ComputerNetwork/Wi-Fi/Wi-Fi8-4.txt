@@ -1,2 +1,0 @@
-★Does Wi-Fi work underwater?
-Radio waves will typically experience too much signal loss underwater, preventing it from being a useful communication mechanism in this scenario. On the other hand, underwater acoustic networks (UAN) are often a better bet (think Sonar). Here's one paper on the topic: Page on buffalo.edu    Embed Quote

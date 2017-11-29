@@ -1,2 +1,0 @@
-What are the data structures used in data warehouse? In what way, they differ from data structures used in relational database?
-Data warehouse contains historical and summerized data. Mostly readonly operation and complex queries are executed in data warehouse. Relational database contains up to date and atomic data. It should obey the ACID property. So, data warehouse uses data structures which makes acces to data faster. e.g. Bitmap Index(encoded and a lot other verieties) UB Tree DWARF Column Oriented Data structure 

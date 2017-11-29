@@ -1,2 +1,0 @@
-★Why did India choose 2400 MHz as 4G frequency when other countries went with 600-800 MHz? Does it lead to higher data plan rates?
-The decision was dictated by the availability of spectrum 2010. At that time, the only available band for broadband wireless access was 2.3-2.4 GHz. The choice of band doesn't impact data rates but the cost of deployment depends on it, to some extent.

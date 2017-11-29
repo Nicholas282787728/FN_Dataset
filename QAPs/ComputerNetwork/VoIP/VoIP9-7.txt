@@ -1,2 +1,0 @@
-★What do you think the future of VoIP will be?
-VoIP is a very broad term describing an underlying technology. The technology itself won't go away, but as WebRTC and UC become more popular, the term VoIP will likely fade from use.    Embed Quote

@@ -1,2 +1,0 @@
-Which machine learning algorithms are capable of solving prediction problems?
-No, that's definitely not true. The entire subfield of Supervised Learning is about prediction problems. Wikipedia has an incomplete list: List of machine learning algorithms 

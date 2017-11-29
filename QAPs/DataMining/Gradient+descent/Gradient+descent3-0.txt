@@ -1,2 +1,0 @@
-★What are the weaknesses of gradient descent?
-Some quick pointers: - It depends on proper initialization. - It can get stuck in local optima. Then you need some random re-starts. - It needs a careful selection of the learning rate parameter and frequently it needs to be variable across iterations or use a line-search method. - It might get close to the optimum but never converge exactly. In most practical cases this is not a problem except when it is.    Embed Quote

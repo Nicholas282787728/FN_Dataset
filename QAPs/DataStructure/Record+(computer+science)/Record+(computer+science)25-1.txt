@@ -1,2 +1,0 @@
-Which topics/problems marry biology and computer science very well?
-Here are a few that I think are pretty interesting: Genetic sequencing Automated medical diagnosis Protein folding Efficient [storing and retrieval of] medical records Computer vision Computational neuroscience Human-Brain interfaces Drug-discovery 

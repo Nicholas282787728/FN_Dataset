@@ -1,2 +1,0 @@
-★What other application servers can be alternatives to GlassFish?
-GlassFish is by Oracle, and provides the reference implementation for Java EE. Oracle WebLogic is the high-end commercial offering (#1 in the market), with tight integration with Oracle Coherence (#1 distributed cache / in-memory data grid in the market), Oracle database (#1 RDBMS in the market), etc. See: Oracle WebLogic Server For the sake of full disclosure, I work at Oracle. The  opinions and views expressed in this post are my own, and do not  necessarily reflect the opinions or views of my employer.

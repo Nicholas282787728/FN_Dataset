@@ -1,1 +1,0 @@
-Can anyone provide me a list of all algorithms needed for ACM-ICPC?

@@ -1,2 +1,0 @@
-★Why does low-bit rate audio sound tinny?Anything below 64kbps sounds tinny, but I'm not sure how that translates in terms of signal processing terminology.
-The bit depth is the resolution of a signal, which is basically the amount of available levels of amplitude. Because of the sudden jumps from the very few available amplitude levels cause a high frequency distortion/clipping.

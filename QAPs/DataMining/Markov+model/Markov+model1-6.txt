@@ -1,2 +1,0 @@
-★What is the best Python library for Hidden Markov Models?
-Well, I ended writing the code myself as it turned out that I need to tweak the model the bit to account for the state durations.  Rabiner's paper is brilliant (maybe apart from the scaling section). But I used log-scaling using logsumexp. It was hard to debug, but now i'm glad I did it :D Good luck!    Embed Quote

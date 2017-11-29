@@ -1,1 +1,0 @@
-When is it appropriate to use a linked-list, as opposed to a different data structure in C++?When there is a lot of insert and delete operations ,you should use a linked-list. You could see this table below: 93 Views  View Upvotes

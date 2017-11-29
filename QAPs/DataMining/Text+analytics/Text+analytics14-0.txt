@@ -1,2 +1,0 @@
-★What would be good datasets for text analytic exercises?
-Depends on what you're doing. The twitter idea is a good one. You might also check Freebase and see if there's either a dataset there or you can put one together based on relationships of data in that database.    Embed Quote

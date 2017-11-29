@@ -1,2 +1,0 @@
-★How can I realize an FTP to FTP transfer directly?I want to know how to realize FTP to FTP transfer directly?
-You can use Filezilla, its open source and easy to use. You will just need to setup a username and password on both the client side and server side.

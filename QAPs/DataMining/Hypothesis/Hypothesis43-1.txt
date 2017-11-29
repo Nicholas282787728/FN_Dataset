@@ -1,2 +1,0 @@
-★In 20 random studies that reject the null hypothesis with a p value of .05, will one of those studies (on average) erroneously reject a true null hypothesis?
-If you're asking for the probability that the null hypothesis is true for at least one of the selected studies, you can't even begin to answer without knowing how often the null hypothesis holds in the universe of studies from which the 20 were selected.    Embed Quote

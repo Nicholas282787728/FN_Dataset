@@ -1,1 +1,0 @@
-What is the best data structure to store 3D coordinates?I need that a data structure that would help me to query the coordinates efficiently. I know binary search is possible if I sort the coordinates but is there any other option available?

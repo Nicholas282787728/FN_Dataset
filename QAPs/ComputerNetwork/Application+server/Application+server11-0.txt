@@ -1,2 +1,0 @@
-★What do you think of PHP Application Server based on pthreads?
-Hi Ivan, thats the reason we integrated a webserver functionality as part of the ServletContainer Service being able to improve it without waiting for the PHP-Core developers or even learning c to do it on your own :) best Johann

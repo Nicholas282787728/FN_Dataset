@@ -1,2 +1,0 @@
-How can I create a database using Java, as I have to design an online library management system using Java only?
-Yes you can create database using java. I must suggest that you prefer MYSQl for your database.Firstly you need to install mysql on your desktop. Here is my blog where i explian how to use mysql for database connectivity. https://ishaan4u.wordpress.com/2... Please refer to my blog. I hope it will help you. 

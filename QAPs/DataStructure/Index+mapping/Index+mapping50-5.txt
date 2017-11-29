@@ -1,1 +1,0 @@
-How does a relational DBMS internally store its data?

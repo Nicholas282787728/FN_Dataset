@@ -1,2 +1,0 @@
-★What are the advantages of spectral clustering over k-means clustering?
-As Joel said, they each perform on their own optimization. Which is best depends on the nature of the problem you're trying to solve. Spectral requires you to do some additional steps and provide a similarity matrix. Since it works on eigenvalues it is particularly well suited to image processing. In some cases it is more efficient to use weighted kernel k-means by transforming the spectral problem.    Embed Quote

@@ -1,2 +1,0 @@
-★What is Arduino Ethernet Shield?
-Usually Arduino base board have no setup to connect ethernet cable (Lan Cable) to it. Shields are extra card size board which can mount upon Arduino base board like wifi shield, gps, bluetooth,etc.Using Ethernet shield,can connect lan cable, so for the project or some application .. using it.

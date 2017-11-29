@@ -1,2 +1,0 @@
-★How do I perform feature selection?
-I would suggest PCA for a start. It performs rather well usually and can be found in many ML libraries. Principal component analysis Page on otago.ac.nz - a decent introduction sklearn.decomposition.PCA - scikit-learn 0.15.2 documentation - a good implementation.    Embed Quote

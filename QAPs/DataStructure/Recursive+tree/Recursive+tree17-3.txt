@@ -1,2 +1,0 @@
-What is complexity of T(n) = 2T(n/2) + C, using recurrence equations?
-Just to make things little more clear, here is the recursion tree: Height of the tree(h)  =  [math]log_2(n)[/math] Number of leaves  =   [math]2^h = 2^{log_2(n)} = n[/math] [math]T(n) = C + 2*C + 4*C + \dots + n * C [/math] which is same as the number of nodes in the tree. As there are n leaves, we must have n-1 internal nodes. So, the total number of nodes = 2n-1. so, [math]T(n) = 2n - 1 = O(n). [/math] 

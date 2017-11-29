@@ -1,2 +1,0 @@
-Why is Cassandra called 'structured' key-value store? http://wiki.apache.org/cassandra/I intend to know whether Cassandra can handle unstructured data, and if yes then why is it called 'structured'.
-There is a little bit about this in this video by Ben Engdber who is a database expert: 

@@ -1,2 +1,0 @@
-Give examples for NoSQL database?Mention a type and descripe what you use it for Example: key-value database, for: caching results for fast retrival Please include all NoSQL types!
-Redis: key-value support complex data type. For: Caching, pub/sub Memcache: key-value. For: Session storage. MongoDB: documented database. For: document data, json 

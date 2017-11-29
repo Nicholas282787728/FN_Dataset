@@ -1,2 +1,0 @@
-What is a good book on machine learning / data mining to give to a layman?
-I might be a bit biased in this one, but on the data mining side of this I would recommend my book: Business Intelligence in Plain Language: A practical guide to Data Mining and Business Analytics. It is a basic introduction to the world of BI and Data Mining, very friendly and a quick read. It covers the why of BI as well as the basic functions and why Data Mining is such the powerful tool it is.    Embed Quote 

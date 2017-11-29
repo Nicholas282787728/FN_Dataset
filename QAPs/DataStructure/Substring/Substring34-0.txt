@@ -1,2 +1,0 @@
-How do I search for a substring after a specific position in PHP?
-PHP: strpos - Manual example: strpos('abcdefgh', 'bcd', 3); This will return false, because there is no occurance of 'bcd' after offset 3. strpos('xyzabcdefgh', 'bcd', 3); This will return 4, because the string 'bcd' begins after offset 3. 

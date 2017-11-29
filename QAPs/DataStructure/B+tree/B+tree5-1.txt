@@ -1,2 +1,0 @@
-In filesystems, what is the advantage of using b-trees or b+trees as opposed to using inode indexes?
-Robert Love has covered lot of ground in his answer but I have written a detail post on this. Might be useful: Memory locality & the magic of B-Trees! by Pawan Bhadauria on Love for Programming 3.4k Views · 8 Upvotes

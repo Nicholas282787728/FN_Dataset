@@ -1,2 +1,0 @@
-In a weighted undirected graph, how do I find a fixed length path between two nodes?
-You can not get optimum solutionIn in polynomial time. In general this problem is NP-hard. If you can find a path in fixed length n, by setting n to a large number, it's reducible to finding the longest path, which is a well known NP problem. But if the graph is directed acyclic, you can solve it in linear time. 

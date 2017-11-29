@@ -1,1 +1,0 @@
-Which is better among binary search and binary search tree for searching?Binary search tree .. bcoz of the ordering of nodes the time complexity is O(log n) for binary search tree .. For example if you are searching a key in bst you will either search left or right tree only .. where as in case of binary tree you need to search both left and right tree .. 13 Views

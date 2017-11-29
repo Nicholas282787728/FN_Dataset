@@ -1,2 +1,0 @@
-Why is the average number of sides in a 2D lattice 6?
-There was a short clip about The Giant's Causeway in the Marcus du Sautoy programme "The Code" http://www.bbc.co.uk/programmes/... There are only three regular 2D tesellations: equilateral triangles, squares and regular hexagons. The hexagon has the lowest perimeter / area ratio of these. 

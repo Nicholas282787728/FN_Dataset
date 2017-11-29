@@ -1,2 +1,0 @@
-★Why can't any computers on my home network access my LAN Minecraft World?
-Like Tom said first of all check that every machine is running the same release version, then disable all the firewalls in all computers before running the server or the clients, this message could mean different problems but these are the most common. Hope you enjoy it

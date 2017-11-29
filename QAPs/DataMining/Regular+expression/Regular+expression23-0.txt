@@ -1,2 +1,0 @@
-★Has anyone ever mastered regular expressions?
-No, it's a rather pointless endeavor.  Chicks don't think it's cool, recruiters aren't sourcing for it, and every time you write one, you're wondering if God really does kill a lolcat every time you check a regex into the repository.    Embed Quote

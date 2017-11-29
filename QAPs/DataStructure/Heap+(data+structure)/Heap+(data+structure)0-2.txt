@@ -1,2 +1,0 @@
-Why is a heap (data structure) called a heap?
-If the following is a heap in real life, and the following is a heap in the CS way, they reasonably match at least in abstract shape level, dont they? ;-) 1.9k Views · 26 Upvotes

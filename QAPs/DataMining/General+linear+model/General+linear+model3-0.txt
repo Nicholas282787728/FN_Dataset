@@ -1,2 +1,0 @@
-★Is classification using general linear models the same as a logistic regression?
-Assuming you mean generalized linear models, the answer is no. In particular, see  [1]. While the logit link function is definitely the most popular option these days, the probit model also falls into the class of models you are interested in and still finds wide use in econometrics. The answer to your question would be positive, however, if you were to specify a GLM with a logit link function. Then, you would be doing exactly logistic regression. [1] Generalized linear model    Embed Quote

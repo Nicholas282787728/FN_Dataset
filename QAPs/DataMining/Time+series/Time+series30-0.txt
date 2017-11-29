@@ -1,2 +1,0 @@
-★What is a time series?
-If data points have time as one of their dimensions, then they form a time series. E.g. the following is a time series because data points have two dimensions: some percentages (evolution of the tuberculosis incidence in the US): y-axis time (which year it is) > x-axis The following is not a time series as data points have no time dimension:    Embed Quote

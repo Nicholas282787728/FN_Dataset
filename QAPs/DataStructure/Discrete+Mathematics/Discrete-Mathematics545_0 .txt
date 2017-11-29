@@ -1,1 +1,0 @@
-Is the null graph a tree?There are some definitions under which the empty graph qualifies, but it’s usually excluded for the simple reason that a lot of theorems would have to be rewritten with an extra hypothesis stating that the tree in consideration is nonempty. It’s a good example of something that’s too simple to be simple. 229 Views · View Upvotes

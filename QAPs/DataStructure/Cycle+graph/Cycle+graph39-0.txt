@@ -1,2 +1,0 @@
-Is there an efficient algorithm to find out whether a graph has a four cycle (C4) or not?
-Well, the problem is efficiently (polynomially) solvable with the following trivial algorithm: Repeat for all quadruples of vertices: Check if the current quadruple forms a cycle. The check takes constant time, whereas there are (n choose 4)<n⁴ quadruples. The overall running time is then O(n⁴). Probably, something  better can be done, but this proves that the problem is in P. 

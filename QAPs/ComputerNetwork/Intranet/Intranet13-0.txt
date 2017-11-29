@@ -1,2 +1,0 @@
-★What companies are successfully using WordPress for their intranet?WordPress is a powerful, extensible CMS. I'm looking for success stories from companies using WordPress to power their intranet.
-Safeway is for our backstage (non retail) audience.  It has been extremely successful.

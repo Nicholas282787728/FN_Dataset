@@ -1,2 +1,0 @@
-★Is it a problem to have both my cable modem and my router configured to use DHCP?Or should the cable modem be configured to be a bridge?  What's the impact of either setting?
-Well, the real problem arises when there are more than one DHCP *server* on the same network (this is what I guess from your question); if this is the case, change the configuration of the router, disabling DHCP server and possibly enbling the "IP helper" feature, that enables DHCP traffic to pass throu the router itself.

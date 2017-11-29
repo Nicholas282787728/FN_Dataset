@@ -1,2 +1,0 @@
-★How often are approximation algorithms used in practice?
-Databases don't tell you this, but they approximate row counts. Select count(*) from humongous table will return an approximated count.    Embed Quote

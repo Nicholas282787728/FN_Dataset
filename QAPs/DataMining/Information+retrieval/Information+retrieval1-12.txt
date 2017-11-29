@@ -1,2 +1,0 @@
-★What are some good resources to get started with Information Retrieval? Why?
-If you are starting out, then NLTK is the damn easy to kick of work.  Once you get an understanding of what are nlp topics like chunking etc, then you will be comfortable to move to machine learning, I believe.    Embed Quote

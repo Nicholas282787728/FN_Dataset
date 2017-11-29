@@ -1,2 +1,0 @@
-★How does smtp server communicates?
-I have this clarified in details with a video. You could simply watch it. It's called "How e-mail works" This video shows how a basic SMTP server works. It is an in-depth video revealing exactly what occurs when you strike send button on your mail customer. You can figure out anything you need to learn from right here.    Embed Quote

@@ -1,2 +1,0 @@
-★Which is the best QR code generator?We are considering using QR codes on some posters and exhibition stands.  We are using a free provider.  Do the codes expire or run out?What's the benefit of using a paid provider?  Presumably this is to do with tracking?
-One of the most flexible Windows-based QR generators is this Japanese one. http://www.psytec.co.jp/docomo.html It has the ability to alter size, type, error correction and an save out in various filetypes. Japanese UI only but reasonably easy to figure out.    Embed Quote

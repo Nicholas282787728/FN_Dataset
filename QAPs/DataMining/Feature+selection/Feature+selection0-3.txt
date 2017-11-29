@@ -1,2 +1,0 @@
-★What are some feature selection methods for SVMs?
-MUKHERJEE, S., Bioinformatics Applications and Feature Selection for SVMs NIYOGI, Partha, Chris BURGES and Padma RAMESH, Distinctive Feature Detection Using Support Vector Machines Schölkopf et al., Support Vector Methods in Learning and Feature Extraction Weston et al., Feature Selection for SVMsSource: http://www.svms.org/feature-sele... SIGIR 2010, Feature Generation and Selection for Information Retrieval: http://alex.smola.org/workshops/...    Embed Quote

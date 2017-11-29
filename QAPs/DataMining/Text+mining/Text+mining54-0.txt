@@ -1,2 +1,0 @@
-★Do Hedge fund analysts use text mining tools to look for novel "hedging" language?
-James Altucher wrote something about this in a 2010 blog post: The Power of Networking  - specifically that Roger Ehrenberg's team at Kinetic Trading Strategies are text mining SEC filings "to see what particular word clusters are predictive of future performance".    Embed Quote

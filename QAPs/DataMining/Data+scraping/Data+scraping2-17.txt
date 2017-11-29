@@ -1,2 +1,0 @@
-Which are some of the best web data scraping tools?
-I've started a board related to data tools (including scraping) here: http://quora.com/datatools. Take a look at this collection and of course, join and add any you find. The "holy grail" of out-of-the-box, fully automated scrapers - additionally producing output in cleanly formatted, human-readable files - might be a little premature but with some programming, a lot of the tools listed can be configured for automated use.    Embed Quote 

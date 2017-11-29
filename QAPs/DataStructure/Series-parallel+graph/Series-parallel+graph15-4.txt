@@ -1,2 +1,0 @@
-What are some of the great projects implemented using the concepts of Graph Theory?
-The Internet. Runs on IP routing protocols, mainly BGP. It's a graph of graphs. 

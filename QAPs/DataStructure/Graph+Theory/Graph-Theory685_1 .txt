@@ -1,1 +1,0 @@
-If a graph G contains a bridge, e, is it possible to construct a spanning tree which does not include this edge?A tree is not a spanning tree unless it spans every node, so only redundant links/bridges can be removed. So if e is redundant, then yes, there is a spanning tree that doesn't include it, otherwise no. 65 Views  View Upvotes

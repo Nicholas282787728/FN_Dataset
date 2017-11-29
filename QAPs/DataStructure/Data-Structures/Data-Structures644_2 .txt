@@ -1,1 +1,0 @@
-How can I learn data structure in 1 month in hostel?The best way to master this topic is by reading Data structures and algorithms made easy by Narsimha Karumanchi and a practise from leetcode and interview bit..For better understanding you may refer to Introduction to Algorithms by Cormen (CLRS). 264 Views  View Upvotes

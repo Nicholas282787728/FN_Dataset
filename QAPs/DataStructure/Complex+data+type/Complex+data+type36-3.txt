@@ -1,2 +1,0 @@
-Which is better, SQL or NoSQL?
-Which is better: pliers or screwdriver? If you plan to work with databases (or, indeed, any significant amount of data in any form), however tangentially, you need to learn about relational model, a bit of relational algebra, ideas like normalization, and, of course, SQL. Only then will you be equipped to decide for some other model of data representation. And don't neglect good old hierarchical and network databases and, of course, in-core data structures. 

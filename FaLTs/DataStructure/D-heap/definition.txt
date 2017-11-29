@@ -1,1 +1,0 @@
-The d-ary heap or d-heap is a priority queue data structure, a generalization of the binary heap in which the nodes have d children instead of 2.[1][2][3] Thus, a binary heap is a 2-heap, and a ternary heap is a 3-heap.

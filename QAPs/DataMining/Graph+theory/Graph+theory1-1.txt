@@ -1,2 +1,0 @@
-★What is your favourite graph theory problem?
-Easy but nontrivial: find a graph with at least two vertices and no self-loops in which all vertices have different degrees, or prove that no such graphs exist.    Embed Quote

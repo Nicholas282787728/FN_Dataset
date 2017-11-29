@@ -1,2 +1,0 @@
-★How does the Raspberry Pi connect to the Internet without an Ethernet slot?
-Raspberry Pi has models with an Ethernet port (B and B+) and without one (A and A+). The A and A+ models can be connected to a network by using either a USB Ethernet adapter or a USB WiFi adapter (which should be bought seperately).

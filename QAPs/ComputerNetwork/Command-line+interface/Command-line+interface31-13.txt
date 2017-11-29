@@ -1,2 +1,0 @@
-★Will I ever be able to reach a respectable level as a software engineer if I am not proficient with command-line and Unix environments?
-If you're looking for peer respect, then it depends on the domain, and nature of work. If all your co-workers are proficient CLI users and Unix experts, then they're going to pretty much look down upon you if you struggle with commands (or copy paste it from a text file!). The other way to look at it is what Tikhon Jelvis has neatly summarized.

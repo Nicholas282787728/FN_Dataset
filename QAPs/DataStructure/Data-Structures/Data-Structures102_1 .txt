@@ -1,1 +1,0 @@
-What is time complexity of traversal of a complete binary tree with n nodes?Is it O(n) because it needs to visit n nodes or is it O(logn) because the height of a complete binary tree is O(logn) ?O(n) as we have to go to each node. 32 Views  View Upvotes

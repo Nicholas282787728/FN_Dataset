@@ -1,2 +1,0 @@
-★What's the best way to install an FTP server on an ubuntu-based VPS?FTP server, ubuntu
-The best way to install FTP server on an ubuntu base vps is ~# apt-get install pure-ftpd

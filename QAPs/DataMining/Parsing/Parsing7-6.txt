@@ -1,2 +1,0 @@
-★Could there be an open source equivalent to Parse (the cloud backend)?
-Deployd is a great open source platform that you can use as backend. DeploydKit is a first open source framework for use Deployd as backend for your iOS apps. If you're a geek you can manage your backend as you think best    Embed Quote

@@ -1,2 +1,0 @@
-★Why does USPS need 16 million public IPv4 addresses?
-Perhaps they have FIB-dead routers.

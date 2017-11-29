@@ -1,2 +1,0 @@
-★What are the coming revolutions in text analytics?
-I'd like to be able to search for a pair of large round nose pliers and get a list of such pliers, along with prices, other specifications, sources and shipping costs.  Instead I get links to companies that sell any kind of pliers at all.  And links to sites that contain any of the words in the query.  And ...  never mind.  We're all grateful that search works as well as it does.  And we all know it could work much better.    Embed Quote

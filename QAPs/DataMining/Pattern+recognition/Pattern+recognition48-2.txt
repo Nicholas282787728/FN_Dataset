@@ -1,2 +1,0 @@
-★Pattern Recognition: Are there open-sourced image search engines or image comparasion systems?for personal use
-I didn't see the other answers but perhaps you could try this - http://www.openpr.org.cn/    Embed Quote

@@ -1,2 +1,0 @@
-What pre-launch or early-stage web projects deserve more attention?Looking for suggestions that are still under the radar for the most part (ie haven't been covered in any major way.)
-From our testing, I'm digging SimpleGeo. I think in general specialized third party services, especially those dealing with complex data set types are going to be super relevant in the future. 

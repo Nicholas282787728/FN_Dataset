@@ -1,2 +1,0 @@
-★What else is a finite state machine used for except language parsing?
-Protocols. A protocol is just a state machine. And protocols are everywhere, from Ethernet frames (there's a state machine at the bitstream level to detect that a packet is being sent), TCP (a very complex state machine), HTTP, and even Ajax implementations that rely on a sequence of message exchanges.    Embed Quote

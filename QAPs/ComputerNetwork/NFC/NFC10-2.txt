@@ -1,2 +1,0 @@
-★How does NFC work?can anyone please give some details of working of NFC....???
-NFC works on phenomenon of  en.wikipedia.org/wiki/Inductive_coupling I have already written a detail guide here   How Near field communication Works  but this video will give you a quick overview.    Embed Quote

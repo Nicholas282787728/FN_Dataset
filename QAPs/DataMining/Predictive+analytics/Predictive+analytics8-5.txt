@@ -1,2 +1,0 @@
-★Predictive Analytics: In regression modelling, is more sample data always better?
-I think it would be wise to say that more sampling data isn't always better. With more sampling data, it gets harder to make generalisations. When you increase the order of the regression function, it can be impossible to make any generalisations after certain extent.    Embed Quote

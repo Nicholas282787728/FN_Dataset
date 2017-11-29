@@ -1,2 +1,0 @@
-★How can I write software to extract information from social networks?For eg. The most common word tweeted in my timeline in the last month.
-You can use their APIs. Here is the documentation for twitter APIs: Documentation | Twitter Developers If you are using Java then Twitter4J will be very useful: A Java library for the Twitter API Also, if you just google then you can find some very good examples and sample codes on how to extract various informations.  Maybe this: twitter4j    Embed Quote

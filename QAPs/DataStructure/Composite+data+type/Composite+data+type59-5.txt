@@ -1,1 +1,0 @@
-Why does Haskell use "fst" and "snd" for extracting the zeroth and first elements of a tuple?

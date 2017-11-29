@@ -1,2 +1,0 @@
-What does e x   mean?
-e x =∑ ∞ k=0 x k k! =1+x+x 2 2 +x 3 6 +x 4 24 +O(x 5 )  For more detail: e^x - Wolfram|Alpha 

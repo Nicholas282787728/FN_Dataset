@@ -1,2 +1,0 @@
-★What are some good models for predicting continuous response variables?Other than multiple linear regression?
-Almost all are generalizations of the linear model. There are generalized linear models for continuous responses, such as gamma or inverse Gaussian regression for or beta regression or a Bernoulli quasi-likelihood model for . Nonparametric or semi-parametric approaches like nearest neighbor regression are also possible.    Embed Quote

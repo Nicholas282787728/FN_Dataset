@@ -1,2 +1,0 @@
-★Is a web browser just an HTML interpreter?
-Yes, for .htm or .html files browser is just a HTML interpreter.

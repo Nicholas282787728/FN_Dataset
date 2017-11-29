@@ -1,2 +1,0 @@
-How do I find the maximum element in a subarray between range [l,r] using segment trees?
-Read this thoroughly and understand it: Range Minimum Query and Lowest Common Ancestor 

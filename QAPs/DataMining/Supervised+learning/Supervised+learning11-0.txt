@@ -1,2 +1,0 @@
-★Is reinforcement learning considered a branch of semi-supervised learning?
-for semi-SL, labels are acquired by the model evaluation, for RL, 'labels' are collected by 'rewards'(may be ) , bootstrapping examples exactly with gradient function approximation . well , difference is obvious and they only share some common sense in an intuitive explanation...    Embed Quote

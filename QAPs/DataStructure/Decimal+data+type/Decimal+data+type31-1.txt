@@ -1,2 +1,0 @@
-How many data types are there in Java?
-In Java there are 8 data types. These are int,float,long,double,short,boolean, char,byte.Apart from user defined objects. 

@@ -1,2 +1,0 @@
-How do you judge a JavaScript programmer by only 5 questions?
-You can form a reasonable impression with just 2 questions - What do you like about JavaScript? What do you dislike about JavaScript? 

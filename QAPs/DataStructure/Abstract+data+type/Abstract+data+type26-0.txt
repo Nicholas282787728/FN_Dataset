@@ -1,2 +1,0 @@
-How true is the statement "OOP uses abstract data types called objects"?
-An object's class can (but does not necessarily) define an abstract data type. I don't think it's valid to imply that an object - i.e. an instance of a class - is itself an abstract data type. 

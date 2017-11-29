@@ -1,2 +1,0 @@
-★Can one track my real IP address when I use VPNs?
-It depends on how you (or the software) configured your VPN. If you used split-tunneling VPN, and you did not configure the routes properly, then the answer is yes, someone can still track your real IP address. That will happen if the traffic was not routed via the VPN since the route did not define it to be routed to the VPN server. Some additional info can be found in this wikipedia article: Split tunneling

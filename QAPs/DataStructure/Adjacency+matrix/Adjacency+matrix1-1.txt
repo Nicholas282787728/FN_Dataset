@@ -1,2 +1,0 @@
-What is stochastic adjacency matrix?
-A matrix that has in each Aij the probability of going from j to i. That matrix would be column-stochastic as all columns must sum to one. Example: And the Matrix is: Notice how all columns sum up to 1. If you have dead-ends: nodes without exit links then you have to fix them for the matrix to be stochastic as otherwise the column for that node will sum to zero. Luis. 

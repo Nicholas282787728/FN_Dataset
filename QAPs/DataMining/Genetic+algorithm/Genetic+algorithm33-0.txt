@@ -1,2 +1,0 @@
-★How can I optimize Apache Solr boost factors using genetic algorithms?
-I would advise against it. I believe improving search relevance should be done by analyzing search results, using Lucene's "explain" and query logs. Treating boost factors as a black box and optimizing might result in overfitting or a hard-to-comprehend result. Please see Debugging Search Application Relevance Issues for some alternatives.    Embed Quote

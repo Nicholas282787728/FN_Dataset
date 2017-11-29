@@ -1,2 +1,0 @@
-★What is cointegration of time series data in statistics?Thanks for the explanation Edwin and Damien. One question. How do you identify pairs of stocks for trading? Is it based on simple correlation analysis or is there a more rigorous method?
-According to Granger (1983), Cointegration is the statistical equivalence of the economic theoretic notion of stable long run relationship. It is based on the properties of the residuals from the regression analysis when the individual series are non-stationary.    Embed Quote

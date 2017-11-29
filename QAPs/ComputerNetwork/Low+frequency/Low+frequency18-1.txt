@@ -1,2 +1,0 @@
-★Why does a capacitor function as an open circuit at low frequencies, while at high frequencies it acts as a short circuit?
-The reactance offered by capacitance is 1/2#fC. In case of DC the frequency is zero and hence reactance would be infinity i.e. an open circuit. # may be read as pi    Embed Quote

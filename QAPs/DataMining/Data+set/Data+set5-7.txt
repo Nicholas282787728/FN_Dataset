@@ -1,2 +1,0 @@
-How do data analysts at companies like Facebook and Twitter run queries on extremely large data sets?
-Traditionally when you run a SQL query, it executes on a single computer.  As you get more and more data, you start running that query on many computers all in parallel. Foursquare wrote a blog post about how they query their data. http://engineering.foursquare.co...    Embed Quote 

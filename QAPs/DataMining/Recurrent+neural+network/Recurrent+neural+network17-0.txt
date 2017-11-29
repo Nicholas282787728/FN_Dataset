@@ -1,2 +1,0 @@
-★Artificial Neural Networks: How are recurrent neural networks different from convolutional neural networks?
-A convolutional network is basically a standard neural network that's been extended across space using shared weights. A recurrent neural network is basically a standard neural network that's been extended across time by having edges which feed into the next time step instead of into the next layer in the same time step. There's a kind of similarity between the two but it's pretty abstract (easier to see if you unroll the recurrent neural network)    Embed Quote

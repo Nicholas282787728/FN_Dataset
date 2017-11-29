@@ -1,2 +1,0 @@
-Why is the real part always first in complex numbers?
-normally a+jb is the way that is written but even if you write jb+a its the same thing ...so as long as you know which is the real part and the imaginary part it is immaterial which you write first.....but in the complex plane taking x axis as the real axis and y axis as the imaginary axis then (x,y) denotes a point on the plane and here real part will always come first because that is how we have defined the axis...i hope this will help.. 

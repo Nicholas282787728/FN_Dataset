@@ -1,2 +1,0 @@
-★What is the easiest command line interface library for Python 2.7?I am working on a small project and would like to make something like this: I want to create something like a GUI in a Command Line (TUI). Also, I am doing this in GNU/Linux (Ubuntu 13.04).
-Urwid is the best you can choose, in my opinion. First, it is easy to learn and second, you can make interesting stuff like graphs, for instance. This is the official website : Overview - Urwid 1.2.1

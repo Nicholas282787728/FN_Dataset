@@ -1,2 +1,0 @@
-★How do you see the metadata of an MP3 file?Is there software that allows you to see all the metadata?
-In windows, right click the MP3 file, select properties then details. all the meta info is there.    Embed Quote

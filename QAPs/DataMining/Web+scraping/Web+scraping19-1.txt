@@ -1,2 +1,0 @@
-★What are the biggest differences between web crawling and web scraping?
-Web crawling refers to going after multiple sites and grabbing their content. Crawling refers to the act of going through multiple sites. Web scrapping refers to going after content from a website. Scrapping refers to the act of getting the content from the site.    Embed Quote

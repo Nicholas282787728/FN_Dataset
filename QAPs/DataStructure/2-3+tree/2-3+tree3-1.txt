@@ -1,2 +1,0 @@
-Simple Trie vs Ternary Search Trie vs Radix Tree (Patricia Trie) vs Hash Tables (with chaining done with 2 3 trees)? Frequently asked in
-I'd vote Radix trees. Radix tree is space optimized trie trees so when there is high chance of having common prefixes then, why not? 

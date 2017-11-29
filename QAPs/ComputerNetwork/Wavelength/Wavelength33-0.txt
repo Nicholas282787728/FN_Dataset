@@ -1,2 +1,0 @@
-★If mc^2 = hc/wavelength can we not calculate the mass of light by switching the equation around :m= h/c*wavelength?
-lets you find out the rest mass of an object at rest. The E there is just the mass-energy, and nothing more. Photons don't have a rest frame, thus this formula doesn't apply. Nothing more. is the general formula, and this applies to any object, moving or not (p is momentum). Shove into the equation. You get . Welp, we already knew that :)    Embed Quote

@@ -1,2 +1,0 @@
-★Will subnet masks still be used with IPv6?
-Yes, but the mechanics are slightly different, the subnets larger (much), and you always have loop local addressing. IPv6 subnetting reference    Embed Quote

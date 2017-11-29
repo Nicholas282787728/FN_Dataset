@@ -1,2 +1,0 @@
-★What are some good books on computer networking?
-Books by Andrew S Tanenbaum are generally recommended :     Computer Networks, co-authored with David J. Wetherall     Distributed Operating Systems     Distributed Systems: Principles and Paradigms, co-authored with Maarten van Steen Another good recommendation : Computer Networking by James F Kurose & Keith W Ross

@@ -1,2 +1,0 @@
-★I want standard java implementation of logistic regression?
-Mallet (MALLET homepage) is a widely referred Java library. LIBLINEAR can be called from Java, as it provides interface for Java (among other languages; I am not sure whether you need a pure Java package or just a callable Java library). By looking at mloss | All entries site, one can also find the following Java packages: Rudder: rudder Aleph: a multi-platform machine learning framework aimed at simplicity and performance., not sure whether it is still maintained and, of course, Weka.Have fun.    Embed Quote

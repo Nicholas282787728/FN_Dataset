@@ -1,1 +1,0 @@
-Is there an algorithm that finds subgraphs of a graph such that each node in a subgraph is connected to at least k other nodes of that subgraph?I'm looking for extracting k-connected subgraphs from a graph. The application of such a problem being, given the mutual friends between each friend in a social network, a k-connected subgraph corresponds to a community amongst friends.

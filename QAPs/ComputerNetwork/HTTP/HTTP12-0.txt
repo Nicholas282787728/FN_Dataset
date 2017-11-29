@@ -1,2 +1,0 @@
-★Quora Infrastructure: What is http://qr.ae?
-Quora uses the short domain http://qr.ae when generating some external links back to content on Quora. For example, including http://qr.ae/7FQS9 in a twitter update or email links to the Animated GIFs topic. For more information on qr.ae see: How do I get a short http://qr.ae link for a question asked on Quora? Why/how did Quora choose qr.ae as its shortened URL domain name? How is Quora running its URL shortening service? Why has Quora chosen to use the qr.ae domain for email interaction rather than quora.com?

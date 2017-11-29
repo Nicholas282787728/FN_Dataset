@@ -1,2 +1,0 @@
-★How can machine learning techniques be combined with domain knowledge expressed in logical rules, semantic nets, etc.?
-Here are two (related) models that are just what you are looking for: Markov Logic Networks. See section 3.2.2 of (Kimmig et al., 2011). Probabilistic Soft Logic. See (Kimming et al., 2012).They are syntactic sugars, whereby you can express your constraints in the form of first-order logic (which is more natural than writing equations), for optimization problems.    Embed Quote

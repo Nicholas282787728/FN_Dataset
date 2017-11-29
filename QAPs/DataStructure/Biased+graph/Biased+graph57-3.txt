@@ -1,2 +1,0 @@
-Where can I find examples of a U-Squared distribution?
-The Lévy arcsine law states that the proportion of time that a Brownian motion is positive follows a U-shaped distribution. 1.9k Views · 5 Upvotes

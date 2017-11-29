@@ -1,2 +1,0 @@
-★What is an application of vector space in computer science?
-Vectors and matrices are the most basic feature in computational (eg:array). The properties of both are discussed well in vector space.    Embed Quote

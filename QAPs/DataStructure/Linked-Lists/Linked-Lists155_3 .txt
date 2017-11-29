@@ -1,1 +1,0 @@
-How can you enter into a circular linked list if you don't know the head?You have to internally store the head node (or the first node that you insert in the list) just like a normal linked list and you start your search there. You end it when you visit the same (head) node again. 205 Views  View Upvotes

@@ -1,2 +1,0 @@
-★What is the minimum bandwidth needed to be considered "broadband"?
-The least bandwidth that's needed for a connection to be considered broadband is 256 kilobits per second.   In information technology, bandwidth refers to the the data transfer capability of an Internet connection. It determines the amount of information or data that can be transmitted in a given time.   In Australia, the Internet service providers such as iprimus, sees to it that the bandwidth requirements broadband of their users are constantly provided. You may check this for iprimus.

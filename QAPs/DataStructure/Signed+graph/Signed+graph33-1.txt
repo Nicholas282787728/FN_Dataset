@@ -1,2 +1,0 @@
-Why is the shear force diagram for uniformly distributed loads asymmetric even though it is a symmetric beam?
-It is symmetric in magnitude, just not in sign. If you'd like, you could create a graph of the absolute value of shear and it would be symmetric, but you'd lose some of the information contained in the original. 

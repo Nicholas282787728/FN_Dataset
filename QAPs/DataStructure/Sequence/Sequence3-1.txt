@@ -1,2 +1,0 @@
-Look at this sequence: 80, 10, 70, 15, 60, ... What number should come next?
-Considering  odd place of the number sequence : 5th place number -   3rd place number = 3rd place number- 1st place number  = 10 Considering  even place of the number sequence : 4th place number -   2nd place number = 5 , then 6th place number - 4th place number = 5, so 6th place number = 5 + 4th place number = 5+15 = 20 Answer : So answer is 20. 

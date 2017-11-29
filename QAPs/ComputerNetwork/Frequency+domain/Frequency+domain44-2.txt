@@ -1,2 +1,0 @@
-★Why isn't speech recognition software more accurate?
-Because many accents are extremely hard to understand (even for humans)

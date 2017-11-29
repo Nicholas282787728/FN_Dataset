@@ -1,1 +1,0 @@
-Is array [] and array* one and the same thing while using as parameter inside a swap function? For eg. int swap (int array[]) works same as int swap (int array*).Yes, they are one and the same thing. In both cases, we are just passing the base address of the array to the swap function so int *array and int array[] both act as pointers to store the base address of the array. 

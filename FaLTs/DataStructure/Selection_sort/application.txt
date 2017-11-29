@@ -1,2 +1,0 @@
-Selection sort can also be used on list structures that make add and remove efficient, such as a linked list.
- It can be seen as an advantage for some real-time applications that selection sort will perform identically regardless of the order of the array, while insertion sort's running time can vary considerably.

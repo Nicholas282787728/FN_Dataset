@@ -1,2 +1,0 @@
-What are some good tutorials on segment trees?
-Originally Answered: Can someone providea good source for segment trees?TopCoder Algorithm Tutorials also Explained it well with some popular implementations. 

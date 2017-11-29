@@ -1,2 +1,0 @@
-★What is the best open source neural network library?e.g. http://leenissen.dk/fann/wp/
-arxiv.org Consider downloading Flood 3 on Linux.    Embed Quote

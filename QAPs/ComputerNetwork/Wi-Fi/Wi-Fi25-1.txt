@@ -1,2 +1,0 @@
-★How do I hack WPA2 Wi-Fi password using Backtrack?
-BackTrack has since become Kali. Here's an example crack: Breaking WPA2-PSK with Kali Linux Note that it only works with PSK, and it's a dictionary attack. Brute-forcing the key is also possible, but, if someone used a good key, it would take longer than your lifetime to crack. Also, keep in mind that doing this without permission of the network owner is illegal. In some states, even doing it with the permission of the owner could be illegal (stupid but true).    Embed Quote

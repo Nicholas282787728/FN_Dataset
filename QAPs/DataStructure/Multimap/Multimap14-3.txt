@@ -1,2 +1,0 @@
-How do I sort array of pair<int, int> in C++ according to the first and the second element?
-If you are using a sort with a comparison callback, compare the first numbers, and only if they match compare the second numbers. If you are using a sort that takes a class with overloaded comparison operators, write your comparison operators to compare the first numbers, and to compare the second only if the first are equal. 

@@ -1,2 +1,0 @@
-★Is correlation a good indicator for choosing parameters in a linear regression?
-No... In single variable regressions correlation is proportional to the coefficient. To choose estimators you must account for multicollinearity and could analyze variables using t-tests, F-tests and adjusted . You should use parsimony in variable selection and iterate to find the best and most reasonable combination of parameters.    Embed Quote

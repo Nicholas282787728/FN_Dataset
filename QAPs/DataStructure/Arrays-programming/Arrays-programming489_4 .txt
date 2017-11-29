@@ -1,1 +1,0 @@
-How does one understand looping through an array of Strings?You cannot iterate through the whole array with this code. Use length not -1. 21 Views  Answer requested by Remy Kirsch

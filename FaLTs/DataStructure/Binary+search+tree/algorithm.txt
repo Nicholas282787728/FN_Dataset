@@ -1,2 +1,0 @@
-The major advantage of binary search trees over other data structures is that the related sorting algorithms and search algorithms such as in-order traversal can be very efficient; they are also easy to code. This is easily expressed as a recursive algorithm. The same algorithm can be implemented iteratively: 
-The greedy algorithm – simply traverse the tree, at every node check whether the node contains a value larger than the value at the left child and smaller than the value on the right child – does not work for all cases.

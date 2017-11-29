@@ -1,2 +1,0 @@
-★What is the difference between pattern recognition and machine learning?
-pattern recognition is done by machine learning but vice versa is not possible .    Embed Quote

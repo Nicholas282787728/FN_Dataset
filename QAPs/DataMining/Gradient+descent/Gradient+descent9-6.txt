@@ -1,2 +1,0 @@
-★In optimization, why is Newton's method much faster than gradient descent?Please give some more details, for example Think of it in terms of  geometry theory
-As it has been described by others, Newton's method takes second derivatives into account. Newton's method can minimise a quadratic function in one shot. Since virtually any function of interest looks like a quadratic function in a neighbourhood of a minimum/maximum, this explains why the Newton's method works extremely well once this neighbourhood is reached.    Embed Quote

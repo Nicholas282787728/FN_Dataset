@@ -1,2 +1,0 @@
-★What are the best blogs talking about natural language processing?
-In terms of micro-blogs, my own Twitter bot @nlpbot has been scouring Twitter for the past five years, accumulating over 62,000 tweets containing external links, and today has over 350 users.  It is based on faceted classification, using external links for constraint.  Automatically selected tweets are not re-posted verbatim, but are normalized (to one degree or another), allowing for de-duplication.    Embed Quote

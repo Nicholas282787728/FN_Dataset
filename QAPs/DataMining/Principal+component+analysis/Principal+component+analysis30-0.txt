@@ -1,2 +1,0 @@
-★How do I use a regression model built using Principal Component Analysis for predictive purposes?
-Use your principle components as variables for (multiple) regression.  You should have principle component scores from PCA - it's the standard output. The PCA scores are linear functions of the raw variables.  So usually you would exclude your regular variables; but you could also include them.    Embed Quote

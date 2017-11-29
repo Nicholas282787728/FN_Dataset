@@ -1,2 +1,0 @@
-★What is special about the normal distribution?What special properties does the normal distribution have that cause it to be the distribution that falls out of the central limit theorem? I.e., there are various distributions that are symmetric, roughly bell-shaped, etc. What properties cause the normal distribution to be singled out? What is the intuition behind its specialness?
-Mean=Median=Mode resulting a perfectly symmetrical curve.    Embed Quote

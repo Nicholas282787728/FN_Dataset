@@ -1,2 +1,0 @@
-★How important is hyper-parameter optimization in Bayesian graphical models, such as Latent Dirichlet Allocation?
-It depends. If you have a lot of data, it is much less important because the likelihood function will overwhelm your prior in estimation of the posterior. If you have little data, it can be important in incorporating your beliefs about where the posterior should be concentrated based on the problem you are solving and the specific form of the prior.    Embed Quote

@@ -1,1 +1,0 @@
-How do I print space for the array elements?if its C++, print like this for (int i=0; i<10; i++) { // change 10 to the size of the array std::cout <<A[i] << " "; // this prints 1 value and a space } 99 Views  Answer requested by Vamsi Priya Gudipati

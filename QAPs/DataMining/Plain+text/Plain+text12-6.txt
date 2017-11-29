@@ -1,2 +1,0 @@
-★Do plain-text/rich-text emails convert better or worse than HTML emails?
-I reckon, it will depend on your industry as well: I wouldn't expect a cosmetics company, a luxury brand, a clothing company or a travel agent (just to name a few examples) to perform well with plain text emails. I think the choice should be made according to what you are advertising and how plain text could efficiently replace a graphic view. Of course, even in an HTML artwork, you should always try to put the text parts in text instead of images.    Embed Quote

@@ -1,2 +1,0 @@
-★How is NFC better than Bluetooth?
-With NFC technology I tend to think along the lines of commerce applications, which leads to the obvious concern for SECURITY!  Bluetooth allows connections up to 10 meters (possibly much more) while NFC is intended for short range connections, in the 'cm' range.  This 'tap' technology removes 99% of the concern for any unwanted device discoveries or hijacked Over-The-Air (OTA) transmissions.    Embed Quote

@@ -1,2 +1,0 @@
-★What's the difference between 4G and 4G LTE? What would differ if I bought a 4G phone as opposed to a 4G LTE phone?
-3GPP is the organisation which standardizes the Radio, Core Network and architecture. 3GPP standards are structured as releases. Relaese 99 to Release 7 are categorised as 3G. Release 8 onwards it is called LTE(Long Term Evolution). Release 10 is called LTE Advanced or 4G. As a consumer the main difference you will feel is speed. For further reference- 3GPP

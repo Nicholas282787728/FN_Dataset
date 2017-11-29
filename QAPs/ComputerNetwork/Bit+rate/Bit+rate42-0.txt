@@ -1,2 +1,0 @@
-★Wireless Technology: What is per MHz data capacity of 700 Mhz spectrum? Or to put it another way, what is the maximum bit rate of a 5 Mhz paired block?
-The carrier frequency is not hugely important [1] so 700MHz is not directly relevant What matters is 5MHz paired. You will see headline rates of 42Mbps downlink (ie in the DL half of the pair) Ie 8Mbps/Hz That is with high order modulation and lots of MIMO There are some demonstrations for even higher rates from Release 10 and beyond However these are not realistic in practise: anything above ~3Mps/Hz is very good/rare

@@ -1,1 +1,0 @@
-What is the Base Address in Arrays?It is the address of the 1st element of the array. In c, if we declare an array of size 5, say integers[5] of type int, address of integers[0](&integers[0] or just integers) represent the base address of the array. 159 Views

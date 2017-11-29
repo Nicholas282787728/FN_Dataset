@@ -1,2 +1,0 @@
-★How can we choose a "good" K for K-means clustering?Some datasets have an "obvious" set of clusters that would be found by K-means clustering with the right choice of K. How can we, given a set of data, choose such a K?
-Historically for Gaussian mixture models, Akaike information criterion Bayesian information criterion. Much of clustering can also be shown to be forms non-negative matrix factorization where other interpretations for the number of factors may apply.    Embed Quote

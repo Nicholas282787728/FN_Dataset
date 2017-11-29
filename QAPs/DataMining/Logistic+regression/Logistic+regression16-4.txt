@@ -1,2 +1,0 @@
-★How do I do online updates to logistic regression?Can I do incremental logistic regression? I mean, when new data come, I don't need to train the model on the whole data set ? Thank you.
-You can be Bayesian. You can update your prior after each data point is observed.    Embed Quote

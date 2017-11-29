@@ -1,2 +1,0 @@
-★What is the difference between a URL and a URI?
-I think "Every URI (Uniform Resource Indicator, if it is HTTP based), has a URL inside it; AND Every Web page on the internet has URL". In addition, if you are familiar with the standards of the Semantic Web, "Every URI has a URL and you can name a Resource with a URI". It is important to note that NOT Every Thing that HAS a URI is a Resource.    Embed Quote

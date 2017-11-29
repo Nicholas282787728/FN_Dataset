@@ -1,2 +1,0 @@
-★How can I start learning to write web scraping scripts?
-Python Scrapy tutorial Scrapy Tutorial - Scrapy 0.17.0 documentation For introduction to HTML and CSS, you can check out W3Schools Online Web Tutorials and also these videos:    Embed Quote

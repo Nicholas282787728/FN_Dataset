@@ -1,2 +1,0 @@
-★What are the differences between HTML5 and HTML?
-Well HTML 5 is advance version of HTML( Hypertext Markup Language ) .HTML5 have some new tags, like Video ,audio, Geolocation, span and some new attributes like placeholder autocomplete autofocus form formaction formenctype formmethod formnovalidate formtarget height and width list min and max multiple pattern (regexp) placeholder required step

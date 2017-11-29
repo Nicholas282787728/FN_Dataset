@@ -1,2 +1,0 @@
-What books do you recommend to get introduced in the data mining "world"?
-You might also wish to examine the Elements of Statistical Learning (available for free here: http://www-stat.stanford.edu/~ha...).  The first edition of this book is a classic, though it does require a certain level of mathematical maturity.    Embed Quote 

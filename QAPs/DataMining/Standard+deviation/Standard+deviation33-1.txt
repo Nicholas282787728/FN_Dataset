@@ -1,2 +1,0 @@
-★Why is there a degree of freedom of n-1 for sample standard deviation?
-Because just using n would make it a biased estimator, while using n-1 makes it unbiased. As it turns out, using n actually better estimates the population standard deviation but in statistics using an unbiased estimator is preferred, even if it's not quite as accurate.    Embed Quote

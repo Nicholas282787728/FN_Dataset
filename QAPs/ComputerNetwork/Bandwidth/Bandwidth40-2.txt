@@ -1,2 +1,0 @@
-★Which is the best bandwidth control tool?The tool should be Free and OpenSource, preferrably linux based. Minimally it should be able to restrict the bandwidth to the nodes in the network.
-You should try Linux TC (Linux Advanced Routing & Traffic Control HOWTO). TC is free and it is easy to use it.

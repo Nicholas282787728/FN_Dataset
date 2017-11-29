@@ -1,2 +1,0 @@
-Data Structures: What is a list of data structures that a competitive programmer must know?
-Any grouping of variables is a data structure, so you develop one that fits the needs of the immediate problem.  There's no way of knowing what data structure you'll need until you knowhwhat problem you're trying to solve. 

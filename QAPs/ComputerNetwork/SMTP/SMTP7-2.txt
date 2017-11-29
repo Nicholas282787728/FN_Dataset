@@ -1,2 +1,0 @@
-★What is the best contact form with SMTP support Wordpress plugin?
-I like Gravity forms also, but when using an SMTP plugin, the forms arrive "from" that mail address, so efficiently hitting "reply" doesn't address the email correctly.    Embed Quote

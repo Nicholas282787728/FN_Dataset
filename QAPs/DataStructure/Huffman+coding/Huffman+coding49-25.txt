@@ -1,2 +1,0 @@
-What are the 10 algorithms one must know in order to solve most algorithm problems?
-The most important algorithm for one to know is, how to learn. The second most important algorithm for one to know is, how to search online. There's no set of ten "must know" algorithms. A meaningful challenge would defy trivial solution with a well-known algorithm. 17.2k Views · 105 Upvotes

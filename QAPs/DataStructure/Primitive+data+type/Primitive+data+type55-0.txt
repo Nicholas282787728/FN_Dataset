@@ -1,2 +1,0 @@
-What are the advantages of operator overloading?
-Operator overloading allows you to give special meaning to some operator when there are operands associated with it. i.e. You define rules for that operator! For example: If there are two strings, "456" and "56" and you want to do this: "456" - "56" = "400". Can you do this without operator overloading? PS: I am assuming that you have basic knowledge about OOP languages. 

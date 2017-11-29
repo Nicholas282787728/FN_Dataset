@@ -1,2 +1,0 @@
-★What is the usual bandwidth for a video conference?
-To achieve high definition video conference (that’s 1280×720 at 30 frames per  second,) only 768Kbps is needed. For even better motion handling, 60  frames is achievable at 1.1 Mbps.

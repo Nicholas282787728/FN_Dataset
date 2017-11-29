@@ -1,2 +1,0 @@
-★Do URL shorteners affect Google indexing?Tweeting links to newly published pages can help them get indexed faster, but does it matter if a url shorterer is used or not?
-Most (I'm really assuming all) URL shorteners use 301 redirects.  Search engines usually abide by the rules of 301 redirects to mean a permanent redirect and will follow the URL to it's destination URL. One caveat, if the shortener site ever goes down (or goes out of business), then you may be in trouble then...    Embed Quote

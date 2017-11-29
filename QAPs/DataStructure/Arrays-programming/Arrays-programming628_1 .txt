@@ -1,1 +1,0 @@
-In GO programming language what are the benefits of using Arrays over Slices?Only when you have a fixed number of members. However, in practice slices are used more considering the nature of today's web development. 71 Views

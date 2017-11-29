@@ -1,1 +1,0 @@
-All-to-all communication is a computer communication method in which each sender transmits messages to all receivers within a group.[1] This contrasts with the point-to-point method in which each sender communicates with one receiver.

@@ -1,2 +1,0 @@
-Number Sequence: For a sequence 128, 64, 32, .. what is the value of the 12th term of this sequence?
-Assume [math]a=128, r=\dfrac{1}{2}[/math] [math]T_{12}=128(\dfrac{1}{2})^{11}[/math] [math]T_{12}=\dfrac{625}{1000}[/math] [math]T_{12}=0.0625[/math] 

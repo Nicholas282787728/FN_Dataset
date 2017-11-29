@@ -1,2 +1,0 @@
-Why is Cassandra called 'structured' key-value store? http://wiki.apache.org/cassandra/I intend to know whether Cassandra can handle unstructured data, and if yes then why is it called 'structured'.
-In fact, it's semi structured. It can do relation tables staff, indexed by primary key, column is typed, e.g. int/varchar/timestamp. It also support add and remove columns online for each row insert and update, kind of to handle unstructured data. For CQL 3.0, dynamically add/remove column with composite primary key is not allowed. Hope these help. -Z 

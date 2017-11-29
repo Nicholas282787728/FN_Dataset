@@ -1,2 +1,0 @@
-★How do ETL tools work?
-most generate sql queries from a data flow created visually by the user    Embed Quote

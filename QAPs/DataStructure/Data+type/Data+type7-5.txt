@@ -1,2 +1,0 @@
-What is data type?
-A data type is way to tell the compiler that at a cell x in a memory space, a bit value of some range y is only supposed to be stored. It restricts the compiler to store anything else other than that value range. So, in simple words : "A data type is way to tell compiler as to which data (integer, character, float, etc.) is supposed to be stored and what amount of memory consequently to allocate." 109 Views

@@ -1,2 +1,0 @@
-What are the key points of Linked List in Data Structure?
-It is a kind of data structure which often causes memory leak. Think twice before inserting/deleting nodes:  - freeing NULL pointer?  - what if malloc failed?  - dereferencing dangling pointer?  - any memory not released? 

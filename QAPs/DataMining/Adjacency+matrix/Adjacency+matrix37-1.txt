@@ -1,2 +1,0 @@
-★What kind of problems give an MLE (memory limit exceeded)?I'm wondering because most problems can yield either WA or TLE verdicts, but I have never seen a problem that gives MLE.
-If you want to store a graph with 10K nodes in the adjacency matrix representation, it is likely to get a memory limit exceeded in most competitive programming environments.    Embed Quote

@@ -1,2 +1,0 @@
-What distributed database supports JSON data type?
-SQL Server 2016 support JSON format which is yet to be released. 177 Views

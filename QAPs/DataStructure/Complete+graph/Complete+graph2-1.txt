@@ -1,2 +1,0 @@
-Computational Complexity Theory: What are some NP-complete problems involving complete graphs?
-One well-known NP-complete problem is the Max-Clique problem. Given a graph, you must find the largest complete subgraph. Not only is this problem difficult, it is also difficult to find a reasonable approximation. 

@@ -1,2 +1,0 @@
-★What is the best Python library for Hidden Markov Models?
-I have never used these libraries myself, but... ...here is a C library with Python wrappers called GHMM: http://ghmm.org/ ...and here is a Python module for Markov chain Monte Carlo (MCMC) algorithms called PyMC: http://code.google.com/p/pymc/    Embed Quote

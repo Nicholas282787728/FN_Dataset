@@ -1,2 +1,0 @@
-★Is there a good web scraping framework in Clojure or Erlang?I.e. something like scrapy, but in Clojure instead of Python. I may end up using Scrapy, but because I will be processing results in Clojure, I'd like scrapping scripts to be in the same programming language.
-Have a look at the new http://kimono.com web scraping service. It can have scheduled scraping and converts semi-structured data into a quit good web REST API.    Embed Quote

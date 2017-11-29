@@ -1,2 +1,0 @@
-★What is the best way to make a neural net capable of unsupervised learning, and what are its uses?Is there an API for it
-I've been creating deep neural nets with Theano for sometime and it works wonderfully. Being in python, it's easier to grasp. Plus you can run it on gpu without changing the code.    Embed Quote

@@ -1,2 +1,0 @@
-Where can I find examples of a U-Squared distribution?
-Sometimes a U-shaped distribution makes sense for prior beliefs. E.T. Jaynes gives the example of using a Haldine prior to model your (initial) belief about the probability that a solution dissolves in water. If you think the solution very likely to dissolve every time or not at all, then your prior should put most of it's weight at 0 or 1, with little in the middle. BTW the Beta distribution with parameters less than 1 can be a good way to model these distributions. 1.3k Views · 4 Upvotes

@@ -1,2 +1,0 @@
-★What are major Natural Language Processing breakthroughs in the past 3 years (2012-2015)?
-word2vec - Tool for computing continuous distributed representations of words. - Google Project Hosting Applications include Language Translation, natural description of images etc.    Embed Quote

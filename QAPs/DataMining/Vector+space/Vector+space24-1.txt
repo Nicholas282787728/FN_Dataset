@@ -1,2 +1,0 @@
-★Can I get an intuitive explanation of a Vector Space Orientation?Right now, it all seems pretty abstract to me, and I'm trying to understand the use of a Jacobian Matrix/Determinant, so if you don't mind also expanding on that case, please do so! Thanks.
-I think Wikipedia's article on orientation is pretty clear if you stick to the introduction and the basic definition.  Is there something in there that you find tricky?    Embed Quote

@@ -1,2 +1,0 @@
-I have very bad 3G reception at my home. Will 3G reception be better if I insert my SIM into a dongle?
-3G reception depends on a variety of factors such as radial distance between tower and your home the obstructions in between such as large trees or buildings, dense constructions etc. It can also vary across devices based on antenna quality and technology. First check if you are getting better coverage with same device outside home at other locations. Get a friend's 3G phone and check reception at your home with same operator. Then you can decide what to do next. 

@@ -1,1 +1,0 @@
-What are vertices? How many vertices does a square have?A vertex is the point where two or more sides/edges meet in a 2 or 3 dimensional shape. In all 2 dimensional shapes, the amount of vertices are equal to the number of edges. This implies that a square, a 4 sided quadrilateral with equal sides, has 4 vertices. 2k Views  View Upvotes

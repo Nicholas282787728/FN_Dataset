@@ -1,2 +1,0 @@
-Let f(x)=ax 2 +bx+c  be a quadratic polynomial where a,b,c  are real numbers. How can it be proved that f(f(x))=x  has no real solution?
-The statement is not true. Simple counterexample: let a=b=0  and c=1  . Then f(f(x))=1  , so f(f(x))=x  has a solution x=1  . EDIT: I've just been told it's cheating to set a=0  . In which case, set a=1  and b=c=0  . Then f(f(x))=x 4   and x 4 =x  also has a solution. 

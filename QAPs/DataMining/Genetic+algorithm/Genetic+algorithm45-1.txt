@@ -1,2 +1,0 @@
-★Which applications (Mac or PC) are best to experiment with Genetic Algorithms?
-You can basically use any programming language C, matlab, python... you will find many examples online.    Embed Quote

@@ -1,1 +1,0 @@
-Is {{}} {{}} a subset of {{},{}} {{},{}} ?The two sets you write are actually equal. Remember that order and repetition are irrelevant when naming a set via explicitly writing its elements: {a}={a,a} {a}={a,a} . Since every set is a subset of itself, the answer is yes. 106 Views  View Upvotes  Answer requested by Visakh Vijayan

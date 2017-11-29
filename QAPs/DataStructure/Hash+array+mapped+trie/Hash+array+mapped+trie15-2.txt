@@ -1,2 +1,0 @@
-Why is data structure useful for a computer engineer to learn?
-Basically Data Structures are A data structure is a particular way of organizing data in a computer so that it can be used efficiently I think these might be helpful: Array linked list stack queues Binary tree heap hash-Maps Graph( their tree representations) and advanced DS like Trie,Avl tree,B tree,Segment tree 

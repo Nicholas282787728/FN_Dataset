@@ -1,1 +1,0 @@
-How do you access each element of an array by using only pointers in C?int arr[] = {2,8,4,9}; int n = sizeof(arr) / sizeof(int);  int i; for(i = 0; i < n; i++) printf("%d\n", *(arr+i)); 14 Views

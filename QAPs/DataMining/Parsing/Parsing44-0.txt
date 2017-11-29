@@ -1,2 +1,0 @@
-★What are some recent advances in natural language parsing?
-Definitely the use of unsupervised deep learning is one. It has been applied to parsing, paraphrase detection, sentiment analysis etc. Do have a look at the papers published by Andrew Ng and Chris Manning. [1] Ref: http://nlp.stanford.edu/projects...    Embed Quote

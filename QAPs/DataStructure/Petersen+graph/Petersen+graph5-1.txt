@@ -1,2 +1,0 @@
-What's the most beautiful graph you have ever seen?
-Grötzsch graph, the smallest triangle-free graph with a chromatic number of 4. 

@@ -1,2 +1,0 @@
-★What is the advantage in using a least square regression in relation to a simple linear regression?
-In general, the line given by simple linear regression is the result of a least squares problem.     Embed Quote

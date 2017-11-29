@@ -1,1 +1,0 @@
-How many faces edges and vertices does a triangular prism have?We can count: five faces, nine edges, and six vertices. Checking with Euler’s rule: V−E+F=2  V−E+F=2 where V  V , E  E , and F  F are the number of vertices, edges, and faces respectively. 6−9+5=2  6−9+5=2 , so our answer is correct. 1k Views

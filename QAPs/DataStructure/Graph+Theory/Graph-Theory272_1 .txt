@@ -1,1 +1,0 @@
-How is I understand this physics graph question?Yeah, just as Samuel mentioned. It's because that the current is in milliamps. Let's write down the equation for solving. So, from graph, to find resistance R=v/I=6/40∗10 −3 =6∗10 3 /40  R=v/I=6/40∗10−3=6∗103/40 You solve it and you get the answer. 21 Views · View Upvotes

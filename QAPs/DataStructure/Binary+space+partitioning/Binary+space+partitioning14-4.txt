@@ -1,2 +1,0 @@
-How do you design an algorithm?Imagine you are talking to a 18 year old who likes to study the humanities.
-It's like writing a recipe, in the fanciest French style, for a sub-moron cook who has never been in a kitchen before, so that they get it exactly right every time. 

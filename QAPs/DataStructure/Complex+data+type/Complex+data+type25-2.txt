@@ -1,2 +1,0 @@
-What are some good ways to replace a Python module or function with a RESTful API call?
-You can just replace the method (keeping the same name) with one that makes the REST call using requests or a higher level library. This is basically the Facade pattern. You may find this useful to study: faif/python-patterns 

@@ -1,2 +1,0 @@
-★Is it weird that a web page designer uses Illustrator not Photoshop?
-In the age of rising popularity of flat UI this makes only much more sense. Also from a developer point of view, in fact neither of those programs are good enough anymore. Web is not print, it's interactive, it's full of ranging states, need for communicating user flow. It needs to be responsive There are better tools out there now. It only becomes clearer when you realize that even back in 2008 people felt that those tools are becoming insufficient, e.g. Why we skip Photoshop    Embed Quote

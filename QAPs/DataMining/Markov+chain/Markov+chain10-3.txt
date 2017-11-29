@@ -1,2 +1,0 @@
-★Markov Chain Monte Carlo: What are some real-world applications of MCMC?
-Suggest to take a look at the Applications of MCMC in Reliability and Risk Analysis.    Embed Quote

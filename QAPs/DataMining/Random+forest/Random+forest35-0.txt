@@ -1,2 +1,0 @@
-★Which programming languages have Random Forest implementations suitable for high-volume transaction processing?
-You can use R, which can be customized for dealing with large amount of data. Once you prepare the dataset you wanna process by Random Forest, you need to import and install the RWeka library that will allow you to use all the machine learning algorithms from weka in R; this is pretty simple to do. I implemented this and it worked perfectly well.    Embed Quote

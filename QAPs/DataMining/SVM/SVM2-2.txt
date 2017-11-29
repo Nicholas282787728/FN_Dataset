@@ -1,2 +1,0 @@
-★What is the computational complexity of an SVM?
-It's O(max(n,d)  min (n,d)^2), where n is the number of points and d is the number of dimensions, according to: Chapelle, Olivier. "Training a support vector machine in the primal." Neural Computation 19.5 (2007): 1155-1178.    Embed Quote

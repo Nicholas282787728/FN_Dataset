@@ -1,2 +1,0 @@
-What are some data structures implemented based on statistics / probability?
-Quotient Filter is yet another data-structure which helps you answer approximate set membership queries just like bloom-filters. Even though it takes about 25 to 30 % more space for the same level of error-rate, it only needs to compute the hash function just once unlike bloom-filters. It also enables one to merge the filters with out access to the original keys. More about it can be read from it wiki page at Quotient filter . 

@@ -1,2 +1,0 @@
-How do I use dijkstra's algorithm in competitive programming?
-Use Sphere Online Judge (SPOJ)  problem classifier to find such problems. There are not many. You would find more problems based on BFS/DFS 

@@ -1,1 +1,0 @@
-Is a rigorous formal understanding of the big-O/theta/omega notation necessary to apply it successfully in computer science?

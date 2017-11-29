@@ -1,2 +1,0 @@
-Is MongoDB a good replacement for Memcached?
-As Richard Jones said, they're not comparable. If you are looking to build a caching layer on top of a KV store, then you should supply more info if you want to get more meaningful answers. If you're looking for a memcached alternative that persists data, how about trying Kyoto Tycoon http://fallabs.com/kyototycoon/ - It has an expiration mechanism and ships with a memcached plugin, so at least you can test it out easily enough. 

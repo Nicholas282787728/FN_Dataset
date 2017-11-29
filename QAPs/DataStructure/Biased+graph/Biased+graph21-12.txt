@@ -1,2 +1,0 @@
-What tools do data scientists use for professional presentations (e.g. diagrams, graphs, flow charts, etc.)?
-Lucidchart is pretty good for diagram modeling, such BPMN, DFD, UML, etc. 1.7k Views · 3 Upvotes

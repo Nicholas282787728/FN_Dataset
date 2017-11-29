@@ -1,1 +1,0 @@
-An early example of algorithm complexity analysis is the running time analysis of the Euclidean algorithm done by Gabriel Lam¨¦ in 1844.

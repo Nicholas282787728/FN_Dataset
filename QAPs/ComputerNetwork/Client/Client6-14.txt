@@ -1,2 +1,0 @@
-★What's the best IRC client for Mac OS X?I've been using Colloquy, but wonder if there are better options.
-pidgin -- Admittedly, it might not be the most aesthetically pleasing, but it does the job. (I maintain the fink port of pidgin, which is built on top of x11-gtk+, and lacks the native look and feel.)

@@ -1,2 +1,0 @@
-★What is meant by an electric power cable rated at a voltage grade of 450/750V?
-This rating system is specified in IEC 183. The convention is , where is the nominal voltage between the conductor and the metal covering (sheath) or earth (ground); and is the nominal voltage between the phase conductors; for 3-phase systems, .  When is specified in parenthesis, it is the maximum permissible voltage.    Embed Quote

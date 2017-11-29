@@ -1,2 +1,0 @@
-★What are the best supervised learning algorithms for sentiment analysis in text?I want to do text analysis to determine whether a news item is positive or negative for a given subject. What are the best supervised learning algorithms for this?
-This paper states that simple Linear SVM or Mutinomial Naive Bayes in binary bi-grams features with proper smoothing can still reach the state of the art. projects:nbsvm - Sida Wang    Embed Quote

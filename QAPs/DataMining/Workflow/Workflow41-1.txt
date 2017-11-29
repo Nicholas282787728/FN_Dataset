@@ -1,2 +1,0 @@
-★What is your workflow for preparing graphics for Android apps?Considering the # of screen sizes and 4 pixel densities, does anyone have a system that works for them? I'm aware of tutorials ( such as Designing For Android) but I'd hear to hear about any workarounds or systems you use to make the process less tedious.
-Regardless of any compiled optimisation it is also worth running images through a PNG optimiser like ImageOptim (Mac); cos smaller is better :)    Embed Quote

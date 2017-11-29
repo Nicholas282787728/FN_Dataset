@@ -1,2 +1,0 @@
-★What are some good examples of applications written against data warehouses?
-Apps that I've seen or worked with:   Sales Forecasting Customer Value Management (financial services) Performance Scorecarding Company Location mobile app (revenue, employee, product information by location) Fraud monitoring    Embed Quote

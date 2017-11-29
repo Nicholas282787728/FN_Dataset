@@ -1,2 +1,0 @@
-What are some of the good sources to understand suffix tree, suffix array and their implementation?
-Fall 2011 - String Algorithms and Algrorithms in Computational Biology - Gusfield Video numbers 7 & 9 are what you want. Combine them, and you can easily build a suffix tree on O(n) time and much lesser memory than you need to do it directly. 

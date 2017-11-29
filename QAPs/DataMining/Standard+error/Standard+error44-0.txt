@@ -1,2 +1,0 @@
-★Can we use the error standard deviation to compute prediction interval for multiple linear regression?
-That is the confidence interval for the regression line. Prediction intervals are wider because they need take the uncertainty of an individual observation into account. Prediction interval    Embed Quote

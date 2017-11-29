@@ -1,2 +1,0 @@
-What are the best data sources for studying the housing bubble and potential recovery?
-Buildzoom has an excellent set of data on home improvement contractor licensing: www.buildzoom.com/graphs -- you can clearly see the boom, crash, and a partial comeback. 

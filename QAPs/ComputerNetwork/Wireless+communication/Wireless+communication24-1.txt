@@ -1,2 +1,0 @@
-★Wireless Communication: What are the best books to learn about the Physical layer implementation of LTE?
-4G: LTE/LTE-Advanced for Mobile Broadband by: Erik Dahlman; Stefan Parkvall; Johan Skold. “LTE-The UMTS Long Term Evolution- from Theory to Practice”, John Wiley & Sons Ltd    Embed Quote

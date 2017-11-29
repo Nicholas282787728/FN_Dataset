@@ -1,2 +1,0 @@
-★What is the difference between a multiplexer and a decoder?In computer architecture, all the cases where you implement multiplexer can be replaced by implementing decoders right?
-multiplexer can not represent function of decoder in all case b/c multiplexer selecting data and increase amount but decoder decode encoded data    Embed Quote

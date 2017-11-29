@@ -1,2 +1,0 @@
-Why don't graphing calculators have secant and cosecant buttons?
-Because they have cos and sine buttons, inverse of which give sec and cosec respectively. 

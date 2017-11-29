@@ -1,2 +1,0 @@
-What is the difference between a compiler and an interpreter?
-Originally Answered: What is the difference between a compiler and an interpreter?Compiler takes complete program as input and generates intermediate object code but interpreter takes single line as input and nothing is generated as object code.  C is an example of compiler and BASIC is as example of interpreter. For more info go through the below link: Compiler Vs Interpreter : Difference between Compiler and Interpreter 

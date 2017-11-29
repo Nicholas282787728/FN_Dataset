@@ -1,2 +1,0 @@
-★How can I deal with missing values in a predictive model?
-Here are three ways: Remove rows with missing values - This works well if 1) the values are missing randomly (see Vinay Prabhu's answer for more details on this) 2) if you don't lose too much of the dataset after doing so. Build another predictive model to predict the missing values - This could be a whole project in itself, so simple techniques are usually used here. Use a model that can incorporate missing data - Like a random forest, or any tree-based method.    Embed Quote

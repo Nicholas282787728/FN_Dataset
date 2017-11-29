@@ -1,2 +1,0 @@
-What is the canonical way to state "viral coefficients"?
-There really isn't one, since the viral coefficient is a time and cohort dependent variable. There is no standard I'm aware of for the time period of the viral coefficient (but it's a great question to ask when someone tells you they have a k > 1.0). Also, the viral coefficient is normalized against some cohort of users and is independent of user death, so the latter half of your question may not make sense.    Embed Quote 

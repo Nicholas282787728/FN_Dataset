@@ -1,2 +1,0 @@
-★How do I predict the outcome of an event using regression analysis?
-It depends on what you mean by "event" and what data you have that you can use to make the prediction    Embed Quote

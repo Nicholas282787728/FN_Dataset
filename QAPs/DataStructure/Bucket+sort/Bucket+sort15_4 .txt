@@ -1,1 +1,0 @@
-Bucket sort is O(K x N) where K is the size of the key and N the number of items, nothing beats it. 

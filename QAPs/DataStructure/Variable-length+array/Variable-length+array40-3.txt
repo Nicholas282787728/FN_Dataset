@@ -1,2 +1,0 @@
-What are the differences between C and C++? Which one should I learn first?
-C++ builds on C to add features that support object-oriented programming. In particular, C++ adds classes and inheritance. C++ also introduces other features not directly related to object-orientation, such as exceptions. These added features make C++ both more powerful and significantly more complex than C. 

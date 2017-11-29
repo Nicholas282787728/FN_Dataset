@@ -1,2 +1,0 @@
-What are the real world applications of some advanced data structures?
-B-tree is another example of a data structure widely used in real-life computer systems like databases and file systems. More here: B-tree 

@@ -1,2 +1,0 @@
-How do you judge a JavaScript programmer by only 5 questions?
-Step 1: Learn Haskell. Step 2: Judge all JavaScript programmers. No questions required. :-D 

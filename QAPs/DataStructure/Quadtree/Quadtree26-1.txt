@@ -1,2 +1,0 @@
-I want to build an Uber-like application. Where do I start?
-To add factor in considerations for connectivity and gaps in connectivity such as offline handling, recovering from ANR and forced exits. Uber is expected to be an always on app but as a mobile first app you need to consider a not always available network. 

@@ -1,2 +1,0 @@
-What are some common mistakes to be avoided in Mathematics?Especially in Algebra, Coordinate Geometry, Calculus and Trigonometry.
-Dividing by 0.  This often hides in the details of problems. 

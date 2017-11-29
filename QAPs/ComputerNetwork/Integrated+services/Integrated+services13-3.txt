@@ -1,2 +1,0 @@
-★What are some continuous integration services that have built in support for the Github commit status API?
-Hi there, I'm on the Customer Success team at Solano CI. We have a number of Github-related features through our integration, including status updates. (Docs on Solano's Github integration here: Page on solanolabs.com) Cheers!    Embed Quote

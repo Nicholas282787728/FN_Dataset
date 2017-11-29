@@ -1,1 +1,0 @@
-How many edges must a tree with 2349 nodes have? In bioinformaticsIn a tree every node except for the root has one incoming edge. So with 2349 nodes you have 2348 edges. Where is the bio-informatics connection? Or were you talking about a perennial plant with an elongated stem, or trunk, supporting branches and leaves in most species. 104 Views  Answer requested by Pearce Joza

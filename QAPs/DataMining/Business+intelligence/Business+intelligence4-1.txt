@@ -1,2 +1,0 @@
-What is the difference between "business intelligence" and "business analytics"?
-Business analytics, in my opinion (others differ), is a subset of business intelligence that focuses on statistically-rooted algorithms where broader BI also encompasses reporting, pivot analyses (a.k.a. OLAP), dashboards, etc.    Embed Quote 

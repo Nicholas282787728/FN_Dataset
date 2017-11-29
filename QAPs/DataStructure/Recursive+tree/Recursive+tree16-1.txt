@@ -1,2 +1,0 @@
-What is the complexity of [math]T(n) = 2T(n-1) + C?[/math]
-Recursion Tree:                             [math]\small {Assuming\ T(1) = C}[/math], [math]T(n) = {C + 2*C + 4*C + \dots + 2^{n-1}* C} =  {\color{Red} {C*(2^n-1)}}[/math] Exponential  [math]\Rightarrow[/math]  TOO BAD !!! Updated 30w ago • View Upvotes

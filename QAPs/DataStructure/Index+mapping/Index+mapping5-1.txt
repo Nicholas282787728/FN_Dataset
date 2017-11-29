@@ -1,2 +1,0 @@
-What is the difference between primary key and unique key in MySQL?
-Both Primary Key & Unique Key should have unique values. 1. The only difference is Unique Key column can have one row with NULL value. 2. And you can create only 1 PK, and multiple UK. It also depends upon Database product. Like in SQL Server, upon creating a PK it created a Clustered Index by default on a table. But Unique Key cerates a Non-Clustered Index on the table column. ~SQL with Manoj 

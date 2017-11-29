@@ -1,2 +1,0 @@
-What are some real-life examples of Breadth and Depth First Search?
-Originally Answered: What are the real world application for breadth first search? It is help to: find cities connected with roads.modeling air traffic controller system. 1.2k Views

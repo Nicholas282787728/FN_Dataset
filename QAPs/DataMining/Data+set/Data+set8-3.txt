@@ -1,2 +1,0 @@
-How much data is enough when analyzing a data set?
-It depends on the strength of the effect you are looking for.  The weaker the effect, the more data you need to see it.   In principle, for any data set if you want to see an effect with correlation coefficient R such that the p-value is less than some value p0, you should be able to calculate how much data you expect to need to see the effect.   You can think of the amount of data as like the magnification of a microscope.    Embed Quote 

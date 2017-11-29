@@ -1,2 +1,0 @@
-★What is the best regular expression cheat sheet?
-It depends on which language/tool you are using Regular Expression with. They all have their peculiarities. You can usually find a quite good summary searching "Regular Expression xx" where xx is the specific language/tool. In general I like: http://www.addedbytes.com/downlo... and http://krijnhoetmer.nl/stuff/reg... And this is an excellent tool that creates code in different languages: http://www.txt2re.com/    Embed Quote

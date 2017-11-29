@@ -1,1 +1,0 @@
-What's a good explanation for Tarjan's strongly connected components algorithm?

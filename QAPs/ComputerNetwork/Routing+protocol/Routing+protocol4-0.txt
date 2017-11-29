@@ -1,2 +1,0 @@
-★What is proactive routing protocols?
-That would be a routing protocol that routes around a link failure before the link actually fails.  Neat trick. Pointers?    Embed Quote

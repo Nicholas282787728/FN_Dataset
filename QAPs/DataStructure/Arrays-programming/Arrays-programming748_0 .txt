@@ -1,1 +1,0 @@
-How do I accept certain numbers from users and store them in an array in Fortran 77?What's the problem? do 10 i=1,n read(5,*) x(i) Or something of that order. This is totally trivial. Homework exercise for the 3rd week of the semester. Oh wait, it *is* the 3rd week of the semester. 99 Views

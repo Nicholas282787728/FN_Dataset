@@ -1,2 +1,0 @@
-★How do I programmatically obtain users' mobile phone number from its mobile network operator on Android?
-You  can use telephone manager,but it  works in some phones only. U can get the number which have been saved in mobile.. check here settings--.>status-- >phone number    Embed Quote

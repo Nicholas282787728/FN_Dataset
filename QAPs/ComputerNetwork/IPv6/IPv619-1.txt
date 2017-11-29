@@ -1,2 +1,0 @@
-★What is it going to take for IPv6 to be adopted?When do you estimate that IPv4 will be replaced?
-That's a very difficult question to answer. The best guess is that we'll run out of IPv4 addresses in a little over a year. http://www.enterprisenetworkingp... After we run out of addresses, IPv6 has to be adopted – it's an ongoing, and slow process that the folks who take care of the backend of the internet are acutely aware of and slowly working toward a solution.    Embed Quote

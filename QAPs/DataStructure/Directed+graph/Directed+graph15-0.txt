@@ -1,2 +1,0 @@
-What is the main use of a simple directed graph?
-To model one-way data dependencies. Example Applications: Quora: User x  x upvotes y  y (but y  y does not upvote x  x ) Facebook, Twitter: User x  x follows y  y (but y  y does not follow x  x ) WWW: Website x  x links to y  y (but y  y does not link to x  x ) 70 Views · 2 Upvotes

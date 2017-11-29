@@ -1,2 +1,0 @@
-Is recursion actually useful? I can't find any reason to use it. Why do some people love to use it?
-Try listing all the directories and files in your system without recursion....and most compilers and interpreters rely heavily on recursion.. 

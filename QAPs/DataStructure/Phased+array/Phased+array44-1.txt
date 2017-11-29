@@ -1,2 +1,0 @@
-Satcom: Is it possible for a civilian to utilize government satellites to communicate with a server from a homemade device?
-Page on wired.com > FLTSATCOM satellites used to be basically open to anyone with the right radio 

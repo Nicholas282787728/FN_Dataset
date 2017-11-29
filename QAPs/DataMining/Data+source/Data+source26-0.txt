@@ -1,2 +1,0 @@
-What are some good machine readable data sources for movie related information?
-IMDB has some large datasets you can download for movie-related information: http://www.imdb.com/interfaces    Embed Quote 

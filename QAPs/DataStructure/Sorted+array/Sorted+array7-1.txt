@@ -1,2 +1,0 @@
-How do I find the minimal range that contains a number from each sorted array?
-You can do much better than brute-force. I think it can be solved in O(nlogk)  O(nlog⁡k) where n is the number of all elements in the arrays and k is the number of arrays. This is my solution: Let M be a min-heap of minimums in each of these arrays. ARRAYS=[ [1 1000 2000] [20 1001 5000]... (more)

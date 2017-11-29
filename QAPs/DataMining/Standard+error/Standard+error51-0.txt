@@ -1,2 +1,0 @@
-★Why are we not using median at all times instead of mean?
-Because the mean and median have different properties and sometimes we want the ones associated with the mean. For example, in large samples from a normal distribution, the median has a larger standard error.  For another, the mean is the expected value.  For a third, the mean is influenced by outliers and, while that is often a justification for using median, sometimes we want a measure that is influenced by outliers.    Embed Quote

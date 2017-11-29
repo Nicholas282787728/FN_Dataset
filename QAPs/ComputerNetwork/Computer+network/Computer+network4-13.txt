@@ -1,2 +1,0 @@
-★What is the most important computer networking protocol?
-Different protocol performs different functions. HTTP, POP, SMTP, FTP, IP, DHCP, IMAP are some very important protocols that is used for transmiting the information on the web. These protocols are conceptually defined in OSI reference model. These protocols perform different function in OSI reference model.

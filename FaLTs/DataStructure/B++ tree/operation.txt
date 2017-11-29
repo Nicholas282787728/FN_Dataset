@@ -1,1 +1,0 @@
- insert operations to append one or more data elements to a data structure associated with a key, or delete operations to remove one or more data elements from a data structure associated with a key.

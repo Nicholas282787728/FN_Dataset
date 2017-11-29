@@ -1,2 +1,0 @@
-★What is the best book for Fuzzy logic?I have taken fuzzy course as a graduate student in Artificial Intelligence. What would a suitable book be for this course? or any other helpful material. Thanks in advance.
-I drafted an intro to fuzzy logic at the beginning of this year:  http://francky.me/doc/course/fuz... (mostly a transition from a course I had previously published on two French websites)    Embed Quote

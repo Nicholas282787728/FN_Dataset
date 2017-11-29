@@ -1,2 +1,0 @@
-What is a lattice in discrete mathematics?
-It can also refer to a discrete subgroup of additive group [math]\mathbb{R}^n[/math]. For example, [math]\mathbb{Z}^n[/math], the set of all [math]n[/math]-dimensional integer vectors form a lattice in [math]\mathbb{R}^n[/math]. See also Lattice (group). Updated 52w ago • View Upvotes

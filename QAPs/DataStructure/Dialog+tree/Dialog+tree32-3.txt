@@ -1,2 +1,0 @@
-Why has the hard disk remained Drive C for all PCs I have seen?
-Perhaps because you've never seen a PC running Linux (or Solaris or BSD or whatever). 

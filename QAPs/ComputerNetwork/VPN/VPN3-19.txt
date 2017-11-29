@@ -1,2 +1,0 @@
-★What's the best VPN service for China?
-if you use win 7 , i suggest goagent 3.1.8 version, if you use  above win 8  , i suggest goagent 3.1.18 . both should edit the proxy.ini file with some good google ip addresses.    Embed Quote

@@ -1,2 +1,0 @@
-★Broadband: What is faster. Cable or phone line via DSL?
-The short answer is it depends.  You have to understand that there are lots of types of DSL and that the data rates range from 1.5 mbps up to >50mpbs. http://en.wikipedia.org/wiki/Dig... To further complicate matters both DOCSIS cable modem and DSL systems have bonding technologies which allow the provider to combine more than one channel (cable) or line (DSL) into a single larger connection for the subscriber. In practical terms the operator providing the service is much more important than the technology being used.

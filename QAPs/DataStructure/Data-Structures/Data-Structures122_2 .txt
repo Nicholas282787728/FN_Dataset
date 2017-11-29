@@ -1,1 +1,0 @@
-If I have to find number of p letters in a document what would be the best data structure to find it?Python dictionaries are the go-to solution here. Each letter is a key and the value is the number of times that it appears. This is essentially what a Counter object is. 18 Views  View Upvotes

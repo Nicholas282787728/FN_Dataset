@@ -1,2 +1,0 @@
-★How can I use Python to solve integer linear programming problems?
-There are a number of scientific libraries in Python that have ILP solvers : Python Package Index - PULP Python Package Index - ilp You  can also write your own module for solving ILP problems. I needed one  so I wrote a module for taking a ILP problem in a txt format and parsing  it and solving the problem using simplex method using the numpy arrays: saswatraj/simpy However it is much easier to use a package and PULP is my favourite for ILP problems.    Embed Quote

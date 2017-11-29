@@ -1,2 +1,0 @@
-★How does predictive modeling determine credit scores?
-Unfortunately, classical logistic regression is still too often used. E.g. using ensemble techniques would yield better predictions.    Embed Quote

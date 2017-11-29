@@ -1,3 +1,0 @@
-When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?Its because at L-3 label, one node can detect other node by the help of IP address or L-3 address and at L-2 label , by the help of MAC address, one node can detect the other.
-
-So if you specifically see the encapsulation process, when a packet comes through TCP\IP layers , it has to pass through Network layer before going to datalink layer.So it has to be encapsulated with unique IP adress. So that one  node(say PC) can detect other PC uniquely at network layer label.

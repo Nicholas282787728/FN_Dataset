@@ -1,2 +1,0 @@
-What is the best (programming) algorithm that you have ever created?Anything that you're proud of and would like to share the algorithm as well?
-My untested contributions include a set of algorithms, roughly based on 11-space search, partitioned knowledge bases and large-scale recursion, that was intended to create a self aware entity out of an assembly of computers.  The design is called SHARPIE.  Anyone want to build it and see what happens? 

@@ -1,3 +1,0 @@
-★What is the best (and cheapest) way to convert a WAV file (~35MB) to an MP2 file (with a bit rate of at least 256 KB)?Both Logic and Cubase don't allow it, and online services restrict the size of the input file.
-FFmpeg is your one-stop shop for transcoding audio and video: 1
- $ ffmpeg -i original.wav -f mp2 -ab 256k new.mpg

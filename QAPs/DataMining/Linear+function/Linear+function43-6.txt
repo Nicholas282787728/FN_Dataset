@@ -1,2 +1,0 @@
-★Why is Linear Algebra a prerequisite behind modern scientific/computational research?
-From Simplicity theory: most things even very complicated systems can be modelled from simple axioms: look at cellular automata. Often non-linear  explations would be substantially more accurate, but the programmers wouldn't know how to program them. The thinking required for modelling and maths is quite specialised (expensive), so people go for cheaper answers.    Embed Quote

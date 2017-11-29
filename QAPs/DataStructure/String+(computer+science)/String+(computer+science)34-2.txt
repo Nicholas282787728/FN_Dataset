@@ -1,2 +1,0 @@
-Why is it difficult to understand quantum computing?
-Quantum computing does not require an in-depth understanding of quantum mechanics. It is just getting used to it until you master the concept and be skillful with the computations. It is the application that's important. People are using quantum computing to solve classical problems, which should not be the case. Rather, quantum computing should be used to solve quantum problems. 

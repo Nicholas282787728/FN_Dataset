@@ -1,2 +1,0 @@
-How much of machine learning must one know to understand and go through the new course of Deep learning offered by Google at Udacity?
-none Its an introduction to Deep learning you just need basic understanding of mathematics like calculus, probability etc and coding. 

@@ -1,2 +1,0 @@
-When to use suffix Tree and when to use Trie, is it good to use suffix tree with large text instead of tree?
-Suffix tree is used when you want to search a substring inside a sentence. But trie is used when. You want to do a search for keyword among group of words (dictionary) 

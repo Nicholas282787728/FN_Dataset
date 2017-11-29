@@ -1,2 +1,0 @@
-Given a random sequence of the nine digits 1 to 9, what is the probability that no two adjacent numbers will differ by 1?Assume that 1 and 9 differ by 1.
-369549!   , according to OEIS A002493 (which also says that for large values of 9  , the probability converges to 1e 2    ). 

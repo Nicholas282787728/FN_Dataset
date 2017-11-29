@@ -1,2 +1,0 @@
-★How can I check Ethernet connection speed on Linux?
-Try nethogs. Of course if your local system monitor works fine then stick to that.

@@ -1,2 +1,0 @@
-What are advantages of using a d-ary tree instead of a binary tree?
-D-ary trees can improve the spatial locality of memory accesses. A balanced [math]d[/math]-ary tree having [math]n[/math] elements accesses [math]O(\log_d n)[/math] non-contiguous memory locations per insert, remove, or find operation. The drawback of having high [math]d[/math] is that up to [math]O(d)[/math] operations are needed in each contiguous memory location, making the total time complexity of an operation under a traditional random-access machine model [math]O(d \log_d n)[/math]. 

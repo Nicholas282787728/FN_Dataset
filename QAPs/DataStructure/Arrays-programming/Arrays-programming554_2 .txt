@@ -1,1 +1,0 @@
-Can we sort an array by multiplying each element of the array with some special number?Can we sort an array by multiplying each element of the array with some special number? Not meaningfully (that is, if you want the original elements to be sorted, then no). 140 Views  Answer requested by 1 person

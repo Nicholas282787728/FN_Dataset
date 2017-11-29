@@ -1,2 +1,0 @@
-★Why doesn’t "sizeof(a)/sizeof(a[0])" work for an array passed as a parameter?
-Because `sizeof(a)` is referring to `a` as a pointer rather than an array. In C an array's length must be passed separately because it is not remembered within the array.    Embed Quote

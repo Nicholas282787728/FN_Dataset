@@ -1,2 +1,0 @@
-★What is the best way to learn network security concepts?
-Install a virtualBox manager. Install Kali Linux on one partition and a target on other (Linux/Windows). Start exploring Kali by exploiting the target machine. Use tools like Wireshark, nmap, metasploit etc. You can get tutorial for all the tools on Google. :)    Embed Quote

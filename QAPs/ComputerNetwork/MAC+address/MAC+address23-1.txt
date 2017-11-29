@@ -1,2 +1,0 @@
-★Can my Internet history be searched through its MAC address?
-I don't think so, your MAC is only used on the data-link layers, sometimes when you need to resolve an IP to his MAC you should make an ARP call and it will only work in your local area network. But, if somehow the application manages to get your MAC and add it into the data, that application could know your MAC.    Embed Quote

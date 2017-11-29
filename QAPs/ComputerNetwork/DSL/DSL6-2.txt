@@ -1,2 +1,0 @@
-★What are good examples of Domain Specific Languages (DSL) in Haskell?Aim is to learn Haskell by doing, any ideas on would be appreciated.
-The Forest Project is a DSL written in Haskell for describing filestores.

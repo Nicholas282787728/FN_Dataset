@@ -1,2 +1,0 @@
-What is the best method for checking if a binary tree is a binary search tree?
-For each node x, recursively calculate the following values: M[x] = max(key[x], M[left[x]], M[right[x]]) m[x] = min(key[x], m[left[x], m[right[x]]) (M is the maximum key in x's subtree, m is the minimum key in x's subtree) Then if the following holds for every node x: M[left[x]] < key[x] < m[right[x]] It's a binary search tree (well, assuming all keys are distinct). The complexity is O(n). 

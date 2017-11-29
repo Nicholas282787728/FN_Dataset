@@ -1,2 +1,0 @@
-What's a good "scripting" functional programming language?
-Node / javascript would have been my suggestion. Libraries well there is lots, easy to use and manage with npm. Many libraries can add further functional features such as underscore which adds over a 100 http://underscorejs.org . And viewing logs easy here is a basic script on stackoverflow.com http://stackoverflow.com/a/8996749 

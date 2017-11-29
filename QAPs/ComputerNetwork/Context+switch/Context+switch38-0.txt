@@ -1,2 +1,0 @@
-★How does multithreading work in a single-core computer?
-You will not get true concurrency, it's true. However, you will get interleaved execution of the threads, giving you concurrency. This is good because it means that on a true multi-core processor, your program would get some benefit from true parallelism. For the single core case, you'll see that Ttotal = Ta + Tb +Tsched, where Tsched is a small addition due to context switching back and forth between the threads.

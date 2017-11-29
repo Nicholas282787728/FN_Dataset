@@ -1,2 +1,0 @@
-★What is the sum of average and standard deviation?
-Very little. It will serve as a very approximate upper bound, in the sense that every symmetrical distribution must reach at least that high, and that nearly normal distributions will only be higher about one item in six.    Embed Quote

@@ -1,2 +1,0 @@
-What's the difference between a data structure and an abstract data type?
-This is an Abstract Data Type: (also, a menu) It tells you what you can ask for. This is a data structure:... (more)

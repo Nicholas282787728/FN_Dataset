@@ -1,1 +1,0 @@
-How do I connect the Visual Studio 2005 C++ program to the Microsoft SQL 2008 database? What is the connection string?

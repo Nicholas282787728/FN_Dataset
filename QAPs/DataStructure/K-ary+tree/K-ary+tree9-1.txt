@@ -1,2 +1,0 @@
-Huffman Coding - How to prove decoding tree must be a full n-ary tree?I don't know how to prove this.
-In  general, the number of leaves in a full n-ary tree must have the form  (n-1)k+1 (where k is the number of internal nodes).  Therefore (a)  cannot be true in general except for n=2 (and indeed you can prove that  the proposition is true in this case). 

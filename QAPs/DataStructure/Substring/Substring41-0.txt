@@ -1,2 +1,0 @@
-How do you find the longest substring whose reverse is also present in the same string?
-You must calculate Longest Common Substring between s and reverse(s). LCS is a very well known problem. 

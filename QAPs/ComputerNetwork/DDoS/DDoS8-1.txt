@@ -1,2 +1,0 @@
-★What are the largest DDoS attacks in history?Bonus: could any amount of infrastructure have stopped them?
-In February 2014, Black Lotus, CloudFlare, OVH, and others were hit with an attack measured by each provider at over 400 Gbps. The vector was the NTP monlist vulnerability discovered the month prior: NTP Amplification Attacks Using CVE-2013-5211 Better detail can be found in the Black Lotus Q1 2014 Threat Report: Black Lotus Threat Report Predicts New DrDoS Attacks in Excess of 800 Gbps in 2015

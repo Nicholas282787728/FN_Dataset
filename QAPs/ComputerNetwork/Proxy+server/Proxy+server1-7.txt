@@ -1,2 +1,0 @@
-★What is a good proxy server to use?what is proxy server?
-Private Proxies ^ I set that one up for myself a while ago. It works, and will bypass almost every filter. - This is set up on a VPS, Unlimited bandwidth, 4Gbit connection. Really quick.    Embed Quote

@@ -1,2 +1,0 @@
-★What is the difference between an 'integrator' and a 'low pass filter' & 'differentiator' and a 'high pass filter'?
-No difference . Names given according to the context in which they are used. Dealing with frequency ? Call them as filters. Dealing with amplitude ? Call them as integrators/ differentiators.

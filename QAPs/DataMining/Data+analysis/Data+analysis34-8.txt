@@ -1,2 +1,0 @@
-★Which is better for data analysis: R or Python?
-For Bayesian stuff, CRAN has a lot more than numpy / scipy can offer: CRAN Task View: Bayesian Inference R is quirky and weird (I think) but the statisticians love it and there isn't really a compelling reason to switch.    Embed Quote 

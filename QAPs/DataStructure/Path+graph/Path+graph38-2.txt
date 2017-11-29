@@ -1,2 +1,0 @@
-What is a program in C/C++/Java to find the shortest path between two nodes in a graph input as an adjacency matrix and the nodes traversed in that shortest path?
-This link contains code from Robert Sedgewick's book Algorithms in C++. You can also find code in Java at the same site. I haven't looked at individual algorithms but it contains all the code for topics covered in his book on Graph Algorithms. Page on princeton.edu 

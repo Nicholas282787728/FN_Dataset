@@ -1,2 +1,0 @@
-★Is it inappropriate to perform a t-test or ANOVA on normalised data rather than raw data? If so, why?
-The problem with transformations is that they introduce non-linearity, and they mess with your interpretation. When you're interpreting the results of analysis, and other people are applying them to make decisions, you want units that make sense.  "Doing X costs $100 less, on average, but doing Y leads to 10% better customer retention". If you've transformed the data, it can be harder to make those statements.    Embed Quote

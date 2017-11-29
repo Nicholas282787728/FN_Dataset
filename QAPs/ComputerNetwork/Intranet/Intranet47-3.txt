@@ -1,2 +1,0 @@
-★Which A/B testing tools can be used on a Sharepoint Intranet?Are there A/B or multi variant testing tools that can be used behind the firewall on data driven Sharepoint pages?
-If you're running into problems, you could also try Var.to.  Var.to does A/B testing through link shortening, so there is no requirement to embed javascript, though it is much less powerful than some of the alternatives as a result.

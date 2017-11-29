@@ -1,2 +1,0 @@
-★What are some hosted continuous integration services for Django that support selenium testing?
-Hi there, Solano CI, a hosted CI tool, supports selenium testing. You can find our docs on the subject here: Selenium - Solano CI documentation. Cheers!    Embed Quote

@@ -1,2 +1,0 @@
-What's the best reference (book) to study tree data structures for programming contests?
-I think that Competitive Programming 2 (Steven Halim and Felix Halim)! You will learn a lot there, and it´s well explained!  I believe that is a third edition already! ;) 

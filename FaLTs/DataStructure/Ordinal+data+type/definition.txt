@@ -1,1 +1,0 @@
-In computer programming, an ordinal data type is a data type with the property that its values can be counted. That is, the values can be put in a one-to-one correspondence with the positive integers.

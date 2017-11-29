@@ -1,2 +1,0 @@
-What are some easy to implement and powerful data structures?
-I'll go for 1.Linked list 2.Trees (BST || min max heap || suffix tree ) Implementing above give you a good understanding of many algorithms that are frequently asked in technical interviews and exams 

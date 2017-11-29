@@ -1,2 +1,0 @@
-★What programming languages does the Google engineering team working on text mining use?(Ex: R, Python)
-They use hadoop combined with nosql For mining and knowledge discovery.... By the way you can learn go, python, java, R  for google    Embed Quote

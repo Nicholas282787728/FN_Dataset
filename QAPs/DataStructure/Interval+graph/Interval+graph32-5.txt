@@ -1,2 +1,0 @@
-What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
-König's inifinity lemma. In a slightly simplified version, this lemma states: "If T is an infinite tree and each vertex in T has a finite degree, then T contains an infinite simple path." Click the above link and be amazed at all the theory closely related to this seemingly trivial lemma. 

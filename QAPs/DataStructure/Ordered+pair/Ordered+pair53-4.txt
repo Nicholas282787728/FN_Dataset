@@ -1,2 +1,0 @@
-Why is 9 a rational number?
-The definition of a rational number is any number that can be expressed exactly as the ratio of two integers. Interestingly enough, the ratio of two irrational numbers can result in a rational number. For example, if the ratio is: 9p/p, where p is irrational, then the ratio would be rational because the irrationals cancel out. 

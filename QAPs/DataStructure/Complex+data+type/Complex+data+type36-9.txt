@@ -1,2 +1,0 @@
-Which is better, SQL or NoSQL?
-Neither, depends on the task 

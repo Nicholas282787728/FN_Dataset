@@ -1,2 +1,0 @@
-★Does a whitepaper count as a knowledge based article?I'm relatively new to my role, and would love a little bit of help clarify this.
-Knowledge base article is usually found in a support database (later it becomes online help for support staff or customers).  A whitepaper can be created internally or externally published and distributed across an organization, online and even to customers.  A whitepaper could be referenced or included in a KB article.    Embed Quote

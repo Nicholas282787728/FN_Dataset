@@ -1,2 +1,0 @@
-★Can IPv6 be spoofed?
-Sure. Why not? It's just an address like IPv4. Now if you were using the IPsec components of IPv6 to authenticate the peers, then no. But I don't think anyone is seriously considering using IPsec with IPv6.    Embed Quote

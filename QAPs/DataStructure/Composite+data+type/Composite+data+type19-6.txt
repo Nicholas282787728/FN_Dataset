@@ -1,2 +1,0 @@
-Are there any useful recursive functions that do not contain a base case?This is a follow-up question to What does "base case" mean in the context of recursion?.
-This may not exactly be recursion (at least in the traditional sense) but it is commonly used to make periodic calls (after the last call has completed) to asynchronous functions in javascript. (function doSomething(){ asyncCall( function callback(){ //some stuff setTimeout(doSomething, 1000); }); }()); 

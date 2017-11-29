@@ -1,1 +1,0 @@
-Which sorting algorithms have the least best case complexity?For best case complexity (that is, how long it takes to run if it's already sorted), my vote is for the RandomSort: 12 while( !isSorted(array)) Shuffle(array); Verifying sortedness is O(n) complexity. My vote goes to that one just for the sheer hilarity. 

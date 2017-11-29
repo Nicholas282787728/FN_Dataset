@@ -1,1 +1,0 @@
-What is a force-time graph?It is a graph that represents the force that acts on a body in a certain amount of time. Force on the object is represented by the y-axis and time taken by the object is represented by the y axis. The area under an arbitrary curve drawn in this plane, would give us the impulse of the body. Cheers! 256 Views  View Upvotes

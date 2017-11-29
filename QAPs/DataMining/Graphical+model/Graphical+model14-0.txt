@@ -1,2 +1,0 @@
-★Are there any graphical modelling tools for Oozie?
-Hue comes with an Oozie app with a drag & drop Workflow editor and wizards for creating Coordinators and Bundles, all without touching XML. It comes with a new Oozie dashboard too. Some video tutorials are available.    Embed Quote

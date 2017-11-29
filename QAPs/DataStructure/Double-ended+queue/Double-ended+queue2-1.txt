@@ -1,2 +1,0 @@
-Do any programming languages allow a pop from the bottom of the stack?
-JavaScript supports shift() and unshift(), which are the bottom-of-stack equivalent of push() and pop(). Perl also has shift() and unshift(), as does Ruby, PHP, and lots more. It's a whole thing. But the answer is yes. 

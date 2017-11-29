@@ -1,1 +1,0 @@
-What is the best way of dynamically setting alert thresholds for time-series data?You can start with open source project Kale for time series anomaly detection and time series search - Introducing Kale . Then you can easy add your own custom algorithm for anomaly detection if the existing algorithms are not working for you.

@@ -1,2 +1,0 @@
-Unix Commands: What are some easy ways to recover files from rm -rf?
-Adding to Syd Logan's answer: Restore from filesystem snapshot (see ZFS, NILFS, LVM, Solaris SVM) 

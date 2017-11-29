@@ -1,2 +1,0 @@
-What is complexity of T(n) = 2T(n/2) + C, using recurrence equations?
-Using the Master theorem, T(n) = a.T(n/b) + O(n^d) Here a = 2 b = 2 d = 0 here a > b^d So, time complexity = O(n^(log 2 base 2)) = O(n) 

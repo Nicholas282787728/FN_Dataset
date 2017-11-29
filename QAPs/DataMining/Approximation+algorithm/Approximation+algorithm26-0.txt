@@ -1,2 +1,0 @@
-★What are some applications of semidefinite programming?
-The best known approximation algorithm for the maximum cut problem uses semidefinite programming.    Embed Quote

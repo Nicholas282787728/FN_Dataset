@@ -1,2 +1,0 @@
-What is the most recommended coding language for creating full blown human AI?
-A good general-purpose language would be good enough for implementing general purpose AI. Therefore OCaml, Haskell, Scala, perhaps F#. 

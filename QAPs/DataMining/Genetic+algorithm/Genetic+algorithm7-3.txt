@@ -1,2 +1,0 @@
-★What are some real-world applications of genetic algorithms?Answers should point to specific usages, not potential ones.
-GA is a valuable tool in auto-calibrating trading strategies; one can actually have several trading strategies constantly backgrounding with a dynamic set of fitness criteria set by market conditions. This way, the algorithms slowly adapt to fundamental changes while the portfolio engine rapidly optimises to changing market conditions. Any environment requiring uncertain fitting to certain parameters is a great space for GA.    Embed Quote

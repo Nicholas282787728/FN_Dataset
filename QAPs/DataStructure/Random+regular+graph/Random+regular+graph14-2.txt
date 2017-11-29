@@ -1,2 +1,0 @@
-Is there any way to choose a random node from a tree without searching all nodes in the tree?
-No. Not statistically, anyway, but non-probabilistic Knuth randomness is trivial. If you store the number of descendants at each node, it's easy. But that's O(n). Still, you have the tree, don't you? How did it get there, magic? 

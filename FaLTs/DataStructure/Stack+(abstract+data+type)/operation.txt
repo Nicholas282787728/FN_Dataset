@@ -1,1 +1,0 @@
-Enumerating all the items Enumerating a section of a tree Searching for an item Adding a new item at a certain position on the tree Deleting an item Pruning: Removing a whole section of a tree Grafting: Adding a whole section to a tree Finding the root for any node

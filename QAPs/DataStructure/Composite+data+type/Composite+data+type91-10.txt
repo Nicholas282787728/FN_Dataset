@@ -1,2 +1,0 @@
-What are the frequently asked basic and complex queries ( SQL) during a tech interview?
-Explain (or write) a correlated subquery Write a query that will find all duplicates in table X 

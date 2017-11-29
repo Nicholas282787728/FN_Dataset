@@ -1,2 +1,0 @@
-How does mathematics play a big role in programming?
-Programming doesn't necessarily have to involve heavy math...unless you're bundling basic logic into that.  If you understand basic Boolean logic and maybe some set theory then you should be fine for most programming.  However, if you want to write a graphics engine or do some kind of physics simulation, then obviously the domain requires some more advanced math.  I wouldn't say that a high level of mathematics is required for programming though. 

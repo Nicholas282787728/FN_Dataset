@@ -1,2 +1,0 @@
-★Should I learn SVM or neural networks?
-Learn how to use a SVM, learn how to code a Neural Network. The algorithms you use for your NN will open the doors to many other algorithms and variants of Neural Networks.    Embed Quote

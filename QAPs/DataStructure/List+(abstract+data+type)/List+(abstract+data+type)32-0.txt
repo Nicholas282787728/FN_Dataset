@@ -1,2 +1,0 @@
-How abstract data type work with call stack?
-All The ADT like Array, set, tree, list take up memory in Object heap. They implement their own memory management inside their object space(memory).This depends upon the use of data structure. 

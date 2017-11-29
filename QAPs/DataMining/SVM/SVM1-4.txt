@@ -1,2 +1,0 @@
-★Support Vector Machines: What is the best way to implement an SVM using Hadoop?
-Here's an example of a proximal svm in python and hadoop streaming: http://atbrox.com/2010/02/08/par...    Embed Quote

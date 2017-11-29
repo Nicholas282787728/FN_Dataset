@@ -1,2 +1,0 @@
-Do any programming languages allow a pop from the bottom of the stack?
-You can design your data structure your way, Programs do what you have written in it and programming language is irrelevant here. but if you design data structure which allows to pop from bottom then it won't be stack, it's kind of queue. Built in functions provided by different languages might not allow to pop from bottom of the stack. you need to  program stack to make it behave your way but then don't say it stack.  

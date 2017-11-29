@@ -1,2 +1,0 @@
-What is the size of the Boolean data type in Java?
-Not defined in Java specs see: Primitive Data Types 

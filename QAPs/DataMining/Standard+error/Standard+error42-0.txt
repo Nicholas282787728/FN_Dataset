@@ -1,2 +1,0 @@
-★How can a team standardize on IDE error/warning levels?
-Easy: Automate builds and have that set the required standard. The developers will soon be motivated to adjust their IDE settings to match the build engine, especially if "shaming" practices are employed when the build is broken!    Embed Quote

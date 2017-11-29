@@ -1,2 +1,0 @@
-What are the 10 algorithms one must know in order to solve most algorithm problems?
-Top 10 algorithms will be very difficult to choose, and will not do justice to other awesome algorithms. So, I will list out few important algorithms and data structure one should know – Insertion sort or Selection sort or Bubble sort Merge Sort, Quicksort Binary Search Breadth First Search (BFS) Depth First Search (DFS) Lee algorithm | Shortest path in a Maze Flood fill Algorithm... (more)

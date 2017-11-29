@@ -1,2 +1,0 @@
-★Why would an IT department disable POP3, IMAP & SMTP?quoting "security reasons" - what are these?
-Presumably so that the email you have in the office (which I am assuming is Web based) cannot be downloaded, saved/synced to another device. Plus email management is easier in your security department's opinion - if it is centralized and not downloaded. Alternatively, if there is no need for email in your organization, then opening these ports/services on the network is useless. These common ports can very easily be exploited for sending out spam, etc.    Embed Quote

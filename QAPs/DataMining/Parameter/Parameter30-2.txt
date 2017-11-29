@@ -1,2 +1,0 @@
-★In the C programming language, can a void function return any parameter?
-If it gets a copy of parameters(e.g. ints, bools), whatever changes made does not get returned. Say you have a void function that takes a=1 and add 1 to it, when you return, a is still 1. But if it gets a reference(i.e. pointers), the changes made does get reflected outside the function. Say you have a=1, b=&a, adding 1 to *b results in a becoming 2 when you return.    Embed Quote

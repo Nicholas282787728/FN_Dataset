@@ -1,1 +1,0 @@
-How do you make a two or three or n dimensional array in java (not javascript)?T [][]... [] name = new T [size0][size1]... [sizen] Where T is the type of elements in the array, and size0, ..., sizen are the sizes of the dimensions. 54 Views

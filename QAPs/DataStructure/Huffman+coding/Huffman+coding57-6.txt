@@ -1,2 +1,0 @@
-What are some examples of problems for which a priority queue proves useful?
-An example is customer order scheduling. If you are on full capacity production, and an important customer places an urgent order, which orders should be delayed? 84 Views

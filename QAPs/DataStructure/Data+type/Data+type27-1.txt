@@ -1,2 +1,0 @@
-Why is the C language known as rich & powerful in its data type?
-Originally Answered: Why C programming is rich in data types? Because you can combine the basic types: long long, long, int, short, char (along with the signed/unsigned modifier) and pointer by using union, struct and define additional types using typedef. 109 Views

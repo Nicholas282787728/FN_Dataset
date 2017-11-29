@@ -1,2 +1,0 @@
-★Are there any compelling examples where machine learning has "discovered" insights from large sets of unstructured data?
-Not exactly an answer but... It's important to keep in mind that machine learning is a tool, and discoveries are made by tool users.  It would be like asking if there are any examples of large telescopes "discovering" new galaxies.  No matter how good your telescope, you'll still need a top-notch astronomer to do the discovering.    Embed Quote

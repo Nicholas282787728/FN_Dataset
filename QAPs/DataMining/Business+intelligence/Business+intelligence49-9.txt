@@ -1,2 +1,0 @@
-Business Intelligence: What's the BI software/application landscape going to look like in the next 5 years?
-BI will go mobile! People like to work on the go. This is the trend and many software has mobile version, like Jaspersoft: Jaspersoft Mobile Analytics, Microstrategy: Mobile App Platform by MicroStrategy BI software will become more agile. Users without strong technical background can also use such kind of tool.    Embed Quote 

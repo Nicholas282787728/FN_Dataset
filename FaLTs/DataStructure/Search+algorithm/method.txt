@@ -1,2 +1,0 @@
-Data structures can include linked lists, arrays, search trees, hash tables, or various other storage methods.
-There are also search methods designed for quantum computers, like Grover's algorithm, that are theoretically faster than linear or brute-force search even without the help of data structures or heuristics.

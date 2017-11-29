@@ -1,2 +1,0 @@
-What should one do to crack the interview at Tower Research Capital?
-Tower likely has a need for C/C++ developers, so I would study: C++ syntax C++ generics / templates (including template metaprogramming (which might seem like overkill but can sometimes be necessary when speed is required) Probability Theory Basic data structures and algorithms (especially the STL) 

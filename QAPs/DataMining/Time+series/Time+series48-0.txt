@@ -1,2 +1,0 @@
-★How can I measure the dispersion of a set of time series?
-Do you have a similar number of instruments in each region, and are the instruments calibrated accurately enough that we don't have to worry about systematic errors? If so, how about the simple approach? Total up the daily rainfall on each instrument. Each day, calculate the standard deviation of each region's sample. Rank the regions by average standard deviation. Done.    Embed Quote

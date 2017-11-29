@@ -1,1 +1,0 @@
-Can you construct a sinusoidal function using only a straightedge and a compass?I assume it's impossible, due to the issue of squaring the circle - however, I know you CAN construct square roots, which are solutions to sine - does this make at least a convincing approximation possible?

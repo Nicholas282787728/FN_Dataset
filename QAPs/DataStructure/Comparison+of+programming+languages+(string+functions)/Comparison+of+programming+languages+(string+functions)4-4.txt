@@ -1,2 +1,0 @@
-What does a program written in a programming language without lexical scoping look like?Please include actual code examples.
-Garbage. 

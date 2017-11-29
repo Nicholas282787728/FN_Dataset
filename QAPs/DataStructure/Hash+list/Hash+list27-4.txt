@@ -1,2 +1,0 @@
-Is MongoDB a good replacement for Memcached?
-FWIW, we moved a large portion of our data from a sql+memcache setup to mongodb.  That's certainly not the right solution for every problem, but for us, the less moving parts the better.  mongo uses the operating system's file cache to keep recently accessed data in memory.  it doesn't fsync by default which allows for a very fast right through cache like behavior.   also, it's not a key-value store.  it's schemaless, but the data is structured and you can create multiple indexes on each collection (analogous to a table). 

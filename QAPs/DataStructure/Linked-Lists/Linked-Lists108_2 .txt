@@ -1,1 +1,0 @@
-What is the difference between an array, a list, and a linked list?An array is contiguous memory that is addressable by integer index. A list (or linked list) is a sequence of nodes, linked by a pointer. The canonical example is a CONS list in Lisp or any functional language, or a singly linked list in imperative languages. 4.2k Views  View Upvotes

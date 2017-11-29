@@ -1,2 +1,0 @@
-★What is the difference between baud rate and bit rate?
-baud rate is the rate at which symbols are transmitted while the bitrate being the no of bits transmitted per second. check this link for more detailed answer What’s The Difference Between Bit Rate And Baud Rate?

@@ -1,2 +1,0 @@
-★If f(a+b) = f(a) + f(b) and f is differentiable, what is f'(x)?Let be a continuous function such that , for all . Find the derivative of with respect to .
-You have two good answers. The only thing I would add is that this is known as Cauchy's functional equation.    Embed Quote

@@ -1,1 +1,0 @@
-How do I get rid of the brackets after splitting an array in Python?What is it exactly what you want to get? You can use: In [1]: arr=[1,4,“string”,92] In [2]: a = [str(x) for x in arr] In [3]: a Out [1]: ['1', '4', 'string', '92'] in iPython 50 Views

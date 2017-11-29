@@ -1,1 +1,0 @@
-Why does the slope of this derivative change on the given interval pictured in the graph?I'm having trouble understanding why f' changes from positive slope to negative slope in the interval (shaded blue) even though in f that same interval remains to have a positive slope (shown by the red arrow).

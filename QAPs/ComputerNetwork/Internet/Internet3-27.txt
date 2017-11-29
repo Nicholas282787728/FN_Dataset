@@ -1,2 +1,0 @@
-★What will be the next big trend on the Internet after "search" of Google and "social" of Facebook?
-The next big trend will be Software Provenance, the foundation for making the applications people use be reliable and work together.   This includes basic trust, i.e. that a particular piece of software has known privacy implications and is not Malware. Apropos of this comment about reliability and security: The dawn of trustworthy computing (by Nick Szabo, of BitCoin fame) Portlandia: Technology Loop

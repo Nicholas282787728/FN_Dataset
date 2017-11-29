@@ -1,4 +1,0 @@
-Why is beam search required in sequence to sequence transduction using recurrent neural networks?
-Is it possible to generate a target sentence without using beam search. Yes. But will that target sentence be good? Probably no.
-
-The naive softmax layer that the paper uses gives you a vector the size of the output vocabulary (80,000 words in this case), each element corresponds to the probability of the word at that index being the next output word. Now there are several things you can do.

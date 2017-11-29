@@ -1,2 +1,0 @@
-What tools are out there to measure the effectiveness of my campaign landing page?
-Google Analytics is all you need for the metrics. A Google Certification in analytics helps you interpret the metrics and set up some fairly complex custom tracking and reports. How you define "effective" in terms of available Key Performance Indicators, reasonable expectations, and your micro and macro goals is the hard part. 

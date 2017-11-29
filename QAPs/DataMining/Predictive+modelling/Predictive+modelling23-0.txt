@@ -1,2 +1,0 @@
-★What is predictive modeling software used for?
-We are using to predict water quality on Ohio river. See - Home - Recr8OhioRiver We are using multilayer perceptron module of WEKA workbench to build the model and then use its JAVA API to get live predictions.    Embed Quote

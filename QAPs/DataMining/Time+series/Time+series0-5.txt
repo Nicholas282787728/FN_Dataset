@@ -1,2 +1,0 @@
-★What are some fantastic books on time series analysis?
-"Time Series Analysis: Forecasting & Control" by George Box, Gwilym M. Jenkins and Gregory Reinsel is a standard in Time Series Analysis. http://www.amazon.com/Time-Serie...    Embed Quote

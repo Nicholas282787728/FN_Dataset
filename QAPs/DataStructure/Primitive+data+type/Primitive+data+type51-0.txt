@@ -1,2 +1,0 @@
-Is Objective-C as compiled by gcc, C99 standards compliant for fixed width integer types?
-since there are no primitive data types in obj c, and data types like int are treated a c types, so they are complaint for fixed width integer types. Moreover fixed width integer types works seamlessly on ARM processors so no problem in using them. 
