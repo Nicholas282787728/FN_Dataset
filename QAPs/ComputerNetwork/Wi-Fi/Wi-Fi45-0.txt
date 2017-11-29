@@ -1,0 +1,2 @@
+★Which Wi-Fi protocols support Wi-Fi tracking systems without consumer/attendant authorization?
+Assuming the tracker has a wifi to geolocation map and the ability to identify which wifi network you are on, wouldn't all of them support tracking?    Embed Quote

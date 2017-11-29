@@ -1,0 +1,2 @@
+How do you find the time complexity of a function given as T(n) = 2*T(n/2) + n^4, using the recursion tree method?
+1. Draw the tree with a n---> (n/2) , ( n/2)  split at each node 2. At each node 'n' we do n^4 work. 3. At each i'th stage of the tree you do ((n^4) * 2^i ) / 2^(i*4) work =((n^4)/2^(3*i) work 4. This is basically a converging series with (log(n)+1 ) terms ; a common diff factor of 1/2^3 . Solve the sum of teh series and we get Const * n^4 =O(n^4) 

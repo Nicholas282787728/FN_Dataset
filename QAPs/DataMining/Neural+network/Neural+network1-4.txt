@@ -1,0 +1,2 @@
+★Neural Network: Is there any online course for neural network?
+Besides Geoff Hinton's Coursera Course: Neural Networks for Machine Learning, there is also a more recent course by Hugo Larochelle: e.g.    Embed Quote

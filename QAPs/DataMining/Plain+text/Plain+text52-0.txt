@@ -1,0 +1,2 @@
+★How do I turn every email from Mac Mail into plain text files?I use Mac Mail. I want to turn all my email messages into a separate file (with full headers).  Then, I want to copy all of these files and back it up. How can I do this?
+In fact, Apple Mail stores all of your e-mail messages as separate files with full headers. They are the files ending with .emlx that are located in the various sub-directories of ~/Library/Mail. You could back them up to a file like so (from the Terminal): find ~/Library/Mail -name \*.emlx | tar czf ~/Desktop/Emails.tgz -T -    Embed Quote

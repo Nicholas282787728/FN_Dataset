@@ -1,0 +1,2 @@
+Given an array of integers of size N, how can we find the most frequently occurring element in linear time?
+Radix sort in base 2^8 (or 2^16, do your benchmarks if you need to) will be awesomely fast in practice. It only requires four (or two) passes, and a small amount of auxiliary memory. It is cache-friendly and simple, so my guess is that it will be even faster than any kind of hashing. Plus, you get the worst-case O(n) time guarantee. For more details, see Anders Kaseorg's answer to What is the most efficient way to sort a million 32-bit integers? 

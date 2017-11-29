@@ -1,0 +1,2 @@
+★I have an adjacency matrix that is boolean and of the form http://en.wikipedia.org/wiki/Adj.... Is there a utility that can help me directly populate the graph structure from this? Something like inmaps
+Graphviz is the standard graph visualization software, but you'll have to do a little bit of work to get your graph in the right input form.    Embed Quote

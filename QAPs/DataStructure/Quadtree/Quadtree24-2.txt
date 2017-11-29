@@ -1,0 +1,2 @@
+How can I find the center of an array of geocodes?
+I would use the ArcGIS function to calculate the geographic center of all those points. I wouldn't know how to explain the algorithm, though. 

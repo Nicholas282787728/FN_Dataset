@@ -1,0 +1,2 @@
+Why is modern Fortran cool?
+The main benefit of FORTRAN is its lack of features, which makes it essentially impossible to write code with any kind of expensive overhead or to accidentally include something which will render a parallelizable algorithm non-parallelizable.  Automatic, compiler-level optimization is a tough problem, but in FORTRAN it's a little easier. 

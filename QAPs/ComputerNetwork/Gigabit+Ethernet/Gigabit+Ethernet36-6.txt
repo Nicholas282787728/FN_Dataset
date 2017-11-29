@@ -1,0 +1,2 @@
+★What are the benefits of using an ethernet cable over a wifi router?
+Constant distance between Modem and Workstation will enable less disturbance and max data transfer.

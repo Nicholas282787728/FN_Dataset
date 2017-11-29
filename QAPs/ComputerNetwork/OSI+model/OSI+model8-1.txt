@@ -1,0 +1,2 @@
+★To which layer of osi model BGP belongs to?
+it belongs to application layer in osi layer    Embed Quote

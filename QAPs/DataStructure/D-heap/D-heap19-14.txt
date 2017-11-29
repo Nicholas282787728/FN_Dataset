@@ -1,0 +1,2 @@
+What all basic data structures and algorithms should one learn before starting competitive programming?
+Originally Answered: I've just started competitive programming. Where can I find the must-learn algorithms?TopCoder provides tutorials on algorithms too just google search topcoder algorithm tutorials, click on the first link and follow that article. 

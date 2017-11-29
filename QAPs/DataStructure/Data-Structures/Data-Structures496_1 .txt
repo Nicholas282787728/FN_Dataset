@@ -1,0 +1,1 @@
+What are the applications of a binary search?The most obvious application I can think of is your computer’s very own file system. With a root and each subsequent directory serving as a child node. 25 Views

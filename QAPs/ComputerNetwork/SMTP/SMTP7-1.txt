@@ -1,0 +1,2 @@
+★What is the best contact form with SMTP support Wordpress plugin?
+Setting up an SMTP plugin does not guarantee that emails from a contact form will be delivered. There is still the possibility that Gmail and other email providers will flag some of the messages as SPAM. Transactional email services like Postmark App and Mandrill can help with these issues and both have plugins available in the WordPress Plugins Directory.    Embed Quote

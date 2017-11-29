@@ -1,0 +1,2 @@
+What is difference between EMPTY and NULL string in Java?
+It's the same difference as having an empty box vs. no box at all. 

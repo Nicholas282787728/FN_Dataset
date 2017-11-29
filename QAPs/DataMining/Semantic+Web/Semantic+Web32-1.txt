@@ -1,0 +1,2 @@
+★Semantic Web: how to query in neo4j?
+You can use Cypher query language of neo4j,Gremlin is also there. or you could use the traversal framework of neo4j to query from Java API    Embed Quote

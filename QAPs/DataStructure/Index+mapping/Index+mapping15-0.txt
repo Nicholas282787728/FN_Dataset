@@ -1,0 +1,1 @@
+In hibernate mapping file (hbm) how do I specify multiple composite index that shares a common column?

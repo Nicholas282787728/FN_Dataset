@@ -1,0 +1,2 @@
+★What is my IP address?What is my Google hangouts ip address
+If you do not have an internet connection, the only way you have is to query your OS. sudo ifconfig -a | grep 'inet' In a Linux or Unix, this will give you IP addresses for all your interfaces. IPv6 addresses will be prefixed by '6'

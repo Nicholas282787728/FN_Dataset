@@ -1,0 +1,2 @@
+★How do I visualize interconnected nodes?I have a total of 54 nodes which are interconnected. They are connected on basis of some variable, let's call it affinity. Some have high affinity while others have low. I want to make a visualization where I can draw these 54 nodes and also distinguish them based on their affinity values (or weightage).
+You can give a try to data visualization concepts using d3.js or highcharts. D3.js having a node graph chart already.    Embed Quote

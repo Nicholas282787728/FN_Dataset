@@ -1,0 +1,1 @@
+Why are hash functions one way?

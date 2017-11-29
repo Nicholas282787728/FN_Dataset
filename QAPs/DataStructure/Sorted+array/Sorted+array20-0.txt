@@ -1,0 +1,2 @@
+Given a sorted array of numbers. Construct a balanced binary tree with the numbers in the Array as keys?
+For creating balanced Binary Tree, it is very simple, read the first array element, create a new Node with data and put it in queue. Now, do the below operations until the queue is empty. Dequeue the data(Node) from queue and populate its left and Right child with data from array. put the Left and Right child created in step 1 in Queue. For creating Balanced Binary Search Tree, So what we will do is,... (more)

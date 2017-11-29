@@ -1,0 +1,2 @@
+What is misleading line graphs?
+Take a look at this blog by Jon Peltier. Bar Chart Value Axis Scale Must Include Zero - Peltier Tech Blog The method (which he tells people not to use) can be very misleading when applied to line charts. A technique I've used in the past and is very effective and easily missed by most people. Once you are aware of this deception you'll instantly spot it and then go for whoever prepared the chart or is presenting the data. 138 Views · Answer requested by Dion Poindexter

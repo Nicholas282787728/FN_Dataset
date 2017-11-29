@@ -1,0 +1,2 @@
+Which topic should be perfect in c to learn data structures in c?
+Do you mean "learn data structures" or "learn the syntax of data structures in C"? You can't :learn data structures in C".  Data structures is a subject you learn in English.  C syntax to handle data structures is something you learn in C.  If you don't know data structures, you aren't going to learn them in C, you'll just learn the syntax of something you don't understand. 

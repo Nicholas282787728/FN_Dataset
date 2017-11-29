@@ -1,0 +1,1 @@
+No, You can not return an entire array but you can return address of any index of the array and access the entire array by decreasing/increasing the returned address. Its a good practice to return the address of first element of array. 

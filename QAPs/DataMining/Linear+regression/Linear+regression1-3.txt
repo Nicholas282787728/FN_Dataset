@@ -1,0 +1,2 @@
+★When are random forests better than linear regression?
+I may be wrong but out of my experience I can say if you have decently minimal dataset regression techniques are substantially fast. For larger datasets distribution, Random forests are recommended. One take away is if you think it's slow there is always a preferable way like regressions or SVM's.    Embed Quote

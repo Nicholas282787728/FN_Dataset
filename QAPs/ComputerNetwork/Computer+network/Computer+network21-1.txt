@@ -1,0 +1,2 @@
+★How do I learn Computer Networking in an effective and practical way?
+I started with W. Richard Stevens TCP/IP illustrated. This was after I accepted a job offer in another country. I studied this book and did the exercises at the end of each chapter in the two months it took to move and get visas. When I started the job, I was considered an expert in IP, but had known nothing about it 2 months earlier. It's an old book now, but everything in it is still relevant. He uses SLIP for many examples. Sure, SLIP is no longer used, but the examples are still relevant.

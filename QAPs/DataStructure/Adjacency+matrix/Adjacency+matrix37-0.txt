@@ -1,0 +1,2 @@
+How do I implement a depth first search C++ function, that takes an adjacency list and an adjacency matrix as parameters?
+The DFS algorithm should operate independently of the graph representation.  DFS should proceed from node to node until no options of nonexplored nodes are available.  The graph should provide a function for getting the directly connected nodes of a given node.  The implementation of that function is the one that should have knowledge of the representation (adjacency list vs adjacency matrix). 

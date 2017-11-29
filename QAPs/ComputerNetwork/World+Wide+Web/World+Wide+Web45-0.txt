@@ -1,0 +1,2 @@
+★Where can I get a list of all outages of major websites since the World Wide Web took off?
+This doesnt provide a history of all outages, but www.netcraft.com gives data on a web site's downtime history. For the site you ask for. Been using Netcraft to query 'whats that site running?' too!    Embed Quote

@@ -1,0 +1,2 @@
+Data Modeling: When should we not use a relational database?
+Let's say that you want to build a web-scale search engine. There's a lot of data, and most of the operations on the data don't map that well to SQL: either it's boring CRUD (create read update delete) operations on denormalized data, or it's the kind of lookups which are pretty expensive in SQL but are easy (ok, easier) to special-case in your NoSQL database. What would you do? No one's done a web-scale search engine in SQL since Altavista.    Embed Quote 

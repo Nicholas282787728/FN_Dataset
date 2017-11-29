@@ -1,0 +1,2 @@
+What are some good resources on data structures like Tries, Suffix Trees and Suffix Arrays?
+Check the video on Suffix Trees and the LCP array construction here: ECS 222A - Graduate Level Design and Analysis of Efficient Computer Algorithms - Mostly from Fall 2007 - Gusfield Tries are simple enough that reading the article should explain what they are all about. 

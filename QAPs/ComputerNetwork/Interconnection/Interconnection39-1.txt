@@ -1,0 +1,2 @@
+★What is Open Source Interconnection (OSI) ? What are layers?
+I think you are mistaken for Open Systems Interconnection (OSI). OSI is an abstract model for standardizing the communication system. This model consists of seven layers. The layers works as a heirarchy for generating the data packets to be sent on network as well as receiving them in order to extract the message in it.    Embed Quote

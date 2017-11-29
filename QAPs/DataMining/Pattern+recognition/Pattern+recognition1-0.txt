@@ -1,0 +1,2 @@
+★Is there any forum for pattern recognition?I have questions like this: Is geometric hashing the best way to assembly DNA molecules from optical mapping? What is the best algorithm for clustering images of irregularly interspaced run of dots based on subregional similar pattern?
+I would suggest you to check the subreddit for machine learning: Machine Learning • /r/MachineLearning    Embed Quote

@@ -1,0 +1,2 @@
+What's the best book for learning B and B+ tree?
+they've got B Tree in The Introduction to Algorithm and B+ Tree in the exercises section of the B Tree Chapter 

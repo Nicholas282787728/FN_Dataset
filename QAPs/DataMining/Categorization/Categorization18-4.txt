@@ -1,0 +1,2 @@
+What is the best way to track and categorize academic papers that I've read in the course of doing research?
+If you're using a Mac, I would recommend BibDesk (http://bibdesk.sf.net) and Papers (http://www.mekentosj.com/papers/). I used both extensively during my PhD and still do.    Embed Quote 

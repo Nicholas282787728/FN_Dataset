@@ -1,0 +1,2 @@
+Are there any real reasons to be excited about quantum computing?
+Yes. A quantum computer can be used to do a lot more than just to break the RSA code faster than a classical computer. It can also be used to solve computation intensive problems in a matter of hours that would take years or decades to solve using classical computers. Such problems fall under the class of BQP (Bounded Quantum Polynomial) problems. 

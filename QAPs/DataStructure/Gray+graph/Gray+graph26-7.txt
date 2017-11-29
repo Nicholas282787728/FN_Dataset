@@ -1,0 +1,2 @@
+Which CS areas have the most low-hanging fruit for research?
+Computer Vision. There are a lot of things now possible simply because computers are getting faster and more parallel, but the algorithms are well-known and straightforward.  (For example see recent developments in scene reconstruction and depth information using structured light.) 

@@ -1,0 +1,2 @@
+How do you solve for y in the equation y 2 +2y=x−1  , and is this a function?
+To solve this equation for y I would suggest that you add1 to both sides and then factorise the resulting quadratic in y. You will get (y+1) 2 =x  If you now square root both sides you get y+1=x  √   so y=±x  √ −1  In this case, y is not a function of x, because you can get two values of y for every one value of x. However, it could be said here that x is a function of y. Updated 21 Sep 2011 • View Upvotes

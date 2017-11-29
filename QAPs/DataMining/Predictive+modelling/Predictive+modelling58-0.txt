@@ -1,0 +1,2 @@
+★Predictive Modeling: What is this statistical weighting method called?
+It's called a temporal credit assignment problem, and is well defined in the Reinforcement Learning field (a modern variant of dynamic programming, Reinforcement learning). You can use non-temporal methods (such as bayesian logistic regression) by expanding each time step as an additional input if the period of time you want to tract is short enough.    Embed Quote

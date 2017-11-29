@@ -1,0 +1,2 @@
+When would I want to (theoretically) use a van Emde Boas data structure vs a Fibonocci Heap? What are the advanatages van Emde Boas have over Fibonocci Heaps?
+They support different operations. Fibonacci heaps support fast remove-min, find-min, decrease-priority, and insert. Van Emde Boas trees support all of the above but also fast find, floor (predecessor), and ceiling (successor). 327 Views · 1 Upvote

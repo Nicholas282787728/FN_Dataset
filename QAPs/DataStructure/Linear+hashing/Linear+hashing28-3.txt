@@ -1,0 +1,2 @@
+What are some applications of algorithms in theoretical computer science to problems in practice?
+Consistent Hashing (authors went on to found Akamai based on the idea): Consistent hashing 

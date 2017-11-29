@@ -1,0 +1,1 @@
+What is the maximum number of comparisons that a binary search function will make when searching for a value in a 1,000 - element array?If the array is unsorted and if the element is not present 1000. If the array is sorted: it would be 1000 log base 2. (9.965784) I'm calling it 10. 4.8k Views

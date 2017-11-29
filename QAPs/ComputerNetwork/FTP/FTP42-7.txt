@@ -1,0 +1,2 @@
+★How do I access the FTP on my WordPress site?
+There is no separate FTP access for WordPress, access your website using a regular FTP client like Filezilla, you'll find WordPress installation files in root folder once you connect.

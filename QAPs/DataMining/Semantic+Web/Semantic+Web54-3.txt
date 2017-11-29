@@ -1,0 +1,2 @@
+★Is the semantic web a silver bullet for all my problems modeling the world in a relational database?
+Theoretically yes. Practically, unless you are prepared to receive theoretical payroll, transfers that theoretically will happen sometimes, and bills that theoretically should be correct, nowhere near.    Embed Quote

@@ -1,0 +1,2 @@
+What is the SQL code to transform a data set?
+Use listagg function..    Embed Quote 

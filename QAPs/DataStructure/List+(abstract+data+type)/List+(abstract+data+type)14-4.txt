@@ -1,0 +1,2 @@
+How do you Explain "Abstract Data Types" in layman terms?
+A guideline or a description to creating a data structure. A data structure, itself, is something used to store data effeciently. 

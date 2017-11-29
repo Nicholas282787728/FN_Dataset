@@ -1,0 +1,2 @@
+Is this a valid way of proving that [math]\displaystyle\int^b_{a}xdx=\frac{b^2-a^2}{2}[/math]?
+The integral of the graph [math]y=x[/math] from [math]x=a[/math] to [math]x=b[/math] is the area of a trapezium whose parallel sides are [math]a[/math] and [math]b[/math] units long and are [math](b-a)[/math] units apart. The result is thus proved by noting that the area of such a trapezium is [math]\frac{a+b}{2}\times(b-a)=\frac{1}{2}(b^2-a^2)[/math]. 

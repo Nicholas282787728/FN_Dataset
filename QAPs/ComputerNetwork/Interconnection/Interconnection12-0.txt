@@ -1,0 +1,2 @@
+★What are Interconnect bypass and GSM gateway bypass?Describe the call scenario for both and detection method without any prior detection device? How to detect these types of spoofing calls from CDR'S?
+Hypermedia Systems have in our gateways a safe procedure to allow to maintain communication even when a problem is detected at our Gateway. There is an actual button in our gateway that allows for bypass, which then connects the PBX with the PRI not through the gateway. It is a safety measure. FYI - see: Gateways GSM | Hypermedia Systems    Embed Quote

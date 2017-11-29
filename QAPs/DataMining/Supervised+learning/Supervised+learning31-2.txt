@@ -1,0 +1,2 @@
+★What are the best statistical methods for analyzing the performance of a supervised learning algorithm with binary outputs (labels)?Obviously you can produce a confusion matrix and look at the number of true-positives and false-negatives, but what other methods are informative?
+I would also recommend looking in to f1 scores. F1 score Oftentimes, an F1 score will give you enough information to be able to value accuracy and accounts for bias in a common case like having 100,000 wrong answers and 1 right one.    Embed Quote

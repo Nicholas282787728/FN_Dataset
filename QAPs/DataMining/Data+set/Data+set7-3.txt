@@ -1,0 +1,2 @@
+What is the best way to implement an autocomplete search feature when dealing with large data sets?
+IndexTank was just open-sourced. It supports real-time updates and has autocomplete functionality built in (http://indextank.com/documentati...) .    Embed Quote 

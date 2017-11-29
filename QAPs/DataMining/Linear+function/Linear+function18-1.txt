@@ -1,0 +1,2 @@
+★Why is it that in physics we treat dx^i as an infinitesimal displacement/quantity whereas in math dx^i is a linear functional that has no sense of smallness?Is there any link between the two forms of intuition?
+The dx/ds is treated like infinitesimal quantity because is the very reason why Newton and Leibnitz invented this kind of calculus. In the infinitesimal calculus one will take the limit of s1-s0 to zero such that to approach smaller and smaller sizes.    Embed Quote

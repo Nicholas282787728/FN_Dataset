@@ -1,0 +1,2 @@
+★Is hypothesis testing conducted during regression analysis? If so, what is an example?
+The coefficient of every regressor as well as the intercept are tested to see whether they are significantly different from zero. Coefficients, standard errors, t-values and p-values are shown in the screenshot below. The F test is used to identify multiple restrictions to the model and to compare the specification to one with just the intercept.    Embed Quote

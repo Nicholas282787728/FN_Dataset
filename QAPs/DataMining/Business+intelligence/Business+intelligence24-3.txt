@@ -1,0 +1,2 @@
+What is the difference between a data scientist and a business intelligence analyst?
+To over simplify for clarity - Data Scientists uses complex statistical techniques to develop a model to understand and predict the behavior of what they are looking at. BI Analysts are using a tool to create a dashboard that show measures of performance.  There are 2 levels of difference - one from the difference between research and business intelligence and the second from a level of education and experience.    Embed Quote 

@@ -1,0 +1,2 @@
+★What do knowledge bases mean, and how can I build my own knowledge base application?
+Knowledge base is a self-service support system where all the frequently asked questions are listed along with the answers. This way the customers can get instant help without requiring to call or email the support Many help desk softwares like Happyfox have Knowledge Base Software | FAQ System | Self Service Portal which can be implemented easily.    Embed Quote

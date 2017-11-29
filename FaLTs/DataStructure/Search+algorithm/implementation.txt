@@ -1,0 +1,1 @@
+This allows obtaining completely new algorithm that offers extremely efficient implementation and exhibits outstanding performance. The different FPGA generations have been considered as target families for the searching algorithm based on the dynamic programming idea.

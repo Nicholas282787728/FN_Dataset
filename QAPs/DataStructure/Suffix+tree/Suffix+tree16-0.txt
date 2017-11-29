@@ -1,0 +1,2 @@
+What is the method to build suffix tree or suffix array in O(n)?
+It's the Ukkonen's Algorithm. For implementation details, refer to this Epic Answer Ukkonen's suffix tree algorithm in plain English? . 

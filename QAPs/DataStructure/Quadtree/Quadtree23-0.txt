@@ -1,0 +1,2 @@
+What are some variants of grid-like fractals?
+I asked this question a couple months ago, since then I've found what I was looking for.  I had wanted to use this object to map the 16 personality types of the Myers Briggs Type Indicator.  Works great. Can anyone think of another object that has this structure? Quadtree 

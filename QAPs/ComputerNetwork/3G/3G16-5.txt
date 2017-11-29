@@ -1,0 +1,2 @@
+★Where is the "Enable 3G" option in the iPhone 4S settings?What section in iPhone 4S settings is the "enable 3G" option and is it still called that?
+This functionality was not available in iOS 5 on iPhone 4S. Update to latest version of iOS to obtain the fucntionality once again. The latest version of iOS available (as of March 6, 2014) is iOS 7.0.6 for iPhone 4S.

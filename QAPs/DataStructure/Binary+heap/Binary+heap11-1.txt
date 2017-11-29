@@ -1,0 +1,2 @@
+If we have a binary heap of n elements and wish to insert more n elements (not necessarily one after another) into this heap, what would be the total time required for this?
+If we have already made a heap of n  elements and now inserting another n  elements in one shot, then it should still take O(n)  time, because we can put all elements at once in the array and then use heapify bottom-up which would take O(n)  . But we are not given the elements at once, then we need to insert an element and run heapify for an element and so on, then it should take O(n∗logn)  

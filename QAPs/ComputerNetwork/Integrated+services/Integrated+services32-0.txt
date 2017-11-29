@@ -1,0 +1,2 @@
+★How does 3rd party web service integration work ?Is it possible to discuss some issues on api design and implementation over a sequence of Q&A series.
+Thanks for A2A As mentioned by Sandra Weddig many Application offer a RESTful interface. In such cases an integration is easy, even if the api changes during time. In such cases it is usual to offer different versions over time, so that external users have some time to adapt their changes. Regarding QA you can then write integration tests against a test user and stub for standart behaviour tests    Embed Quote

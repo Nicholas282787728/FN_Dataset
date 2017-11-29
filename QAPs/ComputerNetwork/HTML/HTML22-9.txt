@@ -1,0 +1,2 @@
+★What are the differences between HTML5 and HTML?
+Simply speaking Html5 is html  with more  tags  and elements.

@@ -1,0 +1,2 @@
+★How could I test if there is any DHCP server on the network?I'm using RHEL.
+You could also run nmap, and see who's listening on UDP port 67. Probably learn a lot of other interesting things as well. Caution: this will get you in big trouble if (a) there's a network security operation in place and (b) you're not it.

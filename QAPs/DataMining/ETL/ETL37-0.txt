@@ -1,0 +1,2 @@
+★Which ETL tool is Facebook using?
+See my answer here: Chris Schrader's answer to What is it like to be a data warehouse engineer at Facebook?    Embed Quote

@@ -1,0 +1,2 @@
+Why does gravity decrease beyond 4500 meters below sea level?
+We know by newtons law that each and every object in this universe attract each other. By the law it was also cleared that the force of attraction is directly proportional to the mass of the object and inversaly proportional to the diatance between them (this means more will be the distances less will be the force of attraction ) the range you have given in the line passing through which gravity decreases 

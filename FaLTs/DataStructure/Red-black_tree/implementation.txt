@@ -1,0 +1,1 @@
+In the algorithm above, all cases are chained in order, except in delete case 3 where it can recurse to case 1 back to the parent node: this is the only case where an iterative implementation will effectively loop.

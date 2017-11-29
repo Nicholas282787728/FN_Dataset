@@ -1,0 +1,2 @@
+★Is there a plain text note taking app on ios that allows internal hyperlinking to existing notes?Like the [[other note]] linking feature in notational velocity for OS X
+The only one I know of is Trunk Notes.    Embed Quote

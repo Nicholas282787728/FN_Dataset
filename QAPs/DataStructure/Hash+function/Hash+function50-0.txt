@@ -1,0 +1,2 @@
+What is a good hash function for a pair of integers?E.g. in C++ how should one hash std:pair<int, int>?
+You have to answer what is the purpose of your hash function. You also have to ask how accepting are you of collisions. What is the range of output of the hash function? And are there any special characteristics of the integer pair - such as range limits on the individual integers, or a relationship between one and the other. 

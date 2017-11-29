@@ -1,0 +1,2 @@
+★What's the difference between an ontology and a taxonomy?
+Taxonomy, or the grouping of like entities and associated naming of those groups, is only a part of ontology. In addition to taxonomy, ontology covers things like attributes of those entities as well as the relationship between other entities and groups/classes.    Embed Quote

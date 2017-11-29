@@ -1,0 +1,2 @@
+★In 20 random studies that reject the null hypothesis with a p value of .05, will one of those studies (on average) erroneously reject a true null hypothesis?
+Yes. And there may be a publication bias for such studies. (That is mostly speculation on my part.) On the other hand, most studies don't return a p value of exactly .05    Embed Quote

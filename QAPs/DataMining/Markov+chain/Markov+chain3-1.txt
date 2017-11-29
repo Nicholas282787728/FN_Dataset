@@ -1,0 +1,2 @@
+★How are Markov chains used in bioinformatics?
+HMM were introduced for Multiple sequence alignment in MSA tools. And further their application in gene-prediction tools was implemented. Various tools like Glimmer, genemark, genscan etc work on Interpolated or generalized HMMs. Nucleotide Annotation tools use HMM of 5th order generally and protein annotations are based on 2nd and 3rd order HMMs.    Embed Quote

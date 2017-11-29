@@ -1,0 +1,2 @@
+What are various collision detection methods in hashtables and how do you prevent or fix a collision? What is the best method?
+With all respect to Luis' answer, I'd suggest Hopscotch hashing as preferable to Cuckoo Hashing in most ways. 

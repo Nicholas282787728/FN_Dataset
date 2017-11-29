@@ -1,0 +1,2 @@
+What are some examples of real world application of a depth first search?
+Some real examples of graph traversal: Social Media. Facebook can be modeled as a graph of nodes. Traversal can be used to solve a maze and can be enhanced to provide road navigation. If I want to look at flights between two cities in the world, I can use a variant of graph traversal to give me all possible layover routes. This is the basis for kayak and cleverlayover’s algorithm. 1.5k Views

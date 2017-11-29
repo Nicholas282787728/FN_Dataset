@@ -1,0 +1,5 @@
+1-trees are the same as unrooted trees. 2-trees are maximal series-parallel graphs,[3] and include also the maximal outerplanar graphs. Planar 3-trees are also known as Apollonian networks.[4]
+
+The graphs that have treewidth at most k are exactly the subgraphs of k-trees, and for this reason they are called partial k-trees.[2]
+
+The graphs formed by the edges and vertices of k-dimensional stacked polytopes, polytopes formed by starting from a simplex and then repeatedly gluing simplices onto the faces of the polytope, are k-trees when k ¡Ý 3.[5] This gluing process mimics the construction of k-trees by adding vertices to a clique.[6] A k-tree is the graph of a stacked polytope if and only if no three (k + 1)-vertex cliques have k vertices in common.

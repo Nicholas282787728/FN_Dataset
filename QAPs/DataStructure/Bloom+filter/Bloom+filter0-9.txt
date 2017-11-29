@@ -1,0 +1,2 @@
+What are the best applications of Bloom filters?
+Bitly uses a bloom filter to avoid redirecting users to malicious websites. Check out dablooms for more details. 

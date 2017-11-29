@@ -1,0 +1,2 @@
+In a connected graph, for any two edges, how does one check if there exist at least one cycle that contains the two edges?N nodes，M edges，and N < 60，M <  400.
+Use a Network flow algorithm: the two nodes of the first edge are sources, and the two nodes of the second edge are sinks. As you mentioned that each node can only be used once, duplicate each node (an "entry" node and an "exit" node), and add edges from the entry to the exit node with capacity 1. 

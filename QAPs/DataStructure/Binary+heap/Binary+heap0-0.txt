@@ -1,0 +1,2 @@
+What is a binary heap?
+Why ask such lame question ? Why can't you simply google for these kind of questions ? It can give you much better response :P Binary heap - Google Search 

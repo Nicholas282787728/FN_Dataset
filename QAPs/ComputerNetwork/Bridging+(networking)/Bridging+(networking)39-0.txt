@@ -1,0 +1,2 @@
+★Would trying to hack through Kali Linux inside a virtual machine be equivalent to hacking a system with Kali Linux installed?
+Yes that is actually how it's done, but why would you hack Kali, you won’t find many targets with Kali installed

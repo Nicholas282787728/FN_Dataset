@@ -1,0 +1,2 @@
+Which Twitter analytics service tracks a definable keyword over time?
+If you're interested in an online dashboard that lets you track metrics such as #mentions #impressions (accumulated followers) demographics (locations, skills, gender, sentiment) top tweets (most retweeted) top people (most impressions generated)I'd advise to check twtrland (disclaimer: work there). For example, this is the overview of tracking on the keyword #MWC14: ... (more)

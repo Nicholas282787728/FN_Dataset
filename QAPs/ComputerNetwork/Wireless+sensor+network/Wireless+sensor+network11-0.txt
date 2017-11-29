@@ -1,0 +1,2 @@
+★What are the current hot research questions in wireless sensor networks (WSN)?
+The research is generally inclined towards the need (application). people are working in 1. reducing the power consumption 2. reducing the routing path and time between the source and the destination. 3. addressing the security concerns 4. usage of Cognitive radio spectrum techniques 5. Hybrid and application-centric approaches. 6. Data dissemination and analysis techniques.    Embed Quote

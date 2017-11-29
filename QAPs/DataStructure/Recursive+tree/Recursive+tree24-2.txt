@@ -1,0 +1,2 @@
+How can we check for the complexity log(n) and n (log(n)) for an algorithm?
+An algorithm which repeatedly divides a set of inputs (size = N) by a constant has complexity = O(log N). Following algorithm has the complexity O(NlogN) for (i = 1 to N) {  doSomething(); // takes O(logN)} Please go through the following links; it will help you immensely. External Links What would cause an algorithm to have O(log n) complexity? What does O(log n) mean exactly? 

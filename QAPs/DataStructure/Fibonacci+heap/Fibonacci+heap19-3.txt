@@ -1,0 +1,2 @@
+What are some great non-standard (not widely used) data structures?
+Range minimum query - http://en.wikipedia.org/wiki/Ran... Trie - http://en.wikipedia.org/wiki/Trie VEB tree - http://en.wikipedia.org/wiki/Van... Ternary search tree - http://en.wikipedia.org/wiki/Ter... Here is a comprehensive "dictionary" of all algorithms and data structures: http://xlinux.nist.gov/dads/ 831 Views

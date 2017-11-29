@@ -1,0 +1,2 @@
+★Why does DNS use UDP?
+All is good, but I wonder when the DNS response exceeds 512 byte?

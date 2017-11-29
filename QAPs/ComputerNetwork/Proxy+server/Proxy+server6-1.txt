@@ -1,0 +1,2 @@
+★How do I get access to a proxy server?
+1.private proxy - need authorize.There’re two methods to authorize private proxies,one is use IP authentication,the other is use Username/Password which you can get proxies as “IP:PORT:Username:Password”. Private Proxy Service 2.web proxy. http://www.proxysp.com/web-proxies/    Embed Quote

@@ -1,0 +1,1 @@
+How do I take one argument (the array) and read five values into the array in C programming using a function?It is simple, I just don't get why do you need <math.h>. The code will looks like this: void readData(int *array) {  int v, i;  for (i = 0; i< 5; i++) {  printf("Enter value %d \n", i +1);  scanf("%d",&v);  array[i] = v;  } } 32 Views  View Upvotes

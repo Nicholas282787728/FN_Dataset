@@ -1,0 +1,2 @@
+How does one go about solving this area/integral problem?
+I would say you need to integrate the expression you arrived at twice, first at:   ∫ 0 −1 x 2 −2xdx    and then at:   ∫ 2 0 x 2 −2xdx  Once you have evaluated both expressions, add the absolute values.  If you try to evaluate the expression over the entire interval you will come up with 0, which the following figure shows cannot be the case.  The space between the two curves is the area you're looking for. The answer should be 83   

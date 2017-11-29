@@ -1,0 +1,2 @@
+Graph Theory: Nodes are removed to create partitions in graphs. Are the minimum number of nodes that should be removed to create >=2 partitions in the graph unique?
+No. Consider a simple path graph with at least four nodes. Any node excepting the end points can be removed to break the graph in two pieces. 

@@ -1,0 +1,1 @@
+How can one find a pointer to the previous elements in a singly linked list without iterating from the beginning?No. If doubly linked list is not an option, consider a XOR linked list. 609 Views  View Upvotes  Answer requested by Selva Kumar

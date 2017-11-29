@@ -1,0 +1,2 @@
+Is the minimum vertex cover size of an isolated node zero?I think it's zero (since there are no edges to cover?)
+Yes it is zero, if you want a formal proof let's assume we have a simple(so no loops and parallel edges) complete graph with n nodes what is the minimum vertex cover it is n-1 replace n with 1 for your question 

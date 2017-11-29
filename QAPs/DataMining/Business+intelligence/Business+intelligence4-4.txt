@@ -1,0 +1,2 @@
+What is the difference between "business intelligence" and "business analytics"?
+Analytics is a science. The other common substitute is "data science." Intelligence is its output.    Embed Quote 

@@ -1,0 +1,2 @@
+★Why does DNS use UDP?
+The DNS protocol itself is designed to be a simple, small protocol. UDP is simple, fast, and reasonable reliable. DNS is simple enough that a simple stateless protocol like UDP is better-suited than TCP. The exception is when the answer is really large.

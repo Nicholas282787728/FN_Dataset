@@ -1,0 +1,2 @@
+★How can gradient descent algorithm be implemented with logic gates?
+As a digital filter for signal processing, such as those based on least mean squares method; i.e., least mean squares filter.    Embed Quote

@@ -1,0 +1,2 @@
+★Graph Theory: What is a DAG?As seen here: Are Quora topic hierarchies a directed acyclic graph?
+A DAG is a Directed Acyclic Graph. Here the graph consists of a set of vertices and a set of edges. The edges are always directed from one vertex to another.(Directed ) The edges in the graph are in such a way that none of the subsets of the edge set form a Cycle in the graph. (Acyclic)..  Here is an example of DAG...    Embed Quote

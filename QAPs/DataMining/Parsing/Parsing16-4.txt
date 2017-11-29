@@ -1,0 +1,2 @@
+★What's a good way to parse XML in C#?
+The key thing to note in all the answers is: DON'T PARSE XML YOURSELF.  Use one of the .NET classes.  The reasons are: 1. As XML changes (and it does change now and then), your code will continue to work. 2. Since you're asking this, you probably do not know everything there is to know about XML.  You probably don't know how to handle namespaces, for example.  What about escaping or schemas? So the best thing to do is use .NET classes, like XmlDocument, to parse your XML.    Embed Quote

@@ -1,0 +1,2 @@
+How can R create a histogram from a vector of strings without converting to numeric?
+You can't create a histogram of categorical data - you are probably thinking of a barchart. 

@@ -1,0 +1,2 @@
+★What are some good examples of HTML5 mobile websites?
+Hit http://twitter.com and http://linkedin.com on mobile. Both are great HTML5 experiences and perfect demonstrations of how to utilize JavaScript and/or CSS/UI frameworks to ensure consistency in UX. Twitter's mobile site in particular is very good -- it feels like a native app.

@@ -1,0 +1,2 @@
+★What is the best IM client on Ubuntu?Web apps included
+empathy is showing error and crashing in ubuntu 12.04 so it cannot be the best though its included , i think pidgen is more better

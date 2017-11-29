@@ -1,0 +1,2 @@
+Which statistical tool is best for data mining?
+I agree with @William Chen's answer, I would just add that Matlab / Octave (the open source equivalent) has very concise and easy to use syntax for matrix manipulation which can make it quite a nice language to work with if you want to have a go at coding machine learning algorithms from scratch.    Embed Quote 

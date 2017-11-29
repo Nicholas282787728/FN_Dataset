@@ -1,0 +1,2 @@
+★Unsupervised Learning: What is most scalable algorithm for K-Means clustering for large dataset?Virtually every paper I have seen so far is evaluated on small scale data. Is there any good algorithm for large scale data set ?   application scenario, K<= 10 , Dataset size= 100 Millions, Dimensionality <=100
+Following link is somewhat helpful.. http://stackoverflow.com/questio...    Embed Quote

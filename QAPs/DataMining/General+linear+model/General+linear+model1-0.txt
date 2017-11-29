@@ -1,0 +1,2 @@
+★What are some good books/papers on generalized linear models?
+McCulagh & Nelder, Generalized Linear Models: http://www.amazon.com/Generalize... Stuart et al., Kendall's Advanced Theory of Statistics:Volume 2A -Classical Inference and and the Linear Model:  http://www.amazon.com/Kendalls-A... Hastie & Tibshirani, Generalized Additive Models: http://www.amazon.com/Generalize...    Embed Quote

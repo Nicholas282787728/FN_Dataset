@@ -1,0 +1,2 @@
+★What are some cool examples of companies using reinforcement learning in their products?
+In the video game Black and White, you are a god with a pet thing, and you can punish it or reward it for things it does. Its behavior is trained using reinforcement learning.  Wish I was more familiar with the details.    Embed Quote

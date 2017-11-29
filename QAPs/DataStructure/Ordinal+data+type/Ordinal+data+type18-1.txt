@@ -1,0 +1,2 @@
+What's the best regression technique to fit on data with both labels and continuous values?
+It's not clear why you call "time of day" as a label. Is it a categorical variable, like "day", "morning", etc? If so, your options are either turn it into dummy variables or turn into a semi-continuous variable, like actual time of the day. However, I would encourage you to chart your dependent variable against such independent variable first, and see if the relationship looks like a trend or like a jagged line. If it is a jagged line, then definitely go with dummy variables. 

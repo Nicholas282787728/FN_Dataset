@@ -1,0 +1,1 @@
+What is a subgraph of a multigraph?A multigraph is a graph that allows you to have multiple edges between the same two vertices. A subgraph is a graph which is a subset of your original graph (in your case, a multigraph). It may or may not be a multigraph itself. 81 Views

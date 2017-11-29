@@ -1,0 +1,2 @@
+★What's the best book on regular expressions?
+In addition to the "dragon" book, I'd also suggest "Introduction to Automata Theory, Languages, and Computation" by Ullman and Hopcroft. It is an excellent resource for any person interested in theoretical computer science.    Embed Quote

@@ -1,0 +1,2 @@
+What is the best Python suffix tree implementation?
+If you need it to work on a real text, then you need unicode support. I have successfully used the C extension mentioned here: http://researchonsearch.blogspot... I would also seriously consider using a suffix array instead (you can do pretty much the same things with it) with this pure Python implementation: http://code.google.com/p/pysuffix/ 

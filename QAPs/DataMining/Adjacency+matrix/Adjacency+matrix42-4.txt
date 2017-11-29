@@ -1,0 +1,2 @@
+★How can I prove the Pagerank algorithm is correct and works?
+There are other real world applications that the PageRank algorithm can be used for: Stock market trading Reputation systems for ecommerce Opinion polls Many othersTry applying the algorithm to these by hand to show how well it can work.    Embed Quote

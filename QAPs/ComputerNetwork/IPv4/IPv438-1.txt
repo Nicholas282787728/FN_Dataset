@@ -1,0 +1,2 @@
+★Why have so few people switched to ipv6 from ipv4?even though ipv6 was launched in as early as 1998 and all ipv4 addresses have exhausted
+Well, Till now IPv6 was a solution in search of a problem!  People didn't have any "killer reason" to switch to IPv6, especially as it required hardware upgrade, high learning curve etc. But in the coming days, things will change when Internet Of Things (IOT) becomes a reality.

@@ -1,0 +1,1 @@
+Bucket sort can be implemented with comparisons and therefore can also be considered a comparison sort algorithm. 

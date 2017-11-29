@@ -1,0 +1,2 @@
+★What is the most important computer networking protocol?
+None of them.   The reason is every protocol that is well designed and fits into the OSI/ISO model is designed to be swapped out for a better one when they are available.   For example the current push to move to IPv6

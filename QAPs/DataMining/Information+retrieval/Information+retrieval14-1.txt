@@ -1,0 +1,2 @@
+★What are the most popular algorithms in Information Retrieval at this time?
+In my opinion the are much research in field of hierarchical probabilistic models, including ACRF, Bayesian network, Markov random field. Also there are big trend of migration some algorithms to cloud, check apache mahoot Apache Mahout for details.

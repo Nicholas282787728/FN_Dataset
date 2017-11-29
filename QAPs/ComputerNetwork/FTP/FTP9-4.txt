@@ -1,0 +1,2 @@
+★How can I connect to an FTP server with a Mac?
+I use Transmit, but you can use Filezilla for Mac, which is free (open source) and robust enough.

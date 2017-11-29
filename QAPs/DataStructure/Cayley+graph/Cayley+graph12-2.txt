@@ -1,0 +1,2 @@
+What are some papers demonstrating the use of representation theory in computer science?Papers in any sub-field would be interesting, but of particular interest are those in machine learning.
+This thesis might be of interest to you: Page on uchicago.edu Also this paper links ranking via signal processing method and gives interesting connections ,group representation theory ,fourier analysis etc: Page on ntu.edu.sg 

@@ -1,0 +1,2 @@
+★How do I import unstructured data to Hadoop?
+Depends on where its coming from. If you just need to put a file into HDFS, you can use the hadoop fs put command: File System Shell Guide If you have a stream of data, Flume is the easiest tool to use to ingest it directly into HDFS: Flume 1.5.2 User Guide The full Hadoop stack provides an almost unlimited number of ways to get data into and out of HDFS.  Even more when you go into the broader ecosystem of tools.    Embed Quote

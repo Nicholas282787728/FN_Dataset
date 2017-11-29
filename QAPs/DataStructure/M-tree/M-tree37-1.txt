@@ -1,0 +1,2 @@
+What is the best book on data-structures for beginners?
+Introduction to Algorithms | The MIT Press seems to be a perfect choice, moreover, if you don't understand something, you can try asking one of the authors himself here: Thomas Cormen (very high price on A2A though) 

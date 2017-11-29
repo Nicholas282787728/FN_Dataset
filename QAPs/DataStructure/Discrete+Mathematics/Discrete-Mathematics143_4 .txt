@@ -1,0 +1,1 @@
+How can I find the correct adjacency matrix given a particular graph?Yes, this seems like a correct representation of the undirected unweighted graph as an adjacency matrix. 26 Views

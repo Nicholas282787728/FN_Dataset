@@ -1,0 +1,2 @@
+What are some unsolved problems in mathematics?
+Nearly all real numbers are normal, meaning all the digits in their expansion are equally frequent. But not a single one of the ordinary numbers, pi, e, sqrt(2), have been proved normal. I think this is the major unsolved problem of mathematics, and it is considered so difficult, that nobody works on it. It might not be difficult at all. 

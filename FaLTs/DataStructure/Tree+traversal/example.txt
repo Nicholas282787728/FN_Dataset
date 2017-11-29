@@ -1,0 +1,2 @@
+for example, the breadth-first search of the depth 2 tree above will take ?·2 steps: ? for the first level, and then another ? for the second level.
+For example, when inserting into a ternary tree, a pre-order operation is performed by comparing items. A post-order operation may be needed afterwards to re-balance the tree.

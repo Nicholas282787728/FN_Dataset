@@ -1,0 +1,2 @@
+Is Gravity higher 1000 meters under earth surface than 9.81 m/s² ?
+In fact for a considerable depth, g continues to increase very slightly as you go down in a mine shaft, because the fact that you're getting closer to the dense rocks at the earth's core turns out to be more important than the fact that you're losing the effect of the shell of less-dense surface rock you're getting inside. See the following graph from Gravity of Earth.  Edgar Lin has in mind the dark green curve, but it's such a crappy approximation it's backwards. 

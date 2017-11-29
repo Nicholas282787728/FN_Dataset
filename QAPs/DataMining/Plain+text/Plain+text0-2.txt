@@ -1,0 +1,2 @@
+★How do mint.com and similar websites avoid storing passwords in plain text?
+To explain this in the layman's terms, a great explanation I've heard is that storing secure passwords is like baking a cake. Once you combine all of the ingredients (letters), you cannot retrieve them from the baked cake (hashed password). However, if you have a cake (encrypted password), AND you have a bunch of ingredients, you can combine the ingredients and see if the cake you get is the same as the cake you already have. I hope this helps, -Brian    Embed Quote

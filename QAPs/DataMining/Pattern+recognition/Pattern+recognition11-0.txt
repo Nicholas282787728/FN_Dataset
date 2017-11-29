@@ -1,0 +1,2 @@
+★What is pattern recognition in image processing?
+Finding all structure resembling a line is pattern recognition, finding face in an image is a pattern recognition. And also finding some other kind of structure in an image, is also pattern recognition in images    Embed Quote

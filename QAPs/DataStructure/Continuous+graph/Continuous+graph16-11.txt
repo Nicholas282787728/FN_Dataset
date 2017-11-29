@@ -1,0 +1,2 @@
+Mathematical Fallacies: How does one explain the “π = 4” proof regarding a square reduced to a circle?
+In order to approximate a path with another path, in such a way that they end up having the same length, we must be sure that the two paths have the same slope along their entire length. This condition is not satisfied while changing the length of square. I think this discussion will help in further understanding the problem. Is pi=4,really? 

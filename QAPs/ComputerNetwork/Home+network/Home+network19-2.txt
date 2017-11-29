@@ -1,0 +1,2 @@
+★What is the best way to learn about OSPF in an inexpensive home network?
+Do I need to have images for Cisco routers to make GNS3 functional?

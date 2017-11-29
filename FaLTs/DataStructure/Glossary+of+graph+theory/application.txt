@@ -1,0 +1,1 @@
+Graphs can be used to model many types of relations and processes in physical, biological,[4] social and information systems. Many practical problems can be represented by graphs. Emphasizing their application to real-world systems, the term network is sometimes defined to mean a graph in which attributes (e.g. names) are associated with the nodes and/or edges.

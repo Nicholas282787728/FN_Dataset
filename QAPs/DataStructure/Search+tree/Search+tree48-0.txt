@@ -1,0 +1,2 @@
+It took me nearly 3 weeks to understand what a binary search tree is, am I stupid?
+If you really understood it well and can solve problems using it, then it is worth every minute. There would be many who have studied it over several times, in studies and latter when needed and still can't do the above. 

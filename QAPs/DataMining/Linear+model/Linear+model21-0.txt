@@ -1,0 +1,2 @@
+★What is this formula in the simple linear model environment? (b = Cov(X,Y) / Var(X))b = Cov(X,Y) / Var(X) I have no idea how to get this.
+If you write , one easy approach is to take covariance of both sides with . We would get .  The properties of covariance we need are that it distributes over addition of random variables and multiplication by constant factors.  Also, we note that .  Finally, because is an error term, it does not have covariance with . Therefore, and so .    Embed Quote

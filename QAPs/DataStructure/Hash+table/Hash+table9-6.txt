@@ -1,0 +1,2 @@
+How do I implement hash table and hash map in c++?
+You can get idea from this link Basic Hash Map (Hash Table) implementation in C++ 1.7k Views · 2 Upvotes

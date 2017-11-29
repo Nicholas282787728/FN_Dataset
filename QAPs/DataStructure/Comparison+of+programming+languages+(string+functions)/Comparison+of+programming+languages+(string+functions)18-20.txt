@@ -1,0 +1,2 @@
+As a starting Python programmer I see a lot of praise for the Python language (and so far I can only agree). Isn't there anything bad to say about it? What is a real con?
+Performance is not as good as some other languages like C, C++, etc. 

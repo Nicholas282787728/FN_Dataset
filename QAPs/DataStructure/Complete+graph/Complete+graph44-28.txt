@@ -1,0 +1,2 @@
+What is the most esoteric programming language that you have tried?How did you learn about that programming language? What made you try programming using that language? Did you like programming using that language? Describe your experience.
+Esoteric is the wrong word for this, but did you know there's a language based on Arnold Schwarzenegger lines? https://github.com/lhartikk/ArnoldC 

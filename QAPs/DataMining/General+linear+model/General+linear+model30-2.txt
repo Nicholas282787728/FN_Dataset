@@ -1,0 +1,2 @@
+★What is the best book ever written on regression modeling / predictive modeling?
+There are many ways to be the best, and different readers need different things. But I vote for Gelman and Hill. It is well written, practical and does more than any such book I know to teach an intelligent approach to modeling rather than merely a collection of techniques.    Embed Quote

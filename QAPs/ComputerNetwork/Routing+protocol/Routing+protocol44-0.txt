@@ -1,0 +1,2 @@
+★Is it possible to have a dynamic network without using software-defined networking?Have dynamic networks been in existence before the advent of SDN?
+Almost all networks are dynamic: they run routing protocols to reflect topology changes. Sounds like there's more bad marketing out there, trying to convince people that SDN is "new and improved". This isn't laundry detergent folks.    Embed Quote

@@ -1,0 +1,2 @@
+★What are the steps to do text mining using R?
+The best way to get an idea  is to go to the the site cran.r-projects/org It's has an archive of many R-projects.    Embed Quote

@@ -1,0 +1,2 @@
+★What is the best free online service for a simple CMS?
+If you're looking for an user friendly cms, use Wordpress. It is easy and has plenty of plugins for you to use when you want to add features without coding. If you're building bigger sites and still want an easy cms I would perhaps advise you to use joomla instead (I find it easier to use when managing bigger chunks of content). There's of course plenty of plugins and components for joomla as well.    Embed Quote

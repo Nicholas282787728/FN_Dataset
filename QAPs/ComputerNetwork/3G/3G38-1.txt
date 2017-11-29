@@ -1,0 +1,2 @@
+★On which frequency does 3G GSM work in India?Is any of the american frequency compatible with 3G frequencies in India? T-Mobile? AT&T?
+As of 2014, 900Mhz through 2.3Ghz, depending on carrier license and farming. All major operators have interoperability, so any modern smartphone will work on 3G.

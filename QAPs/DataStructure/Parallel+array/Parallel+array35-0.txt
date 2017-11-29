@@ -1,0 +1,2 @@
+What is the difference between OpenMP and Open MPI?
+OpenMPI is an implementation of the Message Passing Interface (MPI) specification for writing distributed computing applications. OpenMP is another API that adheres to the OpenMP specification for writing shared memory multi-process applications. Both are used for writing high performance computing applications but with differences in approaches. MPI focuses on using message passing paradigms which is generally shared nothing. OpenMP focuses on shared memory paradigms. 

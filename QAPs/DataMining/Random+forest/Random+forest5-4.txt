@@ -1,0 +1,2 @@
+★Classification (machine learning): What are good libraries for random forest?Like in linear classification we have Liblinear and Vowpal Wabbit.
+At http://wise.io, we have a CLI (with Python bindings) version that works on multi-core machines. It's intended to be very efficient and fast. It's free for academics. Let me know if you'd like to know more.    Embed Quote

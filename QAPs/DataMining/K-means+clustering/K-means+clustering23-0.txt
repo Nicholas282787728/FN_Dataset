@@ -1,0 +1,2 @@
+★What is the limit of a matrix dimension when performing k-means clustering in R?R, K-means Algorithm
+It will depend on the amount of RAM on your system. More Ram can handle a bigger matrix. AFAIK The k-means function doesn't prescribe a limit to the size.    Embed Quote

@@ -1,0 +1,2 @@
+As we start planning the next edition of Introduction to Algorithms (CLRS), what should we add and what should we remove if the 4th edition cannot be larger than the 3rd edition?
+PageRank and spectral graph algorithms (e.g. min cuts) are a great topic, though I'm not sure they're in your scope. Please don't remove Linear Programming; even though it might be out of place it's excellently written. 3.8k Views · 9 Upvotes

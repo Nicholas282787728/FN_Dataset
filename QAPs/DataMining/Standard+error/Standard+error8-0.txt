@@ -1,0 +1,2 @@
+★What does standard error of estimate explains?
+The ultimate goal of the standard error of estimate is to create a regression model in which predicted and observed value are as similar as possible. Now what does regression means? Regression in Statistics is the calculation of one variable with respect to another variable or estimation of relation between variables. Why the hell we do that? Regression models are used in: 1) In scientific research . 2) Business forecasting The above two uses contain a lot of sub-uses and you can Google to find some. Thank you    Embed Quote

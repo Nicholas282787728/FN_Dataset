@@ -1,0 +1,15 @@
+Deletion is the process whereby a node is removed from the tree. Only certain nodes in a binary tree can be removed unambiguously.[6]
+Nodes can be inserted into binary trees in between two other nodes or added after an external node. In binary trees, a node that is inserted is specified as to which child it is.
+There are a variety of different operations that can be performed on binary trees. Some are mutator operations, while others simply return useful information about the tree.
+Deletion is the process whereby a node is removed from the tree. Only certain nodes in a binary tree can be removed unambiguously.[6]
+Nodes can be inserted into binary trees in between two other nodes or added after an external node. In binary trees, a node that is inserted is specified as to which child it is.
+There are a variety of different operations that can be performed on binary trees. Some are mutator operations, while others simply return useful information about the tree.
+Deletion is the process whereby a node is removed from the tree. Only certain nodes in a binary tree can be removed unambiguously.[6]
+Nodes can be inserted into binary trees in between two other nodes or added after an external node. In binary trees, a node that is inserted is specified as to which child it is.
+There are a variety of different operations that can be performed on binary trees. Some are mutator operations, while others simply return useful information about the tree.
+Deletion is the process whereby a node is removed from the tree. Only certain nodes in a binary tree can be removed unambiguously.[6]
+Nodes can be inserted into binary trees in between two other nodes or added after an external node. In binary trees, a node that is inserted is specified as to which child it is.
+There are a variety of different operations that can be performed on binary trees. Some are mutator operations, while others simply return useful information about the tree.
+Deletion is the process whereby a node is removed from the tree. Only certain nodes in a binary tree can be removed unambiguously.
+Nodes can be inserted into ternary trees in between three other nodes or added after an external node. In Ternary trees, a node that is inserted is specified as to which child it is.
+Enumerating all the items Enumerating a section of a tree Searching for an item Adding a new item at a certain position on the tree Deleting an item Pruning: Removing a whole section of a tree Grafting: Adding a whole section to a tree Finding the root for any node

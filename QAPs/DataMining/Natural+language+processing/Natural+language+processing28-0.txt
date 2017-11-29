@@ -1,0 +1,2 @@
+★What are some incredible applications of natural language processing?
+One of the most recent and interesting applications of NLP that I can think of is IBM's Watson project[1], which relied on information extraction to answer questions for the TV game show Jeopardy![2] . The machine was able to win the contest by beating previous human winners in 2011. [1] Watson (computer) [2] Jeopardy!!    Embed Quote

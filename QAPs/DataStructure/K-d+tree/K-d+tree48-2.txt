@@ -1,0 +1,2 @@
+What are some things that algorithms and data structure lovers knows that others don't?
+He can easilly tell when to act greedy and when to act dynamically. 

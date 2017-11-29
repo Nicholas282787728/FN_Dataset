@@ -1,0 +1,2 @@
+How is it possible to identify the location of an RF transmitter?
+Use a directional antenna, and turn it around until you get a peak in the signal. That tells you what angle the transmitter is at relative to that receiver.  If you have two of them, separated by a decent distance, you can plot the angles on a map and the intersection of the angles is where the transmitter is. 

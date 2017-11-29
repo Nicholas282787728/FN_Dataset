@@ -1,0 +1,2 @@
+★What are some really interesting machine learning projects for beginners?Preferably written using python. Any other languages is welcomed though :) Please do mention if you are using third party library or any reference regarding the project etc
+I highly recommend the python library ramp for introductory machine learning -- it allows you to work at a high level without getting mired down in data manipulation details. You can follow along with this example: Getting started with Ramp: Detecting insults.    Embed Quote

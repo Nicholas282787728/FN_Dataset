@@ -1,0 +1,2 @@
+What are real-world problems that graph theory can solve?
+Anything with connected nodes is by definition a part of the graph theory domain. Any tree or network and more. Social networks, semantic networks, dependency trees, etc. It's more difficult to find an area where graphs are not involved. 

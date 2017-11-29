@@ -1,0 +1,30 @@
+Example of internal and external storage
+
+Suppose you wanted to create a linked list of families and their members. Using internal storage, the structure might look like the following:
+
+ record member { // member of a family
+     member next;
+     string firstName;
+     integer age;
+ }
+ record family { // the family itself
+     family next;
+     string lastName;
+     string address;
+     member members // head of list of members of this family
+ }
+Example of internal and external storage
+
+Suppose you wanted to create a linked list of families and their members. Using internal storage, the structure might look like the following:
+
+ record member { // member of a family
+     member next;
+     string firstName;
+     integer age;
+ }
+ record family { // the family itself
+     family next;
+     string lastName;
+     string address;
+     member members // head of list of members of this family
+ }

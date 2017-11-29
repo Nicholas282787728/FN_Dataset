@@ -1,0 +1,2 @@
+★What are some parallel gradient descent algorithms?
+well, it's kind of a simple answer, but any batch gradient descent algorithm can be trivially parallelized in each iteration by computing the gradient for each element of the training set in parallel, then running a fold over the results to sum them.  assuming you have n training set elements and p processors, this should take O(n/p + log(p)) time per iteration.    Embed Quote

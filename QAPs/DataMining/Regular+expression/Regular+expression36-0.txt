@@ -1,0 +1,9 @@
+★What regular expression search/replace pattern can convert LaTeX tags into HTML tags?
+Use Pandoc. That said, if you just want to try a regex, here goes nothing: 1
+2
+3
+4
+ my $latex = "here's some \\emph LaTeX text that has \\em{some parts emphasized} in {\\em different ways}"; print $latex, $/; $latex =~ s@(\\em(ph)?(\s+(\S+)|{([^}]+)})|{\\em\s+([^}]+)})@<em>\4\5\6</em>@g; print $latex, $/; 1
+2
+3
+ ~ $ perl test.pl here's some \em LaTeX text that has \em{some parts emphasized} in {\em different ways} here's some <em>LaTeX</em> text that has <em>some parts emphasized</em> in <em>different ways</em> This won't work with nesting, or with anything but emphasis tags, and probably won't even work with multiple lines because I didn't try to mess with the modifiers. This is just an example to get you going.  Basically there are a couple alternative groups, one for each style of emphasis (implicit grouping of the next token, bracketed grouping after the \emph, grouping containing an \em), each one captures the text to be emphasized in the 4th, 5th, and 6th group, and then the replacement text is just <em> tags around all three groups (two of which will be empty). Handling of \item tags will just need you to detect the next \item or \end { itemize } tag to end the text capture.  Handling enumerate and itemize differently may be tricky.  You may also have trouble with newlines (see http://perldoc.perl.org/perlre.h... for help), and when constructing your regex, the /x modifier is very helpful (because you can break your regex up into multiple lines, indent, comment, etc.).    Embed Quote

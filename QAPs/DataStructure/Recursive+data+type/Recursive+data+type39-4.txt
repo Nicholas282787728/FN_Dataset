@@ -1,0 +1,2 @@
+What is the most common mistake using pointers in C?
+I think Most Mistakes happen in pointers increment and decrements operation. like  *p++ increment pointer not value pointed by it. 

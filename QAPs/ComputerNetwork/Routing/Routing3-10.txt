@@ -1,0 +1,2 @@
+★What is the difference between switching and routing?
+Routers = Higher level ,works on IP address Switches = Lower level (Relatively) , works on MAC address.    Embed Quote

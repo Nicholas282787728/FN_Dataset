@@ -1,0 +1,2 @@
+What are some good project ideas related to data mining?
+There are too many good ideas for Data Mining project. I suggest you look at Kaggle. However, for starters, it may be interesting to check out automatic topic categorization of a news article. You may have to use K-Means or KNN clustering approach.    Embed Quote 

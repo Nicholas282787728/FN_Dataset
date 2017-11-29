@@ -1,0 +1,2 @@
+★What are the commercial applications of the Semantic Web?I'm struggling to find real money-making applications of RDF and related technologies. Who is currently making revenue with the Semantic Web?
+5store - http://4store.org/trac/wiki/5store    Embed Quote

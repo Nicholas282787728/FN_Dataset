@@ -1,0 +1,2 @@
+★What are the must read papers on data mining and machine learning?
+The Google Big Table paper: Chang, Fay; Dean, Jeffrey; Ghemawat, Sanjay; Hsieh, Wilson C; Wallach, Deborah A; Burrows, Michael ‘Mike’; Chandra, Tushar; Fikes, Andrew; Gruber, Robert E (2006), "Bigtable: A Distributed Storage System for Structured Data", Google Research. The paper that inspired Map Reduce and relates frameworks.    Embed Quote

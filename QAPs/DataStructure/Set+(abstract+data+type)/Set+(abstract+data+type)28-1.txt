@@ -1,0 +1,2 @@
+Is data abstraction applicable in C language?
+Of course you can... Many APIs like the C standard library, the Windows API and COM have data abstraction implemented in C. You have opaque pointers to data structures on which you can apply predefined operations. This is essentially the encapsulation part of OOP. It doesn't look as pretty as in OO languages and there are certain limitations, but functionally it is not hard to do in C 

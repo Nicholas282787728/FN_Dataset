@@ -1,0 +1,2 @@
+How do you judge a JavaScript programmer by only 5 questions?
+I generally do coding questions and explore the candidates understanding practical application of their skills. But one question that is always informative is "What's an open source project you're excited about, and why?" Good engineers will be excited to share their knowledge and you can tell a lot from how they describe projects. 

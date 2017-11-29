@@ -1,0 +1,2 @@
+★What is the preferable way to choose independent variables for a regression analysis?
+My views match Jeremy's, but, unlike Jeremy, I will pretend to give you an answer. The p-values are more meaningful if you choose the variables for reasons other than minimizing the p-values. In other words, it's more convincing if you come up with a hypothesis when you're designing the study and chose the regression variables accordingly. But this is obviously quite inconvenient.    Embed Quote

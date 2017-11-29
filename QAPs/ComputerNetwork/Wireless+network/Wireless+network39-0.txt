@@ -1,0 +1,2 @@
+★Can you use an external hard drive attached to a wireless network with Apple TV?
+No. You need to attach it to a computer running iTunes. Some NAS drives advertise "iTunes Server" but this is not compatible with Apple TV. Even networked hard drives connected to an Apple Airport Extreme still needs to go through iTunes for it to connect to Apple TV. This is without jailbreaking, BTW. There might be the capability you're looking for by installing third party apps.    Embed Quote

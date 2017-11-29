@@ -1,0 +1,2 @@
+What should every programmer know about hash tables and hash functions?
+Here is the list of Interview Questions / Answers one should know - Java - Collections - Interview Questions and Answers on HashMap and HashTable Java - Interview Questions and Answers on HashCode 

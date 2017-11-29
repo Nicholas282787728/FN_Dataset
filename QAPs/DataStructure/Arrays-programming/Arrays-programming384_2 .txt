@@ -1,0 +1,1 @@
+What is the meaning of resizable array in arraylist?it simply means that size is changed dynamically. and that means you can add any no of elements in array list without specifying its size. cheers!! 32 Views  Answer requested by Bala Sundaram

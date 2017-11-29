@@ -1,0 +1,2 @@
+Look at this sequence: 80, 10, 70, 15, 60, ... What number should come next?
+This sequence seems to be a combination of two Arithmetic Progressions. The first being 80, 70, 60 with a common difference of -10. And the latter being 10, 15, and so on with a common difference of +5. The terms of given sequence appear in a way such that one integer from both the progressions are listed one after the other, starting from the first mentioned progression. So, if the sequence is extended, it looks like 80, 10, 70, 15, 60, 20, 50, 25 and so on. Thus, the next term should be 20. 

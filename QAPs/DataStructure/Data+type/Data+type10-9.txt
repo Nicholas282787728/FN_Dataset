@@ -1,0 +1,2 @@
+In C/C++, why are pointers given a data type?
+When you use void*, you can store the address only. When you use type*, you can store address and apply operators (*p, p++, p--, p[k]) 543 Views · 5 Upvotes

@@ -1,0 +1,2 @@
+★What is the difference between Linux's "network interface bonding" and "network interface bridging"?
+To be put in a simple manner, Bridging is you create a bridge between two "Networks". Bonding is you create a bond between two (or more) network adapters on a single system to present them as a single adapter to the network for performance and/or redundancy purposes.

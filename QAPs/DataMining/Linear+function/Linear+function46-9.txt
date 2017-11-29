@@ -1,0 +1,2 @@
+★What is the point of linear algebra?How can I motivate students to study this? Are there any tangible reasons why students should study linear algebra?
+Higher mathematical and applied statistics have two powerful weapons at their disposal:  Software and linear algebra.    Embed Quote

@@ -1,0 +1,2 @@
+What are the best books on game design fundamentals?
+I agree with most of the answers above however, Steve Swink's Game Feel is by far one of the better reads within game design. His approach is more directed at virtual sensation and gets into topics which most others do not get in to. You can gain a sense for the book at: http://www.game-feel.com/ 

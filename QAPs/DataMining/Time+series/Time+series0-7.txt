@@ -1,0 +1,2 @@
+★What are some fantastic books on time series analysis?
+Shasha and Zhu: High Performance Discovery In Time Series http://www.amazon.com/High-Perfo... Shalizi, Almost None of the Theory of Stochastic Processes: http://www.stat.cmu.edu/~cshaliz... (also see his course materials: http://www.stat.cmu.edu/~cshalizi/)    Embed Quote

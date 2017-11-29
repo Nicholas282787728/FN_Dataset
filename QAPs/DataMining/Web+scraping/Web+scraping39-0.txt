@@ -1,0 +1,2 @@
+★Is it legal to page/web scrape the content of an another site?I'm wondering if it is legal to page scrape to get the content of an another website. In my case it is a TV listing site like TV.com. where I get the time of some shows and title but also synopsis
+It depends on what you're doing with the content, what the terms of service or terms of use of the site might be.  There's no good answer to this in the abstract, but it's highly likely that taking the synopsis would be a copyright violation, at the very least.    Embed Quote

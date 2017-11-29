@@ -1,0 +1,2 @@
+Which programming language should I learn to develop an Android app?
+Of course, Java is the language used to develop native Android apps using rich set of Android SDK. You can also develop Android apps using HTML and JavaScript, which are called Hybrid apps. They can't completely make use of the SDK features but if you have budget concerns and in a hurry you can go for this. Cordova is the widely used SDK to develop Hybrid apps. Worth noting the following frameworks to develop Hybrid apps. 1. Ionic 2. Electron 

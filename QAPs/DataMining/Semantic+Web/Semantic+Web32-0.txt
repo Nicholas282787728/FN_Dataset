@@ -1,0 +1,2 @@
+★Semantic Web: how to query in neo4j?
+Maybe best you have a look here: The top 10 ways to get to know Neo4j    Embed Quote

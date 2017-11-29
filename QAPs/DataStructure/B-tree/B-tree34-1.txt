@@ -1,0 +1,2 @@
+What is B-trees index in SQL?
+A B-tree index is one way of arranging the pointers to records in a database. Its main attribute is that it splits the list of keys into a tree structure. So if you were indexing numbers: 3 Views

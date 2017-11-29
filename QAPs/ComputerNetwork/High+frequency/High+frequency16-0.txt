@@ -1,0 +1,2 @@
+★Is high frequency trading possible in commodities markets?Do commodities markets still rely on individuals negotiating a price, the method that stock markets are using less and less?   Does the infrastructure even exist for automated trading of commodities?
+Sure! Several of the Chicago prop trading companies primarily do this. Getco is a big player in the space.

@@ -1,0 +1,2 @@
+★What is the allure of writing in a plain text editor?
+For ordinary writing, it's simple: There is absolutely no temptation to procrastinate by obsessively fiddling about with the formatting. However, you do still need to be able to handle blockquotes, numbered lists, section titles, etc. in a way that they can later be formatted without undue difficulty. So Emacs and TeX are the way to go. For programming, it's even simpler. The last thing you want is extraneous formatting commands in your source code. Compilers and interpreters don't like that sort of thing.    Embed Quote

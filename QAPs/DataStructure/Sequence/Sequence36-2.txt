@@ -1,0 +1,2 @@
+What are the missing term number sequence 1,2,4,8,__, __?
+[math]n_{k} = 2 \cdot n_{k-1}[/math] [math]n_{5} = 2 \cdot n_{4} = 2(8) = \color{blue}{16}[/math] [math]n_{6} = 2 \cdot n_{5} = 2(16) = \color{blue}{32}[/math] 

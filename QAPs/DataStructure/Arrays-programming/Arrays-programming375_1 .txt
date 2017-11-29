@@ -1,0 +1,1 @@
+I have array of strings. I want to show notification to user with different string each day. How should I do it in Android?String[] my_array = context.getResources().getStringArray(R.array.my_notification_text); String randomStr = my_array[new Random().nextInt(my_array.length)];  it will give you random text from array. 40 Views  View Upvotes  Answer requested by 1 person

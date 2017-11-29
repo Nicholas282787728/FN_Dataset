@@ -1,0 +1,2 @@
+How can one be well prepared to answer data structure/algorithm questions in interviews?
+Originally Answered: What is the best way to crack data structures and algorithms questions for an interview?See this answer by Nitin Gangahar to a similar question --  What should I practice to do well in the algorithmic interviews of companies like Google, Facebook, Amazon etc? 

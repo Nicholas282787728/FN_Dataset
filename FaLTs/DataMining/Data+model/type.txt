@@ -1,0 +1,26 @@
+A database model is a specification describing how a database is structured and used.
+
+Several such models have been suggested. Common models include:
+
+Flat model
+This may not strictly qualify as a data model. The flat (or table) model consists of a single, two-dimensional array of data elements, where all members of a given column are assumed to be similar values, and all members of a row are assumed to be related to one another.
+Hierarchical model
+The hierarchical model is similar to the network model except that links in the hierarchical model form a tree structure,while the network model allows arbitrary graph.
+Network model
+This model organizes data using two fundamental constructs, called records and sets. Records contain fields, and sets define one-to-many relationships between records: one owner, many members.The network data model is an abstraction of the design concept used in the implementation of databases.
+Relational model
+is a database model based on first-order predicate logic. Its core idea is to describe a database as a collection of predicates over a finite set of predicate variables, describing constraints on the possible values and combinations of values.The power of the relational data model lies in its mathematical foundations and a simple user-level paradigm.
+Object-relational model
+Similar to a relational database model, but objects, classes and inheritance are directly supported in database schemas and in the query language.
+Star schema
+The simplest style of data warehouse schema. The star schema consists of a few "fact tables" (possibly only one, justifying the name) referencing any number of "dimension tables". The star schema is considered an important special case of the snowflake schema.
+
+A data structure diagram (DSD) is a diagram and data model used to describe conceptual data models by providing graphical notations which document entities and their relationships, and the constraints that bind them. The basic graphic elements of DSDs are boxes, representing entities, and arrows, representing relationships. Data structure diagrams are most useful for documenting complex data entities.
+An entity-relationship model (ERM), sometimes referred to as an entity-relationship diagram (ERD), is an abstract conceptual data model (or semantic data model) used in software engineering to represent structured data. There are several notations used for ERMs.
+A data model in Geographic information systems is a mathematical construct for representing geographic objects or surfaces as data. For example,
+
+the vector data model represents geography as collections of points, lines, and polygons;
+the raster data model represent geography as cell matrixes that store numeric values;
+and the Triangulated irregular network (TIN) data model represents geography as sets of contiguous, nonoverlapping triangles.
+Generic data models are generalizations of conventional data models. They define standardised general relation types, together with the kinds of things that may be related by such a relation type. Generic data models are developed as an approach to solve some shortcomings of conventional data models. 
+A semantic data model in software engineering is a technique to define the meaning of data within the context of its interrelationships with other data. A semantic data model is an abstraction which defines how the stored symbols relate to the real world.[16] A semantic data model is sometimes called a conceptual data model.

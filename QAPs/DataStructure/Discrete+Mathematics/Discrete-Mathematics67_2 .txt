@@ -1,0 +1,1 @@
+How can I graph |y|=2x+3?So there are two parts for this plot. y>=0 then y=2x+3 y<0 then -y=2x+3 Therefore, The upper half of the graph i.e., 1st and 2nd quadrants along with the X-axis will consist of the y=2x+3 plot and the lower half of the graph i.e., 3rd and 4th quadrant will consist of the -y=2x+3( or y= -2x-3) plot. 101 Views

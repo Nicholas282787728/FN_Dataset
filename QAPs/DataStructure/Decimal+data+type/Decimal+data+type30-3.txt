@@ -1,0 +1,2 @@
+Is there a C++ data type that can hold numbers with more than 20 digits?
+Use Boost multiprecision class cpp_int - 1.55.0 

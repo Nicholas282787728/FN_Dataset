@@ -1,0 +1,2 @@
+What are some interesting, lesser known applications of data science (machine learning, random graphs, high dimensions, etc.) to e-commerce?
+An application that we have pioneered in the consumer apps market is a mobile app called Twigle Birds Identification App that helps bird watchers to identify birds by their songs. We have used machine learning to train our app the classify a recording of a bird song that is submitted by the user. 

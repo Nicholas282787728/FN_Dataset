@@ -1,0 +1,2 @@
+★What is the easiest way to create a workflow diagram?I'm looking to build a workflow diagram. Is there some program (esp. in MS Word) that offers a template for this so that I don't have to individually create all the boxes, arrows, logic flows, etc.?
+Visio is a strong platform for creating workflow diagrams. Visio diagrams can also be used within SharePoint to drive the actual workflow processes that you were looking to implement. It's also relatively easy to use (which is nice).    Embed Quote

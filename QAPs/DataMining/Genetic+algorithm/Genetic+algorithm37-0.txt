@@ -1,0 +1,2 @@
+★Where can I find the MATLAB code for Continuous Genetic Algorithm?I want to optimise a linear function having two or more variables with constraints on them.
+Check out the library gaoptimset.  If you want to see an example code, just open the documentation of gaoptimset. Just type help gaoptimset in your command window. Hope that helps. Thanks.    Embed Quote

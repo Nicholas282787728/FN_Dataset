@@ -1,0 +1,2 @@
+★What are some good fuzzy logic libraries in Java?
+Any open source java API or tool for neuro-fuzzy modeling with more than one output ?    Embed Quote

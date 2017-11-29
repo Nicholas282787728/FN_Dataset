@@ -1,0 +1,1 @@
+Which book would you recommend for a beginner to understand Data Structures and Algorithms in C#?Regardless of the language, The Art of Computer Programming is the canonically best reference available. Unfortunately, one does have to wait years before a new chapter comes out, but it’s certainly proven to be worth the wait thus far. 185 Views · View Upvotes

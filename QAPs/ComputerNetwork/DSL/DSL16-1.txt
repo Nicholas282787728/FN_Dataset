@@ -1,0 +1,2 @@
+★Is it bad practice to use a DSL to generate HTML?What downsides are there related to code maintainability and onboarding new developers? Python: https://gist.github.com/554994, webnode2 Ruby: https://gist.github.com/373482
+Yes.  Talk about burying the presentation layer in your code... I can't think of a use case where an MVC framework isn't completely superior to DSL generation of HTML.

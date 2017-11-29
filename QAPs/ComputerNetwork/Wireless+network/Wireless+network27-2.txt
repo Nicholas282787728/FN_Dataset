@@ -1,0 +1,2 @@
+★Is wireless network security a boring area?
+It's not boring to me. I enjoy configuring networks, mapping WAP coverage and setting up security. The most over looked part of many SMB/home networks is wireless security. I only use WPA2-Enterprise with radius authenication. Tippically in most setup I only allow certificate bases authenication.    Embed Quote

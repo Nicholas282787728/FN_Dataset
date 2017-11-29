@@ -1,0 +1,2 @@
+★Will Evernote ever allow you to export notes to plain text?
+Apologies for the self-post, but I've written a PHP script to try to address this exact shortcoming.  It's called enex-dump.  It will take an ENEX export and spit out a folder containing plain text files (any formatting/attachments get discarded).  Command line usage is unfortunately required, but it should run on any platform that supports PHP, which is most of them.    Embed Quote

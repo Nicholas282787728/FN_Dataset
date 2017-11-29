@@ -1,0 +1,1 @@
+How does Python compare to C#?In terms of performance, ease of use, syntax, libraries etc.

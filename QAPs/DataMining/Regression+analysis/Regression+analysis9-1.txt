@@ -1,0 +1,2 @@
+★What are some good software packages for nonlinear regression analysis?
+GraphPad http://www.graphpad.com    Embed Quote

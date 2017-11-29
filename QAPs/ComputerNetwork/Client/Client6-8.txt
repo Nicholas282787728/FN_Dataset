@@ -1,0 +1,2 @@
+★What's the best IRC client for Mac OS X?I've been using Colloquy, but wonder if there are better options.
+I'm sticking with Colloquy for now because it's the only OS X client I know of with an iOS counterpart that can get push notifications. If I didn't need iOS connectivity, I would probably use Textual.

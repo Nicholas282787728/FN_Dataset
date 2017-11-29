@@ -1,0 +1,2 @@
+★What is the regular expression to extract 'What is (123+43)?' in the regular expression extractor of JMeter?
+What is \([0-9]+\+[0-9]+\) There I lot of regex testers online and usually, I play around with regex on sites like Regex Tester There are many flavors of regex, and you might have to search for the flavor that JMeter uses. I think the above should work.    Embed Quote

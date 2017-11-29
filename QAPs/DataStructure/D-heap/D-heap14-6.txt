@@ -1,0 +1,2 @@
+What is the simplest intuitive proof of Dijkstra’s shortest path algorithm?
+If you are convinced that BFS on an unweighted graph *is* a shortest path algorithm, then you can just rewrite a weighted graph as an unweighted graph with an edge with weight k broken down into k edges with weight 1. The solution is pseudo-polynomial, but it is correct. 

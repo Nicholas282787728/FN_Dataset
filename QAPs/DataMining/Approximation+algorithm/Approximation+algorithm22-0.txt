@@ -1,0 +1,2 @@
+★Is there any library (C/C++/Java/Python/MATLAB) that I can use to code the solution to a vertex cover graph problem using approximation algorithms based on linear programming and a greedy approach?
+I think if you want to do minimal coding matlab would be the best solution. But if you want to build the code Python would be the easiest. I feel u r looking for libraries do your best bet would be matlab    Embed Quote

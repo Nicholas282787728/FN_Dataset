@@ -1,0 +1,2 @@
+★What is the most popular commercial ETL and data warehousing tool?
+Popular is meaningless. SSIS is probably the most deployed as it comes with SQL Server. Informatica, IBM DataStage, Oracle ODI, and Microstrategy are some of the biggest stand alone tools but are too pricey for smaller organizations.    Embed Quote

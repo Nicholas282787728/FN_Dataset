@@ -1,0 +1,2 @@
+★Why is Linear Algebra a prerequisite behind modern scientific/computational research?
+It seems like almost all of the universe can be described by linear phenomena, so linear models in programming are very common    Embed Quote

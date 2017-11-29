@@ -1,0 +1,2 @@
+How do I convert Singly and Doubly sorted linked list to BST?
+Follow the recommendation, first try this yourself. Sorted Linked List to Balanced BST - GeeksforGeeks In-place conversion of Sorted DLL to Balanced BST - GeeksforGeeks 

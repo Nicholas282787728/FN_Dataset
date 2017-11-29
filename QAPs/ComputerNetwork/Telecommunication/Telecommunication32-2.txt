@@ -1,0 +1,2 @@
+★What is the difference between telecommunication and networking?
+As Vaibhav Garg said Networks is nothing but connection between nodes. Now those node can be connected together in different ways, e.g through wire, wirelessly etc. Telecommunication is the way to connect two nodes wirelessly. So telecommunication is way to achieve connection between nodes hence network.    Embed Quote

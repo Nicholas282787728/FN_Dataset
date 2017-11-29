@@ -1,0 +1,2 @@
+Is hash table a linear data structure?
+Originally Answered: Is hashing a linear data structure?A hash table is a linear data structure, but the act of hashing--i.e., calling a hash function on a given input key to produce an output key--is not a data structure ... It is an algorithm. Remember: data structures + algorithms = programs, with hashing constituting one half and hash tables the other half if you're using hashing for search, that is. 585 Views · 1 Upvote · Answer requested by Chetan Kamani

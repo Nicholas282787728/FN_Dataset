@@ -1,0 +1,2 @@
+Which type of ML/statistics methods fit a "select best candidate" scenario?
+If you really only care about best vs not best, that sounds like a classification problem. So, any of the various techniques used there would probably be applicable. Note that your data will be skewed towards negative examples, so you should account for that in your evaluation of your algorithm's performance. 

@@ -1,0 +1,2 @@
+★What is the difference between throughput and bit rate?
+Bit rate describes a speed, the speed at which bits can be transmitted. Throughput typically describes an average achievable speed.

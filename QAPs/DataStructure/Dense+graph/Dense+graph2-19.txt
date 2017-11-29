@@ -1,0 +1,2 @@
+Have there been any new brilliant computer science algorithms in last 10 years?Especially those that may REPLACE some algorithms in current textbook. Since most of the algorithms in textbook are designed in 20th century.
+So, not ten years, but after the 20th century: Agarwal et al. proved that primality testing is actually in P! However, the polynomial exponent was like 8 billion, so nobody in industry really cared. So it goes. 

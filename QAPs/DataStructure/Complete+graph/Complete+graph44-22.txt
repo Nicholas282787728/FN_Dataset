@@ -1,0 +1,2 @@
+What is the most esoteric programming language that you have tried?How did you learn about that programming language? What made you try programming using that language? Did you like programming using that language? Describe your experience.
+I used to do a project with NSIS (NSIS Wiki) a free installer. But the thing is when you need to call a function you need to push the attributes on the stack, like in the assembler, to be able to access them in your function. 

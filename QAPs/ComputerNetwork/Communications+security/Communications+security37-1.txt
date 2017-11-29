@@ -1,0 +1,2 @@
+★What are some good IT security resources on Near Field Communications (NFC)?Particularly with using NFC for payments applications, what are the risks and best practice security measures? Links to good free publications and research papers appreciated for my Instapaper list for this Winter, books on Kindle also good.
+Here is a recent article evaluating the security risks of NFC: How secure is NFC?

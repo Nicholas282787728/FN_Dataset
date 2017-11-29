@@ -1,0 +1,2 @@
+What is Fibonacci Heap used for in real life?
+Another resource: http://www.cs.princeton.edu/cour... 1.7k Views

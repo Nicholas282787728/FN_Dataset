@@ -1,0 +1,2 @@
+★Are communication satellites doomed to be completely replaced by optical fiber?If not, for what will they still be useful in the future?
+If you need to throw a lot of data across a huge area, nothing beats a national coverage satellite beam.  All places within the beam get the same data at the same time.  That's how HBO, etc can go to >10 million homes at once.  I heard that big internet content providers do the same thing.    Embed Quote

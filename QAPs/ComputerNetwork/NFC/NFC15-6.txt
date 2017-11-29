@@ -1,0 +1,2 @@
+★What are great NFC use cases outside of payment?
+NFC has so many interesting usage outside of payment. Here is our idea on the interactive greeting! We designed some beautiful NFC multimedia gift tags that can record a personal video greeting in it. And in case the phone doesn't have NFC feature, we use QR code as a backup retrieval tool. the world's first NFC gift tag with craft designs    Embed Quote

@@ -1,0 +1,2 @@
+What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
+How about using the machinery of the Calculus of Variations to prove that the shortest distance between two points is a straight line segment? Calculus of Variations 

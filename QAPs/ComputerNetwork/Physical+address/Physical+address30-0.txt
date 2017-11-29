@@ -1,0 +1,2 @@
+★How can I get the physical address of an IO request in the SSD?
+If you work for one of the major customer of SSD manufacturer, they willingly provide vendor unit command set for you to resolve physical address. Or not, it will be almost impossible to resolve it.    Embed Quote

@@ -1,0 +1,2 @@
+What are some things that programmers and computer scientists know, but most people don't?
+Simple looking bugs are sometimes nearly impossible to fix. The building in town with the most valuable contents isn't the bank or even the jewelry store; it's the data center. When your browser window freezes for 5 seconds, someone, somewhere, wrote bad javascript. The guy in charge is the guy who knows the least about what his company does.  ;) 

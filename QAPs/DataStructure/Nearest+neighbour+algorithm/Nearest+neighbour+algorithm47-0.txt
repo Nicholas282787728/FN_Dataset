@@ -1,0 +1,2 @@
+Wi-Fi: How does Wi-Fi help determine location?
+This is done by a method called war-driving. Essentially you drive around in a car ,sniff on all the channels and capture beacons of the wifi networks. Then you couple that SSID + BSSID  with your current GPS location (geo-tag) and store it in central database. When you roam with google maps on, it looks up the SSIDs of wifi it can see along with their signal strength. Then it can easily triangulate your position. There are websites which provide this service as well. Lookup http://www.wigle.net 

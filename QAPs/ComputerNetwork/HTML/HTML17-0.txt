@@ -1,0 +1,2 @@
+★Is a web browser just an HTML interpreter?
+I wouldn't have chosen the word "interpreter," I would have maybe said "renderer," but yes basically. It's an HTML do-something-with-er that also knows how to execute Javascript and download things from the network.

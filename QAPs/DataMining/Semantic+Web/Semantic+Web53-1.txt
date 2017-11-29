@@ -1,0 +1,2 @@
+★How do you explain semantic web to someone whose professional frame of reference is in order-taking, delivery, humoring customers, or catering in the food service industry?
+Semantic web is about computers understanding what information is on a web page. For example, if the lunch menu web page of a cafeteria contains location and price information in a format understandable by search engines, people could do searches like "where's the nearest lunch that costs less than $10".    Embed Quote

@@ -1,0 +1,1 @@
+This article may be confusing or unclear to readers. In particular, the discussion below uses "element", "value", "key", "separator", and "separation value" to mean essentially the same thing. The terms are not clearly defined. There are some subtle issues at the root and leaves. Please help us clarify the article; suggestions may be found on the talk page. (February 2012)

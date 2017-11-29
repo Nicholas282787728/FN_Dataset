@@ -1,0 +1,2 @@
+How do I solve the following recursion using recursion tree?
+Easiest way to analyze this is to repeatedly replace the terms on the RHS with the corresponding expansion. T(n) = T(n-a) + T(a) + cn          = T(n-2a) + 2T(a) + 2cn          ...          = T(n-ra) +rT(a) + rcn We want n-ra = c' for a constant c'. This means that r = (n-c')/a =O(n) for constant a. Hence, T(n) = T(c') + O(n)T(a) + cnO(n)          = O(n^2) 

@@ -1,0 +1,1 @@
+How do you initialize an array of structures in C?you just simply by this way #include<stdio.h> int main() { int php[5] //php is the array name and [5] is the value scanf(“%d%d%d%d%d”,&php[0],&php[1],&php[2],&php[3],&php[4]); printf(“%d%d%d%d%d”,php[0],php[1],php[2],php[3],php[4]); return 0; } 75 Views

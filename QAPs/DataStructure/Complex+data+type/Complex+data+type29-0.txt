@@ -1,0 +1,2 @@
+As a coder, why do you prefer C++ over C?
+Some of the reasons for not chosing C : using printf, scanf. specifying %d %f %u %s. C-style string sucks !!! Some of the reasons for chosing C++ : C++ STL       OOPS, C++ typecasts std::string Useful libraries C++11 and 14 Updated 8 Aug • View Upvotes

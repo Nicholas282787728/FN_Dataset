@@ -1,0 +1,1 @@
+In a weighted graph does the shortest path between two vertices change if we multiply all the weights with the same positive number?No. Think of it as a change of units, eg, from miles to kilometers. Distances don't change just because you change the unit of measure. Of course, this only works for multiplying by a positive number. 552 Views  View Upvotes

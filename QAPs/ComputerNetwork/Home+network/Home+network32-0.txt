@@ -1,0 +1,2 @@
+★How can I set up Lync for my home network?
+It depends on how the IT department of your company has setup the security for work account access.

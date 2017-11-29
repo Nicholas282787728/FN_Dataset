@@ -1,0 +1,2 @@
+★Who has the best forecasting software on the market?And why?  Ideally looking for a software package, not library for R or Python.
+Definitely depends on what you want to forecast and what features you are looking for. GMDH Shell currently has one of the best forecasting accuracy on the market by using artificial neural networks.    Embed Quote

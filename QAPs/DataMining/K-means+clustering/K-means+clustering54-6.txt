@@ -1,0 +1,2 @@
+★What are some Machine Learning algorithms that you should always have a strong understanding of, and why?I want this to be a general question that could cover different disciplines. If you have any algorithm from an application point of view, then please do mention that as well!
+In addition to the above mentioned algorithms, the following methods are very useful - Singular Value Decomposition and PCA Stochastic Gradient Decent approach Generalized Boosting Models K-Nearest Neighbors Hierarchical Clustering    Embed Quote

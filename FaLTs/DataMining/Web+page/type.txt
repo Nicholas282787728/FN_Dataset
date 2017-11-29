@@ -1,0 +1,4 @@
+Documents are sometimes classified as secret, private or public. They may also be described as a draft or proof. When a document is copied, the source is referred to as the original.
+There are accepted standards for specific applications in various fields, such as:
+a7a: thesis, paper, journal Business and accounting: Invoice, quote, RFP, Proposal, Contract, Packing slip, Manifest, Report detailed & summary, Spread sheet, MSDS, Waybill, Bill of Lading (BOL), Financial statement, Nondisclosure agreement (NDA) or sometimes referred to as; Mutual nondisclosure agreement (MNDA) Law and politics: summons, certificate, license, gazette Government and industry: white paper Media and marketing: brief, mock-up, script
+Such standard documents can be created based on a template.

@@ -1,0 +1,2 @@
+What books do you recommend to get introduced in the data mining "world"?
+Mat Kelcey  wrote a terrific blog post on this very subject.  It starts with beginner's material and moves toward more advanced topics. http://matpalm.com/blog/2010/08/...    Embed Quote 

@@ -1,0 +1,4 @@
+As noted above, the results of PCA depend on the scaling of the variables.
+The applicability of PCA is limited by certain assumptions[7] made in its derivation.
+As noted above, the results of PCA depend on the scaling of the variables.
+The applicability of PCA is limited by certain assumptions[7] made in its derivation.

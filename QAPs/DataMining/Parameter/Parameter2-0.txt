@@ -1,0 +1,8 @@
+★Can function be used as a parameter of another function?
+Yes, void wow(int func()); is a valid function declaration you can call this func from within wow: 1
+2
+3
+4
+ void wow(int func()) {     printf("%d", func()); } and to call wow itself, you need a suitable function to pass: 1
+2
+ int x(); wow(x);    Embed Quote

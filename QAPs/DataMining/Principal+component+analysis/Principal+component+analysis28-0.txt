@@ -1,0 +1,2 @@
+★Can we do principal component analysis on a dataset which is not multivariate normal?
+Absolutely, though you may need to use weighting and/or transformation. See: Multivariate Statistics.    Embed Quote

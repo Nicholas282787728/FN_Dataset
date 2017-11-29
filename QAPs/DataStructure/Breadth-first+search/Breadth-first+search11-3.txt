@@ -1,0 +1,2 @@
+How do I apply the breadth first search algorithm?
+Here are two examples of BFS implemented in python (you can run and edit them in your browser). The BFS is done at the end of each of these posts. Take a look at the whole posts to understand the point of dong BFS. The Longest River Jump Popularity Measures Both of these examples also compute a path from a start to an end vertex by pushing the paths into the BFS queue. 

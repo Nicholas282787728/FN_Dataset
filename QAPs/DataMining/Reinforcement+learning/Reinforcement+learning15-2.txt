@@ -1,0 +1,2 @@
+★Prototypes: What are some good resources to implement reinforcement learning?This is a follow up question to How do I learn machine learning?
+You might try Andrew NG's lecture on MAchine LEarning, the last 3 videos are all about Reinforcement Learning, he even goes over an helicopter example. If you want something more advanced, you might try the Machine LEarning Summer School in Cambridge (2009), where there is a really good lecture on RL. I think Bishops mentions it in his Machine Learning book, which is another great resource.    Embed Quote

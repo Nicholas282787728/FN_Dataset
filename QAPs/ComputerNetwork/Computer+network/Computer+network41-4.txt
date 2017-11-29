@@ -1,0 +1,2 @@
+★What is the significance of 127.0.0.1 in computer networks?
+Sometimes you have to talk to your conscience for proper functioning of your mind...It is like that.. this address is used for self-IP-Communication

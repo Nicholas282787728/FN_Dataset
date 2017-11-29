@@ -1,0 +1,2 @@
+Apart from introduction of object oriented programming, what other changes were made in c++ with regard to c?
+Thanks for the A2A, apart from those differences already mentioned: Automatic type conversions: Implicit type conversions make it possible to let go of the horrid void pointer Inclusion of a complex data type for complex numbers where the arithmetic operations are actually implemented using operators and not function calls. Overloading Create your own class libraries, like math++ Struct and union are type names new and delete instead of malloc and free 

@@ -1,0 +1,2 @@
+★How do I access the FTP on my WordPress site?
+Using a FTP client and the server/credentials provided by your web host. https://filezilla-project.org

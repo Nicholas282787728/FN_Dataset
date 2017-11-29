@@ -1,0 +1,2 @@
+★What are examples of interesting applications of text/NLP analysis on unstructured data in the social entrepreneurship/non profit space?
+Findnotice --- http://findnotice.com --- is using document classification and information extraction to make public notices searchable and useful. What's a public notice you ask? Check out the classified section of your local newspaper.    Embed Quote

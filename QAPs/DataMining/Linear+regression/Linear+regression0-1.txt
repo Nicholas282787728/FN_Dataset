@@ -1,0 +1,2 @@
+★What is linear regression?
+Linear regression is a mathematical technique which is used to find a straight line (hence linear) which best fits some set of data. This is usually done by finding the line that minimises the least squares error (which is the square of the distance from the data point to the line). See also Linear regression    Embed Quote

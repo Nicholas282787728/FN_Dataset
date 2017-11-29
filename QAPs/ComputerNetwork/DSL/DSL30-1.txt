@@ -1,0 +1,2 @@
+★Should I connect dsl router to wan port of wifi router?
+Sad thing I can't agree in Mike Frattos suggestion. I guess you might want to fully integrate the wifi network into your lan, so would do better by connection lan to lan. If you connect it to wifi-wan the wifi router will block very much connection attemps, from you lan to your wifi (by default). Infact, both works if you just dont care about anything mentioned above. If you connect LAN to LAN, some problems will occur. (f.e.: dhcp ).

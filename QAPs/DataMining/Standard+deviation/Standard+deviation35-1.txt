@@ -1,0 +1,2 @@
+★Why is standard deviation not a measure of central tendency?
+Because it is the root mean squared deviation from the mean. Thus location (central tendency) has already been removed.    Embed Quote

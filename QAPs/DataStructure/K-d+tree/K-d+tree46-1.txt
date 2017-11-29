@@ -1,0 +1,2 @@
+Where can I find topic wise algorithmic problems?
+I am surprised no one mentioned this :- The bible - TopCoder Statistics - Problem Archive Yes, what you are thinking of is a good strategy. Just check the url above, put in the category and solve a few questions with varying difficulty. If you are stuck you can look into the editorials for solutions. 

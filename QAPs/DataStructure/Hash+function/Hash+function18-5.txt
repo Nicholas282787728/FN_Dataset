@@ -1,0 +1,1 @@
+Where can I find effective hash functions for strings?I'm looking for quick and effective hash function samples preferably with O(1) time.

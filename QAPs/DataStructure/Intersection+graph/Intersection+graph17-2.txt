@@ -1,0 +1,2 @@
+What are the major differences between grid cells and place cells?... and why do we need both?
+In a ELI5/TLDR fashion: If you enter Room A, Cell A fires. If you enter Room B, Cell B fires but not Cell A. If you enter Room C, Cell C fires but not Cell B or A. Vice versa, Cell A only fires when you enter Room A and not B nor C. Cell A/B/C are place cells. But if you enter a hexagonal (for ease of explanation) room, Cell A only fires when you're at each corner of the room, but not in between, Cell A is a grid cell. 

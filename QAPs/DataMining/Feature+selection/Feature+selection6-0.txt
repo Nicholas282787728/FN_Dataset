@@ -1,0 +1,2 @@
+★Is the chi-squared feature selection better than the mutual information-based feature selection mechanism?
+Not exactly. When I tried both of them on a few datasets using R, I found  both of them giving 0 value (importance) for the same noisy/irrelevant features. But the quantiles were more even in chi-squared than in mutual information, though I think that depends on your dataset in general. Not really sure how to compare the two.    Embed Quote

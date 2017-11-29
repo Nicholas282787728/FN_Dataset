@@ -1,0 +1,2 @@
+★Are machine learning algorithms used in weather forecasting?If so, which ones? If not, why? It seems like a very good application for machine learning.
+I use neural networks to forcast short-term wind speed and direction. The same thing can be done for other measured data souch as temperature, relative humidity, etc.    Embed Quote

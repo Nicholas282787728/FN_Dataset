@@ -1,0 +1,2 @@
+★I am using 3 features/independent variables in a multiple regression model trained on only 12 data points (times series).  My R^2 is high (97%+)/standard error low, but am I likely over-fitting my model given the few data points?How can I tell?
+High variance does occur often with small (in your case tiny) data sets ...  can you find some data to do an out of sample test?  If your model does not perform as well (much lower R^2) on the new data then you can tell you were overfitting on the original data set..    Embed Quote

@@ -1,0 +1,2 @@
+What are some tips for an intermediate level computer programmer to become an expert?
+I approach this from a different angle. Visit your friends who are working in different fields and see how your intermediate level programming could possibly help their tasks. Then you might discover expert level (because you would be an expert to your friend) solutions to their problems. Your friend could be working in a field which has not exploited the computer in a novel way. 

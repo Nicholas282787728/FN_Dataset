@@ -1,0 +1,2 @@
+★What is HTML Elements?
+An html element is an individual component of an html document html elements are written with a start tag, with an end tag, with the content in between: <tagname>content</tagname> Eg-/-  <p>html elements.</p>

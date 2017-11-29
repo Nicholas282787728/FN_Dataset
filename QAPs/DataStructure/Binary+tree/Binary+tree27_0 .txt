@@ -1,0 +1,1 @@
+What are the ways to check if a binary tree is a BST or not?Do an In-order traversal and for every node check if the current node is smaller than the previous node. If yes, then the tree is not a BST. If this condition holds true till the end, then the tree is a BST. To implement this, we just need to keep a track of the previous node visited. 

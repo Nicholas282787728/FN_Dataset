@@ -1,0 +1,2 @@
+★What is the best Transmission block list URL?
+It will be a little fragile, but I am currently just concatenating the bluetack lists taken from iblocklist.  https://gist.github.com/3331662.   You're welcome to try it out. Hosted: http://john.bitsurge.net/public/... Works for me.    Embed Quote

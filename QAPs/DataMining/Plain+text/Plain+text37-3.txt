@@ -1,0 +1,2 @@
+★What is the best plain text editor (equivalent to the MS Notepad) for Linux? Is there a simple program I can use for plain text that can be sent to Linux, Windows, and Apple machines?
+Best? That's a matter of taste. "vi" (or "vim") and "emacs" are what I use (and I use both, often simultaneously.)  I don't care much for GUI text editors - and "emacs" satisfies my needs when a GUI is appropriate.  I haven't bothered with others (like "nano") because I also deal with FreeBSD systems - and "vi" is there, always.    Embed Quote

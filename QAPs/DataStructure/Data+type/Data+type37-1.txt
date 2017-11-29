@@ -1,0 +1,2 @@
+How do you Explain "Abstract Data Types" in layman terms?
+With what I understood about ADT I would like to explain it with a scenario in layman terms: You enter a hotel and the waiter comes and asks what would you like to have. You say a cup of coffee. After some minutes, you get what you asked for. You pay for what you had and leave the place. Here, the functions that you did were 1. Entering into the hotel and settling down. 2. Answering to the waiter. 3. Paying for what you had. ... (more)

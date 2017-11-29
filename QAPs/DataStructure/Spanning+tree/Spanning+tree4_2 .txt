@@ -1,0 +1,1 @@
+How do I get a second minimum spanning tree?Details with Example?First, you can get the MST (minimum spanning tree ),the algorithms is Prime, then you can enum other all edges to find 2nd spanning tree. However, you should know if you want to get 2nd spanning tree you only can exchang one edge by MST. 

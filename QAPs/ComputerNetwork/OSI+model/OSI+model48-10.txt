@@ -1,0 +1,2 @@
+★What's the best way to get started with firmware/embedded systems programming?
+1: Check what you study in depth in the last 4 years and then try to make a project based on it (not so costly). 2: After that, start making a small but effective project by using various tools based on an embedded system. 3: Last and final world "stay hungry & stay foolish"  because "You are your own best teacher".    Embed Quote

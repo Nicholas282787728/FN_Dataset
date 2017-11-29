@@ -1,0 +1,2 @@
+★Radio Frequency Systems: What is coupling and isolation, regarding Directional Coupler?
+Directional couplers is a microwave device which are widely used in the microwave system ,  the power of the microwave signal is assigned a certain proportion by it.To obtain the maximum power of the port is called through port.The coupled port of the power smaller than the input power of a fixed value.The isolated port almost no output power    Embed Quote

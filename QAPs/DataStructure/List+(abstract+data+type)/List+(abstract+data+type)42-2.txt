@@ -1,0 +1,2 @@
+Can data structures be implemented in Python?
+Yes! I myself use python for implementing data structures although it has already provided inbuilt data structures 

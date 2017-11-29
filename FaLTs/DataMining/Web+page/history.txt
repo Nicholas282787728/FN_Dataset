@@ -1,0 +1,6 @@
+Traditionally, the medium of a document was paper and the information was applied to it as ink, either by hand (to make a hand-written document) or by a mechanical process (such as a printing press or, more recently, a laser printer).
+Through time, documents have also been written with ink on papyrus (starting in ancient Egypt) or parchment; scratched as runes on stone using a sharp apparatus; stamped or cut into clay and then baked to make clay tablets (e.g., in the Sumerian and other Mesopotamian civilisations). The paper, papyrus or parchment might be rolled up as a scroll or cut into sheets and bound into a book. Today short documents might also consist of sheets of paper stapled together.
+Modern electronic means of storing and displaying documents include:
+desktop computer and monitor (or laptop, tablet PC, etc.); optionally with a printer to obtain a hard copy Personal digital assistant (PDA) dedicated e-book device electronic paper information appliances digital audio players radio and television service provider
+Digital documents usually have to adhere to a specific file format in order to be useful.
+That documents cannot be defined by their transmission medium

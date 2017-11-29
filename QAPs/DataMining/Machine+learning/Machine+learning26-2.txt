@@ -1,0 +1,2 @@
+★What are some good books on machine learning?
+My top-4 machine learning books: Pattern Classification (Richard O. Duda) Machine Learning (Tom M. Mitchell) Pattern Recognition and Machine Learning (Christopher M. Bishop) Machine Learning: A Probabilistic Perspective (Kevin P. Murphy)I wrote a small review about these on Machine Learning Books - Computer vision for dummies    Embed Quote

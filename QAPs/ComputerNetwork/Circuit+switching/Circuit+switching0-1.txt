@@ -1,0 +1,2 @@
+★What is the difference between packet switch and circuit switch?
+Packet switching sends packets over multiple network paths to conserve bandwidth but requires the receiver to reconstruct the order the packets belong. Circuit switching reserves a single network path from transmitter to receiver, making it less efficient bandwidth wise, but more effective in eliminating error-correction latency and dropped-packet kinds of signal loss/noise.

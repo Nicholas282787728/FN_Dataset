@@ -1,0 +1,2 @@
+How do I design a hash function that hashes a finite list of integers to very few hash values?
+So you're trying to test set membership for finite list of integers via a hash function? Off the top of my head, maybe something like: Define your list of integers L = [ i_0, i_1, ... , i_n]. And your hash function H(x) = (i_0 - x)(i_1 - x)...(i_n - x). Then, if x is in L, H(x) = 0. Else, H(x) != 0. 

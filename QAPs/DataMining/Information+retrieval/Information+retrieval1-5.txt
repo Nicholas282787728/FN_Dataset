@@ -1,0 +1,2 @@
+★What are some good resources to get started with Information Retrieval? Why?
+I'm surprised at not seeing "Modern Information Retrieval" by R. Baeza-Yates and B. Ribeiro-Nero being mentioned, the recently published second edition (http://mir2ed.org/) of which appears to cover the cutting edge of IR at the moment.    Embed Quote

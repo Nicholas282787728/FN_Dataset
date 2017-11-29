@@ -1,0 +1,1 @@
+How does one begin to tackle understanding a large open source code base?Often times I've wanted to dig in behind the scenes of things such as the linux kernel, the JDK, MySQL. What techniques do you use for getting a handle on a large code base ?

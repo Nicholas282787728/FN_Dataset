@@ -1,0 +1,1 @@
+Facebook Graph API: Is there a way to retrieve a user's events within a date interval?For example, say you want to retrieve all of a person's events in the upcoming week - is there a modifier to the graph API request you can use?

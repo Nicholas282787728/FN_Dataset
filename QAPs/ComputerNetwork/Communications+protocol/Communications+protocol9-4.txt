@@ -1,0 +1,2 @@
+★Which wireless communication protocol is used in wireless keyboards and mice?
+It's 2.4 GHz RF protocol. Unfortunately, this can be easily decoded and sniffed so be careful using wireless keyboards in public places. Someone with evil plans can track your keystrokes.

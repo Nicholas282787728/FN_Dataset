@@ -1,0 +1,2 @@
+Why is the real part always first in complex numbers?
+No problem. You can start writing imaginary part first. (Anyway, addition is commutative :) ) 

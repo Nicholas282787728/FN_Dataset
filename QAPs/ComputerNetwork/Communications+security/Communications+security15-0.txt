@@ -1,0 +1,2 @@
+★What is the best option between a career in DSP, communication and cyber security?
+Since you have been working in IT, I assume that you must be pretty good at programming. So the best option IMHO will be to try for Software Engr related positions in any of the wireless comm companies like Qualcomm, Broadcom etc. That way you are making use of the skills that you have developed and also working in the area of Signal processing and Communication.

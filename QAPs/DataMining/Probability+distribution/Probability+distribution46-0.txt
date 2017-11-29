@@ -1,0 +1,2 @@
+★Which probability distribution is followed in the scenario described below?
+A hypergeometric distribution is the distribution of the number of red balls in a sample of size n (drawn without replacement) from a population of size N with K red balls in the population. Here N=2X and K=X. You are asking for the probability that there are X/2 red balls in a sample of size n=X-6. This will automatically force there to be X/2 red balls in the complement of size X+6.    Embed Quote

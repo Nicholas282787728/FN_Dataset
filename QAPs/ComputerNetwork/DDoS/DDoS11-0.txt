@@ -1,0 +1,2 @@
+★How can I DDoS a website?
+The simplest way is using the free software, Low Orbit Ion Cannon. http://en.m.wikipedia.org/wiki/L... This is what Anonymous used in their famous DDOS attacks a few years back. Act responsibly. Some of those guys went to prison for this.

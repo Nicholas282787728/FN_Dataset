@@ -1,0 +1,2 @@
+Given a bidirectional graph, how can I find number of unique paths (mod 10007) going from vertex 1 to vertex n (n <= 100, m <= 400 (m is number of edges))?
+There are an infinite number of paths, as long as the graph is connected and n >= 3. The problem specification should state something along the lines of "no edge can be traversed twice" or "no vertices can be visited twice".   The algorithm to use is BFS/dp. 

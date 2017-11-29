@@ -1,0 +1,2 @@
+What is there difference between [math]O(n)[/math] and [math]O(\log n)[/math]?
+There are lots of growth rates between linear and logarithmic, but maybe not so many that have wide application.  Fractional powers [math]p[/math] between 0 and 1, [math]\mathcal O(n^p),[/math] are in that range. Probably the most common one is [math]\mathcal O(\sqrt n).[/math]  Another is poly log, polynomial in log, [math]\mathcal O((\log n)^c)[/math] where [math]c>1.[/math] Updated 55w ago • View Upvotes

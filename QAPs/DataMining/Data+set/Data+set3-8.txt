@@ -1,0 +1,2 @@
+How can I crunch big data sets with my laptop?
+1 GB .csv is not big data! You can easily fit that into memory. Just make sure that you use a language which is memory efficient (generally: C > Python > Java > PHP)    Embed Quote 

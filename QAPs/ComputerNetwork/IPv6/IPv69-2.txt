@@ -1,0 +1,2 @@
+★How will IPV6 affect China's Great Firewall?
+Don't think so. IPv6's main goal is to provide unlimited iP address, which is a layer below the message exchange one. GFW works by examing the messages using keyword matching and new semantic based technology. Changes to the underlying mechanism won't affect the top layer in this case.    Embed Quote

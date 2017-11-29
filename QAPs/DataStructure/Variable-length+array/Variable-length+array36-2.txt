@@ -1,0 +1,2 @@
+Why is my C++ code showing a compilation error to problem SPOJ.com - Problem FIBOSUM?
+Try to find the sum of the first n Fibonacci numbers. That'll reduce the computations greatly. Also, you can try to use a better method by which you calculate the nth Fibonacci number. 

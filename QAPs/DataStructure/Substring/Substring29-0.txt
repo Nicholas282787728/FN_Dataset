@@ -1,0 +1,2 @@
+What are the approaches suitable to generate all substrings of a given string?
+public class Substring {       public static void main(String[] args) {       String string, sub;       int i, c, N;       Scanner in = new Scanner(System.in);       N=in.nextInt();       in.nextLine();       string  = in.nextLine();       for( c = 0 ; c < N ; c++ )       {          for( i = 1 ; i <= N - c ; i++ )          {             sub = string.substring(c, c+i);             System.out.println(sub);          }       }     } } Even more efficient approach may be possible 

@@ -1,0 +1,2 @@
+★Is DynamoDB good for unstructured data?
++ 1 to Mike Hoey's asnwer. Adding to that, In Dynamo, the size of data you store contributes to the consumed units, but only in steps of 1KB for write, 4KB for read. So, if size of the unstructured data is so big that it will consume units/throughput unacceptable for you, you'll have to go to S3.    Embed Quote

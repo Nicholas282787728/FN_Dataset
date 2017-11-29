@@ -1,0 +1,1 @@
+If one element is taken from a countably infinite set, is it still infinite?If subtracting one unit from any set results in a finite set, then it certainly wasn't an infinite set. That would mean that there is some finite number N such that N+1 is infinite. So yes. 47 Views

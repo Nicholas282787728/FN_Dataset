@@ -1,0 +1,2 @@
+What are the best and efficient ways to learn algorithms for beginners?
+The Algorithm Design Manual by Steven Skiena Introduction to Algorithms: A Creative Approach: Udi Manber Algorithm Design: Jon Kleinberg, Éva Tardos are three books by top scientists that make an effort to present algorithms in an applied, grounded-in-real-problems, fashion. If these books do not interest you, I suggest you seriously consider studying a different subject. 

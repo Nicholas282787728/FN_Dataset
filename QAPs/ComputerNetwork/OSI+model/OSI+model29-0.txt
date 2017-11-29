@@ -1,0 +1,2 @@
+★What are the best materials to learn how OSI 7 Layer Model works?
+Computer Networks (5th Edition): Andrew S. Tanenbaum, David J. Wetheral is a classic reference, but don't get too hung up on it.  It's a MODEL, not gospel.    Embed Quote

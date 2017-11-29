@@ -1,0 +1,2 @@
+★Intuitively, why does every operator on an odd-dimensional real vector space have an eigenvalue? Why is this not true for even-dimensional vector spaces?
+Rotating a ball always has an axis which is through the ball. Rotating a circle in a plane doesn't have an axis unless you go out of that plane.    Embed Quote

@@ -1,0 +1,2 @@
+★What is the name of this optical fiber?As you can see from what I attached that image, I want know, what kind of that optical fiber it is.
+This is probably a highly multi-moded optical fiber. If ray optics can be used the fiber must support at least 40 modes.    Embed Quote

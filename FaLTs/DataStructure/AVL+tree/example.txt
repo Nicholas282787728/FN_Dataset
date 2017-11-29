@@ -1,0 +1,18 @@
+AVL tree with balance factors (green)
+To be balanced, every node in the tree must, either,
+
+    have no children, (be a "leaf" node)
+    Have two children.
+
+    Or, if it has only one child, that child must be a leaf.
+
+    In the chart you post, 9, 54 & 76 violate the last rule.
+
+Root: 23
+(23) -> 14 & 67
+(14) -> 12 & 17
+(12) -> 9
+(17) -> 19
+(67) -> 50 & 72
+(50) -> 54
+(72) -> 76

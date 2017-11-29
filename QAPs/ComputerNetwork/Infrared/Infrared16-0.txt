@@ -1,0 +1,2 @@
+★How is audio transmitted using infrared light?
+I seriously doubt that your phone has the hardware to generate a modulated 2.6MHz IR signal. That's some fast switching that calls for specialized drivers and sources, most likely lasers. Most IR links using LEDs run in the 40-50 kilohertz region and only have a range of a few meters.    Embed Quote

@@ -1,0 +1,2 @@
+★Is a web browser just an HTML interpreter?
+Web browsers are HTML and CSS renderers and JavaScript parsers. Some support additional languages/technologies, but HTML + CSS + JS is the standard. These days, most browsers are extensible, so they are robust platforms for web consumption and a good many other uses besides.

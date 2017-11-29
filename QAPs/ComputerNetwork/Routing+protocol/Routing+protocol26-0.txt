@@ -1,0 +1,2 @@
+★How many routing protocols can be configured on a single router at same time?
+As you many as you want and router supports. But, they must be assigned priorities. Routing protocol with highest priority will be enabled by default. Tested in GNS3.    Embed Quote

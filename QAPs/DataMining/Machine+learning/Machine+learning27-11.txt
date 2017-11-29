@@ -1,0 +1,2 @@
+★I want to learn machine learning. Where should I start?
+You can start with: * Andrew Ng's online course (coursera) (Coursera) * Machine Learning, Tom Mitchell: Machine Learning textbook * Machine Learning Course Materials of Stanford university: (Machine Learning (Course handouts)) -Machine Learning: An Algorithmic Perspective (Chapman & Hall/Crc Machine Learning & Pattern Recognition)    Embed Quote

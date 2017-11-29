@@ -1,0 +1,1 @@
+What is the best way to remember the insertion and deletion in a red-black tree, B-tree, binomial heap and Fibonacci heap?The best way is to implement these algorithms in C. Debug yourself without help from internet. And when you're done, they will be crystal clear to you.

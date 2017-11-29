@@ -1,0 +1,2 @@
+What would be the best resources to study about trees, graphs, hash tables, etc.?
+Read Introduction to Algorithms , Skiena or Kleinberg, learn a language and implement the pseudocodes yourself. For practical implementations used in practice you might want to look at open source implementations of STL, libraries like Boost (C++) or Java collections itself. 1.2k Views · 7 Upvotes

@@ -1,0 +1,2 @@
+What is the best web API for creating images of graph or tree data structures (nodes and edges)?
+If you want some more flexibility (regarding programming language choice and the visual elements), try Processing: http://processing.org/ You can either embed a Java applet or use the JavaScript implementation (http://processingjs.org/) which uses the HTML5 Canvas element Updated 291w ago • View Upvotes

@@ -1,0 +1,2 @@
+★What would you put on a regression analysis checklist?Basically what should you do whenever you run a regression. Examples: plot the residual, check the significance of coefficients etc.
+Check normality of residuals Check fit of model Check for collinearity Check for outliers and influential points Check for nonlinearity (Sometimes) check for interactions Most of all.... check that it makes SENSE!    Embed Quote

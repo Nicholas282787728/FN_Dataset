@@ -1,0 +1,2 @@
+What are the algorithms to generate a random maze?
+Maze Generation: Algorithm Recap has demonstrations of most of the standard maze generation algorithms. 

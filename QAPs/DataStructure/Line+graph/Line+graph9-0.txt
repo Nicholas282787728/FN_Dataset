@@ -1,0 +1,2 @@
+How do I present a line graph on a webpage?
+You can create a graphic, of course. Or, if you want the data to be live, you use a graphing API. There are lots of them out there. Google has a popular one: https://developers.google.com/ch... Google jQuery Chart API for many more: jquery chart api - Google Search 861 Views · 1 Upvote

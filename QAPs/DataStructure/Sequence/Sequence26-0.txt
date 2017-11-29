@@ -1,0 +1,2 @@
+What is the Fibonacci Sequence?
+First two numbers are defined as 0 and 1. and after that each term is the addition of the preceding two terms. i.e. F_3=(0+1)=1, f_4=(1+1)=2, F_5=3, F_6=5,f_7=8 like wise. 

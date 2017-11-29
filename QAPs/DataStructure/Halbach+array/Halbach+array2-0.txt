@@ -1,0 +1,2 @@
+Is it possible to create a magnetic field in one direction only?
+"Magnetic field in one direction only" can have multiple interpretations. Halbach array C-core electromagnets have fields focused in a single direction at the gaps. So do toroidal cores, where the field is focused entirely inside the coils. 

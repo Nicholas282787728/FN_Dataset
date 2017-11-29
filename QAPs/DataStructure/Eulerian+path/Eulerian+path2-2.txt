@@ -1,0 +1,1 @@
+Two strings can be chained if the first one ends with the same character second one starts with. Given set of 'n' strings, how can we verify efficiently, whether they can be chained or not?How can we find the length of longest chain?

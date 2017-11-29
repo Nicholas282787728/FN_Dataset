@@ -1,0 +1,1 @@
+Which search algorithm is used by Google to find millions of websites?Answer itself is hidden in your question. Google uses its search algorithm to discover billions of websites. Finding is defined as crawling when we refer to Google's search algorithm. Know more about How Google search works from Google itself : How Search Works 

@@ -1,0 +1,2 @@
+Difference between binary search tree and red black tree?
+A red and black tree is self-balancing BST that ensures the worst case time  complexity is O(logN) and a height of logN. A binary search tree has no balancing and therefore has a worst case time complexity of O(N) and a worst case height of N. A BST could look exactly like a red and black tree and have O(logN) complexity, but sometimes will not. 

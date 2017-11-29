@@ -1,0 +1,1 @@
+How do I show that if the logical statement p=∀x(A(x) ↔[F(x) ∨∃y(P(x,y) ∧A(y))]) is true then the statement q=∃x¬A(x) →∃x¬F(x) is a valid conclusion?Hint: Suppose there exists an x x such that A(x) A(x) does not hold. What do we know then from p p ? 61 Views  View Upvotes  Answer requested by 1 person

@@ -1,0 +1,2 @@
+★What are the best machine learning packages in R?
+I think a lot of good packages were mentioned already. In my opinion some other packages are: adabag - Ada Bagging and Boosting mclust - Mixture modeling neuralnet - Neural Networks As mentioned by Ferris: glmnet is very good package if you want to deep dive into generalized linear models Rest great packages are mentioned by Janu    Embed Quote

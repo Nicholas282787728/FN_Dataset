@@ -1,0 +1,2 @@
+What types of technical questions are asked in developer interviews?
+I have given a lot of interviews in recent years (and taken hundreds too). One thing I can tell from my experience is that preparation matters a lot. The number of problems you have seen increases your chances of succeeding. I have always found it hard to solve a completely unknown problem in an interview. On that note there is a new app in appstore and android for interview preparation. They have a good collection of problems asked at high tech companies I recommend going through that >>> Coderust 

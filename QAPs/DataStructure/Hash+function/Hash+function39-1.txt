@@ -1,0 +1,2 @@
+How are hash functions one-way?
+A hash value can be calculated from a file but the file cannot be created from the hash value for the file. 

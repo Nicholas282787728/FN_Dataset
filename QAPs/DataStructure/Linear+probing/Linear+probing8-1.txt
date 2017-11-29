@@ -1,0 +1,2 @@
+How can we solve the problem of collision in the hash?
+Read about these: Separate chaining Linear Probing Quadratic Probing Double hashing I could have gone ahead and copy pasted some data from wiki, but I'm sure you can go and read it there :-) 

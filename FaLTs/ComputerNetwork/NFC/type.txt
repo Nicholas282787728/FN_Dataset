@@ -1,0 +1,3 @@
+Networks are subject to attacks from malicious sources. Attacks can be from two categories: "Passive" when a network intruder intercepts data traveling through the network, and "Active" in which an intruder initiates commands to disrupt the network's normal operation.[9]
+Types of attacks include:[10]
+Passive Network wiretapping Port scanner Idle scan Active Denial-of-service attack Spoofing Man in the middle ARP poisoning Smurf attack Buffer overflow Heap overflow Format string attack SQL injection

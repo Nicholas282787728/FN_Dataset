@@ -1,0 +1,2 @@
+★Assume a noise spike lasts for 1us and causes errors during the spike. For a data rate of 1Mbps, how many bits can be in error?A. 100 B. 10 C. 1 D. None of the above
+Homework question! Network speed is measured in bits per second. Spike of error has the unit, seconds. The answer's units are in bits. What do you think is the relationship between the three? Hint 2: Just requires lower school arithmetic.

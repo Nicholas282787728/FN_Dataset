@@ -1,0 +1,2 @@
+★What is the best language for developing web scraping and web indexing softwares?
+Python with scrapy!    Embed Quote

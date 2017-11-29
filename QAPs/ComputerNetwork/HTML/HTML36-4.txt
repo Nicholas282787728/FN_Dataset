@@ -1,0 +1,2 @@
+★How do I send a html email?I have an img tag, like this:  <img src="someImageLink.jpg"/> When I just type that in the body of gmail, the text gets displayed, not the image. How do I do this? I want to embed the image in the mail his body.
+I don't exactly understand if you're asking to send an email to someone using html or to display an Image that is also a link to another page. If it is the second one though this might help: <a href="http:\\Example.com/> <img src="images.jpg" alt="Description here"> </a>

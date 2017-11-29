@@ -1,0 +1,2 @@
+★If f(a+b) = f(a) + f(b) and f is differentiable, what is f'(x)?Let be a continuous function such that , for all . Find the derivative of with respect to .
+We have:  , for all Putting , for some constant k, we get:   Differentiating above equation with resepect to x, we get:   => is a constant function!    Embed Quote

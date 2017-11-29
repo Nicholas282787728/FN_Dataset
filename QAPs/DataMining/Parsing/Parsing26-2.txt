@@ -1,0 +1,2 @@
+★What else is a finite state machine used for except language parsing?
+DB engines have many state machine-driven methods and algorithms, especially relating to transaction handling, lock management, and crash recovery.    Embed Quote

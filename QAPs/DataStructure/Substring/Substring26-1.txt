@@ -1,0 +1,2 @@
+Given two Strings S1 and S2. What is the longest Substring that is a Prefix of S1 and suffix of S2?
+This comes to mind. Note: this is not meant to be in any specific language, but structure and functionality should be obvious.   function SubPre(str1, str2){    idx1 = 0;    idx2 = length(str2) - 1;    match = '';    while (idx1 < length(str1) && idx2 >= 0)    {        if (substr(str1, 0, idx1) == substr(str2, idx2))        {             match = substr(str1, 0, idx1);        }        idx1++;        idx2--;    }    return match} 

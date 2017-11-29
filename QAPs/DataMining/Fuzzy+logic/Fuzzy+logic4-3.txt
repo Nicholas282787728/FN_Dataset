@@ -1,0 +1,2 @@
+★What is the difference between fuzzy logic and probability?b'coz degrees of truth are often confused with probabilities.
+Fuzzy logic is based on approximation rather than binary result in which you are rather prepared for the possible conditions. Probability is possibility of occurrence of an event. In order to compare the two, I would say fuzzy logic is occurrence of an event i.e. you are in the moment where as probability is prediction.    Embed Quote

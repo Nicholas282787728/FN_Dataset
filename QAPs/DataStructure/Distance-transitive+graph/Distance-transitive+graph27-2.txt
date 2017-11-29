@@ -1,0 +1,2 @@
+What are the best sites available on the internet to learn dynamic programming, algorithms, and data structures?
+Well, I found out that people have a lot of trouble understanding dynamic programming. Hence, I have written a blog post regarding the same to explain it in the best possible way and simple language. Click here to view the blog post. You can raise your concern in comments if you face any doubts after reading the tutorial. 

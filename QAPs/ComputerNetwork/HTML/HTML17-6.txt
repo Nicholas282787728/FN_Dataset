@@ -1,0 +1,2 @@
+★Is a web browser just an HTML interpreter?
+A web browser is your mediator between you and some remote server. They both understand a few common languages like HTML. Phil used the very correct word for browser which is "renderer". Browser parses all the text (eg. HTML) sent from server and renders a webpage out of that. Browser can also capture your interaction with the webpage which it may or may not send to the server in the form of HTML requests.

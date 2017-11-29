@@ -1,0 +1,2 @@
+Should I rather study CLRS or "cracking the coding interview" in my free time in university?
+As already mentioned in some answers, both the books serve completely different purposes. So, mix both will be best, as per your requirement. For solving questions, I would suggest this site : Sign In for Coding Interview Preparation at InterviewBit, similarly for understanding topics and implimentation you may go to : GeeksforGeeks | A computer science portal for geeks , and if you have enough free time and interest you should try Competitive Programming. 

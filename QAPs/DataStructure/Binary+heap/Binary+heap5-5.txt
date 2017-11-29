@@ -1,0 +1,1 @@
+Why is it when removing the root of a binary heap that we replace it with the rightmost element in the last level?I know it is guaranteed to work, but is it the most efficient way?

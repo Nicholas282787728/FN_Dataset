@@ -1,0 +1,2 @@
+★What is wine ontology?
+The Wine Ontology is a popular example of an OWL ontology. It describes a domain of wines (the beverage). The ontology can be found in a form of RDF/XML file here: Page on w3.org, and is used in the tutorial describing OWL here: OWL Web Ontology Language Guide. see also: Web Ontology Language, Resource Description Framework    Embed Quote

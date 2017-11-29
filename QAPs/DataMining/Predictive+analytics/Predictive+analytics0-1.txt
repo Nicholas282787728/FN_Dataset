@@ -1,0 +1,2 @@
+★What are some real-world examples of predictive analytics?
+In Retail, predictive analytics helps in identifying the most profitable customers. It will help us identify which products, promotional offers will enhance sales and hence attract customers the most. In Financial industry we want to minimise risk. Predictive Modelling is used for credit scoring which helps grow customer profitability.    Embed Quote

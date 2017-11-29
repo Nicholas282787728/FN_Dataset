@@ -1,0 +1,2 @@
+Theoretical Computer Science: What NP-complete problem are most researchers working on?
+Traveling Salesman Problem, Hamiltonian Path or Cycle Problem, Satisfiability Problem. Better have a look on karp's 21 np complete problems to start with. 

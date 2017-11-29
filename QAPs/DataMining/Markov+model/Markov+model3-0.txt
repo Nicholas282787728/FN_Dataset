@@ -1,0 +1,2 @@
+★What is a simple explanation of the Hidden Markov Model algorithm?
+http://compbio.mit.edu/teaching.... (Manolis Kellis):    Embed Quote

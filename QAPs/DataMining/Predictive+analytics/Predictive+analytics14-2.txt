@@ -1,0 +1,2 @@
+★What are useful predictive analytics models for mass e-retailers?Focus on themes besides usability, and on models and not start-ups: recommendations, churn prediction, pricing optimization.
+- Having recommendation system is good but how? - Having prices set to be optimized is good but how? In general, ensemble models, which combine multiple algorithms together (eg random forest, boosting) performs better than individual algorithms.    Embed Quote

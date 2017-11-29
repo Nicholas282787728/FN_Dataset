@@ -1,0 +1,1 @@
+Are there any algorithms of the order O(sqrt(n))?

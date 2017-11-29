@@ -1,0 +1,2 @@
+★How important was Claude Shannon's "A Mathematical Theory of Communication" article to the fields of information theory, encoding, wireless communication, and compression?
+He defined and quantified 'information,' a something distinct from physical substance. People since Plato have been puzzling over what distinctions like word and thing mean. He opened that door. The economic and mechanical results are all around us. The philosophical ones are just starting to sink in.  Some talk about a trio: Newton, Einstein, Shannon.    Embed Quote

@@ -1,0 +1,2 @@
+★What are some of  the very good ETL tools for mysql?
+Here's a new data integration buyers guide that includes 24 top DI tools with product descriptions and reviews. I believe that many of them are good for mysql . http://solutions-review.com/data...    Embed Quote

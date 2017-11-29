@@ -1,0 +1,2 @@
+★Will Hadoop replace ETL?
+The answer is no. Hadoop is a ecosystem of different frameworks and ETL is data processing using extract-transform-load principle. Both are two different things.  You can still do ETL(EL-T) inside Hadoop.    Embed Quote

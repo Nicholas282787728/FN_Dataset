@@ -1,0 +1,2 @@
+★Are high frequency trades all automated?
+Not necessarily. There is a field called "grey box" trading which requires a trader to man the helm of a trading system. They generally tweak parameters or offset positions intraday by hand.

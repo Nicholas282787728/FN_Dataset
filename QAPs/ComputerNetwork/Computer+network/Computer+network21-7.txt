@@ -1,0 +1,2 @@
+★How do I learn Computer Networking in an effective and practical way?
+start with networking fundamentals using juniper networks website..  It gives a simple and elegant introduction.. visit: Page on juniper.net

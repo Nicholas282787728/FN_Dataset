@@ -1,0 +1,2 @@
+How is sizeof() an operator but not a function? Can you give source code for it?
+sizeof works on types at compile time, function is run time entity. Compiler very well aware of the type of operand on which sizeof is working, and will replace the expression with an unsized integer ( size_t to be precise). 

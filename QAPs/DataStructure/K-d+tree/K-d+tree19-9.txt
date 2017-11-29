@@ -1,0 +1,1 @@
+What is the point of doing machine learning, when you have something so robust as the nearest neighbour algorithm?What better justification/support/evidence can you give about your inference than saying there is(are) a point(s) already in the (indexed)dataset which is really close to your query point.

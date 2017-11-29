@@ -1,0 +1,2 @@
+What are some uses of hashing algorithms?
+(A2A) Last week, there was an interesting article on how Dropbox uses hashing to detect copyright violations - How Dropbox Knows When You’re Sharing Copyrighted Stuff (Without Actually Looking At Your Stuff) Hashing allow us to implement Hash tables, which are used for many, many things. I would suggest you check out wikipedia: Hash table - Uses Basically, hashing can be a great technique whenever efficient insertions and lookups are necessary. 

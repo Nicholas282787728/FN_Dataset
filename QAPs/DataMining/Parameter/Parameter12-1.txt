@@ -1,0 +1,2 @@
+★What is the density parameter?What is the density parameter (Omega)? the density parameter is the ratio of the observed density to the critical density. But density of what? Is it density of energy?
+The observed density is the density of the universe, using the classical definition of density, ρ=m/V. The critical density is the density of a flat universe (one in which the universe eventually stops expanding, but does not collapse), which is determined from a combination of kinetic energy, gravitational energy, and Hubble's Law: ρc = (3(Ho)^2)/(8πG)    Embed Quote

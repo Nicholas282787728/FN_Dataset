@@ -1,0 +1,2 @@
+★What kind of projects will get me a job at Google?
+I decided to do a Python algorithm visualization project. This had the additional benefit of focusing my preparatory interview studies. I also applied actual full-stack Google products in the process that I could discuss in my interviews:

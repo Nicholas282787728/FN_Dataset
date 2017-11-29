@@ -1,0 +1,2 @@
+★How can you avoid if statements in linear programing?
+if you need an if statement your problem is combinatorial and not linear. so you end up with a mixed integer linear problem or with a mixed integer quadratic problem    Embed Quote

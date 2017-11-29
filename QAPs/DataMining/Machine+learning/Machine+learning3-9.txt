@@ -1,0 +1,2 @@
+★What's the easiest way to learn machine learning?
+TMVA is a good start I think, TMVA Home. Check the user guide.    Embed Quote

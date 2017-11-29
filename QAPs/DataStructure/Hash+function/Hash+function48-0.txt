@@ -1,0 +1,2 @@
+Cryptography: Are all hash functions public?or is there a reason to keep them secret?
+Not only all hash functions, but all cryptographic functions are supposed to be public .. this is called Kerckhoff's principle, reformulated by Shannon as "Enemy knows the system" .. the only thing the enemy is not supposed to know is the key. Hash functions do not usually have keys (unkeyed); on the other hand there are keyed hash functions (called HMAC), and we need to keep their keys secret. 

@@ -1,0 +1,2 @@
+★In regression analysis, does it make sense to continue adding independent variables to predict a dependent variable so long as your adjusted R^2 improves and your standard error falls?Say you don't have a large enough sample to run meaningful cross-validation techniques.  Is your best bet for prediction to feed enough independent variables to maximize R^2 and minimize standard error?  Why or why not?
+When faced with many independent variables consider using Principal component analysis (PCA) to reduce the dataset.    Embed Quote

@@ -1,0 +1,2 @@
+How can the sequence "3, 7, 15, 31, 63, etc." be continued?
+It should start with 0 + 1 = 1 1 + 2 = 3 then goes like, 3 + 4 = 7 7 + 8 = 15 15 + 16 = 31 31 + 32 = 63 63 + 64 = 127 further, 127 + 128 = 255 so the generic equation is [math]2^{(n+1)} - 1[/math] where, n is a real number. 

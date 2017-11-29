@@ -1,0 +1,2 @@
+★What are some some good linear programming puzzles?
+Find factorial of 10000 without using bigint or inbuilt function.    Embed Quote

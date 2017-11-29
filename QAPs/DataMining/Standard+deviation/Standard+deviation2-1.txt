@@ -1,0 +1,2 @@
+★Statistics (academic discipline): What is a standard deviation?
+In words, it's the square root of the expected value of the difference between x and its expected value. Colloquially, you can think of it as the average deviation from a variable and its own average value. So it's a measure of how different a variable tends to be from the average value. Just to note, "expected value" is the generalized form of average, so: where is the probability of , provided    Embed Quote

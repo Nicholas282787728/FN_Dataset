@@ -1,0 +1,2 @@
+Which is better for data analysis: R or Python?Python has come up a long way in data analysis with its Scipy, Numpy and Pandas platforms. Is R still a better data analysis language than Python? Has anyone else used Python with Pandas to a large extent in data analysis projects?
+For data analysis, R is a clear winner. This is not only because R is designed for statistical computing at the very beginning, but also because there are vast amount of 3rd-party packages avaliable for statistical analysis. 

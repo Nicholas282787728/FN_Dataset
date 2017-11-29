@@ -1,0 +1,2 @@
+★How can I train moving agents through genetic algorithms?
+These two examples have "muscle" connections and "rigid" connections. The muscles can be controlled as to when they flex/relax. You could build a function around the timing between muscle contractions for muscle's A, and B. You could also plug in how long they're flexing for. The cost function will probably be a function of how fast the thing is moving horizontally (IE if it falls, it's 0), or how high it can jump, etc.    Embed Quote

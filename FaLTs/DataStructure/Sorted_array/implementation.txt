@@ -1,0 +1,26 @@
+As an example, here is an implementation of the stack ADT above in the C programming language.
+Imperative-style interface
+An imperative-style interface might be:
+typedef struct stack_Rep stack_Rep;        /* Type: instance representation (an opaque record). */
+typedef stack_Rep *stack_T;                /* Type: handle to a stack instance (an opaque pointer). */
+typedef void *stack_Item;                  /* Type: value that can be stored in stack (arbitrary address). */
+ 
+stack_T stack_create(void);                /* Create new stack instance, initially empty. */
+void stack_push(stack_T s, stack_Item e);  /* Add an item at the top of the stack. */
+stack_Item stack_pop(stack_T s);           /* Remove the top item from the stack and return it . */
+int stack_empty(stack_T ts);               /* Check whether stack is empty. */
+This implementation could be used in the following manner:
+#include <stack.h>            /* Include the stack interface. */
+stack_T t = stack_create();   /* Create a stack instance. */
+int foo = 17;                 /* An arbitrary datum. */
+t = stack_push(t, &foo);        /* Push the address of 'foo' onto the stack. */
+�?void *e = stack_pop(t);       /* Get the top item and delete it from the stack. */
+if (stack_empty(t)) { �?}     /* Do something if stack is empty. */
+�?
+This interface can be implemented in many ways. The implementation may be arbitrarily inefficient, since the formal definition of the ADT, above, does not specify how much space the stack may use, nor how long each operation should take. It also does not specify whether the stack state t continues to exist after a call s �?pop(t).
+In practice the formal definition should specify that the space is proportional to the number of items pushed and not yet popped; and that every one of the operations above must finish in a constant amount of time, independently of that number. To comply with these additional specifications, the implementation could use a linked list, or an array (with dynamic resizing) together with two integers (an item count and the array size)
+Implementing an ADT means providing one procedure or function for each abstract operation. The ADT instances are represented by some concrete data structure that is manipulated by those procedures, according to the ADT's specifications.
+Usually there are many ways to implement the same ADT, using several different concrete data structures. Thus, for example, an abstract stack can be implemented by a linked list or by an array.
+An ADT implementation is often packaged as one or more modules, whose interface contains only the signature (number and types of the parameters and results) of the operations. The implementation of the module �?namely, the bodies of the procedures and the concrete data structure used �?can then be hidden from most clients of the module. This makes it possible to change the implementation without affecting the clients.
+When implementing an ADT, each instance (in imperative-style definitions) or each state (in functional-style definitions) is usually represented by a handle of some sort.[3]
+Modern object-oriented languages, such as C++ and Java, support a form of abstract data types. When a class is used as a type, it is an abstract type that refers to a hidden representation. In this model an ADT is typically implemented as a class, and each instance of the ADT is an object of that class. The module's interface typically declares the constructors as ordinary procedures, and most of the other ADT operations as methods of that class. However, such an approach does not easily encapsulate multiple representational variants found in an ADT. It also can undermine the extensibility of object-oriented programs. In a pure object-oriented program that uses interfaces as types, types refer to behaviors not representations.

@@ -1,0 +1,2 @@
+What are pros and cons of PostgreSQL and MySQL?With respect to reliability, speed, scalability, and features. I've heard a lot about how Postgres is superior to MySQL in a number of ways, but I only have a loose understanding of the differences.
+Originally Answered: Why do people typically choose PostgreSQL over MySQL?Today, the only reason that would lead me to PostgreSQL over MySQL would be for the great spatial indexing features available with PostgreSQL (PostGIS).  MySQL is abysmally lacking in decent spatial extensions. 

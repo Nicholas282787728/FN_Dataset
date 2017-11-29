@@ -1,0 +1,2 @@
+What are some must-have software for programmers using Linux?
+After installing a new Linux, I'll do as follows: 1. Add repositories; it helps me improving the speed of downloading 2. yum update -y && yum install vim emacs svn git p7zip unrar gcc gdb gcc-c++ -y python ruby mysql mysql-server 3. git clone git://github.com/top/Synux, and config the styles of my vim & emacs 4. vim /etc/sysconfig/selinux, set enable to disabled. Over. 

@@ -1,0 +1,2 @@
+★What is a coder's worst nightmare?
+A coding error in someone else's hardware that you have to debug with an oscilloscope. Thanks Yamaha! :p

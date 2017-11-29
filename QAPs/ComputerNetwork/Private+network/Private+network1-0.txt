@@ -1,0 +1,2 @@
+★How does a virtual private network (VPN) work?Also I would like to know how does FTP over different geographical locations work?
+It creates a tunnel restricting others to peep through the information exchange and we can have a benefit of viewing unrestricted sites    Embed Quote

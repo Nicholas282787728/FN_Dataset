@@ -1,0 +1,2 @@
+What are some good quotes by Donald Knuth?
+Petersen graph is a remarkable configuration that serves as a counterexample to many optimistic predictions about what might be true for graphs in general. 

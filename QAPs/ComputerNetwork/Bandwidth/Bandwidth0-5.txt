@@ -1,0 +1,2 @@
+★What is bandwidth?I don't understand the way signal is transmitted on a wire or a transmission line. How is it related to the frequency of the signal?  What limits the bandwidth? I am real confused. What kind of physic lectures do I miss？
+Frequency Bandwith and Data Rate are in the "Shannon–Hartley theorem".C = B . log2(1 + S/N) 'B' is the Channel Frequency Bandwidth, 'S' is Transmitted Signal Power, 'N' is Noise Power, and 'C' is  Channel Capacity with 'bps' or 'bit per second' unit.

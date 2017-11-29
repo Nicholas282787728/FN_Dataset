@@ -1,0 +1,2 @@
+★What are some examples of bad design you have seen?Original question: "What is the worst piece of design ever?"
+The old Dell desktop computer USB drives on the front of the hardware.  When these were the rage while I was teaching during grad school, this design was single-handedly the reason to serenity prayer.  If you never experienced how difficult it was to get just the right angle, with just the right sized (width) flash drive, then consider yourself among the chosen -- it was painful.

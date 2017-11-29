@@ -1,0 +1,2 @@
+What would a computer do in this situation (see details)?
+Explicitly or implicitly, all actions taken by a computer have been programmed by man.  So, the answer to "Would it depend on the computer's programming" is yes, of course it would. That said - it's entirely possible that the decision itself could be guided by emergent behaviour - the computer may be taking actions that no programmer was explicitly involved in determining. 

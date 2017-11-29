@@ -1,0 +1,2 @@
+What is the importance of this algorithm?
+As others have noted, the problem of finding the shortest edit distance between two strings comes up in many contexts so much has been written about it.  In my world of bioinformatics, variations on the edit distance problem come up all the time: given a mathematical model of evolution, what's the best way of transforming this genetic sequence into that one? 

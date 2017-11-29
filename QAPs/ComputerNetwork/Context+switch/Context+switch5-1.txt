@@ -1,0 +1,2 @@
+★Computer Architecture: Why is context switching expensive on intel x86 chips?
+I am assuming you're referring to current generations of x86 CPUs. They have a large number of CPU registers (r0-r15, x87, MMX, SSE, AVX and etc) exposed to computer programs that need to save and restored upon a context switch. So when compared to a simpler architecture with fewer registers there's more work to do. In absolute terms it just costs quite a number of cycles (probably 100+) to save and restore the register state given so many registers.

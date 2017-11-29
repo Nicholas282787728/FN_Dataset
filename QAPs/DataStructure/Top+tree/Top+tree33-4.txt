@@ -1,0 +1,2 @@
+What is the best tool to use for 'classification trees'?
+I don't know Matlab but in R, there is party (a cool library) and rpart, both of which create classification trees. There is also an open source version of Matlab called Octave, but I don't know any more about it than that. 

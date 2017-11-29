@@ -1,0 +1,2 @@
+★What's the difference between packet transmission delay and bandwidth?
+Bandwidth is the width of the pipe, or the width of the communication channel. Think of it as a road, then Bandwidth would be the number of driving lanes. Packet would be the car. Transmission delay would be the traffic congestion, route congestion or the distance it takes to cover a certain route.    Embed Quote

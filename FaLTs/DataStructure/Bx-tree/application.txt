@@ -1,0 +1,16 @@
+As for many other moving objects indexes, a two-dimensional moving object is modeled as a linear function as O = ((x, y), (vx, vy), t ), where (x, y) and (vx, vy) are location and velocity of the object at a given time instance t, i.e., the time of last update. The B+ tree is a structure for indexing single-dimensional data. In order to adopt the B+ tree as a moving object index, the Bx-tree uses a linearization technique which helps to integrate objects' location at time t into single dimensional value. Specifically, objects are first partitioned according to their update time. For objects within the same partition, the Bx-tree stores their locations at a given time which are estimated by linear interpolation. By doing so, the Bx-tree keeps a consistent view of all objects within the same partition without storing the update time of an objects.
+
+Secondly, the space is partitioned by a grid and the location of an object is linearized within the partitions according to a space-filling curve, e.g., the Peano or Hilbert curves.
+
+Finally, with the combination of the partition number (time information) and the linear order (location information), an object is indexed in Bx-tree with a one-dimensional index key Bxvalue:
+
+{\displaystyle B^{x}value\left(O,t\right)=\left[indexpartition\right]_{2}+\left[xrep\right]_{2}} B^{x}value\left(O,t\right)=\left[indexpartition\right]_{2}+\left[xrep\right]_{2}
+Here index-partition is an index partition determined by the update time and xrep is the space-filling curve value of the object position at the indexed time, {\displaystyle \left[X\right]_{2}} \left[X\right]_{2} denotes the binary value of x, and ¡°+¡± means concatenation.
+
+Given an object O ((7, 2), (-0.1,0.05), 10), tmu = 120, the Bxvalue for O can be computed as follows.
+
+O is indexed in partition 0 as mentioned. Therefore, indexpartition = (00)2.
+O¡¯s position at the label timestamp of partition 0 is (1,5).
+Using Z-curve with order = 3, the Z-value of O, i.e., xrep is (010011)2.
+Concatenating indexpartition and xrep, Bxvalue (00010011)2=19.
+Example O ((0,6), (0.2, -0.3 ),10) and tmu=120 then O's position at the label timestamp of partition: ???

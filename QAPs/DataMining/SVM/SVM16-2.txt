@@ -1,0 +1,2 @@
+★Is there a way to get the confidence values in SVM classification?
+You might use the prediction's distance-to-the-hyperplane as a proxy for confidence; if you do, you might consider scaling it using a Sigmoid function. Some SVM implementations also offer options to provide probability estimates in addition to distance-to-the-hyperplane. As Tao Xu said in his answer, these are often based on Platt scaling. For example, the "-b 1" flag turns this option on for LIBSVM.    Embed Quote

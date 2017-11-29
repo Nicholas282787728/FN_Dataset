@@ -1,0 +1,2 @@
+How PHP7 will turn out for PHP?
+1) The ability to replace fatal errors with exceptions so you can catch them instead of PHP just dying is an interesting new feature. function call_method($obj) {      $obj->method(); }try {      call_method(null); } catch (EngineException $e) {      echo "Exception: {$e->getMessage()}\n"; } More info: engine_exceptions_for_php7 and catchable-call-to-member-of-non-object 2) Return types function getResult(): array {     return [];} More info and examples: return_types Scalar type hints: scalar_type_hints_v5 Checkout other RFCs for more :) 

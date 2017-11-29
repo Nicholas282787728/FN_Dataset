@@ -1,0 +1,2 @@
+What does it mean to say "Structures and enumerations are value types"?
+It means that when passed to a function as a parameter, they are passed by value and not by reference. When something is passed by value, the function receives a copy of it.  The callers copy, therefore, is protected from any changes made by the callee. In contrast, objects are passed by reference. The callers and callee have a reference to the same instance of the object, so changes made to it within the function being called do affect the object as seen in the callers environment. 

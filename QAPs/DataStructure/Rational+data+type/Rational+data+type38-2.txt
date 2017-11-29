@@ -1,0 +1,2 @@
+What are some things that mathematicians know, but most people don't?
+Here’s the surprising math of collisions: Please imagine 23 random  people in a room. How would you estimate the odds of finding two fellows  with the same birthday among them? Pretty low, because there are 365  days in a year? In fact, the odds are about 50%! And with 50 people it’s  a save bet. This phenomenon is called the Birthday paradox. 

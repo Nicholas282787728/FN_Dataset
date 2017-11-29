@@ -1,0 +1,2 @@
+★Is there an API that returns metadata for a given URL?E.g. if I pass a Google Places/Maps URL, it returns the address, thumbnail, category. If I pass a Wikipedia URL, it returns article title, category, etc.
+I suggest taking a look at http://embed.ly/ - it can take a huge range of URLs and turn them in to JSON metadata. Here's what it can do with a Wikipedia page: http://embed.ly/docs/explore/obj... - and here's Google Maps URL (not as useful, but still some interesting metadata extracted) http://embed.ly/docs/explore/obj...    Embed Quote

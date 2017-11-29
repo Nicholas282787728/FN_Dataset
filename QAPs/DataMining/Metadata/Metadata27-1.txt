@@ -1,0 +1,2 @@
+★What is the best way to clean up song metadata?I haven't seen much written about Tune Up since this: http://techcrunch.com/2008/12/11... Is Tune Up great or are there other products you recommend?
+I strongly do reccomend MusicBrainz Picard for cleaning music meta data    Embed Quote

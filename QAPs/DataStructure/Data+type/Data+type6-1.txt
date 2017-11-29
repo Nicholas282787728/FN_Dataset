@@ -1,0 +1,2 @@
+What are user-defined data types?
+Originally Answered: What is a user defined data type? Anything not built into the language itself. Most languages have native data types. These usually include integers, floating points, arrays, maybe strings… Each language is different. Any other data type you want to work with, you have to define yourself. Examples may include 2 or 3d vectors. Or matrices. Or linked lists. Because they’re not built-in, they’re called “user defined”. 481 Views

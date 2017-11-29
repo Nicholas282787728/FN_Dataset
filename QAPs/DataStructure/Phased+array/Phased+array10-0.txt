@@ -1,0 +1,2 @@
+What is the difference between beamforming and beamsteering?
+Adding to the short and sweet answer by Phillip Remaker, Beamforming will create the beam but it will have to be steered towards the target which is generally moving, hence beam steering. The real challenge comes when there are multiple beams that have to be steered in a cell because each beam may be serving one (or a group of users) and they may all be moving in different directions. I also like this this simple video of beamsteering and another one which I guess is a real network simulation: 

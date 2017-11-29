@@ -1,0 +1,2 @@
+★How do I access the FTP on my WordPress site?
+It should be ftp.yourdomain.com... Then login.  I use Firefox + Fireftp( Firefox Extension) to login.

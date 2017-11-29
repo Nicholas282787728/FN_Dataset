@@ -1,0 +1,2 @@
+★What is an eigenvector?
+In eigenvector is an invariant vector.  If x is an eigenvector, then meaning that x is itself multiplied by a scalar.  In other words, matrix multiplication scales the vector and does not change it in any other way. I have loved the description in Shewchuk's paper called An Introduction to Conjugate Gradient without Agonizing Pain.    Embed Quote

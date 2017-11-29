@@ -1,0 +1,2 @@
+★How do I solve mutilabel linear regression?
+There are some recent papers on multi label transductive regression See my blog posts on projection operators and transductive learning Dimensional Reduction via an Effective Operator Effective Operators for Eigenvalues and Clustering Effective Operators part 2:  Simple SemiSupervised Learning and this more recent paper which uses similar ideas Transductive Multilabel Learning via Label Set Propagation Page on uic.edu    Embed Quote

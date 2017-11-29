@@ -1,0 +1,1 @@
+I want to read a .raw image into an array in C. How can this be achieved?First,you should know the format of the raw file.Because there are many different raw files.than you should learn how to operate a file in C.may be the function "fopen,fread,fclose" can help you. 57 Views  View Upvotes

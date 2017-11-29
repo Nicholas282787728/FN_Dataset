@@ -1,0 +1,2 @@
+In a string find the longest substring with all unique characters?
+Python code: def unique(s):    i, j = 0, 0    I, J = 0, 0    H = set([])    while j < len(s):        if s[j] in H:            H.remove(s[i])            i += 1        else:            H.add(s[j])            j += 1        if J - I < j - i:            I, J = i, j    return s[I:J]print unique('babacda') # bacd complexity: linear time, either i or j increases at every step and i <= j < n in all cases. (I'm assuming the alphabet may be very large. If not, a boolean array will do the same job as the hash-set) 

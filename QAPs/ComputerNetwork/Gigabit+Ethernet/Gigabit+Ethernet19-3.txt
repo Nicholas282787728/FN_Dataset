@@ -1,0 +1,2 @@
+★I have 2 laptops with gigabit ethernet connected to 2 adjacent ports in an office. One of the laptops seems to be limited to 10Mbit speeds. What is the best way to troubleshoot or isolate the 10Mbit link?
+Go to Ethernet adapter properties and check 100 Mbps or 1 Gbps FULL DUPLEX.

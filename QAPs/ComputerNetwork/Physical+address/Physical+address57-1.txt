@@ -1,0 +1,2 @@
+★Is there a way to see a process physical memory address in Linux?
+Not feasible. Only operating system kernel (or the hypervisor) knows about the real physical address.    Embed Quote

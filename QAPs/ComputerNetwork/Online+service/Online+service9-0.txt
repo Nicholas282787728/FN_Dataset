@@ -1,0 +1,2 @@
+★Is there a good online service for nautical charts?
+Every NOAA official nautical chart is available online for free.  NOAA's Online Chart Viewer The electronic versions of these charts form the basis of a lot of free charting applications.  You can browse and explore all the charts at-will.  If you want a free chart plotter application, look at OpenCPN.    Embed Quote

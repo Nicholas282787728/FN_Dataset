@@ -1,0 +1,6 @@
+Here are some examples of statistical assumptions.
+
+Independence of observations from each other (this assumption is an especially common error[1]).
+Independence of observational error from potential confounding effects.
+Exact or approximate normality of observations (or errors).
+Linearity of graded responses to quantitative stimuli, e.g. in linear regression.

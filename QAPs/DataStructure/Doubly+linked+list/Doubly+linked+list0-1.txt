@@ -1,0 +1,2 @@
+What is real life use of doubly linked lists?
+To implement this: LinkedList (Java Platform SE 7 ), for one. 

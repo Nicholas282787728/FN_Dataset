@@ -1,0 +1,2 @@
+Which Are The Best Fastest And Efficient Searching Algorithm For Searching Through Database in PHP?
+You shouldn't implement a search algorithm yourself, especially not in PHP, for a large data set. Best either use the database's build in full text indexing features (see e.g. MySQL's Full-Text Search Functions) or use a dedicated search engine such as Sphinx or Solr. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 11.4k Views · 7 Upvotes

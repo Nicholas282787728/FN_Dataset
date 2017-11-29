@@ -1,0 +1,12 @@
+★What is the easiest and the most efficient way to create your own web page?
+Open a text file, write the following  code, make sure your file is in UTF-8 format (optional, but best practice), save it: 1
+2
+3
+4
+5
+6
+7
+8
+9
+ <!doctype html> <html>     <head>         <title>My first web page</title>     </head>     <body>     <strong>Hello, world!</strong>     </body> </html> Use a HTML editor: List of HTML editors You can use a WYSIWYG editor but if you are a real coder or have ambitions to be one, I'd recommend the method above using an editor. As for WYSIWYG editors (Dreamweaver for example), it's almost like working with an word processing document except you can link words and images to other websites. In code however, you use: 1
+ <a href="http://www.google.com">Go to Google ...</a>    Embed Quote

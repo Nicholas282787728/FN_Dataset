@@ -1,0 +1,1 @@
+As a beginner programmer, should I start learning algorithms and data structures?You wanted to be a programmer, so be one by starting programming first. Your logic is an algorithm and once comfortable with basic programming, start learning data structures and play with it. 147 Views

@@ -1,0 +1,2 @@
+What's the best way to store data in a two-dimensional array/table in Python?
+It depends sensitively on what kind of data you want to store. Dictionaries and lists are the go-to methods. If you provide more information, a better answer is possible. 

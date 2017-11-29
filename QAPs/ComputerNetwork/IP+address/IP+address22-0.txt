@@ -1,0 +1,2 @@
+★Can't a CNAME point to an IP address?
+A CNAME creates an alias, one name that means the same as another name.  Since an IP address is not a name, a CNAME record can't point to it.  A DNS lookup for a record of any type where the name requested resolves to a CNAME will (when recursed) return whatever records exist of that type for the name that the CNAME points to. Never forget, when talking about DNS, that DNS has more than just A records.  The mistake you seem to be making is symptomatic of this common error of thinking.

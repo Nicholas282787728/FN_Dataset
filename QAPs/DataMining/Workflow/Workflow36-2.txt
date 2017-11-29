@@ -1,0 +1,2 @@
+★What are some recommended tools for data workflow visualization?
+This data is structured relational data. So, it is easy. One can use Fusion table API or Google charts to visualize without coding. But if there is a need to have more complicated reports, both products have APIs,    Embed Quote

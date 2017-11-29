@@ -1,0 +1,2 @@
+What are the best and efficient ways to learn algorithms for beginners?
+Try draft recipes from TopCoder Cookbook (TopCoder Forums), they are targeted especially at the beginners and are accompanied by sample implementations. Also you can see Algo Tutorials (Algorithm Tutorials). 

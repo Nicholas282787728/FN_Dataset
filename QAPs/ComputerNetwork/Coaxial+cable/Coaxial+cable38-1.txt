@@ -1,0 +1,2 @@
+★If I use a 2-way coaxial cable splitter with a frequency range of 15 MHz to 2150 MHz with coaxial cables rated at 2200 MHz and 2300 MHz, will the splitter be a bottleneck to the quality of my CATV?
+Not frequency wise. If the signal is not strong enough, the splitter has a lot of loss, (3-4 dB is standard for a two way splitter), and/or if the cable runs are too long, you might run into issues, but CATV is pretty much all under 1GHz.

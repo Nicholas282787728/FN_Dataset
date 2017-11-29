@@ -1,0 +1,1 @@
+What is wrong with my code C code?It's really hard to pass vars to store into with C. You are correctly declaring them as **, but in the call you have to specify ampersands so the called routine gets the address to store the pointers into. 301 Views  View Upvotes

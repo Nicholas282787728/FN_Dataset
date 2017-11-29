@@ -1,0 +1,2 @@
+How does Ukkonen's algorithm on suffix trees work?
+One good link http://www.stanford.edu/class/cs... Also, follow the references in that link. Ukkonen algorithm pictorially explained in that PDF, and Mark Nelson's web page. One classical reference book on strings by Gusfield. Practice with few examples than glancing at several pages of text/slides. 

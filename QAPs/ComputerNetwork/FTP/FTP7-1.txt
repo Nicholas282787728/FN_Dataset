@@ -1,0 +1,2 @@
+★How does FTP protocol work over the internet?I want to know how does FTP protocol work while transferring the files over internet.
+Ftp protocol command works on port no 21. Simple idea behind this is ports are the entry point into the systems and there 65535 ports that used by computer technology. Ftp is one among them that is by ieee. And is dedicated only for transferring files. Basic architecture of ftp is : ​

@@ -1,0 +1,2 @@
+How can I make an array with variable size in the C language?
+What you are looking for is called "dynamic array", meaning that you are creating the array at run time. There are two ways to go about it. You can either create the array in the stack or in the heap. In case of stack, make sure that you dont go beyond bounds, as the stack size is fixed. int array[size] ;     // stored in stackint *array = malloc(size * sizeof(int)) ;     // stored in heap 

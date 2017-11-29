@@ -1,0 +1,2 @@
+Why is use of pointers neccesary in C for swapping of two numbers through a function call?
+Functions can be called in two ways : a) Call by value b) Call by reference When we call the function by "Call by value" then its actual argument will remain the same but if we call the function by "Call by reference"i.e using pointers then its actual argument also gets altered. 

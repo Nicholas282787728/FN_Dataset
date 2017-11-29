@@ -1,0 +1,2 @@
+★Why don't we use ANOVA to compare two group means?
+We can and we do. A t-test is just a special case of an ANOVA. The only exceptions are one-sided t-tests.    Embed Quote

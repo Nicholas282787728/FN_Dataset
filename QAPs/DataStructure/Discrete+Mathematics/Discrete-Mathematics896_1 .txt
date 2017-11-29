@@ -1,0 +1,1 @@
+Is there a way to calculate the first digit of Graham's number using discrete mathematics?Yes - but only if you cheat. Let me create a new numbering system, the base of which is Graham's number. Therefore, in this base, the number is given by: 10 Take that as you will. 745 Views  View Upvotes

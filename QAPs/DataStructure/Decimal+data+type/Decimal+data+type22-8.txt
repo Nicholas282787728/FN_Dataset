@@ -1,0 +1,2 @@
+In C/C++, why are pointers given a data type?Since pointers only have to store memory locations of other variables then why don't they all have a a single data type?
+When you use void*, you can store the address only. When you use type*, you can store address and apply operators (*p, p++, p--, p[k]) 

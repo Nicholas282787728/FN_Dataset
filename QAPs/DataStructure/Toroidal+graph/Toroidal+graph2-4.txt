@@ -1,0 +1,2 @@
+What is twin paradox and how does it works?
+Since this has been explained in so many places, I won't go into any detail. Instead, I would mention a couple of points. 1) The paradox appears because people think that the situation of both the twins are symmetrical and equivalent. It is not. 2) It is important to note that you don't need general relativity to solve this paradox. SR is sufficient. Many people make this mistake. 

@@ -1,0 +1,1 @@
+Why was Lisp the language of choice for AI research?

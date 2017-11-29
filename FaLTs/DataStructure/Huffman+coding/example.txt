@@ -1,0 +1,5 @@
+
+Let's make the Threaded Binary tree out of a normal binary tree...
+
+The INORDER traversal for the above tree is—D B A E C. So, the respective Threaded Binary tree will be --
+

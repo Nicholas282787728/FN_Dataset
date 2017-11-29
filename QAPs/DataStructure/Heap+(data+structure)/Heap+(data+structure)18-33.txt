@@ -1,0 +1,2 @@
+What are the top 10 algorithms every software engineer should know by heart?
+Thanks for A2A To be brutally honest, I think data structures are more important than algorithms. You should know what’s possible and if you need an implementation either you look it up or the default case: use an existing implementation. You don’t need to reinvent the wheel. Apart from that I doubt there is a real ranking on algorithms. 968 Views · Answer requested by Lee Young Junior

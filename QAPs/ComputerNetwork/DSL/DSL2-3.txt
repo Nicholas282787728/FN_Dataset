@@ -1,0 +1,2 @@
+★When do you need a DSL?
+The main language usually doesn't matter as long as you stick with the same language the whole time. It's worked pretty well like that for me a few times.

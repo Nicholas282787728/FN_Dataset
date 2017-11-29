@@ -1,0 +1,2 @@
+How do I decide which features to use in a neural network model?
+In general it is not very easy to tell which features are useful especially in many class problems.  Neural Network tend to learn distributed representations and one unit might be useless for all but one class.  One another thing is due to layer wise structure removal of any unit at the previous layers might spoil everything at the upper layers. 

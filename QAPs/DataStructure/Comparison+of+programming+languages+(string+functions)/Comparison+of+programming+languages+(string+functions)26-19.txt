@@ -1,0 +1,2 @@
+Which have been some of the most funniest/craziest Vivas that you have appeared for at NSIT?
+This one is from Data Structures Practical Exam during internal viva. Teacher : Tell me how to implement Quick Sort? Me : Told the Quick Sort using single pivot(read from Cormen). Teacher : "Aise thodina hota hain ye". Me : *FacePalm* 

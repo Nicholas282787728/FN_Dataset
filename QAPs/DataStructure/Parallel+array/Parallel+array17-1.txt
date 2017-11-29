@@ -1,0 +1,2 @@
+Why doesn't Haskell have mutable array without IO monad?
+No you don't need the IO monad to use mutable arrays. You can use the ST monad and the STArray. 

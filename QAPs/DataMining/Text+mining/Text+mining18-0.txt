@@ -1,0 +1,2 @@
+★What are the best tools for text mining molecular biology and microbiology articles?
+ABNER is a well-known tool for Named-entity recognition within biological texts: http://pages.cs.wisc.edu/~bsettl... So is BANNER: http://banner.sourceforge.net/ There is also a large collaborative academic project aiming to support biocuration through automated mining of text, images and other media, SciKnowMine. This is just getting started, and has nothing publicly available yet: https://wiki.birncommunity.org:8443/display/NEWBIRNCC/SciKnowMine    Embed Quote

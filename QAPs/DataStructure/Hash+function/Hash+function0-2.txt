@@ -1,0 +1,2 @@
+What is a hash function?
+The function that generate fixed-length output data that acts as a shortened reference to the original data. You can see this picture everywhere in internet. You can use it for searching faster in database for something, or faster comparing values each other, or find duplicate datas, or more spesificly, you can find similar sequence on DNA with hash function. 

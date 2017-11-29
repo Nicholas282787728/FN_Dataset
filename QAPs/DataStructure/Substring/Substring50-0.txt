@@ -1,0 +1,2 @@
+How do I find the longest palindromic substring efficiently assuming the whole text as a single string in a text file which can't be loaded in memory at once?
+There is O(N) time algorithm exist. Its called Manacher’s Algorithm. Check it out Longest Palindromic Substring Part II    

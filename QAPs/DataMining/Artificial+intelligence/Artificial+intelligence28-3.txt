@@ -1,0 +1,2 @@
+Any ideas for a simple artificial intelligence/machine learning project?
+Predict traffic by learning from the traffic layer of Google maps :)    Embed Quote 

@@ -1,0 +1,2 @@
+★What are the easiest and best web scraping tool for non-technical people?I want to collect data from a few sites and have it dumped into Excel in a semi-organized way. What tools exists for me to do this easily?
+Unfortunately, there isn't really a "point and click" web scraping tool. If the data you want to get your hands on is already in HTML <table>s though check out Google Spreadsheet's "import table" feature - The Simple Way to Scrape an HTML Table: Google Docs    Embed Quote

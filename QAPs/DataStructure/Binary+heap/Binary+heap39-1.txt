@@ -1,0 +1,2 @@
+How do we find the minimum element with O(1) complexity from Max-Heapify?
+I think there is no solution to this problem in O(1) without using a MinHeap(Or any other auxiliary data structure and thus replicating the data) , which is also created and updated along with the MaxHeap. O(n) solution to this problem, without using any auxiliary heap is by searching smallest element in the leaf nodes(Because smallest element will always be in the leaf nodes) 

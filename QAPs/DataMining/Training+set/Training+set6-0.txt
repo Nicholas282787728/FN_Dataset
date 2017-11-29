@@ -1,0 +1,2 @@
+★What did Deep Blue's training set look like?Was it a compendium of all games in the previous five years, all games that Kasparov played, an empty set, etc?
+Most likely in Feng-hsiung Hsu's book Behind Deep Blue: Building the Computer that Defeated the World Chess Champion http://press.princeton.edu/title... and overall based on ChipTest http://en.wikipedia.org/wiki/Chi... and Deep Thought I and II http://en.wikipedia.org/wiki/Dee... ancestors, cf http://www.research.ibm.com/deep...    Embed Quote

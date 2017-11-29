@@ -1,0 +1,2 @@
+What is the difference between a AVL tree and a binary search tree?
+Adding up to the earlier answers: Whenever (after insertion operation) the difference between the left subtree and right subtree is >= 2, then in AVL we perform a rotate operations, these operations reduce the difference in the heights of the left and right subtrees while keeping the BST property intact. The rotation operations (left and right rotate) take constant time as only few pointers are being changed there and keep the height of the tree as LogN 

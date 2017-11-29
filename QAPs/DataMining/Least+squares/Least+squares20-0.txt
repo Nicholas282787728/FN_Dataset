@@ -1,0 +1,2 @@
+★What is the intuitive meaning of the solution to the problem of finding least-squares linear-regression coefficients?
+Michael Hochster's answer to Why is OLS solvable from simple linear algebra?  Why is L2 loss special? might be helpful.    Embed Quote

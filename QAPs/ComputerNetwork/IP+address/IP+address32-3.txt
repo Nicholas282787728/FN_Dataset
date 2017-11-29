@@ -1,0 +1,2 @@
+★Can one track my real IP address when I use VPNs?
+No. When you connect to a VPN the packets you send and wrapped up and encrypted. those encrypted packets are then sent to the VPN server. So someone looking at the packets will see the VPN servers IP in the header with encrypted content. When they reach the VPN server, they are decrypted and sent on their way from the VPN server. So to anyone after this, it will look like the VPN server is sending out the packets. There is ways to get around this, so someone specifically targeting you could perhaps find it out.

@@ -1,0 +1,2 @@
+★Java Application Servers: What are some alternatives to Jetty?
+The three most popular are Glassfish, JBoss, and Tomcat. This article looks at the latter two more in depth. Hope you find the info useful.  JBoss vs. Tomcat: Choosing A Java Application Server

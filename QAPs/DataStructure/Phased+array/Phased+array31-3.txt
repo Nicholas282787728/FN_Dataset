@@ -1,0 +1,2 @@
+What technological advancements came out of the Soviet military?
+Autoloaders for tanks. Starting from the T-64, Russian tanks have dispensed with a human loader, allowing for a three man crew and a smaller turret. Smaller = harder to hit. But also smaller = more cramped = excessively fatigued crews after a long road march. The US by contrast has only recently installed autoloaders - not in tanks, but the M1128 version of the Stryker wheeled APC which uses a 105mm tank gun. 

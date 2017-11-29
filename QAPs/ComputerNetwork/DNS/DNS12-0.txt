@@ -1,0 +1,2 @@
+★Why isn't DNS centralized?
+Who would run it?  How would it be kept up to date? DNS was created as a response to the problems related to managing a centralized host address table, which was an error-prone, tedious and unscalable process. Name services  must be distributed so that the data can be independently updated by the authorities related to each individual domain, on their own terms and timeframe.

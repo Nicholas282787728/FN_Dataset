@@ -1,0 +1,2 @@
+Where can I download/scrape data on colleges?
+The Integrated Postsecondary Education Data System (IPEDS), is pretty good for this.  http://nces.ed.gov/ipeds/    Embed Quote 

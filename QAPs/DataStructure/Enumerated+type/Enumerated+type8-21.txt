@@ -1,0 +1,2 @@
+Software Engineering: What are good ways to avoid bugs while programming?
+Not being quite as cosmically-minded as some, here's one of my favorites: in compiled languages, use the strictest compiler settings.  With GCC/G++, use -Wall -ansi -Werror.  This combination of options force compilation failure if any compiler warning is encountered. Many bugs result in a type mismatch or other compiler warning somewhere, and these can be caught by compilers if strict settings are used. 

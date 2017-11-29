@@ -1,0 +1,2 @@
+★Where are the semantic web applications?
+You could have a play with Tippify, which runs off Freebase as a recommendation product.  I think it was just built as a test product to show off what one might build on top of their API, rather than genuinely targeting consumers.  But it's a start.    Embed Quote

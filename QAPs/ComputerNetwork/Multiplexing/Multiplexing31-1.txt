@@ -1,0 +1,2 @@
+★What exactly is a multiplexer and how does it work? Additionally, how does can it be controlled or set in a circuit?
+At its output, it duplicates the signal on one of its inputs. Another, unrelated control input determines which signal to duplicate. Trivial example: two and gates feed an or gate. A control signal feeds one input of one and gate; the inverted version of that control signal feeds one input of the other and gate. Can you see how the control signal determines which remaining and gate input appears at the output of the or gate?    Embed Quote

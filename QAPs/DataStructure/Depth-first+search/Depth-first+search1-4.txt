@@ -1,0 +1,2 @@
+What are some examples of real world application of a depth first search?
+Originally Answered: What are the real world application for depth first search? If in a school , u want to find a guy named Ram, and u don't know his detailed information then u have to go each and every class and ask for Ram. If there are 5th to 7th atd classes and each class has 2 divisions then u wil teaverse fromA div of 5th std then ull go to B div den u will go at 6th std and so on till he find 328 Views

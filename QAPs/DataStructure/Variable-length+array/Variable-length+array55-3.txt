@@ -1,0 +1,2 @@
+Int a [n] is this a valid declaration of array in c ie the subscript is not a number?
+It will work fine but you have to be a little careful, as when arr[n] is declared then you should ensure that 'n' has some value integer value and not some garbage. Also it works only the n is of integer type. please refer the link. Ideone.com If you still have problem do ask in the comments. :) Such declarations are generally not recommended as there are chances of failure at run time. 

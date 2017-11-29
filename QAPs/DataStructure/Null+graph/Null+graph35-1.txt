@@ -1,0 +1,2 @@
+What is the best way to store mind map data?
+Assuming you don't need any layout information (to draw the map in a particular way), this is trivial to represent in a relational database.  Just create a link table that represents the links, and then a table of the actual entities. 

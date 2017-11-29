@@ -1,0 +1,2 @@
+What kind of mathematics does one need to know to better understand neuroscience?
+I think that the most important mathematics to grok, probably for all of science, is probability and statistics. It's an essential part of interpreting experimental results. Other common, important tools will be - Information theory (having a qualitative understanding is probably more important than quantitative here, honestly) - Differential equations (and calculus, of course) - Signal processing (filters, Fourier transform) With a Wikipedia-level understanding of these topics, you'll go far 

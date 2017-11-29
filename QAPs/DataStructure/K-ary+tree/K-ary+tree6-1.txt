@@ -1,0 +1,2 @@
+Why would anyone need to use a logarithm base other than 10 or 2 from a practical application standpoint?
+I see good practical uses for the natural logarithm (base e), because you can state many formulas more simply, and the base 2 logarithm (because it fits well to information theory). If you do information theory based on alphabets of size n, the base n logarithm might occasionally be useful. Base 10? Well, if you want to compute the logarithm of 1000, then it will come in handy, but when do you really want to do that? 

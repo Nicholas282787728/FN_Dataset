@@ -1,0 +1,2 @@
+★What is the limit on the length of an IEC power cable as defined in the standard?To be more specific, a cord such as one you'd find powering a PC or monitor in the United States of America.
+The lingth of any power cable is it's resistance and wire size. If you want a longer power cable increase it's wire size so it will have less resistance.    Embed Quote

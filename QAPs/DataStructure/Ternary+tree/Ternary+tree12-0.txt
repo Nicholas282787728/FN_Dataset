@@ -1,0 +1,2 @@
+What are good side projects to get better at data structures and algorithms?
+Try creating a data compression tool using some known algorithm such as LZW, huffman etc. implement them using your choice of data structures. for example, while implementing LZW , you can use hashes or use ternary search trees as data structures. 

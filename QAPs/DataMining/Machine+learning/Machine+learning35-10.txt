@@ -1,0 +1,2 @@
+★What are the best open source machine learning libraries written in Python?
+Open CV has Python wrappers to their object detection algorithms: http://opencv.willowgarage.com/d...    Embed Quote

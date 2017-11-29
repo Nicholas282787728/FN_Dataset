@@ -1,0 +1,2 @@
+How do Bayesian algorithms work for the identification of spam?Please provide an example or two.
+There is a easily digestable and a great read on this topic as an essay in Paul Grahams book "Hackers and Painters". I looked forward for online content of the same and found it in pauls blog, whose links are below. http://www.paulgraham.com/spam.html http://www.paulgraham.com/better... I enjoyed reading those (not too mathematical stuff), hope some one else would too :) 

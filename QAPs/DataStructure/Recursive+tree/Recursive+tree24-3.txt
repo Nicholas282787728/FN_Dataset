@@ -1,0 +1,2 @@
+How can we check for the complexity log(n) and n (log(n)) for an algorithm?
+I think the below links will help just go through it: What would cause an algorithm to have O(log n) complexity? What does O(log n) mean exactly? 

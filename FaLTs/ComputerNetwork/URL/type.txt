@@ -1,0 +1,9 @@
+Internationalized URL
+Internet users are distributed throughout the world using a wide variety of languages and alphabets and expect to be able to create URLs in their own local alphabets. An Internationalized Resource Identifier (IRI) is a form of URL that includes Unicode characters. All modern browsers support IRIs. The parts of the URL requiring special treatment for different alphabets are the domain name and path.[19][20]
+
+The domain name in the IRI is known as an Internationalized Domain Name (IDN). Web and Internet software automatically convert the domain name into punycode usable by the Domain Name System; for example, the Chinese URL http://Àý×Ó.¾íÍ²Ö½ becomes http://xn--fsqu00a.xn--3lr804guic/. The xn-- indicates that the character was not originally ASCII.[21]
+
+The URL path name can also be specified by the user in the local writing system. If not already encoded, it is converted to UTF-8, and any characters not part of the basic URL character set are escaped as hexadecimal using percent-encoding; for example, the Japanese URL http://example.com/Òý¤­¸î¤ê.html becomes http://example.com/%E5%BC%95%E3%81%8D%E5%89%B2%E3%82%8A.html. The target computer decodes the address and displays the page.[19]
+
+Protocol-relative URLs
+Protocol-relative links (PRL), also known as protocol-relative URLs (PRURL), are URLs that have no protocol specified. For example, //example.com will use the protocol of the current page, either HTTP or HTTPS.

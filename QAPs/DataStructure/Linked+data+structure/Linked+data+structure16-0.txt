@@ -1,0 +1,2 @@
+Is there any application of linked list and array in data structures?
+Lot of applications because many, not all, of the known efficient algorithms are either implemented using arrays or linked lists... I will try to list some: 1. Sorting: You can safely assume all the applications need this and sorting indeed uses array 2. Searching: Same as (1) but can use array or a linked list --KK 

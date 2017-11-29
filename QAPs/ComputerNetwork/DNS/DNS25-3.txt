@@ -1,0 +1,2 @@
+★What causes Google Apps mail to bounce with a DNS error?
+This problem is caused by the entity hosting your DNS. When Google Apps is checking the domain in questions, it's not getting an answer back in a timely fashion. Changing the provider (to a bigger better player) or just switching the name servers or increasing the number of secondary name servers can fix the issue in my experience.

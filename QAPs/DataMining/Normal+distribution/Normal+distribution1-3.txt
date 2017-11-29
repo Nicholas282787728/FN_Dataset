@@ -1,0 +1,2 @@
+★Should grades be normally distributed?If so, what does it mean that the histogram of the grades is not Gaussian?
+Paraphrasing prof . Malan  teaching  Harvard CS50 at Harvard University. No,if   the course aims to  cater to students of all levels,encourage them to face novel challanges and if the system intends to develop  a culture of exploring courses beyond your own field of concentration and areas of interest. http://harvardmagazine.com/2011/...    Embed Quote

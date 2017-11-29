@@ -1,0 +1,2 @@
+Mathematical Fallacies: How does one explain the “π = 4” proof regarding a square reduced to a circle?
+Originally Answered: Is π=4  ?See Sam Hughes' explanation at http://qntm.org/trollpi The key point is this, The limit of the lengths of a series of curves is not necessarily equal to the length of the limit curve of that series. 

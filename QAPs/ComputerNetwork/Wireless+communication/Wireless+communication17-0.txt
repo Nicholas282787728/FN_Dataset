@@ -1,0 +1,2 @@
+★What does Lockitron use for wireless communication (e.g. Z-wave, Zigbee, etc.)?
+Lockitron comes with built in WiFi and Bluetooth Low Energy (4.0). It does not integrate Z-Wave or ZigBee.    Embed Quote

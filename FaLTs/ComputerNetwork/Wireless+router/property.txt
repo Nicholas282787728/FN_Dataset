@@ -1,0 +1,2 @@
+Beyond basic connectivity and routing, residential gateways can provide addition features, such as:
+Configuration via a web interface Dynamic DNS

@@ -1,0 +1,2 @@
+Has C recently introduced dynamic stack memory allocation?
+Quoting from the GCC doc: Variable-length automatic arrays are allowed in ISO C99, and as an extension GCC accepts them in C90 mode and in C++. These arrays are declared like any other automatic arrays, but with a length that is not a constant expression.  Ref: Using the GNU Compiler Collection (GCC) 

@@ -1,0 +1,2 @@
+How do you pair characters in C programming language to certain numbers (for example when it reads A it knows that equals to 0.30)?
+one array for characters another array for numbers, and array index is the key to link character to number, like chars[7] contains A and numbers[7]= 0.30 

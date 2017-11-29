@@ -1,0 +1,2 @@
+★Information Retrieval: What are some hot research topics in IR?I want to do some research in IR. I want to know some of the current research areas in IR. Some of the areas I know are: Computational Advertising Query Analysis Recommendations Can somebody please suggest me some more topics in this field.
+Document Search Documents classification Documents clustering text segmentation indexing text summarization    Embed Quote

@@ -1,0 +1,2 @@
+★Why isn't speech recognition software more accurate?
+Sunit Sivasankaran answer is an excellent one. Check it out if you have some time. Otherwise, the short answer would be: it is a hard engineering task that needs multidisciplinary expertise (signal processing, feature extraction, machine learning classification, signal aquisition...). This is why your ASR system isn't 100% accurate (even though huge progress have been made recently). Optimistically, the results will probably imporve over time and the ASR systems will be more available and less expensive.

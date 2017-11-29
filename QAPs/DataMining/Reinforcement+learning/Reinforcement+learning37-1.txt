@@ -1,0 +1,2 @@
+★Can reinforcement learning be used to forecast time series?
+You can, try using multiple candidate time series models and updating a weight matrix based off actuals as they are available. Example: Where n = the number of candidate models, F = the forecast produced by each model, and W represents a weight vector which is updated on each epoch (as each new time series actual is available). Creating a weight vector is an optimization problem. Check out bandit algorithms for some examples    Embed Quote

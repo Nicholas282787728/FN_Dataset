@@ -1,0 +1,2 @@
+How have graph processing techniques been applied to games, or how could they be?
+BSP and Octrees are very widely used for collision detection as they have obvious physical space analogies. 

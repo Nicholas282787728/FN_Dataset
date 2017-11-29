@@ -1,0 +1,2 @@
+Can you advice me some Irc channels where I can find and share support for php, html, css, javascript, ruby on rails development? Or also if you know a different platform instead Irc, let me know, but it should be in real time (as a chat).
+The best IRC for Rails is #rubyonrails as Ruby on Rails: Community specify! 

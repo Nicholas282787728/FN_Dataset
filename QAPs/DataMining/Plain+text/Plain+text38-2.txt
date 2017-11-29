@@ -1,0 +1,2 @@
+★Are there any customer support help desk tools that come with fuzzy search of knowledge-base (plain text as well as attachments)?
+You said customer support help desk software that integrated with knowledge base? Well...as as I know, effective Free help desk software(http://www.phphelpdesk.org/featu...) can implement this functionality perfectly. As course,combine with text attachments.    Embed Quote

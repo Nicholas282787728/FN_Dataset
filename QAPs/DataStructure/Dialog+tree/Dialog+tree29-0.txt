@@ -1,0 +1,2 @@
+What are the most time-saving keyboard shortcuts for Eclipse (Java)?
+Besides what Gabor Cselle or Ohad Assulin have mentioned: Ctrl-Shift-R for opening an autocomplete window for Resources (files) Ctrl-Shift-O for Organize imports automatically Have been really useful for me. 

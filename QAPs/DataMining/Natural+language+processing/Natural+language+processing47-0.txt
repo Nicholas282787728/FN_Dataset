@@ -1,0 +1,2 @@
+★What are the important algorithms used in Natural Language Processing?
+For Chunking, Named Entity Extraction, POS Tagging:- CRF++, HMM Word Alignment in Machine translation :- Maxent Spell Checker:-  Edit Distance, Soundex Parsing:- CKY algorithm and other chart parsing algorithms Document Classification:- SVM, Navie bayes Anaphora Resolution:- Hobbs Algo, Lippin and Leass algo, Centering Theory Topic Modeling and keyword extraction:- LDA, LSI    Embed Quote

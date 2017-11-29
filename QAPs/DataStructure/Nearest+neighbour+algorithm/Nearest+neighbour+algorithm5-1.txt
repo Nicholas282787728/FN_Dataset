@@ -1,0 +1,2 @@
+What are the good algorithms on nearest neighbours problem?
+Not sure I understand your question. If you mean some real life example of clustering, well there is Google News clustering: How does Google News cluster stories? 

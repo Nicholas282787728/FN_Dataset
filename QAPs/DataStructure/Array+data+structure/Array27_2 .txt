@@ -1,0 +1,1 @@
+Are arrays objects in Java?"WERE".... Arrays are still an object in java, rather they will always be an object in JAVA. It is not a primitive data type like int, long etc. 

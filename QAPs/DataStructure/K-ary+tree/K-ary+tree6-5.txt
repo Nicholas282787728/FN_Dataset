@@ -1,0 +1,1 @@
+Why would anyone need to use a logarithm base other than 10 or 2 from a practical application standpoint?

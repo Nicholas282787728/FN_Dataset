@@ -1,0 +1,2 @@
+Which is the best network monitoring tool: Nagios or Zabbix?
+As per the product review Both tools are good. I am using MindArray IPM from last one year, I am 100% satisfied with it's performance and real-time monitoring ability. So i will suggest you MindArray IPM as a alternate of Nagios and Zabbix. 

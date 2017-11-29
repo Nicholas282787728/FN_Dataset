@@ -1,0 +1,2 @@
+★Computational Complexity Theory: How would you explain P vs NP problem to a child?
+It's always harder to search for your lost toy (NP) than it is to tell me what it looks like (P). Hence, until further notice, searching for needles in haystacks will always take longer than verifying whether or not the object you hold in your hand is, in fact, a needle.    Embed Quote 

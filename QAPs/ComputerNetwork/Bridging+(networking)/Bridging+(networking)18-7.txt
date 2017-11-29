@@ -1,0 +1,2 @@
+★Electronics Engineering: Why do we use bridge rectifier?If we already having a center tap rectifier with just two diodes doing the same work then why there is a need to use four diodes or the so called Bridge rectifier.
+The bridge-wave rectifier configuration is more commonly used because it does not require the use of a center tapped transformer. Instead, it uses a single secondary winding attached to one side of the diode bridge network. Eliminating the center tapped transformer reduces the size and cost of the rectifier

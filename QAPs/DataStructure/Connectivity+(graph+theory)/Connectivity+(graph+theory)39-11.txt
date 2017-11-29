@@ -1,0 +1,2 @@
+What are the best resources to learn about graph theory?Introductory material with an aim of understanding structure of social networks.
+I learnt a lot using this Playlist has videos of Duration 10-15 min for each topic with systematic Explanation and helpful techniques to prove theorems  Graph Theory by Sarada Herke 

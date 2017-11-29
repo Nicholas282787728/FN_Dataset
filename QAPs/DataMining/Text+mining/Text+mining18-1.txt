@@ -1,0 +1,2 @@
+★What are the best tools for text mining molecular biology and microbiology articles?
+The link contains http://biocreative.sourceforge.n... some biomedical Natural language processing tools. ABNER and GENIA(http://www-tsujii.is.s.u-tokyo.a...) are poplar tools. They can be accessed using GATE(http://gate.ac.uk/). Also Lingpipe(http://alias-i.com/lingpipe) can also used for tagging biomedical entities.    Embed Quote

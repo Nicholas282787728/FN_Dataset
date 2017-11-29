@@ -1,0 +1,2 @@
+★Is there a good online/interactive resource for practicing writing regular expressions?I'm looking for something along the lines of a tutorial that progressively grows more difficult rather than just a visualization/way to try them out.
+I've always used RegExr (http://gskinner.com/RegExr/) RegExr shows results as you edit, has tools for matching and replacing, and has some pretty useful community contributed expressions in the sidebar.    Embed Quote

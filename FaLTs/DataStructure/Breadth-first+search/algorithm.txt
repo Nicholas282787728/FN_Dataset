@@ -1,0 +1,92 @@
+An example map of Germany with some connections between cities
+The breadth-first tree obtained when running BFS on the given map and starting in Frankfurt
+Graph and tree search algorithms α–�?/a> A* B* Beam Bellman–Ford Best-first Bidirectional Borůvka Branch & bound BFS British Museum D* DFS Depth-limited Dijkstra Edmonds Floyd–Warshall Hill climbing Iterative deepening Kruskal Johnson Lexicographic BFS Prim Uniform-cost Listings Graph algorithms Search algorithms List of graph algorithms Related topics Dynamic programming Graph traversal Tree traversal Search games v t e
+The algorithm uses a queue data structure to store intermediate results as it traverses the graph, as follows:
+Enqueue the root node Dequeue a node and examine it If the element sought is found in this node, quit the search and return a result. Otherwise enqueue any successors (the direct child nodes) that have not yet been discovered. If the queue is empty, every node on the graph has been examined �?quit the search and return "not found". If the queue is not empty, repeat from Step 2.
+Note: Using a stack instead of a queue would turn this algorithm into a depth-first search.
+Further information: Sequences
+Note: If each node in a graph is to be traversed by a tree-based algorithm (such as DFS or BFS), then the algorithm must be called at least once for each entirely distinct subgraph of the graph. This is easily accomplished by iterating through all the nodes of the graph, performing the algorithm on each node that is still unvisited when examined.
+The lexicographic breadth-first search algorithm replaces the queue of vertices of a standard breadth-first search with an ordered sequence of sets of vertices. The sets in the sequence form a partition of the remaining vertices. At each step, a vertex v from the first set in the sequence is removed from that set, and if that removal causes the set to become empty then the set is removed from the sequence. Then, each set in the sequence is replaced by two subsets: the neighbors of v and the non-neighbors of v. The subset of neighbors is placed earlier in the sequence than the subset of non-neighbors. In pseudocode, the algorithm can be expressed as follows:
+Initialize a sequence Σ of sets, to contain a single set containing all vertices. Initialize the output sequence of vertices to be empty. While Σ is non-empty: Find and remove a vertex v from the first set in Σ If the first set in Σ is now empty, remove it from Σ Add v to the end of the output sequence. For each edge v-w such that w still belongs to a set S in Σ: If the set S containing w has not yet been replaced while processing v, create a new empty replacement set T and place it prior to S in the sequence; otherwise, let T be the set prior to S. Move w from S to T, and if this causes S to become empty remove S from the sequence.
+Each vertex is processed once, each edge is examined only when its two endpoints are processed, and (with an appropriate representation for the sets in Σ that allows items to be moved from one set to another in constant time) each iteration of the inner loop takes only constant time. Therefore, like simpler graph search algorithms such as breadth-first search and depth first search, this algorithm takes linear time.
+The algorithm is called lexicographic breadth-first search because the lexicographic order it produces is an ordering that could also have been produced by a breadth-first search, and because if the ordering is used to index the rows and columns of an adjacency matrix of a graph then the algorithm sorts the rows and columns into Lexicographical order.
+More advanced algorithms that are even faster while still being able to compute the exact minimax value are known, such as SCOUT,[11] Negascout and MTD-f.
+Since the minimax algorithm and its variants are inherently depth-first, a strategy such as iterative deepening is usually used in conjunction with alpha–beta so that a reasonably good move can be returned even if the algorithm is interrupted before it has finished execution. Another advantage of using iterative deepening is that searches at shallower depths give move-ordering hints that can help produce cutoffs for higher depth searches much earlier than would otherwise be possible.
+Algorithms like SSS*, on the other hand, use the best-first strategy. This can potentially make them more time-efficient, but typically at a heavy cost in space-efficiency.[citation needed]
+OPEN = [initial state]
+while OPEN is not empty or until a goal is found
+do
+ 1. Remove the best node from OPEN, call it n.
+ 2. If n is the goal state, backtrace path to n (through recorded parents) and return path.
+ 3. Create n's successors.
+ 4. Evaluate each successor, add it to OPEN, and record its parent.
+done
+Note that this version of the algorithm is not complete, i.e. it does not always find a possible path between two nodes even if there is one. For example, it gets stuck in a loop if it arrives at a dead end, that is a node with the only successor being its parent. It would then go back to its parent, add the dead-end successor to the OPEN list again, and so on.
+The following version extends the algorithm to use an additional CLOSED list, containing all nodes that have been evaluated and will not be looked at again. As this will avoid any node being evaluated twice, it is not subject to infinite loops.
+OPEN = [initial state]
+CLOSED = []
+while OPEN is not empty
+do
+ 1. Remove the best node from OPEN, call it n, add it to CLOSED.
+ 2. If n is the goal state, backtrace path to n (through recorded parents) and return path.
+ 3. Create n's successors.
+ 4. For each successor do:
+       a. If it is not in CLOSED: evaluate it, add it to OPEN, and record its parent.
+       b. Otherwise: change recorded parent if this new path is better than previous one.
+done
+Also note that the given pseudo code of both versions just terminates when no path is found. An actual implementation would of course require special handling of this case.
+An example map of Germany with some connections between cities
+The breadth-first tree obtained when running BFS on the given map and starting in Frankfurt
+Graph and tree search algorithms α–�?/a> A* B* Beam Bellman–Ford Best-first Bidirectional Borůvka Branch & bound BFS British Museum D* DFS Depth-limited Dijkstra Edmonds Floyd–Warshall Hill climbing Iterative deepening Kruskal Johnson Lexicographic BFS Prim Uniform-cost Listings Graph algorithms Search algorithms List of graph algorithms Related topics Dynamic programming Graph traversal Tree traversal Search games v t e
+The algorithm uses a queue data structure to store intermediate results as it traverses the graph, as follows:
+Enqueue the root node Dequeue a node and examine it If the element sought is found in this node, quit the search and return a result. Otherwise enqueue any successors (the direct child nodes) that have not yet been discovered. If the queue is empty, every node on the graph has been examined �?quit the search and return "not found". If the queue is not empty, repeat from Step 2.
+Note: Using a stack instead of a queue would turn this algorithm into a depth-first search.
+Note: If each node in a graph is to be traversed by a tree-based algorithm (such as DFS or BFS), then the algorithm must be called at least once for each entirely distinct subgraph of the graph. This is easily accomplished by iterating through all the nodes of the graph, performing the algorithm on each node that is still unvisited when examined.
+The lexicographic breadth-first search algorithm replaces the queue of vertices of a standard breadth-first search with an ordered sequence of sets of vertices. The sets in the sequence form a partition of the remaining vertices. At each step, a vertex v from the first set in the sequence is removed from that set, and if that removal causes the set to become empty then the set is removed from the sequence. Then, each set in the sequence is replaced by two subsets: the neighbors of v and the non-neighbors of v. The subset of neighbors is placed earlier in the sequence than the subset of non-neighbors. In pseudocode, the algorithm can be expressed as follows:
+Initialize a sequence Σ of sets, to contain a single set containing all vertices. Initialize the output sequence of vertices to be empty. While Σ is non-empty: Find and remove a vertex v from the first set in Σ If the first set in Σ is now empty, remove it from Σ Add v to the end of the output sequence. For each edge v-w such that w still belongs to a set S in Σ: If the set S containing w has not yet been replaced while processing v, create a new empty replacement set T and place it prior to S in the sequence; otherwise, let T be the set prior to S. Move w from S to T, and if this causes S to become empty remove S from the sequence.
+Each vertex is processed once, each edge is examined only when its two endpoints are processed, and (with an appropriate representation for the sets in Σ that allows items to be moved from one set to another in constant time) each iteration of the inner loop takes only constant time. Therefore, like simpler graph search algorithms such as breadth-first search and depth first search, this algorithm takes linear time.
+The algorithm is called lexicographic breadth-first search because the lexicographic order it produces is an ordering that could also have been produced by a breadth-first search, and because if the ordering is used to index the rows and columns of an adjacency matrix of a graph then the algorithm sorts the rows and columns into Lexicographical order.
+def ternarySearch(f, left, right, absolutePrecision):
+    #left and right are the current bounds; the maximum is between them
+    if (right - left) < absolutePrecision:
+        return (left + right)/2
+ 
+    leftThird = (2*left + right)/3
+    rightThird = (left + 2*right)/3
+ 
+    if f(leftThird) < f(rightThird):
+        return ternarySearch(f, leftThird, right, absolutePrecision)
+    else:
+        return ternarySearch(f, left, rightThird, absolutePrecision)
+The usual algorithms for topological sorting have running time linear in the number of nodes plus the number of edges ().
+One of these algorithms, first described by Kahn (1962), works by choosing vertices in the same order as the eventual topological sort. First, find a list of "start nodes" which have no incoming edges and insert them into a set S; at least one such node must exist in an acyclic graph. Then:
+L �?Empty list that will contain the sorted elements
+S �?Set of all nodes with no incoming edges
+while S is non-empty do
+    remove a node n from S
+    insert n into L
+    for each node m with an edge e from n to m do
+        remove edge e from the graph
+        if m has no other incoming edges then
+            insert m into S
+if graph has edges then
+    return error (graph has at least one cycle)
+else 
+    return L (a topologically sorted order)
+If the graph is a DAG, a solution will be contained in the list L (the solution is not necessarily unique). Otherwise, the graph must have at least one cycle and therefore a topological sorting is impossible.
+Note that, reflecting the non-uniqueness of the resulting sort, the structure S can be simply a set or a queue or a stack. Depending on the order that nodes n are removed from set S, a different solution is created. A variation of Kahn's algorithm that breaks ties lexicographically forms a key component of the Coffman–Graham algorithm for parallel scheduling and layered graph drawing.
+An alternative algorithm for topological sorting is based on depth-first search. For this algorithm, edges point in the opposite direction as the previous algorithm (and the opposite direction to that shown in the diagram in the Examples section above). There is an edge from x to y if job x depends on job y (in other words, if job y must be completed before job x can be started). The algorithm loops through each node of the graph, in an arbitrary order, initiating a depth-first search that terminates when it hits any node that has already been visited since the beginning of the topological sort:
+L �?Empty list that will contain the sorted nodes
+S �?Set of all nodes with no incoming edges
+for each node n in S do
+    visit(n) 
+function visit(node n)
+    if n has not been visited yet then
+        mark n as visited
+        for each node m with an edge from n to m do
+            visit(m)
+        add n to L
+Note that each node n gets added to the output list L only after considering all other nodes on which n depends (all descendant nodes of n in the graph). Specifically, when the algorithm adds node n, we are guaranteed that all nodes on which n depends are already in the output list L: they were added to L either by the preceding recursive call to visit(), or by an earlier call to visit(). Since each edge and node is visited once, the algorithm runs in linear time. Note that the simple pseudocode above cannot detect the error case where the input graph contains cycles. The algorithm can be refined to detect cycles by watching for nodes which are visited more than once during any nested sequence of recursive calls to visit() (e.g., by passing a list down as an extra argument to visit(), indicating which nodes have already been visited in the current call stack). This depth-first-search-based algorithm is the one described by Cormen et al. (2001); it seems to have been first described in print by Tarjan (1976).
+Dijkstra's algorithm, which is perhaps better-known, can be regarded as a variant of uniform-cost search, where there is no goal state and processing continues until all nodes have been removed from the priority queue, i.e. until shortest paths to all nodes (not just a goal node) have been determined. As in Dijkstra's algorithm, UCS guarantees that (if all edge weights are non-negative) the shortest path to a particular node has been found once the node is extracted from the priority queue.
+Uniform-cost search is a special case of the A* search algorithm if its heuristic is a constant function. If A* is used with a monotonic heuristic, then it can be turned into a uniform cost search by subtracting from each edge cost the decrease in heuristic value along that edge. Breadth-first search (BFS) is a special case of uniform-cost search when all edge costs are positive and identical. Where BFS first visits the node with the shortest path length (number of nodes) from the root node, UCS first visits the node with the shortest path costs (sum of edge weights) from the root node.
+Uniform-cost search is a variant of best-first search.

@@ -1,0 +1,2 @@
+★How does my mobile phone network operator know that I am using my data plan for tethering?Are they analysing packets or ports to identify tethering, so that they can block it?
+They don't, typically, unless you are using their utility (ostensibly, what the fees are for). On iPhone, for example, and many Android devices with proprietary stock ROMs (Sense, et. al) you can jailbreak or root the device and use third party apps for that functionality without changing plans and using the same bandwidth pool as your existing plan.    Embed Quote

@@ -1,0 +1,2 @@
+★Does the Nest Thermostat support IPv6?
+Not yet, as far as the community can tell.  The Nest is jam packed with silicon (including a TI AM3703 Cortex A8 SoC and a Zigbee chip!) so it can presumably be upgraded to speak IPv6 using the widely available libraries when the time is right. EDIT: Support has been added in the gen 2; see other answers.    Embed Quote

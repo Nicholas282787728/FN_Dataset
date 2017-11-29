@@ -1,0 +1,2 @@
+What are the best resources to learn about graph theory?
+Another nice book is Bondy and Murty's "Graph Theory". The newer version of 2008 was released after the time tested release in  1970's. I like the approach it takes. Ask a question, and slowly guide the reader through to the answer. Here's the link: http://www.springer.com/mathemat... 9.9k Views · 5 Upvotes

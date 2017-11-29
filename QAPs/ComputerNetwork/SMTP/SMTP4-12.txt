@@ -1,0 +1,2 @@
+★What hosted SMTP services are available to outsource your outgoing email delivery to increase deliverability?Especially if you send a lot of email. How do they compare? This is a follow-up question to What techniques can I use to prevent emails sent from my web site from being marked as spam and increase deliverability?.
+AppEngine - Python - http://code.google.com/appengine... or Java - http://code.google.com/appengine...    Embed Quote

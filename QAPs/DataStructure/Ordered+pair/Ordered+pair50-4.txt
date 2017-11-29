@@ -1,0 +1,2 @@
+How can you prove negative numbers exist?
+It's an abstraction. You could come up with a different "type" of numbers and define a consistent theory around them. Whether that is useful or not depends on somebody finding real world phenomena that you can model with your theory. 

@@ -1,0 +1,2 @@
+What operating system is considered the most secure?
+Avoiding anything mainstream (x86/windows/little-endian/32-bit) gets you a smaller set of known working attacks but also less eyeballs fixing problems. 

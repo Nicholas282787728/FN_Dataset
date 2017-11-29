@@ -1,0 +1,1 @@
+How do we define character array in c++?please do refer Character sequences 13 Views  Answer requested by 1 person

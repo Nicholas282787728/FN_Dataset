@@ -1,0 +1,2 @@
+★Why is HTML used in web pages?
+That's simply the standard that the browsers recognize.    Embed Quote

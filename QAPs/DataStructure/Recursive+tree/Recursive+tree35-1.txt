@@ -1,0 +1,2 @@
+What is the point of using dynamic programming when the time complexity in most of the codes is O(n^2) (Which isn't so good i.e. we use double for loops even in DP)?
+If dynamic programming solution takes lesser time then the before applied algorithm then we use DP. If we find any other solution which works better than dynamic programming then we use that. DP is just a paradigm to solve a problem along with memoization which if gives lesser time complexity for the given question which exhibit optimal substructure. 

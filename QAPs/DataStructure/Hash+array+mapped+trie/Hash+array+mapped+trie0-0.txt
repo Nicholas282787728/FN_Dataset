@@ -1,0 +1,2 @@
+What is a Hash Array Mapped Trie and why would one use it?
+It seems to be fairly well documented online. Hash array mapped trie PDF by Phil Bagwell Hash Array Mapped Trie (HAMT) 

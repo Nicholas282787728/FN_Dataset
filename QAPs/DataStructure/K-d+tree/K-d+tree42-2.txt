@@ -1,0 +1,2 @@
+How does one determine the number of clusters that are hidden in a given data set?
+One simple rule of thumb sets the number to: [math]k \approx \sqrt{n/2}[/math] with n as the number of objects (data points). For more information: Determining the number of clusters in a data set 

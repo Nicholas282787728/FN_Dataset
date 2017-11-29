@@ -1,0 +1,2 @@
+What is the best data structure for heap implementation?
+Heaps are usually simpler to implement than properly balanced  binary trees.  Additionally, they require less memory overhead (elements  can be stored directly in an array, without having to allocate tree  nodes and pointers and everything), potentially speedier performance  (largely due to the memory locality of using a single contiguous array). So array is definitely the best for implementing heap. 

@@ -1,0 +1,2 @@
+What is a great way to learn math and computer science concurrently (ideally with one helping another)?Or learning how to program and thinking mathematically at the same time. Engage math in learning how to code and vice versa. I love coding. I feel like I'll be much better at math if I use math a lot in coding. I'm interested in both programming and computer science. I'm looking for solutions when all of it is explicitly tied together.
+here, About - Project Euler ||https://projecteuler.net set of mathematical problems required to programmed. 

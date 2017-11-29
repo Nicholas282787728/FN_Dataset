@@ -1,0 +1,2 @@
+In Python how do I replace a string in text without replacing substrings?
+Hey you can use word boundary "\b" into regex sub function. import rex="Home is disable isis on won"print(re.sub(r"\bis\b","je" ,x)) Ideone-OP 

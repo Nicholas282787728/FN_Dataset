@@ -1,0 +1,1 @@
+What is the difference between a binary tree and a regular binary tree?I'm assuming you're asking the difference between a binary tree and a regular tree. In a binary tree every node can have atmost 2 children. There's no restriction of this sort for a regular tree. 

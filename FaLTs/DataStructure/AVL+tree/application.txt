@@ -1,0 +1,1 @@
+AVL tree is a n algrothim that can be used to study the b tech subject AAD. AVL Tree is dictionary data structures and applied to security concerns and to parallel code.

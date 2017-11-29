@@ -1,0 +1,2 @@
+★What's a good way to parse XML in C#?
+XmlSerializer works very well with xsd.exe if you have a known schema. It will generate classes and everything for you that you can use to iterate through the XML.    Embed Quote

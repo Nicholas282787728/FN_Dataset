@@ -1,0 +1,2 @@
+What are some good websites to learn data structures and algorithms?
+Coursera has launched a Data Structures and Algorithms Specialization. It covers basic algorithms and data structures, algorithms on strings and graphs, some advanced topics. And it has a lot of coding problems which you can solve in several popular programming languages. 4.2k Views · 3 Upvotes

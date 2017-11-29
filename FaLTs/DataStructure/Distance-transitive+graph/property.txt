@@ -1,0 +1,1 @@
+A distance-transitive graph is interesting partly because it has a large automorphism group. Some interesting finite groups are the automorphism groups of distance-transitive graphs, especially of those whose diameter is 2.

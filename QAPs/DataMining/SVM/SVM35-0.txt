@@ -1,0 +1,2 @@
+★How svm handle non-separable data?Assume we have two datasets (say D1 and D2) to train the model using svm. If D2 share some similar data points with D1, what will the decision boundary be like? In the testing, what will happen if the testing data points are in the overlapping area?
+It will use "soft margin", see this chapter on Support vector machine (Soft margin). In short, it will still try to separate the data but it will fail for some data points - it'll try to minimize the error on these fails.    Embed Quote

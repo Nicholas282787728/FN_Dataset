@@ -1,0 +1,2 @@
+★What is an intuitive explanation of infrared and ultraviolet divergences?
+Infrared divergence is a divergence of a Taylor series due to substitution large into it. This divergence is cured with summation of the series in a finite expression . Ultraviolet divergence is a "physical effect" imposed erroneously by physicists to a point-like electron, namely, a self-induction effect. The self-induction effect is model (geometry) dependent and diverges for point-like electron. It is cured with subtracting the self-induction contribution.    Embed Quote

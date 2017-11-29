@@ -1,0 +1,2 @@
+What would be a good hash function for doubles?I need a hash function that for two numbers a and b ( abs(a - b) <= eps) would give the same result.
+Consider some a and b so that b-a=eps. Then, c=b+eps should give you the same hash as for b, which, as per your requirement, is the same as the hash for a, but abs(c-a) is greater than eps, so the hashes of a and c should be different. So, your requirement is self-contradictory. 

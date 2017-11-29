@@ -1,0 +1,2 @@
+What are some books which are like "How to lie with statistics", but more rigorous?
+The Visual Display of Quantitative Information by Tufte is an amazing book about clear communication of statistical information. Picturing the Uncertain World: How to Understand, Communicate, and Control Uncertainty through Graphical Display by Wainer has great examples about some of the most fundamental ideas in statistics and how they connect to visualization. 

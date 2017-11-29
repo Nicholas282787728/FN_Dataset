@@ -1,0 +1,2 @@
+I want to practice algorithms for 10 days (240 hours). Where should I start?I have fair knowledge of Algorithms.
+It will take longer than 10 days, but try the MIT Open Courseware "introduction to algorithms" course on iTunes University. -Stuart. 

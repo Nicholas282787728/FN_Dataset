@@ -1,0 +1,2 @@
+★How much on an effect will IPv6 have on the average user?I tried to access http://ipv6.google.com/ and i'm unable to. Does it have to do with my internet provider or my PC.
+Some users can (and already have been) affected by the Happy Eyeballs phenomenon.    Embed Quote

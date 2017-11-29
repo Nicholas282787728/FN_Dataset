@@ -1,0 +1,2 @@
+What are some beautiful data structures most programmers do not know?
+Quadtree: Google uses it for maps! Rope (data structure) 

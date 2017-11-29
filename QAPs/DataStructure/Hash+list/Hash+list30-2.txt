@@ -1,0 +1,2 @@
+Is there a complete list of everything a C programmer would need to know, like arrays, threading theory, pointers, etc.?
+When you've written an optimizing C compiler in C, you'll know all there is to know about the grammar of the language.  Now consider the grammar of English, and the gulf between knowing how to write correctly and knowing how to write well. 

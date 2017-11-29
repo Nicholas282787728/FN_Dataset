@@ -1,0 +1,2 @@
+What is difference between EMPTY and NULL string in Java?
+NULL means object refers to nothing say String stringObject; and empty means String stringObject = ""; this is an empty string 

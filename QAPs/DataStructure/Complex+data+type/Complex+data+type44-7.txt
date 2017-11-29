@@ -1,0 +1,1 @@
+How does a computer distinguish a number and a letter or a string? I mean, let's say we have a bit sequence like 11110100 in anywhere in the memory. How does a computer know if it is a number or a string or a letter?

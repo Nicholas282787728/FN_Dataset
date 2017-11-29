@@ -1,0 +1,2 @@
+Can someone trace this simple recursive function by drawing the recursive list/tree?
+The function call f(1/2*n) is being executed as f(0*n) -> f(0) = 0 (integer division) Hence f(n) for all even n is just a call to f(0) and for all odd n it's 1 + f(0) = 1 

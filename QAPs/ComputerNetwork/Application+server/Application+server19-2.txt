@@ -1,0 +1,2 @@
+★Where can I find real life examples of web application server side architecture?I want to see how successful companies built their site. I'm interested in database schema, models and relationships
+This is the architecture for maintaining data online. Here is an  implementation example Relocatable hierarchical software design logical process flowcharts

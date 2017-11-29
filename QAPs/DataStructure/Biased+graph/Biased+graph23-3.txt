@@ -1,0 +1,2 @@
+Why do overfit models have high variance but low bias?
+I think what is meant by “bias” here is really training error. Overfit models perform well on training data, but tend to generalize poorly (hence high variance). One easy example of this is in linear regression. Suppose the true data generating model is y∼N(Xβ,σ 2 I k )  y∼N(Xβ,σ2Ik) where the true β∈R k   β∈Rk Adding more than k  k parameters to the model will keep decreasing training error, but since the underlying model is a k  k -dimensional one, will increase test error after a point. 411 Views · 1 Upvote

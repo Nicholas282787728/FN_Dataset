@@ -1,0 +1,2 @@
+★What are the pros and cons of a startup with a domain name that actually means something?
+Seureka is probably not a great idea since I doubt people can easily convey it in speech.  You're going to have a bad time if people have to Google your product's name in order to find it. For some cases where there is a deliberate misspelling, such as Flickr, they often also purchase the correctly spelled domain name and have it redirect to the other.  Tumblr does not do this.

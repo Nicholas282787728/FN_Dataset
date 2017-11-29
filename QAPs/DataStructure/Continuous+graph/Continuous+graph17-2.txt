@@ -1,0 +1,1 @@
+What would a graph of a function that is continuous and differentiable at all points except x=1  and x=3  look like?

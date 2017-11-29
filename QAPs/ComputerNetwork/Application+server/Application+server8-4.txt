@@ -1,0 +1,2 @@
+★What is the difference between an application server and a web server?
+I am a little short on time right now so can't explain in detail but go through the URL and you'll get the gist of it.   App server, Web server: What's the difference?

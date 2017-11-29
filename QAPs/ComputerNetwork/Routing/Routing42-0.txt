@@ -1,0 +1,2 @@
+★What are the difference between forwarding and routing?
+Forwarding is "dumb" in a sense. All forwarding does is check the "forwarding" or "routing" table and send a packet to the destination based on the table. Routing is "smart". It figures out the best path to certain computers or IP addresses and fills in the "forwarding" or "routing" table based on that. So in short, forwarding is simply following or executing packet "forwarding" based on stuff in the routing table, which is maintained and updated by routing.    Embed Quote

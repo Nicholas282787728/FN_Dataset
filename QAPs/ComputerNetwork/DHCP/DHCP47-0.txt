@@ -1,0 +1,2 @@
+★What IP address is used by a client initially for connecting to a DHCP server when it doesn't have any IP address?
+0.0.0.0 - The client sets the src IP address of the packet to 0.0.0.0 and broadcasts the DHCP Discover and DHCP request UDP packets.

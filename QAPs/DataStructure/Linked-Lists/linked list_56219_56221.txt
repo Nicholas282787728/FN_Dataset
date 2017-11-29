@@ -1,0 +1,1 @@
+how to find middle element of link list in one pass ? by cheating , and do two pass at the same time , in parallel . but i do not know whether the recruiter will like this . can be do on a single link list , with a nice trick . two pointer travel over the list , one with double speed . when the fast one reach the end , the other one be half-way . 

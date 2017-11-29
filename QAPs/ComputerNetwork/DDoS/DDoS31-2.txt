@@ -1,0 +1,2 @@
+★How do sites like Quora, Facebook, Yelp handle DDoS attacks?Are there any libraries that people use to handle these?
+In addition IP transit providers can black-hole traffic from specific destinations on request of large customers such as Facebook.

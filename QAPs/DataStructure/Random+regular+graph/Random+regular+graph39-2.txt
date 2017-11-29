@@ -1,0 +1,2 @@
+What's a good "scripting" functional programming language?
+Have you looked into Clojure? It's a Lisp so it's lightweight and simple in many of the same ways Python is -- it has very strong Java integration though, which means you get easy access to any library a Java programmer can use. It's also a pretty language. 

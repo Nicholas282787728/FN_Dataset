@@ -1,0 +1,2 @@
+★What model is the best for URL Similarity/URL Pattern Recognition?
+I would frame it as a classification problem and use character n-grams.    Embed Quote

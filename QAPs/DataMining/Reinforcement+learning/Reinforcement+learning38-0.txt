@@ -1,0 +1,2 @@
+★What are some good introductory papers on model-free reinforcement learning?
+I would suggest the book by Sutton and Barto: Reinforcement Learning: An Introduction. This is an excellent introductory text, focused on concepts and algorithms,  with useful examples/exercises and intuitive explanations. You can find a draft of the 2nd edition here: book2012.pdf    Embed Quote

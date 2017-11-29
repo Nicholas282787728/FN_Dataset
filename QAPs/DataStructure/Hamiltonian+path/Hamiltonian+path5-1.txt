@@ -1,0 +1,1 @@
+Given a NxN matrix, what are all the possible Hamiltonian paths from (1,1) to (1,N)?Limit: N<=10 Example: n=2 then 1 path, n=3 then 2 paths, n=4 then 8 paths.... This is a homework, and i hope i can have its running time under 1 second.

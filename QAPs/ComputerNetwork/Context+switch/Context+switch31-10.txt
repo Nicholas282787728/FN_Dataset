@@ -1,0 +1,2 @@
+★What is a coder's worst nightmare?
+When your code is reliable.  99.9%.  You spend a whole day catching any corner case that you can think of.  You feel it's so improved.  You come home.  Right before you close your eyes in bed, your heart tells it's only 99.99% reliable now.  Nightmare is gonna sleep with you all night! Daymare: PM finds that 0.01% in prod the morning after!

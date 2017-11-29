@@ -1,0 +1,2 @@
+Which is the best network monitoring tool: Nagios or Zabbix?
+If the choice is made between these two ones, I'd prefer Nagios. You can also have a look at Mon.itor.us . It's a free all-in-one web server monitoring as a service. 

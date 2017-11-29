@@ -1,0 +1,2 @@
+★What is the best open source software to use for building predictive models?Any advice on techniques to train the model?  Segment the data?
+Programming Collective Intelligence by Toby Segaran covers a variety of open source projects and techniques for machine learning / predictive models. http://oreilly.com/catalog/97805...    Embed Quote

@@ -1,0 +1,2 @@
+★Can we combine two wi-fi networks?
+Yea, of course you can do that. Now if you meant can we extend the wifi range then yes you can by making a bridge between the Two wifi routers one will be the AP( access point) the other will act as repeater. This can be achieved by using the WDS settings on your wifi router    Embed Quote

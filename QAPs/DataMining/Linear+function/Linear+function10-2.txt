@@ -1,0 +1,2 @@
+★How would you find intervals of positive and negative in quadratic, exponential, and linear functions?
+If you're really asking me how _I_ do it then my answer is that for the simpler functions like these I use software like GeoGebra to get  a quick look followed by more careful work with software like the Python SymPy library. I would also recommend these to anyone learning about investigating functions. If you are asking me about how to do this in mathematical terms please comment and I'll try to get back to you.    Embed Quote

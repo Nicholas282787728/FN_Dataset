@@ -1,0 +1,2 @@
+Which is better, SQL or NoSQL?
+Well it depends on what type of data you want to store and purpose behind storing data. 

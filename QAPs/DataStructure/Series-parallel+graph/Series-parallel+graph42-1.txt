@@ -1,0 +1,2 @@
+What are some good MapReduce implementations for graphs?
+I believe this method avoids the use of MapReduce, for reasons which they explain. However, it is a method of doing computations on graphs in a distributed way: Pregel, by Google. http://portal.acm.org/citation.c... Update: there is a Pregel topic on Quora. 

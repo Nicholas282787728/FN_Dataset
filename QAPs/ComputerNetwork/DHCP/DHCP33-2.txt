@@ -1,0 +1,2 @@
+★How can I change my public IP from static to dynamic (DHCP)?My ISP give my a static IP and I want to change it to a dynamic IP, how can I do that? I tried with the CMD commands but it's not possible. There are other options?
+Why would you want to do something like that?  People actually pay extra to get a static IP.

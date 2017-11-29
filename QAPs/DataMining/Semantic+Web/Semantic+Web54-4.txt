@@ -1,0 +1,2 @@
+★Is the semantic web a silver bullet for all my problems modeling the world in a relational database?
+I think you'd be disappointed.  The Semantic Web is in some ways a step backward from the standardized, well-defined, and fairly powerful modeling capabilities of the relational database world. But like comparing SQL and NoSQL, this is an "apples-to-oranges" comparison.    Embed Quote

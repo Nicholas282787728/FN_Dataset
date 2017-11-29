@@ -1,0 +1,2 @@
+★What are the most powerful open source information extraction tools?What sort of information?  How is the data stored and formatted?
+I suggest to have a look at ScraperWiki - in my experience it combines the best of both worlds: data extraction in many languages + storage as well as collaborative workflows.    Embed Quote

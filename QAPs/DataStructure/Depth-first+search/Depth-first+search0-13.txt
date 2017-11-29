@@ -1,0 +1,2 @@
+What is the difference between depth-first-search and breadth-first-search? Why does DFS visit the node after removal from a stack while BFS visits the node before adding it to the queue?
+1.BFS means breadth first search commonly used in Queue and DFS means depth first search 2.BFS is used to find shortest path while DFS cant be used to find it 3.BFS is slower than DFS while DFS is more faster than BFS. 4.BFS requires more memory compare to DFS while DFS 86 Views

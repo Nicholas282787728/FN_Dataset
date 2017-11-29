@@ -1,0 +1,2 @@
+Is there a complete hierarchical graph of Scala and Java collection framework?
+For Java Collection Framework I tried to search through google and got a good result. Follow this links: Overview of Java Collections Framework API (UML diagram) Class diagram of List API Class diagram of Set API Class diagram of Map API Class diagram of Queue API 

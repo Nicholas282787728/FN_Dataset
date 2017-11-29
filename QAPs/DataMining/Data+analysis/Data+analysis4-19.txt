@@ -1,0 +1,2 @@
+Which are some of the best Data Analysis tools?
+Excel :-) Seriously, it heavily depends on what data you are analysing. Also make sure to check if the system providing you the data also includes a reporting/analysis tool. If you want to make your data accessible by managers, you might want to consider using a dashboard tool like ARIS MashZone. But as I said before, you need to elaborate on your question a little bit.    Embed Quote 

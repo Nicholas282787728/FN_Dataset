@@ -1,0 +1,2 @@
+What are the differences in laymen terms between data structures vs. data types?
+Data types describe things. Data structures collect them. 

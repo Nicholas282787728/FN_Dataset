@@ -1,0 +1,1 @@
+What are vertices? How many vertices does a square have?A vertex is an angular point of a polygon, polyhedron or other figure. In terms of a square, a vertex basically represents a corner as a point. If you want to count all the corners of a square you can, and you will find that there are four vertices in a square. 557 Views

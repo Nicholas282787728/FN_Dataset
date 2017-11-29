@@ -1,0 +1,2 @@
+★How do you explain semantic web to someone whose professional frame of reference is in order-taking, delivery, humoring customers, or catering in the food service industry?
+"It's like when the customer asks for a soda, and you can immediately say, Would like a Coke or Pepsi? Now, imagine the computer could make the connection that Coke is a soda and so is Pepsi and answer questions like this."    Embed Quote

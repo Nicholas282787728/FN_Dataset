@@ -1,0 +1,2 @@
+How to compute the inverse permutation in a functional programming style?
+Since it is a permutation, you don't need to sort it. for i 0 -> size - 1   invPer(per(i)) = i 

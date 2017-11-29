@@ -1,0 +1,2 @@
+What is the easiest way to calculate the area under the curve (integral) of a graph in excel?
+You could, ugh, write a few lines in VBA to add up and integrate the data.    Something like: Dim rExternalTotal As Range , dExternalTotal as DoubleSet rExternalTotal = Range(rReportData.Offset(0, 0), rReportData.Offset(261, 0).End(xlUp)) dExternalTotal = Application.WorksheetFunction.Sum(rExternalTotal) But unless yo uknow VBA really well, this example is not going to work, as it needs some tweaking. VBA I'd put into one of the top ten horrors of computing. 

@@ -1,0 +1,2 @@
+What are some Indian startups working with Machine Learning or Data Mining?
+Off the top of my head, There is a startup called Serendio in Chennai that does  some machine learning/data mining work. Reddit does some core ML/NLP stuff. SETU, incubated in IIIT-Hyderabad, works on NLP stuff.    Embed Quote 

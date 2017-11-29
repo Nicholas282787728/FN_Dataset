@@ -1,0 +1,2 @@
+A data type is stored as an 6 bit signed integer. Which of the following cannot be represented by this data type: -12, 0, 32 or 64?
+I don't normally answer homework questions but this seems like something you might get stuck on on a bad day. A Google search probably could have found the answer though. 2^5-1 is 31. So your range is -32 to 31. For reference in case you need it:  https://en.m.wikipedia.org/wiki/... Thank you for your feedback! Your response is private. Is this answer still relevant and up to date? YesNo 3.9k Views · 3 Upvotes · Answer requested by Devi Sindhu

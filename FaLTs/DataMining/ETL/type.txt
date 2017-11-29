@@ -1,0 +1,19 @@
+In the data transformation stage, a series of rules or functions are applied to the extracted data in order to prepare it for loading into the end target. Some data does not require any transformation at all; such data is known as "direct move" or "pass through" data.
+
+An important function of transformation is the cleaning of data, which aims to pass only "proper" data to the target. The challenge when different systems interact is in the relevant systems' interfacing and communicating. Character sets that may be available in one system may not be so in others.
+
+In other cases, one or more of the following transformation types may be required to meet the business and technical needs of the server or data warehouse:
+
+Selecting only certain columns to load: (or selecting null columns not to load). For example, if the source data has three columns (aka "attributes"), roll_no, age, and salary, then the selection may take only roll_no and salary. Or, the selection mechanism may ignore all those records where salary is not present (salary = null).
+Translating coded values: (e.g., if the source system codes male as "1" and female as "2", but the warehouse codes male as "M" and female as "F")
+Encoding free-form values: (e.g., mapping "Male" to "M")
+Deriving a new calculated value: (e.g., sale_amount = qty * unit_price)
+Sorting or ordering the data based on a list of columns to improve search performance
+Joining data from multiple sources (e.g., lookup, merge) and deduplicating the data
+Aggregating (for example, rollup ¡ª summarizing multiple rows of data ¡ª total sales for each store, and for each region, etc.)
+Generating surrogate-key values
+Transposing or pivoting (turning multiple columns into multiple rows or vice versa)
+Splitting a column into multiple columns (e.g., converting a comma-separated list, specified as a string in one column, into individual values in different columns)
+Disaggregating repeating columns
+Looking up and validating the relevant data from tables or referential files
+Applying any form of data validation; failed validation may result in a full rejection of the data, partial rejection, or no rejection at all, and thus none, some, or all of the data is handed over to the next step depending on the rule design and exception handling; many of the above transformations may result in exceptions, e.g., when a code translation parses an unknown code in the extracted data

@@ -1,0 +1,2 @@
+Can an advanced high school student read and understand CLRS "Introduction to Algorithms"?
+It depends on how advanced.  We have freshmen at Dartmouth who take our undergraduate algorithms course, COSC 31, and read CLRS.  They're only one year removed from high school. What I'd recommend is to try reading CLRS.  If you find it too tough, try my other book, Algorithms Unlocked.  It might be the slingshot you need to get into CLRS.  (Don't you hate it when an author plugs not one, but two of his own books?) 

@@ -1,0 +1,2 @@
+★Are there any tools for automatically generating a regular expression from text?Are there tools that can accept a set of strings and automatically generate a concise regular expression that describes the strings in that set?
+http://regex.inginf.units.it/ given a set of input strings and the output you would have liked the regex to generate for each, tries to find a suitable regex    Embed Quote

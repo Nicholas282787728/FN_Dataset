@@ -1,0 +1,2 @@
+★What's a good DSL for a beginner?
+Presumably the purpose is understand an appreciate the purpose of Domains Specific Languages: to be a succinct way to express a problem or a solution for a particular problem area. One assumes the student already has experience with some procedural programming language: Basic, Java, ... A good beginner DSL is HTML.   The student, with the right IDE (a browser and a text editor) can see that writing different things have different effects. After that, SQL is quite good.

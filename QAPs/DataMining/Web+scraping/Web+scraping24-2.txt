@@ -1,0 +1,2 @@
+★What is a good programming language to use for web scraping?
+I use ruby with nokogiri gem. Below is the best guide for learning ruby and nokogiri for beginners  The Bastards Book of Ruby    Embed Quote

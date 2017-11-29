@@ -1,0 +1,2 @@
+What are some really interesting machine learning projects for beginners?Preferably written using python. Any other languages is welcomed though :) Please do mention if you are using third party library or any reference regarding the project etc
+Make a genetic algorithm for breaking codes that use simple substitution ciphers.  Program a fitness function that calculates "closeness" by comparing to normal digram frequency of English text.  Talk to me for more info.... Updated 19 Nov 2012 • View Upvotes

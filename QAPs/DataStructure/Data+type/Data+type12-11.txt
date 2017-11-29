@@ -1,0 +1,2 @@
+Which data type is better either float or double in c++?
+Double is the better option to choose even if a small data is stored. Space complexity is not an issue in the current era so double can be afforded for all cases. Also the most significant reason would be some times the value being stored in the data may go beyond the limit of float and cause stackoverflow exception. It may cause memory leak and loss of data also. 57 Views

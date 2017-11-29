@@ -1,0 +1,1 @@
+What is the time complexity of Breadth First Search Traversal of a graph?I was reading somewhere that the time complexity of performing Breadth First Search Traversal in a connected graph is O(V+E), where V and E are the number of vertices and edges respectively. However, I think it should only be O(E).

@@ -1,0 +1,2 @@
+What are some tips for self-studying Data Structures and Algorithms?
+My sincere suggestion is just follow the books written by Narasimha Karumanchi Founder, CareerMonk . really my dear friend he written that book by keeping in mind of all types of students(i.e.,poor,average,intelligent). And also you can be flexible with the programming language you want. He had written in c/c++,java,python. 152 Views · 2 Upvotes

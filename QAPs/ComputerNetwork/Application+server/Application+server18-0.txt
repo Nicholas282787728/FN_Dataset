@@ -1,0 +1,2 @@
+★GPU Computation: Any potential usage of openCL in web application server?We saw openCL bind with js in web client. So how about web server ? Any potential usage of openCL in server domain ? E.g., Fast Social graph analytics
+Anything backend server calculation with lots of linear algebra is a prime candidate for GPU Compute. So that would include machine learning, complex visual renderings, graphing algorithms, and most scientific simulations. In my practical experience GPUa can outperform CPU calculation by a factor of 10-100x

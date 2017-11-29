@@ -1,0 +1,2 @@
+★What is a good book on machine learning / data mining to give to a layman?Specifically, I am looking for a book for people who are interested to know why this is interesting, but not to implement any actual programs.
+For Data Mining According to me , Data Mining by Vipin Kumar( University of Minnesota)    Embed Quote

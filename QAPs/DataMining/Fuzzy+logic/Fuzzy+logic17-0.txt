@@ -1,0 +1,2 @@
+★What are some good fuzzy logic libraries in Python?
+For Python: FuzzyWuzzy: fuzzywuzzy (simple fuzzy logic centered around string comparison) FuzzyPy: http://sourceforge.net/projects/... PyFuzzy: pyfuzzy - Python fuzzy package Gfuzzy: gfuzzy - Gfuzzy -- a python fuzzy engine If you are using Jython you can also use Java libraries: Jess: http://www.jessrules.com/ jFuzzyLogic: Open Source Fuzzy Logic (Java) More on fuzzy logic / machine learning API's including some Python related: Machine Learning Toolkits    Embed Quote

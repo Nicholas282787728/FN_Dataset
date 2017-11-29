@@ -1,0 +1,2 @@
+★Why the normal distribution can't be integrated from minus infinite to infinite?
+integrating any probability distribution over the entire support is one. So integrating the normal distribution from minus infinity to plus infinity yields 1.    Embed Quote

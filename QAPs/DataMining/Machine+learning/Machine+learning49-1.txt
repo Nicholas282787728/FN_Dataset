@@ -1,0 +1,2 @@
+★What are the best machine-learning research groups in Europe?
+In addition to Ferenc Huszár answer, I think it is worth saying that I think there is no other place anywhere in the world that has a higher concentration of ML (in a broad sense) people than the London-Cambridge-Oxford triangle. Ferenc mentions the pure ML people but combine that with machine intelligence, computer science, signal processing people at Cambridge, UCL, Imperial, Oxford and we're talking about well over 50 faculty.    Embed Quote

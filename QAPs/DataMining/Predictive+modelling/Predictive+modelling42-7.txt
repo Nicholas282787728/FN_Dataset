@@ -1,0 +1,2 @@
+★What are methods to make a predictive model more robust to outliers?
+You need to understand that you can learn from outliers or only focus on the main phenomena. There are many algorithms in the field to learn outlier, specialiy in mobility pattern. I can't mention here the method. You can search in Google outlier and the field you are interested in, and you will find enough method.    Embed Quote

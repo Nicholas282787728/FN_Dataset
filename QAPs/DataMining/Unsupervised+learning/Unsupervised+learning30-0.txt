@@ -1,0 +1,2 @@
+★Is dimensionality reduction considered a branch of unsupervised learning?
+Yes, according to the definition set forth by @ in his Neural Networks class. Source: https://class.coursera.org/neura...    Embed Quote

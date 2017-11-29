@@ -1,0 +1,1 @@
+Can I skip arrays in the process of learning Java?If you're well versed with the concept of Arrays, their uses and operations performed on them in some other language, then you can skip them. Because the concept and operations remain constant everywhere. 51 Views

@@ -1,0 +1,2 @@
+How strong would an electromagnetic field need to be in order to deflect a .50 caliber bullet?
+I must disagree with the learned theoretical PhD.  Move any conductor fast enough through a strong enough magnetic field, and you're going to get eddy currents and a local magnetic field that pushed against the big one. You'd need a pretty strong field, though, and you wouldn't want to be near it because the eddy currents from moving blood could stop your heart. 

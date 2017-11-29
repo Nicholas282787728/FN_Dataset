@@ -1,0 +1,2 @@
+What algorithms and data structures are useful for computing visibility maps for voxel environments?
+Octrees and Binary Space Partitioning are pretty common techniques, but you can always "invent" your own.  You could do probabalistic rendering where you render the scene from several viewpoints at many different positions, and determine the probability of a voxel being visible as a function of the view direction/position, based on how many times it gets rendered without being clipped by something in front of it. 

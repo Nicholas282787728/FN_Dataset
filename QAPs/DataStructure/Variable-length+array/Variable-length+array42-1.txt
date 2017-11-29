@@ -1,0 +1,2 @@
+Why didn't Go (programming language) follow the C language style?
+Because if they did, what would the point be? Go's creators were creating a new language which was meant to easier to program in than C. If they had followed C's style, then they would have just re-invented C, and that wouldn't be useful or interesting. You can probably get a better answer if you point out a specific un-C-like feature that you don't the purpose of. 

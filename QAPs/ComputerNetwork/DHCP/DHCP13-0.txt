@@ -1,0 +1,2 @@
+★Does HP ENVY-15 3017TX have DHCP compatibility?
+Yes...Windows Server  2008 includes the DHCP Server service as an optional networking.All Windows-based OSes include the DHCP client as part of TCP/IP incuding Windows 98 upto Windows 7.

@@ -1,0 +1,15 @@
+The intent is to enhance the usability and usefulness of the Web and its interconnected resources by creating Semantic Web Services, such as:
+
+Servers that expose existing data systems using the RDF and SPARQL standards. Many converters to RDF exist from different applications. Relational databases are an important source. The semantic web server attaches to the existing system without affecting its operation.
+Documents "marked up" with semantic information (an extension of the HTML <meta> tags used in today's Web pages to supply information for Web search engines using web crawlers). This could be machine-understandable information about the human-understandable content of the document (such as the creator, title, description, etc.) or it could be purely metadata representing a set of facts (such as resources and services elsewhere on the site). Note that anything that can be identified with a Uniform Resource Identifier (URI) can be described, so the semantic web can reason about animals, people, places, ideas, etc. There are four semantic annotation formats that can be used in HTML documents; Microformat, RDFa, Microdata and JSON-LD.[19] Semantic markup is often generated automatically, rather than manually.
+Common metadata vocabularies (ontologies) and maps between vocabularies that allow document creators to know how to mark up their documents so that agents can use the information in the supplied metadata (so that Author in the sense of 'the Author of the page' won't be confused with Author in the sense of a book that is the subject of a book review).
+Automated agents to perform tasks for users of the semantic web using this data.
+Web-based services (often with agents of their own) to supply information specifically to agents, for example, a Trust service that an agent could ask if some online store has a history of poor service or spamming.
+Such services could be useful to public search engines, or could be used for knowledge management within an organization. Business applications include:
+
+Facilitating the integration of information from mixed sources
+Dissolving ambiguities in corporate terminology
+Improving information retrieval thereby reducing information overload and increasing the refinement and precision of the data retrieved[20][21][22][23]
+Identifying relevant information with respect to a given domain[24]
+Providing decision making support
+In a corporation, there is a closed group of users and the management is able to enforce company guidelines like the adoption of specific ontologies and use of semantic annotation. Compared to the public Semantic Web there are lesser requirements on scalability and the information circulating within a company can be more trusted in general; privacy is less of an issue outside of handling of customer data.

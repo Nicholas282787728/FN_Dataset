@@ -1,0 +1,1 @@
+In Google recruitment, if a person is familiar with Java, is it sufficient that he must know to solve the problem with it or he must know the working of the internal data structures like how Collision is resolved in a Hash Map, what Sorting algorithm is used in the Arrays.sort() method?

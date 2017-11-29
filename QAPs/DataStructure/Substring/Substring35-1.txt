@@ -1,0 +1,2 @@
+How can I verify the substring of a single integer without using arrays?
+you can use string library function strstr. sharing code here. #include<stdio.h>#include<string.h>int main(){//char *p1="1010110010",*p2="10110";char *p1="1110111011",*p2="10011";if(strstr(p1,p2))printf("1");else printf("0");return 0;} You can edit this code online on codepad on this link C code by roshankedar. 

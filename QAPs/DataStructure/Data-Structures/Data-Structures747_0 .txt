@@ -1,0 +1,1 @@
+Assuming the data in a max-heap are distinct, what are the possible locations of the second-largest element in heap?As all the elements in the heap are distinct, the second largest element can be the one of the children of root node. But remember that this is not true when the elements are not distinct. 58 Views

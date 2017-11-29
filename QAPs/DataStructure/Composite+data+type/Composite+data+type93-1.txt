@@ -1,0 +1,2 @@
+What are the best practices for implementing pagination on a website with a large amount of data?In my case: I have to group and sort about 1.5 million items for pagination (average number for each category) - MSSQL server makes this but slowly.
+With the limited details and scope of this question, I can only give a limited-scope answer: Keep the data sorted in the database (i.e. BTREE index on the sort column), and add a caching layer on top (i.e. Memcached). 

@@ -1,0 +1,2 @@
+★What are the disadvantage of genetic algorithm?
+GAs are, as mentioned by others here, notorious for long training times. However, since some of the solutions can be extremely complicated, another drawback exists: it can be too slow for real-time games. One of the elements of Tetris is physical dexterity. The play must be almost reflexive. I liken it to trying to improve one's tennis game with a GA.    Embed Quote

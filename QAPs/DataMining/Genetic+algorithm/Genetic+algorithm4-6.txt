@@ -1,0 +1,2 @@
+★What are some practical applications of genetic algorithms?
+Genetic Algorithm is one of the excellent heuristic technique available to solve large scale combinatorial problems.Since it is based on the 'survival of the fittest' concept found in evolution,it is the method of choice to solve maximisation problems. Some of the applications of GA are: 1.TSP(Travelling salesman Problem). 2.Knapsack problem. 3.Vehicle Location-Allocation problems. 4.Chip Design. 5.Financial Trading.    Embed Quote

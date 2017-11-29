@@ -1,0 +1,2 @@
+★How do DNS clients decide which DNS host to query?
+The question is malformed. Name servers don't respond to DNS requests per se. Name servers provide information about where DNS entries exist. Which Name Server is queried first is contingent upon which NS is designated as authoratative for the domain.

@@ -1,0 +1,1 @@
+How do I find the paths that cover all given vertexes (the start and end vertex are known too) in a graph which edges have weight and direction?

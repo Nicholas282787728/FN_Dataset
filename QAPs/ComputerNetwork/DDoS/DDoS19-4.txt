@@ -1,0 +1,2 @@
+★How do I protect a VPS from DDoS attacks?
+null routed. 2.2 million packets per second, 8G+ attack on my server.Please tell me solution what should i do now?

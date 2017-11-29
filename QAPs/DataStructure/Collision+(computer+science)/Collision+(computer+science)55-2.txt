@@ -1,0 +1,2 @@
+What are the goals of the Large Hadron Collider project?
+There are six major experiments happening at the LHC: http://public.web.cern.ch/public.... ALICE ATLAS CMS LHCb TOTEM LHCf You can read about each individual experiment at that link. 

@@ -1,0 +1,1 @@
+Given an array with n elements, how to find the number of elements greater than or equal to a given value (x) in the given range index i to index j in O(log n) complexity?Note that there may a several such queries and X will keep on changing so segment and Fenwick trees can not be used.

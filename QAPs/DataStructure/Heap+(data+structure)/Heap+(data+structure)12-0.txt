@@ -1,0 +1,2 @@
+Are there any similarities between heap memory and the heap data structure?
+No. It's very confusing. 419 Views · Answer requested by David Carlson

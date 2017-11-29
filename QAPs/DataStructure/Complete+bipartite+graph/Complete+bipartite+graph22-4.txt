@@ -1,0 +1,1 @@
+Why is the stack of RBM's after learning not a deep Boltzmann machine (DBM)?If a bunch of stacked RBMs aren't a DBM, then what is? See Page on toronto.edu section 3.1. Hinton at el. are pretty explicit that a stack of RBM's are not a DBM.

@@ -1,0 +1,2 @@
+★What are the benefits of using estimators derived from L1 (as opposed to least squares) error minimization?
+L1 is suitable when the error is exponentially distributed. L2 or least squares is good when the error is distributed normally. Usually L1-based estimators are robust to outliers, while L2 are very sensitive to them. In this blog post (http://blog.gregorybegelman.com/... ) I presented an intuitive derivation for the L1 and L2-based objective functions.    Embed Quote

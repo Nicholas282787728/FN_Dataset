@@ -1,0 +1,1 @@
+How array of pointers internally consider as two dimensional array?You can't say that an array of pointers is always stored as a 2-D array. Until each pointer points to an individual array it will remain a 1-D array. 

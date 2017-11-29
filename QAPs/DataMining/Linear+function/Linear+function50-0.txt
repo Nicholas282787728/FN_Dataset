@@ -1,0 +1,2 @@
+★Why is logistic regression considered a linear model?
+When we say that a model is linear, we mean that its predictions are a linear function of its parameters.  Logistic regression definitely qualifies on that definition.    Embed Quote

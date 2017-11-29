@@ -1,0 +1,2 @@
+Can the % operater be used on all data types in C?
+NO it cannot be used because the concept of finding the remainder is applicable for only ‘integer division’ eg:2%2=0; however for float or double data type you can use a predefined function called ‘fmod’ in which you pass the floating point numbers as parameters this is the basic syntax for it: double fmod(double x, double y) you need to include this preprocessor directive: #include <math.h> ... (more)

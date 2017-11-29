@@ -1,0 +1,2 @@
+How is the map data structure different from an associative array?
+If you're talking about Java ADT (a.k.a. Map), it is little different than JavaScript and other languages called associative arrays.   The primary difference is that the key needn't be a string. Unlike with most associative arrays, the key can be any object for which a hash code can be generated. All objects in Java do this, but you can't use a primitive as a key ... Autoboxing often hides this. 

@@ -1,0 +1,2 @@
+What are user-defined data types?
+C supports the features “typedef” that allows user to define the identifier which would represent an existing data type. This define data type can change to be user defined data type. 242 Views

@@ -1,0 +1,2 @@
+★What is important to consider when designing an intranet for a large company?I am helping my company audit our internal web site so we can have a more efficient system. I would like to know what other companies are doing that works.
+Different scale need different solution.  First,you should make clear your business requirements, and make them mapping to network performance,availability,and scalability.   Second,you should make sure the policies and guidelines.   Third,you refrence the technologies,solutions,vendors according your buget.

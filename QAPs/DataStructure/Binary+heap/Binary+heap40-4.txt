@@ -1,0 +1,1 @@
+Why mysql uses B/B+ trees and not Fibonacci heap structure?Hi all, i agree with B+ tree reduces IO time. My question is, there are better structures like Fibonacci heap. which will reduce a lot of time for insertion, deletion, union etc. Can some one explain why B/B+ tree was a choice for mysql creators.

@@ -1,0 +1,2 @@
+★Does Parse work well with Unity3D?We are building a multiplayer social game in Unity3D, and we're trying to decide what to use for a backend. We see that Parse has an SDK for iOS and Android, but I don't see one for Unity.
+Hello,Parse is provide service in unity 3d .You can download Package form asset store: Asset Store I used Parse in my game it is  working good..    Embed Quote

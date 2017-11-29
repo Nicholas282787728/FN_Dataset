@@ -1,0 +1,2 @@
+★When did industry start talking about IPv4 address exhaustion?IPv4 address exhaustion has been talked about in industry circles since the late 1980s, but when did conversation reach critical mass?
+Here is an article that discusses that very thing: http://www.privateproxysoftware.... In 1995, IP v6 was said to be the replacement for IP v4.  There is also other information in the article that could help you out.

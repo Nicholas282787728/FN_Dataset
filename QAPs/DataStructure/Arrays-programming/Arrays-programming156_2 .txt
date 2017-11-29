@@ -1,0 +1,1 @@
+How do I find second smalles number out of 3 input without using array? int a, b, c;  a = 4;  b = 2;  c = 3;  int secondNumber = (a > b) ? ((a>c)?((b>c)?b:c):((a>b)?a:c)):((b>c)?((a>c)?a:c):((a>b)?a:b)); 31 Views

@@ -1,0 +1,9 @@
+The implementation in MATLAB allows the same economy allowed by using the Ada language.
+A = A + B;
+A variant of the MATLAB language is the GNU Octave language, which extends the original language with augmented assignments:
+A += B;
+Both MATLAB and GNU Octave natively support linear algebra operations such as matrix multiplication, matrix inversion, and the numerical solution of system of linear equations, even using the Moore–Penrose pseudoinverse.[8][9]
+The Nial example of the inner product of two arrays can be implemented using the native matrix multiplication operator. If a is a row vector of size [1 n] and b is a corresponding column vector of size [n 1].
+a * b;
+The inner product between two matrices having the same number of elements can be implemented with the auxiliary operator (:), which reshapes a given matrix into a column vector, and the transpose operator ':
+A(:)' * B(:);

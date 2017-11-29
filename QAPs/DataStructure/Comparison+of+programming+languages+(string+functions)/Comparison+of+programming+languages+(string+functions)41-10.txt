@@ -1,0 +1,2 @@
+Why was Lisp the language of choice for AI research?
+I don't know why it isn't still, technically speaking -- politically and socially is another issue.  I think the things that make Lisp useful in general make it good for AI -- symbols, macros, closures, programs as data and data as programs (which is greatly helped by the syntax), lambdas, manifest rather than static typing, eval, a compiler available at runtime, an extensible/redefinable object system... all things that make it easier to write code that adapts. 

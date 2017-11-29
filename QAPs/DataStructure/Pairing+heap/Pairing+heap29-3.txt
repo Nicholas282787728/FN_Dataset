@@ -1,0 +1,2 @@
+What are Master and Slave databases and how does pairing them make web apps faster?
+It doesn't just speed up things (by distributing reads among slaves), but it will also make it safer. In case of a problem with the master, you can swap any slave into a new master. The only hiccup with this setting, as Toby said, is consistency of data during the replication process. 

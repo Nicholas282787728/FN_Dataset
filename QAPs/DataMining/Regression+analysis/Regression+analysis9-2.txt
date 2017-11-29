@@ -1,0 +1,2 @@
+★What are some good software packages for nonlinear regression analysis?
+For bioassay or immunoassay analyses such as ELISA or competitive binding analysis data: MasterPlex ReaderFit http://www.miraibio.com/masterpl...    Embed Quote

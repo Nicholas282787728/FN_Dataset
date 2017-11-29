@@ -1,0 +1,2 @@
+★What's is the difference between port number and Mac address?
+WTF ? Its Layer-2 versus Layer-5. Mac IDs are part of Ethernet Frames at Layer-2, i.e. Data-Link Layer in the OSI Model. Where as Port Numbers are used at Layer-5 Session Layer.    Embed Quote

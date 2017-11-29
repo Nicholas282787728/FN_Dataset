@@ -1,0 +1,2 @@
+What are line graphs useful for?
+Line Graphs are used extensively to show case changing trend of a certain variable over time or moving X-axis. Its recommended to avoid using Line Graphs when a variable is dependent on qualitative variable(X-axis). Multiple line graphs can be used for analyse trends but makes it visually complex a bit. Time Intervals on X-axis must be consistent else trend shown can be mis-leading. 106 Views

@@ -1,0 +1,2 @@
+What are the uses of C/C++, and what are the incentives of learning it?
+C and C++ allow writing programs which run "near the hardware", exploring possibilities of the CPU. Primitive data types and pointers are native in C and C++ thus code execution is rather fast. It is possible to fine tune and optimize the code and memory usage. 

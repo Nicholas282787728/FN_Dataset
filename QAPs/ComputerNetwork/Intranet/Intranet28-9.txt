@@ -1,0 +1,2 @@
+★How can enterprises create an activity stream (like Facebook and Twitter) in their SharePoint intranet?
+Newsgator is hard to beat if you need to bring in Facebook and Twitter type of features to your SharePoint environment. It sits on top of the My Sites features of SharePoint.

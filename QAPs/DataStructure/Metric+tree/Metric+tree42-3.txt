@@ -1,0 +1,2 @@
+What are the best talks/lectures related to big data/algorithms/machine learning?
+I can suggest to have a look at pretty much any talk of my colleague Ted Dunning, for example: 

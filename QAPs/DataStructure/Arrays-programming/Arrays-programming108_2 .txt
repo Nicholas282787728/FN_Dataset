@@ -1,0 +1,1 @@
+How do I create 2D array in C++ which has variable size (VLA) in VS2010?I would suggest you use std::vector or std::list. 44 Views  View Upvotes

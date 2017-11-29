@@ -1,0 +1,2 @@
+What is the most difficult question you ever faced in C programming language?
+"Why have I spent so many years and dismissed so many nights' sleep grokking these standards?" 

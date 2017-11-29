@@ -1,0 +1,2 @@
+★Are there good IPython notebooks on time series analysis?Preferably with applications in meteorology and climate
+Check these out : Page on ipython.org http://goo.gl/OSxhnL Page on ipython.org    Embed Quote

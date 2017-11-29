@@ -1,0 +1,2 @@
+★What are the best ways to visualise Generalised Linear Models (GLM)?I often try and visualise models so a lay audience (such as policymakers) can easily understand and interpret results. How do others approach this?
+That covers a lot of ground, but at least for vanilla logistic regression, it is sort of cool to consider a mesh of values in each of your predictors (for continuous predictors) and then plot prediction surfaces using the fit model. If you have categorical predictors as well you can do some color coding or 'group by' kinds of things.    Embed Quote

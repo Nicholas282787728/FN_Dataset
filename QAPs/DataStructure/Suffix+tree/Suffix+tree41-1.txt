@@ -1,0 +1,2 @@
+What's an intuitive explanation on how suffix arrays work?
+The suffix array is the result of the depth-first, left to right traversal of the suffix tree. It therefore contains more or less the same information as the suffix tree (at least when augmented by the longest common prefix array) but in a more compact form. 

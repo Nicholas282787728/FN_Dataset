@@ -1,0 +1,2 @@
+★Is there a correct way to put an IPv6 address in a URL?Is it possible to put a numeric/hex IPv6 address in an HTTP URL?  Please provide examples that work in major browsers (Chrome, Firefox, Safari, etc.)
+Yes, you can get to Google via: http:/[2607:f8b0:4005:802::1007]/ (Note: Quora doesn't think these are clickable, so you'll have to cut & paste that). You can run "dig AAAA <some domain name>" via your favorite terminal to see if any site has an IPv6 address.    Embed Quote

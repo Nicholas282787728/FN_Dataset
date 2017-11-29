@@ -1,0 +1,2 @@
+★What is the best way of implementing an ETL tool using Hadoop using opensource software?What is the best stack to implement an ETL tool for reporting data to a web interface?
+Here is a tech talk by one of the top engineers at Cloudera about ETL and Hadoop: Large Scale ETL with Hadoop by Cloudera Here is the video from that talk:    Embed Quote

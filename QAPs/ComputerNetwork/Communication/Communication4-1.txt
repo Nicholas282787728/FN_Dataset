@@ -1,0 +1,3 @@
+How do two computers with the same IP from different networks communicate with each other? How does the routing work?Assuming they are using public IP addresses and no IP translation, it doesn't.
+
+More likely, however, is that you are taking about private IP addresses (e.g. 10.x.x.x, 192.168.x.x). In that case, your router, proxy server or firewall swaps out the IP address in your transmissions when they go out to the Internet. That device keeps track and is able to put back the private IP space in reply transmissions.

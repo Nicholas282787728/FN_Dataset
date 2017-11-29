@@ -1,0 +1,2 @@
+★How can I see which Windows 7 processes are using IPV4 loopback?When my machine boots, I see about 200 connections to IPV4 loopback being set up. The resource monitor (Windows 7 Pro) does not list the owning process in the detailed networking info. How can I work out what processes are causing this traffic?
+Download the free 'sysinternals' suite from Microsoft.  There is an excellent network monitoring program which comes with it.  This tool is able to map ports to processes.

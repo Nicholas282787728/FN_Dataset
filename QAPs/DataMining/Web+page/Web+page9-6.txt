@@ -1,0 +1,2 @@
+★How can I quickly design a simple web page?
+Create a new file, named index.html, with the content: <h1>My first webpage!</h1> Open it in your browser. Congratulations! You are now a web developer and have created your  first webpage!    Embed Quote

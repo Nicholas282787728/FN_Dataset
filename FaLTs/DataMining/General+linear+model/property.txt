@@ -1,0 +1,12 @@
+Lafferty, McCallum and Pereira[1] define a CRF on observations and random variables as follows:
+Let be a graph such that , so that is indexed by the vertices of . Then is a conditional random field when the random variables , conditioned on , obey the Markov property with respect to the graph: , where means that and are neighbors in .
+What this means is that a CRF is a undirected graphical model whose nodes can be divided into exactly two disjoint sets and , the observed and output variables, respectively; the conditional distribution is then modeled.
+Such models assist in controlling for unobserved heterogeneity when this heterogeneity is constant over time and correlated with independent variables. This constant can be removed from the data through differencing, for example by taking a first difference which will remove any time invariant components of the model.
+There are two common assumptions made about the individual specific effect, the random effects assumption and the fixed effects assumption. The random effects assumption (made in a random effects model) is that the individual specific effects are uncorrelated with the independent variables. The fixed effect assumption is that the individual specific effect is correlated with the independent variables. If the random effects assumption holds, the random effects model is more efficient than the fixed effects model. However, if this assumption does not hold (i.e., if the Durbin–Watson test fails), the random effects model is not consistent.
+X is a Bayesian network with respect to G if it satisfies the local Markov property: each variable is conditionally independent of its non-descendants given its parent variables:[11]
+
+where de(v) is the set of descendants of v.
+This can also be expressed in terms similar to the first definition, as
+for each which is not a descendent of for each which is a parent of
+Note that the set of parents is a subset of the set of non-descendants because the graph is acyclic.
+The line goes through the "center of mass" point (x, y). The sum of the residuals is equal to zero, if the model includes a constant: The linear combination of the residuals, in which the coefficients are the x-values, is equal to zero:

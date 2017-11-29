@@ -1,0 +1,2 @@
+Linear Algebra: How do I interpret singular value decomposition (SVD) for visualization?
+This lecture from Jeff Leek's Data Analysis course in Coursera describes the process of SVD and visualization of the U and V and X (here d) matrices. The main difference from this question is that the explaining variables (in U and V) are dense, rather than sparse term or document vectors. Still, you will get some intuition from this: 

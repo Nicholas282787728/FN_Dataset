@@ -1,0 +1,1 @@
+How did Quora implement its topic/tagging architecture?Does it scale?

@@ -1,0 +1,2 @@
+Is the universe computable?
+Theoretically, a perfect simulation of the universe would have to include the simulator itself. This would imply two things: 1) The simulation would have to incorporate the part of the simulation modeling the simulation itself, ad infinitum. 2) Since the simulation is dependent on itself, its output would also be dependent on itself. Whether or not these two implications negate the possibility of a computed universe can be debated, but they both raise interesting questions. 

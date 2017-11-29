@@ -1,0 +1,2 @@
+★What is the conditional expectation of the joint normal distribution?and are jointly normal, with zero means, unit variances,  covariance . I know , but why ?
+The best way to see this is through reasoning by representation. If we let X and Z be i.i.d. N(0,1) and Y = aX + bZ where a^2+b^2=1, then (X,Y) is Bivariate Normal with N(0,1) marginals and with Cov(X,Y) = a. Then E(Y|X<c) = E(aX|X<c)+E(bZ|X<c) = aE(X|X<c)+bE(Z)=aE(X|X<c).    Embed Quote

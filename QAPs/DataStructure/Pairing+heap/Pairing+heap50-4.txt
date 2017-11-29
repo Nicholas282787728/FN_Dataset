@@ -1,0 +1,2 @@
+What is the best way to sort an unsorted linked list?
+Well, what do you mean by the "best"? Do you mean the fastest one? Or the most easiest one to code, or the one that uses only O(1) space? If you are after speed, you can use some O(nlogn) sorting algorithms like Merge Sort or randomized Quick Sort. Heap Sort shall take some O(n + nlogn) time. If you want to code it easily, you can put the elements into an array and call qsort() (assuming C or C++) on it, and place the sorted elements back into the linked list. Updated 4w ago • View Upvotes

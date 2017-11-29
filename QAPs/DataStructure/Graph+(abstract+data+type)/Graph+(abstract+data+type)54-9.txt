@@ -1,0 +1,2 @@
+Which is better for quantitative finance, R or Matlab?Which do you prefer for what? Or just general pros and cons.
+I think each has its advantages, R is opensoure and free for secondly development, Matlab has more powerful functions on graphic and quality manageement, while esProc is quite usable for instant analysis and easier to operate due to step by step computing model. 

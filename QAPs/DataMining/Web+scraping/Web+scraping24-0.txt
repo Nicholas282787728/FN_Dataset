@@ -1,0 +1,2 @@
+★What is a good programming language to use for web scraping?
+I like Python, in combination with a scraping framework such as Scrapy or BeautifulSoup. Check it out.    Embed Quote

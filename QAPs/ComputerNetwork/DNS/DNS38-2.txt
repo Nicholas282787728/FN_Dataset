@@ -1,0 +1,2 @@
+★Domain Name System (DNS): What does Xip.io do?How are you supposed to use http://xip.io/? What are some use cases where it would come in handy?
+It is to access Virtual Host

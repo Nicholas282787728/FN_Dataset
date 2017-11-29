@@ -1,0 +1,2 @@
+★Is there any open source project for semantic web?
+It's worth checking out list of available tools at the official page; http://semanticweb.org/wiki/Tools    Embed Quote

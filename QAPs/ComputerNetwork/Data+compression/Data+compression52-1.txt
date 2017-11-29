@@ -1,0 +1,2 @@
+★How do I find somebody in Western Australia to help investigate about a potential algorithm for lossless data compression?
+It's really really hard to do better than existing schemes.  How about you just try implementing your algorithm, put some text or graphics through it, and compare the resulting file size against bzip?    That way you don't have to reveal anything to anyone.   If you can compress text better than bzip  or graphics better than JPEG, the world is your oyster.

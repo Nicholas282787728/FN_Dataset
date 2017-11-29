@@ -1,0 +1,2 @@
+★What are the most interesting open-source projects in artificial intelligence and machine learning?What projects should people be paying attention to and studying?
+I find Lingpipe - LingPipe Home anther interesting project in the Open Source domain, for Computational Linguistics. One important aspect about Lingpipe is that it not only provides neat interfaces to use in JAVA, but it is also very well documented with detailed explanation of their algorithms, something that is usually lacking in the field of Machine Learning libraries.    Embed Quote

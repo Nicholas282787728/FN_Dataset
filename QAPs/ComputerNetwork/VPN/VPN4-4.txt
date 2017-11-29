@@ -1,0 +1,2 @@
+★What are the uses of a VPN?Please list as many uses as you can think of.
+1.The teachers and students in  universities.The libraries and network resources are only open to students and teachers.If they leave the LAN, they can use VPN to access the library. 2.Enterprises such as multinational corporations .These companies have so many employees and offices located in many areas and countries that they need provide VPN to their employees to access company's database. --------- I will edit my answer if I think of other cases.    Embed Quote

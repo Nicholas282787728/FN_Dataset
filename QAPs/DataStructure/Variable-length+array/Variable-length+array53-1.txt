@@ -1,0 +1,2 @@
+Are all programming languages based on C?
+There are a handful of common root ancestors: ALGOL 60, from which almost all procedural languages developed (including C: ALGOL -> CPL -> BCPL -> B -> C) Fortran, from which all FORTRAN developed (sort of meta, eh?) Lisp, from which all functional languages flow Smalltalk, from which all object oriented languages have inheritance (see what I did there?) There are some flyers in there (looking at you, APL)   - but most languages that are mashups of concepts from these four, if not direct descendants. 

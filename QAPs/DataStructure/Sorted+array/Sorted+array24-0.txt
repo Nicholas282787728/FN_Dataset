@@ -1,0 +1,2 @@
+What is the fastest algorithm for computing the kth smallest element in the union of two sorted lists of size m and n?
+Clearly, only the first k elements of each list (M and N) are relevant, so the remaining elements can be ignored. From this point, the problem can be solved with a modified form of binary search, with a big-O of log(k).  For each element a=M[i]  a=M[i] , 0≤i<k  0≤i<k we look up of list M, we look up N[j]  N[j] , j=k−a−1  j=k−a−1 .  Here is a python implementation: def ksmallest(M,N,k): min_poss = max(0,k-len(N)-1) max_poss = min(k-1,len(M)-1) r = 0... (more)

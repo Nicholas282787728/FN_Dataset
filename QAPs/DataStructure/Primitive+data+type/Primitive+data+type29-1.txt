@@ -1,0 +1,2 @@
+What is the difference (if there even is one) between a flag and a boolean?
+Flags may also be (and commonly are) any other integer or scalar type, progressively incremented during processing. 

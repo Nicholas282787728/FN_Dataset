@@ -1,0 +1,1 @@
+What are some applications of the bubble sort algorithm?Briefly 3 applications, if there are any, unique to Bubble sort.1: Teaching that not all sorting algorithms are good. 2: Give an easy introduction to sorting algorithms. 3: Art: 

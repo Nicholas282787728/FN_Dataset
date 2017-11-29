@@ -1,0 +1,2 @@
+What books are a good introduction to game theory?
+Check out 'Theory of Games & Statistical Decisions' by Blackwell. Am reading it right now - it's a concise, elegant read. 

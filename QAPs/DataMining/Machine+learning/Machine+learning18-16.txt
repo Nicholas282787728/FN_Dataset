@@ -1,0 +1,2 @@
+★What are the most interesting open-source projects in artificial intelligence and machine learning?What projects should people be paying attention to and studying?
+Pylearn2 library maintained by Ian Goodfellow https://github.com/lisa-lab/pyle...    Embed Quote

@@ -1,0 +1,2 @@
+★How beneficial is Mobile VoIP over traditional phone calls?
+Most VOIP technologies, when used over 3G data, use 2-3 times more radio network capacity than a circuit-switched voice call. So, the main benefit is to allow the user to arbitrage different pricing schemes - until the operator changes the pricing structure to remove this opportunity. On LTE all voice calls are VOIP, so the situation changes somewhat, but ubiquitous LTE is some way off.

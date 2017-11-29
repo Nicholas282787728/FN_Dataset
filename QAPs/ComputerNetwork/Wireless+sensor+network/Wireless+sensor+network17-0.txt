@@ -1,0 +1,2 @@
+★What are some ideas to do a project on wireless sensor networks?
+* protocols for image transmission in wireless multimedia sensor * protocol for emergency response wireless sensor networks * clustering and routing algorithms for wireless sensor networks    Embed Quote

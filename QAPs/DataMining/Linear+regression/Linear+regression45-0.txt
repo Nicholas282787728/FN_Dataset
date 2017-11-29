@@ -1,0 +1,2 @@
+★Which generalized linear regression model should one run for count data with a heavy tail?
+Negative binomial regression is the place to start. I wrote a very non-technical introduction: Statistics 101: Regression with Count Data; Poisson Regression and Negative Binomial Regression . You can do this in R, SAS and probably other packages: Which are you using? Dichotimizing and running logistic is not recommended.    Embed Quote

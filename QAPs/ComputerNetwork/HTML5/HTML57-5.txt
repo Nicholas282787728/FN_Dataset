@@ -1,0 +1,2 @@
+★What is so special about HTML5?What is so different about HTML5? How is it more capable than the previous versions and is there any capability of semantic web that can be potentially realized from HTML5?
+HTML5 has given a new way to the website developers. Now it is accessible in major web browsers. Still sitting on its throne. You will get to know some of the interesting things of HTML5 from this post. 15 HTML5 Frameworks for Web Developers

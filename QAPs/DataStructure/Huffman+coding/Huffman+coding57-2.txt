@@ -1,0 +1,2 @@
+What are some examples of problems for which a priority queue proves useful?
+A* Pathfinding: http://www.policyalmanac.org/gam... 2.2k Views · 3 Upvotes · Not for Reproduction

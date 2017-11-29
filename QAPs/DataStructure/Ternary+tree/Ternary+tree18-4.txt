@@ -1,0 +1,2 @@
+I am a college student and I am studying computer science. I want to become a good programmer (software). What should I learn?
+You might also want to spend some time learning about tooling and run-time environments. 

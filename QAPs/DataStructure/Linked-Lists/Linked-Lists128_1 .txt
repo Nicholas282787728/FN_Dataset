@@ -1,0 +1,1 @@
+Is a linked list a kind of tree?Perfectly Unbalanced trees are similar to Linked List. look at following figure: Even though its a tree (Perfectly Unbalanced) but it behaves like a linked list. 73 Views  View Upvotes

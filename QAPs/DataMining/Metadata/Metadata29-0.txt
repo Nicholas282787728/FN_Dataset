@@ -1,0 +1,2 @@
+★Which is the best Python library to manipulate PDF metadata or watermark a PDF?
+PyPdf http://pybrary.net/pyPdf/    Embed Quote

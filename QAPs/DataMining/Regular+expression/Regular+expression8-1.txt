@@ -1,0 +1,2 @@
+★Is this a valid Regular Expression for an email address?^[a-zA-Z0-9_?]+((@{1}[a-zA-z]+).(org|net|com|gov|us|edu))\Z
+See http://stackoverflow.com/questio... - essentially, there is no regular expression that is "valid" for email. Instead use a parser that follows the RFC.    Embed Quote

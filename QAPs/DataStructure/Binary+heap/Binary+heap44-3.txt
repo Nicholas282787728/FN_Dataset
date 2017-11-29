@@ -1,0 +1,2 @@
+How much work did it take to get on the US IOI team?Specifically, how many hours per week, how many problems on which online judges, and how many practice contests.
+Same exact situation as Johnny Ho -- I qualified for camp after about a year of work, and did USACO training (and a bit of Codeforces) for about 20-25 hours a week for the year after that. 

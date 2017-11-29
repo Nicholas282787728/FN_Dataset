@@ -1,0 +1,2 @@
+★What is the best way to secure Wireless (Wi-Fi) Home Network?
+Enable Mac-address filtering. Period.

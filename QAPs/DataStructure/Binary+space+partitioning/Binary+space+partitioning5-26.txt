@@ -1,0 +1,2 @@
+What are some of the most ingenious algorithms in computer science?added bonus if the algorithm runs in constant time
+Certainly Floyd's cycle-finding algorithm, also called the "tortoise and the hare" algorithm is an interesting algorithm mainly due to its simplicity . Wiki link : Cycle detection For further explanation : How does Floyd's cycle-finding algorithm work? 

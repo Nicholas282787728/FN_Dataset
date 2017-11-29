@@ -1,0 +1,2 @@
+How can I make a curve like this one (see the image attached)?
+On Mac Grapher, use the equation y=1/x. Adjust the appearance of the graph to suit your needs. If the resulting graph is not close enough to the graph on the image, use y=1/x^2 or any of the higher powers. 

@@ -1,0 +1,2 @@
+What is the best strategy to improve my skills in competitive programming in 2-3 months?My knowledge is structure programming  in C++ I solved around 50 problems all of them are basic problems Samuel.Soliman - A2 Online Judge
+Originally Answered: How can I be great at competitive programming?Solve problems ! Thats it, start with relatively simpler ones and then gradually move towards the difficult ones. I would highly recommend starting off with Project Euler 

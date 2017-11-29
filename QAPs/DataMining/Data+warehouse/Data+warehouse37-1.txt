@@ -1,0 +1,2 @@
+★What are good sources to learn Data-warehouse design?
+Search Google for what Star Schema and Snow flake are - read about them as much as you can...and that will give you a head start.    Embed Quote

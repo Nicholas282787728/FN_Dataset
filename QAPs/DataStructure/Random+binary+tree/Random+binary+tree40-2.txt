@@ -1,0 +1,2 @@
+How do I create my own hashing function for use in a look-up table?
+An interesting question. A decent hashing function should have two attributes. It should be simple, and execute quickly It should minimize "collisions," i.e. two members of the table having the same hash code. Among the easiest hashing functions to implement is to just generate a Checksum for each member of the table and use that as its hash code. 

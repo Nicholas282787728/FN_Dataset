@@ -1,0 +1,2 @@
+What are the concise meaning and interpretation of bias and variance in machine learning and statistics?
+There is a good explanation here , Understanding the Bias-Variance Tradeoff 678 Views · 3 Upvotes

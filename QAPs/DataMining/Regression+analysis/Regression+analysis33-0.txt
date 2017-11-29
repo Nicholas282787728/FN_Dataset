@@ -1,0 +1,2 @@
+★Doesn't a moderating term in regression analysis violate the assumption that all terms in the linear model are univariate, normal distributions?A general moderating linear model looks like this:  ~ Assuming  and  are normal random predictors, the moderating term can not be considered normal in general. Doesn't this violate the assumptions of least squares regression?
+No. Standard linear regression assumes that the errors are normally distributed, not the covariates.    Embed Quote

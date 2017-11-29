@@ -1,0 +1,2 @@
+★For the Hilbert space of L2 functions over [0,1], while evaluation at a point is a linear functional, is it continuous?
+This map is not well-defined, as the elements of L^2[0,1] are equivalence classes of square-integrable functions which agree almost everywhere (with respect to the standard Lebesgue measure on [0,1]).    Embed Quote

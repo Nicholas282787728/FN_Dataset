@@ -1,0 +1,2 @@
+★Does it make sense to perform Principal Components Analysis (PCA) before clustering, if the original data has too many dimensions?Is it theoretically unsound to try to cluster data with no correlation?
+Performing PCA before clustering is done for efficiency purposes as algorithms that perform clustering are more efficient for lower dimensional data. This step is optional but recommended.    Embed Quote

@@ -1,0 +1,2 @@
+Why do hash tables need to store the key of a record?
+The classic hash table may have a single hash value for more than one key. In this case, you (may, not must - there are other solutions) want to check which key matches which key from of the group of elements that correspond with a single hash value. 435 Views · 1 Upvote

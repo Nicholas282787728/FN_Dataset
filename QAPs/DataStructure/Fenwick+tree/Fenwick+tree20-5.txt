@@ -1,0 +1,1 @@
+What are the real time applications of Binary Indexed tree(BIT)?I learnt Binary Indexed Tree aka Fenwick Tree. I wonder how Fenwick came up with this beautiful idea of using bits to store cumulative sum. I would like to know if Binary Indexed Tree has any practical applications or anyone using it for a real time application ?

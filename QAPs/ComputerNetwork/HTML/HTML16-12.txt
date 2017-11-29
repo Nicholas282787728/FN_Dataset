@@ -1,0 +1,2 @@
+★Difference Between HTML and CSS?
+HTML or Hypertext Markup Language is basically for responsible for the construction (use to create web pages). CSS or Cascading Style Sheets is particularly for designing, creating, aligning elements in HTML.

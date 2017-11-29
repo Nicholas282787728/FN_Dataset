@@ -1,0 +1,2 @@
+★What are some open-source implementations of vector space models?
+Gensim – Python Framework for Vector Space Modelling: http://nlp.fi.muni.cz/projekty/g...    Embed Quote

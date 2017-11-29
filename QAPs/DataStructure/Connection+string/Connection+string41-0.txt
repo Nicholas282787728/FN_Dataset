@@ -1,0 +1,2 @@
+How can I make a SQL database and a web front end?
+You have to make the tables in sql with their fields. Then make a small web application that connects to your datasource- the sql database, through a connection string. The application should contain a form with the fields that you need in order to read and save objects from/into your newly created sql tables. Syntax for the web app depends on which programming language you wish to use. 

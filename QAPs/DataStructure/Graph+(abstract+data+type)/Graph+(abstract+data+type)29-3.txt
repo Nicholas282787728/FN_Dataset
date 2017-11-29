@@ -1,0 +1,2 @@
+Where can I find the best description of the IoT architecture and development flow?(HW, Cloud and apps)
+IoT is the plural for Internet of Things. There is more then one HW, cloud and the apps are often on already two OS (Android + iOS). An application for a fridge, car or dog collar will be quite different. I can help with my IoT M2M Cookbook with 85 pages DIN A4 and focus on WWAN: http://www.gsm-modem.de/M2M/m2m_... My next book will be related to "Wearables and Sensor Networks". There is no source that can cover all and there is no cloud that can cover everthing. 

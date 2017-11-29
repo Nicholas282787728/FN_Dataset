@@ -1,0 +1,2 @@
+★How do I convert non-stationary time series into stationary time series in R?
+Allow me to add to what Gareth said that applying the diff() function does -usually - make the data more stationary, but that comes at the price of increase in the noise level.  Using regression residuals is usually the preferred way of stationarization, unless your variance is multiplicative.    Embed Quote

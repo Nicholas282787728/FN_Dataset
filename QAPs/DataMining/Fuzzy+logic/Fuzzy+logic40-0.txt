@@ -1,0 +1,2 @@
+★What are the differences between fuzzy logic and neural network?
+Conventional logic system can be used to obtain either 1(true) or 2(false). But fuzzy logic can be used obtain even intermediate probabilities. But neural networks can just carry signals (motor neurons) or sense the stimuli (sensory neurons ) and synapses are formed for the purpose of memory storage. Fashion of working can't be said to be similar.    Embed Quote

@@ -1,0 +1,1 @@
+If the intersection of two regular languages is an empty set, can we make their transition graph?

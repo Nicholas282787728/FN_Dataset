@@ -1,0 +1,2 @@
+★What's the difference between master data and metadata?
+Metadata is information about information such as data types and lengths.  Master data is information about a critical business domain such as customer or product.    Embed Quote

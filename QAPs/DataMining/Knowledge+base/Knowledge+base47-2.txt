@@ -1,0 +1,2 @@
+★What is the best 3rd party FAQ/ Knowledge Base platform out there?
+Depends on the nature of your knowledge. For troubleshooting type articles - and some how-to help tends to get quite complex and detailed. Customers may be intimidated by such. For these you can consider decision tree driven interactive self service solutions such as Yonyx. You can find them at Page on Yonyx    Embed Quote

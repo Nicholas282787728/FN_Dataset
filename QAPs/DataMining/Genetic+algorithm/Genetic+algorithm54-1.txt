@@ -1,0 +1,2 @@
+★How can I train moving agents through genetic algorithms?
+A genetic algorithm is really a type of search. You randomly create a set of variants, and test each one. Then select based on performance and search again. It works, but there are other, more efficient, ways of searching.    Embed Quote

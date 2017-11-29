@@ -1,0 +1,2 @@
+What types of data sets are appropriate for Naive Bayes?
+A classic example would be a "bag of words" representation of text.  Not necessarily the best current approach, but one that has seen a lot of use.    Embed Quote 

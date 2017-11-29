@@ -1,0 +1,2 @@
+★What are the most popular algorithms in Information Retrieval at this time?
+Topic categorization Unsupervised algorithm:- TFIDF Latent Dirichlet Allocation Latent semantic indexing/Latent semantic analysisTopic Categorization Supervised algorithm KEA(http://www.nzdl.org/Kea/)Content Clustering K-Means Clustering Canopy Clustering Fuzzy K-Means Mean Shift Clustering Spectral Clustering DBSCANSentiment Analysis Association Rule mining    Embed Quote

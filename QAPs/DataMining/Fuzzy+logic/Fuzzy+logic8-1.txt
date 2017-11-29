@@ -1,0 +1,2 @@
+★What are some practical applications of fuzzy logic?Are there any other commercial applications beyond machine controllers?
+Some good applications are listed here: Fuzzy Logic I suspect, though, that in many cases one may wanna use statistical machine learning methods instead of the fuzzy logic. I found some other people with the same opinion: Fuzzy Logic vs Machine Learning An Investigation    Embed Quote

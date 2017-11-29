@@ -1,0 +1,1 @@
+How can we process ordinal feature in sklean decision tree classifier?I would think you need treat as a categorical variable. I do not think any impurity measure treats ordinal variables differently from regular nominal (categorical) variable 46 Views  Answer requested by Boby Aloysius Johnson

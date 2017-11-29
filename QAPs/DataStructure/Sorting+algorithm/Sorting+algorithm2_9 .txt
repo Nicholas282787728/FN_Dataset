@@ -1,0 +1,1 @@
+In programming contests, which sorting algorithm is best?As there are many sorting algorithms, how can I determine which sorting algorithm is best? When I should use a certain sorting algorithm? I am using C++.When using C++ I don't implement sorting algorithm unless I need to do some customization into it.. Always go for the std::sort function. 

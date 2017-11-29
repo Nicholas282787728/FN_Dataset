@@ -1,0 +1,2 @@
+What are some common beginner mistakes in Java programming?
+I've seen more than once programmers get stumped by a null reference exception resulting from a method call, e.g. myObject.myMethod(), not realizing that myObject is null. 

@@ -1,0 +1,2 @@
+★What are some good research papers on web scraping?Please provide links.
+There are several research papers on web scraping. For data scraping Easy Data Feed - Web Data Extraction Scraping Software is the best scraping tool to extract data. This tool is free, Open-Source, easy to use, always kept updated, anyone can download it and use it at no cost. You can read about how to use it here: http://www.easydatafeed.com/open... They also have developers you can hire to do the job for you; their Skype is “easydatafeed”.    Embed Quote

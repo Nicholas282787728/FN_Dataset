@@ -1,0 +1,26 @@
+★How can I create the least squares regression (Minimum mean square error) line in R?
+Yes, and it is quite simple. Let us generate some data for our use: 1
+2
+ > x<-1:20 > y<-10*x+rnorm(10,mean<-10,sd<-10) We add some random noise to simulate variation from perfect linearity. Plot it to take a look. 1
+2
+3
+4
+5
+ > jpeg('data.jpg') > plot(x,y) > dev.off() null device           1 Very close to linear 1
+2
+ > cor(x,y) [1] 0.9920282 Find the linear least squares fit using lm: 1
+2
+3
+4
+5
+6
+7
+8
+9
+ > fit=lm (y ~ x) > fit Call: lm(formula = y ~ x) Coefficients: (Intercept)            x       11.623        9.844 Let us plot the data with the regression line. 1
+2
+3
+4
+5
+6
+ > jpeg('with-line.jpg') > plot (x, y) > abline (fit) > dev.off() null device           1 Quite simple. Tip: Use RSeek.org R-project Search Engine . It is a very useful resource to learn how to use R for specific tasks. Thanks for the A2A!    Embed Quote

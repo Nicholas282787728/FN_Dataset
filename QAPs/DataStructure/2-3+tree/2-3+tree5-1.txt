@@ -1,0 +1,1 @@
+Which is the best algorithm to merge two 2-3 tree or red black trees? Is it possible to do this in O(mlog(n/m)) where m and n are the sizes of two trees? Frequently asked in

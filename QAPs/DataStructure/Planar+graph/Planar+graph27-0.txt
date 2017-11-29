@@ -1,0 +1,2 @@
+What is your favorite mathematical identity?
+Euler's identity :     where e  is Euler's number , the base of natural logarithms , i is the imaginary unit, which satisfies i^2 = -1 , and π (pi) ,  the ratio of the circumference of a circle to its diameter . 

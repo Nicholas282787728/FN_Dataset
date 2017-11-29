@@ -1,0 +1,2 @@
+★Is it possible for encrypted material to appear as if it were plain text?That is to a large extent it would not be considered to be encrypted by a casual, or non casual viewer
+Ya one example is steganography wherein the message in text form is hidden inside an image    Embed Quote

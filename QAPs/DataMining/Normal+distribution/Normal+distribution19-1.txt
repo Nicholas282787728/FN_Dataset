@@ -1,0 +1,2 @@
+★Is a contaminated normal distribution distributed normally? Why or why not?Where the contaminated normal distribution is defined as: where is the standard normal density, and .
+No.  The contaminated normal distribution is a simple example of what's known as a Gaussian mixture model.    Embed Quote

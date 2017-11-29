@@ -1,0 +1,2 @@
+★What internal routing protocol do ISPs use?
+I have seen ISPs use both IS-IS and OSPF. Both are similar and there isnt anything in one protocol thats not there in the other. There is a perception that IS-IS scales better than OSPF, but thats not true as is discussed here: Why providers still prefer IS-IS over OSPF when designing large flat topologies! I guess, providers choose the protocol that they are culturally familiar and comfortable with, rather than pure technical reasons.    Embed Quote

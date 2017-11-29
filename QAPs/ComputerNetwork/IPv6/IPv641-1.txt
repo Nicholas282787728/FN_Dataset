@@ -1,0 +1,2 @@
+★Is there a correct way to put an IPv6 address in a URL?Is it possible to put a numeric/hex IPv6 address in an HTTP URL?  Please provide examples that work in major browsers (Chrome, Firefox, Safari, etc.)
+Yes, http:/[abcd:12345::1]/etc See http://www.ietf.org/rfc/rfc2732.txt    Embed Quote

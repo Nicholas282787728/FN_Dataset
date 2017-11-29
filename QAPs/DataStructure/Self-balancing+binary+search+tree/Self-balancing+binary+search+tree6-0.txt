@@ -1,0 +1,2 @@
+How is the key mapped to the value in STL 'map' of C++?
+std::map is a self-balancing binary search tree ordered using a comparator, whose type is given as the third template parameter to std::map. If you don't give this template parameter, it defaults to std::less<KeyType>. std::less is basically a function object wrapper around the "<" operator. The < operator is defined for types like int, as well as for std::pair (which compares lexicographically). 

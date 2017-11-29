@@ -1,0 +1,2 @@
+What is the fastest way to find the median of an unsorted array of n integers?
+Yes, Quickselect.  The C++ std::nth_element() library function implements this. (edit: oops, STL implementations can be expected to be the hybrid Introselect algorithm mentioned by Michal, rather than straight Quickselect.) 

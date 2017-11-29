@@ -1,0 +1,2 @@
+★Can function be used as a parameter of another function?
+In c++ you can achieve this with: template<typename T> void fun(std::function<T> param);    Embed Quote

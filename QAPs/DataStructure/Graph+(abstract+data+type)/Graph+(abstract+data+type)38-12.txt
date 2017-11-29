@@ -1,0 +1,2 @@
+What is the most recommended coding language for creating full blown human AI?
+A very complex program such as a human AI would probably involve quantum computing so you should probably check out the available quantum programming languages out there such as Q Language (based on C++) and Quipper (based on Haskell). 

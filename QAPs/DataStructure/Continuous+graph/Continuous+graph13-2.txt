@@ -1,0 +1,2 @@
+How do you read histograms?
+Pay attention to one more thing --  try and shift your histogram a bit more to the right (not so much that you overexpose areas you need) because the dynamic range going from left to right is exponential so you have greater leeway on the right than on the left. If this does not make sense, do read what Katherine suggests- the article in  luminous landscape and what I say will make sense to you. Good luck! 

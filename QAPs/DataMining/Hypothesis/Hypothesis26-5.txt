@@ -1,0 +1,2 @@
+★What is a null hypothesis in layman's terms?
+Dan Spec, "makes no difference" is not always the null. For example, when the proprietary drugs expire, generic drugs go into the market. But to get the approval of the FDA, the generic drug companies has to show "there is no significant difference between my proposed generic drug and the more expensive brand name drug". Another example is that you see the text "cows treated by HGH are not significantly different from the cows that haven't" on the milk carton. Both meant a H0 of "it makes difference".    Embed Quote

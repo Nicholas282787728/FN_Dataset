@@ -1,0 +1,2 @@
+★What are the best free unlimited bandwidth VPNs?
+I do not use free VPNs, or Proxies. There are many reasons why: - no support, or quality of it - usually do not work where I need them to work (ie: hotels, China, ...) - for the most important reasons I suggest you read this: Why are free proxies free?  - because it's an easy way to infect thousands of users and collect their data You can replace proxy with VPN and I believe you will understand my point. If you do not value the service (VPN, proxy) enough to pay for it, then I guess you can leave without it.

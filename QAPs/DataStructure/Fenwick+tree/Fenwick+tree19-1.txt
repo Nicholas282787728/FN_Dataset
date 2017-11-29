@@ -1,0 +1,2 @@
+What is the most complex line of C code you have created or encountered?
+My personal favorit is Fenwick tree. There are in fact two lines of code. One for increasing value on position p  by x  for(int i=p; i<fin.size(); i+=(i&(i^(i-1)))){fin[i]+=x;} and second for getting the prefix sum of first n  elements. for(int i=n; i>0; i-=(i&(i^(i-1)))){result+=fin[i];} Runs in log(n)  , very handy to memorize for contest :D. Updated 25 Oct • View Upvotes

@@ -1,0 +1,2 @@
+Is Java a pure object-oriented programming language?
+No, Java is not pure object oriented language. Pure object oriented means everything must be based on class and objects. But primitive datatypes like int, long, float etc in java neither they are class nor object of any class. Also classes in java not support multiple inheritance, so that's why java is not a pure object oriented. 

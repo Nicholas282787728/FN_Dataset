@@ -1,0 +1,6 @@
+How is H.265 so much more efficient than H.264?The general idea is that for H.265 we can now do more calculations per video, thanks to the Moore's law. There's a whole bunch of techniques that yield more efficient coding. To list a few:
+H.265 introduces Coding Tree Blocks, which allows for encoding of larger macroblocks (Coding Units)
+It uses more precise transform matrices
+It uses better motion estimation
+
+You can read How HEVC/H.265 works, technical details & diagrams for a great overview of how H.265 works.

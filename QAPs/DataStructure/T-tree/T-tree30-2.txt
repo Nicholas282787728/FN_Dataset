@@ -1,0 +1,2 @@
+Let (u,v) be a minimum weight edge in a graph G. How do I show the (u,v) belongs to some minimum spanning tree of G?
+Here's another proof by contradiction. Let's say there exists a minimum spanning tree, T which does not include the smallest edge, E. Add E to T. A circuit, C will be formed.  A graph will remain connected if an edge is removed from a circuit. So, remove an edge from the circuit, C which also belongs to T (Basically, any edge in C except E). This operation would result in a new spanning tree whose weight is <= T. We have a contradiction. 

@@ -1,0 +1,2 @@
+What is the primary programming language used in artificial intelligence research?
+Yes, all those answers are right, alas... Alas, because all those languages are legacy languages and do not allow reflection (except for Lisp, but quite poorly) so there is no way a program could improve itself. Every single line of code comes out of the programmer's mind at great cost, this isn't bootstrapping...    Embed Quote 

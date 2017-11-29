@@ -1,0 +1,2 @@
+★What is better in terms of reliability, speed & signal quality - a smartphone or a 3G/4G dongle?
+Apart from benefits given in previous answers, dongles are easy to carry and more consistant and reliable than mobile tethering. Also tethering from mobile will drain its battery faster. So find a cheap dongle which supports various network providers. Buying a third party dongle gives you freedom of changing networks.

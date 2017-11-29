@@ -1,0 +1,2 @@
+★Can time series analysis be used to predict stock trends?
+Most probably not. Time series analysis is commonly based on continuity: for example ARMA-models utilize continuous trend and seasonal changes to predict values which is not the case in stock market prices.    Embed Quote

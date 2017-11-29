@@ -1,0 +1,2 @@
+★Which PHP photo gallery allows easy uploads via FTP?
+I have used minishowcase before, it's easy to set up and allows you to create new galleries and upload pictures in a very simple way. http://minishowcase.net/

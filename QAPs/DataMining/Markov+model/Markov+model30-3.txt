@@ -1,0 +1,2 @@
+★What is the probability of the model in the hidden Markov model?as you know the posterior distribution of the hidden Markov model when given observation is: p(model | observation) ∝ p(observation | model)*p(model) p(observation | model) is clear and can be obtained. but Is There any way to find p(model)?
+for p(model) you have to have some statistics on the whole population.    Embed Quote

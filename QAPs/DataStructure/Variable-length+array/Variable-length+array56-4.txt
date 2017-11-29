@@ -1,0 +1,2 @@
+Why are C strings less secure than string objects?
+A string object will automatically allocate more memory when needed and doesn't care about null termination. Every char array is a potential buffer to be overflowed, every printf - a potential write 4 bytes anywhere attack. Even the off-by-one errors where you use [/code]strncat[/code], but forget to leave 1 byte for the null, can lead to disastrous results. String objects have none of these issues. 

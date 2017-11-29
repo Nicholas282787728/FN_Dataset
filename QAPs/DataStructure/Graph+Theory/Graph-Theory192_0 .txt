@@ -1,0 +1,1 @@
+How do you graph a paraboloid with MATLAB?Make a vector of points for your X coordinates, x. Write the expression describing your paraboloid, and evaluate it at all of the points in your vector x, storing the result in a new vector y. x and y should now both be column vectors with the same length. Plot your series of points with the function plot(x, y); 174 Views

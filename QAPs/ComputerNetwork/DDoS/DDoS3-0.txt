@@ -1,0 +1,2 @@
+★How dangerous is a DDoS attack?
+That depends on what is being ddos'ed. I have a web site that is 15 years old. I haven't added or changed anything since 2008. If that got ddos'ed for a month, I don't think I would discover it. Ladbrokes run betting sites and if you ddos them the last 10 minutes of a very important sports match they loose millions It's all a matter of who, when and how long and it goes from a non event to very important

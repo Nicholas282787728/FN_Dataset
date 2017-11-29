@@ -1,0 +1,2 @@
+What are some topics/fields in physics that aren't traditionally taught in the undergraduate physics curriculum but are worth learning/really cool?
+Simplified version of Onsager's solution to the Ising model: [cond-mat/0104398] Pedestrian Solution of the Two-Dimensional Ising Model ... This is a really cool topic indeed and built interest in me to study phase transitions and statistical physics. And, the paper in the link is definitely accessible to 3rd year undergraduates in physics. 

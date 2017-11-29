@@ -1,0 +1,2 @@
+★Is there an online text editor with syntax highlighting that supports ftp/sftp connections?
+I was going to suggest Mozilla's Bespin. But now that Bespin has merged with Cloud9, you may try that instead. Find it at http://cloud9ide.com/.

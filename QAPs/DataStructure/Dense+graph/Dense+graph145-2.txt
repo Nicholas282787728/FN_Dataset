@@ -1,0 +1,1 @@
+How important is machine learning to what Palantir is doing?I've seen video demos and played with Analyze the US, but can't tell if machine learning is important to or even applied at Palantir. Palantir looks to me like a graph exploration software. Isn't it?

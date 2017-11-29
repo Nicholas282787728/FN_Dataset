@@ -1,0 +1,2 @@
+★Wireless Communication: What is the effect of frequency on penetration power of a wave?
+Higher frequency means lower penetrating power. Oversimplifying, a wave is absorbed by material having depth 16 times wavelength. Wikipedia has a good article at Mathematical descriptions of opacity.    Embed Quote

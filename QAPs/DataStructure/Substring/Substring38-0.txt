@@ -1,0 +1,2 @@
+In mathematical proofs, which substring of "if and only if" corresponds to the arrow pointing right?
+The arrow pointing left is "if". "I eat toast if it's morning" is the same as "it's morning => I eat toast". The arrow pointing right is "only if", to some extent. "I eat toast only if it's morning" is the same as "it's not morning => I don't eat toast", or through contraposition, "I eat toast => it's morning". Language is messy of course. Saying "I eat toast only if it's morning" kind of implies that you do actually eat toast most mornings. In pure logic, it doesn't. 

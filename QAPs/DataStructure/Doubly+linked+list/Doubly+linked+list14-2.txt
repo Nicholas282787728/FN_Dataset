@@ -1,0 +1,2 @@
+How should one go about implementing a thread-safe doubly linked-list without locking the entire list in C?
+You could just lock the two nodes where you're inserting or deleting 

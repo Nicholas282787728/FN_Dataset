@@ -1,0 +1,1 @@
+What is the relationship between cloud computing and computer networking/data communications?Data communications is a pre-requisite of cloud computing. Without data networking technology, it is not possible to build today's highly distributed computing systems AND it is also not possible to expose them over the Internet to be sold and subscribed as a service.

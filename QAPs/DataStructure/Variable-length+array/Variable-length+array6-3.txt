@@ -1,0 +1,2 @@
+What is the time complexity of sizeof() in C programming language?
+The sizeof operator is implemented in compile time, not run time, so O(1) would be the answer at run time. 

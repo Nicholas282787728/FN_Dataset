@@ -1,0 +1,2 @@
+★What joke requires the most pieces of domain knowledge to understand?
+I have a joke about UDP. But never mind, you might not get it... Explanation: UDP is an unreliable network protocol. Chances are a transmitted packet might not be received.    Embed Quote

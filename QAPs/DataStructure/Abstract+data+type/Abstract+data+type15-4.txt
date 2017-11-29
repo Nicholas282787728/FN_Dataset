@@ -1,0 +1,2 @@
+In OOP, what is the difference between an abstract data type and a class or object?
+Unlike a 'real' class, an abstract data type cannot be instantiated. 

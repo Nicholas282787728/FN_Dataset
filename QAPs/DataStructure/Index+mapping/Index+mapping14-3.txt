@@ -1,0 +1,2 @@
+Is it a good UX or a bad one to have Google Maps as the index page?
+At a conceptual level, I don't see anything wrong with it. Of course, the workings of the site will need to be obvious. I would recommend keeping the side bar shown by default because that seems to be the primary way to interact with the site. Hiding and showing the side bar should also be made obvious. 

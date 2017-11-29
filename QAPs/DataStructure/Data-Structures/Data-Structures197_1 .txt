@@ -1,0 +1,1 @@
+What is the real time application of the trees in data structures?It is used in dictionary applications, ip address lookup problems etc 8 Views  View Upvotes

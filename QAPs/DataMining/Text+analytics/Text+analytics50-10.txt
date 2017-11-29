@@ -1,0 +1,2 @@
+★What is the best text analytics API + service?There are a lot of text analytics / text analysis APIs out there. What is your experience and what API do you think is the best one?
+Oleg provided great answer. However his list includes great, but expensive tools. I personally prefer cheaper tools which deliver. For example Pingar's API server is good. We also enjoyed their Metadata Extractor: http://pingar.com/products/share... .    Embed Quote

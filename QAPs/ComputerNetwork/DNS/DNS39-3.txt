@@ -1,0 +1,2 @@
+★Why did Amazon AWS named its DNS services "Route 53"?
+53 signifies the port used by DNS. Basically DNS services used port number 53 (TCP and UDP) And Route is basically for routing any traffic to Amazon DNS.

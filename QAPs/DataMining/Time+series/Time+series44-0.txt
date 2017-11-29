@@ -1,0 +1,2 @@
+★Is time series an important topic to know for a data scientist?
+I think that most data scientists don't need to know a lot about time series methodology, but they should know enough to recognize problems where it might be useful.  On the other hand, there's definitely a need for a small group of people who know a lot about this area.    Embed Quote

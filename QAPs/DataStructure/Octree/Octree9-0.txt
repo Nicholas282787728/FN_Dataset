@@ -1,0 +1,2 @@
+Which data structure can be used for storing 3D information (only the coordinates) and is dynamic in nature?
+For 3D coordinates, you can use Octree - Octree. The generalised data structure is  K-D trees - k-d tree. Here, K is the number of dimensions. In this case, K = 3. 

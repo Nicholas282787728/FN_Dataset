@@ -1,0 +1,2 @@
+What are some good questions on CodeChef from which I will learn more algorithms?
+For Beginners - Factorial - Factorial, Small factorials GCD - GCD2 Modular Arithmetic - Sereja and Transformation Number Theory - Yet Another Cute Girl, Number Game Revisited Dynamic Programming - Sums in a Triangle, Reign, Rectangular Queries, Colored Array Graphs - Draughts The List is very long. [EDIT :] A useful discussion thread on CodeChef : Data Structures and Algorithms A problem classifier may be very useful : http://a2oj.com/Categories.jsp 

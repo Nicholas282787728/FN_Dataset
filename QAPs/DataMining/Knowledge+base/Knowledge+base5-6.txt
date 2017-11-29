@@ -1,0 +1,2 @@
+★What is the best help desk and support knowledge base plugin for wordpress?Looking for premium or free plugin to do a simple job on providing ticketing based support and if possible link to self-service support database any ideas and views from the coal face welcome thanks
+Try this: http://wordpress.org/extend/plug... I haven't used it, as I use WHMCS, however, this might be a good thing to look at. I do love zendesk.    Embed Quote

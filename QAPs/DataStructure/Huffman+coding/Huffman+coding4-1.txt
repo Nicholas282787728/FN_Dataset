@@ -1,0 +1,2 @@
+Does Huffman coding usually appear in competitive programming contest?
+Huffman coding problems are not the most frequent ones in competitive programming contests. But they are important. ICPC WF 2015 included a problem related to Huffman coding: Problem L: Weather Report. UPD: Found another Huffman coding problem. This is a rather easier one. Problem C from SWERC 15. 764 Views · 5 Upvotes

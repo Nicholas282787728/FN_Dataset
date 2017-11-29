@@ -1,0 +1,1 @@
+Is there an EM algorithm for decision tree classifiers?Decision-tree classifiers are not usually framed as latent-variable graphical models, so no. However, many classifiers which do use a tree structure have EM algorithms for them, like probabilistic parsing with graphical models or tree-structured CRFs with random variables. 283 Views  View Upvotes

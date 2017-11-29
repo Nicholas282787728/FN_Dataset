@@ -1,0 +1,2 @@
+Are pointers or arrays used to implement a segment tree?
+Array. It is easier to code. Dynamically allocating pointers has overhead. Traversing pointers also has overhead and does not play nicely with the cache. 

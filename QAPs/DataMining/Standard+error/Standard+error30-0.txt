@@ -1,0 +1,2 @@
+★Considering the formula for the standard error of the estimate in an OLS regression, why do we SQRT the whole term and not only the numerator (sum of errors)?It makes sense to me from a variance perspective but somehow not graphically/logically.
+The standard error is the standard deviation of the sampling distribution. If you don't take the square root, you have the variance of the sampling distribution. The standard deviation is the square root of the variance.    Embed Quote

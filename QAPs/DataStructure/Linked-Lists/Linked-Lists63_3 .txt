@@ -1,0 +1,1 @@
+Why do we use a circular linked list when we can achieve the same implementation just by starting from the head again when we reach the NULL node?Given a pointer to any node in the circular list, you can traverse the whole list. 112 Views  View Upvotes  Answer requested by 1 person

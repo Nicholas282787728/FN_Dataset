@@ -1,0 +1,2 @@
+★Difference Between HTML and CSS?
+Short answer: HTML is for content and web page structure, while CSS is for presentation and design

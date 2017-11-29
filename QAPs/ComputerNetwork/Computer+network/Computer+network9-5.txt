@@ -1,0 +1,2 @@
+★What is the best book about computer networking?
+If you want to go deep about the data communication ( Like bits,signals on wires, etc) Data communications and Networking by William Stallings is good If you want to know the basic concepts in networks in general, then Computer Networks by Tanenbaum is good. In fact, its the classic out there for networks. ( If you are going to study this book , there is accompanying Coursera course starting early January.You can get a deep understanding by doing this course with the book  https://www.coursera.org/course/... )

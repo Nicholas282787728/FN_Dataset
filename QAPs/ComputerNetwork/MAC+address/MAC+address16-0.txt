@@ -1,0 +1,2 @@
+★How come the MAC address of my NIC is NULL (all zeros)?
+It is not usual for the NIC to show all zeroes in MAC. It seems that there are some driver issues, and hence, I would suggest you to look into that first. MAC spoofing is a completely different aspect. If the main hardware itself malfunctions, spoofing is useless.    Embed Quote

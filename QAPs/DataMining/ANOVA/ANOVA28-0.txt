@@ -1,0 +1,2 @@
+★Does ANOVA with interaction effects do the same thing as hierarchical modeling? If not, what is the difference?
+Yes. ANOVA is the same model as regresson. Here it is in matrix form: Y = XB + e where Y is a nx1 vector of responses, X is an nxp matrix of independent variables, B is a px1 vector of parameters to be estimated and e is error. ANOVA, as a term, is used when all the independent variables are categorical. But regression can also be used in that case. In essence, ANOVA is a subset of regression.    Embed Quote

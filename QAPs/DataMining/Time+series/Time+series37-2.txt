@@ -1,0 +1,2 @@
+★How do I apply supervised learning methods to time series classification?
+Alternatively, you can use descriminative restrictive Boltzmann machine (RBM) to do classification. It model the the joint distribution of label and data. If the data is real-valued, use Gaussian-Bernoulli RBM.    Embed Quote

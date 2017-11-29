@@ -1,0 +1,2 @@
+What is the best master data management software right now?
+In my opinion you need to first understand your business problem statement, understand how MDM can help solve issues, build a strategy, define your requirements and then try and get to a tool related answer. The tool is only part of the puzzle. Once you understand your overall data governance and data quality needs and you can identify what specific areas can MDM help resolve it should not be difficult to pick a tool - starting with Gartner's recommended Magic Quadrant for MDM.    Embed Quote 

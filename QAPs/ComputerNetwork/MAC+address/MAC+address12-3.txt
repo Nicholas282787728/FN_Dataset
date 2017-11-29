@@ -1,0 +1,2 @@
+★What are the benefits of using a static MAC address?
+1. Faster load time of machine at the start. 2. If you are developing web apps, static IP can be very very useful as you don't need to modify anything even if you switch your networks.    Embed Quote

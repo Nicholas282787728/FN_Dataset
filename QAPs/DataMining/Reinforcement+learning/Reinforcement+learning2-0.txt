@@ -1,0 +1,2 @@
+★Do data scientists use reinforcement learning?
+In a few domains, yes where systems need to learn online and the table of states and actions is small enough that it can be readily tabulated. The classic examples are elevator scheduling and piloting vehicles. However, in my opinion, the possible realm of application for reinforcement learning is limited. This is due to the size of the system that can be tackled. Take a look on Google Scholar, there are very few new papers out there using RL.    Embed Quote

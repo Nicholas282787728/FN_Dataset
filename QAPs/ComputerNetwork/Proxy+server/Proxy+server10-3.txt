@@ -1,0 +1,2 @@
+★Why are most proxy servers so slow?And is there a way or technique to develop a proxy that is close to "real" speed. I am talking about serving millions of users daily here, and not about optimizing a proxy for a few people.
+I don't know "why are most proxy servers so slow?" because I use only Hotspot Shield VPN/Proxy. It is free, fast and provides unlimited bandwidth to millions of users daily.    Embed Quote

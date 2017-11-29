@@ -1,0 +1,2 @@
+Is two months enough to get well-versed in competitive programming?
+It really depends on your prior knowledge and on what you mean by "well versed" and "do well". Some people reach yellow rating after the first competition, others struggle with it for years. I recommend you to read What are some of the must read questions about competitive programming on Quora? 

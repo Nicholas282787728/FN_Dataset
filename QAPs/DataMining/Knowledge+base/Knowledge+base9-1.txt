@@ -1,0 +1,2 @@
+★What are some open source documentation / knowledge base systems?I'd like something like the Heroku or Github documentation sites: http://devcenter.heroku.com http://help.github.com
+Let's see, we have Dokuwiki (which is sort of a blend of both), KnowledgeTree, Alfresco and OpenKM to name a few. I've got a few lists that might help here: http://www.cmscritic.com/resourc...    Embed Quote

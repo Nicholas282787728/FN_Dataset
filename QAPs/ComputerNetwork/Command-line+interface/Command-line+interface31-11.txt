@@ -1,0 +1,2 @@
+★Will I ever be able to reach a respectable level as a software engineer if I am not proficient with command-line and Unix environments?
+My level of respect for a software engineer depends on the level of love he shows for software engineering. Anyone who has a love for software engineering would learn the command line and Unix environment with passion and pleasure. So, NO.

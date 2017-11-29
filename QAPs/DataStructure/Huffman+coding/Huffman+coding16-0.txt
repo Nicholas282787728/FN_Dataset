@@ -1,0 +1,2 @@
+Can Huffman coding be used as an encryption algorithm?
+Most of the decipherment techniques works on inferring statistical distribution of the tokens in the encrypted data so Huffman coding will be easy to decipher if the attacker has some knowledge of the original content like language used. 341 Views

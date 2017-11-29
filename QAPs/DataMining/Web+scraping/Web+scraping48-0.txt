@@ -1,0 +1,2 @@
+★What are some novel advanced coding projects that involve web scraping and Python (and maybe humor)?Need ideas for a fun project (up to ~50 hours coding)
+Crawl the "about us" pages of company sites and generate fake mashed-up descriptions of companies (use an interesting algorithm here, not just Markov chains). Have your web application show one real and one fake company to users and ask them to pick the real one. Have a highlights page of fake companies most often picked as real.    Embed Quote

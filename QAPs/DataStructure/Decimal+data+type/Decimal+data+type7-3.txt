@@ -1,0 +1,2 @@
+What are the things you must learn in C?
+pointers, recursions :) if you can master these two, your programming experience ahead will be lot more beautiful :) 

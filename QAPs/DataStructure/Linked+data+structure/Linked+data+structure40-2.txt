@@ -1,0 +1,2 @@
+What is linked list concept in data structures and what are its real time applications?
+Linked list = a set of records, one record points to the next record. An application of linked lists would be a dynamic stack. 

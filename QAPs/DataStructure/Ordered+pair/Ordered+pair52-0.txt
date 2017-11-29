@@ -1,0 +1,2 @@
+What are some of the most ridiculous proofs in mathematics?
+Theorem: If you throw a map onto the region that it maps, there is a point on the map which lies on the point that it maps. Proof. Pretend that the map is really, really accurate. Then somewhere on the map is a picture of the map. Somewhere in that picture of the map is a picture of the map. Somewhere in that picture of the map... (This is an intuitive summary of the statement and proof of the Banach fixed-point theorem.) 

@@ -1,0 +1,2 @@
+★Why are the operational system keys not recommended for forming data warehouse primary keys?
+Another one to add to the list given by Chris Schrader, there is a chance that some keys get reused in the source system for a new record because the old record was deleted/purged/archived. But in data warehouses, generally we maintain history, in such cases the keys will overlap    Embed Quote

@@ -1,0 +1,2 @@
+How do I get the address of variables of the primitive data types in Java?
+If you write the object to console with: System.out.println(objectName); You will get a hash-code that has a segment with the initial memory address of the object. This is however useless to you because the JVM is at liberty to move the objects around as it sees fit. 

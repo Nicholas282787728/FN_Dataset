@@ -1,0 +1,2 @@
+★What data sources allow access to hospital data? Infection rates, readmission rates, etc?This article mentions these things should be avaliable.  http://professional.wsj.com/arti... However I can't find them anywhere.
+The WSJ article specifically mentioned NewYork State, which publishes hospital quality data here: http://hospitals.nyhealth.gov/ Several other states do something similar, which you should be able to find by searching for "[state] hospital quality data".   You can also find hospital data at www.healthgrades.com.

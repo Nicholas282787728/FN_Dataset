@@ -1,0 +1,2 @@
+★Why does a capacitor function as an open circuit at low frequencies, while at high frequencies it acts as a short circuit?
+you must have been knowing the relation Xc=1/WC ... where w is angular frequency(omega) and Xc is impedence.. so when frequency is low, then 1/WC will be high i.e  very high impedence (resistance) hence act as an open circuit....and vice versa.. if w is high 1/WC wil be low hence a short .. Hope u got that!!!    Embed Quote

@@ -1,0 +1,2 @@
+How do I detect a cycle in a directed graph?
+Another simple approach could be to use Topological sorting. If you could find topological sort of the graph then there is no cycle. Read about Kahn’s algorithm below Topological sorting 4.4k Views · 1 Upvote

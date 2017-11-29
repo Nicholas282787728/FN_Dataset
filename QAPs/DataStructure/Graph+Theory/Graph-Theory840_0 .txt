@@ -1,0 +1,1 @@
+What does visualizer graph represent in audio players?That graph looks like amplitude vs time - the program Audacity uses a similar graph (it shows how soft/loud music is at a given point in time). The documentation explains in great detail how to read that type of graph - Audio Tracks - Audacity Manual 48 Views  View Upvotes  Answer requested by Sumit Chhetri

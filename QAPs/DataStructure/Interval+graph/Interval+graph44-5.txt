@@ -1,0 +1,2 @@
+Would society be better off if everyone had a basic understanding of differential and integral calculus?
+Those concepts are quite natural to our brains; I suspect more people have a "basic understanding" of those concepts than you think (if not the nomenclature and symbolism). Contrast with probability which sounds like it ought to be simpler but which often is quite counter-intuitive. I'm not sure I know of anything in integral or differential calculus half so jarring to ones' sensibilities than the "monty hall" problem or the existance of rock-paper-scissors dice. 

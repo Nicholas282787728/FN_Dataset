@@ -1,0 +1,1 @@
+What is the significance of using a priority queue in Dijkstra's algorithm? What difference does it make if we use a normal queue?

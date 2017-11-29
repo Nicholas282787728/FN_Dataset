@@ -1,0 +1,1 @@
+How can one explain linear algebra's Cayley-Hamilton theorem to a 4 year-old boy?Note: this question contains partial humor and it is not expected that one will find a completely satisfactory answer. However, I am interested in seeing how close we may get.

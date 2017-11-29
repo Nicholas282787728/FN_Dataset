@@ -1,0 +1,2 @@
+★Why is logistic regression usually well-calibrated?Logistic regression is known to be well-calibrated compared to some other models. Is there a mathematical analysis demonstrating this observation? And when does logistic regression fail to be well calibrated?
+Naive bayes makes some very strong independence assumptions about the features. Logistic regression, as a discriminative model does not do that.    Embed Quote

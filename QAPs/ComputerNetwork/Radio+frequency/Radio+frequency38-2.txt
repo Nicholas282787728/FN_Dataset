@@ -1,0 +1,2 @@
+★What is the most commonly available tool that can measure & characterize the noise floor of the 2.4 GHz radio frequency band?
+I believe some of our folks at engineering use Wi-Spy (http://www.metageek.net/products...). This is short of using a full blown spectrum analyzer.    Embed Quote

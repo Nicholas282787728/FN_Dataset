@@ -1,0 +1,2 @@
+★Why are 3G signals slow when riding a train?Is it because of the speed or bad coverage?
+The way the modulation works that gets 3G to its optimal speed, which is a variant of OFDM, does not like mobility, especially high speed. The modulation puts the signal in a quadrant with a voltage offset, so the less accurate, the more you have symbol loss, hence data speed loss. 3G and even worse, 4G, likes you to be a stationary mobile customer.

@@ -1,0 +1,2 @@
+★What are some free cloud storage solutions with over 8GB of space that support FTP or WebDAV?What are some good, free cloud storage services with over 8GB of space that support FTP, WebDAV, or some other system that would allow me to back up and access my files without having to use a browser-based interface? I've already tried box, but I can't get their WebDAV service to work as I would expect it to. (It keeps giving me error messages when I try to transfer large numbers of files.)
+Or try us @ https://secure.cloudsafe.com/

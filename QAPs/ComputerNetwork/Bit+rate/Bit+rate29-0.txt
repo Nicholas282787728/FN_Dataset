@@ -1,0 +1,3 @@
+★How can one select a list of sound files by their length (or bit rate) in Unix?
+Ugly hack really, in the directory containing sound files, use the following command to see a list of sound files sorted by their duration. 1
+ $ (find . -exec ffprobe -v quiet -show_format {} \; | grep -Z 'filename\|duration' | cut -c 10- | paste -s -d "|\n") | sort -t "|" -n -k2 avprobe version: 0.8.9-4:0.8.9-0ubuntu0.12.04.1 Edit: I read sort instead of select.

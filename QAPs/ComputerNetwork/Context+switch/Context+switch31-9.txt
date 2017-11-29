@@ -1,0 +1,2 @@
+★What is a coder's worst nightmare?
+An error that only occurs when it's not running on your computer, only under load, and cannot be replicated in a test environment.  That's as bad as it gets.

@@ -1,0 +1,2 @@
+What are the top data visualization tools in 2014?For programmers and for non-programmers.
+My team builds http://vida.io, d3.js visualization template and GUI tool. Check out http://vida.io/explore for examples. Non-programmers can clone and upload data to generate new visualizations. If you want to create visualization without javascript code, you can use our google chart GUI tool: https://vida.io/pages/google-charts Updated 22 Apr 2014 • View Upvotes

@@ -1,0 +1,2 @@
+Is it possible to find the longest path between two vertices in a graph in polynomial time?
+This problem is NP-Complete as well. If you'd have a polynomial algorithm to solve this one you can solve the previous one as well. You would do it by adding 2 nodes which are connected with all other nodes and you would ask for the longest path between these two nodes. This path corresponds to the longest path in the original graph. Updated 229w ago • View Upvotes

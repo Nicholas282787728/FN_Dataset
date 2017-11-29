@@ -1,0 +1,1 @@
+What are non isomorphic graphs and how are they used? What are some examples?Isomorphic graphs are those in which there is a bijection of one set of numbers onto another set, one to one. If it is not one to one it is not isomorphic. 9 Views

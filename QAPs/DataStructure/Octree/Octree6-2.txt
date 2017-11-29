@@ -1,0 +1,2 @@
+What is one way programming has helped you look at the world differently?
+I reverse engineer CSS from physical objects. If I see something like this In my mind I'll be like So, padding: 20px;border: 10px solid black; background: dark blue radial gradient / inset box shadow; Also when I can't find something in my room I always wish there was a search engine for my room. 

@@ -1,0 +1,2 @@
+★What's the difference between affine and linear functions?
+An affine function is a translation composed with a linear function. As the translation may be the identity function, all linear functions are affine. An affine function applies a linear transformation with respect to an arbitrary point which may not be the origin, so many of the properties of linear functions are also seen in affine functions, for instance if points p1, p2, and p3 are collinear, then so also are f(p1), f(p2), and f(p3). See here for more: http://math.stackexchange.com/qu...    Embed Quote

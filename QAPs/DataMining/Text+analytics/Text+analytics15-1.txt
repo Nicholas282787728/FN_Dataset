@@ -1,0 +1,2 @@
+★What is the good text analytics method to match tweet's key phrases to their equivalent Wikipedia pages?
+Are you looking to match extracted topics to a Wikipedia page? Can you give examples of what your topics look like?    Embed Quote

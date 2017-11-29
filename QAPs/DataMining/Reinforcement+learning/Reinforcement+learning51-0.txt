@@ -1,0 +1,2 @@
+★How much overlap is there between reinforcement learning and operant conditioning?
+There are three kinds of operant conditioning: Positive reinforcement. If you do the right behavior, something good happens. Negative reinforcement. If you don't do the right behavior, something bad happens. Punishment. If you do the wrong behavior, something bad happens.I don't know what reinforcement learning is, but it sounds like 1 and 2.    Embed Quote

@@ -1,0 +1,2 @@
+★How can we choose a "good" K for K-means clustering?Some datasets have an "obvious" set of clusters that would be found by K-means clustering with the right choice of K. How can we, given a set of data, choose such a K?
+Check out Determining the number of clusters in a data set. Also you might be interested in: How to determine which method is the most reasonable clustering results? How can I detect if my dataset is clustered or unclustered (i.e. forming one single cluster)? Cross Validated - How to define number of clusters in K-means clustering?    Embed Quote

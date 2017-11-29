@@ -1,0 +1,2 @@
+★Why do ordinary data cables (USB, HDMI, etc.) fail?In a normal household or office environment, they seem like things that should never fail. What makes them stop working?
+Because everything that moves eventually breaks. Cables break after so many inserts and removes, specially cheap stuff like micro USB. The worst is not when the cable breaks, but when it's the other plug. Now if you're talking about cables failing without being touched, that shall not happen.

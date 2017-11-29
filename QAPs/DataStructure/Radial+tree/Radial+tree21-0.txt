@@ -1,0 +1,2 @@
+Classification (machine learning): How do I design a classifier for this data set?
+Yes, people find such datasets in real life. The right way to solve this is to either use k-Nearest neighbors like algorithm or use an optimal kernel. Kernel method . 

@@ -1,0 +1,2 @@
+What are some of the best blogs/resources for Business Intelligence and Predictive Analytics software?
+Although it's relatively new, I'd say ZAP Business Intelligence's blog. The topics they covered are done in extreme depth. http://www.zapbi.com/Community.aspx    Embed Quote 

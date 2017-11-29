@@ -1,0 +1,2 @@
+★Why are hyperlinks blue?
+"Hyperlinks typically display as blue text. This is because most browsers default settings are set up to display hyperlinks in that manner." I would also imagine that they are blue so they will stand out from the rest of the text on the page. Source: http://www.codeave.com/html/code...    Embed Quote

@@ -1,0 +1,2 @@
+What is the best way to maintain a API wrapper class across multiple languages?Preferably with some sort of automation / generation
+Mashape auto-generates client libraries for APIs (in Java, Obj-c, Ruby, PHP, Python).  If you have an API and maintaining libraries across these languages is a burden for you, you may want to consider adding it to Mashape.  "Adding" is as simple as "documenting" it.  I've created a video for this if you want to know how that works - Documentation | Mashape (Disclosure: I am an employee of Mashape) 

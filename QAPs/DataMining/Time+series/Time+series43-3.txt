@@ -1,0 +1,2 @@
+★Would NoSQL databases be a good choice for storing large time series?If so, which is better - Redis, MongoDB, other?
+Could be interesting - http://systoilet.wordpress.com/2...    Embed Quote

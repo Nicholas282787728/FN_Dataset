@@ -1,0 +1,2 @@
+★What are some good resources for learning about Hidden Markov Models?
+Noah Smith at CMU has written a really clear introduction: www.cs.cmu.edu/~nasmith/papers/smith.tut04a.pdf    Embed Quote

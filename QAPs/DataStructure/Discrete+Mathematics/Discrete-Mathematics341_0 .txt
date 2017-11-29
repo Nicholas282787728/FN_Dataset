@@ -1,0 +1,1 @@
+If 54 people enter the raffle (including yourself), what are your chances of winning the laptop?If you bought n tickets and there was total of x tickets sold and it's a fair lottery, then the probability of you winning is n/x, assuming that the winner must come from the ticket holder purchasers. 42 Views

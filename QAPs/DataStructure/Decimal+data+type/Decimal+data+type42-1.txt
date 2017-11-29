@@ -1,0 +1,2 @@
+When char j = 1, why is j+1 value 2 because j is char and not integer?
+char or int data types does not really mean chars/integers everything boils down to 1s & 0s. Only diff is in size - char 1byte & int 2/4/8 bytes. What value the data type stores is dependent on how what you store like char j=1 will store decimal value 1 whereas char j='1' will store ascii value of character '1'. So j+1 = 2 if you stored 1 & j+1=50 if you stored '1' (notice when there is quotes around 1 & when not) 

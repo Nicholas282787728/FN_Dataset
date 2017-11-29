@@ -1,0 +1,2 @@
+How do I multiply two large numbers stored as strings in the C#?
+If it's an integer number you could use the BigInteger structure found in System.Numerics. Actually getting it in there might involve chopping up the string into a series of 64 bit integers. 

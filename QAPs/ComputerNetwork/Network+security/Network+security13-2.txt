@@ -1,0 +1,2 @@
+★What are the hottest research topics in network security?
+the answer depends on the metric of "hotness", and the definition of "topic". for example, would "cryptography" be a topic, or "key management", or "key distribution techniques in two-tiered sensor networks"?    Embed Quote

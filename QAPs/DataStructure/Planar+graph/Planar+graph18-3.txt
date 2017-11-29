@@ -1,0 +1,2 @@
+What's the most challenging physics or math problem you've attempted to solve?
+P=NP Honestly the days I used to study the optimization subjects, I locked myself in the room and tried working on this problem for more than 4 days. Later, I learnt everything in optimization, got A+ in subject, completed more than dozen online projects, and end up realizing that I was not even close. This is one of the 7 million dollar problems posted by Clay mathematics institute. I don't think I was even close to $1000, but I tried. 

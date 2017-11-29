@@ -1,0 +1,2 @@
+★How does Google use machine learning?With Google using ML in plenty of places, what are the least known places where google uses these techinques?
+One publicly available piece of information is how Gmail's priority inbox works. Here's a link to the paper. http://static.googleusercontent....    Embed Quote

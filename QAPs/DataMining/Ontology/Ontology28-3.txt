@@ -1,0 +1,2 @@
+★Is there any kind of web ontology for "semantic news"?
+The Associated Press has the AP News Taxonomy, which is part of AP Metadata Services.    Embed Quote

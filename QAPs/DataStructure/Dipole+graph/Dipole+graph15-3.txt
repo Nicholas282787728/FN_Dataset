@@ -1,0 +1,2 @@
+Thermodynamics: Why does the H2O-Ethanol solution have less volume than the pure components?
+The hydrogen bonds that give water its quasi structure are disrupted by competition with hydrogen bonding to ethanol and so the overall volume is lowered. 

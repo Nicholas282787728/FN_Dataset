@@ -1,0 +1,2 @@
+How much of machine learning must one know to understand and go through the new course of Deep learning offered by Google at Udacity?
+I am following the said course and though the content has been simplified enough, I still think you should be having a good level of understanding in Machine Learning. Deep Learning should always be pursued after you Machine Learning (in my opinion). Also, in my opinion what you are asking is somewhat in the same mould as trying to hit a century without hitting a half-century :/ 

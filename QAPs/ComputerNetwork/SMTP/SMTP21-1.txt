@@ -1,0 +1,2 @@
+★What is a normal/acceptable frequency of SMTP RFC error 450 (try again later) being emitted by an SMTP server?Is there a certain level where one can say that there is a risk that the email won't be delivered, or may face severe delays.
+(My mistake placing a clarification as an answer. Moved to question comments. Sorry for that!)    Embed Quote

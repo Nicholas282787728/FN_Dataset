@@ -1,0 +1,3 @@
+Odd-even sort is a parallel version of bubble sort, for message passing systems.
+Cocktail sort is another parallel version of the bubble sort
+In some cases, the sort works from right to left (the opposite direction), which is more appropriate for partially sorted lists, or lists with unsorted items added to the end.

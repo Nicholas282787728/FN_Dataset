@@ -1,0 +1,2 @@
+What is the best (programming) algorithm that you have ever created?Anything that you're proud of and would like to share the algorithm as well?
+Created a framework where handwritten samples were scanned, converted into text format and fed into a neural network for learning. When new samples were provided, it would recognize the individual whose handwriting it was. Created serde for multidimensional hash and bloomfilters as input to Map Reduce allowing complex filtering and multidimensional analytics. The code was 10x faster than previous implementation. 

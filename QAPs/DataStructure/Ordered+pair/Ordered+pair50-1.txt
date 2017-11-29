@@ -1,0 +1,2 @@
+How can you prove negative numbers exist?
+You define them and show that their existence does not result in any inconsistencies or paradoxes. Direct definition. Or you define them and define something else, and use the latter to construct one. Proof by example/proof by construction. Or you define them and define something else, and show that their non-existence results in a contradiction. Non-constructive proof of existence. 

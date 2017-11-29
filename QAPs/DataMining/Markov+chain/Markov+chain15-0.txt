@@ -1,0 +1,2 @@
+★What is an intuitive explanation of periodicity in a Markov chain?
+Consider a graph with n nodes connected like a circle that dump all of their contents into the next state in the circle. Now start in any one of these states. It'll take you exactly (a multiple of) n time steps to get back to where you started, and you'll never get back earlier or later. Every time you get back to that state will be some multiple of n steps later. Every state in this chain has period n.    Embed Quote

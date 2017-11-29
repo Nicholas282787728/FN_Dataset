@@ -1,0 +1,1 @@
+Which nearest neighbor search algorithms run in logarithmic time, or which is the fastest NNS algorithm for large 2D data space?Follow up to the question: What are the most popular Nearest Neighbor Search algorithms?

@@ -1,0 +1,2 @@
+★Is there any approximate PCA algorithm which can find principal components in linear time complexity (i.e. O(ND) where N is the number of data points and D is the number of dimensions?
+Sure: randomly select of the variables and apply PCA to only that subset of variables.  I don't know if there is a better way: that would be an interesting question. You might want to look at some clever techniques for eigendecomposition (the algorithm used to solve PCA) developed for computing Google's PageRank measure. See: [1208.3071] Fast Distributed PageRank Computation    Embed Quote

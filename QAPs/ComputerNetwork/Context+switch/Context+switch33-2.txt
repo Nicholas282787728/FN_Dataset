@@ -1,0 +1,5 @@
+★What is sleep sort?
+explanation has already been given in other answers In JavaScript it would be 1
+2
+3
+ [1,4,6,3,7,9].forEach(function(n){ setTimeout("console.log("+n+")",n); });

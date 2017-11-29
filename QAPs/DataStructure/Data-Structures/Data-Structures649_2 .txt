@@ -1,0 +1,1 @@
+Where can I find really easy and fast understanding of all data structures and algorithms?I would suggest the lectures by MyCodeSchool to learn data structures. Even a newbie can program them if he watches them properly. They can be found on the youtube channel of MyCodeSchool. For algorithms, you can watch the Stanford lectures. 175 Views  View Upvotes

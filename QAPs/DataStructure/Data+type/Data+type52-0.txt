@@ -1,0 +1,2 @@
+What is the benefit of different data types in programming?
+Basically the amount of storage they require, for example a logical variable only needs one bit, true or false, opposed to a movie stored as a Binary large object - Wikipedia, requiring gigabytes of data. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 563 Views · 1 Upvote

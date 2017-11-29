@@ -1,0 +1,2 @@
+★What is the mathematical description of the wireless sensor networks(WSN)?
+The network graph and its associated theory and rules provides the basis for studying interconnectivity generally so I would start there. See Graph theory . You will have to supply the applicable information such as communication directions and propagation delays. Here is an example of graph theory applied to wireless sensor networks Applied Graph Theory to Improve Topology Control in Wireless Sensor Networks . Try searching these keywords using Google Scholar.    Embed Quote

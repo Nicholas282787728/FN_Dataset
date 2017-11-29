@@ -1,0 +1,2 @@
+★What is a good way to choose initial points of k clusters in k-means clustering?I found some articles discussing how to choose k, but even after I found k, how I can determine centroids for k clusters at the beginning
+K-means has local optima problems. Generally you want to do many random initial starts, like 10,000. Thus at some level the exact start doesn't matter enormously.    Embed Quote

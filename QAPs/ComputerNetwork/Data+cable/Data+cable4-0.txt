@@ -1,0 +1,2 @@
+★How do data cables stay intact when there are sudden shifts in tectonic plates?The earth's crust moves. We have data cables that span across oceans. How do these stay intact during such movements? Are the cables laid out with a lot of slack in them?
+Modern fiber optic cables are actually quite elastic, having a young's modulus of under 3*10^2 MPa.  They are laid out with some stretch in them, so shifs don't substanitally change their tension.

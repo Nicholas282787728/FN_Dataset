@@ -1,0 +1,2 @@
+What is the “Basic Requirements for IPv6 Customer Edge Routers”?
+This kind of depends on your definition of basic, but here's what I'd look for: IPv6 external _and_ internal routing. Support for DHCPv6 with prefix delegation Support for SLAAC Well supported device from a manufacturer committed to timely firmware updates because there will be both security issues and needed functionality updates over time. A stateful firewall built with IPv6 in mind.In addition all the IPv4 functionality I'm used to also has to be included. 

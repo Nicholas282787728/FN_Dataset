@@ -1,0 +1,1 @@
+What is wrong with this dynamic memory C code?firstname[i] and lastname[i] are one dimensional arrays storing the address of they base...you need not do &firstname and &lastname during scanf....simply write scanf("%s %s %f",firstname[i],lastname[i],&score[i]); 76 Views  View Upvotes

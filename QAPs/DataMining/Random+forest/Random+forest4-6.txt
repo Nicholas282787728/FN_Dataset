@@ -1,0 +1,2 @@
+★When is a random forest a poor choice relative to other algorithms?
+Understanding the meaning of the RandomForest's  variable importance (the relative importance of the predictors) requires you to specify a fairly parsimonious model that should be arrived at via prior exploratory analysis or a good grasp of the processes involved.    Embed Quote

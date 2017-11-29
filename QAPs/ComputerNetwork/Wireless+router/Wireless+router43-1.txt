@@ -1,0 +1,2 @@
+★How could I turn my slightly old PC into a wireless router/NAS//VPN/homeserver?
+Apart from the server roles, which Peter answered pretty well, on the connectivity side of things, have a look at Daihinia, with your old computer being in the place of the Internet gateway in that picture.    Embed Quote

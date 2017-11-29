@@ -1,0 +1,1 @@
+Is data structures(ds) a programming language?Data structures is not a language. Its about managing your data so that you can use or manipulate it effectively. Choosing proper data structure according to your data is important as it will help you to get and save required data easily and quickly without much efforts . 24 Views  View Upvotes

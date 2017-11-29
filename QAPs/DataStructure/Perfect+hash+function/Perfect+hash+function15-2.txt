@@ -1,0 +1,2 @@
+In a realistic Trie implementation, how is a node stored compactly and efficiently?
+You may try doub-array trie or its variants if you are dealing with a large alphabet (e.g., CJK character set). It is fast and space efficient in look-up, though a bit slow in updating. It does not support returning all the child node of a trie node though. 

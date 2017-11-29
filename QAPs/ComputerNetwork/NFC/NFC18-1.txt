@@ -1,0 +1,2 @@
+★What are some creative uses of NFC tags?
+I used this technology in one of the best malls in Cairo, Egypt to capture: 1. attendance of 600 guards in each shift - 3 shifts, 2. Proof of presence by supervisor tagging card of each guard posted on his specific post 3. Site inspection and tour by tagging fixed tags on various locations within a large building where no physical guard is there but a visit is required say every 1 hour. 4. Incident recording and alert at the control room in real time. It is live and running since last 2 years, successfully.    Embed Quote

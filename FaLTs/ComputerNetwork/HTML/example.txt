@@ -1,0 +1,40 @@
+Header of the HTML document:<head>...</head>. Usually the title should be included in the head, for example:
+<head>
+  <title>The Title</title>
+</head>
+Headings: HTML headings are defined with the <h1> to <h6> tags:
+<h1>Heading1</h1>
+<h2>Heading2</h2>
+<h3>Heading3</h3>
+<h4>Heading4</h4>
+<h5>Heading5</h5>
+<h6>Heading6</h6>
+Paragraphs:
+<p>Paragraph 1</p>  <p>Paragraph 2</p>
+Line breaks:<br />. The difference between <br /> and <p> is that 'br' breaks a line without altering the semantic structure of the page, whereas 'p' sections the page into paragraphs. Note also that 'br' is an empty element in that, while it may have attributes, it can take no content and it may not have an end tag.
+<p>This <br /> is a paragraph <br /> with <br /> line breaks</p>
+Comments:
+<!-- This is a comment -->
+Comments can help understanding of the markup and do not display in the webpage.
+There are several types of markup elements used in HTML.
+Structural markup describes the purpose of text For example, <h2>Golf</h2> establishes "Golf" as a second-level heading. Structural markup does not denote any specific rendering, but most web browsers have default styles for element formatting. Content may be further styled using Cascading Style Sheets (CSS). Presentational markup describes the appearance of the text, regardless of its purpose For example <b>boldface</b> indicates that visual output devices should render "boldface" in bold text, but gives little indication what devices that are unable to do this (such as aural devices that read the text aloud) should do. In the case of both <b>bold</b> and <i>italic</i>, there are other elements that may have equivalent visual renderings but which are more semantic in nature, such as <strong>strong text</strong> and <em>emphasised text</em> respectively. It is easier to see how an aural user agent should interpret the latter two elements. However, they are not equivalent to their presentational counterparts: it would be undesirable for a screen-reader to emphasize the name of a book, for instance, but on a screen such a name would be italicized. Most presentational markup elements have become deprecated under the HTML 4.0 specification, in favor of using CSS for styling. Hypertext markup makes parts of a document into links to other documents An anchor element creates a hyperlink in the document and its href attribute sets the link's target URL. For example the HTML markup, <a href="http://www.google.com/">Wikipedia</a>, will render the word "Wikipedia" as a hyperlink. To render an image as a hyperlink, an 'img' element is inserted as content into the 'a' element. Like 'br', 'img' is an empty element with attributes but no content or closing tag. <a href="http://example.org"><img src="image.gif" alt="descriptive text" width="50" height="50" border="0"></a>.
+Header of the HTML document:<head>...</head>. Usually the title should be included in the head, for example:
+<head>
+  <title>The Title</title>
+</head>
+Headings: HTML headings are defined with the <h1> to <h6> tags:
+<h1>Heading1</h1>
+<h2>Heading2</h2>
+<h3>Heading3</h3>
+<h4>Heading4</h4>
+<h5>Heading5</h5>
+<h6>Heading6</h6>
+Paragraphs:
+<p>Paragraph 1</p>  <p>Paragraph 2</p>
+Line breaks:<br />. The difference between <br /> and <p> is that 'br' breaks a line without altering the semantic structure of the page, whereas 'p' sections the page into paragraphs. Note also that 'br' is an empty element in that, while it may have attributes, it can take no content and it may not have an end tag.
+<p>This <br /> is a paragraph <br /> with <br /> line breaks</p>
+Comments:
+<!-- This is a comment -->
+Comments can help understanding of the markup and do not display in the webpage.
+There are several types of markup elements used in HTML.
+Structural markup describes the purpose of text For example, <h2>Golf</h2> establishes "Golf" as a second-level heading. Structural markup does not denote any specific rendering, but most web browsers have default styles for element formatting. Content may be further styled using Cascading Style Sheets (CSS). Presentational markup describes the appearance of the text, regardless of its purpose For example <b>boldface</b> indicates that visual output devices should render "boldface" in bold text, but gives little indication what devices that are unable to do this (such as aural devices that read the text aloud) should do. In the case of both <b>bold</b> and <i>italic</i>, there are other elements that may have equivalent visual renderings but which are more semantic in nature, such as <strong>strong text</strong> and <em>emphasised text</em> respectively. It is easier to see how an aural user agent should interpret the latter two elements. However, they are not equivalent to their presentational counterparts: it would be undesirable for a screen-reader to emphasize the name of a book, for instance, but on a screen such a name would be italicized. Most presentational markup elements have become deprecated under the HTML 4.0 specification, in favor of using CSS for styling. Hypertext markup makes parts of a document into links to other documents An anchor element creates a hyperlink in the document and its href attribute sets the link's target URL. For example the HTML markup, <a href="http://www.google.com/">Wikipedia</a>, will render the word "Wikipedia" as a hyperlink. To render an image as a hyperlink, an 'img' element is inserted as content into the 'a' element. Like 'br', 'img' is an empty element with attributes but no content or closing tag. <a href="http://example.org"><img src="image.gif" alt="descriptive text" width="50" height="50" border="0"></a>.

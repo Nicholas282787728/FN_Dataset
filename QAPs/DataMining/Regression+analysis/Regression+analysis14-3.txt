@@ -1,0 +1,2 @@
+★What is the most useful software package to learn for time series forecasting/regression analysis?Starting from scratch and including programming languages.  What software or tool has the most comprehensive application for time series and forecast modeling?  Why?
+I have taught people w/ no background how to successfully implement both these methods in a day.  For the student with some prior stats or math background, a half day.   These are basic procedures, promise in some fronts and limitations in others.    Embed Quote

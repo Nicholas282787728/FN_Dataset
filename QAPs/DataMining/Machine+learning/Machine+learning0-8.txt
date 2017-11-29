@@ -1,0 +1,2 @@
+★How do I learn machine learning?
+Balance theory and practice. Read about an algorithm, go through the mathematics, then do some programming and see how it does on real data. I don't think that anyone could learn all of machine learning. But this also means that there is always something new to learn, so you don't get bored.    Embed Quote

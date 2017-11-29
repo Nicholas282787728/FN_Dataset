@@ -1,0 +1,1 @@
+How does GiselleDB work?SimpleGeo describes their data store as "[b]ased on Cassandra and other NoSQL database solutions ... a highly  scalable, redundant, and extremely fast geo-spatial database solution". I'm curious to learn what novel techniques they've employed to tackle the spatial data management challenge.

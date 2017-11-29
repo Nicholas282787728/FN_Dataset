@@ -1,0 +1,2 @@
+★What is the difference between web server, application server and db server?
+Application Server is a term that sometimes is mixed with a web server. While a web server handles mainly HTTP protocols, the application server deals with several different protocols, including, but not limited, to HTTP.

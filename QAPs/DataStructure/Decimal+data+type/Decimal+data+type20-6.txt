@@ -1,0 +1,1 @@
+Which data type should I use to store a 12 digit integer in C++?

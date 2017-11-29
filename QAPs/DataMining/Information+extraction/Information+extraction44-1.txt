@@ -1,0 +1,2 @@
+★How can I extract information from Quora?I am a grad student major in mis. I am going to do a BI analysis with Quora information (such as questions and answers, etc) as the raw resouces, but I find that Quora does not provide any API related to the information extraction, so I wonder whether there are other ways I can get the raw information from Quora.
+See: Does Quora have anything against my scraping it for academic research?    Embed Quote

@@ -1,0 +1,2 @@
+What are some promising Big Data startups?Including both funded and non-funded ones. And maybe some OSS apps or stacks as well. (A startup doesn't always have to be a company, does it?)
+Amethon (Amethon Solutions) specialises in distributed streaming analytics for high volume and high velocity data such as mobile data traffic. We are typically reporting on billions of transactions per day in real-time. Other applications include financial transactions, retail transactions and sensor data. 

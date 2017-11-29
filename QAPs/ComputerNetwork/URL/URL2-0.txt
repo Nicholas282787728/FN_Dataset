@@ -1,0 +1,2 @@
+★What is the best URL shortener?
+If you value owning and controlling your data: a self-hosted solution is mandatory. I believe the best one is YOURLS. If anything else: bitly    Embed Quote

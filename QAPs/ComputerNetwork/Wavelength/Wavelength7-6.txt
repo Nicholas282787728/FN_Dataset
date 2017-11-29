@@ -1,0 +1,2 @@
+★If there are wavelengths, are there wave heights?For clarification: is there measurement for how much space a wave takes vertically, assuming you're looking at it move horizontally through space?
+Yes there is a wave height and it is termed the wave amplitude. It is measured from the wave's horizontal plane to the crest or trough if The wave. Another way to look at this is to look at the plot of a sine/ cosine function, its amplitude from the horizontal axis is the wave height.    Embed Quote

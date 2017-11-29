@@ -1,0 +1,2 @@
+Typically, how long is compressing an image using Huffman coding?
+The key question is: Do you build a custom Huffman tree for each image or do you use preset trees for a class of images? JPEG used preset trees, and while custom Huffman improved the compression ratio, the improvement was not that significant. With preset tree, Huffman coding is nothing more than a simple codeword mapping and should be very fast. 166 Views · Answer requested by Chris Rane

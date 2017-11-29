@@ -1,0 +1,2 @@
+Is it true that writing operating system code and kernel code is extremely difficult? If so, how much do those types of programmers make?
+It is more difficult.  There are more things to contend with, such as locking and scheduling.  Debugging is harder.  The edit–compile–debug cycle is slower because it includes a reboot.  All in all, it requires a better coder. Updated 10 Jun • View Upvotes

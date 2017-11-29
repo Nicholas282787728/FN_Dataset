@@ -1,0 +1,2 @@
+How do I start learning or strengthen my knowledge of data structures and algorithms?
+Data structure : Linked list Tree : BST Graph Hash Table Stack & Queue Start with basics, you should learn how to create them in your language of choice. Try to implement to read, insert , delete a node from it. Once you are master of basics try advanced things on it. You can easily get questions from LeetCode . Algorithms:... (more)

@@ -1,0 +1,2 @@
+★What are "eagle eye" genetic algorithms?
+I believe this is where, once a genetic algorithm has converge at either a local or global minimum, it will then start again at a random point in the search space and attempt to converge again. If this convergence is better, i.e. closer to the global minimum, than the last try it will save this information and discard the previous convergence attempt, repeating this process a certain number of times.    Embed Quote

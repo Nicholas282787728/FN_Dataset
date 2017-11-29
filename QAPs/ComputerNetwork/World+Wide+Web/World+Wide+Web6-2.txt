@@ -1,0 +1,2 @@
+★Can you explain the difference between the Internet and World Wide Web?
+A bird's eye view of this. The World Wide Web is a SMALL part of the Internet, specifically the HTTP(S) protocol. The Internet is made up of many, many, many protocols, such as Telnet, BBS, ICQ, IRC, FTP, and many others. The Internet existed before the WWW, and is the entirety of ALL the networked computers in the world.    Embed Quote

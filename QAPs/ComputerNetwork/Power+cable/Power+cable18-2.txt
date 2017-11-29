@@ -1,0 +1,2 @@
+★What will happen if I use a power cable that's not rated for my laptop?The original transformer was 19v and 4.74A, the one I'm trying now is 19.5v and 3.34A.
+Transformers are usually resilient in terms current overloads. But the problem maybe outside the transformer. Insulation degradation due to excessive heating and the rectifier switches are more susceptible to damage due to them carrying currents beyond their rated capacity.    Embed Quote

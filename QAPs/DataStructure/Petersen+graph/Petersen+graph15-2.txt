@@ -1,0 +1,2 @@
+What are the best data sources for studying the housing bubble and potential recovery?
+You can also go to Wolframalpha.com and search "US Home Prices 2008 - 2009" this will give you the housing price data and statistics. 

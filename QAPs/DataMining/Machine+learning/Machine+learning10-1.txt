@@ -1,0 +1,18 @@
+★Python for Machine Learning?
+Learning Python and coding PythonicallyI highly recommend Dive Into Python, and there's both a Python 2 version (http://www.diveintopython.net/to...) and a Python 3 version (http://www.diveinto.org/python3/). It's a good resource for learning Python quickly for those with existing programming knowledge. It's important to learn Python-specific styles and features, or you may end up writing code in C++ or C-style while using Python syntax. E.g. there's rarely a need to manually manipulate an iterator since there are foreach loops, unlike C++ except in C++11. Similarly, Python rarely has a need for iterating over indices in the for(int i =0; i < N; i++) kind of style. Also, the close integration of data structures into the language differs a lot from C and C++. Examples: tuples, lists, dictionaries, and features like list comprehensions and tuple unpacking. As an example, you often see idioms like this in Python: 1
+2
+3
+ somelist = ["hi", "world", "lol"] for i, elem in enumerate(somelist):     print("The {}th element is {}.".format(i, elem)) Note the absence of a C-style for loop, tuple unpacking, and builtins for list manipulation, such as enumerate. Hence you're unlikely to see this: 1
+2
+3
+ somelist = ["hi", "world", "lol"] for i in range(len(somelist)):     print("The {}th element is {}.".format(i, somelist[i])) And you're the most unlikely to see this, which looks somewhat like C++'s style:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+ somelist = [1,2,3] it = iter(somelist) i = 0 while True:     try:         v = it.next()     except StopIteration:         break     print("The {}th element is {}".format(i, v))     i += 1 Although it's impossible to iterate over STL stuff in C++ without the iterator being explicit (excl. C++11). LibrariesAfter that check out some of the common libraries such as numpy, matplotlib, scipy, scikit-learn, pandas, and maybe a few others (ordered by importance). Python 3 introduced some breaking changes to the language standard and many breaking changes to built-in libraries. Some libraries still lack compatibility with Python 3, which severely slowed its adoption. Although some of the most important packages such as numpy have had Python 3 compatibility for a while, others such as scikit-learn lagged behind. If you do choose to use Python 2, try to use futures (which you can get by importing from __future__) to increase the number of Python 3 features you're using so that the 2to3 automatic conversion tool will be more likely to make clean Python 3 code.    Embed Quote

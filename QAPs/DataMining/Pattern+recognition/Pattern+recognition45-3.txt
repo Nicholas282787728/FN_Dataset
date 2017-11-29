@@ -1,0 +1,2 @@
+★Why do I find the notations in book pattern recognition and machine learning strange and confusing?
+(A2A). IMHO seeing things from different perspectives is useful. And to at least one of your specific complaints, I'd mention that precision is often more natural than variance. So it isn't redundant or made up terminology.    Embed Quote

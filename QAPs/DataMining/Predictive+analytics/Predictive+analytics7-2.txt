@@ -1,0 +1,2 @@
+★How can predictive analytics be applied to trading?
+Long term investors can tap into a number of performance metrics (like deal sizes, traded volume, moving averages) for predictive financial models. Segments are then created using techniques like k-mean clustering, and KPI trends are examined against features volatility and momentum. Investors may then choose to invest in a particular class of stocks based on the risk appetite to maximize returns.    Embed Quote

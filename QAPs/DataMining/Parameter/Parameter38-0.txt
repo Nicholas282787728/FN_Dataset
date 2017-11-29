@@ -1,0 +1,2 @@
+★Why does the Java implementation of Random.setSeed xor the parameter with 0x5DEECE66DL?See Random (Java 2 Platform SE v1.4.2).  The code xors seed with the multiplier before reducing it mod 2^48.  Why not just reduce the passed seed mod 2^48?  The C equivalent seed48 does not perform the xor.
+They claim to use use Linear Congruential Method described by Donald E. Knuth in The Art of Computer Programming, Volume 3: Seminumerical Algorithms, section 3.2.1. You can refer it for an answer.    Embed Quote

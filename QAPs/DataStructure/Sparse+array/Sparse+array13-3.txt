@@ -1,0 +1,2 @@
+What are some basic programming questions asked in IT interviews? What are some questions from C, C++, Java, and data structures (top 50 questions)?
+Visit javatpoint website. It contains all the possibility questions. 

@@ -1,0 +1,7 @@
+★Whats the Java Code that one can read without too much of the domain knowledge?
+1
+2
+3
+4
+5
+ public class HelloWorld {         public static void main(String[] args) {                       System.out.println("Hello, World");           } }    Embed Quote

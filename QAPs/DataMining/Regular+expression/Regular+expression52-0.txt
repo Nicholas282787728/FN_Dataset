@@ -1,0 +1,2 @@
+★Do Microsoft coding interviews include regular expressions?
+Somewhat. I was interviewed with Microsoft in Oct 2014. My last interview question was a string pattern matching problem. The interviewer specifically asked me whether I knew regular expressions. However, it's for the purpose of describing the question to me. The answer he was looking for was how to implement the specific regular expression matching problem. If I had said I had no idea, he seemed to want explain more about it. Anyway it definitely helps if you understand it.    Embed Quote

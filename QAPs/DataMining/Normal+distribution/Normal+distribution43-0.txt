@@ -1,0 +1,2 @@
+★Is it possible to visualize covariance in a bivariate normal distribution in a straightforward way, similar to variance in a univariate normal distribution?
+May not be what you are after but.. Left hand side: bivariate normal, mean (0,0) covar=(1,0/0,1) Right hand side: bivariate normal, mean (0,0), covar=(1,0.5/0.5,1). You could continue to visualize in that way or use heat maps or contours for density.  Its a bit messy though!    Embed Quote

@@ -1,0 +1,2 @@
+★What is system bandwidth?
+I'm about 95% certain that it is the bandwidth of any given system, meaning how fast you can move data through it.

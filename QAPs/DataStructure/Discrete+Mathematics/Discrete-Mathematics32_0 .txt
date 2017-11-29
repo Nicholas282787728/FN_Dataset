@@ -1,0 +1,1 @@
+What is the importance of Russell's Paradox?It explains why Bertrand Russell was rarely invited to the best dance parties. Oh, and it also gives the general structure for diagonalization proofs, which are at the heart of why certain problems cannot be solved by any algorithm. 500 Views  View Upvotes  Answer requested by 1 person

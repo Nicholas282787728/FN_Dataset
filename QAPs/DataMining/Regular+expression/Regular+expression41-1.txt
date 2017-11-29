@@ -1,0 +1,2 @@
+★Do we really need to learn Regular Expressions?
+I haven't had a job in the last 6 years or so where I haven't used regular expressions at one point or another.  They are far too useful and easy to learn that I think you need a compelling reason to NOT learn them.    Embed Quote

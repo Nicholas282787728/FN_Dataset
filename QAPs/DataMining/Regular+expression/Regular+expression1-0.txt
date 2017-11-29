@@ -1,0 +1,2 @@
+★What's the best book on regular expressions?
+The book everyone references and everyone agrees is the best on the subject is "Mastering Regular Expressions" by Jeffrey Friedl, published by O'Reilly    Embed Quote

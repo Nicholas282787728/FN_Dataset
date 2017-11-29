@@ -1,0 +1,2 @@
+What pre-launch or early-stage web projects deserve more attention?Looking for suggestions that are still under the radar for the most part (ie haven't been covered in any major way.)
+A few under the radar companies that I am tracking: - streetspark (clever location dating in the UK) - wingify.com (easier ab testing) - siri. (think that new ways of interacting with your phone will pick up in 2010) - issuu.com (their android app rocks - but I am bias as I work with them) - gist.com (better management of display of your contacts and content from/about them) 

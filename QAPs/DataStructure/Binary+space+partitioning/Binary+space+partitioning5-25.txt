@@ -1,0 +1,2 @@
+What are some of the most ingenious algorithms in computer science?added bonus if the algorithm runs in constant time
+The algorithm for finding if a point is outside of the Mandelbrot Set is not fast, but it sure results in incredibly complex images considering its simplicity. For sheer elegance, recursive binary search is hard to beat. 

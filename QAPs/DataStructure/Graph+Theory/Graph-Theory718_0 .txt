@@ -1,0 +1,1 @@
+What is the difference between a graph that follows a power law against a randomly distributed graph?If you put power law data on a log log graph or paper, you get a straight line! (interpolated). With random data you only get noise on paper, you couldn't get a meaningful least min square line. 47 Views

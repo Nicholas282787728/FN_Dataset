@@ -1,0 +1,2 @@
+★What are the most interesting applications of Markov chains?Besides writing Bob Dylan songs.
+The example application that Markov used when introducing the concept was describing the alternation of consonants and vowels in Pushkin's Eugene Onegin.    Embed Quote

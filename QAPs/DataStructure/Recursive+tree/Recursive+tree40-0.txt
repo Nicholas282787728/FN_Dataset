@@ -1,0 +1,2 @@
+List all files and subdirectories like tree in current directory python using recursion?
+i think what you are looking for is something like os.walk(). it creates a hierarchical structure of a folder traversing it recursively.  @Python os.walk() Method 

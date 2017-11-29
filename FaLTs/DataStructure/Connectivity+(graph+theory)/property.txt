@@ -1,0 +1,5 @@
+Connectedness is preserved by graph homomorphisms.
+If G is connected then its line graph L(G) is also connected.
+A graph G is 2-edge-connected if and only if it has an orientation that is strongly connected.
+Balinski's theorem states that the polytopal graph (1-skeleton) of a k-dimensional convex polytope is a k-vertex-connected graph.[12] Steinitz's previous theorem that any 3-vertex-connected planar graph is a polytopal graph (Steinitz theorem) gives a partial converse.
+According to a theorem of G. A. Dirac, if a graph is k-connected for k ¡Ý 2, then for every set of k vertices in the graph there is a cycle that passes through all the vertices in the set.[13][14] The converse is true when k = 2.

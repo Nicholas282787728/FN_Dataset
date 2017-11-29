@@ -1,0 +1,2 @@
+★Which VPN service can you use to keep your entire home network secure from those that might be spying on you and with bad intentions?
+Absolutely zero.  If those people REALLY want to spy on you, they're going to do it.  They'll break into your house when you're not home and replace your router or swap out your network card.  Boom, done. Otherwise, just use as strong as encryption as you can get.

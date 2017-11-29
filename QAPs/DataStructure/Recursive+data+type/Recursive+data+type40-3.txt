@@ -1,0 +1,2 @@
+What is the best and most efficient way to start learning to code?
+You can start from reading this book if you want to start from C Head First C Personally, I would recommend you start from learning python which gives you a strong fundamental starting point. Some very good resources : How to Think Like a Computer Scientist 

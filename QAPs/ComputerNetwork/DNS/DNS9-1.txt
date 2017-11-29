@@ -1,0 +1,2 @@
+★Who owns the DNS root zone?
+The Internet Assigned Numbers Authority (IANA) -- http://www.iana.org/root-whois/

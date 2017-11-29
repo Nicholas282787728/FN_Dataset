@@ -1,0 +1,2 @@
+★What is the difference between a PHP and HTML Web page?
+you need to learn what is the meaning of server side programming and client side programming first. PHP is server side programming, basically the code that speaks with the server and/or database too. HTML is client side programming, which displays the result from PHP(or any other server side language) to the user.    Embed Quote

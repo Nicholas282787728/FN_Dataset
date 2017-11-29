@@ -1,0 +1,1 @@
+In simple terms, what is Memcached and what does it do?This is a follow-up question to In simple terms, what is Apache Thrift and what does it do?.

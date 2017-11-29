@@ -1,0 +1,2 @@
+★Can VoIP ever have latency as low as a "regular" phone line?
+ItNo, but it's a small price to pay for $4 a month phone service.

@@ -1,0 +1,1 @@
+How do I identify the last element in array if limit is not given?Assuming the array is of integer type. This should work : int n = sizeof(arr)/sizeof(int); int last = arr[n-1]; 35 Views  View Upvotes

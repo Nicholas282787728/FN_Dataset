@@ -1,0 +1,2 @@
+What are some good tutorials on segment trees?
+This one's pretty good : http://e-maxx.ru/algo/segment_tree It's in russian though. You'll have to use google translate or something. 

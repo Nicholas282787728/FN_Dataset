@@ -1,0 +1,2 @@
+★When building a network, if you have a manually set DHCP pool and open one everytime you need it, would that prevent hacking and eliminate third party access?Let's say you have 5 devices and keep exactly 5 local ip addresses to give out, no other devices will be able to join the network. Would that potentially give hackers the disadvantage to not having a connection?
+If you are interested in link layer authentication, check out 802.1x.

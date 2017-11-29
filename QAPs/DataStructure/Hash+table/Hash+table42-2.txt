@@ -1,0 +1,2 @@
+Why doesn't C also provide default implementations for linked lists, trees, hash tables, sorting, etc. like Java does?
+If your objective is to make a powerful, low-level language, then there is something to be said for removing all unnecessary cruft. Surely any functionality which can be put into a library, should be put into a library. 9.5k Views · 53 Upvotes

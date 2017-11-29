@@ -1,0 +1,2 @@
+Which is the best network monitoring tool: Nagios or Zabbix?
+Having implemented several different systems over the years. I view Nagios as the NFS of the monitoring world. It's great for static environments where there is little change. You can make Nagios go beyond its simple architecture to do more. But why?  At that point you should look at Zenoss (my preference and better architected.) or Zabbix. Choose the tool that's going to fit your needs. Not your personal loyalty to a particular tool. 

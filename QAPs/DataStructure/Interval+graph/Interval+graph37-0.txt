@@ -1,0 +1,2 @@
+What function is represented by a line segment on a graph?
+Any affine real function whose domain is a closed interval, i.e., any function of the following form                                         f:[a,b]→R,x↦mx+c    For example, the graph of                                         f:[−1,1]→R,x↦2x+1  is as follows 

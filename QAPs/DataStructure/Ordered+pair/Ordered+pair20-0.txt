@@ -1,0 +1,2 @@
+How do you plot ordered pairs of two equations in excel? That is plot lines for Equation 1, with coordinates (x1,y1) & (x2, y2)  and Equation 2, with coordinates (n1,m1) & (n2,m2).
+I am using Excel 2010 Let say you have two series: Click outside the data and Insert a scatter plot It should insert an empty scatter plot for you Now click on the scatter plot, select the chart tools, select design and click on select data Once you get the data box, click on add and add the series one by one And you are done! 

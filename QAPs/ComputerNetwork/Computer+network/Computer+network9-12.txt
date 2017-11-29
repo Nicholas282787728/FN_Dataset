@@ -1,0 +1,2 @@
+★What is the best book about computer networking?
+I don't know whether it would be a good choice right now but I read Computer Networking by James F. Kurose and Keith Ross. The book is pretty nice. The best part is that book has a top-down approach - it moves the explanation from Application Layer to Physical Layer.

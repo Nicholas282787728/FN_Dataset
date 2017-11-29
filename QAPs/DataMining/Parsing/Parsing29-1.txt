@@ -1,0 +1,2 @@
+★What is the technology stack behind Parse?
+There is an AWS case study about Parse which highlights some of the services that Parse uses on AWS. Full story: AWS Case Study: Parse    Embed Quote

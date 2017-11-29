@@ -1,0 +1,2 @@
+★Why is ontology reconciliation difficult?Ontology reconcilation, a premise of the Semantic Web, is difficult, but why?  Do you think it is due to technical or theoretical reasons?
+The fundamental failure lies with ontology learning, just like we are struggling to get machine learning working right.    Embed Quote

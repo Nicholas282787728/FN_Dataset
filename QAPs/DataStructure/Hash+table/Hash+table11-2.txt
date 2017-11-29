@@ -1,0 +1,2 @@
+What are good programming applications involving hash tables?
+Many dynamic programming languages use them as lightweight objects - this way you can add and remove properties at will, while still retaining a constant access time (because hash table lookups take constant time). 417 Views · 1 Upvote

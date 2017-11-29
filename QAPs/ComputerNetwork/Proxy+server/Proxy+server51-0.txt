@@ -1,0 +1,2 @@
+★What methods are used for content filtering in proxy server at MNIT?Proxy server in mnit filter contents.What are the methods used to filter contents.
+I'm sure the setup has changed over the years, but as of three years ago, our setup used Squid as a transparent proxy along with ufdbguard for URL filtering. Shorewall was used as a wrapper around ip-tables to perform port blocking and NAT-ing.    Embed Quote

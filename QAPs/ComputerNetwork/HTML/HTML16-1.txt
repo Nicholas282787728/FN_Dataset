@@ -1,0 +1,2 @@
+★Difference Between HTML and CSS?
+Think it this way, HTML is like a newly constructed building without any beautification done. CSS is the beautification stuff that we do, like painting the walls with different colors, using marble for floor and etc. You can live in a bare-bones building, just like we can build web pages with HTML, without using any CSS. It just does not look that good. CSS helps in making the web page look and function better. Hope this helps

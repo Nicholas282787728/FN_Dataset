@@ -1,0 +1,2 @@
+Why was Lisp the language of choice for AI research?
+Peter Norvig gave a good overview here: A Retrospective on PAIP. In 1991 Lisp offered a combination of features that could not be found in any other language. This combination made Lisp almost a necessity for certain kinds of work (in AI and other applications) and made Lisp the language of choice for a large community of users. Since then Lisp has maintained and added to features, but other languages have caught up. 

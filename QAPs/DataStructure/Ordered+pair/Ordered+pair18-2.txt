@@ -1,0 +1,2 @@
+Let [math]a[/math] and [math]b[/math] both be positive integers less than or equal to 2015. For how many distinct ordered pairs [math](a,b)[/math] is the following expression also an integer? [math]\frac{a^2+b^2}{13}[/math]
+There are 600625 such pairs. pairEqual (a, b) = a == bres n = baseRes ++ (map swap $ filter (not . pairEqual) baseRes)    where baseRes = [(a, b) | a <- [1..n], b <- [a..n], (a^2 + b^2) `mod` 13 == 0]main = print $ length $ res 2015 Updated 7w ago • Asked to answer by Anonymous

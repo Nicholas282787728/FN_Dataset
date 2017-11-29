@@ -1,0 +1,3 @@
+With the availability of Cloud applications, which include those to add metadata to content, metadata is increasingly available over the Internet.
+With the availability of Cloud applications, which include those to add metadata to content, metadata is increasingly available over the Internet.
+In general, an intelligent system consists of a function taking one or more arguments and results in an output vector, and the learning method's task is to run the system once with the input vector as the arguments, calculating the output vector, comparing it with the answer vector and then changing somewhat in order to get an output vector more like the answer vector next time the system is simulated.

@@ -1,0 +1,2 @@
+★Given how precious bandwidth is, what sort of data compression technologies have come out of NASA and its contractors?
+Most of the NASA work on data compression is done at JPL (especially the Information Processing Group - Information Processing Group.) As an example, the ICER Image compression is used by the Mars Rovers ICER They have also published work on Hyperspectral and other areas of data compression. (see http://hyspiri.jpl.nasa.gov/down...)

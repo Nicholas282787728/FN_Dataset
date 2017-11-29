@@ -1,0 +1,2 @@
+★What is SIP in telecommunications?
+SIP is Session Initiation Protocol. It creates voice sessions over the internet to provide voice service to a business.    Embed Quote

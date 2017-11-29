@@ -1,0 +1,154 @@
+This article may be confusing or unclear to readers. In particular, the discussion below uses "element", "value", "key", "separator", and "separation value" to mean essentially the same thing. The terms are not clearly defined. There are some subtle issues at the root and leaves. Please help us clarify the article; suggestions may be found on the talk page. (February 2012)
+Parallel algorithms for constructing red–black trees from sorted lists of items can run in constant time or O(loglog n) time, depending on the computer model, if the number of processors available is proportional to the number of items. Fast search, insertion, and deletion parallel algorithms are also known.[7]
+This article may be confusing or unclear to readers. In particular, the discussion below uses "element", "value", "key", "separator", and "separation value" to mean essentially the same thing. The terms are not clearly defined. There are some subtle issues at the root and leaves. Please help us clarify the article; suggestions may be found on the talk page. (February 2012)
+An example of a Bloom filter, representing the set {x, y, z}. The colored arrows show the positions in the bit array that each set element is mapped to. The element w is not in the set {x, y, z}, because it hashes to one bit-array position containing 0. For this figure, m=18 and k=3.
+An empty Bloom filter is a bit array of m bits, all set to 0. There must also be k different hash functions defined, each of which maps or hashes some set element to one of the m array positions with a uniform random distribution.
+To add an element, feed it to each of the k hash functions to get k array positions. Set the bits at all these positions to 1.
+To query for an element (test whether it is in the set), feed it to each of the k hash functions to get k array positions. If any of the bits at these positions are 0, the element is definitely not in the set �?if it were, then all the bits would have been set to 1 when it was inserted. If all are 1, then either the element is in the set, or the bits have by chance been set to 1 during the insertion of other elements, resulting in a false positive. In a simple bloom filter, there is no way to distinguish between the two cases, but more advanced techniques can address this problem.
+The requirement of designing k different independent hash functions can be prohibitive for large k. For a good hash function with a wide output, there should be little if any correlation between different bit-fields of such a hash, so this type of hash can be used to generate multiple "different" hash functions by slicing its output into multiple bit fields. Alternatively, one can pass k different initial values (such as 0, 1, ..., k �?#160;1) to a hash function that takes an initial value; or add (or append) these values to the key. For larger m and/or k, independence among the hash functions can be relaxed with negligible increase in false positive rate (Dillinger & Manolios (2004a), Kirsch & Mitzenmacher (2006)). Specifically, Dillinger & Manolios (2004b) show the effectiveness of deriving the k indices using enhanced double hashing or triple hashing, variants of double hashing that are effectively simple random number generators seeded with the two or three hash values.
+Removing an element from this simple Bloom filter is impossible because false negatives are not permitted. An element maps to k bits, and although setting any one of those k bits to zero suffices to remove the element, it also results in removing any other elements that happen to map onto that bit. Since there is no way of determining whether any other elements have been added that affect the bits for an element to be removed, clearing any of the bits would introduce the possibility for false negatives.
+One-time removal of an element from a Bloom filter can be simulated by having a second Bloom filter that contains items that have been removed. However, false positives in the second filter become false negatives in the composite filter, which may be undesirable. In this approach re-adding a previously removed item is not possible, as one would have to remove it from the "removed" filter.
+It is often the case that all the keys are available but are expensive to enumerate (for example, requiring many disk reads). When the false positive rate gets too high, the filter can be regenerated; this should be a relatively rare event.
+An example of a Bloom filter, representing the set {x, y, z}. The colored arrows show the positions in the bit array that each set element is mapped to. The element w is not in the set {x, y, z}, because it hashes to one bit-array position containing 0. For this figure, m=18 and k=3.
+An empty Bloom filter is a bit array of m bits, all set to 0. There must also be k different hash functions defined, each of which maps or hashes some set element to one of the m array positions with a uniform random distribution.
+To add an element, feed it to each of the k hash functions to get k array positions. Set the bits at all these positions to 1.
+To query for an element (test whether it is in the set), feed it to each of the k hash functions to get k array positions. If any of the bits at these positions are 0, the element is definitely not in the set �?if it were, then all the bits would have been set to 1 when it was inserted. If all are 1, then either the element is in the set, or the bits have by chance been set to 1 during the insertion of other elements, resulting in a false positive. In a simple bloom filter, there is no way to distinguish between the two cases, but more advanced techniques can address this problem.
+The requirement of designing k different independent hash functions can be prohibitive for large k. For a good hash function with a wide output, there should be little if any correlation between different bit-fields of such a hash, so this type of hash can be used to generate multiple "different" hash functions by slicing its output into multiple bit fields. Alternatively, one can pass k different initial values (such as 0, 1, ..., k �?#160;1) to a hash function that takes an initial value; or add (or append) these values to the key. For larger m and/or k, independence among the hash functions can be relaxed with negligible increase in false positive rate (Dillinger & Manolios (2004a), Kirsch & Mitzenmacher (2006)). Specifically, Dillinger & Manolios (2004b) show the effectiveness of deriving the k indices using enhanced double hashing or triple hashing, variants of double hashing that are effectively simple random number generators seeded with the two or three hash values.
+Removing an element from this simple Bloom filter is impossible because false negatives are not permitted. An element maps to k bits, and although setting any one of those k bits to zero suffices to remove the element, it also results in removing any other elements that happen to map onto that bit. Since there is no way of determining whether any other elements have been added that affect the bits for an element to be removed, clearing any of the bits would introduce the possibility for false negatives.
+One-time removal of an element from a Bloom filter can be simulated by having a second Bloom filter that contains items that have been removed. However, false positives in the second filter become false negatives in the composite filter, which may be undesirable. In this approach re-adding a previously removed item is not possible, as one would have to remove it from the "removed" filter.
+It is often the case that all the keys are available but are expensive to enumerate (for example, requiring many disk reads). When the false positive rate gets too high, the filter can be regenerated; this should be a relatively rare event.
+(packs rectangles into an R-tree) Step 1. Calculate the Hilbert value for each data rectangle Step 2. Sort data rectangles on ascending Hilbert values Step 3. /* Create leaf nodes (level l=0) */
+While (there are more rectangles) generate a new R-tree node assign the next C rectangles to this node
+Step 4. /* Create nodes at higher level (l + 1) */
+While (there are > 1 nodes at level l) sort nodes at level l �?0 on ascending creation time repeat Step 3
+The assumption here is that the data are static or the frequency of modification is low. This is a simple heuristic for constructing an R-tree with 100% space utilization which at the same time will have as good response time as possible.
+Assuming that someNode is some node in a non-empty circular singly linked list, this code iterates through that list starting with someNode:
+function iterate(someNode)
+   if someNode �?null
+     node := someNode
+     do
+       do something with node.value
+       node := node.next
+     while node �?someNode
+Notice that the test "while node �?someNode" must be at the end of the loop. If the test was moved to the beginning of the loop, the procedure would fail whenever the list had only one node.
+This function inserts a node "newNode" into a circular linked list after a given node "node". If "node" is null, it assumes that the list is empty.
+function insertAfter(Node node, Node newNode)
+     if node = null
+       newNode.next := newNode
+     else
+       newNode.next := node.next
+       node.next := newNode
+Suppose that "L" is a variable pointing to the last node of a circular linked list (or null if the list is empty). To append "newNode" to the end of the list, one may do
+insertAfter(L, newNode)
+ L := newNode
+To insert "newNode" at the beginning of the list, one may do
+insertAfter(L, newNode)
+ if L = null
+   L := newNode
+For a general configuration space C, the algorithm in pseudocode is as follows:
+Algorithm BuildRRT
+  Input: Initial configuration qinit, number of vertices in RRT K, incremental distance Δq)
+  Output: RRT graph G
+
+  G.init(qinit)
+  for k = 1 to K
+    qrand �?RAND_CONF()
+    qnear �?NEAREST_VERTEX(qrand, G)
+    qnew �?NEW_CONF(qnear, Δq)
+    G.add_vertex(qnew)
+    G.add_edge(qnear, qnew)
+  return G
+ "�? is a shorthand for "changes to". For instance, "largest �?item" means that the value of largest changes to the value of item. "return" terminates the algorithm and outputs the value that follows.
+In the algorithm above, "RAND_CONF" grabs a random configuration qrand in C. This may be replaced with a function "RAND_FREE_CONF" that uses samples in Cfree, while rejecting those in Cobs using some collision detection algorithm.
+"NEAREST_VERTEX" is a straightforward function that runs through all vertexes v in graph G, calculates the distance between qrand and v using some measurement function thereby returning the nearest vector.
+"NEW_CONF" selects a new configuration qnew by moving an incremental distance Δq from qnear in the direction of qrand. (According to [3] in holonomic problems, this should be omitted and qrand used instead of qnew.)
+Parallel algorithms for constructing red–black trees from sorted lists of items can run in constant time or O(loglog n) time, depending on the computer model, if the number of processors available is proportional to the number of items. Fast search, insertion, and deletion parallel algorithms are also known.[7]
+Input: An array P with n elements
+Output: An array S of n elements such that S[i] is the largest integer k such that k <= i + 1 and P[y] <= P[i] for j = i - k + 1,.....,i
+Algorithm:
+1. Initialize an array P which contains the daily prices of the stocks
+       2. Initialize an array S which will store the span of the stock
+       3. for i = 0 to i = n - 1
+               3.1 Initialize k to zero
+               3.2 Done with a false condition
+               3.3 repeat
+                     3.3.1 if ( P[i - k] <= P[i] ) then
+                               Increment k by 1
+                     3.3.2 else
+                               Done with true condition
+               3.4 Till (k > i) or done with processing
+                     Assign value of k to S[i] to get the span of the stock
+       4. Return array S
+Now, analyzing this algorithm for running time, we observe:
+We have initialized the array S at the beginning and returned it at the end. This is a constant time operation, hence takes O(1) time
+The repeat loop is nested within the for loop. The for loop, whose counter is i is executed n times. The statements which are not in the repeat loop, but in the for loop are executed n times. Therefore these statements and the incrementing and condition testing of i take O(n) time.
+In repetition of i for the outer for loop, the body of the inner repeat loop is executed maximum i + 1 times. In the worst case, element S[i] is greater than all the previous elements. So, testing for the if condition, the statement after that, as well as testing the until condition, will be performed i + 1 times during iteration i for the outer for loop. Hence, the total time taken by the inner loop is O(n(n + 1)/2), which is O()
+The running time of all these steps is calculated by adding the time taken by all these three steps. The first two terms are O() while the last term is O(). Therefore the total running time of the algorithm is O().
+This section requires expansion. (June 2008)
+We can describe lookup (and membership) easily. Given a recursive trie type, storing an optional value at each node, and a list of children tries, indexed by the next character, (here, represented as a Haskell data type):
+data Trie a =
+      Trie { value    :: Maybe a
+           , children :: [(Char,Trie a)] }
+We can look up a value in the trie as follows:
+find :: String -> Trie a -> Maybe a
+    find []     t = value t
+    find (k:ks) t = case lookup k (children t) of
+                        Nothing -> Nothing
+                        Just ct -> find ks ct
+In an imperative style, and assuming an appropriate data type in place, we can describe the same algorithm in Python (here, specifically for testing membership). Note that children is map of a node's children; and we say that a "terminal" node is one which contains a valid word.
+def find(node, key):
+    for char in key:
+        if char not in node.children:
+            return None
+        else:
+            node = node.children[char]
+    return node.value
+A simple Ruby version:
+class Trie
+  def initialize
+    @root = Hash.new
+  end
+ 
+  def build(str) 
+    node = @root    
+    str.each_char do |ch|
+      node[ch] ||= Hash.new
+      node = node[ch]
+    end
+    node[:end] = true
+  end
+ 
+  def find(str) 
+    node = @root
+    str.each_char do |ch|
+      return nil unless node = node[ch]
+    end
+    node[:end] && true
+  end
+end
+A compiling Java version:
+public class MinimalExample{
+    private interface Node {
+        public static final Node EMPTY_NODE = new Node() {
+            @Override public String getValue() { return ""; }
+            @Override public boolean containsChildValue(char c) { return false; }
+            @Override public Node getChild(char c) { return this; }
+        };
+        public String getValue();
+        public boolean containsChildValue(char c);
+        public Node getChild(char c);
+    }
+ 
+    public Node findValue(Node startNode, String value) {
+        Node current = startNode;
+        for (char c : value.toCharArray()) {
+            if (current.containsChildValue(c)) {
+                current = current.getChild(c);
+            } else {
+                current = Node.EMPTY_NODE;
+                break;
+            }
+        }
+        return current;
+    }
+}

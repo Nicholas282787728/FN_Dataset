@@ -1,0 +1,2 @@
+What are some "practice problems" that everyone should work on in-order to get better at programming (in any programming language)?If you have any problems corresponding to your field of work/research then mention that as well!
+This site is similar to Project Euler but revolves around bioinformatics: http://rosalind.info/ Updated 2 Aug 2013 • View Upvotes

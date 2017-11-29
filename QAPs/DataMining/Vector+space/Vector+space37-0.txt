@@ -1,0 +1,2 @@
+★Linear Algebra: What is a simple example of a vector space which is not an inner product space?
+Any of the Lp spaces, where p is not 2, are normed vector spaces which are not inner product spaces. So L1([0,1]), the space of all integrable functions on [0,1], is a common vector space that is not an inner product space.    Embed Quote

@@ -1,0 +1,2 @@
+ bubble sort is often used to introduce the concept of an algorithm, or a sorting algorithm, to introductory computer science students.
+ it is used in a polygon filling algorithm, where bounding lines are sorted by their x coordinate at a specific scan line (a line parallel to the x axis) and with incrementing y their order changes (two elements are swapped) only at intersections of two lines. Bubble sort is a stable sort algorithm, like insertion sort.

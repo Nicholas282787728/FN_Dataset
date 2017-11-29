@@ -1,0 +1,51 @@
+For a k-ary tree with height h, the upper bound for the maximum number of leaves is . The total number of nodes is , while the height h is
+
+Note : Formula applicable only for number_of_nodes = number of nodes in *complete* k-ary tree
+The number of nodes in a perfect binary tree can be found using this formula: where is the depth of the tree. The number of nodes in a binary tree of height h is at least and at most where is the depth of the tree. The number of leaf nodes in a perfect binary tree can be found using this formula: where is the depth of the tree. The number of nodes in a perfect binary tree can also be found using this formula: where is the number of leaf nodes in the tree. The number of null links (absent children of nodes) in a complete binary tree of nodes is . The number of internal nodes (non-leaf nodes) in a Complete Binary Tree of nodes is . For any non-empty binary tree with leaf nodes and nodes of degree 2, .[5]
+
+Proof:
+Let n = the total number of nodes B = number of branches n0, n1, n2 represent the number of nodes with no children, a single child, and two children respectively.
+
+
+B = n - 1 (since all nodes except the root node come from a single branch) B = n1 + 2*n2 n = n1+ 2*n2 + 1 n = n0 + n1 + n2 n1+ 2*n2 + 1 = n0 + n1 + n2 ==> n0 = n2 + 1
+The number of nodes in a perfect binary tree can be found using this formula: where is the depth of the tree. The number of nodes in a binary tree of height h is at least and at most where is the depth of the tree. The number of leaf nodes in a perfect binary tree can be found using this formula: where is the depth of the tree. The number of nodes in a perfect binary tree can also be found using this formula: where is the number of leaf nodes in the tree. The number of null links (absent children of nodes) in a complete binary tree of nodes is . The number of internal nodes (non-leaf nodes) in a Complete Binary Tree of nodes is . For any non-empty binary tree with leaf nodes and nodes of degree 2, .[5]
+
+Proof:
+Let n = the total number of nodes B = number of branches n0, n1, n2 represent the number of nodes with no children, a single child, and two children respectively.
+
+
+B = n - 1 (since all nodes except the root node come from a single branch) B = n1 + 2*n2 n = n1+ 2*n2 + 1 n = n0 + n1 + n2 n1+ 2*n2 + 1 = n0 + n1 + n2 ==> n0 = n2 + 1
+The number of nodes in a perfect binary tree can be found using this formula: where is the depth of the tree. The number of nodes in a binary tree of height h is at least and at most where is the depth of the tree. The number of leaf nodes in a perfect binary tree can be found using this formula: where is the depth of the tree. The number of nodes in a perfect binary tree can also be found using this formula: where is the number of leaf nodes in the tree. The number of null links (absent children of nodes) in a complete binary tree of nodes is . The number of internal nodes (non-leaf nodes) in a Complete Binary Tree of nodes is . For any non-empty binary tree with leaf nodes and nodes of degree 2, .[5]
+
+Proof:
+Let n = the total number of nodes B = number of branches n0, n1, n2 represent the number of nodes with no children, a single child, and two children respectively.
+
+
+B = n - 1 (since all nodes except the root node come from a single branch) B = n1 + 2*n2 n = n1+ 2*n2 + 1 n = n0 + n1 + n2 n1+ 2*n2 + 1 = n0 + n1 + n2 ==> n0 = n2 + 1
+The number of nodes in a perfect binary tree can be found using this formula: where is the depth of the tree. The number of nodes in a binary tree of height h is at least and at most where is the depth of the tree. The number of leaf nodes in a perfect binary tree can be found using this formula: where is the depth of the tree. The number of nodes in a perfect binary tree can also be found using this formula: where is the number of leaf nodes in the tree. The number of null links (absent children of nodes) in a complete binary tree of nodes is . The number of internal nodes (non-leaf nodes) in a Complete Binary Tree of nodes is . For any non-empty binary tree with leaf nodes and nodes of degree 2, .[5]
+
+Proof:
+Let n = the total number of nodes B = number of branches n0, n1, n2 represent the number of nodes with no children, a single child, and two children respectively.
+
+
+B = n - 1 (since all nodes except the root node come from a single branch) B = n1 + 2*n2 n = n1+ 2*n2 + 1 n = n0 + n1 + n2 n1+ 2*n2 + 1 = n0 + n1 + n2 ==> n0 = n2 + 1
+For a k-ary tree with height h, the upper bound for the maximum number of leaves is . The total number of nodes is , while the height h is
+
+Note : Formula applicable only for number_of_nodes = number of nodes in *complete* k-ary tree
+The number of size-n recursive trees is given by
+
+Hence the exponential generating function T(z) of the sequence Tn is given by
+
+Combinatorically a recursive tree can be interpreted as a root followed by an unordered sequence of recursive trees. Let F denote the family of recursive trees.
+
+where denotes the node labeled by 1, × the Cartesian product and the partition product for labeled objects.
+By translation of the formal description one obtains the differential equation for T(z)
+
+with T(0) = 0.
+Maximum number of nodes
+�?Let be height of a ternary tree.
+�?Let be the maximum number of nodes in a ternary tree of height h
+h M(h) 0 1 1 4 2 13 3 40
+�?
+�?Every tree of height h has at most nodes.
+If a node occupies TREE [k}, then its Left Child is stored in tree . Mid Child is stored in TREE . Right Child is stored in TREE .

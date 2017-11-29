@@ -1,0 +1,2 @@
+What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
+1. Linked lists 2. Hashes - Because almost everyone can understand these without much effort. - Because almost everyone will be able to code this in their favourite language. - Because the performance of these will be within acceptable limits for a lot of applications. 

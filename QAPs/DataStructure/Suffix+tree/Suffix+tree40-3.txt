@@ -1,0 +1,2 @@
+Write a program to return the longest repeating  substring in a string.
+I think that Siddharth Subramanian has judged the question wrongly according to my opinion because the question says that we need to find the longest repeating substring in a given string but the algorithm which he has given tells that given a string what is the periodicity of the some substring occuring in it which is nothing but the preprocessing phase of KMP algorithm. 

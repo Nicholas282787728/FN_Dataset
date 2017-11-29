@@ -1,0 +1,2 @@
+What are the good ways to learn Data Structures?
+1. Take basic courses: Coursera Introduction to Algorithms (SMA 5503) 2. Practice persistently: Codeforces Programming Competition,Programming Contest,Online Computer Programming TopCoder, Inc. - Home of the world's largest development community 3. Sometimes learn new advanced data structures: Advanced Data Structures (6.851) I think it is a good way to learn data structures. 

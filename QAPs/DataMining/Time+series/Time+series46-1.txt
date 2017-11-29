@@ -1,0 +1,2 @@
+★Why do we sometimes get nonsense correlations between time series?
+The basic idea is simple: If you have an orthonormal system of functions, then a stochastic process can be written as a random element of the space spanned by these functions.  When you look at the correlation of two sample paths of the process, what you're measuring is how closely the coefficients of the random elements match up. The details, sadly, are not so simple.  P. C. B. Phillips "New Tools for Spurious Regressions" is the paper to read, but it will not go quickly.    Embed Quote

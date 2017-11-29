@@ -1,0 +1,2 @@
+★As someone without a computer science degree...how do I become a network security specialist?What route/ jobs/ qualifications are needed to start a career in network security and eventually progress to a security specialist role?
+I would say that the easiest path is to get a job with a security VAR and get involved in installation of security equipment, software and services. Gradually move your way into the architecture and design aspects of security. The benefit here is that you will have practical hands on experience to add to the theory    Embed Quote

@@ -1,0 +1,2 @@
+What are some easy to implement and powerful data structures?
+Disjoint-set data structure are mind boggling easy to implement and understand but still very unique and powerful. I have not seen anything more simpler to implement while still being quite fascinating. 

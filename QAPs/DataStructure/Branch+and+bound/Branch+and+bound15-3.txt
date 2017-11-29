@@ -1,0 +1,1 @@
+Does naive linear search work better than branch-and-bound and space partitioning algorithms in Nearest Neighbor Search?I have heard about linear search generally performing better when the search space dimensionality is high. But is it always true?

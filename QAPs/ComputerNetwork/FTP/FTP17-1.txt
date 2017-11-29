@@ -1,0 +1,2 @@
+★How can I upload to an FTP site via email?
+Does anyone have a php example of the php script mentioned here? I would like it to be able to strip an attachement and save it to an ftp site. Thanks

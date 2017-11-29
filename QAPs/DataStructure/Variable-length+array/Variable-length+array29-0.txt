@@ -1,0 +1,2 @@
+How is sizeof() an operator but not a function? Can you give source code for it?
+It's an operator and not a function by definition (as in, that is how it is defined by the language). The easiest way to see that is to notice that it 1) operates on types: sizeof(int), sizeof(int*), sizeof(std::string). This is not a syntax of a function call. 2) doesn't require parentheses when operating on expressions: sizeof a; sizeof &n; sizeof std::cout;. Once again, this is not a syntax of a function call. 

@@ -1,0 +1,2 @@
+What is the most esoteric programming language that you have tried?How did you learn about that programming language? What made you try programming using that language? Did you like programming using that language? Describe your experience.
+I'd have to go for "NOW".  It was a language for screen scraping that was distributed with Attachmate's 3270 terminal emulation software.  I used this during the Win 3.1 days.  The language resembled basic but had enough funky additions to keep you on your toes. 

@@ -1,0 +1,2 @@
+★When two people try to call each other simultaneously, why can't the network do the smart thing and connect them rather than give an engaged signal?
+Because it is cheaper this way and it is not too much annoying for customers

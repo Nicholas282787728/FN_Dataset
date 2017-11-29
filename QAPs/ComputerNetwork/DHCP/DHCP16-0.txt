@@ -1,0 +1,2 @@
+★Why DHCP is not used at IITB (or at any IIT) for IP allocation?
+I cannot say for IITB, but here at IITD DHCP is actually used for allocating IP's.

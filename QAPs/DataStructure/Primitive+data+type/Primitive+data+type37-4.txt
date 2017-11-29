@@ -1,0 +1,2 @@
+How can I store 100 factorials in an integer?
+long int should be used to store 100 factorial or numerals with a string in C /C++. 

@@ -1,0 +1,2 @@
+How can I find if any graph has cycle or not?I am implementing kruskal algorithm so I need to check if there is cycle in the graph or not repeatedly. How can I do that.
+use union set data structure 

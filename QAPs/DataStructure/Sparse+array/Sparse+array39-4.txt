@@ -1,0 +1,2 @@
+What are some differences between arrays and objects in Javascript?
+In JS everything is an object. As Derrick stated though, using the object as an array gives you the option to use ordinal indexing vs. keyed indexing. You can loop through both all the same: From stack overflow: for (var key in p) {   if (p.hasOwnProperty(key)) {     alert(key + " -> " + p[key]);   }} Another interesting example that highlights the object-centric nature of js: - Kudos to Oleg Kikin for pointing this out to me via FB. var x = [3,4,5]x['a'] =7console.log(x)[3, 4, 5, a: 7] 

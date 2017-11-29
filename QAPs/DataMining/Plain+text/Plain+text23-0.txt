@@ -1,0 +1,2 @@
+★When copying and pasting text, is there a simple way to purge formatting, and paste just plain text?Say you are copying content and want the text pasted as plain text, without the same style or color. You can always paste to a console window, then re-paste again, but surely there is a better solution? Different answers for Mac/Windows/Linux would be helpful.
+On Mac OS X, Shift-Option-Command-V pastes the clipboard contents using current formatting.    Embed Quote

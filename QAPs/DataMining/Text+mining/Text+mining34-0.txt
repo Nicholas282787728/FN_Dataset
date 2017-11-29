@@ -1,0 +1,2 @@
+★Can Text Mining application be used in Turing machine?
+A Turing Machine is a abstract mechanism for determining computability. I think a sort-of converse works in this case: Text mining applications are computable, therefore they can be implemented in a Turing Machine. But somehow I suspect that you meant to ask a question that is more real-world than the one I read.    Embed Quote

@@ -1,0 +1,1 @@
+How can I define bijection between (0,1) and (0,1]?You can, for example, define a bijection f f such that f(x)={2xxx=12n,otherwise. f(x)={2xx=12n,xotherwise. . 375 Views  View Upvotes

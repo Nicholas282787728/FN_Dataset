@@ -1,0 +1,2 @@
+How do you run predicted probabilities on ordinal regression models?
+In R, you can use 'predict' from the polr() function.  E.g. library(MASS) house.plr <- polr(Sat ~ Infl + Type + Cont, weights = Freq, data = housing) house.plr summary(house.plr, digits = 3) predict(house.plr, housing, type = "p") 

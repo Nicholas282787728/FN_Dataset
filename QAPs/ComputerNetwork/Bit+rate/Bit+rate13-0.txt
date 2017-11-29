@@ -1,0 +1,2 @@
+★Does Dropbox de-duplicates same Mp3 track of 2 different bit rate?I read Dropbox uses de duplication technique to save storage space on S3.
+No, Dropbox will not de-duplicate the same MP3 track of different bitrates, because the hash for each block of the two MP3 files will be different.

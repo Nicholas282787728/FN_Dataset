@@ -1,0 +1,2 @@
+What are some startups in Artificial Intelligence?
+Gamma-two robotics http://www.gamma-two.com/ This is a pair of software engineers that are working on teaching their robot to understand the real world. Focusing on reification, their robot "Basil" is increasingly capable of understanding the difference between a chair and a dinner plate, for instance. Basil currently works as a waiter during art shows, and will hopefully become the basis of many robots that actually perform actions based on their understanding of the world.    Embed Quote 

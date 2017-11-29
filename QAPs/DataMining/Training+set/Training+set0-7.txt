@@ -1,0 +1,2 @@
+★In classification, how do you handle an unbalanced training set?In some cases, you have a lot more examples of one class than of the others. How do you tackle this problem? What are some gotchas to be aware of in this situation?
+M    Embed Quote

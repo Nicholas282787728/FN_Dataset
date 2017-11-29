@@ -1,0 +1,2 @@
+In what proof was Graham's number used or discovered?
+In the following problem in Ramsey theory Connect each pair of geometric vertices of an n-dimensional hypercube to obtain a complete graph on 2n vertices. Colour each of the edges of this graph either red or blue. What is the smallest value of n for which every such colouring contains at least one single-coloured complete subgraph on four coplanar vertices? The answer of course is not Graham's. It is just an upperbound. Look this up on wikipedia 

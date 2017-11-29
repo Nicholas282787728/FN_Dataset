@@ -1,0 +1,2 @@
+What is the most efficient algorithm to find the kth smallest element in an array having n unordered elements?
+Find Kth smallest with K=N/2. Apply partition logic of quicksort algorithm to solve this problem. Select a pivot and put it in the right place at index J using partition logic. If J=K return Jth element. If K<J then recursively solve the first subproblem Otherwise solve the second subproblem recursively. 

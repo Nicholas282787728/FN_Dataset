@@ -1,0 +1,2 @@
+What are some good quotes by Donald Knuth?
+"People who discover the power and beauty of high-level, abstract ideas  often make the mistake of believing that concrete ideas at lower levels  are relatively worthless and might as well be forgotten. (…) on the  contrary, the best computer scientists are thoroughly grounded in basic  concepts of how computers actually work, and indeed that the essence of  computer science is an ability to understand many levels of abstraction  simultaneously" 

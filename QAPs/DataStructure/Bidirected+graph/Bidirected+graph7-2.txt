@@ -1,0 +1,2 @@
+What is the simplest C++ code for Prim's MST algorithm?
+The video given below explains in detail how Prim's algorithm can be coded in Java, however you could use it to write code in c++ by doing some modifications by replacing the syntax, but the logic remains the same. Here is a link to the video tutorial: 

@@ -1,0 +1,2 @@
+★Does the IIT-BHU LAN use DHCP?*DHCP = Dynamic Host Configuration Protocol Dynamic Host Configuration Protocol
+No , it does not. We have to manually set the IP, DNS and Gateway etc

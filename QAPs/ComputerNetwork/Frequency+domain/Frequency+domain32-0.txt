@@ -1,0 +1,2 @@
+★If I apply a Fourier transform on a decaying/rising pure sine signal of frequency f, what value of amplitude do I get in the frequency domain for f? Is it the average amplitude of the signal over the time interval that I'm considering?
+That depends on how it rises or decays. You'll get the frequency component of the fundamental plus the frequency components of the rise or fall profile.

@@ -1,0 +1,1 @@
+What are the main data structures layman's explanation (Array, Stack / Queue, Hashset / Hashmap / Hashtable / Dictionary, Tree / binary tree, Heap, Graph)?

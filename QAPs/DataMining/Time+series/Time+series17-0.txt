@@ -1,0 +1,2 @@
+★What is the best approach for storing time series data?would like to know your experiences with different dbms for storing time series data.
+Cassandra can store the data sorted by TimeUUID. See http://stackoverflow.com/questio... for a discussion on this topic. Since you didn't express your choice of data store, I assume there is a flexibility to select the best fit.    Embed Quote

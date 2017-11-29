@@ -1,0 +1,2 @@
+For a simple hash function h(k) = k mod M, why should M be a prime number?
+This is a myth. For an evenly distributed set of keys, any modulus is as good as a prime. If your keys conform to a pattern, like they are all divisible by N, then you would not choose any multiple of N. 

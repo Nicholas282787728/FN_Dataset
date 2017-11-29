@@ -1,0 +1,1 @@
+Why were the colors of a red-black tree chosen to be red and black?There is no such a right answer but according to the content of R-B tree and the story of facebook why the color of Facebook is blue i can feel it is depend on creators or it is related with color intensity or color blindness . 

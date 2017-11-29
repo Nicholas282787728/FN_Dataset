@@ -1,0 +1,2 @@
+How do I apply the breadth first search algorithm?
+Start from any node, add it to a queue. Then pop the node at the top of the queue and add all nodes connected to this node to the queue. Repeat this until the queue is empty. BFS in contrast to DFS moves level by level. 

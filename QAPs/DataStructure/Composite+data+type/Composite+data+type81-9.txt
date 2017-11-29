@@ -1,0 +1,2 @@
+What are the disadvantages of using Node.js?
+Here's a view from Alex Payne, co-author of the book on Scala. http://al3x.net/2010/07/27/node.... He also presents studies which conclude that event-based model maybe a bad idea for high concurrent servers (http://www.usenix.org/events/hot...) IMO, we should use the model that fits the problem domain and not sway one way or other. 

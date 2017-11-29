@@ -1,0 +1,2 @@
+What are some must-know topics in discrete math and probability for competitive programming?
+An excellent answer you already have here; I'll just add that you can go through TopCoder tutorials (Algorithm Tutorials) and Cookbook forums (TopCoder Forums) to see a lot of the topics you'll need explained in application to TopCoder problems. 

@@ -1,0 +1,2 @@
+How should I store huge numbers (more than 100 digits) in Java and C++?
+Use BigInteger library in Java or bignum library in C++. You can Google the details. Comparatively, BigInteger works in a better way in Java. You can store as large numbers as you want until you run out of memory. Good luck! 

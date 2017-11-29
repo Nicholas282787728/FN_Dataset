@@ -1,0 +1,2 @@
+What are the necessary CS subjects I need to learn to become a software engineer or get placed in a reputed software company? I'm an ECE undergraduate student in my 3rd year of study.
+Among all these courses, I would rather say that better focus on one language ( personal choice is python ) master your skill, be it data structure, GUI programming, web application, development in various open source projects (nmap, Linux etc.) and so on. It's better to focus on something rather than distracting yourself with many subjects. 

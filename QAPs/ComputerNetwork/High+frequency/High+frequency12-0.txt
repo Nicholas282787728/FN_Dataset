@@ -1,0 +1,2 @@
+★Who is bringing High Frequency Trading to the masses?It seems like a limited number of Funds and Firms are doing this now, and the rest of the population is being left out in the cold.  Would it even be feasible to bring some sort of high speed algo platform to average people?
+IB is not suitable for HFT due to its latency in order confirmations. It does not allow colocation either. On the other hand, Lime Brokerage is designed for HFT.

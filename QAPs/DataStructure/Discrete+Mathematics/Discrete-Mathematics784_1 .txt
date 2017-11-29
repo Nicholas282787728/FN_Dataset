@@ -1,0 +1,1 @@
+Can you prove O(log(n!))=O(nlogn)  O(log⁡(n!))=O(nlog⁡n) ?Yes, it follows because n! n! grows more slowly than nn nn : O(log(n!))=O(log(nn))=O(nlog(n)) O(log(n!))=O(log(nn))=O(nlog(n)) 2.1k Views  View Upvotes

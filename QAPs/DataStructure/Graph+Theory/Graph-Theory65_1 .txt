@@ -1,0 +1,1 @@
+How can we make one cut in a graph such that all vertices are connected to one another in both sides?Since you are doing codechef long contest and contest is still running…..I will just post a hint. Take complement of the graph and check if it is bipartite or not. Complement means if 1—-2——-3 then complement will be 1———3 and 2. 39 Views · View Upvotes · Answer requested by Parth

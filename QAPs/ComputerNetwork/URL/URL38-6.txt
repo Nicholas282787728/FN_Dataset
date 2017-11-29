@@ -1,0 +1,2 @@
+★What are SEO-friendly URLs, and why are they used?
+SEO friendly URLs are purely structural URLs that don't contain query string and instead contain only the path of the resource.    Embed Quote

@@ -1,0 +1,2 @@
+★How does WiFi work?
+Wireless network is a lot like two-way radio communication. Here's what happens: A computer's wireless adapter translates data into a radio signal and transmits it using an antenna. A wireless router receives the signal and decodes it. The router sends the information to the Internet using a physical, wired Ethernet connection.Answer put up in very simple words.    Embed Quote

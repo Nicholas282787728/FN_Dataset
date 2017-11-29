@@ -1,0 +1,2 @@
+★Support Vector Machines: What is the best way to implement an SVM using Hadoop?
+There is an implementation of R in Hadoop called RHadoop. You just have to install R in all of your clusters and then install 3 packages (Rmr, Rhdfs, Rhbase) and you are good to go. This firm, Revolution Analytics, has essentially re-written the R engine to support parallel processing and you can run e1071 or any other relevant SVM packages on RHadoop. PS: I am not associated with Revolution Analytics in any way.    Embed Quote

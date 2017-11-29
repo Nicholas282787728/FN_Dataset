@@ -1,0 +1,2 @@
+★How much does a Class A (2^24 addresses) IPv4 network address space cost?
+ARIN's fee schedule is here: Fee Schedule

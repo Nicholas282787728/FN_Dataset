@@ -1,0 +1,2 @@
+Can a parabolic reflector focus at different points based on which direction the signal is coming from?
+Phased array antennas are the usual solution to focusing a stationary device in different directions or at different points. Arecibo Observatory  has a movable receiver/transmitter which works in conjunction with a spherical curvature of the reflector surface to allow a viewing cone of about 40 degrees. Neither the phased array nor the movable collector lend themselves to a solar power receiver 

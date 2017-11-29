@@ -1,0 +1,1 @@
+Can decision trees predict with 2 attributes?Yes, sure :). To give you a hands-on example, this would be a CART decision tree on 2 attributes of the Iris dataset: 745 Views  View Upvotes  Answer requested by Audioo Alief Kautsar Hartama

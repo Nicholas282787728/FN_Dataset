@@ -1,0 +1,2 @@
+★What is the best way to train a SVM on a very large dataset?
+You should try out LIBLINEAR    Embed Quote

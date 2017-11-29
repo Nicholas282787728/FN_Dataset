@@ -1,0 +1,2 @@
+★What is a coder's worst nightmare?
+Trying to gather application design / business requirements from a product owner without a project manager or business analyst.  It can be done, but you'll often fall into this trap if you try to do more than one job great:

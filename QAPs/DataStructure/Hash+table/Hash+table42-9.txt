@@ -1,0 +1,2 @@
+Why doesn't C also provide default implementations for linked lists, trees, hash tables, sorting, etc. like Java does?
+Many people have done so, but the usage is a bit clumsy as C doesn't have any good templating (macros are not good templating.  Heck, templates are not good templating). So while you can tack on libraries that do those things, their linkage to the actual data objects tends to be clumsy and fragile.    Also in C yo often need a small and simple implementation, and general-purpose libraries tend to be not. 381 Views · 3 Upvotes

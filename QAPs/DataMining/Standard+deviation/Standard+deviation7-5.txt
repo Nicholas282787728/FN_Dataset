@@ -1,0 +1,2 @@
+★Why we should use standard deviation over mean? What type of problems can we solve with standard deviation?Please give some practical example .Thanks
+Consider these two sets of numbers: A: 10 11 12 13 14 B: 8 10 12 14 16 They both have mean 12, but they are not the same. How? The numbers in A are close to the mean, but the numbers in B are (typically) further away. The standard deviation will be larger for B than for A to reflect this.    Embed Quote

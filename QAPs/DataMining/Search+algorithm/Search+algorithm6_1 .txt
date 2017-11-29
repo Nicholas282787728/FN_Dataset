@@ -1,0 +1,1 @@
+What is Complete Search Algorithm?该网页不存在附加信息...Complete has nothing to do with the type of algorithm it is, it doesn't even have to be a search algorithm. Complete means that the algorithm in question addresses all possible inputs. Completeness (logic) 

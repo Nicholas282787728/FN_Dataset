@@ -1,0 +1,2 @@
+I have to make a working model for physics for class 12 CBSE. How do I go about it?
+I haven't made any in class 12 but if you are allowed to use school's lab equipment, you can demonstrate Faraday's experiments in electromagnetic induction. The experiment and it's explanation is given in detail in NCERT . You have also read a bit about it in Class X 

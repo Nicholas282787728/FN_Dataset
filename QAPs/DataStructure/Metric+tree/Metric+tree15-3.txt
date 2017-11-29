@@ -1,0 +1,2 @@
+How does one physically make a CPU?
+In very simplistic terms, you first put the abstract terms into RTL form (VHDL or Verilog normally, unless you are going to use higher level languages), then "physical synthesis" converts the RTL into gates, and then you optimize for power as well as area (performance is taken care of in RTL writing as well as synthesis), while doing simulations on the RTL as well as the gate netlist to confirm functionality as well as performance. In the end, you plug it into a package (unless it is part of an SoC) and send out the chip for use. 

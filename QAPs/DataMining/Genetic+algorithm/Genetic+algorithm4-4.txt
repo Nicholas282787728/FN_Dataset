@@ -1,0 +1,2 @@
+★What are some practical applications of genetic algorithms?
+Looks like NASA used to apply genetic algorithms to identifying different types of lightning based on the data gathered by FORTE satellites. See this paper from 2002: http://public.lanl.gov/jt/Papers...    Embed Quote

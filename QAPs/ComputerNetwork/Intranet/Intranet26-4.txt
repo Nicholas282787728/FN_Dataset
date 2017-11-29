@@ -1,0 +1,2 @@
+★Which is best for a corporate intranet, WordPress, MediaWiki, or Open Atrium?
+Open Atrium is a Drupal distribution that works as a base for Intranet Solutions. It provides Groups as Team spaces and many other Features for collaboration in an Intranet. As Drupal is very flexible for web application development, you can use Open Atrium as a base and extend the features you need without coding.

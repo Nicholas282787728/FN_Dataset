@@ -1,0 +1,2 @@
+How do I map one set of Cartesian coordinates to another set of Cartesian coordinates?
+This is a classic application of R-tree indexes.  Oracle and PostgreSQL (Documentation: 8.1: Index Types) have R-tree indexes, so you may want to investigate them. Here's a bit of a tutorial explaining how to use them: Tutorial - Rtree 0.7.0 documentation. 

@@ -1,0 +1,2 @@
+★Where can I get the book written by M. I. Jordan: Introduction to Graphical Models, and An Introduction to Probabilistic Graphical Models?I have tried the MIT website : Page on mit.edu but i don't have permission to access /yks/documents/classes/mlbook/pdf/ on that server (Apache/2.2.22 (Ubuntu) Server at People | MIT CSAIL Port 80).
+Just Google search with all possible combination of keywords related  to title and author. I managed to get few chapters, from courses being taught at some universities where they share pdf of these from authors permission.    Embed Quote

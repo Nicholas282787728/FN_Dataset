@@ -1,0 +1,2 @@
+Has C recently introduced dynamic stack memory allocation?
+Probably I found the answer through a bit of Googleing. C99 supports this. Previous C compilers didn't support it. Although this is not exactly dynamic as the array is allocated in stack instead of heap. Courtesy: Page on stackoverflow.com 

@@ -1,0 +1,2 @@
+★What are the standard texts on linear regression?
+Applied Linear Statistical Models by Kutner, Nachtsheim, Neter, and Li Regression Analysis by Example by Chatterjee and Hadi    Embed Quote

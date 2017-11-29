@@ -1,0 +1,2 @@
+★HTML: What is HTML?
+HTML is the HyperText Markup Language, the document standard of the World Wide Web. See http://www.w3.org/TR/html401/

@@ -1,0 +1,18 @@
+The concept of data warehousing dates back to the late 1980s[11] when IBM researchers Barry Devlin and Paul Murphy developed the "business data warehouse". In essence, the data warehousing concept was intended to provide an architectural model for the flow of data from operational systems to decision support environments. The concept attempted to address the various problems associated with this flow, mainly the high costs associated with it. In the absence of a data warehousing architecture, an enormous amount of redundancy was required to support multiple decision support environments. In larger corporations, it was typical for multiple decision support environments to operate independently. Though each environment served different users, they often required much of the same stored data. The process of gathering, cleaning and integrating data from various sources, usually from long-term existing operational systems (usually referred to as legacy systems), was typically in part replicated for each environment. Moreover, the operational systems were frequently reexamined as new decision support requirements emerged. Often new requirements necessitated gathering, cleaning and integrating new data from "data marts" that were tailored for ready access by users.
+
+Key developments in early years of data warehousing were:
+
+1960s 每 General Mills and Dartmouth College, in a joint research project, develop the terms dimensions and facts.[12]
+1970s 每 ACNielsen and IRI provide dimensional data marts for retail sales.[12]
+1970s 每 Bill Inmon begins to define and discuss the term: Data Warehouse.[citation needed]
+1975 每 Sperry Univac introduces MAPPER (MAintain, Prepare, and Produce Executive Reports) is a database management and reporting system that includes the world's first 4GL. First platform designed for building Information Centers (a forerunner of contemporary data warehouse technology)
+1983 每 Teradata introduced the DBC/1012 database computer specifically designed for decision support.[13]
+1984 每 Metaphor Computer Systems, founded by David Liddle and Don Massaro, released a hardware/software package and GUI for business users to create a database management and analytic system.
+1985 - Sperry Corporation publish an article (Martyn Jones and Philip Newman) on information centres, where they introduce the term MAPPER data warehouse in the context of information centres.
+1988 每 Barry Devlin and Paul Murphy publish the article An architecture for a business and information system where they introduce the term "business data warehouse".[14]
+1990 每 Red Brick Systems, founded by Ralph Kimball, introduces Red Brick Warehouse, a database management system specifically for data warehousing.
+1991 每 Prism Solutions, founded by Bill Inmon, introduces Prism Warehouse Manager, software for developing a data warehouse.
+1992 每 Bill Inmon publishes the book Building the Data Warehouse.[15]
+1995 每 The Data Warehousing Institute, a for-profit organization that promotes data warehousing, is founded.
+1996 每 Ralph Kimball publishes the book The Data Warehouse Toolkit.[16]
+2012 每 Bill Inmon developed and made public technology known as "textual disambiguation". Textual disambiguation applies context to raw text and reformats the raw text and context into a standard data base format. Once raw text is passed through textual disambiguation, it can easily and efficiently be accessed and analyzed by standard business intelligence technology. Textual disambiguation is accomplished through the execution of textual ETL. Textual disambiguation is useful wherever raw text is found, such as in documents, Hadoop, email, and so forth.

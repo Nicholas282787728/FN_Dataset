@@ -1,0 +1,2 @@
+★How do you calculate backprop in unsupervised learning?
+Generally speaking, unsupervised learning with neural nets is done with auto encoders or something similar. In these cases, you are training the neural net to output whatever the input is. So, technically it is supervised learning, where the output equals the input, and the back propagation is calculated as is done in any normal supervised learning on neural nets.    Embed Quote

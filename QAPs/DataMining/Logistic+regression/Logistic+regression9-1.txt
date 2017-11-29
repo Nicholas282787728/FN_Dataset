@@ -1,0 +1,2 @@
+★How to apply cross-validation to logistic regression?
+Is that called cross-validationNo! Remember: testing set is sacred. Once you test your model on the testing set, you can't go back and tune it. Cross-validation is performed on the training set, so that you can change the parameters of your model afterwards without the risk of overfitting it; see e.g. how k-fold CV is explained here.    Embed Quote

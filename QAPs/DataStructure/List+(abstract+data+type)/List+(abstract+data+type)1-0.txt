@@ -1,0 +1,2 @@
+Are linked lists data structures or abstract data types? Why?
+Excellent question!  A linked list is an implementation of some abstraction, the simplest being that of a finite sequence.  A data structure is an abstraction described by an interface (api) for acting on unknown data.  An algorithm is an implementation of an abstraction such as a data structure.  These two concepts have usually been confused in CS education. Updated 1w ago • View Upvotes

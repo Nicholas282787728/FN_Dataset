@@ -1,0 +1,1 @@
+Why is the deletion of elements of a hash table using a doubly-linked list in O(1)?On CLRS's textbook "Introduction to Algorithm",says we can delete an element in O(1) time if the lists are doubly linked. I do not get it how it differs from singly in case of deletion.

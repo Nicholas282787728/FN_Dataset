@@ -1,0 +1,12 @@
+This example shows a Postgres connection string for connecting to wikipedia.com with SSL and a connection timeout of 180 seconds:
+DRIVER={PostgreSQL Unicode};SERVER=www.wikipedia.com;SSL=true;SSLMode=require;DATABASE=wiki;UID=wikiuser;Connect Timeout=180;PWD=ashiknoor
+Users of Oracle databases can specify connection strings:
+on the command-line (as in: sqlplus scott/tiger@connection_string ) via environment variables ($TWO_TASK in Unix-like environments; %LOCAL% in Microsoft Windows environments)[1] in local configuration files (such as the default $ORACLE_HOME/network/admin.tnsnames.ora)[2] in LDAP-capable directory services
+This example shows a Postgres connection string for connecting to wikipedia.com with SSL and a connection timeout of 180 seconds:
+DRIVER={PostgreSQL Unicode};SERVER=www.wikipedia.com;SSL=true;SSLMode=require;DATABASE=wiki;UID=wikiuser;Connect Timeout=180;PWD=ashiknoor
+Users of Oracle databases can specify connection strings:
+on the command-line (as in: sqlplus scott/tiger@connection_string ) via environment variables ($TWO_TASK in Unix-like environments; %LOCAL% in Microsoft Windows environments)[1] in local configuration files (such as the default $ORACLE_HOME/network/admin.tnsnames.ora)[2] in LDAP-capable directory services
+This section requires expansion. (March 2010)
+The empty string is a syntactically valid representation of zero in positional notation (in any base), which does not contain leading zeros. Since the empty string does not have a standard visual representation outside of formal language theory, the number zero is traditionally represented by a single decimal digit 0 instead.
+Zero-filled memory area, interpreted as a null-terminated string, is an empty string.
+Empty lines of text show the empty string. This can occur from two consecutive EOLs), as often occur in text files, and this is sometimes used in text processing to separate paragraphs, e.g. in MediaWiki.

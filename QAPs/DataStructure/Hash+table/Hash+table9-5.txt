@@ -1,0 +1,2 @@
+How do I implement hash table and hash map in c++?
+Originally Answered: How can I implement hashing through c++? I am confused in creating a hash map, hash table?Do you really want to create it ? You have unordered_map to use with O(1) complexity for average case.   If you really want to implement one, you need to decide on a lot of factors.   Your data begin the most import aspect. How sparse is your data ? What is the range ?  How bad is collision for you ? How do you want you map function ?  Many more . Google will help you here . 1.8k Views

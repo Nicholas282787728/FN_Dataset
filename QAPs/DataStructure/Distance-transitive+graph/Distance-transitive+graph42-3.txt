@@ -1,0 +1,2 @@
+How can I learn to think faster while solving algorithmic/coding problems? How can I better visualize and solve the coding problems?
+Learn more algorithms and data structures, or more widely, computer science knowledge. Compared with a program using bubba sort, a program using quick sort is less likely to exceed time limit. A well-designed data structure may be helpful to describe the problem. Sometimes it's only that you haven't come across an important definition. So I'd like to repeat Shreyas Raman's advice, Read & Practice! 

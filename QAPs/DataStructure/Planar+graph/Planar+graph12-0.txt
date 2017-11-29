@@ -1,0 +1,2 @@
+Let [math]G[/math] be a planar graph. How can I prove that after performing an edge contraction on [math]G[/math], [math]G[/math] will be still planar?
+Assume false. Then if performing an edge contraction G->G' on the graph G makes G'' nonplanar there must be a nonplanar subgraph G'' of G'. But by definition G'' is a nonplanar subgraph of G, making G not a planar graph. Reductio ad absurdum, G' (the edge contraction) is also planar. 

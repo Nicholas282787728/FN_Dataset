@@ -1,0 +1,2 @@
+★How do I programatically change a MAC address or send Ethernet dataframes with a different source MAC address?
+A VPN can hide your IP address, and show another IP. You can use FlyVPN's free accounts http://www.flyvpn.com/freetrial .    Embed Quote

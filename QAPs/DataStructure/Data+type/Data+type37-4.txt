@@ -1,0 +1,2 @@
+How do you Explain "Abstract Data Types" in layman terms?
+An abstract data type is a grouping of bits (by having a NAME) for a particular purpose (allowing a pre-defined set of operations). The term is not really well-defined, because depending on your language it either relates to the machine or it relates to something abstract.  And herefrom we have 50 years of Confused Computer Science. 1.3k Views · 2 Upvotes

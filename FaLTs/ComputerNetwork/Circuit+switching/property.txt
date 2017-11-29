@@ -1,0 +1,7 @@
+Circuit switching contrasts with packet switching which divides the data to be transmitted into small units, called packets, transmitted through the network independently. Packet switching shares available network bandwidth between multiple communication sessions.
+
+Multiplexing multiple telecommunications connections over the same physical conductor has been possible for a long time, but nonetheless each channel on the multiplexed link was either dedicated to one call at a time, or it was idle between calls.
+
+In circuit switching, a route and its associated bandwidth is reserved from source to destination, making circuit switching relatively inefficient since capacity is reserved whether or not the connection is in continuous use.
+
+In contrast, packet switching is the process of segmenting data to be transmitted into several smaller packets. Each packet is labeled with its destination and a sequence number for ordering related packets, precluding the need for a dedicated path to help the packet find its way to its destination. Each packet is dispatched independently and each may be routed via a different path. At the destination, the original message is reordered based on the packet number to reproduce the original message. As a result, datagram packet switching networks do not require a circuit to be established and allow many pairs of nodes to communicate concurrently over the same channel.

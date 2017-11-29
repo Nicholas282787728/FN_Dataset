@@ -1,0 +1,2 @@
+★How do you prove non-linear functions using the epsilon-delta definition of limits?I'm having trouble following examples as there is not enough dialogue as to how certain steps are made and why. For example, prove that .
+OK. Some hints. If then or, adding 6 to the expression: When , and You should be able to close the remaining gaps from there. There is some creativity involved in these sorts of questions, but the basic idea is to express f(x)-L in terms of x-c, get an upper bound on the rest of it, and then set as a convenient fraction of .    Embed Quote

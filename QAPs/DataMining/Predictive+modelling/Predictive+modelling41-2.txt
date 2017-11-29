@@ -1,0 +1,2 @@
+★What are the good ways to process unstructured data into structured data to build predictive model?
+i really need to know the answer. I have unstructured data for predictive analytics but I can't recognize that the data. any help ???    Embed Quote

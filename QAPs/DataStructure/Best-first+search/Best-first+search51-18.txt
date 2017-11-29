@@ -1,0 +1,2 @@
+What are the top 10 algorithms every software engineer should know by heart?
+Bubble sort, or in-place insertion sort (or any O(n^2) sort). Quick sort or merge sort (or any O((log n) * n) sort). Building and searching a balanced binary tree (or any tree construction and traversal methods). Building and using a hash table. Finding an optimal hash for a static hash table. Approximate optimization (or search) by bifurcation (binary search). Dijkstra’s Algorithm (or any other graph search algorithms). LU decomposition (any method).... (more)

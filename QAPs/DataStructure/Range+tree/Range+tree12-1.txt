@@ -1,0 +1,2 @@
+What is the best way of finding mean of a stream at any point?
+You can use augmented balanced trees, binary indexed trees or range trees to solve this kind of range query problems. 

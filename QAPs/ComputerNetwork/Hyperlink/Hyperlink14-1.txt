@@ -1,0 +1,2 @@
+★In Streak for Gmail, is there a way to add hyperlinks to a column?When I put the hyperlink in a column (Notes, Free Form), it doesn't turn into a link.
+Ya absolutely, just add ahref tag in td....    Embed Quote

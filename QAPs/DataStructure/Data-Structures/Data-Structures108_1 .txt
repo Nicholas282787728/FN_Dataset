@@ -1,0 +1,1 @@
+How do I insert multiple data in a single node of linked list using STL?The push_back() function is used to insert only single data. So, how can I add multiple data in a single node?make a link of a structure. give the structure name as the data type at the time of creation of link list. insert data in a temporary structure. Then push back that structure. 44 Views

@@ -1,0 +1,2 @@
+★What is a good algorithm to interpolate missing time-series data?
+The above suggested methods are non-parametric since they do not assume an underlying data generating process. If you can assume the process, then you can use likelihood methods to calibrate the process, and then impute your missing values with their estimated means. A likelihood approach might coincide with some of the above methods for simple data generating processes, but this is not the case in general.    Embed Quote

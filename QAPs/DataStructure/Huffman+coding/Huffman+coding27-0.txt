@@ -1,0 +1,2 @@
+What is the maximum possible word length for a Huffman code?
+it depends on the frequency of the word in the string plus how tree is formed for finding compressed version of the letter or character. still if we think. H is a height of a tree. N is numbers of nodes. H= floor( lg(N) ) = ceil( (lg(N+1) - 1) ) //as H is integer so a approx. word of length H can be formed. 136 Views

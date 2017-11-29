@@ -1,0 +1,1 @@
+What is the maximum number of comparisons that a binary search function will make when searching for a value in a 1,000 - element array?1000 element for a binary search tree implies there are 11 levels (root + 10 layers by rounding up log2 1000) meaning there are 10 comparisons to be made before reaching the bottom of the tree Do correct me if I am wrong 7.3k Views

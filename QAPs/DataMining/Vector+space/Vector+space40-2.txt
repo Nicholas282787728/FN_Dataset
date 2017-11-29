@@ -1,0 +1,2 @@
+★In linear algebra, when proving V is a vector space, instead of doing all of the ten properties, if V is closed under addition and is closed under scaler multiplication, can I stop there and say that V must be a vector space?Lets just say V is the set of all 2x2 matrices A=[a b 2b d](that is a 2 by 2 matrix). let + be standard addition and standard scalar multiplication .Can you please show me the simplest way to show if V is a vector space
+No.    Embed Quote

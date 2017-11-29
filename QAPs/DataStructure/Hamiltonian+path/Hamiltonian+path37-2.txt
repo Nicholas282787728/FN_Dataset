@@ -1,0 +1,1 @@
+What is a good solution to the datacenter cooling problem on the Quora Challenges page?The first challenge here: http://www.quora.com/about/chall... See: What are the effective heuristics that can be applied to #p-complete problems, for finding the number of Hamiltonian paths in rectangular grids?

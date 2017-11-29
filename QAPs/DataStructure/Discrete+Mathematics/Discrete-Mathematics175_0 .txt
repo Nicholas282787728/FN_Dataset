@@ -1,0 +1,1 @@
+How do I find the negation of the statement (P∧¬R)⟺Q  (P∧¬R)⟺Q ?Double implication simply says that it is true when both are true or when both are false. Also we have if  P⇔Q  P⇔Q , then negation is ¬P⇔Q  ¬P⇔Q ¬(P∧¬R)  ¬(P∧¬R) ≡(¬P∨R)  ≡(¬P∨R) So answer to your question is:- (¬P∨R)⇔Q  (¬P∨R)⇔Q 75 Views · View Upvotes · Answer requested by Abhirikshma Nandi

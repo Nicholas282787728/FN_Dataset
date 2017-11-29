@@ -1,0 +1,2 @@
+★What is an optimum frequency, if any, for a low-frequency oscillator that is used during sleep mode?When MCUs go into a low-power sleep mode, they rely on a low-frequency oscillator. It is usually 32Khz based on my experience. How is this frequency determined as the most appropriate? Why not 1Khz since it may lead to lower power? Why not an odd number like 17Khz?
+Because 2^15 is 32768, so having a 32768 Hz crystal makes math easier. Bit 15 toggles at 1 Hz, bit 14 at 2 Hz, bit 13 at 4 Hz, etc.    Embed Quote

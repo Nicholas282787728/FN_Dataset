@@ -1,0 +1,2 @@
+★How to normalize url in python?
+The standard way is to replace space with "+". Also for instances of the character "+", you can replace them with "%2B". If you use any framework, this should be done automatically.    Embed Quote

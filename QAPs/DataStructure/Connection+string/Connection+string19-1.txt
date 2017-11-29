@@ -1,0 +1,2 @@
+What happens if a string connecting a heavy object and a merry-go-round is cut when it is rotating?
+I assume the body is floating in the air while the string is not cut. Once you cut the string, there is no more a radial force acting on the heavy object. So, it will not continue in circular motion. However, it has a tangential velocity, which will make it fly in a tangential direction. The gravity converts it into a projectile motion. 

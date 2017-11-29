@@ -1,0 +1,2 @@
+★What is the fastest algorithm to find whether a string can be converted to desired string in exactly k steps, using adjacency matrix?
+Sorry,  It is a question from an ongoing contest. Will answer it after the contest is over :)    Embed Quote

@@ -1,0 +1,2 @@
+★What is meant by a generic web page exactly?
+We use the term to describe a template that works for multiple pages where the content works around the layout (Terms, Cookie Policy, Privacy etc.) as opposed to bespoke designs (Homepage, Contact, custom landing page etc).    Embed Quote

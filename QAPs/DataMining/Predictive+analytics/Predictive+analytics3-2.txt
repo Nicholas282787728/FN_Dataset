@@ -1,0 +1,2 @@
+★What are the most significant challenges and opportunities in predictive analytics?
+Moving from reporting to making decisions and even automated decisions (such as changing bids for 5MM keywords every day), and measuring lift and ROI of analytics. Also getting better at using data found on the web, and assessing data quality. Also read my post at http://www.analyticbridge.com/xn...    Embed Quote

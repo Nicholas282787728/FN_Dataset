@@ -1,0 +1,2 @@
+★Why is logistic regression considered a linear model?
+Don't get confused by the sigmoid transformation.. The logit is a linear linear equation, hence logistic regression is a linear model.    Embed Quote

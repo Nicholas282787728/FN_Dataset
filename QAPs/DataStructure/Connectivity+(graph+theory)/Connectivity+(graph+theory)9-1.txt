@@ -1,0 +1,2 @@
+What is an intuitive explanation of Prim's algorithm?
+Prim's algorithm is used to find the MST(Minimum Spanning Tree) in a given graph. To better understand Prim's algorithm you might refer to the video given below which explains Prim's algorithm in detail: Here is a link to the video which explains how Prim's algorithm can be implemented in Java: 

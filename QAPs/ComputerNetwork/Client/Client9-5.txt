@@ -1,0 +1,2 @@
+★What is the best IM client on Ubuntu?Web apps included
+Empathy nowadays is much better than Pidgin because connects easily to facebook too. Pidgin doesn't. But the problem is that neither connect to skype.

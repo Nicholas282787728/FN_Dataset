@@ -1,0 +1,2 @@
+★How we can use radio frequency for distance measurement?
+Lots of ways.  You can send out a short burst of radio waves and listen for an echo.  Or you can send out a continuous signal that is varying in frequency and measure the difference between the outgoing frequency and the incoming one (which is delayed and therefore a bit different ).    Or you can send out a long chirp of varying frequency and in the receiver have a time-delay filter that reconstitutes the chirp into a sharp pulse.    Embed Quote

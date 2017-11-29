@@ -1,0 +1,1 @@
+If f(f(x))=x 2 −1  , what is f(x)  ?Obviously there are an infinite many solutions, but just one will suffice :P

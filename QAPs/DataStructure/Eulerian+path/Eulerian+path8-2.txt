@@ -1,0 +1,2 @@
+Are there good websites where you can find short and efficient implementation for algorithms and data structures in C++?We all know how understanding algorithms and data structures in theory is simple, but when it comes to implementing them it might be a little difficult. Is there a place where I can find efficient and short code with built in libraries and short-cuts used for algorithms and DS implementation?
+For code snippets : Data Structures - GeeksforGeeks For built-in libraries : C++ Documentation Containers library 

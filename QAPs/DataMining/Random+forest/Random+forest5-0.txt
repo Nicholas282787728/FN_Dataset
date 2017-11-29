@@ -1,0 +1,2 @@
+★Classification (machine learning): What are good libraries for random forest?Like in linear classification we have Liblinear and Vowpal Wabbit.
+I use random forest contained in scikit-learn. scikit-learn: machine learning in Python    Embed Quote

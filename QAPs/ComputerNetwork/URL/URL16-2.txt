@@ -1,0 +1,2 @@
+★What is the difference between a URL and a URI?
+Henry Thompson's What's a URI and Why Does it Matter (http://www.ltg.ed.ac.uk/~ht/What... ) could be a useful source of insight, particularly because it's careful to distinguish between "the official version" and the "actual state of play" [hopefully will update this answer as I get a better grip of things]. For what's worth, it seems that you can stop saying URL now; common practice just hasn't caught up with the W3C yet.    Embed Quote

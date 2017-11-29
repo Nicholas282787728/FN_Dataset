@@ -1,0 +1,41 @@
+Although the basic idea of binary search is comparatively straightforward, the details can be surprisingly tricky�?�?Donald Knuth[6]
+When Jon Bentley assigned it as a problem in a course for professional programmers, he found that an astounding ninety percent failed to code a binary search correctly after several hours of working on it,[7] and another study shows that accurate code for it is only found in five out of twenty textbooks.[8] Furthermore, Bentley's own implementation of binary search, published in his 1986 book Programming Pearls, contains an error that remained undetected for over twenty years.[9]
+Example pseudocode for top down merge sort algorithm which uses recursion to divide the list into sub-lists, then merges sublists during returns back up the call chain.
+function merge_sort(list m)
+    // if list size is 0 (empty) or 1, consider it sorted and return it
+    // (using less than or equal prevents infinite recursion for a zero length m)
+    if length(m) <= 1
+        return m
+    // else list size is > 1, so split the list into two sublists
+    var list left, right
+    var integer middle = length(m) / 2
+    for each x in m before middle
+         add x to left
+    for each x in m after or equal middle
+         add x to right
+    // recursively call merge_sort() to further split each sublist
+    // until sublist size is 1
+    left = merge_sort(left)
+    right = merge_sort(right)
+    // merge the sublists returned from prior calls to merge_sort()
+    // and return the resulting merged sublist
+    return merge(left, right)
+In this example, the merge function merges the left and right sublists.
+function merge(left, right)
+    var list result
+    while length(left) > 0 or length(right) > 0
+        if length(left) > 0 and length(right) > 0
+            if first(left) <= first(right)
+                append first(left) to result
+                left = rest(left)
+            else
+                append first(right) to result
+                right = rest(right)
+        else if length(left) > 0
+            append first(left) to result
+            left = rest(left)
+        else if length(right) > 0
+            append first(right) to result
+            right = rest(right)
+    end while
+    return result

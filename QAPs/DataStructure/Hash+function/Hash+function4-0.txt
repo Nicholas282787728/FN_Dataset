@@ -1,0 +1,2 @@
+Which is the fastest yet "random" hash function?
+If you're looking for good randomness and high performance, but don't care about security, you should check out the Mersenne Twister (http://en.wikipedia.org/wiki/Mer...). The article links to a Java implementation. 

@@ -1,0 +1,2 @@
+My calculus teacher said that it's impossible to integrate the function sin(x 2 )  . How, then, is my TI-84 graphing calculator able to find the area underneath its curve between two points?
+What your teacher meant is that ∫sinx 2 dx  cannot be expressed in closed form in terms of elementary functions. Obviously the function is integrable, since it is continuous. 

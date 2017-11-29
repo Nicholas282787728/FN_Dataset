@@ -1,0 +1,2 @@
+★What's the best email client for Mac OS X?
+There's Inky - Smart, Simple, Safe Email. - which I think is one of the most forward-thinking and UI-focused email clients for OS X. It's a little buggy right now, but I have high hopes for it in the future. It's also cross-platform, which means you can have the same client on your Windows and OS X machines if you want.

@@ -1,0 +1,2 @@
+Object-Oriented Programming: Is it possible to learn Java without learning C/C++?
+I heard and read also in many books that one can learn Java without learning C and C++. But I strongly recommend to follow path of C, C++ and then Java. It's always good idea to understand basics of Procedural and Object oriented programming by studying in-depth knowledge of C and C++ respectively before moving to Java. It's bit long route but definitely it will help you to go long way...! After all it's my suggestion. Choice is yours...! 

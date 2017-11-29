@@ -1,0 +1,2 @@
+★What is the best Python library for Hidden Markov Models?
+PyMC and scikit-learn.    Embed Quote

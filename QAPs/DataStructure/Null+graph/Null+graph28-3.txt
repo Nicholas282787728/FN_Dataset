@@ -1,0 +1,2 @@
+How can one go about drawing the graph of [math]y = x \sin (\pi x)[/math]?
+thanks for a2a :) 

@@ -1,0 +1,2 @@
+What are your favorite tricks or hidden features of OCaml that you use?
+Functional update of a record: let a = { x = 1; y = 2 }let b = { a with y = 3 } b is a copy of a with a different value for field y. This feature is not particularly hidden, but I wish it existed in other languages such as JavaScript. 

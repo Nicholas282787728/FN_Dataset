@@ -1,0 +1,2 @@
+How can one be well prepared to answer data structure/algorithm questions in interviews?
+Originally Answered: What is the best way to prepare data structure for an interview?A2A This may be overkill, but try How to prepare for research, a data structures example. by J. Lee Anthony on How to get into the University of your choice. 

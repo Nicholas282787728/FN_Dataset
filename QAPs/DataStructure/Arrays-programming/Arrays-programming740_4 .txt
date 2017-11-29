@@ -1,0 +1,1 @@
+How do I find the max value of an array after several updates?You can get max or min index / value using a vector by max_element or min_element function. 209 Views

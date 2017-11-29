@@ -1,0 +1,2 @@
+What is the huffman coding?
+Hauffman encoding is a lossless data compression algorithm. It is used to efficiently encode characters into bits. It is a tree based encoding in which one starts at the root of the tree and searches the path till it end up a the leaf. The value at that leaf is the character represented by the encoded bits. 394 Views · 2 Upvotes

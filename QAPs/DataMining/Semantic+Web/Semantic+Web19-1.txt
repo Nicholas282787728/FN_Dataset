@@ -1,0 +1,2 @@
+★What are the current research areas in semantic web?
+The best way to find the current research areas would be to look at the call for papers (CFP) in Semantic Web focused conferences - primarily ISWC and ESWC: 1) Call for Research Papers - ISWC 2013 2) Call for Papers - ESWC 2013 Here's few research topics: Scalable reasoning Stream reasoning Semantic Sensor Networks Query processing of Semantic Data Visualization/UI for LOD Social Semantic Web Ontology based information extraction    Embed Quote

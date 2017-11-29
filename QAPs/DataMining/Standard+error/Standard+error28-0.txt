@@ -1,0 +1,2 @@
+★How can I show a  standard error page instead of an SQL error when a MySQL query fails on  my site?PHP codebase. This is a follow-up question to How do I make users see a default error page whenever they type an invalid URL on my website?.
+If your php PHP SQL client throws Exceptions exceptions (like a PDOExceptionPDOException) when there are mysql MySQL errors, just put it in try-catch block and show the error page.

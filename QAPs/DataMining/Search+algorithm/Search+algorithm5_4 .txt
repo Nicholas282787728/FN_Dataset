@@ -1,0 +1,1 @@
+What are the most popular Nearest Neighbor Search algorithms?Follow-up question: Which nearest neighbor search algorithms run in logarithmic time, or which is the fastest NNS algorithm for large 2D data space?I guess a Hilbert Curve (Hilbert curve) map would be a good approach - if data is not modified often. After the 2D -> 1D mapping you do a linear search. 

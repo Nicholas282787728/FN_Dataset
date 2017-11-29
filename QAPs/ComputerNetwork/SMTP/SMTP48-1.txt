@@ -1,0 +1,2 @@
+★What's an SMTP server that has a reliable deliverability for personal emails?
+Depending on your sending volume you may consider Transactional Email. They are the best but tailor to companies that have higher volume    Embed Quote

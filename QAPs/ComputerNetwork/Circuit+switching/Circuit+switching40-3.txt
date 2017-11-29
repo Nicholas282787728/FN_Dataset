@@ -1,0 +1,2 @@
+★When Cisco was founded, why were packet switched routers considered to be inferior to the existing technology?
+As I was running one of those 'carriers' in those days (actually a small ISP ;), here's my $0.02 - the bandwidth (particularly international one) was so expensive in those days (and the QoS features so rudimentary they were mostly useless) that you were forced to implement per-usage billing to make people think about the results of their actions.

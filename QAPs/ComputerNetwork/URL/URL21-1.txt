@@ -1,0 +1,2 @@
+★Why does Quora expose my plaintext password as an URL variable?
+Can't repro. They seem to be doing it right -- HTTP POST over SSL (https).    Embed Quote

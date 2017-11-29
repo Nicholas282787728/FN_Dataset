@@ -1,0 +1,2 @@
+★What are problems and challenges in information retrieval ?
+Here are some I see pretty often. Normalizing data format differences between capture, storage and display systems. Describing non-textual information consistently to facilitate retrieval in ways that are intuitive to users. Clustering related information artifact types without generating excess redundancy for effective category browsing. Validating crowd-sourced information and maintaining the context of information that has been re-purposed.    Embed Quote

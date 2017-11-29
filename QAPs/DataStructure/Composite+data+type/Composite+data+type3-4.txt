@@ -1,0 +1,2 @@
+What are the differences in laymen terms between data structures vs. data types?
+Types are trees. They're a hierarchical classification system. Like a sentence where each noun and verb phrase are made up of smaller parts of speech types, all classified. The different parts of speech make up a sentence so it is a structure where the parts are related to each other. A data structure is a record. For example, a name, social security #, birth date, address, etc. The name,  birth date and address are composite types. 

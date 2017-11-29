@@ -1,0 +1,1 @@
+Graph Theory: How do spanning trees constructed from Prim's differ from spanning trees constructed from Kruskal's?该网页不存在附加信息...One fundamental difference is that Prim's algorithm begins with a tree at the first step and maintains having a tree at every step thereafter, whereas Kruskal's algorithm in general produces a disconnected forest until the final step. 

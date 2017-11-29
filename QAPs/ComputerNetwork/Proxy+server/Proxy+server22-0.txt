@@ -1,0 +1,2 @@
+★Can I add a proxy server to Time Capsule?
+*A2A* I don't know, but I'll give it a shot. Time Capsule is basically just an Apple Wireless Router and hard drive combined within one box, to which you can attach a USB device. You can attach anything you like: printers, other hard drives, anything. Presumably then, you should be able to attach a proxy server as well, provided you can find a way to connect it via USB which, I'm not so sure you can do.    Embed Quote

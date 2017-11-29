@@ -1,0 +1,2 @@
+★What is an easy to understand resource for becoming familiar with the concept of supervised learning?
+The two best sources I would recommend are: Tom Mitchell's Machine Learning book (Machine Learning textbook) -- for someone familiar with math, this is an easy and accessible introduction. It's not limited to supervised learning, but it's definitely focused on it. Andrew Ng's online course on Machine learning covers supervised Learning, particularly this lecture here: OpenClassroom. These are also available on Youtube, e.g.: Course | Machine Learning    Embed Quote

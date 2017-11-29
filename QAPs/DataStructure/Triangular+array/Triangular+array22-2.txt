@@ -1,0 +1,2 @@
+How can I differentiate between a sine wave or triangular wave (or any kind of wave) using an AVR microcontroller?
+Using a Fast Fourier Transform analysis. Though you may want somethine a bit faster than an AVR. Watch this series using something a little slower than an AVR to see how an FFT works. (3/4) Analysis: Explaining Fourier analysis with a machine               (3/4) Analysis: Explaining Fourier analysis with a machi... View on www.youtube.com 

@@ -1,0 +1,2 @@
+★How are wireless sensor networks implemented in ecological monitoring?
+Not so much a network, but definitely wireless and sensor-based, Explicit uses drones to monitor, among other things, air pollution.    Embed Quote

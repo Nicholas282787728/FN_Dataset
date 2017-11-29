@@ -1,0 +1,2 @@
+What is difference between EMPTY and NULL string in Java?
+Empty string means that the variable has been assigned some memory and nothing is stored in it. It is vacant. Null means that the variable is not pointing to any address. 

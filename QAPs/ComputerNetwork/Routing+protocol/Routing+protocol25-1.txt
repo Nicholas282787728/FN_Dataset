@@ -1,0 +1,2 @@
+★How can I conduct the simulation of normal routing protocols, are there any efficient tools?
+There is a popular network simulator called gns3 that you can use to run simulations of most real life network situations. Also, a lot of ccie, jncie students use ross to prepare for the lab exams. You can download it free from www.gns3.net    Embed Quote

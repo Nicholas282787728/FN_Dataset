@@ -1,0 +1,2 @@
+What are the properties of continuous functions?
+The formal definition of continuity: For a function f(x) to be continuous at x=a: 1. f(a) must exist (a must be in the domain of f). 2. The limit as f(x) approaches a must exist. 3. These two quantities must be equal to each other. For a function continuous at any x=a, said to be a continuous function: The limit should always equal the function value. The function should always exist. You should be able to draw the function without lifting your pencil. There are no vertical asymptotes, jumps, or holes in the graph. 

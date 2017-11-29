@@ -1,0 +1,2 @@
+★What are some of the best practices for designing the UX of a command-line interface?
+There are no thumb rules as such, but some broader do's and dont's are there -- Make use of UI guidelines suggested by platform vendors -- Identify and analyze your target audience -- Identify your target platforms, browsers and devices -- Keep your user affordability reasonably good Some links on web User Interface Design Basics GoodUI Best Practices & Principles for GUI design Accessibility Best Practices

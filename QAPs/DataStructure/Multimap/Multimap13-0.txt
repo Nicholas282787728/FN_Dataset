@@ -1,0 +1,2 @@
+How do STL containers allocate memory? Do they use the new operator?
+By default, yes (via the default std::allocator), but you provide your own allocator to allocate memory as you prefer. For example: vector template < class T, class Alloc = allocator<T> > class vector; Please note that boost provides pool_allocator which is more efficient for containers making lot of allocations, for example std::map. 

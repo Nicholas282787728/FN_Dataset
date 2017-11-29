@@ -1,0 +1,1 @@
+Can structure variables be compared directly without accesssing each element of structure?No, you cannot compare structure variables directly. But the comparison can be like If(e1.i ==e2.i) Or If(e1.c==e2.c) Operations on struct variables in C - GeeksforGeeks Visit this link 77 Views  View Upvotes

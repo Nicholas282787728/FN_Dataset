@@ -1,0 +1,2 @@
+Which is better for analyzing large data sets, R or Mathematica?
+Regarding data.table, you can check out the data.table syntax cheat sheet at The data.table Cheat Sheet - DataCamp Blog    Embed Quote 

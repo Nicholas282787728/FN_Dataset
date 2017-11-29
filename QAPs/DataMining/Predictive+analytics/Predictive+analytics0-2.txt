@@ -1,0 +1,2 @@
+★What are some real-world examples of predictive analytics?
+Emerald Logic.  We predicted the emergence of Alzheimer's disease in trial subjects, well in advance, at over 90% accuracy, using blood markers.  See a related project at News Article    Embed Quote

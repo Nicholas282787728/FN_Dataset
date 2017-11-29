@@ -1,0 +1,2 @@
+★How will IPV6 affect China's Great Firewall?
+if i tick 'use ipv6' in my router config i can access all websites otherwise blocked in china (without vpn). facebook e.g. has the ip address 2620:0:1cfe:face:b00c::3 and opens flawlessly    Embed Quote

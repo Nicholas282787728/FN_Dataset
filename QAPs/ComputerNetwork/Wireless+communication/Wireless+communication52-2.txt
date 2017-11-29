@@ -1,0 +1,2 @@
+★Wireless Communication: What causes bathrooms to usually have poor cellular and WiFi signal?
+It's probably got to do with the attenuation that rf signals experience in moist channel, assuming the moist Conditions in the bathroom . Also there is no Los(line of sight) component due to closed geometry of bathroom .    Embed Quote

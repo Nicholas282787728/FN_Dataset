@@ -1,0 +1,2 @@
+Why is the real part always first in complex numbers?
+It is just a convention. When we represent a point in a coordinate system, we represent it as (x,y) [in 2-D]. So now when we need to represent a complex number, we represent it as (a,b), and we naturally chose the x-axis as the real-axis, because till now we used to represent all our numbers-rational and irrational on the x-axis (1-D). So then just as a natural extension we chose the x-axis as the real axis. And hence we write the real number first. But again it is just a convention. 

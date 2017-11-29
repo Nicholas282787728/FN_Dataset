@@ -1,0 +1,2 @@
+Given two strings T and S, how can I find a substring in T that is an anagram of S? Assume alphabet set is really big and try not to use any extra space.
+Calculate a value ( sum of all characters'ASCII values in String S). now, in text T look into chunks of length of S and sum up the characters. Now, check if the sum is equal to the original sum of S. This way we can check occurrence of same set of characters ( anagrams). 

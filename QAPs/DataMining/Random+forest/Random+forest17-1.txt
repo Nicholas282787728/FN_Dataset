@@ -1,0 +1,2 @@
+★Can random forest be effectively implemented on NVIDIA CUDA?
+If you are using graphics, try to implement with compute shaders. CUDA and OpenGL interop is really costly.    Embed Quote

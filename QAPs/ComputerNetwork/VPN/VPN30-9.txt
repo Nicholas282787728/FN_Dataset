@@ -1,0 +1,2 @@
+★What is the best VPN app for Android?
+I would recommend using your native Android Network client. It's simple, no third-party (often buggy) software needed, it supports modern encryption algorithms. You can find detailed set-up instructions here    Embed Quote

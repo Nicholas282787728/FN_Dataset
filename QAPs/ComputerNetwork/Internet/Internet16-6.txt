@@ -1,0 +1,2 @@
+★What free stuff on the internet should everyone be taking advantage of?
+Free Infrastructure-as-a-Service (IaaS) (aka "cloud") hosting for a year The NephoS Cloud Platform - I used this and recommend it. Try Cloud Computing Free with AWS Free Tier - way more famous, but I was unable to use it since I could no longer sign up as a new user when they opened it. The price? You need to learn Linux.

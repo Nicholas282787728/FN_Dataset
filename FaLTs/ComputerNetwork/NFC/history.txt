@@ -1,0 +1,26 @@
+NFC is rooted in radio-frequency identification technology (known as RFID) which allows compatible hardware to both supply power to and communicate with an otherwise unpowered and passive electronic tag using radio waves. This is used for identification, authentication and tracking.
+
+1983 The first patent to be associated with the abbreviation "RFID" was granted to Charles Walton.[14]
+1997 Early form patented and first used in Star Wars character toys for Hasbro. The patent was originally held by Andrew White and Marc Borrett at Innovision Research and Technology (Patent WO9723060). The device allowed data communication between two units in close proximity.[15]
+2002 Sony and Philips agreed to establish a technology specification and created a technical outline on March 25, 2002.[16]
+2003 NFC was approved as an ISO/IEC standard on December 8, and later as an ECMA standard.
+2004 Nokia, Philips and Sony established the NFC Forum[17]
+2006 Initial specifications for NFC Tags[18]
+2006 Specification for "SmartPoster" records[19]
+2007 Innovision¡¯s NFC tags used in the first consumer trial in the UK, in the Nokia 6131 handset.[20]
+2009 In January, NFC Forum released Peer-to-Peer standards to transfer contacts, URLs, initiate Bluetooth, etc.[21]
+2010 Innovision released a suite of designs and patents for low cost, mass-market mobile phones and other devices.[22]
+2010 Samsung Nexus S: First Android NFC phone shown[23][24]
+2010 Nice, France launches the "Nice City of contactless mobile" project, providing inhabitants with NFC mobile phones and bank cards, and a "bouquet of services" covering transportation, tourism and student's services
+2011 Tapit Media launches in Sydney, Australia as the first specialized NFC marketing company
+2011 Google I/O "How to NFC" demonstrates NFC to initiate a game and to share a contact, URL, app or video.[25]
+2011 NFC support becomes part of the Symbian mobile operating system with the release of Symbian Anna version.[26]
+2011 Research In Motion devices are the first ones certified by MasterCard Worldwide for their PayPass service[27]
+2012 UK restaurant chain EAT. and Everything Everywhere (Orange Mobile Network Operator), partner on the UK's first nationwide NFC-enabled smartposter campaign. A specially created mobile phone app is triggered when the NFC-enabled mobile phone comes into contact with the smartposter.[28]
+2012 Sony introduced NFC "Smart Tags" to change modes and profiles on a Sony smartphone at close range, included with the Sony Xperia P Smartphone released the same year.[29]
+2013 Samsung and VISA announce their partnership to develop mobile payments.
+2013 IBM scientists, in an effort to curb fraud and security breaches, develop an NFC-based mobile authentication security technology. This technology works on similar principles to dual-factor authentication security.[30]
+2014 AT&T, Verizon and T-Mobile released Softcard (formally ISIS mobile wallet). It runs on NFC-enabled Android phones and iPhone 4 and iPhone 5 when an external NFC case is attached. The technology was purchased by Google and the service ended on March 31, 2015.
+2014 Apple introduced Apple Pay for NFC-enabled mobile payment on iPhone 6 and 6 Plus,[31] and the Apple Watch, which was released on April 24, 2015.
+In November 2015, Swatch and Visa Inc. announced a partnership to enable NFC financial transactions using the "Swatch Bellamy" wristwatch. The system is currently online in Asia thanks to a partnership with China UnionPay and Bank of Communications. The partnership will bring the technology to the US, Brazil, and Switzerland.[32]
+November 2015, Google¡¯s Android Pay function was launched, a direct rival to Apple Pay, and it started rolling out across the US.

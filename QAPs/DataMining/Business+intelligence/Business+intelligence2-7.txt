@@ -1,0 +1,2 @@
+Which business intelligence tools have the best user interface?
+User Interface is one of the key features that distinguish Chartio (http://chartio.com) from our competition. We have an simple drag-and-drop interface that makes it possible for non-SQL users to perform complex analyses on SQL data, while giving analysts the ability to use the full power of SQL. Our dashboards and charts look great, and they're designed to display information clearly without chartjunk.    Embed Quote 

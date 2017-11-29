@@ -1,0 +1,2 @@
+What are the 10 algorithms one must know in order to solve most algorithm problems?
+1. Dynamic Programming : For one obvious reason - "Being Greedy doesn't necessarily work!" 2. Sorting algorithm : Unless the efficiency matters, anyone will do! 3. Search algorithm : I prefer binary search, but for most cases anything will do as long as it does it's job. 4. Dijkstra's algorithm : Well, being greedy sometimes work! ... (more)

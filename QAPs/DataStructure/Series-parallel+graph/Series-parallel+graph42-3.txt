@@ -1,0 +1,2 @@
+What are some good MapReduce implementations for graphs?
+The Giraph project (http://incubator.apache.org/giraph/) at the Apache Incubator implements graph processing as a Map Reduce job. I havent yet used ti to be able to comment on how good or bad it is. HTH 

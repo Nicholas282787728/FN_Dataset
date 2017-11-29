@@ -1,0 +1,2 @@
+★Is reinforcement learning scalable?
+Scalable in terms of distributing memory and some of the calculations across cores -- like state-action-value estimation. Not necessarily scalable scalable in terms solving more complex problems, as the state-space grows exponentially. Like often in machine learning we have to win over the course of dimensionality.    Embed Quote

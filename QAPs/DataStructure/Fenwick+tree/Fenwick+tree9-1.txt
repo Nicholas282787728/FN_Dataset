@@ -1,0 +1,1 @@
+What is the difference between a segment tree and a Fenwick tree (binary index tree)?From implementation details I found both uses  O(n) space and time to construct and have log(n) complexity for query? Apart from easiness of implementation is there any other difference ?

@@ -1,0 +1,1 @@
+How do we divide a graph into k cliques?That’s an NP complete problem. However, you can divide it into 2. 35 Views

@@ -1,0 +1,2 @@
+★What's the best way to extend the range of a wireless network?
+I just installed an 802.11n 2x2 MIMO router for a customer. I walked 850' away from their building with my 802.1n laptop before I lost the signal. So my recommendation would be to upgrade the AP/wireless router and laptop card to 802.11n. If the wireless in your laptop is internal, you can replace that with a mini-pci wireless card.    Embed Quote

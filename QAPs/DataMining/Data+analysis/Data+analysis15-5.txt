@@ -1,0 +1,2 @@
+What techniques can be used to perform exploratory data analysis on high dimensional data?
+Factor analysis may be useful.    Embed Quote 

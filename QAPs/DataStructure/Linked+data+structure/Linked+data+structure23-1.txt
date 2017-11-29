@@ -1,0 +1,2 @@
+Are basic data structures like linked lists, queues and stacks really used in software engineering projects?
+In database engines, you use all these structures and more (pretty much every "design pattern" you've heard of will be used in a db engine), and when I was doing embedded system databases, I wrote all my libraries myself as common libraries were too big. 

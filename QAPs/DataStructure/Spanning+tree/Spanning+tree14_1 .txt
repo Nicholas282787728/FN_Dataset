@@ -1,0 +1,1 @@
+How is the number of spanning trees in a graph found from a Laplacian Matrix?Use Kirchhoff's theorem. Simply delete a certain row and column then find the determinant of the resulting matrix. 

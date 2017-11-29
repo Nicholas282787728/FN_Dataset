@@ -1,0 +1,2 @@
+★Why hasn't Ethernet gotten any faster in the last 15 years?I meant this question in relation to common consumer hardware. In 2000, higher-end PCs started having gigabit Ethernet ports, and today, PCs still have the same gigabit Ethernet. I know 100Gb fiber exists, but it's not for consumers, whereas WiFi, USB, etc are all common on normal computers.
+Short answer: It has. Slightly longer answer: Cable length still limits high-speed (1Gbps, 10Gbps) ethernet performance.

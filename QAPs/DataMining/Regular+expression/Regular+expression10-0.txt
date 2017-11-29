@@ -1,0 +1,2 @@
+★Why is this regular expression too slow?The regexp is `/<!--(.|\s)*?-->/gm`, test code: island205/stripCommentTag.js
+It looks like you're trying to parse HTML or XML using a regular expression. Never ever do this! HTML and XML are not regular languages. Page on stackoverflow.com    Embed Quote

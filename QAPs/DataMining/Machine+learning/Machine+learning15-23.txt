@@ -1,0 +1,2 @@
+★What is the difference between statistics and machine learning?
+Machine learning is applied statistics. One of the major differences, at least for me, is that ML uses feed back and feed forward mechanisms that require different data structures than just straight statistics. Some statistics regression models use feed back but it is very different then feed back.forward mechanisms of ML.    Embed Quote

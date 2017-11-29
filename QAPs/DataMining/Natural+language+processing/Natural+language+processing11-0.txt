@@ -1,0 +1,2 @@
+★Can natural language process structured information from a text?
+The term for the task you're probably looking for is "information extraction". It's still in the early stages of development and is not usually accurate enough to be practically useful today. You can read the Wikipedia article as a starting point: Information extraction. There's also "text mining" which overlaps but also includes more statistical and fuzzier stuff: Text mining.    Embed Quote

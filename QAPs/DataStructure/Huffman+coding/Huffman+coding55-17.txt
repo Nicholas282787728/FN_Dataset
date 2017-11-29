@@ -1,0 +1,2 @@
+What do you think if a senior software developer can't write code?
+I’d be concerned. Regardless of that person’s ability to add value, the role of “Senior software developer” is quite specific. A software developer role would always require software to be developed. I am not sure how that could happen without writing code. CASE tool? Meh! 21 Views

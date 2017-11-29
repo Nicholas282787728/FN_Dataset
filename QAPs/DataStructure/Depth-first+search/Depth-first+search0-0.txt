@@ -1,0 +1,2 @@
+What is the difference between depth-first-search and breadth-first-search? Why does DFS visit the node after removal from a stack while BFS visits the node before adding it to the queue?
+BFS would visit the nodes in the order loosely resembling how far are they from the starting vertex. "From the root" in case of the tree. If all the edges have the same weight, the order of visiting vertexes would strictly be "in non-decreasing order of the distance from the starting vertex". DFS would completely finish one branch before starting another one. ... (more)

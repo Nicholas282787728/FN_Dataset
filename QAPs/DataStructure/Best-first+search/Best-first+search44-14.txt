@@ -1,0 +1,2 @@
+Where can I find large datasets open to the public?
+The Bureau of Transportation Statistics (bts.gov) has tremendous amounts of data on airline on-time / delays, airfares, fuel costs, etc. Most are very wide and several data sets range from 100M - 300M rows. Here's an index of their best data sets: http://www.transtats.bts.gov/dat... -Robert Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 9k Views · 4 Upvotes

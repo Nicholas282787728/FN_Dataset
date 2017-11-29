@@ -1,0 +1,2 @@
+★What is the best FTP client for Mac OS?other than Filezilla
+Forklift hasn't been mentioned and is very nice. Can be used as a Finder replacement as well: http://www.binarynights.com/ Transmit is awesome, you can't go wrong with anything Panic puts out.

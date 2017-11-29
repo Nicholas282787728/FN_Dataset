@@ -1,0 +1,2 @@
+Are tech companies demanding too much from software engineers these days?
+You're making a mistake common to your generation in which you mistake web programming for all of software engineering. You sound like you don't want to learn MEAN, LAMP, SQL, NoSQL, Hadoop, Map Reduce, and AWS. No one will expect you to if you aren't going into interviews for web programming jobs. If you don't like that stuff, concentrate on the stuff you do like and go on those interviews. It won't seem like a lot if you enjoy it. 

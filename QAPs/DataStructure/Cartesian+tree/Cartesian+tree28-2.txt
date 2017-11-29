@@ -1,0 +1,2 @@
+What is the most efficient way to store large amount of GIS data?
+If you are just logging the data, MongoDB may suffice. But I second Rogers and Stefán on suggesting PostGIS. With the latter you can easily query the DB to find out spatial relationships, for example, "How many devices are in a radius of 2KM?". Check this reference Section 10: Spatial Relationships, to see some good examples. 

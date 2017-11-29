@@ -1,0 +1,2 @@
+★What's a good engine to use for HTML5 games?
+JavaScript libraries for building games with the Canvas element. In personal favorites order:   * https://github.com/kesiev/akihabara - arcade game centric   * https://github.com/oberhamsi/gamejs - (my lib) port of PyGame; CommonJs compatible   * https://github.com/biilly/doodle-js - scene graph   * https://github.com/batiste/sprit... - simplistic but fast sprite handling   * https://github.com/fairfieldt/xcjs - coffeescript   * http://easeljs.com/ -

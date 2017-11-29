@@ -1,0 +1,2 @@
+Other than binary search, are there other code examples that have a running time of O(log n)?
+Modular exponentiation A very useful algorithm, especially in cryptography. Also comes useful quite often in programming contests in number theory and recurrence problems. 

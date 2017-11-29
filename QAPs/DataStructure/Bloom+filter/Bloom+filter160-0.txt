@@ -1,0 +1,2 @@
+What are some of the practical applications of Bloom filters in the real world? Where could it be considered the only optimal solution over the other available solutions?
+Practical:  fast perfect square detection.  It's somewhat faster than other methods for 64-bit native integers , but is especially nice for bigints where operations are expensive.  A fascinating writeup can be found here:  mersenneforum.org - View Single Post - Determine squares. It's commonly used elsewhere, especially with large sets and near-real-time performance requirements. 

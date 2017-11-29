@@ -1,0 +1,2 @@
+What is the algorithm to perform insertion in a B Tree?
+Links: B-Tree | Set 1 (Introduction) - GeeksforGeeks B-Tree | Set 2 (Insert) - GeeksforGeeks Set 2 explains insertion. ... (more)

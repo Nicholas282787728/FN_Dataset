@@ -1,0 +1,3 @@
+Notable particular examples include these:
+Bell numbers (the "Bell triangle", "Aitken's array", or the "Peirce triangle") Bell polynomials Boustrophedon transform Eulerian number Floyd's triangle Hosoya's triangle Lah number Lozanić's triangle Narayana number Pascal's triangle Rencontres numbers Romberg's method Stirling numbers of the first kind Stirling numbers of the second kind
+Triangular arrays of integers in which each row is symmetric and begins and ends with 1 are sometimes called generalized Pascal triangles; examples include Pascal's triangle, the Narayana numbers, and the triangle of Eulerian numbers.[1]

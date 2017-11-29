@@ -1,0 +1,1 @@
+How do I convert a doubly circular linked list into a singly circular linked list?Either remove one of the pointer(previous or next) from each node, by removing it from structure of the node and remove all its manipulations. Or just ignore it and traverse only in a single direction. 459 Views  View Upvotes

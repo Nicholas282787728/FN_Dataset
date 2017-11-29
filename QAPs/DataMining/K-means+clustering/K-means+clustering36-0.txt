@@ -1,0 +1,2 @@
+★How efficient is this hybrid (K-means + Hierarchical ) clustering framework?
+This sounds like a reasonable approach. On large scale data (large number of samples), a minibatch implementation of KMeans is more scalable (and online: you can load the data incrementally in a streaming manner and interrupt convergence earlier to get an approximate, good enough solution). There are implementations of minibatch k-means in sofia-ml and scikit-learn: http://code.google.com/p/sofia-m... http://scikit-learn.org/stable/m...    Embed Quote

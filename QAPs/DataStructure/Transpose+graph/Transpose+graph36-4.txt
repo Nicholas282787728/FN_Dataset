@@ -1,0 +1,2 @@
+Is linear algebra generally less intuitive than other mathematics?
+In my opinion, yes. I find calculus very intuitive, and when I crushed through all my calculus classes I thought I was a math genius. After studying more math, I've found that calculus is actually pretty easy, and it doesn't deserve all the hype. Linear algebra can be intuitive at first, but it can get really abstract really quickly. Some people may think the opposite however. Or just think they are both very intuitive. 

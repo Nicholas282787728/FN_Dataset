@@ -1,0 +1,2 @@
+What are some common fallacies or mistakes made by beginners in Statistics/Machine Learning/Data Analysis or they are prone to make?
+Mistaking correlation with causation Trying to include in every single covariate/feature and overfitting the model Spelling heteroscedasticity incorrectly    Embed Quote 

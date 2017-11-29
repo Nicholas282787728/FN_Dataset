@@ -1,0 +1,7 @@
+Statistical assumptions can be put into two classes, depending upon which approach to inference is used.
+
+Model-based assumptions. These include the following three types:
+Distributional assumptions. Where a statistical model involves terms relating to random errors, assumptions may be made about the probability distribution of these errors.[5] In some cases, the distributional assumption relates to the observations themselves.
+Structural assumptions. Statistical relationships between variables are often modelled by equating one variable to a function of another (or several others), plus a random error. Models often involve making a structural assumption about the form of the functional relationship, e.g. as in linear regression. This can be generalised to models involving relationships between underlying unobserved latent variables.
+Cross-variation assumptions. These assumptions involve the joint probability distributions of either the observations themselves or the random errors in a model. Simple models may include the assumption that observations or errors are statistically independent.
+Design-based assumptions. These relate to the way observations have been gathered, and often involve an assumption of randomization during sampling.

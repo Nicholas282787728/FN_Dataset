@@ -1,0 +1,2 @@
+★How does one do a regression analysis? Any available software to perform regression analysis for a given data?
+Try Weka, You can browse and import your data. But you need ARFF Format to work with Weka. you have lots of options to Preprocess the Data and to build regression model easily .    Embed Quote

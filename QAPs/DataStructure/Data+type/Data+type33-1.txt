@@ -1,0 +1,2 @@
+What is the origin of data types in programming languages?
+In mathematical perspective, data types are basically originated from Category Theory and Set Theory. Integer is a set of all integral numbers e.g. -2, -1, 0, 1, 2, 3. Character is a set of all alphabet symbols e.g. 'a', 'b', 'c', 'd'. Type is a set of such sets e.g. Integer, Character. 600 Views · 3 Upvotes

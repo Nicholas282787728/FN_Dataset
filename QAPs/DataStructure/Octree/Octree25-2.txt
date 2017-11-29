@@ -1,0 +1,2 @@
+What sort of software projects require graph algorithms or network flow algorithms?
+graph algorithms are often a great choice if you have optimization problems including transport or matching (remember that some matching problems can be solved via network flows). this month a new colleage started in our company and he said, that during his study he was argueing, that no one would need such algorithms. on his first day here, he found out, that we use a flow algorithm deep within our workforce management software :-D 

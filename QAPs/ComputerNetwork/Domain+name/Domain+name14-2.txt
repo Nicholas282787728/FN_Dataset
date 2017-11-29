@@ -1,0 +1,2 @@
+★Who owns all domain names?I mean Who allocates all domains names and finally who take money charged by domain name provider for buying domain name ?
+Strictly speaking, no one 'owns' domain names.  You can get them allocated from a registrar.  The registry uses the fees collected to provide DNS support and to fund their own internal operations.

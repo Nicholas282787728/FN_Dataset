@@ -1,0 +1,1 @@
+What are vertices? How many vertices does a square have?Vertex is just a point. It can be just a single point without any edges also (Isolated vertices). And you can implement a graph that looks like square with any 4n number of vertices making sure the last vertex is connected to the first vertex and all egdes of unit length. 326 Views

@@ -1,0 +1,2 @@
+★What POS system uses NFC technology?What companies are making anything with NFC Tech.?
+Most of the technology is external to the Pos system as NFC chips and RFID tags interact with the Chip and Pin unit not the Pos as such.    Embed Quote

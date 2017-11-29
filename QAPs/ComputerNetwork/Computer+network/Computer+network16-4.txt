@@ -1,0 +1,2 @@
+★How do computer networks handle data overload?
+The simple answer is known as Quality of Service (often referred to as QoS). Within QoS there are many congestion avoidance and management mechanisms, it's a pretty deep topic and is quite worth knowing about if you are designing a network or are troubleshooting a performance related issue

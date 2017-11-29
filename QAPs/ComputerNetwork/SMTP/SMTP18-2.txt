@@ -1,0 +1,2 @@
+★What is a scanner/MFD that can email its scans through GMail's SMTP server?My current scanner (Dell 1815dn) can email its scans, but its SMTP authentication does not support the settings needed for Gmail's SMTP server (port number etc). Ideally I'm looking for a laser MFD with WiFi network connectivity.
+Peter.. how do you set it up with Gmail?    Embed Quote

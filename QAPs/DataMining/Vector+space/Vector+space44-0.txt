@@ -1,0 +1,2 @@
+★Why is the matrix vector space written like R^(m×n)? For example, isn't a square 2x2 matrix really still contained in R^2?
+No.  The matrices form an    dimensional vector space, sometimes denoted    Being of dimension    it is isomorphic to  Thus, the vector space of   matrices, is not contained in  but it is isomorphic to  Matrices that consist of one column are also called column vectors.    is isomorphic to  Matrices that consist of one row are also called row vectors.    is isomorphic to     Embed Quote

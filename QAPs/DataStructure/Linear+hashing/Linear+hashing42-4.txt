@@ -1,0 +1,2 @@
+Which data structure is better to implement a phone book: Trie or Hash? Why?
+Trie is a better option as it will help in fast retrieval of data. Although it can be easily done through HashMap by checking only first character but it would be tedious or we can say if we want it in sorted order then ofcourse Treeset is better example. 

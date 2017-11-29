@@ -1,0 +1,379 @@
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (August 2010)
+Implementation in C from literateprograms.org Implementation in C++ and Object Pascal from partow.net C++11 header only implementation of a variety of Bloom filters Implementation in C# from codeplex.com Implementation in Erlang from sites.google.com Implementation in Haskell from haskell.org Implementation in Java from MagnusS on github.com Implementation in Javascript from la.ma.la Implementation in Lisp from lemonodor.com Implementation in Perl from cpan.org Implementation in PHP from code.google.com Implementation in Python, Scalable Bloom Filter from pypi.python.org Implementation in Ruby from rubyinside.com Implementation in Scala from codecommit.com Implementation in Tcl from kocjan.org
+Logic Synthesis and Verification System ABC A set of utilities for AIGs AIGER OpenAccess Gear
+For dictionaries with very small numbers of bindings, it may make sense to implement the dictionary using an association list, a linked list of bindings. With this implementation, the time to perform the basic dictionary operations is linear in the total number of bindings; however, it is easy to implement and the constant factors in its running time are small.[1][6] Another very simple implementation technique, usable when the keys are restricted to a narrow range of integers, is direct addressing into an array: the value for a given key k is stored at the array cell A[k], or if there is no binding for k then the cell stores a special sentinel value that indicates the absence of a binding. As well as being simple, this technique is fast: each dictionary operation takes constant time. However, the space requirement for this structure is the size of the entire keyspace, making it impractical unless the keyspace is small.[3]
+The most frequently used general purpose implementation of an associative array is with a hash table: an array of bindings, together with a hash function that maps each possible key into an array index. The basic idea of a hash table is that the binding for a given key is stored at the position given by applying the hash function to that key, and that lookup operations are performed by looking at that cell of the array and using the binding found there. However, hash table based dictionaries must be prepared to handle collisions that occur when two keys are mapped by the hash function to the same index, and many different collision resolution strategies have been developed for dealing with this situation, often based either on open addressing (looking at a sequence of hash table indices instead of a single index, until finding either the given key or an empty cell) or on hash chaining (storing a small association list instead of a single binding in each hash table cell).[1][2][3]
+Dictionaries may also be stored in binary search trees or in data structures specialized to a particular type of keys such as radix trees, tries, Judy arrays, or van Emde Boas trees, but these implementation methods are less efficient than hash tables as well as placing greater restrictions on the types of data that they can handle. The advantages of these alternative structures come from their ability to handle operations beyond the basic ones of an associative array, such as finding the binding whose key is the closest to a queried key, when the query is not itself present in the set of bindings.
+A small complete binary tree stored in an array
+Comparison between a binary heap and an array implementation.
+Heaps are commonly implemented with an array. Any binary tree can be stored in an array, but because a heap is always an almost complete binary tree, it can be stored compactly. No space is required for pointers; instead, the parent and children of each node can be found by arithmetic on array indices. These properties make this heap implementation a simple example of an implicit data structure or Ahnentafel list. Details depend on the root position, which in turn may depend on constraints of a programming language used for implementation, or programmer preference. Specifically, sometimes the root is placed at index 1, sacrificing space in order to simplify arithmetic. The peek operation (find-min or find-max) simply returns the value of the root, and is thus O(1).
+Let n be the number of elements in the heap and i be an arbitrary valid index of the array storing the heap. If the tree root is at index 0, with valid indices 0 through n-1, then each element a[i] has
+children a[2i+1] and a[2i+2] parent a[floor((i�?)/2)]
+Alternatively, if the tree root is at index 1, with valid indices 1 through n, then each element a[i] has
+children a[2i] and a[2i+1] parent a[floor(i/2)].
+This implementation is used in the heapsort algorithm, where it allows the space in the input array to be reused to store the heap (i.e. the algorithm is done in-place). The implementation is also useful for use as a Priority queue where use of a dynamic array allows insertion of an unbounded number of items.
+The upheap/downheap operations can then be stated in terms of an array as follows: suppose that the heap property holds for the indices b, b+1, ..., e. The sift-down function extends the heap property to b�?, b, b+1, ..., e. Only index i = b�? can violate the heap property. Let j be the index of the largest child of a[i] (for a max-heap, or the smallest child for a min-heap) within the range b, ..., e. (If no such index exists because 2i > e then the heap property holds for the newly extended range and nothing needs to be done.) By swapping the values a[i] and a[j] the heap property for position i is established. At this point, the only problem is that the heap property might not hold for index j. The sift-down function is applied tail-recursively to index j until the heap property is established for all elements.
+The sift-down function is fast. In each step it only needs two comparisons and one swap. The index value where it is working doubles in each iteration, so that at most log2 e steps are required.
+For big heaps and using virtual memory, storing elements in an array according to the above scheme is inefficient: (almost) every level is in a different page. B-heaps are binary heaps that keep subtrees in a single page, reducing the number of pages accessed by up to a factor of ten.[5]
+The operation of merging two binary heaps takes Θ(n) for equal-sized heaps. The best you can do is (in case of array implementation) simply concatenating the two heap arrays and build a heap of the result.[6] A heap on n elements can be merged with a heap on k elements using O(log n log k) key comparisons, or, in case of a pointer-based implementation, in O(log n log k) time.[7] An algorithm for splitting a heap on n elements into two heaps on k and n-k elements, respectively, based on a new view of heaps as an ordered collections of subheaps was presented in.[8] The algorithm requires O(log n * log n) comparisons. The view also presents a new and conceptually simple algorithm for merging heaps. When merging is a common task, a different heap implementation is recommended, such as binomial heaps, which can be merged in O(log n).
+Additionally, a binary heap can be implemented with a traditional binary tree data structure, but there is an issue with finding the adjacent element on the last level on the binary heap when adding an element. This element can be determined algorithmically or by adding extra data to the nodes, called "threading" the tree—instead of merely storing references to the children, we store the inorder successor of the node as well.
+It is possible to modify the heap structure to allow extraction of both the smallest and largest element in time.[9] To do this, the rows alternate between min heap and max heap. The algorithms are roughly the same, but, in each step, one must consider the alternating rows with alternating comparisons. The performance is roughly the same as a normal single direction heap. This idea can be generalised to a min-max-median heap.
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (August 2010)
+Implementation in C from literateprograms.org Implementation in C++ and Object Pascal from partow.net C++11 header only implementation of a variety of Bloom filters Implementation in C# from codeplex.com Implementation in Erlang from sites.google.com Implementation in Haskell from haskell.org Implementation in Java from MagnusS on github.com Implementation in Javascript from la.ma.la Implementation in Lisp from lemonodor.com Implementation in Perl from cpan.org Implementation in PHP from code.google.com Implementation in Python, Scalable Bloom Filter from pypi.python.org Implementation in Ruby from rubyinside.com Implementation in Scala from codecommit.com Implementation in Tcl from kocjan.org
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (August 2010)
+Implementation in C from literateprograms.org Implementation in C++ and Object Pascal from partow.net C++11 header only implementation of a variety of Bloom filters Implementation in C# from codeplex.com Implementation in Erlang from sites.google.com Implementation in Haskell from haskell.org Implementation in Java from MagnusS on github.com Implementation in Javascript from la.ma.la Implementation in Lisp from lemonodor.com Implementation in Perl from cpan.org Implementation in PHP from code.google.com Implementation in Python, Scalable Bloom Filter from pypi.python.org Implementation in Ruby from rubyinside.com Implementation in Scala from codecommit.com Implementation in Tcl from kocjan.org
+#include <sys/mman.h>
+#include <stdlib.h>
+#include <unistd.h>
+ 
+#define report_exceptional_condition() abort ()
+ 
+struct ring_buffer
+{
+  void *address;
+ 
+  unsigned long count_bytes;
+  unsigned long write_offset_bytes;
+  unsigned long read_offset_bytes;
+};
+ 
+//Warning order should be at least 12 for Linux
+void
+ring_buffer_create (struct ring_buffer *buffer, unsigned long order)
+{
+  char path[] = "/dev/shm/ring-buffer-XXXXXX";
+  int file_descriptor;
+  void *address;
+  int status;
+ 
+  file_descriptor = mkstemp (path);
+  if (file_descriptor < 0)
+    report_exceptional_condition ();
+ 
+  status = unlink (path);
+  if (status)
+    report_exceptional_condition ();
+ 
+  buffer->count_bytes = 1UL << order;
+  buffer->write_offset_bytes = 0;
+  buffer->read_offset_bytes = 0;
+ 
+  status = ftruncate (file_descriptor, buffer->count_bytes);
+  if (status)
+    report_exceptional_condition ();
+ 
+  buffer->address = mmap (NULL, buffer->count_bytes << 1, PROT_NONE,
+                          MAP_ANONYMOUS | MAP_PRIVATE, -1, 0);
+ 
+  if (buffer->address == MAP_FAILED)
+    report_exceptional_condition ();
+ 
+  address =
+    mmap (buffer->address, buffer->count_bytes, PROT_READ | PROT_WRITE,
+          MAP_FIXED | MAP_SHARED, file_descriptor, 0);
+ 
+  if (address != buffer->address)
+    report_exceptional_condition ();
+ 
+  address = mmap (buffer->address + buffer->count_bytes,
+                  buffer->count_bytes, PROT_READ | PROT_WRITE,
+                  MAP_FIXED | MAP_SHARED, file_descriptor, 0);
+ 
+  if (address != buffer->address + buffer->count_bytes)
+    report_exceptional_condition ();
+ 
+  status = close (file_descriptor);
+  if (status)
+    report_exceptional_condition ();
+}
+ 
+void
+ring_buffer_free (struct ring_buffer *buffer)
+{
+  int status;
+ 
+  status = munmap (buffer->address, buffer->count_bytes << 1);
+  if (status)
+    report_exceptional_condition ();
+}
+ 
+void *
+ring_buffer_write_address (struct ring_buffer *buffer)
+{
+  /*** void pointer arithmetic is a constraint violation. ***/
+  return buffer->address + buffer->write_offset_bytes;
+}
+ 
+void
+ring_buffer_write_advance (struct ring_buffer *buffer,
+                           unsigned long count_bytes)
+{
+  buffer->write_offset_bytes += count_bytes;
+}
+ 
+void *
+ring_buffer_read_address (struct ring_buffer *buffer)
+{
+  return buffer->address + buffer->read_offset_bytes;
+}
+ 
+void
+ring_buffer_read_advance (struct ring_buffer *buffer,
+                          unsigned long count_bytes)
+{
+  buffer->read_offset_bytes += count_bytes;
+ 
+  if (buffer->read_offset_bytes >= buffer->count_bytes)
+    {
+      buffer->read_offset_bytes -= buffer->count_bytes;
+      buffer->write_offset_bytes -= buffer->count_bytes;
+    }
+}
+ 
+unsigned long
+ring_buffer_count_bytes (struct ring_buffer *buffer)
+{
+  return buffer->write_offset_bytes - buffer->read_offset_bytes;
+}
+ 
+unsigned long
+ring_buffer_count_free_bytes (struct ring_buffer *buffer)
+{
+  return buffer->count_bytes - ring_buffer_count_bytes (buffer);
+}
+ 
+void
+ring_buffer_clear (struct ring_buffer *buffer)
+{
+  buffer->write_offset_bytes = 0;
+  buffer->read_offset_bytes = 0;
+}
+ 
+/*Note, that initial anonymous mmap() can be avoided - after initial mmap() for descriptor fd,
+you can try mmap() with hinted address as (buffer->address + buffer->count_bytes) and if it fails -
+another one with hinted address as (buffer->address - buffer->count_bytes).
+Make sure MAP_FIXED is not used in such case, as under certain situations it could end with segfault.
+The advantage of such approach is, that it avoids requirement to map twice the amount you need initially
+(especially useful e.g. if you want to use hugetlbfs and the allowed amount is limited)
+and in context of gcc/glibc - you can avoid certain feature macros
+(MAP_ANONYMOUS usually requires one of: _BSD_SOURCE, _SVID_SOURCE or _GNU_SOURCE).*/
+#include <sys/mman.h>
+#include <stdlib.h>
+#include <unistd.h>
+ 
+#define report_exceptional_condition() abort ()
+ 
+struct ring_buffer
+{
+  void *address;
+ 
+  unsigned long count_bytes;
+  unsigned long write_offset_bytes;
+  unsigned long read_offset_bytes;
+};
+ 
+//Warning order should be at least 12 for Linux
+void
+ring_buffer_create (struct ring_buffer *buffer, unsigned long order)
+{
+  char path[] = "/dev/shm/ring-buffer-XXXXXX";
+  int file_descriptor;
+  void *address;
+  int status;
+ 
+  file_descriptor = mkstemp (path);
+  if (file_descriptor < 0)
+    report_exceptional_condition ();
+ 
+  status = unlink (path);
+  if (status)
+    report_exceptional_condition ();
+ 
+  buffer->count_bytes = 1UL << order;
+  buffer->write_offset_bytes = 0;
+  buffer->read_offset_bytes = 0;
+ 
+  status = ftruncate (file_descriptor, buffer->count_bytes);
+  if (status)
+    report_exceptional_condition ();
+ 
+  buffer->address = mmap (NULL, buffer->count_bytes << 1, PROT_NONE,
+                          MAP_ANONYMOUS | MAP_PRIVATE, -1, 0);
+ 
+  if (buffer->address == MAP_FAILED)
+    report_exceptional_condition ();
+ 
+  address =
+    mmap (buffer->address, buffer->count_bytes, PROT_READ | PROT_WRITE,
+          MAP_FIXED | MAP_SHARED, file_descriptor, 0);
+ 
+  if (address != buffer->address)
+    report_exceptional_condition ();
+ 
+  address = mmap (buffer->address + buffer->count_bytes,
+                  buffer->count_bytes, PROT_READ | PROT_WRITE,
+                  MAP_FIXED | MAP_SHARED, file_descriptor, 0);
+ 
+  if (address != buffer->address + buffer->count_bytes)
+    report_exceptional_condition ();
+ 
+  status = close (file_descriptor);
+  if (status)
+    report_exceptional_condition ();
+}
+ 
+void
+ring_buffer_free (struct ring_buffer *buffer)
+{
+  int status;
+ 
+  status = munmap (buffer->address, buffer->count_bytes << 1);
+  if (status)
+    report_exceptional_condition ();
+}
+ 
+void *
+ring_buffer_write_address (struct ring_buffer *buffer)
+{
+  /*** void pointer arithmetic is a constraint violation. ***/
+  return buffer->address + buffer->write_offset_bytes;
+}
+ 
+void
+ring_buffer_write_advance (struct ring_buffer *buffer,
+                           unsigned long count_bytes)
+{
+  buffer->write_offset_bytes += count_bytes;
+}
+ 
+void *
+ring_buffer_read_address (struct ring_buffer *buffer)
+{
+  return buffer->address + buffer->read_offset_bytes;
+}
+ 
+void
+ring_buffer_read_advance (struct ring_buffer *buffer,
+                          unsigned long count_bytes)
+{
+  buffer->read_offset_bytes += count_bytes;
+ 
+  if (buffer->read_offset_bytes >= buffer->count_bytes)
+    {
+      buffer->read_offset_bytes -= buffer->count_bytes;
+      buffer->write_offset_bytes -= buffer->count_bytes;
+    }
+}
+ 
+unsigned long
+ring_buffer_count_bytes (struct ring_buffer *buffer)
+{
+  return buffer->write_offset_bytes - buffer->read_offset_bytes;
+}
+ 
+unsigned long
+ring_buffer_count_free_bytes (struct ring_buffer *buffer)
+{
+  return buffer->count_bytes - ring_buffer_count_bytes (buffer);
+}
+ 
+void
+ring_buffer_clear (struct ring_buffer *buffer)
+{
+  buffer->write_offset_bytes = 0;
+  buffer->read_offset_bytes = 0;
+}
+ 
+/*Note, that initial anonymous mmap() can be avoided - after initial mmap() for descriptor fd,
+you can try mmap() with hinted address as (buffer->address + buffer->count_bytes) and if it fails -
+another one with hinted address as (buffer->address - buffer->count_bytes).
+Make sure MAP_FIXED is not used in such case, as under certain situations it could end with segfault.
+The advantage of such approach is, that it avoids requirement to map twice the amount you need initially
+(especially useful e.g. if you want to use hugetlbfs and the allowed amount is limited)
+and in context of gcc/glibc - you can avoid certain feature macros
+(MAP_ANONYMOUS usually requires one of: _BSD_SOURCE, _SVID_SOURCE or _GNU_SOURCE).*/
+Concurrent data structures are significantly more difficult to design and to verify as being correct than their sequential counterparts.
+The primary source of this additional difficulty is concurrency, exacerbated by the fact that threads must be thought of as being completely asynchronous: they are subject to operating system preemption, page faults, interrupts, and so on.
+On today's machines, the layout of processors and memory, the layout of data in memory, the communication load on the various elements of the multiprocessor architecture all influence performance. Furthermore, there is a tension between correctness and performance: algorithmic enhancements that seek to improve performance often make it more difficult to design and verify a correct data structure implementation.
+A key measure for performance is scalability, captured by the speedup of the implementation. Speedup is a measure of how effectively the application is utilizing the machine it is running on. On a machine with P processors, the speedup is the ratio of the structures execution time on a single processor to its execution time on T processors. Ideally, we want linear speedup: we would like to achieve a speedup of P when using P processors. Data structures whose speedup grows with P are called scalable. The extent to which one can scale the performance of a concurrent data structure is captured by a formula known as Amdahl's law and more refined versions of it such as Gustafson's law.
+A key issue with the performance of concurrent data structures is the level of memory contention: the overhead in traffic to and from memory as a result of multiple threads concurrently attempting to access the same locations in memory. This issue is most acute with blocking implementations in which locks control access to memory. In order to acquire a lock, a thread must repeatedly attempt to modify that location. On a cache-coherent multiprocessor (one in which processors have local caches that are updated by hardware in order to keep them consistent with the latest values stored) this results in long waiting times for each attempt to modify the location, and is exacerbated by the additional memory traffic associated with unsuccessful attempts to acquire the lock.
+The C++ Standard Template Library provides the make_heap, push_heap and pop_heap algorithms for heaps (usually implemented as binary heaps), which operate on arbitrary random access iterators. It treats the iterators as a reference to an array, and uses the array-to-heap conversion. Container adaptor priority_queue also exists. However, there is no standard support for the decrease/increase-key operation. See also gheap - STL-like generalized heap implementation in C++ with D-heap and B-heap support. The Java 2 platform (since version 1.5) provides the binary heap implementation with class java.util.PriorityQueue<E> in Java Collections Framework. Python has a heapq module that implements a priority queue using a binary heap. PHP has both maxheap (SplMaxHeap) and minheap (SplMinHeap) as of version 5.3 in the Standard PHP Library. Perl has implementations of binary, binomial, and Fibonacci heaps in the Heap distribution available on CPAN. The Go library contains a heap package with heap algorithms that operate on an arbitrary type that satisfy a given interface. Apple's Core Foundation library contains a CFBinaryHeap structure.
+Lists are typically implemented either as linked lists (either singly or doubly linked) or as arrays, usually variable length or dynamic arrays.
+The standard way of implementing lists, originating with the programming language Lisp, is to have each element of the list contain both its value and a pointer indicating the location of the next element in the list. This results in either a linked list or a tree, depending on whether the list has nested sublists. Some older Lisp implementations (such as the Lisp implementation of the Symbolics 3600) also supported "compressed lists" (using CDR coding) which had a special internal representation (invisible to the user). Lists can be manipulated using iteration or recursion. The former is often preferred in imperative programming languages, while the latter is the norm in functional languages.
+Lists can be implemented as self-balancing binary search trees holding index-value pairs, providing equal-time access to any element (e.g. all residing in the fringe, and internal nodes storing the right-most child's index, used to guide the search), taking the time logarithmic in the list's size, but as long as it doesn't change much will provide the illusion of random access and enable swap, prefix and append operations in logarithmic time as well.
+A small complete binary tree stored in an array
+Comparison between a binary heap and an array implementation.
+Heaps are commonly implemented with an array. Any binary tree can be stored in an array, but because a heap is always an almost complete binary tree, it can be stored compactly. No space is required for pointers; instead, the parent and children of each node can be found by arithmetic on array indices. These properties make this heap implementation a simple example of an implicit data structure or Ahnentafel list. Details depend on the root position, which in turn may depend on constraints of a programming language used for implementation, or programmer preference. Specifically, sometimes the root is placed at index 1, sacrificing space in order to simplify arithmetic. The peek operation (find-min or find-max) simply returns the value of the root, and is thus O(1).
+Let n be the number of elements in the heap and i be an arbitrary valid index of the array storing the heap. If the tree root is at index 0, with valid indices 0 through n-1, then each element a[i] has
+children a[2i+1] and a[2i+2] parent a[floor((i�?)/2)]
+Alternatively, if the tree root is at index 1, with valid indices 1 through n, then each element a[i] has
+children a[2i] and a[2i+1] parent a[floor(i/2)].
+This implementation is used in the heapsort algorithm, where it allows the space in the input array to be reused to store the heap (i.e. the algorithm is done in-place). The implementation is also useful for use as a Priority queue where use of a dynamic array allows insertion of an unbounded number of items.
+The upheap/downheap operations can then be stated in terms of an array as follows: suppose that the heap property holds for the indices b, b+1, ..., e. The sift-down function extends the heap property to b�?, b, b+1, ..., e. Only index i = b�? can violate the heap property. Let j be the index of the largest child of a[i] (for a max-heap, or the smallest child for a min-heap) within the range b, ..., e. (If no such index exists because 2i > e then the heap property holds for the newly extended range and nothing needs to be done.) By swapping the values a[i] and a[j] the heap property for position i is established. At this point, the only problem is that the heap property might not hold for index j. The sift-down function is applied tail-recursively to index j until the heap property is established for all elements.
+The sift-down function is fast. In each step it only needs two comparisons and one swap. The index value where it is working doubles in each iteration, so that at most log2 e steps are required.
+For big heaps and using virtual memory, storing elements in an array according to the above scheme is inefficient: (almost) every level is in a different page. B-heaps are binary heaps that keep subtrees in a single page, reducing the number of pages accessed by up to a factor of ten.[5]
+The operation of merging two binary heaps takes Θ(n) for equal-sized heaps. The best you can do is (in case of array implementation) simply concatenating the two heap arrays and build a heap of the result.[6] A heap on n elements can be merged with a heap on k elements using O(log n log k) key comparisons, or, in case of a pointer-based implementation, in O(log n log k) time.[7] An algorithm for splitting a heap on n elements into two heaps on k and n-k elements, respectively, based on a new view of heaps as an ordered collections of subheaps was presented in.[8] The algorithm requires O(log n * log n) comparisons. The view also presents a new and conceptually simple algorithm for merging heaps. When merging is a common task, a different heap implementation is recommended, such as binomial heaps, which can be merged in O(log n).
+Additionally, a binary heap can be implemented with a traditional binary tree data structure, but there is an issue with finding the adjacent element on the last level on the binary heap when adding an element. This element can be determined algorithmically or by adding extra data to the nodes, called "threading" the tree—instead of merely storing references to the children, we store the inorder successor of the node as well.
+It is possible to modify the heap structure to allow extraction of both the smallest and largest element in time.[9] To do this, the rows alternate between min heap and max heap. The algorithms are roughly the same, but, in each step, one must consider the alternating rows with alternating comparisons. The performance is roughly the same as a normal single direction heap. This idea can be generalised to a min-max-median heap.
+A pairing heap is either an empty heap, or a pair consisting of a root element and a possibly empty list of pairing heaps. The heap ordering property requires that all the root elements of the subheaps in the list are not smaller than the root element of the heap. The following description assumes a purely functional heap that does not support the decrease-key operation.
+type PairingHeap[Elem] = Empty | Heap(elem: Elem, subheaps: List[PairingHeap[Elem]])
+GNU C++ Standard library has a trie implementation Java implementation of Radix Tree, by Tahseen Ur Rehman Java implementation of Concurrent Radix Tree, by Niall Gallagher C# implementation of a Radix Tree Practical Algorithm Template Library, a C++ library on PATRICIA tries (VC++ >=2003, GCC G++ 3.x), by Roman S. Klyujkov Patricia Trie C++ template class implementation, by Radu Gruian Haskell standard library implementation "based on big-endian patricia trees". Web-browsable source code. Patricia Trie implementation in Java, by Roger Kapsi and Sam Berlin Crit-bit trees forked from C code by Daniel J. Bernstein Patricia Trie implementation in C, in libcprops Patricia Trees : efficient sets and maps over integers in OCaml, by Jean-Christophe Filliâtre
+v t e Trees in computer science Binary trees Binary search tree (BST) Cartesian tree MVP Tree Top tree T-tree Self-balancing binary search trees AA tree AVL tree LLRB tree Red–black tree Scapegoat tree Splay tree Treap B-trees B+ tree B*-tree Bx-tree UB-tree 2-3 tree 2-3-4 tree (a,b)-tree Dancing tree Htree Tries Suffix tree Radix tree Ternary search tree X-fast trie Y-fast trie Binary space partitioning (BSP) trees Quadtree Octree k-d tree Implicit k-d tree VP tree Non-binary trees Exponential tree Fusion tree Interval tree PQ tree Range tree SPQR tree Van Emde Boas tree Spatial data partitioning trees R-tree R+ tree R* tree X-tree M-tree Segment tree Hilbert R-tree Priority R-tree Other trees Heap Hash tree Finger tree Order statistic tree Metric tree Cover tree BK-tree Doubly chained tree iDistance Link-cut tree Fenwick tree
+The elements used for a skip list can contain more than one pointer since they can participate in more than one list.
+Insertions and deletions are implemented much like the corresponding linked-list operations, except that "tall" elements must be inserted into or deleted from more than one linked list.
+operations, which force us to visit every node in ascending order (such as printing the entire list), provide the opportunity to perform a behind-the-scenes derandomization of the level structure of the skip-list in an optimal way, bringing the skip list to search time. (Choose the level of the i'th finite node to be 1 plus the number of times we can repeatedly divide i by 2 before it becomes odd. Also, i=0 for the negative infinity header as we have the usual special case of choosing the highest possible level for negative and/or positive infinite nodes.) However this also allows someone to know where all of the higher-than-level 1 nodes are and delete them.
+Alternatively, we could make the level structure quasi-random in the following way:
+make all nodes level 1
+j �?1
+while the number of nodes at level j > 1 do
+  for each i'th node at level j do
+    if i is odd 
+      if i is not the last node at level j
+        randomly choose whether to promote it to level j+1
+      else
+        do not promote
+      end if
+    else if i is even and node i-1 was not promoted
+      promote it to level j+1
+    end if
+  repeat
+  j �?j + 1
+repeat
+Like the derandomized version, quasi-randomization is only done when there is some other reason to be running a operation (which visits every node).
+The advantage of this quasi-randomness is that it doesn't give away nearly as much level-structure related information to an adversarial user as the de-randomized one. This is desirable because an adversarial user who is able to tell which nodes are not at the lowest level can pessimize performance by simply deleting higher-level nodes. The search performance is still guaranteed to be logarithmic.
+It would be tempting to make the following "optimization": In the part which says "Next, for each i'th...", forget about doing a coin-flip for each even-odd pair. Just flip a coin once to decide whether to promote only the even ones or only the odd ones. Instead of coin flips, there would only be of them. Unfortunately, this gives the adversarial user a 50/50 chance of being correct upon guessing that all of the even numbered nodes (among the ones at level 1 or higher) are higher than level one. This is despite the property that he has a very low probability of guessing that a particular node is at level N for some integer N.
+This article may contain original research. Please improve it by verifying the claims made and adding references. Statements consisting only of original research may be removed. (May 2008)
+The following proves these two claims concerning the advantages of quasi-randomness over the totally derandomized version. First, to prove that the search time is guaranteed to be logarithmic. Suppose a node n is searched for, where n is the position of the found node among the nodes of level 1 or higher. If n is even, then there is a 50/50 chance that it is higher than level 1. However, if it is not higher than level 1 then node n-1 is guaranteed to be higher than level 1. If n is odd, then there is a 50/50 chance that it is higher than level 1. Suppose that it is not; there is a 50/50 chance that node n-1 is higher than level 1. Suppose that this is not either; we are guaranteed that node n-2 is higher than level 1. The analysis can then be repeated for nodes of level 2 or higher, level 3 or higher, etc. always keeping in mind that n is the position of the node among the ones of level k or higher for integer k. So the search time is constant in the best case (if the found node is the highest possible level) and 2 times the worst case for the search time for the totally derandomized skip-list (because we have to keep moving left twice rather than keep moving left once).
+Next, an examination of the probability of an adversarial user's guess of a node being level k or higher being correct. First, the adversarial user has a 50/50 chance of correctly guessing that a particular node is level 2 or higher. This event is independent of whether or not the user correctly guesses at some other node being level 2 or higher. If the user knows the positions of two consecutive nodes of level 2 or higher, and knows that the one on the left is in an odd numbered position among the nodes of level 2 or higher, the user has a 50/50 chance of correctly guessing which one is of level 3 or higher. So, the user's probability of being correct, when guessing that a node is level 3 or higher, is 1/4. Inductively continuing this analysis, we see that the user's probability of guessing that a particular node is level k or higher is .
+The above analyses only work when the number of nodes is a power of two. However, because of the third rule which says, "Finally, if i is odd and also the last node at level 1 then do not promote." (where we substitute the appropriate level number for 1) it becomes a sequence of exact-power-of-two-sized skiplists, concatenated onto each other, for which the analysis does work. In fact, the exact powers of two correspond to the binary representation for the number of nodes in the whole list.
+A skip list, upon which we have not recently performed either of the above mentioned operations, does not provide the same absolute worst-case performance guarantees as more traditional balanced tree data structures, because it is always possible (though with very low probability) that the coin-flips used to build the skip list will produce a badly balanced structure. However, they work well in practice, and the randomized balancing scheme has been argued to be easier to implement than the deterministic balancing schemes used in balanced binary search trees. Skip lists are also useful in parallel computing, where insertions can be done in different parts of the skip list in parallel without any global rebalancing of the data structure. Such parallelism can be especially advantageous for resource discovery in an ad-hoc Wireless network because a randomized skip list can be made robust to the loss of any single node.[5]
+There has been some evidence that skip lists have worse real-world performance and space requirements than B trees due to memory locality and other issues.[6]
+// Global variable , tower [1:3] are three towers
+arrayStack<int> tower[4];
+ 
+void TowerofHanoi(int n)
+{
+    // Preprocessor for moveAndShow.
+    for (int d = n; d > 0; d--)        //initialize
+        tower[1].push(d);              //add disk d to tower 1
+    moveAndShow(n, 1, 2, 3);           /*move n disks from tower 1 to tower 3 using 
+                                       tower 2 as intermediate tower*/  
+}
+ 
+void moveAndShow(int n, int a, int b, int c)
+{
+    // Move the top n disks from tower a to tower b showing states.
+    // Use tower c for intermediate storage.
+    if(n > 0)
+    {
+        moveAndShow(n-1, a, c, b);     //recursion
+        int d = tower[a].top();        //move a disc from top of tower x to top of 
+        tower[a].pop();                //tower y
+        tower[c].push(d);
+        showState();                   //show state of 3 towers
+        moveAndShow(n-1, b, a, c);     //recursion
+    }
+}
+However complexity for above written implementations is O(). So it's obvious that problem can only be solved for small values of n (generally n <= 30).
+In case of the monks, the number of turns taken to transfer 64 disks, by following the above rules, will be 18,446,744,073,709,551,615; which will surely take a lot of time![7][8]
+Top Trees have been implemented in a variety of ways, some of them include implementation using a Multilevel Partition (Top-trees and dynamic graph algorithms Jacob Holm and Kristian de Lichtenberg. Technical Report), and even by using Sleator-Tarjan s-t trees, Fredericksons Topology Trees (Alstrup et al. Maintaining Information in Fully Dynamic Trees with Top Trees).

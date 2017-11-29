@@ -1,0 +1,2 @@
+★Where can I learn and practice regular expressions?
+For books, I find Mastering Regular Expressions by Jeffrey Friedl to be a readable treatment, you may want to take a look at it: (image sourced from http://oreilly.com)    Embed Quote

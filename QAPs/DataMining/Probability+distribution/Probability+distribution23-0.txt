@@ -1,0 +1,2 @@
+★What are some common prior probability distributions?
+Normal,Poisson,Binomial    Embed Quote

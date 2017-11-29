@@ -1,0 +1,2 @@
+★What is the best FTP client for Mac OS?other than Filezilla
+Transmit for Mac is brilliant. Mac software at it's its finest. http://www.panic.com/transmit/ FTP, SFTP, Amazon S3 compatibility. Gorgeous UI Ability to convert servers into "local mounted disks" for editing projects in TextMate natively Sync Favourites to MobileMe It also does server to server transfers much faster than any other client I have used.

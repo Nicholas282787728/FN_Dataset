@@ -1,0 +1,2 @@
+What are some programming interview questions for a fresher in India?
+This is a site I built with my friend Ray Braaf. Our hope is that it will be used to crowdsource technical interview questions (and specifically programming interview questions). It's called Interque. Hope it helps. And please consider contributing:) 

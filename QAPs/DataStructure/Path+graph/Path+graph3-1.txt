@@ -1,0 +1,2 @@
+What are the practical applications of determining the longest path in a graph?
+Sequence alignment algorithms in bioinformatics can make use of longest path  (in a directed graph) to best determine the longest common subsequence. 

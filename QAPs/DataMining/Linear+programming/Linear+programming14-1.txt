@@ -1,0 +1,2 @@
+★What are some of the greatest real-world applications of linear programming?I've studied and modeled some for applications in transit routes, portfolio management, and inventory management. What are some other ways we can apply (preferably not commonly talked about) LP?
+Probably the optimization of oil refinery outputs as a function of market prices and available feedstock.    Embed Quote

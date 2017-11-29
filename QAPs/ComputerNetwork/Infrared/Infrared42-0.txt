@@ -1,0 +1,2 @@
+★Which is fastest in communication among infrared and microwave?
+Both are electomagnectic waves and so they travel at the speed of light. Satellites use microwave to communicate as it has high frequency. So dissipation is less. (For long distances). Whereas infrared waves can be used for short distance communication.    Embed Quote

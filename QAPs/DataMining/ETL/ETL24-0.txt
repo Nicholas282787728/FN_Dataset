@@ -1,0 +1,2 @@
+★What will be future of informatica and other ETL tools as Big data getting popular?
+ETL tools will remain popular as they are used for Data Extraction and Big or small data cannot exist unless it is extracted and stored for analysis.    Embed Quote

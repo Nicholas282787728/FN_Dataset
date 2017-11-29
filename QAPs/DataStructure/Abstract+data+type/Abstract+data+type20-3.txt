@@ -1,0 +1,2 @@
+How do you explain what an abstract data type is in Java to someone who likes Harry Potter?
+"How do you explain what an abstract data type is in Java to someone who likes Harry Potter?" The same way you explain what an abstract data type is in Java to someone who does like Harry Potter !! It is irrelevant/immaterial whether a person likes Archie/Batman/Carrots/.../Potter/... or not; Java abstract data type concept will not change. 

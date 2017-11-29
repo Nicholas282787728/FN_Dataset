@@ -1,0 +1,2 @@
+How should one go about implementing a thread-safe doubly linked-list without locking the entire list in C?
+Did you hear about the RCU method? It expands to read-copy-update. Wikipedia has a nice explanation on how this works. 

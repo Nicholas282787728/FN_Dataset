@@ -1,0 +1,2 @@
+★How can you test what continuous probability distribution fits a given set of data best?
+Just compute a (log) likelihood of the data given the PDF. http://en.wikipedia.org/wiki/Lik...    Embed Quote

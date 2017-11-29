@@ -1,0 +1,2 @@
+What are some ways and methods large DB vendors use to create GeoSpatial indexes?
+There is a high-dimensional indexing method in development that will be tuned to 3D geospatial-temporal data that will scale to petabytes for sure. Imagery fully supported. 

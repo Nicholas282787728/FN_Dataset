@@ -1,0 +1,2 @@
+★Will secure protocols eventually replace all plain-text protocols online?As bandwidth and CPU power increases, will it make sense for all online communication to be sent through an encrypted layer?
+I do not foresee it "replacing" unsecured protocols but depending on what data is being transmitted and to who or where there is a place for it.  It certainly makes sense for email and other communications like instant messaging.  But for transmitting more generic data with less need or desire for privacy you are only adding overhead to it for the sake of doing it.    Embed Quote

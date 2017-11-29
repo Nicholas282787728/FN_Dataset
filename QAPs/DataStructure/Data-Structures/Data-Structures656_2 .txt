@@ -1,0 +1,1 @@
+Why do we use a struct pointer inside a structure definition in C?Generally we use structure pointer inside a structure that is used to point to the same structure . These are called self referential structures . They are used to link two or more variables of the same structure and form a data structures. for eg. linked lists, Trees , Heaps etc. 73 Views

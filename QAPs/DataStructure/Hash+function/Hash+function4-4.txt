@@ -1,0 +1,1 @@
+Which is the fastest yet "random" hash function?

@@ -1,0 +1,2 @@
+★How does 'grep' preprocess a text file for efficient regular expression matching?
+Grep does not preprocess the text file.. It steps through the file one byte at a time. If the machine is Intel and the first byte of the search string is not a wild card, the machine can search for the first byte with a single instruction: REPNE SCASB. I believe gcc optimizes strsep() in the C standard library to use that instruction. If you don't care about portability, call an assembly language function to find the first bytes of candidates in the text file. .    Embed Quote

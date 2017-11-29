@@ -1,0 +1,2 @@
+What is the time complexity of hash table O(1)?
+To begin with, hash table is a large array. Now you want to put your data in it. But wait! Not in a conventional way.... Say, you want to store numbers. You'll be smart enough and say hey.... "I'll store number k at the k th index in the array." E.g. You would put 3 at the 3rd index. 6 at the 6th index. Now why the heck would I do that remains the question.... (more)

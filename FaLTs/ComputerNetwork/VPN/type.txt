@@ -1,0 +1,12 @@
+Early data networks allowed VPN-style remote connectivity through dial-up modem or through leased line connections utilizing Frame Relay and Asynchronous Transfer Mode (ATM) virtual circuits, provisioned through a network owned and operated by telecommunication carriers. These networks are not considered true VPNs because they passively secure the data being transmitted by the creation of logical data streams.[4] They have been replaced by VPNs based on IP and IP/Multi-protocol Label Switching (MPLS) Networks, due to significant cost-reductions and increased bandwidth[5] provided by new technologies such as Digital Subscriber Line (DSL)[6] and fiber-optic networks.
+
+VPNs can be either remote-access (connecting a computer to a network) or site-to-site (connecting two networks). In a corporate setting, remote-access VPNs allow employees to access their company's intranet from home or while travelling outside the office, and site-to-site VPNs allow employees in geographically disparate offices to share one cohesive virtual network. A VPN can also be used to interconnect two similar networks over a dissimilar middle network; for example, two IPv6 networks over an IPv4 network.[7]
+
+VPN systems may be classified by:
+
+The protocols used to tunnel the traffic
+The tunnel's termination point location, e.g., on the customer edge or network-provider edge
+The type of topology of connections, such as site-to-site or network-to-network
+The levels of security provided
+The OSI layer they present to the connecting network, such as Layer 2 circuits or Layer 3 network connectivity
+The number of simultaneous connections

@@ -1,0 +1,2 @@
+Can I learn algorithms by just writing code?
+I don't think so. Learning an algorithm is more than knowing how to implement it. You should understand the intuition behind it, its time complexity, and its space complexity. You should also know what are the drawbacks of the algorithms, when is it a good idea to use it and when it's not. Only writing code isn't going to teach you all that. 

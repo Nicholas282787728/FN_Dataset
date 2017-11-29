@@ -1,0 +1,2 @@
+What are some things that programmers and computer scientists know, but most people don't?
+Computers are extremely fair. Barring hardware bugs, they would do exactly what asked. If suddenly they don't, it's some human being who has screwed up. In most cases, the one that right now is blaming the computer for doing what it should. Updated 8 Apr 2014 • View Upvotes

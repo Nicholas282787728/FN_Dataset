@@ -1,0 +1,2 @@
+★What is a good graphing framework for tracking and measuring performance metrics?It would be useful to have something which measures overall site performance, memory usage on servers, CPU, etc. Ganglia (http://ganglia.sourceforge.net/) seems to be useful for measuring cpu, memory, load, and metrics like that for a cluster, but doesn't have a fantastic way to record things that span single servers (like frontend javascript performance time).
+Not to toot our own horn too aggressively, but New Relic is built for exactly that. http://newrelic.com/rum    Embed Quote

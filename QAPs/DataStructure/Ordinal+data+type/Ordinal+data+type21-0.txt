@@ -1,0 +1,2 @@
+Which type of ML/statistics methods fit a "select best candidate" scenario?
+In classical statistics this is known as the selection problem.  You can find the basic theory in Gibbons, Olkin & Sobel. 

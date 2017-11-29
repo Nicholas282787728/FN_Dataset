@@ -1,0 +1,2 @@
+How do I learn data analysis for Python?
+Books (from basic to advanced) Downey, Think Stats: http://www.amazon.com/Think-Stat... Janert, Data Analysis with Open Source Tools:   http://www.amazon.com/Data-Analy... Mckinney, Python for Data Analysis,  http://www.amazon.com/Python-Dat... Videos: Mckinney, Data Analysis in Python with Pandas: http://pyvideo.org/video/611/dat... Downey, Bayesian statistics made (as) simple (as possible): http://pyvideo.org/video/608/bay...    Embed Quote Updated 15 Mar, 2013. 5,637 views.

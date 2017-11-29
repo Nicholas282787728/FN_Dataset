@@ -1,0 +1,1 @@
+How do I print pascal's triangle in C++ using 2D arrays?Why you need 2D arrays for that? It just requires 3 loops for the same. Refer Here: Write a C++ program to implement Pascal’s triangle. 222 Views

@@ -1,0 +1,2 @@
+★What is the benefit of IPv6?It seems like NAT is good enough.
+Endless IP address , Simpler Headers and no NAT's .    Embed Quote

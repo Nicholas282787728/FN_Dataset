@@ -1,0 +1,2 @@
+If all programmers and developers look things up as they code, why are coding tests often a part of the interview process?
+Coding tests cover skills people can't look up, like writing loops that terminate correctly, thinking of and handling edge conditions, thinking concurrently, etc.   Problems with common syntax in a language a candidate claims to have used recently and extensively suggests they lied on their resume or can't remember enough to write software.  Beyond that there's a lot of latitude. 

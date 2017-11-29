@@ -1,0 +1,2 @@
+★Can you use a VPN on an iPhone or iPad?
+I don't think so that the question relates to CISO. But let me share my views for the said question. Yes, you can use VPN on iPhone and iPad. It require the credentials from the VPN Service Provider ( Both in case of Free and Paid ) You simply need to configure the VPN in your phone through easy setting guide which you will get from the Service Provider. Initially, on IOS basic VPN Protocols are featured which are PPTP and L2TP which all security and as well as fast browsing. Source: http://www.bestvpnservice.com/bl...    Embed Quote

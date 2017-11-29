@@ -1,0 +1,2 @@
+What are some good blogs for learning Binary Indexed Tree data structure apart from TopCoder tutorials?
+Here are some of them which I found, 1. Binary Indexed Tree. 2. Binary Indexed Tree- Fenwick Tree 3. Binary Indexed Tree (BIT) 4. Basic Binary Indexed Tree (English version) - Codeforces 5. Updating partial sums with Fenwick tree 6. Binary Indexed Trees with some Solved Example. Happy Coding! 

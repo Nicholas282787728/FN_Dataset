@@ -1,0 +1,2 @@
+★If you run a B2B company, what are the most important performance metrics for your VP of Marketing?
+Maximize the following function: Number of new customers acquired * Average Quality (defined some way intelligently) * Long Term Value subject to a fixed marketing budget constraint.    Embed Quote

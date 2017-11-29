@@ -1,0 +1,10 @@
+Basic cable types are as follows:
+Shape
+Ribbon cable
+Construction
+Based on construction and cable properties, they can be sorted into the following:
+Coaxial cable Mineral-insulated copper-clad cable Twinax cable Flexible cables Non-metallic sheathed cable (or nonmetallic building wire, NM, NM-B)[1] Metallic sheathed cable (or armored cable, AC, or BX)[1] Multicore cable (consist of more than one wire and is covered by cable jacket) Shielded cable Single cable (from time to time this name is used for wire) Twisted pair Twisting cable
+Special
+Arresting cable Bowden cable Heliax cable Direct-buried cable Heavy-lift cable Elevator cable
+OFC: Optical fiber, conductive OFN: Optical fiber, nonconductive OFCG: Optical fiber, conductive, general use OFNG: Optical fiber, nonconductive, general use OFCP: Optical fiber, conductive, plenum OFNP: Optical fiber, nonconductive, plenum OFCR: Optical fiber, conductive, riser OFNR: Optical fiber, nonconductive, riser OPGW: Optical fiber composite overhead ground wire ADSS: All-Dielectric Self-Supporting
+This section requires expansion. (June 2008)

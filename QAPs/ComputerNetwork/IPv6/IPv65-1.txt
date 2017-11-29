@@ -1,0 +1,2 @@
+★Can IPv6 be spoofed?
+just an add to Mike Fratto's answer... It's still too hard to say how the things will swing. The implementation is still under scrutiny of the deployers. We'll probably develop and use mechanisms that will address such issues. But in general, I agree with the main answer. It's just an IP. Nevertheless, spoofing may have some problems due to Duplicate Address Detection and Router Advertisments.    Embed Quote

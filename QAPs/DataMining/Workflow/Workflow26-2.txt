@@ -1,0 +1,2 @@
+★What are the best workflows for iOS Development?Paper mockups? Wireframe software? Exporting assets?
+For example: Click on application icon –> Splash screen –> Login screen –> Registration –> main page Search for a product –> read review –> see rating –> Add comment –>> buy Add to cart –> insert payment info –> payment received –> confirmation Resource: intuito :: insights for success    Embed Quote

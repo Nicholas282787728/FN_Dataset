@@ -1,0 +1,2 @@
+What hardware is best for ElasticSearch?We have 8TB of data indexed which will scale to 80TB.  We add 300,000 documents to the index per day, planning to scale to 3 million.    Total of 27 million docs, planning to scale to 270m. Query numbers would be in the scale of thousands per day (ie, a small number) but the response time needs to be web-appropriate.
+If you possibly have the budget, spend the extra $$ on SSD's over disks, at least for indices that are more frequently accessed. 

@@ -1,0 +1,2 @@
+★What are some methods of time-series regression analysis?This is a follow-up on: What are some time series measures?
+Professor Steven Skeina had taught a free class named Computational Finance, where he had expressed his unique methods about time-series analysis. I am strongly recommend that you should take at a look at it since it is free lol    Embed Quote

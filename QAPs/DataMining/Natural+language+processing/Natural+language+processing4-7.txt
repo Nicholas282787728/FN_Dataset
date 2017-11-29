@@ -1,0 +1,2 @@
+★What programming languages are suitable for natural language processing?
+Scala seems to be the king of the hill at the moment. Python is great, but compared to other languages it is slow. But it's not only Scala language and things like the Breeze project (look it up on github), but many of the data analysis, abstract algebra, distributed systems, and streaming tools coming to maturity in the Scala community (for example, just look at twitter's open source projects on github, also check out Spark, ...)    Embed Quote

@@ -1,0 +1,2 @@
+★How do I learn about linear models?
+The gist of linear model is: there is no funny behavior at the boundary of the domain. You add or minus something with linear effect on the dependent variable and you expect proportionate changes in the dependent variable. That's all.    Embed Quote

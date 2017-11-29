@@ -1,0 +1,2 @@
+Under what conditions would a slow algorithm run faster than a fast algorithm?
+I suppose you could have an algorithm that is theoretically faster (fewer instructions), but has more cache misses than another that should be slower but has better locality in its data access. Also, many optimisations trade a certain amount of setup for quicker query computations, like initially putting data points in a spatial structure such as an octree or k-d tree. So, if the size of your data set is too small, the initial pre-computation might not be worth it. 

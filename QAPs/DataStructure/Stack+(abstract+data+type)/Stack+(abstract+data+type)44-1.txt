@@ -1,0 +1,2 @@
+How does compiler know whether the recursion is a tail recursion or not and how does it optimize tail recursion?
+By definition a tail recursion does not do any processing after recursive call. A parser can detect the using the language construct. For example in C, the recursive call should be followed by a simple return or function definition end curly braces.  That is all. 

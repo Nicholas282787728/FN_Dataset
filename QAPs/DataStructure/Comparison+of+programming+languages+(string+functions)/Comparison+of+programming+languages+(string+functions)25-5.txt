@@ -1,0 +1,2 @@
+Why are Java 8 lambda expressions regarded as a big change in the Java programming language?
+You should watch Erik Meijer's talk, especially at 26 min into it. It not only explains why lambdas are important, but also why Java was so late in adopting them. 

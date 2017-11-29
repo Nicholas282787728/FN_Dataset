@@ -1,0 +1,2 @@
+★How do you see the metadata of an MP3 file?Is there software that allows you to see all the metadata?
+There is an excellent software called EasyTag mp3 which allows not only to see but to edit and change the metadata in an mp3 file. "Unfortunately" (note the quotes) it seems to be only available fo Linux, Unix (BSD) and MacIntosh. I have used this to edit the metadata info of mp3 files, then pass them through the iTunes app, (so it builds the audio voiceover track) and then upload the files to an iPod.  Works great. http://easytag.sourceforge.net/    Embed Quote

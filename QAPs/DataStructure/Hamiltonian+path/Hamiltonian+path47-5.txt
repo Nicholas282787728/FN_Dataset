@@ -1,0 +1,2 @@
+What are some interesting algorithms that have no known implementation to date?
+Brodal queue is considered virtually impossible to implement even though until recently, it had the best set of worst case bounds for a heap data structure. Recently strict fibonacci heaps were discoverd, which are semingly implementable and have the same worst case bounds. 

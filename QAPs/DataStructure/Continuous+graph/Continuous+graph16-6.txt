@@ -1,0 +1,2 @@
+Mathematical Fallacies: How does one explain the “π = 4” proof regarding a square reduced to a circle?
+Originally Answered: Where is the fault in this mathematical logic?The last figure is not the circle. Its perimeter will be some function lim x->infinity (x) where x is some number of perpendicular lines. It is casual tricks with missing such nonsense as lim. In most functions you get pretty same results as without it so people forget that it is really important. 

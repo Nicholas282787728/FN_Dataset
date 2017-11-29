@@ -1,0 +1,2 @@
+★How can machine learning and/or pattern recognition techniques be applied to signal processing/DSP?
+First, there are some crossed topics between signal processing and machine learning, such as compressed sensing, dictionary learning and so on. You can call them machine learning algorithm and so as to signal processing algorithm. Second, there are some basic algorithm can be used in machine learning or signal processing. Especially optimization algorithm, such as L1 optimization, L2 optimization and L0 optimization.    Embed Quote

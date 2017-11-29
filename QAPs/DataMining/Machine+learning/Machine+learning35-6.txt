@@ -1,0 +1,2 @@
+★What are the best open source machine learning libraries written in Python?
+I recommend checking out the python library ramp, and not just because I wrote it! It's a true machine learning framework and let's you work at a high-level without getting bogged down in math details or messy data wrangling bits. It's easy to hook in models and algorithms from the other libraries already mentioned here. If you want an introduction, here's a blog post I wrote: Getting started with Ramp: Detecting insults.    Embed Quote

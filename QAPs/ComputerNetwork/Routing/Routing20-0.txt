@@ -1,0 +1,2 @@
+★Is there any algorithm for finding the routes in a maze?I need an algorithm to find the route through the maze. Anybody?
+1.To find the shortest path If you want to find the shortest path to the destination then you have to  apply the Dijkstra's algorithm. 2.To find the longest path for finding the longest path traverse from  root through every possible path with root fixed. 3.For just route to destination Apply DFS. If you hit a bump step back to previous one and move ahead from the nearest node.    Embed Quote

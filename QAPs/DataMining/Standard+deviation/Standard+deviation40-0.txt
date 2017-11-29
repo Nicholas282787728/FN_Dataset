@@ -1,0 +1,2 @@
+★What are realistic portfolio standard deviations (against expected returns) in investment banks these days?
+I've seen v@r's of up to 5% in the past two years, on the prop trading side. Of course, loan portfolios and cash have much lower stdevs, so they balance each other down.    Embed Quote

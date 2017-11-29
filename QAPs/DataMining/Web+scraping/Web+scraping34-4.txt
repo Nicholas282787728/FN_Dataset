@@ -1,0 +1,2 @@
+★What is the best language for developing web scraping and web indexing softwares?
+python has some awesome web scraping frameworks. try one of these A Fast and Powerful Scraping and Web Crawling Framework The Hitchhiker's Guide to Python Introduction to Web Scraping using Scrapy and PostGres    Embed Quote

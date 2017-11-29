@@ -1,0 +1,2 @@
+★Is NFC a form of RFID?
+What I know is that NFC is the latter version of RFID. Since NFC is a subset of RFID, a layman's perspective could consider it as the same. Check out this blog on why NFC could be almost equal to RFID: Which Tagbond Is Using: NFC or RFID? by Tag Bond on Tagbond    Embed Quote

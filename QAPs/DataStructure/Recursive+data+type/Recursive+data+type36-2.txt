@@ -1,0 +1,2 @@
+Self-taught: After teaching myself programming for one year, how much of the subject should I know?
+I would agree with being able to create a program, though trying to define non-trivial is difficult. I would say a good benchmark is if you can take a problem or program idea and make it functional. Not necessarily the cleanest code or one with all the bells and whistles, but as long as it runs and produces the expected output. *Note: don't expect to produce professional quality software in a year, or software that requires highly specialized knowledge. 

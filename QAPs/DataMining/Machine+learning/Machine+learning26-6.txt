@@ -1,0 +1,2 @@
+★What are some good books on machine learning?
+In addition to the very good books referred already: "Machine Learning in Action" is a nice book for hands on excercise. "Machine Learning: An Algorithmic Perspective" by Stephen Marsland  "Introduction To Machine Learning" by Ethem Alpaydin    Embed Quote

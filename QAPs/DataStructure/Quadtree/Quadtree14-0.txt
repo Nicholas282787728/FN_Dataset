@@ -1,0 +1,2 @@
+What are some of the coolest applications of programming competition algorithms in real life?
+First one that came to mind: Database systems are usually implemented using hashing & B-trees. 

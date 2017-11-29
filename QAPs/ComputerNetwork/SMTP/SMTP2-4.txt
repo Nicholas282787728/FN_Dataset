@@ -1,0 +1,2 @@
+★Why would an IT department disable POP3, IMAP & SMTP?quoting "security reasons" - what are these?
+If you have direct and unfiltered access to external hosts via SMTP (usually 25/TCP), you could easily get your company's public IP addresses blacklisted thus shutting down all your company's email sending for at least 24hr.    Embed Quote

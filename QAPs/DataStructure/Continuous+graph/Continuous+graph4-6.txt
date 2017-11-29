@@ -1,0 +1,1 @@
+Intuitively and on the graph, why if a function is differentiable then its continuous?

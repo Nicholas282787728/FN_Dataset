@@ -1,0 +1,2 @@
+★How can I bridge two Networks?I have 2 separate networks in my startup. I need to bridge those so that all the employees can communicate with each other over the LAN / WLAN. Is there any Way?
+Run an Ethernet cable between the two switches They are then on the same LAN segment = bridged.  If both networks are in the same IP space, they should see each other just fine.

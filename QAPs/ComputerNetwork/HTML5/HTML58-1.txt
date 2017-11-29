@@ -1,0 +1,2 @@
+★What are the best features of HTML5?
+Backwards-compatibility. A single, simple doctype and Content-type HTTP header combination that maximizes standards-compliance mode across all current browsers. Geolocation API + offline storage + web workers = viable  cross-platform mobile app development. This is a BFD. Video tag as a faster, more secure, open alternative to Flash Canvas (even "just" 2-D) is unbelievably powerful. There's plenty to complain about but the good outweighs the bad -- and the best parts, in my opinion, are really, really good.

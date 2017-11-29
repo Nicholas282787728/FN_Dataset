@@ -1,0 +1,2 @@
+★What is DNS?
+Domain name system that translate the website that you enter from letters to an IP to be able to resolve it and show you the desired website

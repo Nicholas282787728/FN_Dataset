@@ -1,0 +1,1 @@
+What is an ordered array?I know that my question is trivial but is that ordered array is sorted array ??Sorting is one of the order. Other orders could be First inserted , Last accessed etc. 

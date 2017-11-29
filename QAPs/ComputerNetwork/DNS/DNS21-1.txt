@@ -1,0 +1,2 @@
+★Why are underscores not allowed in DNS host names?It is not a valid character according to RFCs 1034 and 1035, but why? (Apparently, according to those sources, it goes back to ARPANET host names.)
+Note that rfc 2181 removes this restriction - see section 11 Name Syntax. (Clarifications to the DNS Specification)

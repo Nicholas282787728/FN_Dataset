@@ -1,0 +1,2 @@
+Why is f(x)=xsin(1x )  continuous but nondifferentiable at x=0  ?I found this question in a course. I've tried to explain it using the quotient rule but it didn't work. Is there a way to prove it with the quotient rule or does the quotient rule get you nowhere?
+You can plug in the definition of the derivative and see why: f ′ (0)=lim h→0 f(h)−f(0)h   =lim h→0 hsin(1/h)−0h   =lim h→0 sin(1/h)  which is undefined, hence it has no derivative at x=0  

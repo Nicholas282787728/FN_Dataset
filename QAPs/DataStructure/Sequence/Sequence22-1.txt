@@ -1,0 +1,2 @@
+Number Sequence: A sequence contains the following numbers. Can you find the function this sequence generates?
+Aid ? Really interesting though, the sequence goes like this, +n,+n,-m,-m-2 +n+2,+n+2,-m-2,-m-4 I do not think if I summed it well but it does goes like this :) 

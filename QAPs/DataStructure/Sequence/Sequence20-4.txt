@@ -1,0 +1,2 @@
+Number Sequence: Given the sequence: 1,3,7,13,21,31,43 ... which number stands in place 1001?
+The pattern of the sequence is n^2-n+1. These problems should be categorized as hmwk help rather than math. 

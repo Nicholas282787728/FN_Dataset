@@ -1,0 +1,2 @@
+★What is the beauty of Machine Learning?Why all of a sudden all programmers are interested in Machine Learning?
+Instead of making your program reactive agents, you allow them to learn and to adapt.    Embed Quote

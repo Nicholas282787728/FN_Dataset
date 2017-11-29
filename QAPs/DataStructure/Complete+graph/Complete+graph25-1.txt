@@ -1,0 +1,2 @@
+Is the Google knowledge graph completely automated? How are mistakes rectified?
+Google Knowledge Graph is powered by Freebase. Freebase is fed by Wikipedia and freebase contributors (you can become one). A good explanation of the processes that go into keeping the data clean and up-to-date can be found here: What is the quality of data in Freebase? 

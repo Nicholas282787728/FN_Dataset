@@ -1,0 +1,2 @@
+What is the simplest explanation of Bayesian statistics?
+Joe Blitzstein's answer is thorough and totally correct. But it won't fit on a gum wrapper. One that might is "Using Bayes' Rule to update your best guesses about anything unobserved, given everything observed." The Devil's in the Details, of course, and in practice there's a lot more to it. But, at its core, Bayesian statistics is remarkably simple and unified, conceptually, around that one procedure.    Embed Quote 

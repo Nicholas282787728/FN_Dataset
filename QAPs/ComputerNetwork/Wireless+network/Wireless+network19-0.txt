@@ -1,0 +1,2 @@
+★How do I secure my wireless network?
+Try adding some kind of encryption. There are a few you should try out 1) WPA- PSK allows you to enter a keyword at the access point side. So everytime you need a connection to your network you need to enter your passphrase 2) For higher level of security use WPA2-PSK. Same as above. This settings are found in the access point homepage or you can configure it with a USB plugged in your router. Now if you have an enterprise network then securing it you need a RADIUS server and a whole different problems to work with.    Embed Quote

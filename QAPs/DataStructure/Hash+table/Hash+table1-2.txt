@@ -1,0 +1,2 @@
+How would you implement a hash table in C from scratch?
+Watch This: CS50 Sections - Hash Tables. Get your hands dirty and try to implement. DO NOT GIVE UP. 3.1k Views · 2 Upvotes · Answer requested by Cody Davis

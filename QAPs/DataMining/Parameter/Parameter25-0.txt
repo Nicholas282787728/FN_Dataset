@@ -1,0 +1,2 @@
+★Why does LinkedIn have a 'trk' parameter in their URLs?
+This is for tracking purpose to know what comes from the API and where they came from    Embed Quote

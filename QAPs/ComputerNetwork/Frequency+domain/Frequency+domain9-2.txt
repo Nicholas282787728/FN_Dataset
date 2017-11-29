@@ -1,0 +1,2 @@
+★Digital Signal Processing: How do you explain (without doing any calculation), that convolution in time domain should imply multiplication in frequency domain?I'd like to know about some non-mathematical argument or intuition.
+The answers given by other users are great.  As an added suggestion, if you have MATLAB or OCTAVE handy, you can play around with ffts iffts

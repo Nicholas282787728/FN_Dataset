@@ -1,0 +1,2 @@
+Which programming language is good to learn OOP?
+C# or Java. These languages are written in object oriented way, so the mindset of oop is already built into them. There's plenty help in learning materials and online forums, and both languages are great for general learning of programming. 

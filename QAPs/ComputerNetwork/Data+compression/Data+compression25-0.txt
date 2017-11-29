@@ -1,0 +1,2 @@
+★How do I perform data compression in Android?I want to make an Android app which will need to use data compression. How do I do it?
+Thanks for the A2A. Please check this link: Android: HTTP communication should use "Accept-Encoding: gzip". Here, the content header accept-encoding : gzip forces your request and response headers to use gzip encoding. Configure your server to handle gzip. If your server is using PHP, using ob_start("ob_gzhandler");

@@ -1,0 +1,2 @@
+What is the best way to perform a spiral level-order traversal of a binary tree iteratively?
+Do a Breadth First Search. Maintain 2 stacks. stack1.add(root). while(true)       while (stack1 is not empty)              pop from stack1 and push its children to stack 2. ... (more)

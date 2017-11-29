@@ -1,0 +1,2 @@
+★Do any NoSQL databases store unstructured data in a way that is searchable?
+This is what Elasticsearch does, and it is considered a NoSQL database. Were you thinking of the more common meanings of "NoSQL" - a document database, or a key-value store?    Embed Quote

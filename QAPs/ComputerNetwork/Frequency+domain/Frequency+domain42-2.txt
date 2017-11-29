@@ -1,0 +1,2 @@
+★What is the difference between an 'integrator' and a 'low pass filter' & 'differentiator' and a 'high pass filter'?
+yes, they are for most practical purposes, the same things. (e.g. low pass filter = integrator) You will note quite handily that if you feed a low pass filter a DC value the output of the filter will go up linearly (limited by the voltage compliance)  just like an integrator, because in fact, it is an integrator.

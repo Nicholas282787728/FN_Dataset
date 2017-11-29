@@ -1,0 +1,2 @@
+★What is a good wireless router that supports L2TP or OpenVPN?Web-based administration is fine, SSH access will be great.
+Cisco 800 series routers have a wireless option and support pretty much any feature you can think of for a SOHO.    Embed Quote

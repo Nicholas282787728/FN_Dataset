@@ -1,0 +1,2 @@
+What are some efficient auto-complete data structures?
+Ternary search trees are good data structures for auto-completion when you want to do prefix matching, but it also depends on how static the lookup data is and your read/write concurrency constraints. I've written a bit about a solution that worked for me and posted my own algorithm using a slightly modified ternary search tree. An efficient typeahead/autocomplete data structure and algorithm 

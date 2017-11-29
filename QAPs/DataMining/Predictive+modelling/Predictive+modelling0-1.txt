@@ -1,0 +1,2 @@
+★What is predictive modeling healthcare?
+Predictive modelling in healthcare is based on principle of Mathematical modelling of disease. Principles of epidemiology and mathematical modeling are used to prepare models for health outcomes. Such models are used to prepare predictive equations which can forecast information about disease. Eg. Whether disease will become epidemic or pandemic based on information on number of cases, secondary attack rate and preventive measures.    Embed Quote

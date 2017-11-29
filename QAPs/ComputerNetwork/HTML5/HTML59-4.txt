@@ -1,0 +1,2 @@
+★Is Bootstrap a complement or an alternative to HTML5 Boilerplate or viceversa?In one corner we have Bootstrap and Foundation, in the other we have HTML5 Boilerplate and similar HTML/CSS starting templates. Can they be used together or do we have to pick a side?
+My recommendation: If you want a fast and complete solution you'll choose Bootstrap, if you want your project work well on Table PC/Smartphone you'll choose Foundation. Currently i'm using both Bootstrap/Foundation, depend on each project.

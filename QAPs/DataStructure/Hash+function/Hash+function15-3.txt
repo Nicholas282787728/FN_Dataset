@@ -1,0 +1,2 @@
+What should every programmer know about hash tables and hash functions?
+1. Collisions are more frequent than what you think (see birthday paradox) 2. There are very simple and efficient ways to deal with collisions (Cuckoo Hashing, Hopscotch hashing) 3. A hash function has to be fast! (see FNV, Jenkins, Murmur) 4. There's always a way to solve the problem you are having with your hash table :) 

@@ -1,0 +1,1 @@
+What major factors distinguish advanced and elementary data structures?In other words, what makes stacks, queues, linked lists, hash tables elementary, and what makes B-trees, Fibonacci Heaps, and van Emde Boas Trees advanced?

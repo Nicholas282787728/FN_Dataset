@@ -1,0 +1,2 @@
+★What are some practical applications of genetic algorithms?
+I was studying journal of Construction Engineering and Management, There They have used  NSGA-2(Non dominating sorting algorithm) with some fuzzy set rules in TCRO model(Stochastic Time-Cost-Resource Utilization Optimization) in their construction project. and finally their project was very successful. Overview  : Stochastic Time-Cost-Resource Utilization Optimization Using Nondominated Sorting Genetic Algorithm and Discrete Fuzzy Sets    Embed Quote

@@ -1,0 +1,2 @@
+Why is there so much hype about functional programming?
+First off, C isn't a functional programming language. In fact, majority of developers don't learn functional programming. So functional programming is actually a novelty. Like any novelty, it does tend to have a strong cult following. Second, functional programming is a different way of thinking. Even learning a different way of thinking is useful as it gives programmers new perspective. Third, functional programming is actually pretty cool. Most of them are built by the smartest folks in the field. 

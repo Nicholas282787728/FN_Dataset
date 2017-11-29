@@ -1,0 +1,11 @@
+Examples Are:
+
+Networking Media
+Ethernet Cables (Cat5, Cat5e, Cat6, Cat6a)
+Token Ring Cables (Cat4)
+Coaxial cable is sometimes used as a baseband digital data cable, such as in serial digital interface and thicknet and thinnet.
+Optical fiber cable; see fiber-optic communication
+Serial cable
+Telecommunications Cable (Cat2 or telephone cord)
+Media devices
+USB cable

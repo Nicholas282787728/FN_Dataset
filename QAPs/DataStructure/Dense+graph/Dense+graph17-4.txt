@@ -1,0 +1,1 @@
+Do BCS computer rankings update previous game difficulty based on new information?In other words, if Stanford beats a seemingly bad team in Week 2, the computer rankings will give them some middling score for that win. If that bad team ends up being dominant, do the rankings update, giving Stanford more credit for the Week 2 victory?

@@ -1,0 +1,2 @@
+★What are the best open source machine learning libraries written in Python?
+Please watch Matt Spitz's presentation on practical machine learning in Python, which mentions most of the other answers say, but gives some context:    Embed Quote

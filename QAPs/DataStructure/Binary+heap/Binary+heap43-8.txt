@@ -1,0 +1,1 @@
+Is it natural for a good programmer to forget syntax/algorithms over time if you don't use it a lot?

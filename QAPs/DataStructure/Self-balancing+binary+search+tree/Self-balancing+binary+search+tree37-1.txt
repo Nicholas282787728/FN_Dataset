@@ -1,0 +1,2 @@
+What data structures should I know to become a great programmer?
+In line with Nilesh Sharma's answer: Sorted recommendations from beginner to expert: Arrays Linked Lists Stacks Queues Trees Graphs Hash Tables DatabasesAnd I'm not quite sure with that Machine Data Representation. If you're not planning on doing algorithms, feel free to jump from number 1 to number 7. 

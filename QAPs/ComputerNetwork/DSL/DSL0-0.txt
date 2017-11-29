@@ -1,0 +1,2 @@
+★Is jQuery a DSL?
+You could argue that, and as Zef Hemel points out there's not a bright-line rule between what is and what is not a DSL. But personally I would call jQuery the DOM library that client-side Javascript should have had in the first place.

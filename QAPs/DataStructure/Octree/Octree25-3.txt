@@ -1,0 +1,2 @@
+What sort of software projects require graph algorithms or network flow algorithms?
+only know basic usecase. don't beat me if it is little info. you need use graph algorithm if you work on maps; typcially, we need use it when we do some traffic optimation on transportation network. we can simulate network devices using graph ideas. we could use graph theory to analyze the social network. 

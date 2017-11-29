@@ -1,0 +1,2 @@
+★What are the most interesting applications of Markov chains?Besides writing Bob Dylan songs.
+MCMC (Markov Chain Monte Carlo) methods allow us to sample from any arbitrary probability distribution. MCMC methods are quite popular in all the scientific fields and allow us to approximate any posterior distribution, given prior and observations.    Embed Quote

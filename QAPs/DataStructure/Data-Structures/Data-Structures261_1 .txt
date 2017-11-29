@@ -1,0 +1,1 @@
+What is the generalized list in a data structure?This term is not standardised, but most people I know that use it mean “the lists as defined in Lisp”. Since Lisp is not typed, you can put lists in lists, so that in effect generalised lists are trees with leaves of any type. 307 Views

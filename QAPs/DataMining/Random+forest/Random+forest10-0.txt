@@ -1,0 +1,2 @@
+★Is there a standard random forest definition file?Specifically, one for which there are python and c++ libraries. I'd like to train a model in python and evaluate it in c++.
+Predictive Model Markup Language (PMML) is the most standard format for encoding common types of machine learning models, and this includes random decision forests. See for example: PMML 4.1 - Tree Models In Java, there is jpmml - Java PMML API - Google Project Hosting for parsing and writing PMML. I would imagine there are equivalents in other languages.    Embed Quote

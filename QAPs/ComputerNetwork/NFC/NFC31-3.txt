@@ -1,0 +1,2 @@
+★What's the point of NFC for smartphones?
+The main reason is to enable payment - i.e. an convenient way of (a) indicating consent, similar to a credit card signature (b) ensuring security and authentication, (c) making the whole transaction extremely reliable. Other wireless technologies you quoted fail to achieve any one of these.    Embed Quote

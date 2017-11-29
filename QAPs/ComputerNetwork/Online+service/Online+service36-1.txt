@@ -1,0 +1,2 @@
+★Are there any free online services that allow the hosting of PHP scripts and MySQL creation?I need to test my app and cannot get any other server running. I seen this but not sure if it is legit: http://www.serversfree.com/
+I recommend Nitrous.IO for a minimum of configuration. It is set up for development, not production work. What they provide on the PHP development box: PHP Overview The drawback is that on the free account, you must run your account on a  non-standard port. This should be good for development.    Embed Quote

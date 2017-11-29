@@ -1,0 +1,2 @@
+★What are some good learning projects to teach oneself about machine learning?This is a follow-up question to How do I learn machine learning?.
+http://www.meetup.com/HandsOnPro... Check out various Data Mining contests hosted on Kaggle.com    Embed Quote

@@ -1,0 +1,2 @@
+What databases or persistent stores are recommended for storing large streaming data, such as from sensors?
+It depends on you data requirements. If possibility of losing data is acceptable, you can select very scalable non-ACID DBMS system, like Cassandra or possibly Hadoop with Spark (Apache Spark™ - Lightning-Fast Cluster Computing) . If every data piece is critical, you have to select ACID compliant system - like ORACLE, SQL Server, MySQL, PostgreSQL, etc or NewSQL systems, like VoltDB, etc that are also very scalable while ACID compliant. 

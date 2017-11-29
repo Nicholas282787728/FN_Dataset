@@ -1,0 +1,2 @@
+SQL: What is an attribute?
+A column that is not a key. Edit: Barath Govindharaj rightly commented that all columns are called attributes (in the textbooks). However, in every day parlance among database practicioners, the word "attribute" will often be applied to non-key columns only. Updated 10 Jul 2014

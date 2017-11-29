@@ -1,0 +1,2 @@
+★Has Cisco implemented IPv6?Internally, I mean. I know IOS supports IPv6, but I am wondering if they use it on their corporate intranet.
+Pretty sure they have done so on their own internal network. I remember reading this several years ago. Surely they must have deployed ipv6 IPv6 by now.

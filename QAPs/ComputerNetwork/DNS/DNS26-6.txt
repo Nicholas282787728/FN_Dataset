@@ -1,0 +1,2 @@
+★What are some creative uses for DNS TXT records?
+use for proxy or tunnel

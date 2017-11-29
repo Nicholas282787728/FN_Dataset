@@ -1,0 +1,2 @@
+★What are the most commonly used ways to perform feature selection for k-means clustering?I have 10,000 data points, each of them having the same 10 features. I want to perform clustering on those data points: what are the most commonly used ways to select the most useful features?
+Spectral clustering may be worth a shot A Tutorial on Spectral Clustering - Ulrike von Luxburg    Embed Quote

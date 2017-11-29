@@ -1,0 +1,2 @@
+★What are the top 10 data mining or machine learning algorithms?
+For classification, I use: 1. Logistic regression. l1-norm logreg is useful for feature selection. 2. C4.5 and CART to see the actual tree. (Not for prediction) 3. Random Forest and Gradient Boosted Trees. Best nonlinear classifiers. I sometimes also try Naive bayes and SVM.    Embed Quote

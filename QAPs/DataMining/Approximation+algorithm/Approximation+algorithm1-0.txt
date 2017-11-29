@@ -1,0 +1,2 @@
+★What is an approximation algorithm?
+Approximation algos are used to find approximate solutions to optimization problems. This technique does not guarantee the best solution. It is often associated with NP hard problems. For detailed answer, you can get lot of information from the web.    Embed Quote

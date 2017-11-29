@@ -1,0 +1,2 @@
+What are some real-world applications using B-tree?
+B-trees, and their super step-sister n-trees, are used in most search engines, and in file indexes (indicees?) in most data base systems. The only serious competition to b-trees and n-trees is hashing. List indexing and sparse-array indexing have serious performances disadvantages. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 713 Views · 1 Upvote · Answer requested by Edore Akpokodje

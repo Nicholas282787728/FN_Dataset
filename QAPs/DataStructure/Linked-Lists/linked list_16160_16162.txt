@@ -1,0 +1,1 @@
+how to purge a link list in $ \ mathcal -lcb- o -rcb- -lrb- n \ log n -rrb- $ time ? the total complexity be $ o -lrb- n \ log n -rrb- $ , which be what you be search for . 

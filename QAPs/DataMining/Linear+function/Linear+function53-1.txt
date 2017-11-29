@@ -1,0 +1,2 @@
+★What's the idea behind the integration in pure mathematics? In physics it's obviously mainly about area. But what about pure math? Let's say, number theory?
+I wouldn't say that in physics it's mostly about area. You integrate the acceleration w.r.t. time to get speed, you integrate speed w.r.t. time to get distance.   I'd in fact say that area and volume are pure math applications. Reality approaches them enough to make them useful, as it does with physics.    Embed Quote

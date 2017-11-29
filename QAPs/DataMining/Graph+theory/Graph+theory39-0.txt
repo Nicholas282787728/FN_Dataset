@@ -1,0 +1,2 @@
+★Graph Theory: What are the best online courses on networks?I am reading "Networks: An Introduction" by M. Newman (Networks: An Introduction: Mark Newman: 9780199206650: Amazon.com: Books)  and I found it particularly good and I am wondering if there is an online course that covers the topic presented in the book. I tried searching but I didn't find much
+Coursera has a course on social network analysis.    Embed Quote

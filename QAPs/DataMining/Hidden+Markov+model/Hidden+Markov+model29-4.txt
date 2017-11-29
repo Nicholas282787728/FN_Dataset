@@ -1,0 +1,2 @@
+★What are some good resources for learning about Hidden Markov Models?
+If you want something more bite-sized than Rabiner, I quite liked http://ww2.cs.mu.oz.au/460/2004/... But still make sure to read Rabiner after.    Embed Quote

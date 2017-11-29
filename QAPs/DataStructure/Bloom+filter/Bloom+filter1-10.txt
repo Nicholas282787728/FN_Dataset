@@ -1,0 +1,2 @@
+Why are some people so in love with Bloom filters?The extent to which people are obsessed with it is too high. What's the secret?
+To significantly reduce the total space required to save the information if your application doesn't care there's a small possibility of false positives. 

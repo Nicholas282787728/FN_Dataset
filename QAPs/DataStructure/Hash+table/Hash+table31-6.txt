@@ -1,0 +1,2 @@
+What is the difference between HashSet, HashMap and hash table? How do they behave in a multi-threaded environment?
+A HashSet is an unordered set of unique values. A HashMap is (basically) an unordered map of keys to values. A Hashtable is a synchronized (only one thread can access it at a time) HashMap. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 2.6k Views · 2 Upvotes

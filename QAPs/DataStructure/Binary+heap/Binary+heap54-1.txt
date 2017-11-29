@@ -1,0 +1,2 @@
+Other than min and max heaps, which are the most useful types of heaps?
+Min and max heaps are the only type of heap.  That's what a heap is, a data structure to keep track of minimums and maximums. What you have listed are different implementations of heaps. 

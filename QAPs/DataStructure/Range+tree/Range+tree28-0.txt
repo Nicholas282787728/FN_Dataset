@@ -1,0 +1,2 @@
+What is the intuition behind "range updates and point queries" in a binary indexed tree?
+Read this for intuition: TopCoder Forums Implementation: fR0DDY/Algorithms 

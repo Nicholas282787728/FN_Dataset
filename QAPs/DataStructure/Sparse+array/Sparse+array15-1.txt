@@ -1,0 +1,2 @@
+Why are Judy Arrays more memory efficient than a singly linked list?
+are they?  just from my superficial understanding, i don't think judy arrays are more memory efficient than a singly linked list. 

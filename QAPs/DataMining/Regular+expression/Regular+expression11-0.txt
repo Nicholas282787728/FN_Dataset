@@ -1,0 +1,2 @@
+★Are there alternative Python regular expression libraries?Python's re module works, but it's considerably slower than grep.  Are you, dear Quora peeps, familiar with an alternative library with the appropriate python wrappers?
+There's http://pypi.python.org/pypi/re2/, which wraps re2, released by Russ Cox and some other people I believe.  There's also http://pypi.python.org/pypi/regex which is an extension of the default re module, and is proposed for inclusion in some future version of Python.    Embed Quote

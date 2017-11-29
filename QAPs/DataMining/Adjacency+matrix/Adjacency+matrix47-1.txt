@@ -1,0 +1,2 @@
+★Given a graph with 10 vertices and 10 edges. What would be a more space efficient representation, adjacency list or adjacency matrix and why?
+In general, an adjacency list is more space efficient than an adjacency matrix when there are a small number or edges, such as in this case. So for this question, it would be an adjacency list.    Embed Quote

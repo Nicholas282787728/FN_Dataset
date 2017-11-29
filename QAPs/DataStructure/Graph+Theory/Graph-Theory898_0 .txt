@@ -1,0 +1,1 @@
+Does GraphDbs like Neo4j implement algorithms like KD-Tree in order to make search by coordinates faster?Actually to accommodate such data you'll have to store it much like a tree in it, in the first place. To query it you'll define the complete path so its more like they don't need such an algorithm as they are fundamentally different from relational databases. 208 Views

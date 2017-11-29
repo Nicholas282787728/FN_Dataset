@@ -1,0 +1,2 @@
+★What are the available APIs for NLP (Natural Language Processing)?What are the (open and commercial) available APIs for doing Natural Language Processing?
+I've made a bunch of free NLP APIs at http://text-processing.com/docs/, including sentiment analysis & phrase extraction / NER.    Embed Quote

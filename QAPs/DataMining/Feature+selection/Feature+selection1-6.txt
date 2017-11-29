@@ -1,0 +1,2 @@
+★How do I perform feature selection?
+I would go with Roman Trusov's recommendation to start with PCA. PCA allows you to determine the importance of each independent feature in your dataset. The result is the weighted importance of each feature. If you see features that have low impact then they can be removed from future analysis.    Embed Quote

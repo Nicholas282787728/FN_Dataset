@@ -1,0 +1,2 @@
+What are some "practice problems" that everyone should work on in-order to get better at programming (in any programming language)?If you have any problems corresponding to your field of work/research then mention that as well!
+I think USACO Training Gateway Page on delos.com:791 is very good. It is a website for USA people for preparing them for programming Olympiads and contests at USA. But anyone can register on this website and solve the questions which are given in an increasing order of complexity. 

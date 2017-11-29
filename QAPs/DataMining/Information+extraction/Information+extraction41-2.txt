@@ -1,0 +1,2 @@
+★Is it possible to extract information from unstructured data or semi-structured data using NLP?IS it possible to get the summary of the entire text using NLP or stochastic language??
+Yes that is possible. Some work you need to look into is Wrapper Induction. P.S Some shameless advertising :) Look into Arun Iyer work here Collective extraction from heterogeneous web lists WSDM 2011..    Embed Quote

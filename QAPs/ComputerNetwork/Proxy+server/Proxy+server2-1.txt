@@ -1,0 +1,2 @@
+★How do proxy servers work? And, why most college campuses provide internet through proxy servers?Please explain the technical aspects of the Networking that goes in operation of proxy servers.
+I would add to Alan Cohen's great answer: 9. Bandwidth. I can limit the bandwidth my users use.    Embed Quote

@@ -1,0 +1,2 @@
+Under what circumstances would a web developer need to use data structures such as Linked Lists, BST, and Graphs?
+If you're using a language like Java,  you might actually be uaing a lot of those concepts behind the abstraction of common operations. 

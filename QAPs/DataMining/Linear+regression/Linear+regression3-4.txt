@@ -1,0 +1,2 @@
+★What are the standard texts on linear regression?
+In addition to Weisberg I would recommend Christensen's Plane Answers to Complex Questions http://www.amazon.com/Plane-Answ... to get a more theoretical background on the topic.    Embed Quote

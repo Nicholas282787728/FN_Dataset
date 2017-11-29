@@ -1,0 +1,2 @@
+★What are some better graduate schools in the field(s) of text mining, information retrieval, and machine learning?
+A few universities with lots of professors working in the mentioned areas - University of Texas at Dallas, University of North Texas, University of Colorado Boulder. Tip: There is a field which combines all the 3 areas - it is called Natural Language Processing.    Embed Quote

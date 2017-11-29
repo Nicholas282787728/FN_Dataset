@@ -1,0 +1,1 @@
+Visual representation of a hash table, a data structure that allows for fast retrieval of information.  Examples of the latter include the exhaustive methods such as depth-first search and breadth-first search, as well as various heuristic-based search tree pruning methods such as backtracking and branch and bound.

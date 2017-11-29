@@ -1,0 +1,2 @@
+What is the process for a normal student to start from very basic coding to high level coding so I that I can solve problems from CodeChef TopCoder etc?
+http://mattgemmell.com/what-have... You may not get all this info in a day. Start somewhere, just see next few steps. Don't insist on having roadmap of whole journey before setting your first foot outside. There are multiple starting points, so I won't advice about it either. Pick something, see how you like it.. As you go ahead, next steps will get clear. Wish you exciting journey in coding ahead! 

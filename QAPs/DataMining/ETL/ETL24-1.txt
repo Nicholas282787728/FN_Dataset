@@ -1,0 +1,2 @@
+★What will be future of informatica and other ETL tools as Big data getting popular?
+In my opinion..  Big data is not competing with conventional ETL tools. It is actually complementing it.. Proper usage of ETL along with big data could do wonders in the analytics arena.    Embed Quote

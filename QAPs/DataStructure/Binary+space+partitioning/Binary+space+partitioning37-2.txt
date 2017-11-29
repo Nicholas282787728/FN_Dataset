@@ -1,0 +1,2 @@
+How does deleting a file empty space from a storage space?
+This data is not thrown out but now is treated by the system as junk data and as soon as new data (a message or any app data or anything digital) comes this junk data is written over. 

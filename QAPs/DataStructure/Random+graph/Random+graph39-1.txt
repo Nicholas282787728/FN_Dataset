@@ -1,0 +1,2 @@
+What are current research topics and open problems in the high-dimensional statistics area?
+I'd like to add to Charles Yang Zheng impressive listing robustness and non [math]L_2[/math] norm estimation. As he says, we have so little theory on how to estimate anything from non-iid data. And all the chance are that in high-dimensions some of them depart from the iid hypothesis. 

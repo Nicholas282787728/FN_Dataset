@@ -1,0 +1,2 @@
+★Why does Quora turn a .py file into a hyperlink?When your text contains something like __init__.py, it gets turned into a link. Also if you try to type something like hello.py, the cursor gets automatically moved back.
+Because .py is the Internet country code top-level domain (ccTLD) for Paraguay. (1). And Quora detects it as a link with .py domain. Example :- http://example.com, example.py (1) http://en.wikipedia.org/wiki/.py    Embed Quote

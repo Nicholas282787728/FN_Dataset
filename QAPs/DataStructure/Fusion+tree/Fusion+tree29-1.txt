@@ -1,0 +1,2 @@
+Can SolidWorks be used to design organic looking items such as tree branches, vines, petals, flowers, etc., for 3D printing?
+SolidWorks is a parametric modelling software and it doesn't have capability of organic modelling yet. However, there are several other software that help you do organic modelling. But, one that comes of very cheap (free for students and small businesses) and easy to use is Autodesk Fusion 360: 3D CAD/CAM Software for Product Design | Fusion 360 

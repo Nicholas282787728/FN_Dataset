@@ -1,0 +1,2 @@
+★I want to know everything about high frequency trading and/or algorithmic trading, where do I start?
+There is a great introductory course on computational finance and financial econometrics by Professor Eric Zivot from the University of Washington. It takes place on  Coursera , but you can do all R labs and R assignments in the interactive learning environment of Datacamp: Introduction to Computational Finance and Financial Econometrics - DataCamp

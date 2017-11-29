@@ -1,0 +1,2 @@
+★What is a coder's worst nightmare?
+Seeing your un-commented code a year later on an awesome working project and screaming while struggling, "How the hell did I do this?" and "Did I really write this code?" It's like getting lost in your own house.

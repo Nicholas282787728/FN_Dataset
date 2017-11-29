@@ -1,0 +1,2 @@
+Which are some of the best Data Analysis tools?
+Platforms: Zillabyte (Big data made easy) Hadoop (opensource software from Apache) Hortonworks (enterprise Hadoop distribution) Cloudera (Hadoop distribution) Amazon Elastic MapReduce (EMR) (Hadoop in the cloud Visualization: Tableau (basic data visualization) ZingChart (paid solution, more powerful) D3.js (Javascript library for doc manipulation) Neo4J (graph database) Languages: Python (data science libraries like NumPy and SciPy.org) R (for statistical computing and basic visualization)    Embed Quote 

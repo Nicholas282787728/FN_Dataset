@@ -1,0 +1,2 @@
+★Why can the piece-wise linear function (e.g. rectifier) learn nonlinear mapping in artificial neural networks?
+Function and mapping are the same thing. A piece-wise function or mapping isn't linear (though, you can define it in a way that all intervals use an identical linear function).    Embed Quote

@@ -1,0 +1,2 @@
+★Do plain-text/rich-text emails convert better or worse than HTML emails?
+I'm noticing a lot of welcome emails get sent as plain text. I assume this is a deliverability concern. It's important this one gets through and, also, an opportunity to ask the recipient to add you to their email white-list, so future, flashier communication can also arrive safely.    Embed Quote

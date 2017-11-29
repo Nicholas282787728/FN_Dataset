@@ -1,0 +1,2 @@
+★What are some of the most interesting vector spaces?
+This question is silly, in the sense that all vector spaces are both equally interesting and equally non-interesting.  Vector spaces over a field are classified by their dimension, which is a cardinal number.  Any two vector spaces of the same dimension are isomorphic, and for any cardinal number there exists a vector space of that dimension.    Embed Quote

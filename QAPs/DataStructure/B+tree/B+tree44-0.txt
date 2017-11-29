@@ -1,0 +1,2 @@
+What is the space complexity of b-tree operations (not storage)?
+The lookup operation pulls one B-tree node into memory at a time.  Insert operates similarly. The rotation operation described for deletion may require multiple nodes to be in memory, but still no more than 3. Thus, the memory complexity of B-tree operations is O(m), where m is the number of keys stored in each node. 783 Views · 2 Upvotes

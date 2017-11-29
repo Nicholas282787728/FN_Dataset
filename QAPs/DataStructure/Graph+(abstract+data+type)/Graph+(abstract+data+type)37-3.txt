@@ -1,0 +1,2 @@
+Is recursion actually useful? I can't find any reason to use it. Why do some people love to use it?
+Try implementing 8-queens without recursion and call me in the morning, 

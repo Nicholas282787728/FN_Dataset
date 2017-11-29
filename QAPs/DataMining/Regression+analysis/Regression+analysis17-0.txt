@@ -1,0 +1,2 @@
+★What are some important basis functions in regression analysis?
+The exponential and squared exponential (Gaussian) basis functions are important/common radial basis functions (kernel functions). The RBF wiki isn't a bad place to start http://en.wikipedia.org/wiki/Rad....  Using RBFs in a linear model yeilds what is refered to as a Radial Basis Function network ( a form of ANN).    Embed Quote

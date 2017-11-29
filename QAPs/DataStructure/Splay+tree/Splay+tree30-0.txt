@@ -1,0 +1,2 @@
+What do seasoned C programmers do when they need data structures like binary trees or hash tables?
+The BSD <sys/tree.h> and <sys/queue.h> give you intrusive red-black trees, splay-trees, and various flavors of linked lists with a BSD license that doesn't contaminate your code. They're header-only so you won't have conflicts with library binaries built with different versions. Use the original BSD source because some linux versions are stale forks. 

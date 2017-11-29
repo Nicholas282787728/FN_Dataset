@@ -1,0 +1,2 @@
+What is the most efficient programming language for computations in Graph Theory?
+While I'd probably hammer this out in C, Lisp is also a perfectly acceptable choice - if you can make your graph look like a list (pretty trivial for most directed graphs), then Lisp will rip through it like a banshee. 

@@ -1,0 +1,1 @@
+Are there practical examples of using Ufora outside of the lab?Ufora is a parallel engine for machine learning and numerical computation (See Homepage). It looks interesting, but I haven't hear of any 3rd party using it.

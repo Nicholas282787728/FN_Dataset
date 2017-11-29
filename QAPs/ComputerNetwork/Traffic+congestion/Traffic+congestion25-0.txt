@@ -1,0 +1,2 @@
+★How does Google Maps estimate traffic congestion (red, green, etc.)? Is it using Waze data, or/and some other source?
+Everyone who has their google maps app running is sending speed and position back to google. Also, I think they have access to the road sensor data. Waze does the same thing, that's why it's so much better in areas with many users.    Embed Quote

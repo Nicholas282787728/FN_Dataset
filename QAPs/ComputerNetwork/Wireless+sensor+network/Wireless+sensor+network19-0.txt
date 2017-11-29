@@ -1,0 +1,2 @@
+★How hard is making an energy efficient routing protocol for wireless sensor networks?Hierarchical Clustering
+Note that the real problem isn't coming up with a protocol.  That's easy.  The hard part is getting everyone to agree to it.    Embed Quote

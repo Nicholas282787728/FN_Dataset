@@ -1,0 +1,2 @@
+★Which algorithm can find correlation between two time series?We have two time series (of bits 0 or 1). We receive new sample every hour. We need to develop an algorithm that every hour decide what is the correlation between those two series
+The correct way to do it is with a cross-correlation function using a transfer function. IBM SPSS Statistics SAS/ETS(R) 9.2 User's Guide Auto- and Cross- Covariance and -Correlation Function...    Embed Quote

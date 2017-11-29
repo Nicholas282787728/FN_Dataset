@@ -1,0 +1,1 @@
+What will be maximum subscript of array having size?sizeof(unsigned int) "Maximum subscript" means the index of the last element of the array. If you want to know how many elements does the array contain, that will depend on the specific program. 129 Views  View Upvotes  Answer requested by Kandala.vamshidhar Reddy

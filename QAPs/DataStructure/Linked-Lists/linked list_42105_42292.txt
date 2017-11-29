@@ -1,0 +1,1 @@
+splicing square on a turing machine finite tape it seem just too close to a two-stack automaton to be study separately . the two stack can be see as two part of you link list -lrb- before and after the position of the reading head -rrb- . push a new symbol be the equivalent of you splicing a tape cell . 

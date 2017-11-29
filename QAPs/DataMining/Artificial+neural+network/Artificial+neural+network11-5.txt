@@ -1,0 +1,2 @@
+How can I learn about artificial neural networks if I don't know anything about this field?
+It depends on your background.  If you know something about Computer Networks then as Alexander and WonTaek suggested, start with Coursera.  If not, you should start with networking basics first.  Computer Networks by S Tanenbaum is one of the best books on the subject and the latter chapters cover neural networks very briefly.  That should get you ready for the more advanced Coursera courses.    Embed Quote 

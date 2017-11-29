@@ -1,0 +1,1 @@
+A hash array mapped trie[1] (HAMT) is an implementation of an associative array that combines the characteristics of a hash table and an array mapped trie.[1] It is a refined version of the more general notion of a hash tree.

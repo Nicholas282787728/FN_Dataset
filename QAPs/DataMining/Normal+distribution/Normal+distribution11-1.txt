@@ -1,0 +1,2 @@
+★Why is the probability of a normally distributed variable being an exact value 0?I understand that it's like taking the area of an infinitesimally small rectangle, but it seems unsatisfying as surely there has to be at least some chance in a lot of situations of X being an exact value.
+The probability is zero.  The measure ("size" in a technical sense) of a single point or discrete collection of points within a continuum is zero.   That's different from saying it's impossible.  It would be more accurate to say that it's infinitely improbable.    Embed Quote

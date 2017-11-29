@@ -1,0 +1,2 @@
+What are phylogenetic trees used for?
+A Phylogenetic tree, also known as evolutionary tree, is a tree shows the evolutionary relationships between various biological species or other entity that are supposed to have a common ancestor of the descendants, and the edge lengths in some tree correspond to time estimates.phylogenetic tree is used for the study of evolutionary biology. 373 Views · 1 Upvote

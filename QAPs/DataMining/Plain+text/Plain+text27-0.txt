@@ -1,0 +1,2 @@
+★What are the best plain-text note-taking / tasks apps for Android?I dislike apps like Evernote or Springpad because they store their data in proprietary formats, and you can't access your notes without the mobile/desktop/web app. Is there any app that saves data in plain .txt format so I can view and edit it in any text-editor / platform?
+You can try FlickNote. It uses SimpleNote to sync, so their are web, Android, iOS, Mac OS, Windows and Linux clients. And it syncs with Dropbox too. http://lifehacker.com/5816910/th...    Embed Quote

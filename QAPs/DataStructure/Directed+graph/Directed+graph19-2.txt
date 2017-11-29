@@ -1,0 +1,2 @@
+How do I count the number of cycles in a directed graph?
+Use the algorithm/code given in the link - Detect Cycle in a Directed Graph - GeeksforGeeks when you are returning true in the below block of code for(i = adj[v].begin(); i != adj[v].end(); ++i) { if ( !visited[*i] && isCyclicUtil(*i, visited, recStack) ) return true; else if (recStack[*i])... (more)

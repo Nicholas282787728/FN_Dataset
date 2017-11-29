@@ -1,0 +1,2 @@
+What are the top 5 algorithms that I should be familiar with in order to do well in a junior developer interview?
+In my priority these are the things Searching (binary) and sorting algorithms (bubble, merge, quick, insertion). Recursion Linked list and array basics String and bit manipulations 

@@ -1,0 +1,2 @@
+★What is the easiest way to do an FTP to FTP transfer online?I mean transferring online, so I don't want to download then reupload. But I can't write code or find a tool, anyone will help me? Thanks
+telnet/ssh to destination server and then login to source server via telnet/ssh and then execute your download.

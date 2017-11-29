@@ -1,0 +1,2 @@
+★Are high-frequency brain waves more "local" than low-frequency brain waves?
+Yes, a 1Hz delta wave can be coherent across the whole cortex whereas a 40Hz gamma oscllation maintains coherence over just a few hundred microns (even though long-range connections can induce another isolated area to oscillate in synchrony). Also, lower frequency oscillations include the firing of a higher percentage of the cells in a population than high frequency.    Embed Quote

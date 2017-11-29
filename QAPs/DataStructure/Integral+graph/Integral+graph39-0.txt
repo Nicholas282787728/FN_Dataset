@@ -1,0 +1,2 @@
+Let's say that we are given the joint density of two random variables X and Y. Additionally we are told that 0 < y < 1, and y-1 < x < 1-y. Can we compute P(|X| < Y) by just looking at the joint density graph and using geometry? I know the standard way to compute that is condition on X and integrate over the bounds of X since P(|X| < Y) = P(-Y < X < Y)
+You'll need to integrate.  The region you'll integrate over in order to find P(|X|<Y)  is a tilted square that is half the triangular region that's the support of the joint density function. 

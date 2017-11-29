@@ -1,0 +1,2 @@
+★How do you evaluate the performance of an unsupervised learning algorithm?For supervised learning, you can validate on new data. Is there an analogous method for unsupervised problems?
+When dealing with images, we tend to visualize the learned features to evaluate the performance. A good one (in topographical order) A bad one    Embed Quote

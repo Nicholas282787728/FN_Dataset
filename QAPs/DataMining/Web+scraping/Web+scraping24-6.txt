@@ -1,0 +1,2 @@
+★What is a good programming language to use for web scraping?
+Visual Studio is the best framework to use for Web scraping. I have scrapped several websites using C#.NET. And I prefer it. As well as Easy Data Feed - Web Data Extraction Scraping Software is the Data extracting tool which supports Visual Studio. It is ultimate software to scrape all information from the site. You can read about how to use it here: http://www.easydatafeed.com/open... They also have developers you can hire to do the job for you, their skype is “easydatafeed”    Embed Quote

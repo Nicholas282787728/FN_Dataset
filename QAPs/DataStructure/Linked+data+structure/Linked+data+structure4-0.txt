@@ -1,0 +1,2 @@
+What is your favorite video lecture series on Algorithms and Data Structures?
+Erik Demaine's 6.851 at MIT is possibly the most advanced Data Structures Course videos available on the web. It's offered once every 2 years and you can get the Spring 2012 version at Lectures in Advanced Data Structures (6.851). Spring 2014 will be starting in Feb. 

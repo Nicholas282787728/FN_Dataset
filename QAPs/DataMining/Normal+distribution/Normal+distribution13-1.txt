@@ -1,0 +1,2 @@
+★Why does the normal distribution show up so often in nature?In layman's terms, please
+I think this is also be related to the central limit theorem.  Nature can be though of as "outputing" random signals. The more random signal there are (light, sound etc.)  which are summed or averaged, the more the process starts to take on the characteristics of a bell curve.  Of course the real question is what is modeling what.    Embed Quote

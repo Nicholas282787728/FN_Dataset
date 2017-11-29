@@ -1,0 +1,2 @@
+★What's the best IRC client for Mac OS X?I've been using Colloquy, but wonder if there are better options.
+I would love to see XChat as a native app. I guess it's possible to compile the source, but I'm not really sure. About the other ones, they all seem to work just fine. I mean, they're okey. Update: Started to use Textual: IRC for Mac OS X and I'm pretty sure it's a "keeper". They're updating it constantly and stuff.

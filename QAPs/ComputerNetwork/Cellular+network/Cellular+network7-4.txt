@@ -1,0 +1,2 @@
+★Why does WiFi "relieve" a cellular network? Does it actually use a different network?
+Yes it does.... So wifi uses the fixed line network (well not exactly true but for the sake of this question lets assume so) Cellular network uses your cell towers to deliver the internet connection, therefore there will be less congestion if you use a different route to get your "internet connection" You phone/mobile device just uses a different network for each of these cases.

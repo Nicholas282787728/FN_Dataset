@@ -1,0 +1,2 @@
+★How does one do a regression analysis? Any available software to perform regression analysis for a given data?
+It depends on the size of the data set. For small dataset you can do it in Excel itself, for slightly bigger data set "R" can be used and for very big data set "SAS" can be used.    Embed Quote

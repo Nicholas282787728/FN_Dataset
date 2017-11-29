@@ -1,0 +1,2 @@
+★What is the difference between a URL and a URI?
+URIs cover both URLs and URNs (http://en.wikipedia.org/wiki/Uni...). See http://en.wikipedia.org/wiki/Uni... for more detail.

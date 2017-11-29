@@ -1,0 +1,2 @@
+★What is the different data compression technology between Onavo, Zenmate, SpotFlux and other companies which offer the similiar service?Which has superior performance from each other & why.
+Onavo is a compression tool.  Without looking at the source code or at a compressed document, I can't determine the technology, but I'd guess zip. Zenmate and SpotFlux are VPNs.  They don't compress (except insofar as the servers might use inherent compression), they encrypt.

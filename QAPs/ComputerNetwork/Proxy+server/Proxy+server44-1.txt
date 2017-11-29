@@ -1,0 +1,2 @@
+★How will you Explain the Proxy servers in a Layman terms?
+In the simplest possible way?: Think of a middle man, I give him a message that he relays to someone else and when they want to respond it goes to him and then back to me.  If you want to know the purpose behind proxies think about the last example except I didn't want the person I am speaking with to know who I am.  To do this, I trust that the middleman said he wouldn't tell anyone or keep a record of it.    Embed Quote

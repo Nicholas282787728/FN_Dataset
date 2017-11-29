@@ -1,0 +1,2 @@
+★What makes natural language processing difficult?
+Here's Breck Baldwin's take on what makes NLP difficult: Sometimes I Wish NLP Systems Occasionally Blew Up In a vein similar to Dave Orr's answer: Humans process natural language intuitively, which makes it seem easy. Computers use a formal procedure (which may include statistics), thereby exposing the difficulties, including ambiguity, ill-defined constructs and reliance on world knowledge.    Embed Quote

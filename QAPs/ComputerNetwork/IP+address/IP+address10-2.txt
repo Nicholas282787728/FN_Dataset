@@ -1,0 +1,2 @@
+★What are some famous IP addresses?IP addresses (IPv4 and IPv6) are a foundational aspect to modern networking and the Internet, but they don't get much recognition. I've seen the story behind 4.2.2.2: The Story Behind a DNS Legend, but I was wondering if there are any other interesting IP addresses out there.
+8.8.8.8 is the IP address to Google's DNS server, interesting because the number 8 is traditionally a lucky number in Chinese (well, at least in Canton) culture.  (the alternative is 8.8.4.4). Public DNS - Google Developers

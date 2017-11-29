@@ -1,0 +1,2 @@
+Which is the best language, C or C++?
+I will keep it simple. If you learn C, you will learn any other language easily. If you still ask me, "which is best?" it depends. For general purpose programming you can follow any language. Every language is efficient in someway. Say for eg. You got to use C (Or c/c++ hybrid) in Embedded systems. There is no other choice in this case. Again you can do some graphical programming in C++ easily but you got to work hard in such cases if you take up C Programming. So check which way you want to go and act accordingly. Happy Coding :) 

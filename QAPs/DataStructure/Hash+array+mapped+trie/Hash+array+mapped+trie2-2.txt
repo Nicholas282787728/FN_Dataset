@@ -1,0 +1,2 @@
+Are data structures less relevant (or irrelevant) in functional programming compared to object-oriented programming?
+No, they're very relevant. Check out Purely Functional Data Structures by Chris Okasaki for an introduction. 

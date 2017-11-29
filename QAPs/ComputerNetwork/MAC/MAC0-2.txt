@@ -1,0 +1,3 @@
+How do I conect other computer in local network by Mac address?Known ip, unknown Mac: connect via the ip address. The network stack will perform an ARP request, and then you can communicate.
+Unknown up, known Mac: create a static ARP entry, associated? with an IP on your subnet. Then just communicate with that ip.
+Interestingly, option 2 will work even if the device is using a different ip address.

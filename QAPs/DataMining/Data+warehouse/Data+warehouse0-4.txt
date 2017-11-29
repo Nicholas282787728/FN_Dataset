@@ -1,0 +1,2 @@
+★What is a data warehouse?
+A data warehouse is a repository (collection of resources that can be accessed to retrieve information) of an organization’s electronically stored data, designed to facilitate reporting and analysis. For more info refer : Datawarehousing and OLAP Concepts    Embed Quote

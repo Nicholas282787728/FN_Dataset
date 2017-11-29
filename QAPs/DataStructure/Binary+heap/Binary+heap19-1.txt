@@ -1,0 +1,2 @@
+What are two efficient implementations of a priority queue using binary trees?I have an assignment asking me for two different and efficient implementations.
+Below are 3 implementations of Priority Queues(heaps) using Binary trees. 1. Binary Heap (http://en.wikipedia.org/wiki/Bin...) 2. Binomial heap 3. Fibonacci heap 

@@ -1,0 +1,2 @@
+★What are some graph-based unsupervised learning algorithms?
+A good example is Spectral clustering - which clusters observations based on the Laplacian of the corresponding adjacency matrix EDIT: perhaps the best example of this is the Google PageRank.    Embed Quote

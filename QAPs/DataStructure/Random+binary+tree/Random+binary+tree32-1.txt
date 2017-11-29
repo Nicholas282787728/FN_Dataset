@@ -1,0 +1,2 @@
+What are advantages of using a d-ary tree instead of a binary tree?
+Rather then answering question here, I will point you to my detail post on this: Memory locality & the magic of B-Trees! by Pawan Bhadauria on Love for Programming 

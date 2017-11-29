@@ -1,0 +1,2 @@
+★When training and testing data sets, is it possible to test a complete different data set from the training set?
+Your test set should always be disjunct (hence: complete different) from your training set. However, the training set and the test set (each for its own and hence also together) should represent the "real data" and especially the distribution as well as possible.    Embed Quote

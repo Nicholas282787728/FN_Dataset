@@ -1,0 +1,1 @@
+How can I traverse forward and reverse direction in a singly linked list?By cleverly mainpulating the links present in the list. Check out this blog post where it is explained in detail - LeetCode Solution : Reverse a Linked List 576 Views

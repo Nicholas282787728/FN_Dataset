@@ -1,0 +1,2 @@
+How do I generate all possible substrings of a string?
+It Can Help You Java program to find all substrings of a string 

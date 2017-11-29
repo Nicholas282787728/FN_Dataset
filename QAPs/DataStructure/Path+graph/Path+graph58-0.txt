@@ -1,0 +1,2 @@
+How do I find the shortest path between the nodes of a graph under the below constraints?
+Many cases (Directed, unDirected, weighted, unweighted, cyclic, acyclic, etc ) are covered here: Shortest path problem http://en.wikipedia.org/wiki/Shortest_path_problem Do let me know if your specific case is not covered here, so that I can attempt to answer that particular variation. 

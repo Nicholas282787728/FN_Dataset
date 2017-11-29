@@ -1,0 +1,1 @@
+How is the partitioning of a complete graph an NP-hard problem?

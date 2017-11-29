@@ -1,0 +1,2 @@
+★How can I check Ethernet connection speed on Linux?
+Check it online using The Global Broadband Speed Test

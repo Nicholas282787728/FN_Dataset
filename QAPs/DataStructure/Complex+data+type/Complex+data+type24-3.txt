@@ -1,0 +1,2 @@
+Is there a really hot database start-up out there?......a company specifically dealing with data mashes?
+Domo is a new player in the Cloud BI space. They raised 123M in less than 3 years, but are still somewhat in stealth mode (they're not incredibly transparent about their offering). The product is very much targeted at C-Suite executives who don't want to go through IT to answer typical BI questions. The company is also founded by Joshua G. James (who also founded Omniture which sold to Adobe for $1.8 B). 

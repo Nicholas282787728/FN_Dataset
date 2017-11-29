@@ -1,0 +1,2 @@
+★Can someone give an example of the steepest descent that is not a gradient descent?
+The term steepest descent has two possible meanings: one is a particular method of implementing gradient descent for optimization. The other is another name the "saddle-point method" for approximating integrals in the complex plane. Given that your question topics refer specifically to optimization, the best answer I can give is that there isn't one, since optimization by steepest descent is a special case of gradient descent. All steepest descents are gradient descents.    Embed Quote

@@ -1,0 +1,2 @@
+★What is a good regular expression for last names?
+I wouldn't hope for it. In some languages (eg. Hungarian), the given name goes after the family name.    Embed Quote

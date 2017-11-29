@@ -1,0 +1,2 @@
+★What are some best practices when writing ETLs?
+1. Agile SDLC 2. Architect BI strategy and analytics programs with tech savy, business know-how engineers 3. Establish robust KPI as the framework to build BI strategy 4. Rapid deployment using predefined industry-specific KPI repositoriesDW expertise with tool exposure and testing tools experience 5. A lean approach to data governance and master data management 6.Continuously monitor BI initiative to ensure that objectives are being met    Embed Quote

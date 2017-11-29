@@ -1,0 +1,2 @@
+★What are some hosted continuous integration services for Django that support selenium testing?
+CircleCI (Continuous Integration and Deployment) has great support for Django and Selenium, and we have many customers using that combination.    Embed Quote

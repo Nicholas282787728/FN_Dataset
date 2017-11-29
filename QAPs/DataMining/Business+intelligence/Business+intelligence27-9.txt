@@ -1,0 +1,2 @@
+What is the best, reasonably priced business intelligence application?
+"BI" covers a lot of territory. But one (disruptively-priced) solution that focuses on the combination of analytics and collaboration is Chartcube: data analytics and collaboration for teams. Worth a look if your main intent is visualizing to share with the team.    Embed Quote 

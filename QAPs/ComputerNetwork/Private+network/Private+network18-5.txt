@@ -1,0 +1,2 @@
+★When I connect to a virtual private network, will my IP address change?
+Yeah. Your IP address will be changed instantly after connected VPN.    Embed Quote

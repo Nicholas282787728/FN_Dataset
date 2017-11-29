@@ -1,0 +1,2 @@
+How can I solve this problem? Please help!
+If "There is a road between any 2 towns", then there are n(n-1)/2 roads. That's inconsistent with the (n-1) number of roads in the previous statement. You might want to recheck the wording. 

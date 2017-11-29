@@ -1,0 +1,2 @@
+★What are great NFC use cases outside of payment?
+Most people are focusing on a single set of solutions and equate NFC to RFID.  NFC is more than that, it is the gateway to the internet of things.  As objects start to have data associated with them, NFC is a way to reveal more information about them. It will allow people to interact with objects in different ways.  It will also bring new social interactions based on these new possibilities. These guys have been working on this field for a while and have some interesting experiments. http://www.nearfield.org/    Embed Quote

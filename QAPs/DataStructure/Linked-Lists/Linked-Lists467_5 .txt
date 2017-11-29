@@ -1,0 +1,1 @@
+What does node=node->next exactly do in a linked list?Irrespective to the structure you have stated, it means your current node will will point to the next node (in simple language you think your current node became the next node) , that means actually it will hold the address of next node. 294 Views  View Upvotes  Answer requested by Kapil Sharma

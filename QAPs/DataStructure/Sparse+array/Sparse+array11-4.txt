@@ -1,0 +1,2 @@
+In what way is W3Schools.com a good resource for learning HTML/CSS and other languages?
+It will lose value over time, because learning one approach to coding doesn't match all situations. Use it to learn the basics, then find a few good blogs like http://net.tutsplus.com to learn practical examples and use cases. 

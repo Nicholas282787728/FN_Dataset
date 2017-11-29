@@ -1,0 +1,2 @@
+★Electronics Engineering: Why do we use bridge rectifier?If we already having a center tap rectifier with just two diodes doing the same work then why there is a need to use four diodes or the so called Bridge rectifier.
+making a center tapped transformer is very difficult, one extra turn in the secondary coil makes the non uniformity in voltage drops.

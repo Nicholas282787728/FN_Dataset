@@ -1,0 +1,2 @@
+What are some real world examples of primitive data types in Java?
+I get first in my mind is our body parts. Eyes - Boolean - even though  2 eyes can see a single things at a time like true or false. Like this you can have your own visualization on each which make sense to you \U0001f600 

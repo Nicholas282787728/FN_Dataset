@@ -1,0 +1,2 @@
+What can be done with Ruby or Python that just can't be done with PHP?
+Originally Answered: What can you do with Ruby on Rails or Python that you cant do in PHP?You can spend time with your family and friends, because you finished your project in half the time it would have taken you. You can also grow your hair, because you won't be pulling them out trying to debug your PHP code. But in term of functionalities, nothing interesting. 

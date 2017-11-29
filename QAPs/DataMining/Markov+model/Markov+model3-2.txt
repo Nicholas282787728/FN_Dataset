@@ -1,0 +1,2 @@
+★What is a simple explanation of the Hidden Markov Model algorithm?
+I think this is probably one of the simplest explanation for Markov Models and Hidden Markov Models available online: http://www.fejes.ca/EasyHMM.html It explains this topic, which requires a background in Bayesian networks and probability without any mathematical formulas :) Another link from the University of Otago (slightly more involved than the previous one) explains HMM with basics of probability and naive C/C++ implementation: www.cs.otago.ac.nz/cosc348/hmm/hmm.pdf    Embed Quote

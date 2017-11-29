@@ -1,0 +1,1 @@
+What are the limitations of binary search trees?Slower insertion/deletion of elements Not a great choice for linear trees (degenerate tree - more or less a sorted linked list) 70 Views

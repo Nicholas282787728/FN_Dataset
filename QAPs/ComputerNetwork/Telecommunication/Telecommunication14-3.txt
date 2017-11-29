@@ -1,0 +1,2 @@
+★Why is 1550 nm used in telecommunication?
+From the above figure we can easily make out that attenuation decreases at 1550 nm i.e 0.2 db\km which is very very low attenuation and repeater spacing and amplifier spacing will be increased and which reduces the cost of the long haul network(like under sea network) and more over all the components like fiber ,amplifier are designed to work at this wavelength .    Embed Quote

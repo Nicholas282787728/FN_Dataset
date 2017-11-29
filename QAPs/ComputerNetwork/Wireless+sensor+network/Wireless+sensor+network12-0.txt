@@ -1,0 +1,2 @@
+★What is the difference between wireless sensor networks and wireless adhoc networks?I need  to understand distinct differences between both for my reserach project on MAC protocl
+Hate to give an obtuse-sounding answer, but it's pretty literal: - Wireless sensor networks have sensors in them and may or may not have a planned network structure. - Wireless adhoc networks, on the other hand, are ad-hoc -- i.e. no planned network structure. But they may not have sensors in them. Of course, then there are the Wireless Ad-Hoc Sensor Networks...    Embed Quote

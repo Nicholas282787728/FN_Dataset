@@ -1,0 +1,2 @@
+What are some examples of problems for which a priority queue proves useful?
+K-NN problem is ones. Given N points in coordinate axis, with point A, you must find the K nearest neighbors of A. (Assume that K << N) You use a priority queue to store K nearest neighbors while you are trying to calculate the distance between point[i] and A. 969 Views

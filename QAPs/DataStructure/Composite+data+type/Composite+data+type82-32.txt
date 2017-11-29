@@ -1,0 +1,2 @@
+How many lines of code can a good programmer write in one hour?
+I think better ask how many engineering tasks a good programmer can solve in one hour. Lines of code measure nothing. Files.writeAllLines(path, IntStream.rangeClosed(0, LINES_OF_CODE)      .mapToObj(i -> "System.out.println(\"Line of code №" + i +"\");")      .collect(Collectors.joining("\n")), StandardOpenOption.WRITE); 

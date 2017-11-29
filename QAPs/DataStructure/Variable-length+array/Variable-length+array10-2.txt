@@ -1,0 +1,2 @@
+Can we say "C++ is super set of C"?
+The preface of The C++ Programming Language  book starts with "Except for minor details, C++ is a superset of the C programming language."--Bjarne Stroustrup (the guy who came up with C++). However, many (if not most) C++ people love to nitpick trivia so unless your Bjarne Stroustrup, prepare to get scolded every time you make that assumption. 

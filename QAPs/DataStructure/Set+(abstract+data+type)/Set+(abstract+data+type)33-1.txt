@@ -1,0 +1,2 @@
+Which programming language is good to learn OOP?
+There are only two languages which are really OOP languages (in the original sense of the term): Smalltalk and CLOS. Among the most popular languages the ones that go closest are Python and JavaScript, but they still are quite far from having the dynamic nature, reflectivity and metaprogramming facilities of a real OOP system. 

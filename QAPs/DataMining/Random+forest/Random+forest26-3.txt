@@ -1,0 +1,2 @@
+★When and why is  naive bayes classifier a better/worse choice than random forest  classifier?
+Another issue related to Adam Gibson's answer - When you need to scale your classifier to learning from tens/hundreds of millions of instances, you usually want to parallelize the algorithm run. Apache Mahout suggests that you use Naive Bayes, rather than other algorithms, for this size of problem, as they have a parallel map-reduce implementation for it.    Embed Quote

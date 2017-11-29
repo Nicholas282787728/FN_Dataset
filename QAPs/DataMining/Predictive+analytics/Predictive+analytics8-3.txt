@@ -1,0 +1,2 @@
+★Predictive Analytics: In regression modelling, is more sample data always better?
+Do you know the context of the data? Did something change which causes the difference between older and newer data? Balancing between high bias and high variance might be the challenge for you. You might be able to achieve a perfect fit for the data set at hand but might face High bias for future predictions.    Embed Quote

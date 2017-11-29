@@ -1,0 +1,2 @@
+★Is AES secure under chosen plain-text attack?
+I would wager "yes." AES has not been defeated with any known techniques and current computing power. Also being submitted and accepted by the National Security Agency, it has had massive exposure and testing both by goverment laboritories and independant testers. In addition as it is one of the most used algorithms in the world, so there are large motivations for breaking it. The fact that nothing has yet been reveled suggests that it is resistant to all known attack vectors including chosen plain text.    Embed Quote

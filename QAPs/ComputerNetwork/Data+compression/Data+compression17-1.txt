@@ -1,0 +1,2 @@
+★Does the Quora app use data compression?Since it's mostly text, Quora content is compressible as hell.    Would compressing on the server and unzipping on the client speed load time?
+I believe you are looking for HTTP-Compression: HTTP Compression it's mostly about textual data as it encodes the HTML, JS and CSS files. This improves the performance as files are compressed and sent from web server to be decompressed by the browser.

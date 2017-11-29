@@ -1,0 +1,2 @@
+★What some good tools to draw a Hidden Markov model?
+You could use Tikz if you're trying to draw in Latex. Here are some examples: Kalman Filter System Model Automata and Petri nets Computer science This person wrote a Tikz library for drawing Bayesian networks: tikz-bayesnet    Embed Quote

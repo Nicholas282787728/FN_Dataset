@@ -1,0 +1,2 @@
+What is the best way to self-teach the skills and knowledge gained in a typical computer science degree?
+Understand how a von Neumann machine works.  Most courses teach some language and may emphasize algorithms but they don't explain the hardware well. This is more detailed. Violent Python Book Review: Violent Python - EH-Net Online Mag  Let Us C by Yashavanth P.Kanetkar C & C++ Books ~ eduwing Updated 29 Sep 2014 • View Upvotes

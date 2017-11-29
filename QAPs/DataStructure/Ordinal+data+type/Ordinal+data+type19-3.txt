@@ -1,0 +1,2 @@
+Why does Haskell use "fst" and "snd" for extracting the zeroth and first elements of a tuple?
+The functions were inherited from the language Miranda. If you consider the size of a tuple e.g ("this is a tuple") - it's 1. So it makes sense that extracting the 'fst' element means to take the first element of the tuple. Talking about the 0th element, means you are thinking about the index of the element you want, which is a slightly different thing to 'take the first element'. You would use indexes when talking about lists - which are 0 indexed. 

@@ -1,0 +1,2 @@
+★What are some good methods for coding large amounts of open-end comments, aside from outsourcing? Are there any new, more accurate text analytics products out there?
+I have used QDA Miner from Provalis Research: http://www.provalisresearch.com/...    Embed Quote

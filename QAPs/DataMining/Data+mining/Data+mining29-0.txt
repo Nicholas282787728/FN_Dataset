@@ -1,0 +1,2 @@
+What books do you recommend to get introduced in the data mining "world"?
+I'd strongly recommend the book by Jeff Ullman from Stanford, which is free online: http://infolab.stanford.edu/~ull... They also have two courses (used to be one grad level). See more at http://www.stanford.edu/class/cs...    Embed Quote Updated 30 Dec, 2010. 1,497 views.

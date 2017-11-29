@@ -1,0 +1,2 @@
+What are some good websites to learn data structures and algorithms?
+I suggest you to take the following courses offered by Coursera: Algorithms, Part I - Princeton University   Page on coursera.org Algorithms: Design and Analysis, Part 1 - Stanford University Page on coursera.org... (more)

@@ -1,0 +1,2 @@
+★What are Kernels in Machine Learning and SVM?I'm trying to get into SVM, but I cannot get the idea of kernels. What are they and why do we need them?
+I know that pasting a link to an external talk would not be an appropriate answer here, but this talk is just so awesome and answers your question so intuitively that I encourage you to watch it http://www.google.co.in/url?sa=t...    Embed Quote

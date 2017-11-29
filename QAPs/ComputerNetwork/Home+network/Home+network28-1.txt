@@ -1,0 +1,2 @@
+★How can I access my hard drive on another computer outside my home network?I have a dedicated media centre with 250GB worth of audio and video. I'd like to access this computer's shared directories while at places like starbucks, which are outside my home network.
+Check out TeamViewer – Access your computer remotely and share your desktop with friends – it’s free! It's one of the fastest desktop sharing clients.

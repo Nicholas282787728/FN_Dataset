@@ -1,0 +1,2 @@
+What books are a good introduction to game theory?
+Game Theory Evolving - Herbert Gintis (problem-oriented) Game Theory: Analysis of Conflict - Roger B. Myerson (theory-oriented) I've read both of these, and found them to be enjoyable, interesting reads. 

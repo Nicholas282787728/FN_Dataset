@@ -1,0 +1,1 @@
+Every non-leaf is a 2-node, 3-node or a 4-node. A 2-node contains one data item and has two children. A 3-node contains two data items and has 3 children. A 4-node contains 3 data items and has 4 children. All leaves are at the same level (the bottom level) All data are kept in sorted order Every non-leaf node will contain 1, 2 or 3 fields.

@@ -1,0 +1,2 @@
+★I have two sets A and B. Each of them has a set of instances. Say A= {a, b, c, d} and B= {b, f, g}. What are the most performing metrics out there to compute the similarity between the two sets?I know the Jaccard index is a good one, but are there any others?
+The Kulczynski measure is quite used (in Data Mining for example) :    Embed Quote

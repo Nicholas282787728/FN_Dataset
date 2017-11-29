@@ -1,0 +1,1 @@
+Why does Stanford course CS106X use C++ rather than C?This is a followup question to Why does Stanford Course CS106X still use C++?.

@@ -1,0 +1,2 @@
+★Could all the sentences from a single book be used as a training set for machine learning or a neural network?What could be fed into it?  And, what would you get out of it?  Would the sentences need to be enriched with metadata, if so what?
+Yes, you could. "Would the sentences need to be enriched with metadata, if so what?" Whatever you want to classify. A neural network classifies things into different categories. It's up to you to define those categories.    Embed Quote

@@ -1,0 +1,2 @@
+★Why is it called an ethernet 'frame'?
+Because there's stuff in front and in back of the packet.  In front there is preamble, destination address, source address and Ethertype.  At the end we have a CRC.  This 'frames' the packet.

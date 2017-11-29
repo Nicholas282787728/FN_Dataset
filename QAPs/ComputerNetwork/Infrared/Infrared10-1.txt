@@ -1,0 +1,2 @@
+★At what temperature does water absorb the most infrared radiation?
+Absorption efficiency is not really effected from the temperature, the real factor here is the quantity of water atoms, and their density. But since atoms get more vibrant with temperature, they might encounter more radiation in higher energy states. In that case just under boiling temperature they should be most efficient at absorbing infrared radiation. But as I said its negligible difference considering the effect of density and quantity.    Embed Quote

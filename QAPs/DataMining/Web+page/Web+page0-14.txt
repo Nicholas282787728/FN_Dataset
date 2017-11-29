@@ -1,0 +1,2 @@
+★How important is the fold on a web page?
+For web applications it is important. Having a actionable items 'off screen' can be very frustrating for the user. While building applications for use by a particular user set, say an internal company application, it is vital that user data is studied to asses which screen size to design for.    Embed Quote

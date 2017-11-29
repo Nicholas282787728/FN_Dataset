@@ -1,0 +1,2 @@
+★Is it possible to compress data using linear regression?
+Yes. It is called predictive coding. You use linear regression to predict a value, then you code the prediction error (the difference between the predicted value and the true value).  It is very common in signal and image processing where there is high correlation between the samples.    Embed Quote

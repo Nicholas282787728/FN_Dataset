@@ -1,0 +1,2 @@
+Are there any minimal functional programming languages?
+Clojure/ClojureScript is minimal.  In fact, it feels that its very design was oriented around the question: how can we do more with less?  The tooling and workflow is still a little awkward at times. I have pulled many of its ideas into my JavaScript and am able to do very Clojuresque things with raw JavaScript and no tooling or build-step required.  The thing you're after is learning the ideology of how to build things with less.  Those ideas, once learned, are transferable. 

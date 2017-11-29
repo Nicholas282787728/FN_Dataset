@@ -1,0 +1,2 @@
+★How do I create a neural network for Alzheimer's detection?
+If I understand your question. I think it would be more acurate to to say what you want to do is differential diagnosis of Alzheimers or related demetias with a neural network. This is a categorization problem so is applicable to a neural network recognition engine. But what would your metrics be for the engine to sort and categorize? Or are you trying to build a model network with Alzheimers to show average rates of decline? Also doable but usually need a lot of money and computing power.    Embed Quote

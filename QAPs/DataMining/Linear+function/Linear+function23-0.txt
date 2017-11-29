@@ -1,0 +1,2 @@
+★What are the benefits of using natural logarithms of variables as opposed to the other non-linear functions in case of transforming non-linear variables?
+That really depends on how the variable looks like in the first place. If you have skewed data (to the right) and want to have a curve that looks more like a normal distribution (for your favorite GLM functions), then ln is often a good idea (or log 10). If you can do the same with another transformation, then that's equally fine. You just need  to make clear which transformation you used.    Embed Quote

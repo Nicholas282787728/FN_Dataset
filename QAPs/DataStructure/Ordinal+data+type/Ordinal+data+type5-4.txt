@@ -1,0 +1,2 @@
+Why is the generative/discriminative distinction important in machine learning?
+Based on the paper 'Multimodal Learning with Deep Boltzmann Machines', discriminative approaches cannot make use of large amounts of unlabeled data or deal easily with missing input modalities. Whereas, generative models can be used to generate missing modalities, infer joint representations between two or more modalities and in addition can be used for discriminative tasks like any discriminative model. 

@@ -1,0 +1,2 @@
+★What are some continuous integration services that have built in support for the Github commit status API?
+To add to Moritz's list, my company Shippable (free cloud service for continuous integration and deployment) has also integrated the Github commit status API.    Embed Quote

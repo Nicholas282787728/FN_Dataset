@@ -1,0 +1,2 @@
+What are some good websites to learn data structures and algorithms?
+I suggest u to go through these awesome videos which are taught by some amazing professors! Computer Science 61B - Fall 2006 Algorithms - Shai Simonson NPTEL :: Computer Science and Engineering MIT 6.006 Introduction to Algorithms, Fall 2011 mycodeschool saurabhschool go through these channels, practice and participate in competitive programming like... (more)

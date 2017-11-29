@@ -1,0 +1,2 @@
+★Is there any connection between discriminative and undirected graphical models?Are the generative models always directed and discriminative models undirected?
+Yes discriminate analysis is stochastic and BBN are discrete    Embed Quote

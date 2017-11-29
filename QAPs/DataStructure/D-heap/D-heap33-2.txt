@@ -1,0 +1,2 @@
+Rust (programming language): What does Rust do best, and what are projects for someone new to the language that highlights these strengths?
+Rust is an attempt at a cleaner systems programming language. Close to the hardware but with enough abstractions to avoid today's common pitfalls (ie. Memory leaks, buffer overflow, ...). 

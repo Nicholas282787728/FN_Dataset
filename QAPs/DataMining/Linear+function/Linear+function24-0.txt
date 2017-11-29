@@ -1,0 +1,2 @@
+★Why are linear functions sometimes used as the output nodes of artificial neural nets, while the hidden nodes are instead non-linear? What is the reason for this difference?
+The reason is that often the output might be unbounded, as in regression, and so it doesn't make sense to constrain your outputs to be in an interval.    Embed Quote

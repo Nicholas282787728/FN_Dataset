@@ -1,0 +1,2 @@
+When does redis cluster version release?
+The first release candidate of Redis 3.0.0 including cluster support was released 9 October 2014 See: Redis cluster, no longer vaporware.    Embed Quote 

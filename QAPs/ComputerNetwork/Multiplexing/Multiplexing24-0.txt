@@ -1,0 +1,2 @@
+★How can we implement full adder using 8:1 multiplexer?
+You will need two multiplexer, one for Sum other for Carry I think this will help you    Embed Quote

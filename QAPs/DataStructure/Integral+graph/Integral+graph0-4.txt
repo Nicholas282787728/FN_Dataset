@@ -1,0 +1,2 @@
+What is the best way to integrate a graph database with mongoDB?I wish to use a graph engine to provide suggestions or related information based on data in mongoDB.
+You might want to check MongoGraph - http://www.franz.com/ps/newslett... which has a MongoDB interface to AllegroGraph 

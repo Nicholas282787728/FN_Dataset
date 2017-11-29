@@ -1,0 +1,1 @@
+Should one do programming without having knowledge of data structures and algorithms? How can it be helpful?

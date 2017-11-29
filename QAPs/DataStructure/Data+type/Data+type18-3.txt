@@ -1,0 +1,2 @@
+What is data type in c++?
+A data type is in C++ as it is in any other programming language. Let’s take the type int. In most languages, this represents an integer, such as 1 or -98. other primitive data types include double, float, long, string, and char. 115 Views

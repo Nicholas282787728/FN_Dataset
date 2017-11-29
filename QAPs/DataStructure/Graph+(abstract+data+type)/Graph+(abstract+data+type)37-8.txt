@@ -1,0 +1,2 @@
+Is recursion actually useful? I can't find any reason to use it. Why do some people love to use it?
+Certain problems can be solved just as easily with a loop. However this is difficult to do if you want to "branch out" to explore many areas, so recursion makes it much easier. See my tutorial that covers using recursion: Basic Recursion - Learneroo 

@@ -1,0 +1,31 @@
+Knowledge may be accessed at three stages: before, during, or after KM-related activities.[29] Organisations have tried knowledge capture incentives, including making content submission mandatory and incorporating rewards into performance measurement plans.[43] Considerable controversy exists over whether such incentives work and no consensus has emerged.[7]
+
+One strategy to KM involves actively managing knowledge (push strategy).[7][44] In such an instance, individuals strive to explicitly encode their knowledge into a shared knowledge repository, such as a database, as well as retrieving knowledge they need that other individuals have provided (codification).[44]
+
+Another strategy involves individuals making knowledge requests of experts associated with a particular subject on an ad hoc basis (pull strategy).[7][44] In such an instance, expert individual(s) provide insights to requestor (personalisation).[30]
+
+Hansen et al. defined the two strategies.[45] Codification focuses on collecting and storing codified knowledge in electronic databases to make it accessible.[46] Codification can therefore refer to both tacit and explicit knowledge.[47] In contrast, personalization encourages individuals to share their knowledge directly.[46] Information technology plays a less important role, as it is only facilitates communication and knowledge sharing.
+
+Other knowledge management strategies and instruments for companies include:[7][24][30]
+
+Knowledge sharing (fostering a culture that encourages the sharing of information, based on the concept that knowledge is not irrevocable and should be shared and updated to remain relevant)
+Storytelling (as a means of transferring tacit knowledge)
+Cross-project learning
+Make knowledge-sharing as a key roles in employees' job description
+After-action reviews
+Knowledge mapping (a map of knowledge repositories within a company accessible by all)
+Communities of practice
+Expert directories (to enable knowledge seeker to reach to the experts)
+Expert systems (knowledge seeker responds to one or more specific questions to reach knowledge in a repository)
+Best practice transfer
+Knowledge fairs
+Competence management (systematic evaluation and planning of competences of individual organisation members)
+Proximity & architecture (the physical situation of employees can be either conducive or obstructive to knowledge sharing)
+Master¨Capprentice relationship, Mentor-mentee relationship, Job-shadowing
+Collaborative software technologies (wikis, shared bookmarking, blogs, social software, etc.)
+Knowledge repositories (databases, bookmarking engines, etc.)
+Measuring and reporting intellectual capital (a way of making explicit knowledge for companies)
+Knowledge brokers (some organisational members take on responsibility for a specific "field" and act as first reference on a specific subject)
+Inter-project knowledge transfer
+Intra-organizational knowledge sharing
+Inter-organizational knowledge sharing

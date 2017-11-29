@@ -1,0 +1,2 @@
+★What is the perfect UX workflow?From start to end. How the UX design and testing process for a app or website should be? What steps should it have?
+I recommend the User Centered Design process as it is tightly coupled with developing & shipping quickly.  Research Design Test Repeat 2 & 3    Embed Quote

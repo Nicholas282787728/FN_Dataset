@@ -1,0 +1,2 @@
+★What are some real life good habits that programming gives people?Inspired by What are some real-life bad habits that programming gives people?
+That greedy algorithm might seem correct, but is not always correct!

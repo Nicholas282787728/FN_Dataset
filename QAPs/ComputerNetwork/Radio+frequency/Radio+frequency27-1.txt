@@ -1,0 +1,2 @@
+★Why does my external speaker adopt radio frequency when I set the volume to zero?
+You may be picking it up over your speaker wiring, with the amplifier feedback amplifying and rectifying it so you can hear it.  You could try using coaxial cable instead of the speaker wire you are using.    Embed Quote

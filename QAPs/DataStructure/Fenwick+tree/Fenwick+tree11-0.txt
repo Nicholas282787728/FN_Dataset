@@ -1,0 +1,2 @@
+How should I learn advanced data structure for solving competitive problems for must needed topics (the segment tree and the Fenwick tree)?Hey , I am new to programming and I have a problem of solving advanced data structure problems . jus suggest me some ways
+MIT OCW has two great courses Advanced Data Structures and Advanced Algorithms which talk about some very cool algorithms and data structure they run on. However, I am not a competitive programmer, so I am not sure these courses are exactly relevant for such competititons. 

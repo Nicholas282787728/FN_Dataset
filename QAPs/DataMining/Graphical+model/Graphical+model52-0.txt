@@ -1,0 +1,2 @@
+★How do I draw a shirt onto someone's 3D graphic model?
+This is what texture mapping was created for.  Any animation software such as Blender. Maya, 3DS Max, or Houdini will do this for you.    Embed Quote

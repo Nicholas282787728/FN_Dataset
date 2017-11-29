@@ -1,0 +1,2 @@
+Is array a data type? If yes, how?
+Actually,It is a derived Data Type which comprises of the list of the same data type. For Example,an array of integers it is a derived data type of integer data type where you can store a number of integer values 361 Views · 2 Upvotes

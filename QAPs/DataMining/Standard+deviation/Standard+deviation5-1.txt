@@ -1,0 +1,2 @@
+★What is an intuitive explanation for the ratio of standard deviation and mean?
+Signal/noise ratio.  If you just saw the mean every time without any randomness, this would be the pure signal.  The amount of fluctuation about the mean, encoded by standard deviation, is the noise.    Embed Quote

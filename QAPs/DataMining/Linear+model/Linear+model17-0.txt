@@ -1,0 +1,2 @@
+★What are the top 10 big ideas in Statistics 139 (Statistical Sleuthing through Linear Models) at Harvard?
+Experimental Design Parametric Tests (t-tests, z-tests, etc.) Non-parametric Tests (rank sum test, sign test, etc.) Causal Inference ANOVA Multiple Comparisons Simple Linear Regression Multiple Linear Regression Evaluating your Model10. R    Embed Quote

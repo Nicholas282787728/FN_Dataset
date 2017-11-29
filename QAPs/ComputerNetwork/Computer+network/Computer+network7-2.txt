@@ -1,0 +1,2 @@
+★What are the best blogs about computer networking?
+I have poked around on the following site, Free CCNA Workbook. It includes labs and other resources that are specific to preparation for the CCNA. Not sure if it's the best for discussions of networking generally, but valuable for anyone looking for free training resources for Cisco products.

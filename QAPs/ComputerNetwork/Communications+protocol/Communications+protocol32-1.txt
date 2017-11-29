@@ -1,0 +1,2 @@
+★What networking protocols are used in submarine communication cables?
+The communication is generally done using the OC standards which are generally aligned with ATM or SDH frames. Optical Carrier transmission rates Also worth reading about G.709 and Optical Transport Network

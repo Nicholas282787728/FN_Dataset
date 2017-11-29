@@ -1,0 +1,1 @@
+What is the best way to search for a specific sequence of integers from an array of 30 million integers (like searching for an array within array)?Just use Knuth–Morris–Pratt's algorithm (known as KMP algorithm). The running time is linear. Wiki : Knuth–Morris–Pratt algorithm 202 Views · View Upvotes

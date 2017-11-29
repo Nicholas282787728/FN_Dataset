@@ -1,0 +1,2 @@
+Why i am getting "Runtime Error(SIGSEGV)" in codechef, while it works perfectly in my local system?
+without taking the input of size of array you are declaring arr[n] so 'n' can be any garbage value. So it results in Segmentation Fault. Updated 10w ago • View Upvotes • Asked to answer by Anonymous

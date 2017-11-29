@@ -1,0 +1,2 @@
+Perl (programming language): Why did Larry Wall finally ship Perl6, and does anybody care?
+Perl6 is expected to facilitate creation of domain specific languages by making it easier to create and parse grammars. If it delivers on this promise, it will be one valuable feature that helps distinguish Perl6 from the crowd. Updated 16w ago • View Upvotes

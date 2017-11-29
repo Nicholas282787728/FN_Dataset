@@ -1,0 +1,2 @@
+★Java Platform, Enterprise Edition: What is the difference between "middleware" and "application server?"Application servers like WebLogic and WebSphere are all used like middleware. What is the difference between these two concepts?
+I agree with Miguel. To simplify the comparison... the main difference is that Middleware (EAI/ESB) sits in between two or more systems, and an app server sits within a system.Typical EAI/ESB translates, transforms and routes data between systems. An app server runs application logic for a system.

@@ -1,0 +1,2 @@
+★If I have a set of points in a vector space that I believe lie on a low dimensional manifold, what methods are useful for determining the dimensionality of that manifold?
+ISOMAP http://isomap.stanford.edu/ I've seen it work miracles :-) There's a ready-to-use Matlab package available so you can see whether it works for you pretty quickly.    Embed Quote

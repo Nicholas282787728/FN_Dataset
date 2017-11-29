@@ -1,0 +1,2 @@
+★What is the simplest program which explains the use of all layers of OSI model?
+I've had success sending several people struggling with the OSI model here: HowStuffWorks "How OSI Works"    Embed Quote

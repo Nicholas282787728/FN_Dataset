@@ -1,0 +1,2 @@
+What is void data type?
+A void data type is an object with no value of any type. Functions/methods can be defined to return no value as well. 184 Views

@@ -1,0 +1,2 @@
+★What is the best text analytics API + service?There are a lot of text analytics / text analysis APIs out there. What is your experience and what API do you think is the best one?
+We recently launched a new Text Analysis Service called http://Datumbox.com  which offers a free API. It supports several different services including Sentiment Analysis, Subjectivity Analysis, Topic Classification, Spam Detection etc.    Embed Quote

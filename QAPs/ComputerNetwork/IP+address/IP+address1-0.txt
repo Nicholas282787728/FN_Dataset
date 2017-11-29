@@ -1,0 +1,2 @@
+★What is my IP address?What is my Google hangouts ip address
+In general, you can find this out by going to: http://www.whatismyip.org/ and similar websites. If you are on a LAN, you may have a local IP that's different from the IP that the world sees (which you might share with other clients if you are behind a NAT or  proxy or similar.)

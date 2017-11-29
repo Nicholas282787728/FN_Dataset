@@ -1,0 +1,2 @@
+★Which hosted continuous integration services support FreeBSD?
+Not exactly a CI service, but Webair.com offers fully managed & unmanaged FreeBSD based web, db, mail and other instances on public cloud which could be easily integrated to existing CI tools..    Embed Quote

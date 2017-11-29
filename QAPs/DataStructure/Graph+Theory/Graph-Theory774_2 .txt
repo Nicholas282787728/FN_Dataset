@@ -1,0 +1,1 @@
+Why every tree is a graph, but not every graph is a tree?A tree can be treated as graphs because each node is connected to any other node with exactly 1 edge between them. A tree is basically a undirected open graph. Every graph is not a tree because a complete or a cyclic graph/ digraph does not have any leaf nodes. 147 Views  View Upvotes  Answer requested by Rakesh Shaha

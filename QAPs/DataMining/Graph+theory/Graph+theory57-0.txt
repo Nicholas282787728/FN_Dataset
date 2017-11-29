@@ -1,0 +1,2 @@
+★What are some common applications of spectral graph theory in computer science?
+Analysis of random walks Graph partitioning Quantum algorithms    Embed Quote

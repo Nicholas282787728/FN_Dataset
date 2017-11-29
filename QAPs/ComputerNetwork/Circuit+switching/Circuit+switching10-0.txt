@@ -1,0 +1,2 @@
+★What are driver circuits for power switch?
+Driver circuits are usually used for providing high current to the loads, simply because the controlling circuits are not capable of providing that heavy current directly. So, a low current/low power circuit will use a driver circuit interface  to provide high current to the load

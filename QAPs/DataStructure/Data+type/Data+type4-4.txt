@@ -1,0 +1,2 @@
+What is the difference between signed and unsigned data types?
+when saved as a signed integer, one bit is used for defining sign. let us say the number is 8bit then the range will be -128 to 127. But when the integer is declared as unsigned, means we don’t need negative value and therefore we include that in our range of positive numbers and hence the range becomes 0 to 255. I hope that this clears your doubt. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 3.5k Views · 6 Upvotes

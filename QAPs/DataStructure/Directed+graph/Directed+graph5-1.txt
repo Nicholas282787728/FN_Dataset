@@ -1,0 +1,2 @@
+How should I implement a social networking analysis directed graph in c++?
+You should rather use Boost Graph Library. Table of Contents: Boost Graph Library - 1.60.0 This is the best library in C++ check out its functions for your Best purpose. You can also use RBGL if you like R. http://www.bioconductor.org/pack... Best luck for your implementation! 299 Views

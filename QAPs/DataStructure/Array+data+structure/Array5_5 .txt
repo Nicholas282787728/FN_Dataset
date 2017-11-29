@@ -1,0 +1,1 @@
+What are arrays?"An array is a collection of homogeneous data items, known as elements 

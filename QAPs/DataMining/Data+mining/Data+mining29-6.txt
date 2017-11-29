@@ -1,0 +1,2 @@
+What books do you recommend to get introduced in the data mining "world"?
+this is the machine learning bible... Christopher M. Bishop | PRML not for the casual reader however!    Embed Quote 

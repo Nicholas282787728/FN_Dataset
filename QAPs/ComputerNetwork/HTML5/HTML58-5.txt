@@ -1,0 +1,2 @@
+★What are the best features of HTML5?
+Email Inputs. Eg; <input id="email" name="email" type="email" /> Placeholders. Eg;     <input name="email" type="email" placeholder="iam@jnelson.in" /> The Data Attribute. Eg;     <h1 id=someId customAttribute=value> Thank you, HTML5. </h1>   Web Storage Web Workers Canvas

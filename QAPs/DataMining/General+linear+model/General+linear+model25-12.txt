@@ -1,0 +1,2 @@
+★What are some good books for learning probability and statistics?Which are some of the most famous books on probability and randomness which provides some great intuition about the field. Most of the common textbooks refereed mostly focus on various formulas and theorems. Are their books which emphasize more on intuition rather than formulas. Basically interested in both theoretical paradoxes and interesting inferences from real world statistics.
+This one: Probability Theory : The Logic of Science, ET Jaynes    Embed Quote

@@ -1,0 +1,2 @@
+What are some good references for learning branch and bound algorithms?I need a reference which has explained things in clear and simple terms and solves a few examples using at least some pseudocode
+Get some basic understanding on linear programming. Then read the following. Page on inf.elte.hu I found it pretty useful. 

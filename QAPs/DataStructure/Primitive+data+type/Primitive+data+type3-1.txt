@@ -1,0 +1,2 @@
+How do I get the address of variables of the primitive data types in Java?
+You can't. Java doesn't allow explicit use of pointers unlike C/C++. 

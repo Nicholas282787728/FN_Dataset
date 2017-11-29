@@ -1,0 +1,2 @@
+★How do I show the standard error of an estimated proportion is largest when p = 1/2?Show that the standard error of an estimated proportion is largest when p = 1/2.
+The standard error of an estimated proportion is If you're only adjusting then you only have to find when reaches its maximum. This is simply a calculus problem to see the maximum of If you set the derivative to 0, which solves to Edit: If you haven't done the whole calculus thing, in algebra you learn that the maximum of a parabola is found when . In our case:    Embed Quote

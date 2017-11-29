@@ -1,0 +1,2 @@
+★How does Instapaper parse just the main body text of a web page?Was it an off the shelf package or custom html parsing?
+Here is a project I just open sourced, still adding docs but it parses out the body of an article and also extracts what is the main image of the article as well. https://github.com/jiminoc/goose... You can clone the project and run the unit tests to see all the steps is goes through to clean out an article.    Embed Quote

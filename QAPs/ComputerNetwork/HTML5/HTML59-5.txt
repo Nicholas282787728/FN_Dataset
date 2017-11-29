@@ -1,0 +1,2 @@
+★Is Bootstrap a complement or an alternative to HTML5 Boilerplate or viceversa?In one corner we have Bootstrap and Foundation, in the other we have HTML5 Boilerplate and similar HTML/CSS starting templates. Can they be used together or do we have to pick a side?
+Our team combine Bootstrap with personal solution very well. You can download it and try Demo of Startup Framework Let me know your opinion about our project :)

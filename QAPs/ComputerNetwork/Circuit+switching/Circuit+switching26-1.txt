@@ -1,0 +1,2 @@
+★For a circuit, why is the back EMF when the switch opened is greater than when the switch is closed?
+When you close the switch the voltage just before the switch closes is just the applied voltage, say 12 volts.   When the switch closes, the voltage across the switch is zero. But when you open the switch the change in current happens over just a few microseconds, so dt is very small, and the change in current is from full current to zero, so the voltage is very large.

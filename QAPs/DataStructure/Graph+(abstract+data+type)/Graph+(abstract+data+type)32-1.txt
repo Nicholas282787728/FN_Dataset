@@ -1,0 +1,1 @@
+How would one write a game in a functional language if the state cannot change (player wouldn't be able to move and such)?

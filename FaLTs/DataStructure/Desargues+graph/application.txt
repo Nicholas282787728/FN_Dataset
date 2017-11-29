@@ -1,0 +1,2 @@
+In chemistry, the Desargues graph is known as the Desargues–Levi graph; it is used to organize systems of stereoisomers of 5-ligand compounds. In this application, the thirty edges of the graph correspond to pseudorotations of the ligands.[4][5]
+In chemistry, the Desargues graph is known as the Desargues–Levi graph; it is used to organize systems of stereoisomers of 5-ligand compounds. In this application, the thirty edges of the graph correspond to pseudorotations of the ligands.[4][5]

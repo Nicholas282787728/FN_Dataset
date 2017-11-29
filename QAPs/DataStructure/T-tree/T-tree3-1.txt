@@ -1,0 +1,2 @@
+Given a tree T and a subset S of the vertices in T, how to efficiently find a minimal subtree T' of T that contains all vertices in S?
+Start with [math]T'=T[/math], then keep removing leaves from [math]V(T')\setminus S[/math] until there are none left. This can be implemented to run in linear time. 

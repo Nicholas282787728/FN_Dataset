@@ -1,0 +1,2 @@
+★What are some hosted continuous integration services for Django that support selenium testing?
+Shippable (cloud platform for continuous integration and deployment) also supports Django and Selenium. We are 100% free for github public and private projects.    Embed Quote

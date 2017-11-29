@@ -1,0 +1,2 @@
+★What does Lockitron use for wireless communication (e.g. Z-wave, Zigbee, etc.)?
+From their docs seems to be Bluetooth v4.0.    Embed Quote

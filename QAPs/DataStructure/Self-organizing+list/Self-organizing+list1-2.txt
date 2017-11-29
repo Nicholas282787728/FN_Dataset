@@ -1,0 +1,2 @@
+What is the “Basic Requirements for IPv6 Customer Edge Routers”?
+Customer edge router may need to perform following task 1) Announcing router prefix for auto-configuration if configured 2) Performing DNS64 or NAT64 if configured 3) Performing NAT-PT if configured or simply routing IPv6 packets. It all depends upon the type of configuration, there is no generic answer to this question 

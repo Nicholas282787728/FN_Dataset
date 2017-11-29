@@ -1,0 +1,2 @@
+★Which are some of the best web data scraping tools?What are the best tools (free/paid) to scrape large amounts of data from webpages and store it in required formats?  The tool preferably should be automated to look for new data at specific intervals.
+http://Scrape.it is the only one out there that works even after website layout changes. The UI is even easier to use than import or kimono and unlike mozenda, it has no metered per page billing.    Embed Quote

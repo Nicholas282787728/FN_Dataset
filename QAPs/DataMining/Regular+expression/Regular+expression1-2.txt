@@ -1,0 +1,2 @@
+★What's the best book on regular expressions?
+I'd add if you are interested in implementing an RE engine and knowing about the theory behind them, I found the following two sources to be invaluable: "Compilers - Principles, Techniques, Tools (Aho, Sethi, Ullman - the "dragon" book), and the following paper at http://swtch.com/~rsc/regexp/reg...    Embed Quote

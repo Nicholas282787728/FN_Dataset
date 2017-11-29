@@ -1,0 +1,2 @@
+What is the simplest way to store 3 dimensional arrays in a SQL database?
+A table with three colums (x, y, z) representing the array index. The three together must be the primary key. Further columns would represent the cell content. 

@@ -1,0 +1,1 @@
+A universal graph of this type was first constructed by R. Rado[1][2] and is now called the Rado graph or random graph. More recent work[3] [4] has focused on universal graphs for a graph family F: that is, an infinite graph belonging to F that contains all finite graphs in F.

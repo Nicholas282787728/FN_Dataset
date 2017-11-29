@@ -1,0 +1,2 @@
+How and where should I begin learning R programming?I'm an undergraduate student planning to submit a report on R.
+Codeschool has free R programming course which is really good. Codeschool also offer first month discount in case you want to check out some other courses: Enroll in Code School for 9 Dollars 

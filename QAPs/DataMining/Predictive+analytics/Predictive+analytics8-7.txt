@@ -1,0 +1,2 @@
+★Predictive Analytics: In regression modelling, is more sample data always better?
+practicaly it is not good. But in theories large sample data is good becaues it explains the whole population, so it is obvious that error will be less after modelling. But practically it is not good as it takes a lot of computational time and will not be efficient.    Embed Quote

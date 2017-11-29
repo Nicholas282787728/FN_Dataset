@@ -1,0 +1,2 @@
+★What are the advantages of Sparrow over the Gmail web app?
+I've used the beta. It is spare to say the least (hence Sparrow?). I've used Mailplane on the Mac and must say that it tends to be ahead of the Gmail web experience in terms of functionality -- style sheet support, file drag and drop, etc. There is no deficiency with Mailplane in terms of functionality with the Gmail web tool.

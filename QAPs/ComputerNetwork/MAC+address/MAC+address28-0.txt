@@ -1,0 +1,2 @@
+★How can networks be protected against MAC address spoofing?This is a follow up to Anonymous' answer to What is the easiest way to gain access to Wi-Fi at Stanford for an extended period? In a network in which a user's MAC address is used as a factor in identification, how can impersonation be prevented?
+Two things comes to mind Port security on all switches forcing the spoofer to sit on the actual port of the spoofed mac address The use of the authentication part of IPSec. This would enable protection from MAC spoofing on wireless networks    Embed Quote

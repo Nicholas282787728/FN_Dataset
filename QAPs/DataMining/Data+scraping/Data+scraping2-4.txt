@@ -1,0 +1,2 @@
+Which are some of the best web data scraping tools?
+I have been using import.io and it is great. Really interesting start up too. Automation Anywhere (7.0) is also very, very good for extracting data from tables with multiple tabs. This is something which is a bit trickier with import.io.    Embed Quote 

@@ -1,0 +1,2 @@
+★Why did Ethernet beat out token ring networks?
+Ethernet cables are cheaper than token ring cables Ethernet got to 100 MBps before Token Ring Token Ring was marketed as "enterprisey" and priced accordingly

@@ -1,0 +1,2 @@
+Before implementing a BI solution, it is worth taking different factors into consideration before proceeding. According to Kimball et al., these are the three critical areas that you need to assess within your organization before getting ready to do a BI project:[12]
+The level of commitment and sponsorship of the project from senior management The level of business need for creating a BI implementation The amount and quality of business data available.

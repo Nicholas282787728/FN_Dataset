@@ -1,0 +1,1 @@
+How can I add two numbers represented as linked list using the C program?Original question was: "How can I add two linked list using the C program?" The first list's tail needs to link as 'next' the second list's head. C, or any other language. Alternatively, you can just copy each of the elements from the second list at the end of the first one. 666 Views  View Upvotes

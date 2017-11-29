@@ -1,0 +1,2 @@
+What is the best design for a popsicle stick bridge?
+I have participated in many competitions by  designing bridge with popsicle sticks. Their dimensions are 60*16*16. The best way to design is by three side wall truss instead of two side truss; due to this, the rigidity of the bridge has increased, i.e. when it carries heavy weight the bridge has maximum stress at the side truss, so I constructed with 3 side truss (two at the sides and one at the middle). My entire bridge weighs 1.2 kg and carries 72kg (158lb). Updated 107w ago • View Upvotes

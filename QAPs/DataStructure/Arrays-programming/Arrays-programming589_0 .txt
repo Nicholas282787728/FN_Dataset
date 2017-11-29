@@ -1,0 +1,1 @@
+Can an array have negative numbers?Will depend on your language, and what you mean. Negative values? Almost certainly, unless the values are unsigned. Negative indices? Depends on your language. In C, you could do a malloc, advance the pointer, and then address the memory with a negative index, I would imagine. 290 Views  View Upvotes

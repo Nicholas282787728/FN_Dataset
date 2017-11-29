@@ -1,0 +1,2 @@
+In the equation y=-3x, if x=-7 what is the ordered pair?
+Ordered pair (a,b) is the solution to the given equation y=-3x. It is seemingly easy to find out the ordered pair, since we know that x =-3. All you need to do is plug in the value of x in the given equation to find the corresponding value of y. Finally, write them as the ordered pair with x-value first an then the y-value. 

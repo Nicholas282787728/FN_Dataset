@@ -1,0 +1,1 @@
+Can you graph the ackermann's function?Well since you can compute it you can obviously graph It. However I have no idea how to extend It to rationals or reals so you will have to do with some 3D points instead. Also dont ask for a big domain. Please. 283 Views  View Upvotes

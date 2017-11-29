@@ -1,0 +1,2 @@
+★How does one start writing practical machine learning programs?
+I will recommend 2 online free classes :- 1) Coursera's machine learning class 2) Caltech machine learning class(http://work.caltech.edu/telecour...) caltech's class is way ahead than coursera's ML class. After that,one should try solving problems from sites like (http://www.kaggle.com/ ) and (http://www.crowdanalytix.com/)    Embed Quote

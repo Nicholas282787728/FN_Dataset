@@ -1,0 +1,2 @@
+★Is it possible to compress data using linear regression?
+Linear regression aims to minimize the error, but doesn't guarantee zero error - except if the underlying data happens to be the result from the same type of polynomial you're trying to fit. When you have binary data, that would be one weird polynomial - just think about what its graph would look like. You'd probably have to have more coefficients than bits :) If you're looking for ML for data compression, look at PCA. Fourier analysis would probably be useful, too.    Embed Quote

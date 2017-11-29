@@ -1,0 +1,2 @@
+★Are there any channels for a Roku that you can add IPTV streams to?
+Yes, look into Pear. You can find info on it on Roku's forums, on Reddit and at their site: channelpear.com. I learned about it on Reddit and haven't tried it yet, so if you do please let me know how you like it.

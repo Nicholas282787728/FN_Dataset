@@ -1,0 +1,2 @@
+★Can infrared light be sent to long distance?I need to send the infrared light from emitter to a distance of about 10-12 foots. Can this be possible in anyway?
+Of course, IR is no different to visible light in this respect, you can use lenses and mirrors or whatever (TV remotes use this technology don't forget) The only restriction is that certain lenses are not transparent to infrared. The IR led's used in TV remotes sometimes have a built in lens that produces a good narrow beam. Ideal for the distance you require.    Embed Quote

@@ -1,0 +1,1 @@
+What are the most important concepts in C and C++ that should be learnt and understood before a programming interview?I don't have much time left for my interviews. So please suggest to me the concepts I must know before going for the interview.

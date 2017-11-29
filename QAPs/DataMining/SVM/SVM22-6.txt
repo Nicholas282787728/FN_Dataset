@@ -1,0 +1,2 @@
+★What does support vector machine (SVM) mean in layman's terms?How to calculate the SVM taining accuracy using ROC area
+It's an algorithm used to classify data into classes. the algorithm relies on finding a line that separates the training set into classes such that the line's distance from each possible point in a class is maximized.    Embed Quote

@@ -1,0 +1,2 @@
+What is the difference between simple Fibonacci heap and strict Fibonacci heap?
+Generally speaking,  amortization rarely brings asymptotic improvements. Most structures can work with the same worst-case guarantees, but it typically needs complicating the algorithms a lot; also the multiplicative constants tend to grow, especially if implementing in a straight-forward manner (standard structure descriptions much prefer simplicity over constant improvements). 662 Views · 1 Upvote

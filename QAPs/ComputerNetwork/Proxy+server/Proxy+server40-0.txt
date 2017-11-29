@@ -1,0 +1,2 @@
+★What are good ways to make my laptop a wifi hotspot of bypassed proxy server?i am using tor to bypass proxy server. how to creat wifi using this 127.0.0.1
+Use connectify on windows or hostapd on linux to have a reliable hostspot.  If you are looking for  web proxying via tor then use polipo.    Embed Quote

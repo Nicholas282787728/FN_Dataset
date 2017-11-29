@@ -1,0 +1,2 @@
+★What are the best open source machine learning libraries written in C++?
+mlpack is a popular machine learning library package for C++. It includes algorithms for k-means clustering, naive bayes classification, and hidden markov models.    Embed Quote

@@ -1,0 +1,2 @@
+★Which are the best US graduate schools for studying computer networks?Please suggest some good schools apart from the usual suspects (CMU, MIT, Stanford, UCB). I am not too keen on wireless networks.
+Maybe you can check out their research capabilities on microsoft academic research. - http://academic.research.microso... USC, Gatech, UTA, Columbia, UMass etc seem to be in a tier just below the usual suspects like stanford, MIT etc.

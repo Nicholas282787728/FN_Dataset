@@ -1,0 +1,2 @@
+★Why does Quora expose my plaintext password as an URL variable?
+Not able to replicate it at my end! From the screen shot it seemed that you were using Chrome's "Incognito" mode. So tried using that and still wasn't able to replicate it. My guess is that this might have something to do with any chrome extension/add-on that you might have installed within the browser.    Embed Quote

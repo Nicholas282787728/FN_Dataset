@@ -1,0 +1,2 @@
+★How do I preserve hyperlinks when converting webpages to pdf?I typically print to pdf in Windows 7 and "save as pdf" in Mac OS X.
+You need an application such as Acrobat. It will let you capture web pages with links intact.    Embed Quote

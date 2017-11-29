@@ -1,0 +1,2 @@
+How will you explain the position of pivot in a rotated sorted array in O(logn) time to a beginner with its correctness?
+If the middle element is greater than the right most element, then the smallest element must be to the right. If not, the smallest element must be to the left. If you find the minimum element, then the number of rotations can be found. At each iteration, you decrease the input into half, or O(log n). 352 Views · 3 Upvotes

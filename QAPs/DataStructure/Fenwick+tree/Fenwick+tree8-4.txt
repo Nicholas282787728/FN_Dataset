@@ -1,0 +1,2 @@
+What are some good resources to understand a binary indexed tree (Fenwick tree)?
+Binary Indexed Trees (Fenwick Trees) also Further problems on Binary Indexed Trees 

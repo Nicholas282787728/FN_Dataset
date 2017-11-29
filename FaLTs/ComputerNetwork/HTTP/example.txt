@@ -1,0 +1,1 @@
+Below is a sample conversation between an HTTP client and an HTTP server running on www.example.com, port 80.

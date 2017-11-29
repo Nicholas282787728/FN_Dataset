@@ -1,0 +1,2 @@
+Which two programming languages together are powerful and cover the largest field in programming?
+C and Racket? C covers the low level, Racket covers pretty much everything else: functional programming procedural programming object-oriented programming modular programming dynamically and statically typed programming contract-based programming logic programming constraint programming probabilistic programming literate programming functional reactive programming reflective programming lazy and eager evaluated programming metaprogramming They also work well together :) 

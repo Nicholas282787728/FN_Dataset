@@ -1,0 +1,2 @@
+What is depth first search in data structures called graph?
+Depth-first search  (DFS) is an algorithm for traversing or searching tree or graph data structures. One starts at the root(selecting some node as the root in the graph case) and explores as far as possible along each branch before backtracking. A version of depth-first search was investigated in the 19th century by French mathematician Charles Pierre Trémaux[1] as a strategy for solving mazes.[2][3] This site provides a clear example of such a search. 428 Views · 2 Upvotes · Answer requested by Ajay Prasad

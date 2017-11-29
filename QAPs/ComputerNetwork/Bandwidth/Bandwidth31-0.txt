@@ -1,0 +1,2 @@
+★How can I find out the bandwidth of a website?
+From what I've seen of Quora's response time, it varies all over the place, from quick to abominably slow.  I can't visualize how this could be, unless thre are some serious software bugs that lead to the hangups.

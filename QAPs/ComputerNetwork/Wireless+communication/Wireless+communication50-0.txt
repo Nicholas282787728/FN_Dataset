@@ -1,0 +1,2 @@
+★Wireless Communication: How do we simulate Shadow Fading using Matlab? lognrnd(0,σ) or normrnd(0,σ)?
+Either will work, but the usage is different. Let the path loss be (in linear scale, NOT in dB). Then the total attenuation in case of shadow fading is given by: If you are working in dB scale with path loss as , the attenuation in dB scale is given by: This follows from the description that shadow fading is normally distributed in dB scale (log-normal).    Embed Quote

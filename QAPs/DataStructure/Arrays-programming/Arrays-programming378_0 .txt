@@ -1,0 +1,1 @@
+How do you initialize an array of structures in C?here's the syntax to declare and initialize array of structures. struct structure_name s[]; // declaration s[0].a = 10; // initialization Print(" ℅d ", s[0].a); // printing structure data 85 Views

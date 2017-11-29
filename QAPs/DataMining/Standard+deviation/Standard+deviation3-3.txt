@@ -1,0 +1,2 @@
+★Is variance another word for standard deviation?
+no, if you multiply std dev by std dev, you get variance. but, if you multiple variance by variance, you do not get std dev.    Embed Quote

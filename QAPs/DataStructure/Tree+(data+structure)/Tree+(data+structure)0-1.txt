@@ -1,0 +1,2 @@
+Which is best book for tree data structure?
+if u want to start from scratch , better you go with classic data structures by samantha . if you want to solve problems prefer data structures and algorithms made easy by narasimha karumanchi . u can solve challenges from HackerRank . 

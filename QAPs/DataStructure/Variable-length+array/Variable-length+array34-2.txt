@@ -1,0 +1,2 @@
+How much additional memory overhead does NSArray in Objective-C have versus standard C arrays?
+totally agree with Colin's main points. if you're set on avoiding the overhead of boxing: CF collections can easily be coerced to handle integer values. if your value type is float however, don't cast -- try using a fixed point representation instead. or just take advantage of Objective-C++ and leverage some of the STL collections. 

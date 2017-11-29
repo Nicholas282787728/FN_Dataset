@@ -1,0 +1,2 @@
+What are all the algorithms used in the Java programming language libraries?
+NOTE:- It depends on implementation of JDK. There's no specific implementation. To name a few... Algorithms:- Sort - Insertion Sort(length < 7), Merge Sort, Quick sort String#contains - Brute force O(n*m) HashMap - Open addressing (linear probing) Arrays#binarySearch Implementation of hashing algorithms (MD5, SHA) Data Structure:- TreeSet - Red Black tree LinkedList - Doubly linked list Queue, Stack Priority Queue - Heap A2A 

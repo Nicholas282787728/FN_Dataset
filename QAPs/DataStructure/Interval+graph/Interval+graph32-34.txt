@@ -1,0 +1,2 @@
+What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
+One of the obvious theorems that I have come across is the Law of Trichotomy. It states that: If a and b are two real numbers, then exactly one of the following holds: a<b, a=b or a>b Isn't that obvious! 

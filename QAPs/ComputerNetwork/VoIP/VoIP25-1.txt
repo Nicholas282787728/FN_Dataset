@@ -1,0 +1,2 @@
+★Why does VoIP suck?Why do I always lose packets, and why does it seem to falter over time? Is this a hardware problem or a software problem? Is unreliabity built in to the system somehow?
+It is the nature of IP networks. While software and hardware can improve the situation, the network at its base thinks in terms of "best effort" instead of "guaranteed quality of service" which you get on regular phone lines.    Embed Quote

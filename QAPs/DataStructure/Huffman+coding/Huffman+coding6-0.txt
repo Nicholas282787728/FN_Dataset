@@ -1,0 +1,2 @@
+What is the code for image compression using Huffman coding?
+Huffman coding for image compression I assume you want the code in Java P.S: I think the stack overflow community will help you out more :) 1.2k Views · 3 Upvotes

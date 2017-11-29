@@ -1,0 +1,1 @@
+What's the best way to delete duplicates from a sorted array in time and space?I think this is a trick question. You cannot do it in time. Suppose you are given an array with distinct elements, you can verify it is an array with distinct elements in time, by looking at all its elements. 

@@ -1,0 +1,2 @@
+What companies are using ontology standards such as OWL and RDF in their information architecture or data management practices?
+check out the "Linking Enterprise Data" book [1], it provides real-world use cases from the BBC, Reuters, NY Times, UN and Kluwer [1] http://3roundstones.com/linking-...    Embed Quote 

@@ -1,0 +1,2 @@
+What are the best books to learn algorithms and data structures? Are there any good blogs/posts on these? Which books explain these concepts in a simpler way?
+Majority of the material is covered in the mentioned answers. But if you are looking for a website where you can practice some really good algorithm questions, I would definitely suggest Problems | LeetCode OJ 15.3k Views · 5 Upvotes

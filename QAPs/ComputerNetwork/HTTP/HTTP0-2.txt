@@ -1,0 +1,2 @@
+★What is HTTP?
+It stands for hypertext transfer protocol. In OSI stack, its an application layer protocol. In layman terms its the set of rules according to which the website data is transferred to and fro between a client and web server.  It uses TCP as the underlying transport layer protocol.

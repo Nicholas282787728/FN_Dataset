@@ -1,0 +1,2 @@
+How do I start learning or strengthen my knowledge of data structures and algorithms?
+Originally Answered: What is the fastest way to learn data structures and algorithms?There is no 'fastest' way to learn anything. To learn anything (not just data structures and algorithms) you need to read a lot, put the knowledge to good use and continually challenge yourself by taking on more difficult and tasking projects.   This article by Peter Norvig may be worth reading: Teach Yourself Programming in Ten Years Updated 3 Dec 2014 • View Upvotes

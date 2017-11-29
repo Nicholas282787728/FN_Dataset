@@ -1,0 +1,2 @@
+As a coder, why do you prefer C++ over C?
+C is a 1970s/1980s way of thinking. C++ does everything that C does, only better. The only reason to use C is if you are writing an OS kernel or embedded systems code. If you choose C over C++ for any other reasons, you have a lot of C++ to learn. 

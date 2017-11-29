@@ -1,0 +1,2 @@
+★How can i use genetic algorithms to create a better Neural Network?
+It's not that difficult, really. You can genetically evolve the topology of your neural network. A simple example for doing this is having your "DNA" be the connectivity matrix between neurons. Each candidate neural network's fitness would then evaluated in the standard genetic algorithm fashion.    Embed Quote

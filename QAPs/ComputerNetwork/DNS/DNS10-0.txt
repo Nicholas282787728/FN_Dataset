@@ -1,0 +1,2 @@
+★What is DNS?
+DNS is used to translate a host name like www.google.com to an IP address. It's like the telephone book for the internet. It makes using the Internet much easier than having to remember a series of numbers to get to a website.

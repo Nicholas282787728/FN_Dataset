@@ -1,0 +1,2 @@
+★Does Google store the passwords in plain text?There was recent news of Google account passwords being hacked. How is that possible?
+Google was not hacked. The accounts that were stolen used gmail addresses as usernames. The passwords were the passwords of some other service, not Google.    Embed Quote

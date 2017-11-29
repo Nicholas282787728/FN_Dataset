@@ -1,0 +1,2 @@
+★Is Android phones prone to DDOS attacks?
+logically speaking any device that connect to some kind of network is prone to such or similar type of attack. if not DDoS then could be be simple DoS using and app exploit or malware.

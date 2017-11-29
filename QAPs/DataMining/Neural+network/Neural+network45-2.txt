@@ -1,0 +1,2 @@
+★What is the best open source neural network library?e.g. http://leenissen.dk/fann/wp/
+Encog Machine Learning Framework is quite good    Embed Quote

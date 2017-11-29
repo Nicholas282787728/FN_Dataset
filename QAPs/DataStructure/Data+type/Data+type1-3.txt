@@ -1,0 +1,2 @@
+Is 'void' a data type?
+I'll assume we're talking about C languages, so no. Others mentioned it but I want to put it (only slightly) more formally: A data type is defined by the values it can take and the operations you define over it. It is also not defined as a data type by the language (at least not afaik). void cannot be inhabited at all. Hence, it doesn't satisfy the our definition at all. Interestingly however, some languages really can have a void data type (Haskell is one of them). 432 Views

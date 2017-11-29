@@ -1,0 +1,2 @@
+What is the purpose of the neighbor pointers in a B+Tree? When are they useful?
+neighbor pointers is there for you to do range scans, and does not need to retraverse the root and branch block of the btree. 248 Views

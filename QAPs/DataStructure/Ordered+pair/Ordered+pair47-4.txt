@@ -1,0 +1,2 @@
+How does the square root of a negative number have an "imaginary" answer?
+The term imaginary was coined in a time where people thought about Real numbers. Any real number squared results in a positive real number. Therefore it is difficult to imagine a number that when squared is negative. In order to get a negative result one has to imagine a non real number that has this property. The term imaginary number was coined to juxtapose it against the real numbers. 

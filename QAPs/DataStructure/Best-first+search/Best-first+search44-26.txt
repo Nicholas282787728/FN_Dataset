@@ -1,0 +1,2 @@
+Where can I find large datasets open to the public?
+Custom Google Search You can use the Custom Google Search for datasets: Google Custom Search: Datasets 230 sources and meta-sources of datasets, including all mentioned in this question. Please, feel free to exclude .gov and any other websites from results by adding " -.gov" or " -site.com" to the search line. Other Google Search Operators work. ... (more)

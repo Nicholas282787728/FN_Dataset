@@ -1,0 +1,2 @@
+Can you help me solve e x =1−x  ?
+Since e x >=1  for x>=0  and 1−x<=1  on the same interval, the only solution in [0,∞)  is x=0  . Similar reasoning applies to the interval (−∞,0]  . Updated 14 Jul • View Upvotes

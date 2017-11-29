@@ -1,0 +1,1 @@
+Commonly a decision tree is drawn using flowchart symbols as it is easier for many to read and understand.

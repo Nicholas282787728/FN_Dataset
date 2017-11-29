@@ -1,0 +1,172 @@
+To insert the value "25" into this 2�?�? tree:
+
+Begin at the root (10, 20) and descend towards the rightmost child (22, 24, 29). (Its interval (20, �? contains 25.) Node (22, 24, 29) is a 4-node, so its middle element 24 is pushed up into the parent node.
+
+The remaining 3-node (22, 29) is split into a pair of 2-nodes (22) and (29). Ascend back into the new parent (10, 20, 24). Descend towards the rightmost child (29). (Its interval (24, �? contains 25.)
+
+Node (29) has no leftmost child. (The child for interval (�? 29) is empty.) Stop here and insert value 25 into this node.
+
+To insert the value "25" into this 2�?�? tree:
+
+Begin at the root (10, 20) and descend towards the rightmost child (22, 24, 29). (Its interval (20, �? contains 25.) Node (22, 24, 29) is a 4-node, so its middle element 24 is pushed up into the parent node.
+
+The remaining 3-node (22, 29) is split into a pair of 2-nodes (22) and (29). Ascend back into the new parent (10, 20, 24). Descend towards the rightmost child (29). (Its interval (24, �? contains 25.)
+
+Node (29) has no leftmost child. (The child for interval (�? 29) is empty.) Stop here and insert value 25 into this node.
+
+Some common ADTs, which have proved useful in a great variety of applications, are
+Container Deque List Map Multimap Multiset Priority queue Queue Set Stack String Tree
+Each of these ADTs may be defined in many ways and variants, not necessarily equivalent. For example, a stack ADT may or may not have a count operation that tells how many items have been pushed and not yet popped. This choice makes a difference not only for its clients but also for the implementation.
+Suppose that the set of loans made by a library is to be represented in a data structure. Each book in a library may be checked out only by a single library patron at a time. However, a single patron may be able to check out multiple books. Therefore, the information about which books are checked out to which patrons may be represented by an associative array, in which the books are the keys and the patrons are the values. For instance (using the notation from Python in which a binding is represented by placing a colon between the key and the value), the current checkouts may be represented by an associative array
+{
+    "Great Expectations": "John",
+    "Pride and Prejudice": "Alice",
+    "Wuthering Heights": "Alice"
+}
+A lookup operation with the key "Great Expectations" in this array would return the name of the person who checked out that book, John. If John returns his book, that would cause a deletion operation in the associative array, and if Pat checks out another book, that would cause an insertion operation, leading to a different state:
+{
+    "Pride and Prejudice": "Alice",
+    "The Brothers Karamazov": "Pat",
+    "Wuthering Heights": "Alice"
+}
+In this new state, the same lookup as before, with the key "Great Expectations", would raise an exception, because this key is no longer present in the array.
+The left figure below shows a binary decision tree (the reduction rules are not applied), and a truth table, each representing the function f (x1, x2, x3). In the tree on the left, the value of the function can be determined for a given variable assignment by following a path down the graph to a terminal. In the figures below, dotted lines represent edges to a low child, while solid lines represent edges to a high child. Therefore, to find (x1=0, x2=1, x3=1), begin at x1, traverse down the dotted line to x2 (since x1 has an assignment to 0), then down two solid lines (since x2 and x3 each have an assignment to one). This leads to the terminal 1, which is the value of f (x1=0, x2=1, x3=1).
+The binary decision tree of the left figure can be transformed into a binary decision diagram by maximally reducing it according to the two reduction rules. The resulting BDD is shown in the right figure.
+Binary decision tree and truth table for the function BDD for the function f
+Google BigTable uses Bloom filters to reduce the disk lookups for non-existent rows or columns. Avoiding costly disk lookups considerably increases the performance of a database query operation.[4]
+The Squid Web Proxy Cache uses Bloom filters for cache digests.[5]
+The Venti archival storage system uses Bloom filters to detect previously stored data.[6]
+The SPIN model checker uses Bloom filters to track the reachable state space for large verification problems.[7]
+Google BigTable uses Bloom filters to reduce the disk lookups for non-existent rows or columns. Avoiding costly disk lookups considerably increases the performance of a database query operation.[4]
+The Squid Web Proxy Cache uses Bloom filters for cache digests.[5]
+The Venti archival storage system uses Bloom filters to detect previously stored data.[6]
+The SPIN model checker uses Bloom filters to track the reachable state space for large verification problems.[7]
+Containers are divided in the Standard Template Library into associative containers and standard sequence containers. Besides this two types, so-called container adaptors exist. Data structures that implement containers include arrays, lists, maps, queues, sets, stacks, tables, trees, and vectors.
+The input is: a b + c d e + * *
+Since the first two symbols are operands, one-node trees are created and pointers are pushed to them onto a stack. For convenience the stack will grow from left to right.
+
+Stack growing from Left to Right
+The next symbol is a '+'. It pops the two pointers to the trees, a new tree is formed, and a pointer to it is pushed onto to the stack.
+Formation of a New Tree
+Next, c, d, and e are read. A one-node tree is created for each and a pointer to the corresponding tree is pushed onto the stack.
+Creating One-Node Tree
+
+Continuing, a '+' is read, and it merges the last two trees.
+Merging Two Trees
+Now, a '*' is read. The last two tree pointers are popped and a new tree is formed with a '*' as the root.
+Forming a New Tree with a Root
+Finally, the last symbol is read. The two trees are merged and a pointer to the final tree remains on the stack.[5]
+Steps to Construct an Expression tree a b + c d e + * *
+
+To search for an interval, you walk the tree, omitting those branches which can't contain what you're looking for. The simple case is looking for a point:
+// Search for all intervals which contain "p", starting with the
+ // node "n" and adding matching intervals to the list "result"
+ public void search(IntervalNode n, Point p, List<Interval> result) {
+     // Don't search nodes that don't exist
+     if (n == null)
+         return;
+ 
+     // If p is to the right of the rightmost point of any interval
+     // in this node and all children, there won't be any matches.
+     if (p.compareTo(n.getValue()) > 0)
+         return;
+ 
+     // Search left children
+     if (n.getLeft() != null)
+         search(IntervalNode (n.getLeft()), p, result);
+ 
+     // Check this node
+     if (n.getKey().contains(p))
+         result.add(n.getKey());
+ 
+     // If p is to the left of the start of this interval,
+     // then it can't be in any child to the right.
+     if (p.compareTo(n.getKey().getStart()) < 0)
+         return;
+ 
+     // Otherwise, search right children
+     if (n.getRight() != null)
+         search(IntervalNode (n.getRight()), p, result);
+ }
+The code to search for an interval is exactly the same except for the check in the middle:
+// Check this node
+ if (n.getKey().overlapsWith(i))
+     result.add (n.getKey());
+overlapsWith() is defined as:
+public boolean overlapsWith(Interval other) {
+     return start.compareTo(other.getEnd()) <= 0 &&
+            end.compareTo(other.getStart()) >= 0;
+ }
+This is an example of the node class used to store integers in a Java implementation of a linked list.
+public class IntNode {
+     public int value;
+     public IntNode link;
+     public IntNode(int v) { value = v; }
+}
+Suppose you wanted to create a linked list of families and their members. Using internal storage, the structure might look like the following:
+record member { // member of a family
+     member next;
+     string firstName;
+     integer age;
+ }
+ record family { // the family itself
+     family next;
+     string lastName;
+     string address;
+     member members // head of list of members of this family
+ }
+To print a complete list of families and their members using internal storage, we could write:
+aFamily := Families // start at head of families list
+ while aFamily �?null // loop through list of families
+     print information about family
+     aMember := aFamily.members // get head of list of this family's members
+     while aMember �?null // loop through list of members
+         print information about member
+         aMember := aMember.next
+aFamily := aFamily.next
+Using external storage, we would create the following structures:
+record node { // generic link structure
+     node next;
+     pointer data // generic pointer for data at node
+ }
+ record member { // structure for family member
+     string firstName;
+     integer age
+ }
+ record family { // structure for family
+     string lastName;
+     string address;
+     node members // head of list of members of this family
+ }
+To print a complete list of families and their members using external storage, we could write:
+famNode := Families // start at head of families list
+ while famNode �?null // loop through list of families
+     aFamily := (family) famNode.data // extract family from node
+     print information about family
+     memNode := aFamily.members // get list of family members
+     while memNode �?null // loop through list of members
+         aMember := (member)memNode.data // extract member from node
+         print information about member
+         memNode := memNode.next
+famNode := famNode.next
+Notice that when using external storage, an extra step is needed to extract the record from the node and cast it into the proper data type. This is because both the list of families and the list of members within the family are stored in two linked lists using the same data structure (node), and this language does not have parametric types.
+As long as the number of families that a member can belong to is known at compile time, internal storage works fine. If, however, a member needed to be included in an arbitrary number of families, with the specific number known only at run time, external storage would be necessary.
+Perhaps the simplest persistent data structure is the singly linked list or cons-based list, a simple list of objects formed by each carrying a reference to the next in the list. This is persistent because we can take a tail of the list, meaning the last k items for some k, and add new nodes on to the front of it. The tail will not be duplicated, instead becoming shared between both the old list and the new list. So long as the contents of the tail are immutable, this sharing will be invisible to the program.
+Many common reference-based data structures, such as red-black trees,[2] and stacks,[3] can easily be adapted to create a persistent version. Some others need slightly more effort, for example: Queue, Double-ended queues (dequeue), Min-Dequeue (which have additional operation min returning minimal element in constant time without incurring additional complexity on standard operations of queuing and dequeuing on both ends), Random access list (with constant cons/head as single linked list, but with additional operation of random access with sub-linear, most often logarithmic, complexity), Random access queue, Random access double-ended queue and Random access stack (as well Random access Min-List, Min-Queue, Min-Dequeue, Min-Stack).
+There also exist persistent data structures which use destructible operations, making them impossible to implement efficiently in purely functional languages (like Haskell), but possible in languages like C or Java. These types of data structures can be avoided with proper design. One primary advantage to using purely persistent data structures is that they often behave better in multi-threaded environments.
+The PQ tree representing [1 (2 3 4) 5]
+If all the leaves of a PQ tree are connected directly to a root P node then all possible orderings are allowed. If all the leaves are connected directly to a root Q node then only one order (and its reverse) is allowed. If nodes a,b,c connect to a P node, which connects to a root P node, with all other leaf nodes connected directly to the root, then any ordering where a,b,c are contiguous is allowed.
+Where graphical presentation is unavailable PQ trees are often noted using nested parenthesized lists. Square parentheses represents a Q node and regular ones represents P nodes. Leaves are non-parentheses elements of the lists. The image on the left is represented in this notation by [1 (2 3 4) 5]. This PQ tree represents the following twelve permutations on the set {1, 2, 3, 4, 5}:
+12345, 12435, 13245, 13425, 14235, 14325, 52341, 52431, 53241, 53421, 54231, 54321.
+MindManager and MindMapper are mindmapping systems, which can make radial-like layouts, though are not radial beyond the 2nd level. SpicyNodes is an approach to visualizing hierarchies, which allows moving from node to node.
+Some examples of search-tree data structures are:
+AVL trees, Red-black trees, splay trees and Tango Trees which are instances of self-balancing binary search trees; Ternary search trees, in which each internal node has exactly three children; B trees, commonly used in databases; B+ trees, like B trees but with all data values stored in the leaves; van Emde Boas trees, very efficient if the data values are fixed-size integers.
+Railroad cars example
+Consider the input arrangement from figure, here we note that the car 3 is at the front, so it can't be output yet, as it to be preceded by cars 1 & 2. So car 3 is detached & moved to holding track H1. The next car 6 can't be output & it is moved to holding track H2. Because we have to output car 3 before car 6 & this will not possible if we move car 6 to holding track H1. Now it's obvious that we move car 9 to H3.
+The requirement of rearrangement of cars on any holding track is that the cars should be preferred to arrange in ascending order from top to bottom.
+So car 2 is now moved to holding track H1 so that it satisfies the previous statement. If we move car 2 to H2 or H3, then we've no place to move cars 4,5,7,8.The least restrictions on future car placement arise when the new car λ is moved to the holding track that has a car at its top with smallest label Ψ such that λ < Ψ. We may call it an assignment rule to decide whether a particular car belongs to a specific holding track. When car 4 is considered, there are three places to move the car H1,H2,H3. The top of these tracks are 2,6,9.So using above mentioned Assignment rule, we move car 4 to H2. The car 7 is moved to H3. The next car 1 has the least label, so it's moved to output track. Now it's time for car 2 & 3 to output which are from H1(in short all the cars from H1 are appended to car 1 on output track).
+The car 4 is moved to output track. No other cars can be moved to output track at this time.
+The next car 8 is moved to holding track H1. Car 5 is output from input track. Car 6 is moved to output track from H2, so is the 7 from H3,8 from H1 & 9 from H3.
+[8]
+Ternary search tree Ternary heap An infinite ternary tree containing all primitive Pythagorean triples is described in Tree of primitive Pythagorean triples and in Formulas for generating Pythagorean triples. The root node contains triple [3,4,5].[2]
+In Python In C

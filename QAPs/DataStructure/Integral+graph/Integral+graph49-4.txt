@@ -1,0 +1,2 @@
+Which technical innovations have the potential to transform the education sector in the next 5 to 10 years?
+I think the innovation to look for is full-length animated courses. As an example, check out my 12-hour animated trigonometry series on Udemy. (Link: Online Math and Science Courses | Udemy). These lessons were created using Flash and the EdPlayer ActionScript framework. 

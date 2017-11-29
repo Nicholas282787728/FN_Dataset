@@ -1,0 +1,2 @@
+Is it okay for a beginner to take a lot of time to implement advanced data structures such as AVL trees or 2-3 trees? Frequently asked inRecently I tried to write a program involving AVL tree and I I took a lot of time. Though solved it eventually, I got frustrated because of time I took.
+Advanced data structures are a very good way to hone your skills. Real world programming problems are usually much easier, but if you can do the hard stuff the easy stuff will be easy. 

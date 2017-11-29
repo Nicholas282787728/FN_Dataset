@@ -1,0 +1,1 @@
+What exactly is a header linked list? What is it used for?A header linked list is a list which always contains a header node at the beginning of the list. It is basically used when there is a need to access the elements serially rather than a random access. 854 Views

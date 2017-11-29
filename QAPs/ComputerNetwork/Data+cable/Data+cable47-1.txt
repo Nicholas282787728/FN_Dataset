@@ -1,0 +1,2 @@
+★Is there any technology to share the mobile battery just like sharing the mobile data by creating a hotspot?
+Yes u can do that.. U just need two things 1. An OTG Cable 2. A Data Cable Now plug OTG cable in the source mobile. And data cable in the mobile which is to be charged. Charging will begin.

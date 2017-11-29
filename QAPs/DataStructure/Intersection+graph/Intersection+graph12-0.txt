@@ -1,0 +1,2 @@
+Can you help me solve e x =1−x  ?
+Well, there is one obvious solution, x = 0. There cannot be any positive solution right of the intersection of the graphs at (0,1), as the graph of 1-x goes down with rising x, and e^x goes up. When x is negative, then 1-x > 1, but e^x < 1, so no further solution either. Hence the obvious solution is the only one. 

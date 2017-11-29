@@ -1,0 +1,2 @@
+Memory Management (computer programming): What is the heap?
+The heap is generally any memory that is not considered stack-memory. More specifically, if the stack is the organized chunk of memory where functions and their parameters and return values get passed around, the heap is just a "heap" of raw, unused memory whose purpose is to store anything needed to persist beyond one function call's scope, or is too big to practically live on the limited space that is the stack. 

@@ -1,0 +1,2 @@
+What is the difference between short int and long int data types and float & double data type?
+Memory allocation sizes differ for each sub type Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 139 Views

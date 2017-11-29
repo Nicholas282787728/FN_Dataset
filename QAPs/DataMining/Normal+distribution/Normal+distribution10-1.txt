@@ -1,0 +1,2 @@
+★Does weather temperature follow a normal distribution?
+I just happened to have temperature data from 1952 onwards of Khabarovsk - a city in Far East of Russia. The temperature overall doesn't look very normal However, we see that it looks like there might be two normal distributions hiding there. Let's see the temperature only for summer (6th, 7th, 8th months) and winter (12th, 1st, 2nd) Let's build QQplots to see if it is indeed normal  Looks pretty normal to me    Embed Quote

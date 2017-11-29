@@ -1,0 +1,2 @@
+What does it mean if a future programmer sucks or hates learning algorithms and data structures?
+To be brutally honest with you: It is beneficial, because 90%+ of the other web developers dislike that topic as well, thus you have some kind of free socializing ("being similar"). And last but not least: YAGNI. (I for one love algorithms :P) 

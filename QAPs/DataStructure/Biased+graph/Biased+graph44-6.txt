@@ -1,0 +1,2 @@
+What is the best way to explain the bias-variance trade-off in layman’s terms ?
+WTF is the Bias-Variance Tradeoff? (Infographic) It’s on Wikipedia too. 79 Views

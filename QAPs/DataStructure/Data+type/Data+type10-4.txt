@@ -1,0 +1,2 @@
+In C/C++, why are pointers given a data type?
+Take simple example: Let address of "a" is '1000' int a; int *p=&a; now "p" will store 1000.  if you perform p++ "p" will now have 1004 as integer 4 bytes. now if we do:... (more)

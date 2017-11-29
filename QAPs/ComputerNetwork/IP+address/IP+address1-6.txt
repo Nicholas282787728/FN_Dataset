@@ -1,0 +1,2 @@
+★What is my IP address?What is my Google hangouts ip address
+An IP address is something that defines every node(server or normal PC) uniquely in the internet world.As world. As (links to: http://world. As) others have mentioned,you can go to any of above websites and get your IP address.There are two interesting things about them: Every time you connect your PC to internet,you are assigned different IP address every time.(not in case of servers or websites) Given an IP address,one can find exact location of the end user(if you are not a network expert or hacker )

@@ -1,0 +1,2 @@
+★Why is logistic regression used so often in data science?
+Just to add: logistic regression is easy to operationalize in real world settings. There are lots of packages and libraries available in multiple languages for implementing logistic regression. Some of these libraries are very optimized and very quick, saving you from reinventing the wheel.    Embed Quote

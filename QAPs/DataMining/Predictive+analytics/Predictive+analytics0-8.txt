@@ -1,0 +1,2 @@
+★What are some real-world examples of predictive analytics?
+Demand Media.  We predicted traffic on Google and scaled to the #15 Web Site in the US pre-Panda, and still #49 post-Panda.  First $1B IPO since Google.    Embed Quote

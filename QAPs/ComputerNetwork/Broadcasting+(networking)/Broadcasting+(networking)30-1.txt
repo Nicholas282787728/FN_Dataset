@@ -1,0 +1,2 @@
+★What is collision domain and broadcast domain in networking?
+I found one video which explained above question in detail.

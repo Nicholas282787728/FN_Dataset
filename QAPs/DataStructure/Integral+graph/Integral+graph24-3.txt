@@ -1,0 +1,2 @@
+My calculus teacher said that it's impossible to integrate the function sin(x 2 )  . How, then, is my TI-84 graphing calculator able to find the area underneath its curve between two points?
+It is possible to integrate x↦sin(x 2 )  , for example x↦∫ x 0 sin(t 2 )dt  is an antiderivative. The problem is you can't express its antiderivative with usual function. Your TI can always approximate the area under the curve of a continuous function. There many methods to do so the most famous one is the rectangle method : Rectangle method 

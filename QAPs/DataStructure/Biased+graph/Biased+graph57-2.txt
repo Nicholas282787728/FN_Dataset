@@ -1,0 +1,2 @@
+Where can I find examples of a U-Squared distribution?
+Professor David Autor at the MIT Economics Dept. has published studies identifying a recent trend towards low- and high-skilled occupations occurring with movement away from medium-skilled occupations. This results in what he calls a "U-shaped curve" -- c.f. this PDF document from the New America Foundation: Page on Newamerica On a side note, I didn't realize U-shaped curves were all that rare. Then again, the Central Limit Theorem would have us guess otherwise. 2.1k Views · 4 Upvotes

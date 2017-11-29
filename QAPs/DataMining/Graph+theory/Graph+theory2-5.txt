@@ -1,0 +1,2 @@
+★What are the best resources to learn about graph theory?Introductory material with an aim of understanding structure of social networks.
+For a great introductory book on algorithmic graph theory, check out the free (GPL-ed) book "Algorithmic Graph Theory" - http://code.google.com/p/graph-t...    Embed Quote

@@ -1,0 +1,1 @@
+Is it worthwhile for embedded systems engineers to learn data structures and alogorithms?Yes. Embedded software may be required to do many things. Implementation requires algorithms and data structures. 28 Views  Answer requested by Islam Gamal

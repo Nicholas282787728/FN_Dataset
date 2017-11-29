@@ -1,0 +1,2 @@
+★Does URLs with UTM parameter crawled as different URLs?Let's say if I have an URL domain.com/my-first-post/ and have some UTM tracking lets say domain.com/my-first-post/?utm_source=feed&utm_medium=feed&utm_campaign=first-post Does Search Engines crawl these two pages as different URLs and treat as duplicate pages. If yes then how to avoid it
+No - it won't be considered as a duplicate URL's by Search Engine.    Embed Quote

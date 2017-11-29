@@ -1,0 +1,2 @@
+★How do SaaS companies create great doc/knowledge base pages?How do companies make great Docs pages - Documentation, Dropbox - Developers. Is there a tool for creating these?
+We are actually working on our documentation area. We have choose Wordpress, it let us to be focused on the content and needs a little configuration, it's extremely fast to have sidebars and the other common elements of every saas doc area.    Embed Quote

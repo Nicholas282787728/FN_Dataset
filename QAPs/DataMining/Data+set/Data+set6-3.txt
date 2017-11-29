@@ -1,0 +1,2 @@
+How do you deal with large data sets in Excel?
+With that much raw data, you'd be better off importing into Access and then linking your data from Access into Excel. Access was designed for large tables. Pretty easy to link and then do your pivot tables. T here is a lot of overhead on pivot tables. Have you tried summarizing your data using formulas?    Embed Quote 

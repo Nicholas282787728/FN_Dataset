@@ -1,0 +1,2 @@
+★Is it a good idea to write machine learning algorithms (like supervised learning/unsupervised learning) ones in C or FORTRAN?
+Yes, if you are very skilled in C/FORTRAN, or you have performance constraints.    Embed Quote

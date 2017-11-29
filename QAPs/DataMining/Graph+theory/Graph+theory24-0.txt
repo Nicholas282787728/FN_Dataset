@@ -1,0 +1,2 @@
+★Are there any good MOOC courses on graph theory?
+Sure, usually it is part of a larger course with other subjects but, nevertheless, they seem fairly complete. I would reccomend Algorthims, Part II (Princeton) and Algorthms Design and Analysis 2 (Stanford).    Embed Quote

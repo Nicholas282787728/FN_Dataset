@@ -1,0 +1,2 @@
+★What would be the typical capital cost (per port) for deploying enterprise class 10 Gigabit Ethernet switch in the data center?I'm looking for the full cost including management software licenses, cabling, rack mounting equipment.  Everything that would go on the bill of materials.
+Barring the chassis, you are looking at a price from US$ 1500 per port (low-side) to US$ 2800 per port (high-side) for 10G ports. Depending on the OEM you select, your chassis pricing can be from US$ 20,000 -to- US$ 100,000.

@@ -1,0 +1,2 @@
+What is the best way of explaining how the Java substring works?
+Here is some detailed discussion on this question: How SubString method works in Java How does substring method works? (Beginning Java forum at JavaRanch) 

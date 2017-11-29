@@ -1,0 +1,2 @@
+How do I find the index of a substring in Haskell?
+Do you really need that index?  I often find in Haskell I need to think more in terms of higher level functions (fold, map, filter) and pattern matching. The concept of index of a list in Haskell seems a bit out of place. So if you can tell what you need this index for there might exist another more haskellish solution that won't involve fisdli 

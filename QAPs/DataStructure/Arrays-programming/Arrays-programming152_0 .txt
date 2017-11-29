@@ -1,0 +1,1 @@
+Is Linear search the only option for an unsorted array?Well, if you have a quantum computer, you could use Grover's algorithm which runs in O(sqrt(n)) time :) 192 Views

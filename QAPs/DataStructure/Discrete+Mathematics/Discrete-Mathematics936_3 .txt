@@ -1,0 +1,1 @@
+Why is graph theory important?because of its wide application area like social network, web and find directions between physical locations. Also there are many problems that it's not graph by nature but could be converted to graph and solve it efficiency. The graph theory have been studied for many years so we know a lot of it's properties 343 Views

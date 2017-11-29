@@ -1,0 +1,2 @@
+★Is Unequal Sample Size in ANOVA a problem?
+For unbalanced data , Type III Sums of Squares are used. I hope the following link will be helpful for you Anova - Type I/II/III SS explained    Embed Quote

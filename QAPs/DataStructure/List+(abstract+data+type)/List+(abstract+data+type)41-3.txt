@@ -1,0 +1,2 @@
+When coding in Python when would I use a list vs using a dictionary? And on top of that what are the benefits of one over an other?
+List: If you just need an ordered sequence of items. Dictionary: If you want to associate values with keys, so you can look them up efficiently with keys. -LPTHW 

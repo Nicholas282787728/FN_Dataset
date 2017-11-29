@@ -1,0 +1,2 @@
+★What is the relationship between IPv6 and HTTPS?When I use ipv6 in my school,I can only access some websites by https
+IPv6 is a network layer protocol.  To surf, you need TCP on top of IP, and HTTPS on top of that. Not all web sites support IPv6, so that's probably what you're running into: you simply can't get there.    Embed Quote

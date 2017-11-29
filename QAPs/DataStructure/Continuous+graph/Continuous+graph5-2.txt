@@ -1,0 +1,2 @@
+How does the graph of a continuous function satisfying "f(x)=0 if x=integer" look?
+Let f be a function such that for all integers z, f(z) = 0. There are infinitely many such functions of the form f(x) = A*sin(pi*x) where A is any real number. 

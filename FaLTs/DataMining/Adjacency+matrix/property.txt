@@ -1,0 +1,7 @@
+The adjacency matrix of an undirected simple graph is symmetric, and therefore has a complete set of real eigenvalues and an orthogonal eigenvector basis. The set of eigenvalues of a graph is the spectrum of the graph.
+Suppose two directed or undirected graphs and with adjacency matrices and are given. and are isomorphic if and only if there exists a permutation matrix such that
+
+In particular, and are similar and therefore have the same minimal polynomial, characteristic polynomial, eigenvalues, determinant and trace. These can therefore serve as isomorphism invariants of graphs. However, two graphs may possess the same set of eigenvalues but not be isomorphic. [1]
+If A is the adjacency matrix of the directed or undirected graph G, then the matrix An (i.e., the matrix product of n copies of A) has an interesting interpretation: the entry in row i and column j gives the number of (directed or undirected) walks of length n from vertex i to vertex j. This implies, for example, that the number of triangles in an undirected graph G is exactly the trace of A3 divided by 6.
+The main diagonal of every adjacency matrix corresponding to a graph without loops has all zero entries. Note that here 'loops' means, for example A->A, not 'cycles' such as A->B->A.
+For -regular graphs, d is also an eigenvalue of A for the vector , and is connected if and only if the multiplicity of is 1. It can be shown that is also an eigenvalue of A if G is a connected bipartite graph. The above are results of Perron–Frobenius theorem.

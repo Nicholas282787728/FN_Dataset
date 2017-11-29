@@ -1,0 +1,2 @@
+What is an intuitive explanation for bias-variance tradeoff?
+Like Yu Feng I highly recommend having a look at the Caltech ML course by Yaser Abu-Mostafa, Lecture 8 (Bias-Variance Tradeoff. Here is the nice example Yaser gave in the video Yu linked to: Say you are trying to learn the sine function: ... (more)

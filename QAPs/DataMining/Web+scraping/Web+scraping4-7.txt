@@ -1,0 +1,2 @@
+★What is the legality of web scraping?
+See this post by Pete Warden "How I got sued by Facebook" (Apr 2010):  http://petewarden.typepad.com/se...    Embed Quote

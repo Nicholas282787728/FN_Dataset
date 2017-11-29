@@ -1,0 +1,2 @@
+What is an OMT data structure?
+It's a weight balanced binary tree. Each node maintains the weights of its left and right subtrees. The balance invariant is [math]|l| = \Theta(|r|)[/math], which implies height balance, and therefore [math]O(\log n)[/math] operations. To rebalance, you dump the tree into an array and rebuild the tree with the Cartesian construction. This takes [math]O(n)[/math] but only happens at a given node after [math]O(n)[/math] updates in that node's subtree. Because of the height of the tree, updates cost [math]O(\log n)[/math] amortized. 

@@ -1,0 +1,2 @@
+What are typical ping times between different EC2 availability zones within the same region?
+10 ping test 1b->1b rtt min/avg/max/mdev = 0.389/0.446/0.654/0.078 ms 1b->1c rtt min/avg/max/mdev = 1.284/1.328/1.503/0.063 ms 1b->1d rtt min/avg/max/mdev = 1.945/2.112/2.274/0.108 ms I was unable to spin up an instance with our AMI in 1a due to lack of available resources. Would appreciate if someone could append that info if they've got it. 

@@ -1,0 +1,2 @@
+What is Euclidean distance in terms of machine learning?
+Euclidean distance is the distance between two points in any number of dimensions - the square root of the sum of the squares of the differences between the respective coordinates in each of the dimensions. In 2 dimensions you would recognize it as sqrt ((x1 - x2) ** 2 + (y1 - y2) **2) 

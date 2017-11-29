@@ -1,0 +1,2 @@
+★What is a URL?
+It's a Uniform Resource Locator, for the layman this is usually a full web address including the leading "http://" and the trailing "file.html". There are other types of URLs, but they are seldom encountered by a typical user.    Embed Quote

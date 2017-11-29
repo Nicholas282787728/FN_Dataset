@@ -1,0 +1,2 @@
+★What are the advantages of wireless Ethernet?
+Strictly speaking, Wi-Fi isn't wireless Ethernet. The layer 2 protocols are vastly different. But the frame format is the same, thankfully. The advantages are pretty obvious: wireless means that you don't have to plug in wherever you go, you don't have to break and reconnect your sessions when you move, and you can pick up and wander around the office without disruptions.

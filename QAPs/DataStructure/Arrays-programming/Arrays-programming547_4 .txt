@@ -1,0 +1,1 @@
+What is the fastest algorithm to find the largest number in an unsorted array?There really isn't any magic here. Start with the first element and assume it's the largest. Go to the next element and compare. If it's larger, you have a new "largest". continue until the entire list is examined. It's order N. There are no shortcuts. 14.6k Views  View Upvotes

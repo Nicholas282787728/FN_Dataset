@@ -1,0 +1,2 @@
+★Are there ontologies for job types?A visualization tool or a catalog browser to scan and compare all different types of jobs and their skill analysis
+In North America we use a few different ones. The US Department of Labor uses the NAICS (North American Industry Classification System) and SOC (Standard Occupational Classification).  I would also consider ISCO-88 if you are dealing with international clients. http://www.bls.gov/jlt/jltnaics.htm http://www.bls.gov/soc/ http://www.ilo.org/public/englis...    Embed Quote

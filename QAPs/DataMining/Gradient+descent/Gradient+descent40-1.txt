@@ -1,0 +1,2 @@
+★What is the relationship between the Hessian of a matrix and Gradient Descent algorithm?
+gradient descend leads you to the local minimum point. Hessian matrix tells whether a stationary point is maximum, minimum or saddle point.    Embed Quote

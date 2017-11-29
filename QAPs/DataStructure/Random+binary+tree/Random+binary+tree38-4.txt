@@ -1,0 +1,2 @@
+Do you need to know discrete mathematics to learn algorithms?
+It depends on the algorithms you wish to learn. If you want to understand anything related to digital signal processing (including video,audio, and image encoding and decoding), discrete mathematics is essential. 

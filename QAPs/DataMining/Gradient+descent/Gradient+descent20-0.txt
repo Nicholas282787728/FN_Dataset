@@ -1,0 +1,2 @@
+★Why is it hard to implement line search for stochastic gradient descent?
+Well, One reason I can think of is because they are mostly following a bad direction. And Boyd and Vandenberghe states a similar reason too. I will update this answer soon.    Embed Quote

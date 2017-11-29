@@ -1,0 +1,2 @@
+★Which are the best universities for an MS or PhD related to Information Retrieval, and why?Which Universities are the best places for topics related to Multimedia IR, Ranking algorithms, TREC tracks etc?
+Stanford. Because of the strong emphasis on applied research, world class faculty (Manning,  Winograd, Ullman, Jurafsky, Thrun etc), a history of incubating  successful IR companies (Yahoo, Google), nice weather & happy people.    Embed Quote

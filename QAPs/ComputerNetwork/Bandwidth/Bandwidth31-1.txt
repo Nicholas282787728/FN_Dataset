@@ -1,0 +1,2 @@
+★How can I find out the bandwidth of a website?
+One practical way that comes in my mind is DDOS. DDOS their website see at what bandwidth it crashes and add some more GBs to it because there are real users too. There lies your answer. Other way is to contact someone who has DDOSed alot of websites like Anonymous. And your correlation will not work because response time will depend upon your bandwidth which is provided by ISP.

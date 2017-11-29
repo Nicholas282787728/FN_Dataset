@@ -1,0 +1,2 @@
+Why can't I connect to my local SQL Server database instance?
+Totally Agree with Ric - if you set those 3 services to run with your account and then you changed your account's password, you need to reenter it(the password) in SQL Server Configuration Manager for each of the services you use this account for. 

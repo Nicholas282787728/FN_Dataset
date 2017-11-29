@@ -1,0 +1,2 @@
+Quantum Chemistry: Does a transition from a pi bonding orbital to an antibonding one weaken the bond between the two atoms?
+Yes it does! When two molecular orbitals form from the hybridization of two constituent orbitals, one of those molecular orbitals is going to be lower in energy than the orbitals of both constituents and the other is going to be higher. If the electrons go into the high energy molecular orbital then that is an antibond and is high in energy thus not an efficient bond. 

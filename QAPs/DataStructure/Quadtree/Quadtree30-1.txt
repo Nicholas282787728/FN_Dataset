@@ -1,0 +1,2 @@
+How do I apply KNN to find the closest points of interest (restaurant, gas station, etc.) on a large data set?
+My guess is Quadtree. Another guess would be Hashing into fixed grid squared, with different offset and different width. Search would try to find the smallest square that has "enough" points, then apply exhaustive search. 

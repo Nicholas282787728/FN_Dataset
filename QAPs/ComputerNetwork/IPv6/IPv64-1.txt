@@ -1,0 +1,2 @@
+★Does Quora support IPv6?
+As of 2014, they still don't. One can use this terminal command to check:     dig quora.com AAAA (to be precise, having a AAAA record doesn't entail IPv6 support – but not having one implies no support)    Embed Quote

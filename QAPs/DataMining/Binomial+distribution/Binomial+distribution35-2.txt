@@ -1,0 +1,2 @@
+X flips a fair coin n times, and so does Y. what is the probability that they get the same number of heads?
+If we switch all of Y’s heads to tails and tails to heads, the probability must be unaffected, and we’re now looking for the probability that X and Y get exactly heads between them, which is clearly .    Embed Quote Updated 10 Mar. 24,779 views.

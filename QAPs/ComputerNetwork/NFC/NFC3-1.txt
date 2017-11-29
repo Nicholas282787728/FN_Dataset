@@ -1,0 +1,2 @@
+★What are some cool NFC apps?
+NFC Task Launcher.https://play.google.com/store/ap...  You can program your NFC tags to do many things including setting an alarm, turning on/off wifi, opening up an application and much more. I also like the GoToTags App. https://play.google.com/store/ap.... This app is simple and easy to use, great for creating basic NFC tags containing URLs, email addresses, etc.    Embed Quote

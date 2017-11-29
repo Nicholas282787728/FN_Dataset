@@ -1,0 +1,1 @@
+Why is a process's address space divided into four segments (text, data, stack and heap)?You need to understand the difference between Process vs Threads. Once you figured out the answer it will be clear. :P 21 Views  View Upvotes  Answer requested by Halbert Himanshu Joshi

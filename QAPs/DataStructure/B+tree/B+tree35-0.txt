@@ -1,0 +1,2 @@
+What is the comparison between a binary search tree, an AVL tree, and a red black tree & B tree?
+In short, both AVL tree and red-black tree are self-balancing binary search tree, which transform a tree of N  N nodes to ensure lookup, insertion, and removal operations to have worst-case O(logN)  O(log⁡N) complexity. B-tree is a self-balancing tree that allows node to have more than 2 children. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 234 Views · 4 Upvotes

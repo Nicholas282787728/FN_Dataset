@@ -1,0 +1,2 @@
+★What does support vector machine (SVM) mean in layman's terms?How to calculate the SVM taining accuracy using ROC area
+If we discard the theory and explain it in another way, I think the essence of SVM is to find the least points set (support vectors) that needed for good classification results, where the similarity of two points are measured using the so called kernel functions. Then something likes kernel density estimation is adopted.    Embed Quote

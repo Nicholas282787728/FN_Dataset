@@ -1,0 +1,2 @@
+★While using a proxy server does my DNS server change?
+No.DNS SERVER will be same for any I.p. address u are using for same network.    Embed Quote

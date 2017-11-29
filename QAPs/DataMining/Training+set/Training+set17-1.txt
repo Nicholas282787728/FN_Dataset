@@ -1,0 +1,2 @@
+★Does training set need to have the same distribution as the target population in classification?
+I'd agree with Niraj: a fifty:fifty split in the training set is what you want, however skewed the data set is.    Embed Quote

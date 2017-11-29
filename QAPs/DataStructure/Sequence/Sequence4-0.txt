@@ -1,0 +1,2 @@
+Number Sequence: For a sequence 128, 64, 32, .. what is the value of the 12th term of this sequence?
+Although this is not necessarily true I will assume that we are dealing with a geometric series [math]128, 64,..., 2^{8-n},...[/math]. Then  [math]a_{12}=2^{-4}=\frac{1}{16}[/math]. Note, however, that there is an infinite (actually even uncountable) number of sequences starting with any given first terms. Your sequence could easily be [math]128, 64, 32, 57, 179, 35437, 6.557, \sqrt2, e, 0, 57, G_{64},... [/math]. 

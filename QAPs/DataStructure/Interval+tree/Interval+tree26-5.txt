@@ -1,0 +1,2 @@
+What are some good tutorials on segment trees?
+You can refer to this link https://techienotes.info/2015/08... This tutorial explains Segment trees in a simple manner along with the working code for it. 

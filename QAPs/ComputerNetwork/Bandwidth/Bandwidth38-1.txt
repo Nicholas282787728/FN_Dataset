@@ -1,0 +1,2 @@
+★Does Quora test new code in low bandwidth conditions?I am on a highly variable internet connection and get a lot of bugs. I am hoping that Quora knows there are many people in the world on bad connections and have some of their people try the site in bandwidth restricted conditions as part of their regular testing.
+I am using Quora at Home on 256 Kbps internet connection and facing very slow page loading speed while at office with 2 Mbps internet connection it is working fine. Do some changes for slow speed internet users.

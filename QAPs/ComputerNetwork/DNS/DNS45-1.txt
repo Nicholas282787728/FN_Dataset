@@ -1,0 +1,2 @@
+★Which public DNS is best for India?I'm trying to figure out if any one public DNS is better for an Indian internet connection.
+Using the Google Public DNS would any day be better. Plus the IP address is pretty :) !

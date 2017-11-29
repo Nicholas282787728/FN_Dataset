@@ -1,0 +1,2 @@
+★What is use standard error?
+The standard error is the standard deviation of the error. For example, if you estimate the mean of a population using n samples, the standard error will decrease with the squared root of n. So to sum it up the standard error gives you an idea about the expected size of error related to your estimation.    Embed Quote

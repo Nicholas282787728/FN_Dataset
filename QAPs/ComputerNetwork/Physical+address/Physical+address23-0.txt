@@ -1,0 +1,2 @@
+★Where can I find a C code to translate a physical address to a logical one?I do have page size and page table for reference?
+It depends on exactly how the OS has configured the virtual mapping hardware and tables.  It's best to not do this yourself but to call the OS function that does this mapping.   Otherwise you have to read a bunch of device registers to figure out the currently configured page size and other configurable parameters.    Embed Quote

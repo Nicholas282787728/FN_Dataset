@@ -1,0 +1,2 @@
+★What is a multiplexer?
+A multiplexer is a n:2^n device,which is having n inputs and 2^n outputs.With these n inputs we can control 2^n outputs.suppose n=1,then there is 1 input(i1) and two outputs(o1,o2) ,when input i1 is zero then o1 becomes high ,if i1 is one then o2 becomes high.    Embed Quote

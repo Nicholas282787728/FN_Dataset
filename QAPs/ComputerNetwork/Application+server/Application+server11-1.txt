@@ -1,0 +1,2 @@
+★What do you think of PHP Application Server based on pthreads?
+After nearly 2 Years of development first real application server for php entirely written in PHP was launched. The first stable release of Next-generation PHP infrastructure - appserver.io comes along with some incredible features most people only know from infrastructures in other languages like java. There is not only the rock solid webserver but also a servlet engine, a message queue, a timer service and a persistence container. Check it out and give it a try.

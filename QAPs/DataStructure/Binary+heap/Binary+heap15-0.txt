@@ -1,0 +1,2 @@
+What is the algorithm for inserting and deleting elements in an array representation of priority queues?Data Structures
+You could implement a Binary Heap using the Array representation. And use the Binary Heap as a Priority Queue Binary heap 

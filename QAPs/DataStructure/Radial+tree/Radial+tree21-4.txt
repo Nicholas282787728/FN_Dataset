@@ -1,0 +1,2 @@
+Classification (machine learning): How do I design a classifier for this data set?
+When you need to mark down areas or regions , go for SVM algorithms. Just make sure they don't over-fit. 

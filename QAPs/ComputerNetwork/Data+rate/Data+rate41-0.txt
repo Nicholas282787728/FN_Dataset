@@ -1,0 +1,2 @@
+★Are cloud data storage rates significantly different from company to company?
+Storage rates do indeed differ from company to company. Avoid the free services as they tend to restrict bandwidth and you backups can take enormous amounts of time. Each company's backup needs can be different, depending on the types of files they use and the frequency of those file contents changing. A little research is always required. /Guy Moss CloudPockets.com

@@ -1,0 +1,2 @@
+★What is the state-of-the-art in DDoS protection?I am looking for a technical review. How does Amazon, for instance, protect against DDoS, having been a victim multiple times in the past?
+Check out corero Corero :-) http://www.corero.com/

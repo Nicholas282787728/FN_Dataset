@@ -1,0 +1,2 @@
+What are the best ways to scale R for data analysis?
+Vertica has built in R support. You can write user defined functions in R and let Vertica execute them in parallel over the data.    Embed Quote 

@@ -1,0 +1,2 @@
+★I am doing a project about classify emotion emails, using machine learning. Where can I find training sets of emotion emails?I tried to find it in the internet but i still don't.
+How are you reading in emails? If you're just plainly parsing text you could train it with tweets using the NLTK instead and apply the same logic to an email. This is under the assumption that you could perhaps turn an email into some sort of raw text. Could you give a little more detail?    Embed Quote

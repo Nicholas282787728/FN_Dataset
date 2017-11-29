@@ -1,0 +1,2 @@
+What are abstract data types?
+Abstract data types are data types which defines basic characteristic that is required for that data-types for example :- Maps , which is used to create HashMaps List , which is used to create ArrayList or other kind of list data-types. these are with respect to Java 2.4k Views · 3 Upvotes

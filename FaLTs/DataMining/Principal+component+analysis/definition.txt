@@ -1,0 +1,18 @@
+Suppose we have a set of observable random variables, with means .
+Suppose for some unknown constants and unobserved random variables , where and , where , we have
+
+Here, the are independently distributed error terms with zero mean and finite variance, which may not be the same for all . Let , so that we have
+
+In matrix terms, we have
+
+If we have observations, then we will have the dimensions , , and . Each column of and denote values for one particular observation, and matrix does not vary across observations.
+Also we will impose the following assumptions on .
+and are independent. (to make sure that the factors are uncorrelated)
+Any solution of the above set of equations following the constraints for is defined as the factors, and as the loading matrix.
+Suppose . Then note that from the conditions just imposed on , we have
+
+or
+
+or
+
+Note that for any orthogonal matrix if we set and , the criteria for being factors and factor loadings still hold. Hence a set of factors and factor loadings is identical only up to orthogonal transformations.

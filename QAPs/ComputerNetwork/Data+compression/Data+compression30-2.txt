@@ -1,0 +1,2 @@
+★Data Compression: What is the most powerful file compressor in terms of size reduction?
+i want to compress the movie with the help of lossless or lossy, but i ahve to reduce the orginal size very very small size like KB

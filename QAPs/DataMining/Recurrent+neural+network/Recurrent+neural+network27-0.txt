@@ -1,0 +1,2 @@
+★What are some tutorials/blog posts about recurrent neural networks and software to fit them?
+Here's a tutorial aI got (although I am not sure how helpful it will be) http://minds.jacobs-university.d...    Embed Quote

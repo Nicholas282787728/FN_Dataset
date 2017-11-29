@@ -1,0 +1,2 @@
+How can one speed up breadth-first search?
+Assuming you're doing a BFS to find a path between two nodes, you can do a two-way BFS, where you BFS from both the start node and the end node. Asymptotically, this makes no difference in the general case, but in practice there are usually large speedups because instead of searching one node out to distance d  , you search two nodes with distance d2   . Updated 29 Mar 2013 • View Upvotes

@@ -1,0 +1,2 @@
+★What is the technology stack of a VOIP provider?
+I'm no expert on the subject, but have had some experience. Most often it's based on the SIP Protocol at the application layer. The rest is usually TCP/IP.    Embed Quote

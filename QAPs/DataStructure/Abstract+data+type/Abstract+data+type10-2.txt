@@ -1,0 +1,2 @@
+Are linked lists data structures or abstract data types? Why?
+First let's clarify few things 1. ADT is a concept, consider it as an interface, 2. Data structure is a concrete implementation of some ADT, think of it like a class implementing an interface. So linked list in itself is an ADT, but actual implementation of linked list (circular, single, double, etc.) are data structures which you can use readily in your code. 

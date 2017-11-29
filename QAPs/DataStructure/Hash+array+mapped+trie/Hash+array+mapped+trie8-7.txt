@@ -1,0 +1,2 @@
+What are some uses of hashing algorithms?
+Originally Answered: What are some interesting use cases of hashing?The ZFS filesystem, originally developed at Sun, uses block hashes/checksums to verify integrity of the "whole data path" (also Merkle trees). 

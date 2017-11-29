@@ -1,0 +1,2 @@
+★Which comes first: multiplexing, modulation or multiple access? Why?
+You modulate your voice signal first, use the multiple access technique (FDMA in the older class of mobile phones, TDMA in GSM or 2G, CDMA, WCDMA in 3G) to connect to the base station and at the backhaul, signals from multiple base stations are multiplexed and sent through a single optical fiber or microwave link. P.S. : The answer applies for communication using mobile phones.    Embed Quote

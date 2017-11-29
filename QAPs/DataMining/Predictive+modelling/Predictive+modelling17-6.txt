@@ -1,0 +1,2 @@
+★How can I deal with missing values in a predictive model?
+Reduce the number of variables using techniques like PCA or PLS and you will left with no missing values    Embed Quote

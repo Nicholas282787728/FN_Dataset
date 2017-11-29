@@ -1,0 +1,2 @@
+★Are there any JavaScript natural language processing projects?So far I found only this simple part of speech tagger http://code.google.com/p/jspos/ Wondering if there are more comprehensive NLP projects for JavaScript. And why does Python have so many and JavaScript have so few?
+I recently wrote a pure JavaScript library which does word segmentation and PoS tagging in Chinese and Japanese. You'll be surprised how accurately you can analyze these notoriously difficult Asian languages only using JavaScript. See rakuten-nlp/rakutenma for details.    Embed Quote

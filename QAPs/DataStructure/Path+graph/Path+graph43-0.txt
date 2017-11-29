@@ -1,0 +1,2 @@
+What is the idiom style for functional programming languages to implement graph-related algorithm (like bfs, dfs, shortest path etc)?
+The one hint I was missing when I first tried to do this: Use Zippers! 

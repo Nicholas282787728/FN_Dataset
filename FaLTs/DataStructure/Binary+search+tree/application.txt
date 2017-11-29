@@ -1,0 +1,1 @@
+A binary search tree can be used to implement a simple sorting algorithm. Similar to heapsort, we insert all the values we wish to sort into a new ordered data structure—in this case a binary search tree—and then traverse it in order(e.g., finding the phone number of a person by name).

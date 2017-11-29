@@ -1,0 +1,2 @@
+★What are some systems (i.e. personal communication and voting) in our society that could benefit from a decentralized and highly secure infrastructure like bitcoins?
+Secure, user-verifiable, Internet-based voting comes to mind.

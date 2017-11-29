@@ -1,0 +1,2 @@
+★Can C++ be parsed correctly?I remember reading somewhere that no current parser is able to correctly parse all 100% of the C++ spec. Is this accurate? Is this still the case?
+C++ is a fully parseable language.   But, it is complex to parse and requrests more parsers with more lookahead and sophisticated algorithms for handling C++'s more complex structure.    Some languages are desgined to be very easily prarsed.  C# and Java are good examples and comple very quickly compared to C++    Embed Quote

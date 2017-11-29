@@ -1,0 +1,2 @@
+★Is there a way to use unsupervised learning to select similar files in UNIX?
+A trivial answer: K-means clustering with file size, creation date, and magic number as independent variables.  Specify the number of clusters you want and it will produce a result.  Whether the result is useful or not is another matter. If you only want to treat text files, you could use various text analysis features (word frequency, inter-document word frequency, word count, etc...) as the independent variables in a k-means clustering exercise.    Embed Quote

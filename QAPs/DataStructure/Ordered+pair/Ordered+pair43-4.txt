@@ -1,0 +1,2 @@
+Are "equivalent" and "equal" the same?
+No, because the word "equivalent" can mean, an approx or, another formula that has the previous formula as a factor: 2x = 3x is equivalent to 3x = 4x because the variable, x is the same. x^2 - 1 = 0 is equivalent to x ^ 312 - 1 = 0 because the variable, x, is the same. x^4 + x^2 = 20 is equivalent to x^2 + x = 5 because the variable, x, is the same. pi is equivalent to 3.141593 (six digit approx). 4/9 is integrally equivalent to 0 (because in an integral equivalence one rounds down to the nearest integer). 

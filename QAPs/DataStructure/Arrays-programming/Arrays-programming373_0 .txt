@@ -1,0 +1,1 @@
+What is an example of initializing an array of three objects with references in Java?String s = "txt"; Number i = 12345; Object o = new Object(); Object[] oarray = {s, i, o}; 20 Views

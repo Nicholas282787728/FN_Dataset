@@ -1,0 +1,2 @@
+★What IP address does a client use as source IP address while making a DHCP request and where does the DHCP server send the reply to?
+Fun but true: the initial rounds of DHCP do not require that the client have an IP address.  Everything is done based on the MAC address of the client. Implementations stick 0.0.0.0 in the IP address field. DHCP packets (or more accurately, BOOTP packets) aren't sent over IP, so there's no IP source address. The reply is directed to the client's MAC address. Real fun happens when a router has to relay all of this.

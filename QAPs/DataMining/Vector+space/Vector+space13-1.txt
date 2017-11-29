@@ -1,0 +1,2 @@
+★What is an intuitive explanation of a norm of normed vector space?
+A normed vector space is a space on which norming a vector can be defined. Since the Norm is an operation that is done on a vector and not a space, it is not meaningful to discuss the norm of a normed vector space! It would be akin to asking, "what is the square root of the set of real numbers?"    Embed Quote

@@ -1,0 +1,2 @@
+How does mathematics play a big role in programming?
+Basically this: Discrete math, absolutely. Basic algebra and arithmetic, absolutely. Beyond that (more advanced stuff) very little unless you want it to. 

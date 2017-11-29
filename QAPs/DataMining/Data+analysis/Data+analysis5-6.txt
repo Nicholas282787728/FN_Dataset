@@ -1,0 +1,2 @@
+How do I learn data analysis for Python?
+Here is the Python learning path we recommend to our readers. All the resources mentioned in the learning path are free and the learning path assumes you are complete beginner to Python. Comprehensive learning path – Data Science in Python You can follow the resources mentioned. They should be sufficient to provide you enough resources to compete on a platform like Kaggle    Embed Quote 

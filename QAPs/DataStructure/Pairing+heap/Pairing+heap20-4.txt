@@ -1,0 +1,2 @@
+I recently noticed that some companies/developers, migrated or adopted Go language over Node.js. Why is that?
+Node is a single event loop running infinitely and throwing callbacks when they are triggered. You can't parallelise tasks or take advantage of multi-core hardware platforms very easily. So essentially node applications don't scale gracefully. Go uses some of the best concurrency and parallel language constructs.  Serious platforms are still built on languages like Erlang(Couchbase), C++(a million example) or Go(coming up) 

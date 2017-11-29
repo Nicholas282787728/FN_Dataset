@@ -1,0 +1,1 @@
+Can I input a string from keyboard during runtime using a char pointer (instead of arrays) in C?Yes, Arrays are more or less equivalent to pointers. Just malloc a buffer with a reasonable size and then you can read stuff into it, exactly as you could with a char array. 1k Views  View Upvotes  Answer requested by Kapil Sharma

@@ -1,0 +1,2 @@
+What are some terms heard only in programming?
+Some fun ones:  Race condition.  Deadlock.  Stack overflow.  Buffer underrun.  Bounds check.  Null pointer.  Kernel panic.  Fatal exception.  Swap prefetch.  Thunking layer.  Named pipe.  Userland.  Pointer swizzling.  Bitwise operator.  One-time pad.  Thread safety.  Mutex. Ok, maybe some of these dip into areas other than programming, I love all the words. 

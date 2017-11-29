@@ -1,0 +1,2 @@
+★What is the relationship of the standard deviation with the number of produced items?
+Need information of the process. I mean about the randomness of N. Is it OK to assume Tg~Normal? Is it uniform random? Is it Exponential random ? Maybe it has a specific distribution. If Tg has a different distribution, N will have a different distribution also. In case, Tg~Exponential, (since it will make things simple)   Then, N will be a poisson random number with .    Embed Quote

@@ -1,0 +1,1 @@
+When would it make sense to use a bubble sort?Bubble Sort is normally used these days to introduce students to sorting. In smaller sets, Insertion Sort shall normally outmatch Bubble Sort, and for larger sets, we have much better algorithms. It is used mainly when we have less memory. 

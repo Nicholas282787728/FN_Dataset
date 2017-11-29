@@ -1,0 +1,2 @@
+★When will IPv6 replace IPv4 completely on the planet?
+But as long as any significant number of IPV4-only devices exist, then there is no reduction in the use of IPv4 addresses (because every dual-stack device still needs an IPv4 address) so there is no advantage to IPv6. Currently, and for a long time, a single-stack IPv4 device appears to have no disadvantages (except when contracts force dual-stack). And if IPv6 involves protocol conversions (likely in most cases) it will be slower and more resource intensive. Am I wrong thinking this?    Embed Quote

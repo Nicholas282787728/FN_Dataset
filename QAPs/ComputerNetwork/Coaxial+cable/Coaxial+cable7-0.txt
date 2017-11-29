@@ -1,0 +1,2 @@
+★Electrical Wiring: How can you find a Coaxial cable outlet?
+You can also short it at the hub then use the multimeter at each remote end until you find the one with continuity.  More legwork but you don't need a helper. Making a coax nub that shorts the core to the braid is an easy, cheap and handy helper for this kind of task.  I would use one of the friction fit connectors so you don't have to thread it on/off over and over.

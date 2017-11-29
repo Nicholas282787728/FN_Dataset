@@ -1,0 +1,2 @@
+What are some programming languages commonly used in data mining, and why?
+SAS is probably the most commonly used language for business data mining.   R is also very commonly used.  Both SAS and R have build-in statistical and analytical functions.  Among general purpose language, perl and python are very common because they are very suitable for quick prototyping of complex problems and have many external packages for data mining.    Embed Quote 

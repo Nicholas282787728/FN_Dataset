@@ -1,0 +1,2 @@
+Which two programming languages together are powerful and cover the largest field in programming?
+If I have to learn only two programming languages for the entire of my life, right now I will go with: JavaScript - will cover very well everything web related Python - everything else you need (gui, networking, scientific programming, visualization, ...)Of course C/C++/Java will be useful as well, but the above two mentioned will cover all your needs and they are not difficult to learn. 

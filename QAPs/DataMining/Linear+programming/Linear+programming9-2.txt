@@ -1,0 +1,2 @@
+★Why is L1 metric better than L2 metrics in convex linear programming?
+In addition to Justin Rising's answer ( is not linear), when you are dealing with error measures (such as residuals in a regression model), tends to produce worse overall fit (greater average error) than in exchange for mitigating the worst errors. Which is better depends on how sensitive you are to occasional large screw-ups v. generally mediocre estimates.    Embed Quote

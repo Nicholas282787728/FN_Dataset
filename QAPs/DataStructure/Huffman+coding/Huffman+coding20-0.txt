@@ -1,0 +1,2 @@
+How do I compress image using huffman coding and decoding in MATLAB?
+hello friend, To try huffman coding and decoding algorithm, i have found guide here. visit : Huffman Coding - MATLAB & Simulink 69 Views

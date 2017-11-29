@@ -1,0 +1,2 @@
+Given two balanced binary search trees, merge both the trees so that it will form a balanced binary search tree ?
+You can compute the in order traversal of both trees, merge the traversals, and create a balanced bst from that in O(N + M).  Alternatively you can insert on tree into the other for O(N log M) or O(M log N) which could be better if one tree is substantially larger than the other. 

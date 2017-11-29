@@ -1,0 +1,2 @@
+What are the most practical ways to select the "right" number of clusters?
+Your similarity/distance matrix can be considered as a graph and then, try to look how many connected components you have in the graph. That will give you a sense of the neutral structure of your data    Embed Quote 

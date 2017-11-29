@@ -1,0 +1,2 @@
+Java (programming language):  Which data type is used to store values as large as [math]100![/math] ?
+We can use BigInteger class in java.math package BigInteger b;        Scanner sc=new Scanner(System.in);        b=sc.nextBigInteger();        BigInteger zer=new BigInteger("1");        BigInteger res=new BigInteger("1");        while(b.compareTo(zer)!=0)        {            res=res.multiply(b);            b=b.subtract(zer);        }        System.out.println(res); 

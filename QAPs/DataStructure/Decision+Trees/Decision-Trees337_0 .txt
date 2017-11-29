@@ -1,0 +1,1 @@
+What is the difference between decision tree and game tree? When to use those two?Neither are actual trees. A decision tree uses a tree-like graph or model of decisions and their possible consequences. A game tree is a recursive search function that examines all possible moves of a strategy game, and their results, in an attempt to ascertain the optimal move. 182 Views

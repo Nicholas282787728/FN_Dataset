@@ -1,0 +1,1 @@
+What is a non-leaf node in a binary tree?They’re called internal nodes. Wikipedia has a list of tree terminology in its page on Tree (data structure). 48 Views · Answer requested by Syed Shayan Ali Shah

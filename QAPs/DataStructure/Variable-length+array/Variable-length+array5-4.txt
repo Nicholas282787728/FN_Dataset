@@ -1,0 +1,2 @@
+Why is malloc used in this C code? What is the use of it anyway?
+If you have c99 or later, you can do this without malloc by using a variable length array.      scanf("%d",&n);     {           int x[n];           ...     }     

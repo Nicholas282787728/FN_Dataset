@@ -1,0 +1,2 @@
+What is the next number in this sequence: 11,11,12,13,21,21,?
+This sequence shows the n-th prime in base n. The next 3 terms are 23, 23, 25. A clear answer is given in OEIS. 11,11,12,13,21,21 - OEIS 

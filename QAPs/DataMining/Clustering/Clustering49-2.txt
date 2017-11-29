@@ -1,0 +1,2 @@
+What are the best command-line tools for managing a small Linux cluster?
+For a small cluster and a shoestring budget, I would recommend genders + pdsh. This is much along the same ilk as the other posts, which is to say you pretty much need a distributed command setup.  LLNL runs the "fastest machines in the world" and are the creators of genders and pdsh.  They have a pretty good pedigree. genders: https://computing.llnl.gov/linux... pdsh: https://computing.llnl.gov/linux... And they are easy to setup and run.    Embed Quote 

@@ -1,0 +1,2 @@
+What are some of the best algorithms?
+AKS primality test The algorithm to determine whether a number is prime or composite within polynomial time. Even the invention of this algorithm was quite historical and interesting see(What are some interesting BTP/MTP stories in IITs?). AKS is the first primality-proving algorithm to be simultaneously general, polynomial, deterministic, and unconditional. Hence making it efficient than the previous algorithms where three properties were achieved atmost. 1.8k Views · 6 Upvotes

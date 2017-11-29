@@ -1,0 +1,2 @@
+★Can C++ be parsed correctly?I remember reading somewhere that no current parser is able to correctly parse all 100% of the C++ spec. Is this accurate? Is this still the case?
+Check out Elkhound! It's designed for the task of parsing C++. http://www.scottmcpeak.com/elkho...    Embed Quote

@@ -1,0 +1,1 @@
+What is an array?It's a number of boxes in a line, each one able to store an integer (very roughly) 

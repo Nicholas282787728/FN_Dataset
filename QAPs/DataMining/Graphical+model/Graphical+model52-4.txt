@@ -1,0 +1,2 @@
+★How do I draw a shirt onto someone's 3D graphic model?
+You can purchase a model, that already has the model and textures, and add your graphic to the existing texture.    Embed Quote

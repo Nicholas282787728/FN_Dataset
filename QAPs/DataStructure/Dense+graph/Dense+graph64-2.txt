@@ -1,0 +1,2 @@
+What are some of the common parallel algorithmic problems?
+Fast Fourier Transforms are a family of highly parallel algorithms. There are a large number of interesting variations and moreover they have numerous practical applications. Let me know if you need more help. 

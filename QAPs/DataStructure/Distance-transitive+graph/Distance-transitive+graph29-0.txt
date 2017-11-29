@@ -1,0 +1,2 @@
+Are there any good sites for learning algorithm/programming concepts every day (similar to the SAT question of the day)?
+I found MITs video lectures to be very useful; You can get up to speed in about a month. It is neatly presented and all you need is to spend around 1 hr everyday. http://ocw.mit.edu/courses/elect... Like Jim Wallace mentioned you can find neat writeups at topcode.com as well. 

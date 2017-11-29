@@ -1,0 +1,2 @@
+Which topic should be perfect in c to learn data structures in c?
+Array,pointer,function Most of the DS will be designed using array as basic data structure. So mastering array is needed. Or it will be implemented using Linked List where knowledge of pointers is necessary. Tree, graphs are nothing but a system consisting of pointers and data elements. To implement that you need to learn Structure well also. Its the most important part. Without it you cant implement any ds unless you are using array 

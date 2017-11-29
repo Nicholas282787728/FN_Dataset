@@ -1,0 +1,2 @@
+★What are some recommended tools for data workflow visualization?
+In terms of "Big Data", when you define a workflow in Cascading for MapReduce applications, it's one additional line of code to generate a Dot file (see http://en.wikipedia.org/wiki/DOT... definition) which can be read in OmniGraffle, Visio, etc. That is quite literally the visualization of the job DAG. In other words, it shows the "physical plan" of your queries: the set operations and other transforms applied to your tuple streams.    Embed Quote

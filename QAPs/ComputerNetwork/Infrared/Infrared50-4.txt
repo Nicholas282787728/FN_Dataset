@@ -1,0 +1,2 @@
+★Is it possible for you to convert the infrared energy from a stove to electric energy so it can be useful for home electrical purposes?
+Yes, using a Peltier junction. This is a plate with two electric leads. Cold or heat, it can convert to electricity. It is somewhat expensive, and relatively inefficient. If you apply power, one side gets cold, the other heats up. It also works in reverse (what you would want), apply heat to one side, and generate electricity, in small amounts. It isn't worth it to try and use it for power generation, but it does work.    Embed Quote

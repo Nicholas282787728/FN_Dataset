@@ -1,0 +1,2 @@
+★Where can I find a good example of a technical design document for an ETL process in SQL Server Integration Services?
+BOL (books online) official Microsoft documentation If you are looking for particular topic google is the best place as of my experience. I hope this will give you initial start    Embed Quote

@@ -1,0 +1,1 @@
+In PHP, how can you check if an array is empty?There are a few ways to check if an array is empty. The most common I've seen in my experience is if (0 == count($array)) I, however like using a more simple approach like this: if (!$array) There are other ways to find if an array is empty, like for example using the empty($var) function. 92 Views  View Upvotes

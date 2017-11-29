@@ -1,0 +1,2 @@
+★Why is Linear Algebra a prerequisite behind modern scientific/computational research?
+Linear algebra appears naturally in statistics and probability, which is used a lot in what you listed.    Embed Quote

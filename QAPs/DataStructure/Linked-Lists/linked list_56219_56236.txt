@@ -1,0 +1,1 @@
+how to find middle element of link list in one pass ? elaborate on <a href="http://cs.stackexchange.com/a/56221/49863"> hendrik s answer </a> if it s a doubly link list , iterate from both end give <code> -lsb- 1 , 2 , 3 -rsb- = > 2 </code> give <code> -lsb- 1 , 2 -rsb- = > 1 </code> give <code> -lsb- 1 -rsb- = > 1 </code> give <code> -lsb- -rsb- = > null </code> 

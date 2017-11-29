@@ -1,0 +1,2 @@
+What is the importance of integration?
+Integration is the method we have of figuring the cumulative effects of forces that undergo variations as they act on a body  while it is in motion.  Integrals enable us to define the cumulative effect of kinetic energy. In general the integral is the inverse operation of the derivative and it is necessary for solving differential equations.  Almost all physical laws are in the form of a differential equation or of a solution to a least/greatest action problem. 

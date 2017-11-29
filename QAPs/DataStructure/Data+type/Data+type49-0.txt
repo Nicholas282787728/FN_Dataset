@@ -1,0 +1,2 @@
+What data type do transistors use?
+It depends on what you wanted to do. Transistor could utilize both digital and analog input. If you want a logic gate (like, in computers), you may want to go with digital input(ones and zeroes, binary). If you want an amplifier (like, in a volume control), you could utilize analog input. But as Graham Cox had mentioned, it’s a bit misleading to call the input as data. 138 Views

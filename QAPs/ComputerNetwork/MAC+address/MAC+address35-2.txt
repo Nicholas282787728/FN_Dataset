@@ -1,0 +1,2 @@
+★Why is the IP address used for routing of packets and not MAC addresses?MAC addresses are abundant and unique for every device.
+From a host IP Address we can get its Network address which will server the same purpose as that of PIN number in your postal address. And MAC address would server the purpose of your House Number.    Embed Quote

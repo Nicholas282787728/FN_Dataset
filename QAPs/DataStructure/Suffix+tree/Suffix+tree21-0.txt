@@ -1,0 +1,2 @@
+How do I implement a suffix tree in the C language?
+Very Well Explained on Algorithm Tutorials Or You can refer Pattern Searching | Set 8 (Suffix Tree Introduction) - GeeksforGeeks 

@@ -1,0 +1,2 @@
+Why is it easier to determine whether a graph has an Eulerian cycle than a Hamiltonian cycle?
+If we had a good answer for this, we could probably decide whether P = NP pretty easily.  As is, we just have to regard it as a good question. 

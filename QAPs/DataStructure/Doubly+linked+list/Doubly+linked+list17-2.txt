@@ -1,0 +1,2 @@
+How can we implement data structures like doubly linked lists in Python where there is no concept of pointers?
+But we still have Classes in there! Also it looks like that Python doesn't have pointers. But it does have pointers in fact everything starts of with pointing something unless you specifically mention. Just that they are not explicit. 

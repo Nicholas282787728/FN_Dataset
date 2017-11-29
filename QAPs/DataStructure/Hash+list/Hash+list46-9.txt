@@ -1,0 +1,2 @@
+What data structures should I know to become a great programmer?
+Array Hash table Vector Tree Heap Queue Map 

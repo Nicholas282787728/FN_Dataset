@@ -1,0 +1,2 @@
+What is the solution to the question Give Away?
+Interval Tree with some data structure as node, that contains all elements in its interval. O(NlogN)  memory Data structure must handle queries "number of elements >= c" and update an element. Some randomized BST can be used, for example treap (cartesian tree) For each query we will answer in O(logN) time for O(logN) nodes, total O(log^2 N). Maybe it can be solved in O(logN) time with persistent interval tree, but I am not sure. 

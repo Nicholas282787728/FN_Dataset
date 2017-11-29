@@ -1,0 +1,2 @@
+★Bayesian Inference: Which companies develop or use Bayes Net/Graphical Model tools?
+Tools Developers: I often use Pittsburg Decision Labs Genie, which is free and windows based (works on linux/wine either) http://genie.sis.pitt.edu/licens... Hugin Expert is Java based and featueren Object Orientation for more complex models. http://www.hugin.com    Embed Quote

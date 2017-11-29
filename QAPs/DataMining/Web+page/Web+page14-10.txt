@@ -1,0 +1,2 @@
+★Why is HTML used in web pages?
+HTML5+CSS3 =responsive website development, which make your website suitable for laptop, computer, mobile.    Embed Quote

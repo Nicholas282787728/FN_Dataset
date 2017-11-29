@@ -1,0 +1,2 @@
+★Classification (machine learning): What are good libraries for random forest?Like in linear classification we have Liblinear and Vowpal Wabbit.
+RF was added in Spark 1.2.0 . It supports regression and classification task, continuous and categorical variables.    Embed Quote

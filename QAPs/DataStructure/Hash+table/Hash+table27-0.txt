@@ -1,0 +1,2 @@
+Is it better to have 100 small hash tables or one big hash table in memory, in terms of access speed (assuming both fit within RAM)?
+I would say 100 small hash tables, it's because of how the hashtables are implemented internally. As the number of records grow the constant in O(1) will increase and you see the performance degradation. 190 Views

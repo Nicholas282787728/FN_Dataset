@@ -1,0 +1,2 @@
+Which is better for quantitative finance, R or Matlab?Which do you prefer for what? Or just general pros and cons.
+I'll suggest Python. Modules like SciPy, SciKit, NumPy, and Pandas make working with time series and very large matrices extremely simple. Plus you have tools like iPython and Matplotlib to quickly test hypotheses. If you're stuck with either R or MatLab, though, I'd suggest R. 

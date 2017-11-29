@@ -1,0 +1,2 @@
+As we start planning the next edition of Introduction to Algorithms (CLRS), what should we add and what should we remove?Please bear in mind that the 4th edition cannot be larger than the 3rd edition, and so if you suggest a topic to add, please also suggest a topic to remove. I cannot promise that we'll be able to implement all suggestions.
+Backtracking and branch and bound should be explained as general design techniques because algorithms in those categories are commonly used, for example, in Artificial Intelligence. I would remove the chapter about van Emde Boas trees. 

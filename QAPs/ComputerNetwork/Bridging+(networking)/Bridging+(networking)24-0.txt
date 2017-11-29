@@ -1,0 +1,2 @@
+★How can I connect a Ubuntu 13.04 running in VMware in a PC to another Ubuntu similarly running in VMware in a different PC?The two machines are connecting with each other from windows command prompt.But each time I'm setting  the IP address to a fixed value in vmware,it fails to connect with the other vmware ubuntu of other machine.
+I don't have sufficient knowledge on this topic.

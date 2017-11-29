@@ -1,0 +1,2 @@
+★What are some of the most interesting open research problems in Wireless Sensor Networks?I am interested in which contemporary labs, universities and professors are active in the field of sensor networks?
+Prof WenZhan Song is heading the Sensorweb Research Lab at Georgia State University. Home | Sensorweb Research Laboratory There is a lot of research going on for solving interesting real world problems like volcano tomography and smart environments using wireless sensor networks. Do check it out.    Embed Quote

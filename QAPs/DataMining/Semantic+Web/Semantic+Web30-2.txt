@@ -1,0 +1,2 @@
+★Semantic Web: Any Alternative to Senti-WordNet?
+Use Bing liu's sentiment lexicon. It doesn't have a sentiment strength as swn, but if your looking for only word-polarity associations, it will do fine. It has about 2000 pos words and 4000 neg words, all extracted by a recursive bootstrapping algorithm applied to wordnet's synonymy structure.    Embed Quote

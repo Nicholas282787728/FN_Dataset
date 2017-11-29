@@ -1,0 +1,2 @@
+★How do I set up my Windows Server 2008 R2 server to be a proxy server?
+As others have indicated (and been downvoted?) Win 2008 R2 does not include proxy software as part of the base OS.  You'll need to either install a separate piece of software for that purpose (Squid has a Windows port Squid 2.7 for Windows) OR run another OS on the hardware that includes proxy software OR run another OS as a virtual with the 2008 server acting as the hypervisor.    Embed Quote

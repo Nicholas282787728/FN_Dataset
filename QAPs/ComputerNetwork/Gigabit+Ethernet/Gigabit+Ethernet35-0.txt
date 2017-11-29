@@ -1,0 +1,2 @@
+★Does this internet speed make any sense? Please refer to the attached image
+Assuming that you're running say, Gigabit Ethernet to a modern host, yes, that's very believable and is a clear indication that the University has done a good job at providing a VERY nice Internet access service.  Enjoy that!

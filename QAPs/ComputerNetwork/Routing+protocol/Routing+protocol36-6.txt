@@ -1,0 +1,2 @@
+★What are some things that programmers and computer scientists know, but most people don't?
+That about 25% of the hours spent writing an application are spent figuring out ways the end user will do something wrong.    Embed Quote

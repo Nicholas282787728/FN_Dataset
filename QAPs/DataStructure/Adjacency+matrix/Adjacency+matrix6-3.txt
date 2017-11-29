@@ -1,0 +1,2 @@
+What is the best easy learning software just to visualize adjacency matrix directed weighted graph?
+I personally do not use any software to visualize graphs, instead I draw them on paper mostly. However, sometimes when I get stuck on a problem I use Sage, it is pretty easy to use and operate. Sage Mathematical Software System - Sage 

@@ -1,0 +1,2 @@
+★What are the best resources for learning regular expressions?
+Another good tool to learn and play with regular expressions is regex coach http://www.weitz.de/regex-coach/    Embed Quote

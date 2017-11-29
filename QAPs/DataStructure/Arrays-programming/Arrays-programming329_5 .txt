@@ -1,0 +1,1 @@
+How are arrays echoed in PHP?As the other folks answered you can use print_r or var_dump functions If you want to store the output into a variable you can pass second param as boolean either you want to wtite the output into log as default false or true if you want to store it in a variable but i dont see any benefit of doing that.. $output = print_r($arr, true); 30 Views

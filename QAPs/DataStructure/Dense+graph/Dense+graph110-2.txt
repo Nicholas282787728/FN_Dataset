@@ -1,0 +1,2 @@
+What is a good workflow in documenting responsive web design?
+Ugh. Don't document this.  Who cares?  Get the site working, test it, make it great. Move on! What kind of horrible bureaucratic nightmare place do you work? Responsive design is a pretty new technique.  Devices are changing every day. Sizes are changing, browsers are changing, everything is changing.  Whatever you document will sit on a digital shelf and never be read again. Work on something more important, for the love of God!  Create lasting value. 

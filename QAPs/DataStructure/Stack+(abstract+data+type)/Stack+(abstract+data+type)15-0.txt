@@ -1,0 +1,2 @@
+How do I keep on moving forward in my coding education after I've completed a few Codecademy languages?
+The MEAN stack is a highly employable technology that is a full JavaScript stack. Check out http://nodeschool.io, http://angularjs.org/tutorial, http://university.mongodb.com, and https://thinkster.io/mean-stack-.... In terms of problem solving and computer science there's a huge number of things you could do to improve. Just understanding searching, sorting, and Abstract Data Types will take you a long ways. 

@@ -1,0 +1,2 @@
+★Is there a command line interface for Android?Just got my first android tablet and seems that I am spending way too much time figuring out arcane "tap and hold" moves.
+Do you mean in a sense of adding icons and widgets? You can get a terminal, but you need to root your device but I'm not sure it will accomplish what you want.

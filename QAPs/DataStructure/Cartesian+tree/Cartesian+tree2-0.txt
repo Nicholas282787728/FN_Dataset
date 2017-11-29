@@ -1,0 +1,2 @@
+How do I use vector array to build a balance tree?
+You should probably consider building Cartesian tree (treap). 

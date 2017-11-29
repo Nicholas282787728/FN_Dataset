@@ -1,0 +1,2 @@
+As a coder, why do you prefer C++ over C?
+There are plenty of reasons to prefer C++ over C, but that doesn't mean that C++ is better than C for all purposes. Both language has its own merits. That said, most prefer C++ because of OOPs, STL, and exception handling. 

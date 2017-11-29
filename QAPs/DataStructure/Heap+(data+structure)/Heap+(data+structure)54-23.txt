@@ -1,0 +1,2 @@
+What algorithms and data structures should any software engineer know?
+First start with Linear data structures and algorithms. Arrays Linked List Stack Queues Then move to basic algorithms : Sorting - Merge Sort, Insertion Sort, Quick Sort, Number of inversions Matrix Multiplication (just know the algo if not implement it)... (more)

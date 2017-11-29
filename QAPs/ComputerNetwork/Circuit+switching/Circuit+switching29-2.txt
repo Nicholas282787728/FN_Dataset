@@ -1,0 +1,2 @@
+★What is it about a digital circuit, in contrast to an analog circuit, that means that, in the event of a problem, it freezes/hangs and has to be reset (E.g. switched off/on)?
+The most elementary of example I can think of is when a non-selfcorrecting counter enters a state where it is not supposed to. It may so happen that it cannot come out of that state. There you have no way other than to reset it!

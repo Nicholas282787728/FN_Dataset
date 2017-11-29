@@ -1,0 +1,2 @@
+★What is required for "semantic web" to take off?
+In order for standards for representing machine-readable semantically structured data on the web to take off, we need: At least one killer consumer app, developed in conjunction with: A small set of standards that are very easy (think RSS) for developers to pick up and use. Software engineers, rather than academics, to lead the charge. While formats like RDF languish, the likes of HTML5 microdata may be the future here.    Embed Quote

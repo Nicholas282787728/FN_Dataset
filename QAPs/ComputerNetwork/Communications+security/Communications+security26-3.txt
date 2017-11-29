@@ -1,0 +1,2 @@
+★What specialities within Electrical engineering have the most future growth potential?
+All of it Demand for any given EE sub-field is a periodic function. Just look back to when people thought we would never exceed the 32 bit address space. Its hard to predict the next big thing, but currently there has been a shift towards power-efficient computing accelerated by the mobile computing market. This means new chip architectures, more efficient integrated circuits and better battery technology just to name a few fields.

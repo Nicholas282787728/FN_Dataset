@@ -1,0 +1,2 @@
+How is a priority queue implemented?
+There are a bunch of ways to implement a priority queue. The efficient method that I know of is by using a binary heap data structure. 

@@ -1,0 +1,2 @@
+★Are there any probability distributions that model piano key sequences in a melody?
+Yes. For example, here is a so-called "Factorial Hidden Markov Model" that has been applied to music by J. S. Bach: Machine Learning, Volume 29, Numbers 2-3 This particular model contains a probability distribution for key (note) sequences in music, and there are many other possibilities, many of which have been experimented with.    Embed Quote

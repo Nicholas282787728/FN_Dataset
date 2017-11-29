@@ -1,0 +1,2 @@
+★Is redundancy that important on a telecommunications network?
+Well everything is not redundant.  Cells sites, local loops and switches are not redundant, although they all have redundant components.  Like others here have commented, it depends on the component.  It makes sense to have a lot of redundancy given people's expectations of the level of service for telecommunications.    Embed Quote

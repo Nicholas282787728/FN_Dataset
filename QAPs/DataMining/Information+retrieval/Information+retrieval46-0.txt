@@ -1,0 +1,2 @@
+★What are the research topics within Information Retrieval which currently receive higher funding?There are various all-encompassing areas like multimedia IR, Real time search, personalization of search etc. There are also topical areas like Legal, Medical, personal (history), etc. I see some research happening in all these areas. Which area do you think has the most scope for original work & has money in terms of research funding?
+I don't know much but I think image or multimedia retrieval is currently on top. I see many people working in these areas now.    Embed Quote

@@ -1,0 +1,2 @@
+What's the standard method to check if a string is of zero length in JavaScript?
+I like doing: if (string.length) { // etc } 

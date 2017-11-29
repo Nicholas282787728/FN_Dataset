@@ -1,0 +1,2 @@
+★Why doesn't windows 7 obey DHCP option 119?
+According to Microsoft's Technet. DHCP Option 119 is not supported on windows clients, due to Win7 being a Client OS, this would be the reason why. Reference: DHCP Search Options

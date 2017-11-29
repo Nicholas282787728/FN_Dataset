@@ -1,0 +1,2 @@
+What is the time complexity of sizeof() in C programming language?
+Sizeof(X) is compile time, not run time. It calculates the size in bytes that X will occupy in memory (depending on underlying architecture). As someone mentioned below, it is an operator in C and C++ 

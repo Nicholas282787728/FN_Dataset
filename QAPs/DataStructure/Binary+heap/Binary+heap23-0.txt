@@ -1,0 +1,2 @@
+How is a priority queue implemented?
+We can implement priority queues with min heaps. For detailed explanation of heaps and it's properties, please refer this Heaps : Algorithms 

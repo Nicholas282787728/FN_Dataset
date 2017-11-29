@@ -1,0 +1,2 @@
+Can anyone share an interesting fact about Dennis Ritchie?
+If he had to explain you something over email, he didnt hesitate painstakingly making ASCII arrow chart. I learnt pointers and linked-list from the maestro himself. Over such emails. Getting into an email conversation was intense. He always had precise words to explain his answers and almost always signed off with a encouraging sentence or two. 

@@ -1,0 +1,2 @@
+★Moving a wordpress.org website to another domain name?I currently have a wordpress.org website on a server with a specific domain name. I would like to move it all to a server with another domain name as I have changed the company name. What is the best way of doing this without losing the links (Both internal links and external links going towards the site)? Many thanks in advance.
+As Elizabeth Jamieson answered single query is answered in Google Support page here http://support.google.com/webmasters/bin/answer.py?hl=en&answer=83105.

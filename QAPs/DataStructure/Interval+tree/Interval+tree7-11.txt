@@ -1,0 +1,2 @@
+What are the real world applications of some advanced data structures?
+Trie(prefix tree): in auto-complete dictionary in mobiles, search engines etc. as approximate algorithms in spell-checking 

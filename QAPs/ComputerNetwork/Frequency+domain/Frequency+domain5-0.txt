@@ -1,0 +1,2 @@
+★What is an explanation for aliasing in frequency domain?
+aliasing occurs when sampling rate is less than nyquist rate,which results in overlapping of signals,making reconstruction impossible.

@@ -1,0 +1,2 @@
+★Time Series: What is the difference between a conditional forecast and a unconditional forecast?Need to find out if there is a standard definition of unconditional forecast. Thanks,
+Let's look at a simple case: an AR(1) process.  We would have Suppose the time series starts at time 0 and we want to forecast   The conditional forecast given , is just .  But if we want the unconditional forecast of , , we would get something like because all the epsilon terms would cancel out.    Embed Quote

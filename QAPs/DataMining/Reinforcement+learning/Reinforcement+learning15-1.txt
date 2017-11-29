@@ -1,0 +1,2 @@
+★Prototypes: What are some good resources to implement reinforcement learning?This is a follow up question to How do I learn machine learning?
+You can find several tools named on the Wikipedia page. I personally use a piece of free software called TeachingBox from Hochshule Ravensburg-Weingarten.    Embed Quote

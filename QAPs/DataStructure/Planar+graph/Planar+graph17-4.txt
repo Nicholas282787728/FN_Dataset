@@ -1,0 +1,2 @@
+Is there an easy method to determine if a graph is planar or not?
+You could also use Euler 's formula if the graph is connected (simple). 

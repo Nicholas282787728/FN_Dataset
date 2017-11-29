@@ -1,0 +1,2 @@
+★What is the difference between fuzzy logic and probability?b'coz degrees of truth are often confused with probabilities.
+Suppose that I'm standing in your office doorway with one foot in your office and one foot in the hallway.  It's reasonable to say that I'm half in your office (as in fuzzy logic), but it's not reasonable to say that there's a 50% chance that I'm in your office (as in probability).    Embed Quote

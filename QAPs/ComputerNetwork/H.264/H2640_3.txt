@@ -1,0 +1,3 @@
+Video Codecs: What is H.264? It's a bit similar to MPEG4 but you will get a better quality using H.264 than mpeg4.
+
+The performance on low bit rate, especially on network will be better and the storage capacity will be smaller for the same quality.

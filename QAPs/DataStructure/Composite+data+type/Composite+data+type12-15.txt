@@ -1,0 +1,1 @@
+Why is there so much hype about functional programming?I believe every OO programmer has definetly started coding using a functional programming language. For example you start with C and then move to C++ or Java... Why is there so much hype about functional programming nowadays. I mean if everyone has used one at some point and then decided that OO is the way to go?

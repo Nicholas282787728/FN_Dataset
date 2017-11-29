@@ -1,0 +1,2 @@
+★How much bandwidth does turntable.fm use?Just had someone come round and ask whether "any of us were watching videos" because "something was going on in this room". I use turntable at work for a lot of the day, could that be seriously affecting bandwidth?
+I live in Spain, and I'm using a free VPN service that limits me to 300kbps. TT.fm doesn't really work if I'm trying to browse or do anything else internet-related except for Turntable, so I assume 300kbps is a rough estimate, although it could be the VPN service.

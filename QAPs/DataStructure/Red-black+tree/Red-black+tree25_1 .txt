@@ -1,0 +1,1 @@
+Why do functional programming languages tend to favour AVL trees over red-black trees?I don't understand the question. Most functional languages I know about use red black trees instead of AVL trees. 

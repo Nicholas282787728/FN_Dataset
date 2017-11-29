@@ -1,0 +1,1 @@
+Should I learn how to design data structures before learning about algorithms?No one “designs data structures”. You use them. How do you use them? By writing programs. What are programs? Something you call algorithms. 31 Views · View Upvotes

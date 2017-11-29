@@ -1,0 +1,66 @@
+★Is this a correct analogy for Domain Name Server?
+No, this analogy is wrong because the domain name system is distributed. Each level (the dots in the domain name) is a level in the hierarchy. Alan Cohen's answer is the very top level. At each lower level, the authority for the host name is delegated to another level of nameservers. For example, for Quora.com, the top level would be the IANA root servers. The next would be .com servers, operated by VeriSign (historically, Network Solutions which was acquired by Versisign.) Some of these IP addresses are anycast, so there are multiple sites sharing the same IP, for geographical distribution.  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+ $ dig ns com. ; <<>> DiG 9.8.3-P1 <<>> ns com. ;; global options: +cmd ;; Got answer: ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52387 ;; flags: qr rd ra; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 15 ;; QUESTION SECTION: ;com.				IN	NS ;; ANSWER SECTION: com.			8293	IN	NS	c.gtld-servers.net. com.			8293	IN	NS	k.gtld-servers.net. com.			8293	IN	NS	h.gtld-servers.net. com.			8293	IN	NS	e.gtld-servers.net. com.			8293	IN	NS	d.gtld-servers.net. com.			8293	IN	NS	g.gtld-servers.net. com.			8293	IN	NS	j.gtld-servers.net. com.			8293	IN	NS	m.gtld-servers.net. com.			8293	IN	NS	i.gtld-servers.net. com.			8293	IN	NS	f.gtld-servers.net. com.			8293	IN	NS	l.gtld-servers.net. com.			8293	IN	NS	a.gtld-servers.net. com.			8293	IN	NS	b.gtld-servers.net. ;; ADDITIONAL SECTION: a.gtld-servers.net.	12396	IN	A	192.5.6.30 a.gtld-servers.net.	12403	IN	AAAA	2001:503:a83e::2:30 b.gtld-servers.net.	12340	IN	A	192.33.14.30 b.gtld-servers.net.	12340	IN	AAAA	2001:503:231d::2:30 c.gtld-servers.net.	9956	IN	A	192.26.92.30 d.gtld-servers.net.	11657	IN	A	192.31.80.30 e.gtld-servers.net.	10092	IN	A	192.12.94.30 f.gtld-servers.net.	9665	IN	A	192.35.51.30 g.gtld-servers.net.	9832	IN	A	192.42.93.30 h.gtld-servers.net.	11296	IN	A	192.54.112.30 i.gtld-servers.net.	11578	IN	A	192.43.172.30 j.gtld-servers.net.	11653	IN	A	192.48.79.30 k.gtld-servers.net.	10397	IN	A	192.52.178.30 l.gtld-servers.net.	11591	IN	A	192.41.162.30 m.gtld-servers.net.	11646	IN	A	192.55.83.30 And then the Quora domain itself is handled by another company.  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+ $ dig ns quora.com. ; <<>> DiG 9.8.3-P1 <<>> ns quora.com. ;; global options: +cmd ;; Got answer: ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46365 ;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 4 ;; QUESTION SECTION: ;quora.com.			IN	NS ;; ANSWER SECTION: quora.com.		3403	IN	NS	ns4.p28.dynect.net. quora.com.		3403	IN	NS	ns3.p28.dynect.net. quora.com.		3403	IN	NS	ns1.p28.dynect.net. quora.com.		3403	IN	NS	ns2.p28.dynect.net. ;; ADDITIONAL SECTION: ns1.p28.dynect.net.	10687	IN	A	208.78.70.28 ns2.p28.dynect.net.	2643	IN	A	204.13.250.28 ns3.p28.dynect.net.	3082	IN	A	208.78.71.28 ns4.p28.dynect.net.	14152	IN	A	204.13.251.28

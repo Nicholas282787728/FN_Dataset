@@ -1,0 +1,1 @@
+What is heap size in a binary heap?Is it the no. of levels in the heap? How should I calculate it? Can you explain heapify in an easy way?

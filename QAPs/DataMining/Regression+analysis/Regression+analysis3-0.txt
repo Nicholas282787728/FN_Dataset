@@ -1,0 +1,2 @@
+★How would homo/heteroskedasticity affect regression analysis?
+Heteroscedasticity is a violation of the assumptions of regression. It could bias all the results. But exactly how it will affect them depends on the exact nature of the heteroscedasticity - variances can be unequal in so many ways!    Embed Quote

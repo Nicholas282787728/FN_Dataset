@@ -1,0 +1,1 @@
+For most types of hashing functions the choice of the function depends strongly on the nature of the input data, and their probability distribution in the intended application.

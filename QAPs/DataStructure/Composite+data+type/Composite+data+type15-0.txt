@@ -1,0 +1,2 @@
+What is wrong with my code for prime factorization of the number?
+You can't use %d for unsigned long in scanf. More to the point, try printing out a after reading it. Also keep in mind that even unsigned long is still 32 bits, so it can only handle numbers up to a few billion. In your comments, you mention a number that's way bigger. Try using "long long" types, with the appropriate scanf escape code. 

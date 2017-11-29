@@ -1,0 +1,2 @@
+★What are some of the commercial applications of Text Analytics / Natural Language Processing / artificial intelligence?
+- Search engines - Topic modeling systems / document classifiers for large companies - Sentiment analysis systems for marketing - Information extraction systems (address/name/product property extractors)    Embed Quote

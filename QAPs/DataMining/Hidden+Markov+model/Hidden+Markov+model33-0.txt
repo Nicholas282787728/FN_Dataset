@@ -1,0 +1,2 @@
+★How do I do hidden Markov Model coding in OpenCV C++ in Ubuntu?
+Its a complex algorithm to implement . As Andrew Ng popularly says why not use efficiently available libraries than coding yourself one? it saves your time also bugs that might rise.  pretty good implementations come from CvHMM and The vision package of Torch3 good luck!!! if you still want to implement them you can always use above packages to check their implementation and get an idea as they are opensource    Embed Quote

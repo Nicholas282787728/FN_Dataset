@@ -1,0 +1,2 @@
+★What are the differences between HTML5 and HTML?
+HTML5 is the newest specification of HTML by W3C. It has new semantic tags like <header>, <footer>, <aside> etc, (In HTML prior to HTML5 we needed to use <div id="header">, <div id="footer">, <div id="aside">, but now we have cool semantic tags as show above). HTML5 also have cool new features like LocalStorage, Geolocation, WebRTC, WebSockets and many more.

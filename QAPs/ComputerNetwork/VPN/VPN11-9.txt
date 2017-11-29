@@ -1,0 +1,2 @@
+★What are the best virtual private networks (VPNs) for use in China?Am looking for something that's easier to set up and has more stable access that works well on PC, Mac and Smartphones.
+PPTP doesn't work over mobile networks in China and OpenVPN is not supported by many handsets. If you want to use a VPN over GPRS, EDGE or 3G on, for example, an iphone you need an L2TP or IPsec VPN, neither of which witopia offers. Try 12vpn.com - they do all the protocols (openvpn, pptp, l2tp, CISCO IPsec) and multiple servers.    Embed Quote

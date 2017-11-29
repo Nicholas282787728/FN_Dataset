@@ -1,0 +1,2 @@
+★What would happen if there were two identical IP addresses on the same private network?
+I have seen this problem once. In my case, one of the device was sending a SYN packet and then timing out. When I checked with wireshark, I saw that the responses from server was going to another device with the same ip address. Aa Tony Li suggested this shouldn't have happened. But in our case the first device did not respond properly to an ARP message from the router and ecerythingy got messy.    Embed Quote

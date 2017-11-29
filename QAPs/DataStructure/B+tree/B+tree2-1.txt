@@ -1,0 +1,2 @@
+What is a B+ Tree?
+It's a B tree, with a plus next to it. HAH. A B tree is a self-balancing binary tree.  A B+ tree is a specialized version of a B tree, which provides fixed number of items in node (called blocks).  Most modern, popular databases use B+ trees for storage (Oracle, Postgresql, Mysql, Microsoft SQL Server, ...) http://en.wikipedia.org/wiki/B%2... Thank you for your feedback! Your response is private. Is this answer still relevant and up to date? YesNo 18.9k Views · 7 Upvotes

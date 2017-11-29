@@ -1,0 +1,1 @@
+In C programming, how do I replace a sequence in an array?Something like this should work: i = 0, j = 0, pathlen = strlen(pathtoroom); while (j < pathlen) { if ((j + 2 < pathlen) && (pathtoroom[j] == 'l' && pathtoroom[j + 1] == 'u' && pathtoroom[j + 2] == 'l')) { pathtoroom[i++] = 's'; j += 3; } else pathtoroom[i++] = pathtoroom[j++]; }; pathtoroom[i] = 0; 201 Views

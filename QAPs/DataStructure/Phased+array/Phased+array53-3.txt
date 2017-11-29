@@ -1,0 +1,2 @@
+Does a radio transmitter use more power when many receivers are tuned to its frequency than when there are no receivers?
+No. The transmitter broadcasts with its power into an antenna with a matching impedance. The power is spent whether any receivers are receiving or not. 

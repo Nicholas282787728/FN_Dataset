@@ -1,0 +1,2 @@
+★What is the best peer-to-peer desktop sync software?Like DropBox, but not cloud-based. It's okay if traffic goes through the internet, but I don't want my files ending up on a server somewhere. More importantly, I'm fine with paying for the software, but I don't want to pay for a service.
+Try Cubby cubby.com – your data shared across all your computers, tablets, and smartphones. It has a Peer-to-peer sync options that bypass the cloud and allow direct 2 devices synchronization without putting files into the cloud storage.    Embed Quote

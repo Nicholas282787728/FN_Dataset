@@ -1,0 +1,1 @@
+It is sometimes desirable to have also edges with only one end (half-edges); these get only one arrow. An edge with no ends (a loose edge) has no arrows. The edges that are neither half nor loose edges may be called ordinary edges.

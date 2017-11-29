@@ -1,0 +1,1 @@
+If f(x+y) =f(x) +f(y), what would f(x) be without the assumption of continuity?

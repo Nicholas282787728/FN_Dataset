@@ -1,0 +1,2 @@
+★What are some good implementations for probabilistic graphical models?In particular, I want to be able to create and visualize belief networks, and apply various algorithms like variable elimination, belief propagation, junction tree, loopy belief propagation and other approximation algorithms. (any language, but active support is a plus)
+in the package of OpenGM, there are most algorithm implemented. http://hci.iwr.uni-heidelberg.de...    Embed Quote

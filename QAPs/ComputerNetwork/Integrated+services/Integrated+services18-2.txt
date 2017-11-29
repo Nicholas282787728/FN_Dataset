@@ -1,0 +1,2 @@
+★Is there any hosted Continuos Integration service that is free for students and compatible with BitBucket?
+Semaphore CI offers free CI/CD.  Also Semaphore has a vast knowledge base on the Community (with tutorials covering TDD, BDD, automatization, devops...)    Embed Quote

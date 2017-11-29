@@ -1,0 +1,2 @@
+★Is Measure Theory relevant to Machine Learning?
+Yes, I know of at least a couple of key concepts/proofs that rely on foundational measure-theoretical ideas like dense sets. They are from adaptive control theory, a close cousin of machine learning. Not of huge practical relevance, but useful in making the theory more solid. Don't ask for details though. It's been a while since I last had someone willing to pay me to study this stuff.    Embed Quote

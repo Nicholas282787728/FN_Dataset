@@ -1,0 +1,1 @@
+How can I measure correlation between continuous and discrete variables?As long as they both have numerical values, you don’t have to do anything special. Otherwise, it depends on what kind of data is in the discrete variable. 204 Views · View Upvotes

@@ -1,0 +1,2 @@
+Graph Theory: What is the difference between depth-first-search and breadth-first-search?
+1.DFS requires less memory since it has to keep record of only it's current node on path but in BFS there is storage of whole tree that has been generated 2.DFS works on Stack where as BFS works on Queue. 3.DFS stops when one of them found . 

@@ -1,0 +1,2 @@
+If a single bit (logical 1 or 0) is enough to represent a Boolean value, why is the size of Boolean data type kept on one byte? Does it lead to wastage of memory?
+It is so because a computer addresses memory in bytes. You cannot ask the memory system to store or read values in bits of length. That's why. 

@@ -1,0 +1,1 @@
+What is the real time application of the trees in data structures?Java and C# are using Binary search trees to implement set and map. Producers/consumers often use a balanced tree implementation to store a document in memory. Computer chess games. Your file system is a tree structure. Company organizational structure: divisions, departments, etc. 44 Views  View Upvotes

@@ -1,0 +1,2 @@
+★Which layer in TCP/IP stack is responsible for the work done in Physical layer of OSI model?Wikipedia say it doesn't concerns itself with that work and some websites say that all the work is done by link layer. what is the truth?
+I never did so until the interviewer asked me to do so. Thanx for your help :) :)    Embed Quote

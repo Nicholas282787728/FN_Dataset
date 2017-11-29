@@ -1,0 +1,2 @@
+★In linear regression, why would a large standard deviation of Y increase the slope and why would a small standard deviation of X decrease the slope?
+A quick and rough answer. Slope is defined to be ratio of change in y to change in x. Large sd of Y means big change in y, thus increases slope. Small sd of X means small change in x, thus increases slope.  In other words, Large sd of X means large change in x, thus decreases slope.    Embed Quote

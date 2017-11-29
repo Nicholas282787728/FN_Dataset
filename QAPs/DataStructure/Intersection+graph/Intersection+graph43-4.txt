@@ -1,0 +1,2 @@
+If you put 5 points on a plane, is it possible to connect each pair with a continuous curve without any two curves intersecting?If so, provide an example.  If not, provide proof. I believe it's not possible, but I have no clue how to prove it.
+It's not possible by Kuratowski's theorem. 

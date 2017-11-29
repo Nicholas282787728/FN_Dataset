@@ -1,0 +1,2 @@
+★What is the difference between fuzzy logic and probability?b'coz degrees of truth are often confused with probabilities.
+Adding to previous answers, Consider a busy street in a city. Probability : Accidents that can occur (deals with only the occurrence of the event) Fuzziness : severity of the accidents, fuzziness doesn't deal with the occurring of the event but with extent to which it occurs. In this example it can be fatal accidents or light accidents.    Embed Quote

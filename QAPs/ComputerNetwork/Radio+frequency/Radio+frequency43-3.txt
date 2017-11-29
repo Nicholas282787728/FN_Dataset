@@ -1,0 +1,2 @@
+★In RFID technology, can receiver and transmitter work together to estimate the distance between them? If not what type of similar technology using Radio frequencies can enable this?
+It can measure distance in terms of a "geiger counter" indicator...sounding faster beeps when you're closer to the item you're looking for.    Embed Quote

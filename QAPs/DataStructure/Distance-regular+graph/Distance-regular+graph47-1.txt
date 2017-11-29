@@ -1,0 +1,2 @@
+Do you have to sync a Fitbit Flex the same day as the steps were counted?
+From the Fitbit manual: While we recommend you sync your data regularly, The tracker has the ability to store 7 days worth of detailed, minute by minute data. It will store summary data (calories, distance and steps) for the trailing 30 days. If you wait longer than 7 days before syncing, you will not see your minute by minute graphs (except on the last 7 days). 

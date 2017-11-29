@@ -1,0 +1,2 @@
+★What is meant by an electric power cable rated at a voltage grade of 450/750V?
+It's the voltage to earth/voltage between phases rating.  (Pretty much redundant, since if it can withstand 750V phase-to-phase, it's going to be able to handle 750V phase to ground.)  It's a British standard.    Embed Quote

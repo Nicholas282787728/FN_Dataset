@@ -1,0 +1,2 @@
+What are the best open source tools for unsupervised clustering of text documents?
+GATE [1] has a plugin for document categorisation / clustering, based on LibSVM and WEKA check out the documentation at [2] [1] http://gate.ac.uk [2] http://gate.ac.uk/sale/tao/split...    Embed Quote 

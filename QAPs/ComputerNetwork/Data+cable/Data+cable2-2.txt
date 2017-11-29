@@ -1,0 +1,2 @@
+★Why don't all data cables use MagSafe connections?i.e. a connector that isn't friction or clip fastened at the end.
+Common potential for data loss and corrupted files if accidentally (or otherwise) pulled off and disconnected when data connection is in use.

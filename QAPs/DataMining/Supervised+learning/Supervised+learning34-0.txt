@@ -1,0 +1,2 @@
+★What is the difference between semi-supervised learning and transductive learning?
+"Semi-supervised learning may refer to either transductive learning or inductive learning. " Semi-supervised learning    Embed Quote

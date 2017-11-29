@@ -1,0 +1,2 @@
+★What other interesting properties would a probability distribution whose mean is equal to its standard deviation have?
+Ummm...honestly, I don't really see the mean being equal to the standard deviation as interesting. There are probability distributions that don't even have a standard deviation or a mean, so this cannot even apply to all distributions. I could potentially provide a better answer if you can tell me why you find this to be interesting in the first place.    Embed Quote

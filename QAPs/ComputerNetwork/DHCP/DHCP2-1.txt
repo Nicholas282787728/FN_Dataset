@@ -1,0 +1,2 @@
+★How does DHCP work?
+My guess: In a confined dark space (LAN), one person (a DHCP client) shouts: Where can I be seated? The system (DHCP server) hears the person and directs a light beam towards am empty seat where the person could sit down.

@@ -1,0 +1,2 @@
+Why do many software engineers not like Java?
+Everyone is entitled to their opinion based on their experience. I have around 8 years experience with Java, from a junior engineer to architecture and I've been the CEO of a startup. So far, I have never come to a point where I have realized Java is a deadend and I really need another language or platform. If it comes to finding flaws you can find flaws in anything but does it get the job done? YES! Does it scale? YES! 

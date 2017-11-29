@@ -1,0 +1,2 @@
+★Why are there so many SMTP servers that are vulnerable?After developing a PHP application with PHPMailer, I found that there are SO many SMTP servers allowing anonymous emails with no authentication. Why do people set up their mail servers like that??
+There use to be a lot more open mail relays, and they became enormous vectors for spam e-mails. Over time they were filtered, blocked, and shut down. There are still some out there, but most people ignore their traffic.    Embed Quote

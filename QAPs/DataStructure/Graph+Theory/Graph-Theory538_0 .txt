@@ -1,0 +1,1 @@
+What graph theory problems are tractable for undirected graphs and intractable for directed graphs?You may find this answer over at CSTheory Exchange helpful: Graph problems which are NP-Complete on directed graphs but polynomial on undirected graphs It gives a few examples there. 140 Views  View Upvotes  Answer requested by Eric Gaudiello

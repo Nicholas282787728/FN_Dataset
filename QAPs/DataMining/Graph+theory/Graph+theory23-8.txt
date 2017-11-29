@@ -1,0 +1,2 @@
+★Graph Theory: What is the difference between depth-first-search and breadth-first-search?
+1.  A BFS searches every single  solution in a graph to expand its nodes; a DFS burrows deep within a  child node until a goal is reached. 2.  The features of a BFS are space and  time complexity, completeness, proof of completeness, and optimality;  the most natural output for a DFS is a spanning tree with three classes:   forward edges, back edges, and cross edges.    Embed Quote

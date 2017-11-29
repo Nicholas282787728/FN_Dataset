@@ -1,0 +1,2 @@
+★Given a graph with 10 vertices and 10 edges. What would be a more space efficient representation, adjacency list or adjacency matrix and why?
+For such a small graph, the real question is "why do you care about space efficiency?". Adjacency matrix representation would take only 100 bytes if you use a boolean matrix (assuming sizeof(bool) = 1 byte). Which representation you should use then depends on your application. Use whichever representation makes your life easier.    Embed Quote

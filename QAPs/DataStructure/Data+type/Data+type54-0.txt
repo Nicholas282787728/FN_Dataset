@@ -1,0 +1,2 @@
+Why data types are required in any programming language?
+A data type in a programming language is a set of data with values having predefined characteristics. Examples of data types are: integer, floating point unit number,character, string, and pointer. Usually, a limited number of such data types come built into a language. The language usually specifies the range of values for a given data type, how the values are processed by the computer, and how they are stored. 1k Views · 2 Upvotes

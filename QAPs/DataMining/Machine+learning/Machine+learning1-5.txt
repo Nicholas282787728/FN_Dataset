@@ -1,0 +1,2 @@
+★What are the top 10 data mining or machine learning algorithms?
+Two algorithms need to be added to this list.  Recenlty, most winners in Kaggle Data Science competitions have used either Ensembles of decision trees (random forests) or Deep Learning- see Top KDnuggets tweets, Aug 12-13: A Beginner Guide to Data Visualization; What most recent Kaggle winners used    Embed Quote

@@ -1,0 +1,1 @@
+How do set string to first object while creating array dynamically from mysql?In what programming language? (MySQL is a program, not a language.) 61 Views  Answer requested by Bhavani Murugan

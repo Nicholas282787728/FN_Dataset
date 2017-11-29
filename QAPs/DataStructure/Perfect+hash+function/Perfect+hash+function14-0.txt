@@ -1,0 +1,2 @@
+What are some non-trivial projects, that use a lot of math, with the programming language C?
+Compression of images or audio Encryption / cryptoanalysis things like hyperloglog, or perfect hash functions, or figuring out the average distance between primes, or writing arbitrary precision arithmetic code like gmp Graph theory Lots more. 

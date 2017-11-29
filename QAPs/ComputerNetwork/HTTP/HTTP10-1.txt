@@ -1,0 +1,2 @@
+★What are the key differences between HTTP 1.0 and HTTP 1.1?
+HOST in the header is the big one IMO.  Its one of the three main (the others are NAT and CIDR) technologies that allowed us to stay on IPv4 as long as we have.  It also added better proxy and caching support and as Erik mentions TCP persistence. I was running web servers during the cut over from 1.0 to 1.1 and our IP address usage went down very significantly since after that only sites that needed SSL had to have their own IP.

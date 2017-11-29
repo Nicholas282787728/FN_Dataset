@@ -1,0 +1,2 @@
+What are some of the best algorithms?
+Why no one mentioned PageRank ? The algorithm is also very easy to understand. But it support almost all search engine companies(Google, Yahoo, Yandex, Bing, Baidu you name it), and every website that provides some functionality of search. ... (more)

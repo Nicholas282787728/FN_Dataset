@@ -1,0 +1,2 @@
+★How do you interpret k-means clustering results?
+Here is a link to one of the fun projects I did using my Twitter data and K-Means clustering: Page on googledrive.com The clustering is done on the Twitter Followers and Following data. If you hover around the data points you can see an pop up displaying the same. I just followed the steps from this website: Cluster Twitter Data with R and k-means - ThinkToStart This will help you understand how data is clustered.    Embed Quote

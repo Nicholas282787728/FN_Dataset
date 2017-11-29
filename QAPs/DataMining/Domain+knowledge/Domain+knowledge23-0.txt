@@ -1,0 +1,2 @@
+★How can personas help, if requirements are driven entirely by domain knowledge?
+Persona's can help since the people who use the system are part of the domain. And getting the developers to understand the domain helps them build the product and reduces misunderstanding and miscommunication. I find it hard to imagine the kind of product you're thinking about in your question - can you give an example of the kind of problem that you're facing. That will help us give you a better answer.    Embed Quote

@@ -1,0 +1,2 @@
+★Can a stolen router be traced from its MAC address?We have a problem in an NGO where some body has stolen the router from the administration office.
+Nope. MAC addresses are extremely easy to modify, and there is no centralized registry of them anyways.    Embed Quote

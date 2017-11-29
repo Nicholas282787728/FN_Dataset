@@ -1,0 +1,2 @@
+★How do I connect two LANs?
+No, you can't duplicate SSID's.  Easiest solution is to bridge the networks with a router.    Embed Quote

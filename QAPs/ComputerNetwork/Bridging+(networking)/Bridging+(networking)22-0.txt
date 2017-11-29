@@ -1,0 +1,2 @@
+★Are there any open source resources that teach users about network cards bonding, bridging, and VPN that are available and ready to use?I will present this topic to a group of new starters on linux,  I would like to have a hand on session with hopefully high quality material. I found the following site http://linux-training.be/ but they don't cover network bonding, bridging or vpn. Recommendation for real live labs are welcome
+Have you tried Flashcard Machine - If you look up, you can find flashcards and aids on almost everything.

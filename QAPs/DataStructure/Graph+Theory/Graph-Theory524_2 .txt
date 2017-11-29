@@ -1,0 +1,1 @@
+What is the centerpoint of a graph called? What purpose does it serve?Not sure what you mean by “centerpoint”. The origin is not the centerpoint of any particular graph, but is only a special point of a coordinate plane (space). If “centerpoint” means “barycenter” (“centroid”), then you’d have to specify what graph you have in mind. 28 Views

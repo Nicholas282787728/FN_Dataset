@@ -1,0 +1,2 @@
+How can I solve the equation sin x (x)=x  ?
+With numerical methods. There is no synthetic approach. 

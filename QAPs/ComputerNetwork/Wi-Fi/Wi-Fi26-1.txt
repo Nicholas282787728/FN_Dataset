@@ -1,0 +1,2 @@
+★Why hasn't Wi-Fi calling been created?
+You are already "wi-fi" calling every time you use skype or any application which actually use the VoIP transmission protocol in order to transmit voice signals via wifi, local networks, and Internet as their "paths" if you will.    Embed Quote

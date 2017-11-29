@@ -1,0 +1,2 @@
+★What's the point of fuzzy logic?
+As complexity rises, precise statements lose meaning and meaningful statements lose precision. Albert Einstein. Fuzzy logic deals with reasoning that is approximate rather than fixed and exact. This may make the reasoning more meaningful for a human:    Embed Quote

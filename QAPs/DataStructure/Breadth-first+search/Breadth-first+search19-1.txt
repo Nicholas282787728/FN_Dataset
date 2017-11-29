@@ -1,0 +1,2 @@
+Algorithms: Can I print all paths from a source node to a destination node using breadth-first search algorithm?
+Yes. BFS can be easily used for finding and printing all possible paths between two given nodes. You can find its implementation and more detail about it here Find the paths between two given nodes? 

@@ -1,0 +1,2 @@
+How can you make a double line graph in Excel?
+I interpret this question to mean that you want multiple series in you graph. This is comparatively difficult and sometimes tedious, compared to using a single-line graph. I’m going to purposefully make a few mistakes along the way, so you get an idea of what goes wrong with making and formatting charts with multiple series. Format the data as two separate y-value columns. Something like this, but in Excel: Week Sales Profit 1 $1200 $350 2 $1350 $210 4 $2400 $420 6 $1750 $550... (more)

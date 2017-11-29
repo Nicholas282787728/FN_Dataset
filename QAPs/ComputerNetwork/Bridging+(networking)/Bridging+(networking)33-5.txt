@@ -1,0 +1,2 @@
+★Is it possible to run Django on Windows 7? If so, how?
+After spending too many hours trying to get Python/Django working on Windows, I went with another approach. Now my setup is: - Virtualbox with Ubuntu Server (I guess any Linux distribution works) - Sublime as my editor Managing virtual environments, python packages, database servers etc has been so much easier for me, so I would definitely recommend this approach instead of trying to get everything to work on Windows.

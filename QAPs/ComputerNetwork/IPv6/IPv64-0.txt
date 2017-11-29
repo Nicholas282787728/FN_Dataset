@@ -1,0 +1,2 @@
+★Does Quora support IPv6?
+No, as of late 2012 Quora doesn't publish AAAA records in DNS nor respond to external v6 requests.    Embed Quote

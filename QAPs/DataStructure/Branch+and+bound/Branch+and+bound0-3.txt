@@ -1,0 +1,2 @@
+What is "branch and bound"?
+It is and algorithm that runs over graphs, the keypoint is once you got all the leafs values of one subtree you can discard (bound) that subtree if your objective function is not relative and can't reduce the more nodes you go, otherwise it is the wrong use of it. 

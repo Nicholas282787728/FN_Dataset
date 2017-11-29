@@ -1,0 +1,2 @@
+★What's a good way to parse XML in C#?
+If you need to do read and write use XMLDocument else for just read use XMLTextreader.    Embed Quote

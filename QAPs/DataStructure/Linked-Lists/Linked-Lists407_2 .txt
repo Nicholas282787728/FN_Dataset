@@ -1,0 +1,1 @@
+How do I simplify the following polynomial (linked list) in C?Polynomial curve fitting will be useful for you!Curve fitting will be useful for you (say 4th order polynomial curve fitting)! links: Nth Order Polynomial Least Squares Curve Fit Program Polynomial regression 146 Views

@@ -1,0 +1,2 @@
+★Why does my server with a static IP still show 10 DHCP reservations for the same MAC address in the DHCP table?
+You have the Routing and Remote Access service running on the server, and have a VPN endpoint mapper running. RRAS, in its default configuration, asks the DHCP server for ten IP addresses to use for remote access clients. Are you actually using RRAS?  If not, you should disable it.

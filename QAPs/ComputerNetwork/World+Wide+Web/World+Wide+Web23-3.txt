@@ -1,0 +1,2 @@
+★What is the difference between the Internet and the Web?
+For an exhaustive look under the Internet's hood check out "The TCP/IP Guide". http://www.tcpipguide.com/free/t... The WWW is delivered by the HTTP protocol which runs on top of TCP/IP. http://www.tcpipguide.com/free/t...    Embed Quote

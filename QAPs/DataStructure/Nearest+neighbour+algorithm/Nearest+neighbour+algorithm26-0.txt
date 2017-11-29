@@ -1,0 +1,2 @@
+What is your favorite "PYTHON" One-liner?
+I have written a k-Nearest Neighbours classifier (k-nearest neighbors algorithm) in one line of Python (less than 140 chars, so it can fit into a Tweet) ​ This by far is my favourite one-liner (yes, I am probably bragging here a bit :)). Explanation here: kNN classifier - in one line of Python. Fits into a Tweet. 

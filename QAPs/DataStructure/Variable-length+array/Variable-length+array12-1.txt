@@ -1,0 +1,2 @@
+How do the following statements become valid in C++?
+That will only work if use g++. g++ support VLA(variable length array)s as an extension which is enabled by default. However ISO C++ mandates size of an array to be a constant expression i.e the size must be known at compile time. If you really want runtime dynamic sizing, allocate on the heap. int n; cin >> n; int *array = new int[n]; This will work everywhere, and as a bonus, protect you from stack overflows, but this is more slower and requires to call delete [] operator after we finish our work with array. 

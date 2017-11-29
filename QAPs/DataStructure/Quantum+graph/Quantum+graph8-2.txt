@@ -1,0 +1,2 @@
+What mathematics do I have to study for theoretical computer science?
+Besides those already mentioned, I would suggest for theoretical computer science topics such as: Concrete Mathematics is a really good start (see Concrete Mathematics: A Foundation for Computer Science (2nd Edition): 0785342558029: Computer Science Books @ Amazon.com) Universal Algebra is another good topic (see A Course in Universal Algebra (Graduate Texts in Mathematics): S. Burris, H. P. Sankappanavar: 9781461381327: Amazon.com: Books) 

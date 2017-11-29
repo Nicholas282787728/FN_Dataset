@@ -1,0 +1,2 @@
+★I am a .Net developer having 3 years of experience. I am planning to learn SSIS (sql server integration services). Is it a good field to jump?As Microsoft usually changes the framework and tools every year. I am also concerned about the salaries.
+I would suggest going for the entire Microsoft Power BI stack. SSIS is still a good option, but I think the Power BI solutions will take over soon!    Embed Quote

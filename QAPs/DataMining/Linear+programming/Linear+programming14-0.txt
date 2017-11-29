@@ -1,0 +1,2 @@
+★What are some of the greatest real-world applications of linear programming?I've studied and modeled some for applications in transit routes, portfolio management, and inventory management. What are some other ways we can apply (preferably not commonly talked about) LP?
+A large number of difficult problems can be formulated as 0-1 integer programs, and the solution to a related linear program can be used as an approximation to the real solution.  See linear programming relaxation on Wikipedia for the gory details.    Embed Quote

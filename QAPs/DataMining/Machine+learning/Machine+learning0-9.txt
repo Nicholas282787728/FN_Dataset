@@ -1,0 +1,2 @@
+★How do I learn machine learning?
+You may also be interested in the following list: Artificial Intelligence University. It contains freely available resources structured according to semesters/years. Kudos for preparing the list goes to Łukasz Stafiniak. Recently I also encountered: Bayesian Methods for Hackers Although I haven't tried it, it looks interesting as it is a practical introduction to Bayesian Machine Learning - important part of nowadays Machine Learning community.    Embed Quote

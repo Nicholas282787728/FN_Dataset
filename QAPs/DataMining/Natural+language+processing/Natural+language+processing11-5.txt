@@ -1,0 +1,2 @@
+★Can natural language process structured information from a text?
+You seem to be referring to 'Information Extraction'. Here is something that will definitely get you started - Text classification and Naive Bayes This is a great Stanford e-book that has detailed mathematics behind Natural Language Processing for Information Retrieval.    Embed Quote

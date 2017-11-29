@@ -1,0 +1,13 @@
+★Server Monitoring: What is the best technical design approach for creating status page for your web application?Looking for different technical design approaches to build status control page similar to Apps Status Dashboard or GitHub System Status or pingdom. Is there general approach to generalize that for most of the web apps ?
+To implement this I personally would use any of the already available third-party services that can provide availability reports accessible through a API. Pingdom perhaps? It builds trust amongst your customer base to utilize a third party for this, especially if you ever are going to make any availability statements (SLA) to sell your product. I would then create a simple website, host it separately from my application at a provider which can assure high availability and from that page pull stats from my monitoring service's API and output it. Edit: If you want to reinvent the wheel, you first need to figure out which "checks" that are important to monitor  your product. For a simple HTTP, you could easily create this in node.js: (untested)  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+ http = require("http") # GET.   options =   host: "www.example.com"   port: 80   path: "/" http.get options, (res) ->   if res.statusCode isnt 200     console.log "example.com isnt available!" Above is written in coffeescript. Obviously you would need to persist the result if you want to keep track of changes over time.

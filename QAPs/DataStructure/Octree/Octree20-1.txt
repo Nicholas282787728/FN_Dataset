@@ -1,0 +1,2 @@
+How world map data is stored in 3D Games?
+In general, the working structure is a 3D Scene graph of Triangle meshs. Some other structures have been used experimentally, such as Octrees. 

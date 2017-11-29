@@ -1,0 +1,11 @@
+﻿Using a simpler, more memorable name in place of a host's numerical address dates back to the ARPANET era. The Stanford Research Institute (now SRI International) maintained a text file named HOSTS.TXT that mapped host names to the numerical addresses of computers on the ARPANET.[8][9] Maintenance of numerical addresses, called the Assigned Numbers List, was handled by Jon Postel at the University of Southern California's Information Sciences Institute (ISI), whose team worked closely with SRI.[10]
+
+Addresses were assigned manually. To request a host name and an address and add a computer to the master file, users contacted the SRI's Network Information Center (NIC), directed by Elizabeth Feinler, by telephone during business hours.[11]
+
+By the early 1980s, maintaining a single, centralized host table had become slow and unwieldy and the emerging network required an automated naming system to address technical and personnel issues. Postel directed the task of forging a compromise between five competing proposals of solutions to Paul Mockapetris. Mockapetris instead created the Domain Name System.[11]
+
+The Internet Engineering Task Force published the original specifications in RFC 882 and RFC 883 in November 1983.[12][13]
+
+In 1984, four UC Berkeley students, Douglas Terry, Mark Painter, David Riggle, and Songnian Zhou, wrote the first Unix name server implementation for the Berkeley Internet Name Domain, commonly referred to as BIND.[14] In 1985, Kevin Dunlap of DEC substantially revised the DNS implementation. Mike Karels, Phil Almquist, and Paul Vixie have maintained BIND since then.[15] In the early 1990s, BIND was ported to the Windows NT platform. It was widely distributed, especially on Unix systems, and is still the most widely used DNS software on the Internet.[15]
+
+In November 1987, RFC 1034[1] and RFC 1035[3] superseded the 1983 DNS specifications. Several additional Request for Comments have proposed extensions to the core DNS protocols.[16]

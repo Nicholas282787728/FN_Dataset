@@ -1,0 +1,2 @@
+★Which is the best proxy server software for LINUX?
+it depends on you needs. there are 3 options: 1. http://www.squid-cache.org/ 2. https://www.varnish-cache.org/ 3. http://wiki.nginx.org/Main hope this will help you ;)    Embed Quote

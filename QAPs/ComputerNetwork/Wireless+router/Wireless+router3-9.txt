@@ -1,0 +1,2 @@
+★What is the difference (if any) between a wireless access point and a wireless router?
+Tomayto, tomahto Broadly saying- no difference. However, access point could be considered a component of a wireless router. The access point is a node which provides interfaces between wired and wireless network. While the wireless router has more functionality and can control the devices as well keep track of network status and other routers.    Embed Quote

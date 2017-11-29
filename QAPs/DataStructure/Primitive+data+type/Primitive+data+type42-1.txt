@@ -1,0 +1,2 @@
+What is Java literals in simple terms?
+Literals in Java are a sequence of characters (digits, letters, and other characters) that represent constant values to be stored in variables. 

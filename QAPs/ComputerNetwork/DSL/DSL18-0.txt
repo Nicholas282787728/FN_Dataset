@@ -1,0 +1,2 @@
+★Does rain affect dsl service?
+It shouldn't, but often it can.  DSL is normally carried over dry twisted pairs.  These wires are insulated in a jacket that should repel water.  They can get small breaks in the jacket and allow moisture in.  In most cases this will destroy the DSL capabilities, but there might be cases where it only effects part of the service, thus reducing speed.  In other cases the electrical characteristics of the environment may change from the rain enough to also effect part of the service.

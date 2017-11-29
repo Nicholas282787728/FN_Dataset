@@ -1,0 +1,2 @@
+★What is the best way to measure user experience in an information extraction project?
+Usability studies, where you give them a task to complete, you observe and you evaluate the system´s ability to meet the established objectives for the system.  You can also do a focus group to discuss the site, or of course log file analysis and web analytics..    Embed Quote

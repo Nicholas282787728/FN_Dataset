@@ -1,0 +1,2 @@
+Is there a way to find the last element of an array without involving a counter, neither explicitly nor implicitly?
+Ok, this is not possible, or there isn't enough information. The closest I can guess is by adding some conditions. Let's say that the array is zero initialized, and when you create the array you know its maximum size, in that case, a simple binary search would get you close to log(n) 

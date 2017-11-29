@@ -1,0 +1,1 @@
+How do I create arrays implicitly?if n=3 how to create 3 arrays implicitly in c programming language?In C int *arr = (int*)malloc(sizeof(int)*Num_of_Elem); In C++ int *arr = new int[Num_of_Elem]; 41 Views  View Upvotes

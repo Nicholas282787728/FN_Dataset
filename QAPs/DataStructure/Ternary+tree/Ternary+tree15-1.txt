@@ -1,0 +1,2 @@
+How do I design an auto-complete feature for a string database with a billion or more entries?
+For interview question,  the answer is trie because yes, it solves the purpose completly. Moreover, you can show detailed implementation which proves that you are clear with the concept. 

@@ -1,0 +1,2 @@
+★How do you prove that every vector space contains a zero vector?
+You don't have to.  It's one of the vector space axioms.  If you have what you know to be a vector space, then you know it had a 0 element.    Embed Quote

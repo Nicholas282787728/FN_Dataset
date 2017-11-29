@@ -1,0 +1,2 @@
+★What is an application of vector space in computer science?
+A2A: Many mathematical problems are solved with the help of vector spaces. At least the theory behind the algorithms have to do with it. Regression is one example. Optimization Algorithms (like the simplex algorithm) are based on that theory. also many graph theory problems are related to that.    Embed Quote

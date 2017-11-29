@@ -1,0 +1,2 @@
+What are some real world examples of primitive data types in Java?
+Here is an example for reading data from a file: FileReader fis=new FileReader("foo");String s="";while(true) {     char c=fis.read();     if(c<0)              break;     s+=c;    }System.out.println("The file had the following in it: "+s); You use int's for loop counters and other place holders. You use the rest of the numerics to do math on; math can not be performed directly on objects, but only on primitives. 

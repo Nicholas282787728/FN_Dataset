@@ -1,0 +1,2 @@
+★What is the formula for the numerical solution to weighted least squares with Tikhonov regularization?
+Yes, provided you formulate the objective function as follows: minimize . First notice this objective function is strictly convex with respect to , so there exists a unique solution. Taking gradient with respect to , we get , which is equal to . Solving this yields , as desired.    Embed Quote

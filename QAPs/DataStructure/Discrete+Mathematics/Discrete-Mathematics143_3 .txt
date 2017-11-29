@@ -1,0 +1,1 @@
+How can I find the correct adjacency matrix given a particular graph?adj[A][B] = true if there is an edge between A and B, false otherwise. Yes, your adjacency matrix is correct. 77 Views  View Upvotes

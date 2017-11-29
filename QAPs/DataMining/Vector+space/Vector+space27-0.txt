@@ -1,0 +1,2 @@
+★Why doesn't the set of polynomials of degree equal to two form a vector space?
+If you say "the set of polynomials of degree less than or equal to two", then you have a vector space of dimension three. If you remove the "less than" and insist on the set of polynomials with a non-zero second-order coefficient then it's like taking a whole plane out of space, and it's no longer a vector space.    Embed Quote

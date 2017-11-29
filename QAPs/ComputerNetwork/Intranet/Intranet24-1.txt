@@ -1,0 +1,2 @@
+★What are some free or low-cost intranet solutions?
+Igloo is free to use for communities of 10 users or less. Igloo is an intranet you'll actually like They also have a few templates out of the box to get you started -  app-based (for small, simplistic look & feel), corporate (for the clean, traditional look - better for large enterprise companies), and customer template (to work with vendors, customers, etc) This is what your Igloo could look like:

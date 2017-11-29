@@ -1,0 +1,1 @@
+Which HDL is better: Verilog or VHDL?

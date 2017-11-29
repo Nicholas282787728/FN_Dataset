@@ -1,0 +1,2 @@
+What are the greedy algorithms every programmer should know?
+The knapsack problem and all its variants form an interesting set of problems in Algorithms.  In particular, the integer version is really good for learning! 681 Views · 1 Upvote · Answer requested by Abhinav Prince

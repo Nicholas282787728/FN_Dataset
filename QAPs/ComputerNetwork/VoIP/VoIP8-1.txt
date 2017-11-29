@@ -1,0 +1,2 @@
+★What are the best VOIP service providers and what distinguishes them?
+I use iCall carrier services.  They let you control outbound caller-id so I have my landline display the number of my mobile.  Also when I forward calls, this allows the original caller's ID to be "forged" to the receiving device, making for a more natural call transfer.  They also support g711ulaw as the default voice codec which is as good as you can get.  The prices are very reasonable at around $0.01c / min no monthly fee. http://carriers.icall.com/servic...    Embed Quote

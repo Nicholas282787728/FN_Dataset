@@ -1,0 +1,2 @@
+★How does Quora use machine learning?
+Quora recently put up the machine learning challenges it faces, up as an open contest, using real data from it's databases. Have a look to see how Quora might be using Machine learning to solve various kinds of problems to help improve user experience:- https://www.hackerrank.com/conte...    Embed Quote

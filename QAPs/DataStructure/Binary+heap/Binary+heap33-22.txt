@@ -1,0 +1,2 @@
+What are the 10 must-know algorithms and data structures for a software engineer?
+I am sure you will definitely find a good list of 10 algorithms and Data structures anywhere. I am only adding Minimal perfect hashing and Bloom filters, because these requirements for a software engineer++ today. 

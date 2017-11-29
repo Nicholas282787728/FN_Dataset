@@ -1,0 +1,2 @@
+★What is an implementation of gradient descent in Matlab?For a logistic regression, the gradient descent is: / =
+http://www.mathworks.com/matlabc... Check out http://www1.aston.ac.uk/eas/rese... for the full toolbox.    Embed Quote

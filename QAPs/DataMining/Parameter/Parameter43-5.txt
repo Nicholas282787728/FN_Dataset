@@ -1,0 +1,7 @@
+★What is the difference between a "parameter" and an "argument" in C programming language?I have just started learning C and I came across these terms .
+You don't really need to know the difference between them as such. It's really pointless. The CS teacher at school uses crappy terms like "actual parameters" and "formal parameters". The thing is that when you call a function: 1
+ someFunction(x); That x variable that you gave the function is the paramter, and on the other side, 1
+2
+3
+4
+ public void someFunction(int input) {        //bleh } That input variable which someFunction() uses to refer to your input is called the argument. All technical BS really.    Embed Quote

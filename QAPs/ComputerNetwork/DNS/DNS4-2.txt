@@ -1,0 +1,2 @@
+★How are DNS servers optimized?
+BIND is definitely the most popular, but that doesn't mean it's the  best. I'd consider taking a look at DJBDNS, which is really quite quick.  I work with a company, InterWorx who did a post comparing BIND and DJBDNS and found the latter to be the better option. DJBDNS vs. BIND: Why The Internet’s DNS Behemoth Isn’t The Best Choice

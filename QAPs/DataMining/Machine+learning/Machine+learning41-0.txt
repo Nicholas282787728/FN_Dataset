@@ -1,0 +1,2 @@
+★What is the best way to study machine learning?
+Professor Andrew Ng offers an excellent free online course through Coursera. It provides a fairly broad-based, but thorough introduction to the subject. https://www.coursera.org/course/ml Alternatively, see What are the best graduate schools for studying machine learning? Also see this question: How do I learn machine learning?    Embed Quote

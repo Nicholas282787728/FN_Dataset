@@ -1,0 +1,2 @@
+★What problems are expected to arise if we shift from IPv4 to IPv6  completely ?
+IPV4 is not going away for a long time. Dual stack will be the operational mode for the next 10 to 15 years. I could see IPV6 only connectivity for some specific isolated networks but not the Internet. If you were to do so, you biggest issue is application support, hardware support and feature support for all corresponding IPv4 features, interoperability between vendors etc. just like any other technology.

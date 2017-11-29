@@ -1,0 +1,2 @@
+How can we verify that a binary tree is a binary search tree in linear time and constant space?
+I have written a detailed explanation and code at following link Check if a given tree is Binary Search Tree or not Hope this helps. 

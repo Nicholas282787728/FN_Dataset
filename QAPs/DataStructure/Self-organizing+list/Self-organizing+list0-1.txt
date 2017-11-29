@@ -1,0 +1,2 @@
+NovoEd: Can you please list all MOOC providers like Udacity, edX, Coursera, etc?
+We've listed every free online course available in the Open Education Database. It includes not just MOOCs, but OCW and lectures as well. There are more than 10,000 resources! At this time, somewhere in the neighborhood of 400-500 are MOOCs. We update all of the MOOC providers bi-weekly with the latest courses. Jessica Merritt OEDb.org 

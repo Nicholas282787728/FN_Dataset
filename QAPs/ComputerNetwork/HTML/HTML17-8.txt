@@ -1,0 +1,2 @@
+★Is a web browser just an HTML interpreter?
+It does that in addition to rendering JavaScript, SVG, XML, and others.

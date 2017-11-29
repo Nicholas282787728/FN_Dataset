@@ -1,0 +1,2 @@
+How does Python compare to C#?In terms of performance, ease of use, syntax, libraries etc.
+Python is much better cross-platform wise. C# is a great language, but the problem is the framework which is pretty much tied to Windows. Python wins by far in ease of use/syntax; because I think Python has the ideal syntax of a programming language. Forced indentation makes it easier to read. 

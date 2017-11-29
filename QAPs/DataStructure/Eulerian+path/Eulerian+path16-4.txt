@@ -1,0 +1,1 @@
+What are some good resources for learning about computational genomics? Why?This is a follow-up on What are some good papers on high-throughput sequencing?

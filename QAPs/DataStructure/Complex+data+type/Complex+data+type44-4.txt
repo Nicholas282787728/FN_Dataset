@@ -1,0 +1,2 @@
+How does a computer distinguish a number and a letter or a string? I mean, let's say we have a bit sequence like 11110100 in anywhere in the memory. How does a computer know if it is a number or a string or a letter?
+No. You can write code that sums two letters, obviously it will return garbage. When you write a program you have to keep track of what type of data is at what memory address and how many bytes large is it. While writing assembly, the programmer needs to do that manually, but in higher level languages, this job is handed over to the compiler. 

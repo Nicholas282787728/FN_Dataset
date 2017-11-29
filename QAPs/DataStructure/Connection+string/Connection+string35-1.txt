@@ -1,0 +1,2 @@
+How do I create a data-source connection in dashboard designer (Share-point 2013) with an SQL server analysis service cube?What is the proper format of writing connection string and what permission need to be set for SSAS cube? I used the following format of connection string   "Data Source=(server name where data-warehouse is created); initial catalog=(database for data-warehouse name);cube=(cube name -created in SSAS)" but the cube option is never populated,which prevents connection to proceed further.
+Try here Forgot that connection string? Get it here! 

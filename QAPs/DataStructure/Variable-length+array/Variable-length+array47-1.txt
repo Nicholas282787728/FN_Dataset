@@ -1,0 +1,2 @@
+Why do only character arrays end with a null character? Why not integer arrays?
+Thanks for A2A. C expects the programmers to be smart while using pointers and arrays.  The compiler does not check for ' index out of bounds ', It's the programmer's job to keep track of the array size. As strings are used extensively in programs so a convention of denoting the end of strings with the null characters was adopted in C libraries to avoid passing array size. It eventually became a norm and is used by everyone. 

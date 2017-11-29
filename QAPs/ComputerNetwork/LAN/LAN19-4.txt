@@ -1,0 +1,50 @@
+★How do I make a chat messenger (that uses LAN or Google API)?I am a third year civil engineering student with interest in Computer Science.I have my placements next month and am preparing for an IT job. I am interested in making a chat messenger over LAN or Google API. I have decent knowledge of C++,C and data structures and algorithms.What all subjects are prerequisite for making that app a reality.
+Firstly , as you are getting started with this I would suggest you start by making a simple chat program in Java/C# using Socket programming. So you might want to try it using two different protocols : TCP and UDP. Google it if you don't know what it is. Here is a sample code: TCP Client Code:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+ import java.io.*; import Welcome | Java.net.*; import java.util.*; class tclient { public static void main(String args[])throws IOException { Socket s=new Socket("localhost",2000); Scanner sc=new Scanner(System Resources and Information. This website is for sale!); while(true) { System.out.println("enter data:"); String str=sc.next(); DataOutputStream ots=new DataOutputStream(s.getOutputStream()); BufferedReader ifs=new BufferedReader(new InputStreamReader(s.getInputStream())); ots.writeBytes(str +"\n"); System.out.println("from server:" +ifs.readLine()); } } } TCP Server Code:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+ import java.io.*; import java.net.*; import java.util.*; class tserver { 	public static void main(String args[])throws IOException 	{ 		ServerSocket ss=new ServerSocket(2000); 		Socket s=ss.accept(); 		Scanner sc=new Scanner(System.in); 		while(true) 		{ 			//System.out.println("enter data:"); 			//String str=sc.next(); 			DataOutputStream otc=new DataOutputStream(s.getOutputStream()); 			BufferedReader ifc=new BufferedReader(new InputStreamReader(s.getInputStream())); 			String msg=ifc.readLine(); 			//System.out.println("from client:" +msg); 			otc.writeBytes(msg.toUpperCase() +"\n"); 		} 	} }   Making a chat client in Java is simple and good enough to give you an idea of how things work. This covers the chat client that works on LAN. ----------------------------------------------------------------------------------------------------------------- Now, for making a more advanced version of a chat app you will need to learn about the XMPP protocol. Once you have basic knowledge about xmpp and then head on to these links: http://xmpp.org/xmpp-software/cl... http://xmpp.org/xmpp-software/se... These links provide the softwares that will help you run your own xmpp services. ----------------------------------------------------------------------------------------------------------------- You can also try making your version of facebook messenger client for your PC. I found this video on YouTube which teaches you how to do that. ------------------------------------------------------------------------------------------------------------------- I hope this helps you get started. Thanks for the A2A!   Good Luck. :)    Embed Quote

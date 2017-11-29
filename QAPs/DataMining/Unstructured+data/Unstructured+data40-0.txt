@@ -1,0 +1,2 @@
+★How do I get unstructured data into HDFS?
+You may use SQOOP, HIVE to get the unstructured data into HDFS.    Embed Quote

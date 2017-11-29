@@ -1,0 +1,2 @@
+A bubble sort, a sorting algorithm that continuously steps through a list, swapping items until they appear in the correct order.
+A Shell sort, different from bubble sort in that it moves elements to numerous swapping positions.

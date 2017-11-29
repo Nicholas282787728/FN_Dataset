@@ -1,0 +1,2 @@
+What is the difference between a complete graph and a dense graph?
+A complete graph is a graph where each vertex has edges connect it to all other vertices. I.e the graph has the maximum number of edges. Ex: A graph where the number of edges are close to this maximum number, is a dense graph. 

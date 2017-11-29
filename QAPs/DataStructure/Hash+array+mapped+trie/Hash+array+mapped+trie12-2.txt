@@ -1,0 +1,2 @@
+What are some concepts/algorithms/data structures that every computer science student should know?I can think of some of the top of my head (hashing/hash tables, quicksort, database normalization, recursion, binary search trees) but I was hoping for a more exhaustive list.
+Matthew Might had written a great article that answers your question What every computer science major should know 

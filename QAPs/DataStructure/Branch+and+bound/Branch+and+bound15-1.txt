@@ -1,0 +1,2 @@
+Does naive linear search work better than branch-and-bound and space partitioning algorithms in Nearest Neighbor Search?I have heard about linear search generally performing better when the search space dimensionality is high. But is it always true?
+Yes, it's the curse of dimensionality. In general spatial indexes degrades to linear search as the number of dimensions grow. LSH is a good way to aproximate the nearest neighbor search problem in sub-linear time. 

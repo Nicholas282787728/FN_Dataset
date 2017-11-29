@@ -1,0 +1,2 @@
+If you had a million points in 2D, how would you effectively calculate the distance from a point to every other point?
+Possibly a complement to the excellent Dale Thomas' answer: it's possible the problem you're trying to solve can be satisfied with the distance to the baricenter of all points. That would give you 1M*2 time instead of 1M^2. 

@@ -1,0 +1,2 @@
+How is F# going at the moment? Is there any application built with F#?
+I'm not aware of many companies utilizing F# for their core product besides Jet.com. There are a few repos on their GitHub: Jet.com There is also a pretty interesting Podcast from The F# Show featuring Rachel Reese. She recently joined Jet.com and working in their F# codebase. You can find it here: Jet - Using F# to Revolutionize Ecommerce 

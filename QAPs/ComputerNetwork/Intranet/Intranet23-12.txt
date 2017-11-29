@@ -1,0 +1,2 @@
+★Community Management: Is there a self serve, inexpensive, solution like Jive's Social Intranet?
+Take a look at Stackfield! (Social Intranet for enterprises) It's really easy to use and has a nice interface. You can create different workspaces, which can be adapted to your personal needs through different apps, like real-time chat, task management, file-sharing and scheduling. Additionally all relevant data is end-to-end encrypted. The basic version is free of charge.

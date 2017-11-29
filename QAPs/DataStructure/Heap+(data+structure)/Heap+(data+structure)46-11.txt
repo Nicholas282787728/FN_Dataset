@@ -1,0 +1,2 @@
+How can one be well prepared to answer data structure/algorithm questions in interviews?
+I will suggest you the following approach :- You need to follow a very organized and disciplined approach If you are  preparing for the Software Engineering Job at Facebook/ Google/ Amazon/Microsoft etc. (Example: You may use following approach, for a two months plan - around 250 hours) ... (more)

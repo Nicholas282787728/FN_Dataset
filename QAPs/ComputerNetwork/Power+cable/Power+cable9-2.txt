@@ -1,0 +1,2 @@
+★Will a USB power cable attached to my motorcycle battery constantly draw power and kill my battery?
+For the record.. I installed a USB adapter on my bike, it had a small LED power light that was always on when the bike was on which I think may have been the problem.. If I let the bike sit fo more than approx 72 hours it killed the battery so I got rid of it.  I later purchased another one and modified it myself, soldered a kill switch toggle in the middle of the cable so I only turn it on when I need it.  This one has not caused any problem.    Embed Quote

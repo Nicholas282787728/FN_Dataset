@@ -1,0 +1,2 @@
+What are the main full web business intelligence solutions?
+I recently drafted an article with top business inteligence solutions in the cloud and their main characteristics. The top providers I believe deserve a close attention are: IBM Cognos, Birst, Indicee, GoodData, SAP BI OnDemand and Pivot Link. I recommend reading further to find out the main benefits for each one of the solutions mentioned above: Top 5 Business Intelligence Solutions in the Cloud    Embed Quote 

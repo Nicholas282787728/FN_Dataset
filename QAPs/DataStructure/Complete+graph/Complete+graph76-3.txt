@@ -1,0 +1,1 @@
+Is there such a triangle whose vertices are on the regular hexagon (the point with label nearby) that all its edges are in the same colour?

@@ -1,0 +1,2 @@
+★What is the difference between predictive analytics and descriptive analytics?
+Descriptive is to Predictive as Accounting is to Economics. Seriously though, the main difference is that Predictive is centered around statistical models allowing prediction of future outcomes and is concerned about confidence in such predictions. While Descriptive is centered around data presentation, slicing&dicing, management oversight. You might say that Descriptive is to tell what is, while Predictive is to answer what if.    Embed Quote

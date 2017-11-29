@@ -1,0 +1,2 @@
+★Is a MAC address conflict possible?If so, what are the possible problems it brings and the solution?
+Yup, Dell did it. Rotated 5 MAC numbers on the motherboard nics. Pissed of a lot of Sytem Admins, because we would never think that a manufacturer could be so stupid. The problem is that it will crash a network. No switch will handle that error that I know of.    Embed Quote

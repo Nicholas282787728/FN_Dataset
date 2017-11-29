@@ -1,0 +1,2 @@
+★What is the maximum potential Internet connection bandwidth?Is fiber optic the best technology to get there?
+As of right now, you can probably get 100Gb Ethernet.  If you want more, and can afford it, you probably can get your own dark fiber and run DWDM.  Yes, fiber is the only way of getting there.

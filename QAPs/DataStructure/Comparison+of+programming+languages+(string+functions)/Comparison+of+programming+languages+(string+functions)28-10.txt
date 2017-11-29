@@ -1,0 +1,2 @@
+What can be done with Ruby or Python that just can't be done with PHP?
+In the past I've had trouble doing multi-threaded work and even simple things like forking with PHP.  These were non issues in Python. 

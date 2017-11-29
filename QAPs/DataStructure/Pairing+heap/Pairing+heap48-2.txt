@@ -1,0 +1,2 @@
+How do I use dijkstra's algorithm in competitive programming?
+Unfortunately you can use dijkstra's algorithm in competitive coding . But you have to use in clever way so that time doesn't out . You can to do it in  less than O(v^2)  .As mention in Dijkstra's algorithm you have to  use Heap  data structure . Use adjacency List instead of Matrix to prepare data . 

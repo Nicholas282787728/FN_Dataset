@@ -1,0 +1,2 @@
+Which best IDE for c++ for windows code block or visual c++ 2015?
+I personally using CODE::BLOCKS for around 6 months from now and am fully satisfied. It provides a a lot of extensible features plus It's easy to create files and FLTK projects also easy to modify. However, If you are planning for C then I suggest you use Dev C++. On the other hand if you are considering for development for windows products then use VS15. Otherwise it will be better to consider CB. 

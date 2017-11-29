@@ -1,0 +1,2 @@
+What is the coolest data structure?Which one makes you say, "Wow! That's cool!"? What makes it so cool? What are some applications?
+Graphs. Definitely. I just love how it was originally thought of by Euler to solve the Seven Bridges of Königsberg problem and is now used to model a wide variety of problems. 

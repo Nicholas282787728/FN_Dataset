@@ -1,0 +1,2 @@
+★How does Facebook deal with DDoS attacks?
+This kind of information is generally not released to the general public. However, there are some devices developed by the network industry that allow service providers and ISP to absorb DDoS and at the same time to localize the source and counter-attack.

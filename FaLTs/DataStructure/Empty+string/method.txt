@@ -1,0 +1,1 @@
+There are many well-known methods by which an array can be sorted. Some of them are selection sort, bubble sort, insertion sort, merge sort, quicksort, heapsort, and counting sort.[citation needed] These sorting techniques have different algorithms. Hence there are different advantages of each method.

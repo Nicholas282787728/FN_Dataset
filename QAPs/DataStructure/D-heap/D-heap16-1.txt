@@ -1,0 +1,2 @@
+Does anyone deal with such problems as setting -Xmx argument in Java more than 40 gb?I think that this does not work for me, because after exceeding 10 gb, it throws Java Heap Space exception?
+How much physical RAM do you have? How much large is your swap file? What kind of JVM are you using? Unless you have a JVM that has a garbage collector like that used by the Azul JVM, you are unlikely to get reasonable pause times from a 40GB JVM. 

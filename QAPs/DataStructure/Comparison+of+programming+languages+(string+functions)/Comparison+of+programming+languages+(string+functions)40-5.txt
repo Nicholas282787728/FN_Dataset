@@ -1,0 +1,2 @@
+How do I find the first non repeated character of a given string?
+char find_first_not_repeated(const std::string& s) { std::set<char> t; for(size_t i = 0; i < s.size(); ++i) { if(t.count(s[i])) continue; size_t pos = s.find_first_of(s[i], i + 1); if(pos == std::string::npos) { return s[i]; } t.insert(s[i]); } return 0; } 

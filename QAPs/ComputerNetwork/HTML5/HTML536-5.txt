@@ -1,0 +1,2 @@
+★Why is HTML5 worth all the hype?
+1. It's not driven by a company. (W3C behind it) 2. It's a good step towards Semantic Web 3. It's not much consuming your battery when compared to Flash. 4. You don't have to hire a Flash programmer 5. There is no need to rewrite your site for mobile versions when compared to Flash.

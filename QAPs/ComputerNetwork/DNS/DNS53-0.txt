@@ -1,0 +1,2 @@
+★What are some common DNS errors?
+One very common mistake is to write an FQDN for a CNAME and forget the dot at the end. Eg : In the zone foobar.com panda IN CNAME john.example.com This in fact will be recorded as john.example.com.foobar.com It should be panda IN CNAME john.example.com. With a dot at the end. This is of course because what you should put in a zone file is something like: panda IN CNAME john Which will be recorded as panda.foobar.com and john.foobar.com

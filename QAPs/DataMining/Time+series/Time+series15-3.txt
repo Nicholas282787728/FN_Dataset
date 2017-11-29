@@ -1,0 +1,2 @@
+★Which distributed databases work best for storing time series?Mostly financial quote data. Preferably open source.
+You may want to have a look at SciDB [1] [1] http://www.scidb.org/    Embed Quote

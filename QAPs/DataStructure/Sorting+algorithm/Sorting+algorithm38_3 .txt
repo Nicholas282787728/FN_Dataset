@@ -1,0 +1,1 @@
+Is there any sorting algorithm with time complexity less than n*logn?Yes counting sort and Radix sort have time complexity of o(n). If element are in almost sorted order insertion sort have complexity near o(n) 

@@ -1,0 +1,2 @@
+What is a good way to learn about Bayesian methods?
+After looking around for a while I found the following course from Udacity to be very useful Intro to Statistics For someone who is out of touch with Stats this can be a useful refresher and can act as a stepping stone towards more advance data science concepts.    Embed Quote 

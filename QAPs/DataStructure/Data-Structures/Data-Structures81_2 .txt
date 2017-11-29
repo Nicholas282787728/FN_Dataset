@@ -1,0 +1,1 @@
+Which data structure could I use to store 3D (voxel) images in Pandas or NumPy?I think that DataFrame.to_panel() does not support 3-dimensional indexing. If Pandas is unable to accomodate, NumPy suggestions will also do..I believe this is precisely in pandas’ Panel data type. Check out their reference documentation. 22 Views

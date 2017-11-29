@@ -1,0 +1,2 @@
+How might we transform a quadratic curve into a straight-line graph?
+Quadratic function is a second degree function. You cannot transform it to a linear function. That's what I know until now, if my memory serves me correctly. 346 Views

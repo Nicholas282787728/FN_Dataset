@@ -1,0 +1,2 @@
+★Why is Parse so unstable lately?
+The stability of Parse has been a thorn in my side since I started using it for a project, and now I'm kind of stuck with it.  I think it's because they're concentrating on new features more than the stability of the underlying server and data architecture.  Maybe they have to in order to gain the user base they are gaining.    Embed Quote

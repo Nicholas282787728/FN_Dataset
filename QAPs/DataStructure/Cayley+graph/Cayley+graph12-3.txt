@@ -1,0 +1,1 @@
+What are some papers demonstrating the use of representation theory in computer science?Papers in any sub-field would be interesting, but of particular interest are those in machine learning.

@@ -1,0 +1,2 @@
+What are the best machine learning packages in R?
+CRAN - Package caret - made for Machine Learning The caret package, short for classification and regression training, contains numerous tools for developing predictive models using the rich set of models available in R. The package focuses on simplifying model training and tuning across a wide variety of modeling techniques. It also includes methods for pre-processing training data, calculating variable importance, and model visualizations. 

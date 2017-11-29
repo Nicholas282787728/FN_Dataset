@@ -1,0 +1,2 @@
+Is 0  one of the answers of x x  √  =x  √  x   ?
+No. This is because 0^0 is undefined. You can think of it like this: x^0 where x is not equal to 0 is x^n/x^n =1. However, when x=0 this leads to an expression 0/0 which is undefined. One solution to the above equation is x=1. 

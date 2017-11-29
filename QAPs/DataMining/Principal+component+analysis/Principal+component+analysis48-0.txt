@@ -1,0 +1,2 @@
+★Is it correct to use Principal Component Analysis (PCA) on a set of random images, or is it a method only to be used for face recognition?
+PCA assumes that your data is gaussian distributed(thus can be represented via 2 parameters--mean and cov. matrix) If you believe that it is reasonable to assume that your data is iid gaussian, then you can expect PCA to be effective.    Embed Quote

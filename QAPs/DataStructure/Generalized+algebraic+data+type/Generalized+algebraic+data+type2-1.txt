@@ -1,0 +1,1 @@
+Haskell (programming language): What are generalized algebraic datatypes (GADTs)?GADTs are a generalization of ADTs (ha ha ha). Probably the simplest explanation, which doesn't capture why they're so useful, is that regular ADTs constructors are all of the typeWhereas a GADT allows constructors to vary in their types.

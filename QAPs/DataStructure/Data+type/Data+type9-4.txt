@@ -1,0 +1,2 @@
+What is void data type?
+Void is not exactly a data type, but when you define any function as a void it means that the function returns nothing/no value , to the function calling it (using it). When you don’t specify any return type of a function then by default it is consider as void. Void means nothing, no value. 337 Views · 2 Upvotes

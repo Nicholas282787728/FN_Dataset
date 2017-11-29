@@ -1,0 +1,2 @@
+What is a breadth first search?
+Imagine a tree.  It starts from a single root node, then each node has two children.  Each node has a number written on it.  Now, I ask, which node has the number 57 on it?  In breadth-first search, you check the root, then the children, then the grandchildren, and so on.  At each depth, you search all siblings.  In depth-first search, you search the first child, then its first child, and so on down the edge of the tree structure until you can't go any deeper, and only then do you start checking siblings. 

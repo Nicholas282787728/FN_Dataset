@@ -1,0 +1,1 @@
+How do you solve the square puzzle?As you can see, you can draw a line from A to B, also a circle, so many figures like for the rectangle starting from point A in one stroke without cut (lift the pen) or repeat the line twice, well the square with a cross, I challenged everyone to do it but yet failed... I really like to know if it can be solved

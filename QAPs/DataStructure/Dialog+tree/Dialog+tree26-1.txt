@@ -1,0 +1,2 @@
+How can I apply a custom style sheet to a 3rd-party site after making changes using Chrome's Inspect element feature?
+You will need to use an extension in chrome to achieve this for a specific web page, like Change Colors. 

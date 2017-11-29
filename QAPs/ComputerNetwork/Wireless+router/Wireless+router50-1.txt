@@ -1,0 +1,2 @@
+★How do I get a better signal from my wireless router?
+Wireless Repeaters are the least good option. (They exacerbate spectrum saturation and cut wireless network speed by more than half.) Try Powerline Networking first. See Extend Wi-Fi Coverage.    Embed Quote

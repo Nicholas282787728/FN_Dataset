@@ -1,0 +1,2 @@
+If mathematics is an exact science, why are there assumptions?
+In most cases, one can never have all the data required to give an exact answer to any question. It is practically impossible at this moment (although advances in technology may one day make this possible). Therefore, we use a set of assumptions while answering any problem to create boundary conditions. These are conditions under which mathematics can be used to find the exact answer to the problem, specific to these conditions.    Embed Quote 

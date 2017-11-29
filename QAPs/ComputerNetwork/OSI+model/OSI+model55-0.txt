@@ -1,0 +1,2 @@
+★In which layer of the OSI model does flow control in data communications happen?
+It can happen at every layer except 1. But the one you are looking for is probably layer 4. When a packet is dropped, TCP lowers the window size.    Embed Quote

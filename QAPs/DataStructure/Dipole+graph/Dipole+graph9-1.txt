@@ -1,0 +1,2 @@
+Can someone tell me about the important derivations in electrostatics and current electricity for class 12 board in physics? How can I master electrostatics?
+Gauss Law just cram it. Every year a question is there in boards about it( study the graph of it too). Derivations from Capacitor, all 3 about Parallel plate capacitor are important mainly for school exams. All derivations related to dipole are important from both school and board point of view. 

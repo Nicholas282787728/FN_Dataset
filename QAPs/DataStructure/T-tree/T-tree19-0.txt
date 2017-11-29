@@ -1,0 +1,2 @@
+Can you solve this simple mathematical puzzle?
+Let no of trees by x, no of horses be y. From the first condition y = x + 3 From the second condition  x = y/2 + 2 or 2x = y +4 Solving both equations gives us x = 7, y =10. 

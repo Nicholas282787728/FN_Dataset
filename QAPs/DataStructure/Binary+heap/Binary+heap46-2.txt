@@ -1,0 +1,1 @@
+If you had a max heap with n elements and want to get the K largest elements without popping and rebalancing, how would you do it?

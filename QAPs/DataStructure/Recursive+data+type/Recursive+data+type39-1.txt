@@ -1,0 +1,2 @@
+What is the most common mistake using pointers in C?
+The two most common mistakes I have seen are - illegal dereference such as a null or wild pointer. And forgetting to explicitly free an allocated address. Whereas the former can cause an immediate crash with a SEGFAULT, the latter is more of s ticking time bomb situation and depending on your program's footprint, will crash as soon as heap runs out. 

@@ -1,0 +1,1 @@
+Difference between binary search tree and red black tree?A "Red-Black Tree" is a "self-balancing" "Binary Search Tree", with each node marked with a color (either Red or Black) and has additional operations defined on it to maintain "balance" All "Red-Black Tree"s are "Binary Search Tree"s, but All "Binary Search Tree"s are not "Red-Black Tree"s 

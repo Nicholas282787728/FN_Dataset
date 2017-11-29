@@ -1,0 +1,2 @@
+★What is the advantage in using a least square regression in relation to a simple linear regression?
+Usually one assume nature of resulting curve (e.g. line, parabola) Over the curve least square method is applied. If you assume underlying curve as line, then its linear regression.    Embed Quote

@@ -1,0 +1,2 @@
+★What 2D and 3D animation software do animation professionals use for IPTV that also publishes to html5?
+Its not the software for animation that publishes to html5, its the final output codec, that has to be compatible. Animation software renders (creates) the  images, but the compression is handled by separate, independent programs which it supports. HTML5 can display several video codecs, but the most used is the h264 (mp4) format.

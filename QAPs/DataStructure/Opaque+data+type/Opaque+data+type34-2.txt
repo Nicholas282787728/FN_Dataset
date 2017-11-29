@@ -1,0 +1,2 @@
+Is it necessary for a machine learning guy to know all kinds of learning models and algorithms?
+Some problems are easy to solve with one kind of machine learning algorithm, some with another.  The more techniques you know, the wider the range of problems you can solve.  There is no universal learning algorithm for computers, and there is not likely to be one until computers can invent their own. 

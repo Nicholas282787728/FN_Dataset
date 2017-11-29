@@ -1,0 +1,2 @@
+★Is time series an important topic to know for a data scientist?
+It is, considering the fact that time series are ubiquitous and the iid assumptions made in most learning algorithms don't apply to them. Understanding graph/network theory especially from a statistical viewpoint is just as important for a practicing data scientist as time series, and for similar reasons.    Embed Quote

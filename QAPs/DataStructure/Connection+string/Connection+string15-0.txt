@@ -1,0 +1,2 @@
+What is the tension on a string in two blocks connected by the string if the force on one block is f (horizontally)?
+Assuming force is applied in opposite direction of second block, Tension in string is f. This force will act on second block, and pull it in direction of force. If force is in direction of second block,tension is zero. 

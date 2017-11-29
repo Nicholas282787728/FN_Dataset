@@ -1,0 +1,2 @@
+What is the difference between primary key and unique key in MySQL?
+Primary key cannot take value "0" , whereas unique key can take value "0". Other properties are all same. 

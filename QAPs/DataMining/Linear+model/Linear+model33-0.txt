@@ -1,0 +1,2 @@
+★What are the coefficients or estimates that we need to find in a generalized linear model? In a linear model, we look for the coefficients of the linear equation but what about GLM?
+It's still estimates of a linear equation, it's just not linear in the dependent variable. E.g. in logistic regression the equation is linear in the logit of the dependent variable.    Embed Quote

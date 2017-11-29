@@ -1,0 +1,2 @@
+How can I compute the average of a large array of integers without running into overflow?
+Most programming languages now have BigNumber or BigInteger data types that you can use. In the bad old days to do extremely large precision operations, we use to treat these numbers as strings and manually perform addition character by character. It was bloody but got the job done. 

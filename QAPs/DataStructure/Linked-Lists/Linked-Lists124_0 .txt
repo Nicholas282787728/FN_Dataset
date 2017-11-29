@@ -1,0 +1,1 @@
+How can you reverse a linked list in C++?In C++, you simply call the reverse() member function: http://en.cppreference.com/w/cpp... 329 Views  View Upvotes

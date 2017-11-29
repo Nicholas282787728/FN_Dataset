@@ -1,0 +1,2 @@
+What is an example of a problem that can be solved with matrices but at first glance does not appear to have any relation to matrices?
+Apparently Paul Dirac was very surprised when those little 4x4 matrices were needed in his derivation of the relativistic wave equation [math]\beta[/math] and [math]\alpha_x[/math] are 4x4 matrices here. The Wikipedia entry for the Dirac equation has a good description, and some juicy historical notes. 

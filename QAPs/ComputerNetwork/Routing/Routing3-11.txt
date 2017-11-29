@@ -1,0 +1,2 @@
+★What is the difference between switching and routing?
+Switches help creating networks, while routers are used to connect these networks to the internet. You can connect individual devices like PCs, printers etc. to the switches, so that the data packets are sent and received from the appropriate device. Routers compute the shortest path for the information to flow over the internet. More precisely routers act as dispatchers of the packets over the internet.    Embed Quote

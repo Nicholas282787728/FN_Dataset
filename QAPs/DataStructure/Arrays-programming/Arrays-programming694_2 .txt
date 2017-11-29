@@ -1,0 +1,1 @@
+If arrays are objects in Java, from which class do they belong to?Arrays belong to Object. Which are a part of java collections framework. 112 Views  View Upvotes

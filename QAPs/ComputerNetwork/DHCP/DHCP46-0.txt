@@ -1,0 +1,2 @@
+★How do you setup a separate DHCP scope for phones only on the Windows based server?
+This would be accomplished by either using strictly DHCP reservation or if your network supports it another vLAN that only phones connect to.

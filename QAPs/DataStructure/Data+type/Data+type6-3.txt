@@ -1,0 +1,2 @@
+What are user-defined data types?
+User defined data types are usually defined by the user. Here the compiler doesn't know the functionality. The programmer writes his own logic using his own functions which are user defined data types . For example :add(),swap(),read(),write(),typedef(),calculate() etc..... 575 Views · 2 Upvotes

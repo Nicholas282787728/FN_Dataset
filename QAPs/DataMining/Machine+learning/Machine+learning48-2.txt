@@ -1,0 +1,2 @@
+★Is machine learning a dead end for startups?
+This reminds me of the apocryphal story of the patent examiner who declared in 1900 that all conceivable inventions had already been made.  Even Michael Burrows' great answer just generates another use of machine learning:  predicting which of his $10 robot's parts will fail next.  In turn another use of machine learning is to optimize the supply chain for delivery of the spare part.  Turtles all the way down...    Embed Quote

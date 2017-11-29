@@ -1,0 +1,2 @@
+★What are some good resources for learning about Hidden Markov Models?
+Prof. Michael Collins' lecture notes: http://www.cs.columbia.edu/~mcol... This is a very nice introduction to Hidden Markov models and the intuition behind having to decode a HMM.    Embed Quote

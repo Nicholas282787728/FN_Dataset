@@ -1,0 +1,2 @@
+★Which A/B testing tools can be used on a Sharepoint Intranet?Are there A/B or multi variant testing tools that can be used behind the firewall on data driven Sharepoint pages?
+I just ran a quick experiment to see verify that Google Website Optimizer works on Sharepoint, and as I expected, it does.  I'd start with GWO first before considering the other commercial options.

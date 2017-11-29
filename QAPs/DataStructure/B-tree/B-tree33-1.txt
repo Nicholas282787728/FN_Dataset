@@ -1,0 +1,2 @@
+What is the advantages for "B+ tree" over "ISAM" in DBMS?
+In B+ Trees all records are stored only in the leaf node and are sorted sequential linked list, searching is becomes very easy. Since it is a balance tree structure, any insert/ delete/ update does not affect the performance. Using B+, we can retrieve range retrieval or partial retrieval. 283 Views · 1 Upvote

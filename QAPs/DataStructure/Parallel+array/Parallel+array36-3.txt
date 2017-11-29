@@ -1,0 +1,2 @@
+Where is Haskell used in industry today (2015)?
+Haskell in industry has most of the companies using haskell in industry.  Some start-ups are also using haskell too, but since they're not so famous, so they may be not noticed by the most of the people. 

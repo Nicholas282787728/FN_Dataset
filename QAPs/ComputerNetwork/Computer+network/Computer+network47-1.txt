@@ -1,0 +1,2 @@
+★What is the difference between host and server in terms of computer networking?
+A host is a computer or other device connected to a computer network. A host can be a client or a server.

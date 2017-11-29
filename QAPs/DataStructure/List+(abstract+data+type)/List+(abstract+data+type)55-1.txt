@@ -1,0 +1,2 @@
+What useful features of Standard ML don't have an equivalent in Python?
+"Real" anonymous functions. Python allows single expressions to be passed anonymously as functions with the lambda keyword, but these are single expressions and not fully functional functions. See More Control Flow Tools. Python also doesn't have a sane name for the anonymous functions it does have. As much of a purist's language Standard ML is, its actual keywords are never in Greek, regardless of how they're sometimes pronounced in the academic world. 

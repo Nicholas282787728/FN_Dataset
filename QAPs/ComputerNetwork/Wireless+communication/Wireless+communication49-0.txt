@@ -1,0 +1,2 @@
+★What are the differences between satellite-based and terrestrial wireless communications?
+I'm going to defer to the venerable Rear Admiral Grace Hopper who has an uncanny ability to make this very plain: Simply put, there are more nanoseconds between us and satellites. You can extrapolate from there the issues with timeouts, error checking, and some of the other issues that communicating via satellite faces as opposed to communicating with a near by cell tower, simply because of the distance involved.    Embed Quote

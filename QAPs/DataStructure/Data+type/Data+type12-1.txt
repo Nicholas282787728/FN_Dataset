@@ -1,0 +1,2 @@
+Which data type is better either float or double in c++?
+Although double allows for higher precision in its representation, for certain calculations it would produce larger errors. The "right" choice is: use as much precision as you need but not more and choose the right algorithm. For more detailed information, refer A P P E N D I X D 94 Views

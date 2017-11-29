@@ -1,0 +1,2 @@
+What is an intuitive explanation of insertion into an AVL tree?
+1. Insert the given key in the AVL tree similar to BST insertion. 2. Update height of the current node. 3. If the tree balancing is disturbed, then apply suitable rotation to change the tree back to balanced state. Checkout these posts for intuitive explanation on how balancing is done. AVL tree | Basics AVL tree | Insertion AVL tree | Deletion The explanation given here with diagrams makes it easier to understand. 

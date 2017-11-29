@@ -1,0 +1,2 @@
+As a starting Python programmer I see a lot of praise for the Python language (and so far I can only agree). Isn't there anything bad to say about it? What is a real con?
+Python is a great choice for different purposes. But you always should remember its features that makes it useless in some ways. - GIL. So you can't enjoy all advantages of multithreading. - Python Memory Management. In a few words: in some cases your python application doesn't return memory to OS. 

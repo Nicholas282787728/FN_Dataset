@@ -1,0 +1,2 @@
+★How do I get started in HR predictive analytics?
+Predictive analytics means you use past data to make decision that impacts the future outcome. So what is the decision you are trying to make and what future outcome do you want?  Is this for recruiting? Employee evaluation? Employee turnover? You need to define the problem in an appropriate way, then find appropriate data to model the problem. Not sure which of the variables in your sample data will be useful without knowing the problem to solve.    Embed Quote

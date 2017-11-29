@@ -1,0 +1,2 @@
+What tools are out there to measure the effectiveness of my campaign landing page?
+You can setup a Event trackers on Google Analytics  to measure the conversion rate, tools which have some out of the box features to measure are https://www.optimizely.com/ and http://www.crazyegg.com/ More about Google Event Tracking - Web Tracking (ga.js) Best, 

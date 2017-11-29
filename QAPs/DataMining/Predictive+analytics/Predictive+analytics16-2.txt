@@ -1,0 +1,2 @@
+★What are some of the best blogs/resources for Business Intelligence and Predictive Analytics software?
+Two words: "Occam's Razor". http://www.kaushik.net/avinash/ Avinash Kaushik has been writing about BI for many years now and his blog continues to this day to be the de facto, free resource on all things "data analytics" (including but not limited to BI).    Embed Quote

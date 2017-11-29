@@ -1,0 +1,2 @@
+What is the most recommended coding language for creating full blown human AI?
+That's like asking what color you should paint a cold fusion reactor. It doesn't matter because we have no idea how to build one. We have no idea how to replicate human intelligence.   All programming languages are "isomorphic to the lambda calculus" (the same in essence.) We cannot construct a mind - or facsimile thereof - in any of them. 

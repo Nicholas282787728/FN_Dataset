@@ -1,0 +1,1 @@
+What is the integrity constraint in relational databases?Or a contraint in general? What types of constraints are there in relational databases?

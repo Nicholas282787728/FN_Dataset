@@ -1,0 +1,1 @@
+What are the possible applications of a Javascript based linked list in either backend or the frontend code?Image iteration. Left click and right click can load different images and one image could be linked to another image by means of linked list. 61 Views  View Upvotes

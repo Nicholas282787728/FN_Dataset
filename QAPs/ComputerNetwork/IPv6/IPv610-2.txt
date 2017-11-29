@@ -1,0 +1,2 @@
+★Does the Xbox 360 support IPv6?I've been looking into getting into a Comcast IPv6 trial, but if my 360 doesn't support IPv6, it can take some tinkering for it to work. Microsoft hasn't responded emails or tweets about this question.
+Just bought an Xbox 360 Slim and I can confirm that it does NOT support IPv6. It does request an IPv4 lease from my DHCPv4 server but no requests are being done towards my managed stateful DHCPv6 server by the Xbox.    Embed Quote

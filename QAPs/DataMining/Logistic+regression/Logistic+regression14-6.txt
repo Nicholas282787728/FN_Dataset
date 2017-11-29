@@ -1,0 +1,2 @@
+★What's the relationship between linear and logistic regression?What are the similarities and differences?
+Logistic regression is simply a non-linear transform of the linear regression equation, so that the final output of the equation corresponds to probability between 0 and 1.    Embed Quote

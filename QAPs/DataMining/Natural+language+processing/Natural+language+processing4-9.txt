@@ -1,0 +1,2 @@
+★What programming languages are suitable for natural language processing?
+Everything Joseph Misiti said, good post. The main advantage of Python is the vast and diverse community; Python basically inherited the world from Perl and has extended its dominion on all sides. I would add that Python can derive great power from Prolog (eg NLP, search). Google "Python Prolog" to get a glimpse of what's going on.  Prolog's benefits can be reaped without learning/using a lot of techniques, structures, or algorithms. It's as simple and declarative as you can get.    Embed Quote

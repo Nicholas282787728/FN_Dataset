@@ -1,0 +1,2 @@
+★What is the best internal knowledge management solution?Hi, I'm seeking advice on different knowledge management systems for a contact centre. It needs to be able to be searched by client, and have the ability for agents to add questions to be answered and add more knowledge. Cloud solution would be ideal?
+there is a number of cloud solutions that would do the job very well. it comes down to specific requirements that your organization has. I would setup a evaluation matrix and go with the one that fulfills all or most of your criteria.    Embed Quote

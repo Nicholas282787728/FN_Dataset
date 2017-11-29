@@ -1,0 +1,2 @@
+★What else is a finite state machine used for except language parsing?
+Communication protocols, definitely.  It's practically impossible to verify that any non-trivial protocol is correct without enumerating the states and accounting for request/response/failure at each one. Hardware designers also use FSMs very extensively where we software types might use other kinds of decision/looping structures, because they map well to the physical building blocks.

@@ -1,0 +1,2 @@
+★Is Survey Monkey a recommended tool for market research? Why?
+It's not terrible as a survey tool. However, the name is bit of a credibility killer. Other decent entry-level survey systems are QuestionPro and SurveyGizmo. Verint, Confirmit and Qualtrics offer a lot more functionality. But having said all of that, the hard thing is writing the survey. Even the best survey system in the world can't save a poorly written survey.    Embed Quote

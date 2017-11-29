@@ -1,0 +1,2 @@
+★Is IPv4 address saturation still a crisis situation?
+I'd largely agree with Tony Li.  The term "crisis" is stronger than I'd characterize things in the US and most of the world.  Having said that it is already getting difficult for some providers to get additional IP space from either ARIN or from their upstream backbone provider.  I expect that we will see more Carrier-grade NAT this year and that's going to move us toward a dual stack world and eventually most of the content on the v6 side of things.

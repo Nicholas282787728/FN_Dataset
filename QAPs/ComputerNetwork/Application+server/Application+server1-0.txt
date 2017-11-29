@@ -1,0 +1,2 @@
+★What is the best .NET Application Server Monitoring Tool?Looking for something of similar capability as Fusion Reactor (http://www.fusion-reactor.com/fr/) with the ability to see what is literally happening inside the CLR / runtime.
+Check out RPM from NewRelic.  I've used them for Java and now with ASP.NET .. does a pretty good job of digging into slow methods, etc.  Cant comment on how it compares to FusionReactor as I have never used that tool. http://newrelic.com/

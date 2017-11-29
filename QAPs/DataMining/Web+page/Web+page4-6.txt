@@ -1,0 +1,2 @@
+★What is the difference between a PHP and HTML Web page?
+html is static: Make a Website with Html php is dynamic: Php Scripting    Embed Quote

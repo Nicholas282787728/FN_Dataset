@@ -1,0 +1,2 @@
+What is your favorite video lecture series on Algorithms and Data Structures?
+Best video series link for Data Structures and Algorithm are as follows: 1.https://www.youtube.com/watch?v=zWg7U0OEAoE : Data Structures and Algorithms by Dr. Naveen Garg, IIT Delhi 2. Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare These two are the best !!! P.S.: Forgot to mention this one from MIT too 3. Video Lectures | Introduction to Algorithms (SMA 5503) | Electrical Engineering and Computer Science | MIT OpenCourseWare 

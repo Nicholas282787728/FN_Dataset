@@ -1,0 +1,2 @@
+★What are good examples of Knowledge Base software (for customer support)?
+I've seen UserVoice to be a nice hub where you can flesh out a knowledge base, as well as build and maintain user feedback and support forums (in addition to allowing agents to seamlessly integrate these help articles directly into ticket answers). I've heard good things about Zendesk as well.    Embed Quote

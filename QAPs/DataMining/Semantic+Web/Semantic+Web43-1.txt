@@ -1,0 +1,2 @@
+★What is the semantic web standard for UDDI?
+the semantic web standard equivalent of UDDI are microformats, microdata and rdfa.    Embed Quote

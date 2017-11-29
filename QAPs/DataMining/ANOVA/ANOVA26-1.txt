@@ -1,0 +1,2 @@
+★Is statistical epidemiology all about logistics, odds ratios, ANOVA and descriptive statistics? Aren't there any data mining/analysis applications?
+Here's one example (http://arxiv.org/abs/1004.2304) of using graphical models to analyze at the spread of infectious diseases on a social network. The paper considers synthetic data but was part of a DARPA grant intended to be used with real data to predict the spread of infections.    Embed Quote

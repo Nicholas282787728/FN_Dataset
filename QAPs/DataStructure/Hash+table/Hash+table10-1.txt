@@ -1,0 +1,2 @@
+What are hash tables and why are they useful?
+They file objects according to some property that is easy to find, even if not directly relevant to the purpose of the object, and not a complete description. A similar example would be shelving books according to color, if you find books' color to be easy to remember. Instead of looking through the whole bookshelf, you can go to the yellow section then search through titles in this smaller subset until you find the desired title. 619 Views · 3 Upvotes

@@ -1,0 +1,2 @@
+★What is the significance of a basis of a vector space?It is an independent subset of the vector space that spans the vector space. How this can be visualized physically or what are some different angles to see at a basis of a vector space.
+A basis is the identity of a vector space, it can be used to create/generate any kind of vector defined in that vector space. Like the way the numbers 0 and 1 are the identities of the field of Real numbers.    Embed Quote

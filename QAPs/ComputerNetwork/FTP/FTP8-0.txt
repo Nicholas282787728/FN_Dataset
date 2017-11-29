@@ -1,0 +1,2 @@
+★How are cloud computing and FTP different?
+Cloud computing is a concept on how to make use of the the various elements of a data-center (serves, networking, storage, etc.) as a single entity. Whilst FTP is a protocol. It is something that can run inside a cloud or outside on a physical server, shared server, Virtual host, etc. Two separate entities altogether. Cloud Computing Wiki - http://en.wikipedia.org/wiki/Clo... File Transfer Protocol Wiki - http://en.wikipedia.org/wiki/Ftp

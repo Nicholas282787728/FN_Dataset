@@ -1,0 +1,2 @@
+★What are the uses of a VPN?Please list as many uses as you can think of.
+various VPN providers offer different features. I use PureVPN, which provides security, anonymity and access to blocked content via foreign IPs. It also provides NAT Firewall, SmartDNS for streaming and other shit I am used to of using on a day to day basis.    Embed Quote

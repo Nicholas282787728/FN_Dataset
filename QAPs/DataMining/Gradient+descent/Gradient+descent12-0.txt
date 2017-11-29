@@ -1,0 +1,2 @@
+★What is the difference between online gradient descent and stochastic gradient descent?
+Online gradient descent and stochastic gradient descent are the same. http://en.wikipedia.org/wiki/Sto...: In stochastic (or "on-line") gradient descent, the true gradient of  is approximated by a gradient at a single example:    Embed Quote

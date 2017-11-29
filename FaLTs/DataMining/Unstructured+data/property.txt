@@ -1,0 +1,4 @@
+Some important properties of data for which requirements need to be met are:
+definition-related properties[4] relevance: the usefulness of the data in the context of your business. clarity: the availability of a clear and shared definition for the data. consistency: the compatibility of the same type of data from different sources.
+Some important properties of data.[4]
+content-related properties timeliness: the availability of data at the time required and how up to date that data is. accuracy: how close to the truth the data is. properties related to both definition and content completeness: how much of the required data is available. accessibility: where, how, and to whom the data is available or not available (e.g. security). cost: the cost incurred in obtaining the data, and making it available for use.

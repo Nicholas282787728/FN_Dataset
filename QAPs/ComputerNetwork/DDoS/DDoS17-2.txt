@@ -1,0 +1,2 @@
+★Does AWS EC2 offer DDoS protection?
+The short answer is "No."  You will need to add your own denial-of-service protection.  One way to to do that is to auto-scale your servers such that a DoS attack simply creates new servers temporarily to be able to handle the additional load.  Once the attack is over, the additional servers are deleted.

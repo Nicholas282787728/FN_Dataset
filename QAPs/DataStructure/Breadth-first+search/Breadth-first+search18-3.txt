@@ -1,0 +1,2 @@
+What are some examples of depth or breadth first search applied to real life?
+I don't know if you consider computer applications "real life." Depth-first search is a typical maze-solving algorithm. Breadth-first search is used in the Cneney algorithm for garbage collection. 

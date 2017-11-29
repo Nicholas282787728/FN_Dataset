@@ -1,0 +1,2 @@
+How many data structures are there?
+Anyone can invent their own ones, so there's no limit to the number. It depends on the amount of data you want to organize together, and in which way. For example you can create a data structure for a tree which will be renderized (as an image) later by another module of your program. This structure can be something like (in hexadecimal): 23 04 f0 Where the first byte is tree height, the second one is density of leaves, and the third one is color of leaves. Or whatever you want. 

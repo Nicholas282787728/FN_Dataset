@@ -1,0 +1,2 @@
+What are the most popular computer programming jokes?
+Q. How do you change a lightbulb in OO programming? A. You don't. Instead, you tell the lamp to do it. Q. How do you change a lightbulb in functional programming? A. You can't, at least not in pure functional programming. Q. How do you change a lightbulb in logical programming? A. You imply that it is changed.... (more)

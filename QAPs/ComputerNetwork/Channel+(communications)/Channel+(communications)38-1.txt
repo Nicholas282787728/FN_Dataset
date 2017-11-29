@@ -1,0 +1,2 @@
+★Is MailChimp a strong alternative to ExactTarget? Is it as robust?
+Nope.  Mailchimp, Constant Contact and Vertical Response all fall into the category of entry level email marketing tools.  ExactTarget has a lot more to offer, and the tools in that category, such as SilverPop, Responsys and many others are platforms to manage multi-channel communications strategies and tactics.  They also tie in nicely with enterprise analytics solutions such as Coremetrics, WebTrends and Omniture's SiteCatalyst tool.

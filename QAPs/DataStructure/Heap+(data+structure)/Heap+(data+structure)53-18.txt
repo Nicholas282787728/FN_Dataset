@@ -1,0 +1,2 @@
+What are some tips for self-studying Data Structures and Algorithms?
+Baiscs of Data structure such as programs for sorting, Linked list, Queues, Stacks, etc….. 9 Views

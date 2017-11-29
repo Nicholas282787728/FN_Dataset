@@ -1,0 +1,1 @@
+What is an array?Array is the collection of elements of similar datatype 

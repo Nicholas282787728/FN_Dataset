@@ -1,0 +1,2 @@
+Why is nature and life in general so often structured symmetrically?
+Bilateral symmetry is a feature of most animals.  Not of plants, fungi or micro-organisms.   It turns out that it was invented just once, and involved the Hox genes (see https://en.wikipedia.org/wiki/Ho... for details).  Very similar Hox genes are found in mammals, insects, snails etc.   The pattern seems to be useful for complex and mobile organisms.  Some have secondarily broken it.   One advantage of having pairs of organs is that the organism can lose one and still manage. 

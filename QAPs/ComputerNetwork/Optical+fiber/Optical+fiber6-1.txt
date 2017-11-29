@@ -1,0 +1,2 @@
+★What is the working principle of the optical fiber as a wave guide?
+You can look at it in terms of light rays, or photons, or waves.   Each way has its own usefulness.    If you consider light as a wave, you can apply the usual principles of waves in a waveguide, with upper and lower cutoff frequencies and phase shifts based on the waveguide materials and geometries. See:  Waveguide    Embed Quote

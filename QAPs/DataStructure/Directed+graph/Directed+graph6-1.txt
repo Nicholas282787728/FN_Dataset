@@ -1,0 +1,2 @@
+What are good ways to find all the possible paths between two nodes in a directed graph?
+As far as I know, this is a NP hard problem. You can just simply use DFS(Depth First Search). But I'm assuming, you are keen on finding only simple paths, i.e, any node in a unique path is visited only one time.  DFS should be good I guess. If you are still not satisfied, and want some real code, reply to me in the comments, and I'll try to do my best. I'm just a bit lazy to type out code now. EDIT: This is just my shot at writing down a pseudocode.. ... (more)

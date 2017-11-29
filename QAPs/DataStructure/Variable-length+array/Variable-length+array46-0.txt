@@ -1,0 +1,2 @@
+How does a computer compute numbers greater than their registers can hold?
+Can you multiply two ten-digit numbers in your head? Probably not. But it becomes easy once I allow you to write stuff down: you'll just multiply them digit by digit, and then add everything up to get the result. Your computer does essentially the same thing. 

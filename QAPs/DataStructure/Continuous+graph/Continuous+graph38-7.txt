@@ -1,0 +1,2 @@
+What's the best way to proceed if you have 30 days to become a better competitive programmer from being a beginner?
+I would suggest you to go with Arrays and strings stacks, queues,  linked list and if you complete these within 30-31 days then go for Dynamic programming and Data algorithms. These two will make most of your program execute in given time. But you need to be master of the first two points. No skipping that. There is no short cut. If it takes more than 30 days in first two then let it take. And do not leave programming during these days. 

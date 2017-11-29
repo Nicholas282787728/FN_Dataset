@@ -1,0 +1,2 @@
+Which mathematics topics should I learn to improve my algorithms skills and get started with competitive programming?
+To improve algorithm skills you should practice writing small programs and increasing gradually to tough programs.You would have sufficient basic maths knowledge to write algorithms. 

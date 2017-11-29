@@ -1,0 +1,2 @@
+★What's a good engine to use for HTML5 games?
+While not free, ImpactJS allowed me to prototype a game during the last Ludum Dare very quickly. As I work with it more, it's turning out be a super valuable tool for building HTML5 games.

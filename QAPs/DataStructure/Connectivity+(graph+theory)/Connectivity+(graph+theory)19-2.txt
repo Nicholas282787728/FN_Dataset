@@ -1,0 +1,2 @@
+What are the applications of graph theory?
+A road network can be modeled with intersections as vertices and the stretches of road between them as edges. This is how Google Maps, for example, computes the best route for you to travel. 

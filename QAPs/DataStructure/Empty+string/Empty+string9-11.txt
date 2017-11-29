@@ -1,0 +1,2 @@
+What is difference between EMPTY and NULL string in Java?
+An Empty string is a string that is referring to a location that contains nothing and a NULL string is referring to nothing. 

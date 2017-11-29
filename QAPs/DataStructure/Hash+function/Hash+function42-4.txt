@@ -1,0 +1,1 @@
+What is the difference between bcrypt and general hashing functions like MD5?

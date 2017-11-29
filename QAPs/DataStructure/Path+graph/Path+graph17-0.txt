@@ -1,0 +1,2 @@
+What is the fundamental difference between Markov Chains (specially, higher order ones) and probabilistic graphical models in modeling (prediction of) categorical data?
+A Markov chain is a probabilistic graphical model whose graph is a path graph.  Higher order Markov chains have a few more edges, but the structure is largely similar. 

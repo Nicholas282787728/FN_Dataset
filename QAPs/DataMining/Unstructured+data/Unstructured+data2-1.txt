@@ -1,0 +1,2 @@
+★Is DynamoDB good for unstructured data?
+Nope. You are better off putting your unstructured data in S3 and processing it with EMR. Dynamo DB is best for KV type data which does have structure. Although, the V can theoretically be unstructured data but your application needs to handle that.    Embed Quote

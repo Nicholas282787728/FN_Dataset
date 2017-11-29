@@ -1,0 +1,2 @@
+★How could I test if there is any DHCP server on the network?I'm using RHEL.
+Send a DHCPDISCOVER message on UDP port 67 to the broadcast address (255.255.255.255).  If you get a DHCPOFFER reply (or indeed any DHCP response) back, there is a DHCP server on the network.

@@ -1,0 +1,2 @@
+★What are the applications of graph theory?
+Pagerank. Network design. Routing. Spam detection in networks.    Embed Quote

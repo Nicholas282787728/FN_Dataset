@@ -1,0 +1,2 @@
+★What could be the possible reason that adding an interaction term to a generalized linear model change the inference of the main effect?
+What this means is that, when age = 0, the factor has a negative effect, but this effect lessens and eventually reverses into a positive effect. It changes from neg to pos at  or about age 30. (It seems age is continuous and factor is categorical).    Embed Quote

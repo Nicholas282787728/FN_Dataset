@@ -1,0 +1,2 @@
+★Is it possible to make a private wireless network that has its own "internet"?A small scale internet service that I can send and receive data with to hardware devices I set up in my home without being connected to the actual internet.
+For own internet , do you mean the intranet? For sure you can setup  a intranet  as like as you thought be.    Embed Quote

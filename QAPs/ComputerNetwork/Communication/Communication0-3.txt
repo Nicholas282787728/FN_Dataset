@@ -1,0 +1,2 @@
+What is the purpose of bit stuffing and byte stuffing (in computer communication)?Typical usage of bit/byte stuffing is to keep communication protocol message structure with different information length.
+Most communication protocols are made of messages with a predetermined structure, in order to help parsers to go to a specific field looking directly in the bit/byte where the information is present, without reading all the bits/bytes that are before the latter. 

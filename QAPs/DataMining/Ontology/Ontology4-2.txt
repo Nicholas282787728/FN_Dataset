@@ -1,0 +1,2 @@
+★What's the difference between an ontology and a taxonomy?
+SKOS (Simple Knowledge Organization System) is an ontology which is recommended by W3C to create/describe taxonomies or other controlled vocabularies (glossary, thesaurus, ...) An ontology provides schema information and sometimes axioms, or rules to maintain consistency, whereas taxonomies provide information about hierarchies of concepts and things. Both elements can be part of a knowledge graph.    Embed Quote

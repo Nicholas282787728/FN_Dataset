@@ -1,0 +1,2 @@
+How can something finite contain something infinite?
+You can represent an interval (a,b)  like lim n→∞ [a+1n ,b−1n ]  So, the seemingly finite interval (a,b)  contains an infinite number of finite intervals in it. This could easily be extended to R N   . 

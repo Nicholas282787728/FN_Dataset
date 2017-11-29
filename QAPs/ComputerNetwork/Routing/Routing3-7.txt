@@ -1,0 +1,2 @@
+★What is the difference between switching and routing?
+Yes it is confusing because the terms switching and routing are used interchangeably. Most people when they refer to switching they mean packet switching at MAC layer and when they refer to routing they mean packet routing at IP layer. When they say L3 switching they mean packet switching at the IP layer - which is same as IP routing.    Embed Quote

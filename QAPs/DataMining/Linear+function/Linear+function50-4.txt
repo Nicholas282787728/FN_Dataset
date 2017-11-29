@@ -1,0 +1,2 @@
+★Why is logistic regression considered a linear model?
+Logistic regression is NOT a linear model, it is a generalized linear model (Generalized linear model). In this models, the response (probability of a '1' in the case of logistic regression) is a function of a linear combination of the features. Specifically, P(Y=1|x) = sigmoid(theta * x). The theta * x is a linear combination, and sigmoid (inverse) link function.    Embed Quote

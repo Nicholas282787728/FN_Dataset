@@ -1,0 +1,2 @@
+★What is the definition of "Network Security"?
+Network security is typically handled by a network administrator or system administrator who implements the security policy, network software and hardware needed to protect a network and the resources accessed through the network from unauthorized access and also ensure that employees have adequate access to the network and resources to work. For more information please visit http://www.cyberoam.com/    Embed Quote

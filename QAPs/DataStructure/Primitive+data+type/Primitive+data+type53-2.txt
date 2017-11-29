@@ -1,0 +1,2 @@
+Is Java a pure object-oriented programming language?
+Java have primitive types like int,float ,double etc. that makes it not pure OO language  but after java5 wrapper classes like Integer class, if we use instead of int. It makes java purely OO. 

@@ -1,0 +1,2 @@
+What are some Google Code Jam problems that can be solved using just Breadth First Search?
+You might as well run through the analyses of various problems to find out yourself. The analysis do not give complete solutions, so there would be still something for you to code 

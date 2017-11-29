@@ -1,0 +1,2 @@
+How do I Implement a C program for a polynomial as an Abstract Data Type (ADT)?
+use linked list. struct poly { int exp;   //exponent float coeff;  //for coefficient struct poly * add ; //address of the next exponent. }; this will work. you can also overload the + - * / operators if you want to use these operations more often. 

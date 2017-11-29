@@ -1,0 +1,2 @@
+What are some concepts/algorithms/data structures that every computer science student should know?
+Matthew Might had written a great article that answers your question What every computer science major should know 

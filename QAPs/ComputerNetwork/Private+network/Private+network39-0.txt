@@ -1,0 +1,2 @@
+★Can OpenVPN clients talk to each other without setting static routes on their private networks?
+It should be possible, yes. Any client to the VPN should get an IP address assigned which is part of the pool. Clients within the same pool are effectively on the same subnet which is equivalent to being connected to the same physical network.    Embed Quote

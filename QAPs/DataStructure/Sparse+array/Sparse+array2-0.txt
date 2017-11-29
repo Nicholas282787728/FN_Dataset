@@ -1,0 +1,2 @@
+What is the most efficient way of representing a sparse binary array?
+It depends what you want it for. As for standard data-structural usage, size on the order of 50 bits fits into one standard machine word (or two words on an old machine). That seems very efficient to me, and also simple and relatively fast to query/modify. OTOH, if the purpose is compression without need for fast data-structural operations, you can use things like Entropy encoding. Similarly as above, one can create various hybrids with tradeoffs in between. 

@@ -1,0 +1,2 @@
+★Where can one find a training set for sentiment analysis?
+How are you doing sentiment analysis, and on what kind of text?  This will determine what kind of training set you will need.  If you want sentiment analysis of views of TV programs, my training sets of supermarket mentions won't be much good.  I have found that building a training set for the domain you are working with is far more reliable and accurate than taking an off the shelf set. So - use Datasift to collect social media posts, and go through and tag a bunch of posts.    Embed Quote

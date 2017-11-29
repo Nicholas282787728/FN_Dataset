@@ -1,0 +1,2 @@
+★How do I calculate the number of updates needed when using Distance Vector Routing Protocol (Bellman-Ford) until everything converges?
+That's highly dependent on the topology and on timing.    Embed Quote

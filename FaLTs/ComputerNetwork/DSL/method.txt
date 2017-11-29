@@ -1,0 +1,2 @@
+Transmission methods vary by market, region, carrier, and equipment.
+2B1Q: Two-binary, one-quaternary, used for IDSL and HDSL CAP: Carrierless Amplitude Phase Modulation - deprecated in 1996 for ADSL, used for HDSL TC-PAM: Trellis Coded Pulse Amplitude Modulation, used for HDSL2 and SHDSL DMT: Discrete multitone modulation, the most numerous kind, also known as OFDM (Orthogonal frequency-division multiplexing)

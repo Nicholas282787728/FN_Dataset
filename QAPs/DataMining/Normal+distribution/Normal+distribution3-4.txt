@@ -1,0 +1,2 @@
+★Why is the normal distribution important?
+As you said, the assumption that the r.v.s are i.i.d. is often too restrictive for applications "on the street".  Luckily, as long as your r.v.s are "well behaved enough" (in a sense of satisfying the Lyapunov condition (Page on Wolfram) then a generalization of the CLT (Central limit theorem) still holds. Edit: Oops, this was intended as a comment to Michael O. Church's answer.    Embed Quote

@@ -1,0 +1,2 @@
+★What is the running time of a BFS traversal algorithm if the underlying graph is represented by an adjacency matrix?
+The running time of BFS will remain the same no matter what the underlying representation is.You have to access the adjacent vertices for a given vertex just popped off the queue and add the unmarked ones back to the queue.So whether it is adjacency list or matrix, the complexity remains the same i.e. O(V+E)    Embed Quote

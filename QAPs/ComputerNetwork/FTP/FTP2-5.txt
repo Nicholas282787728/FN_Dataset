@@ -1,0 +1,2 @@
+★What is the best FTP client for Mac OS?other than Filezilla
+I have been using Cyber duckCyberduck (http://cyberduck.ch/). Its free and works great. Another good option in is a program called Truck. Just search them on google and you will find them really fast. Hope that helps.

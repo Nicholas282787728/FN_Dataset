@@ -1,0 +1,2 @@
+★Can you pass any information as input data in a multiplexer?They have explained me how a multiplexer works: however, from what I've understood, it seems kind of silly to me to use tons of datas and inputs just to output one single bit. Can the inputs and outputs be larger data streams?
+Sometimes you need multiple input to solve issues think of the quadratic formula and how u need abc to get the final single output.    Embed Quote

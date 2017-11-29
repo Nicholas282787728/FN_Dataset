@@ -1,0 +1,2 @@
+★If I use a VPN (a virtual private network), will it protect my computer against malware?
+No. It will prevent others from looking like your colleagues in the other parts of the VPN. But as soon as you interact with the rest of the Internet - visit a website, read non-internal emails - you are as vulnerable as ever.    Embed Quote

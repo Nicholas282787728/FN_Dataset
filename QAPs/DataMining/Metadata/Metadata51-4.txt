@@ -1,0 +1,2 @@
+★What is the best/simplest way to change the metadata for a Wordpress powered website?I want to change the description that shows up in google for individual pages on the website (http://www.sloacupuncture.com/).
+I've been using WordPress SEO plugin by Yoast (http://wordpress.org/extend/plug...) This really does the magic.    Embed Quote

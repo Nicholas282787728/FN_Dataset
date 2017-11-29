@@ -1,0 +1,2 @@
+What is a good book on machine learning / data mining to give to a layman?
+Although it is missing all of the figures, this book is awesome: http://www.ics.uci.edu/~welling/... Also, check out the lectures that I uploaded to github: https://github.com/josephmisiti/... the PDFs/exercises in there are very informative. Good luck.    Embed Quote 

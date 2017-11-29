@@ -1,0 +1,2 @@
+★Structural Engineering: Why is the probability distribution of concrete strength assumed to be NORMAL/GAUSSIAN?I always come around "EXPERIMENTAL STUDIES" indicate that the probability distribution of concrete strength is NORMAL. Can some one point out when were such studies conducted and how accurate is the assumption?
+This is a paper concerning the compressive strength of concrete in buildings in Japan.  The methodology and results are clearly indicated in the paper. Page on iitk.ac.in    Embed Quote

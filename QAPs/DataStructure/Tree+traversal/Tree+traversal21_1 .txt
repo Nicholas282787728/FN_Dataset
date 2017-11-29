@@ -1,0 +1,1 @@
+Can we construct a binary tree having just its pre-order and post-order traversals?Yes, as long as the tree is a binary search tree. In that case, any two of the pre-order, post-order and in-order traversals are sufficient to reconstruct the tree. (Thanks to Adrian Ho for pointing out that the BST assumption is necessary.) 

@@ -1,0 +1,2 @@
+How can you solve 8 x +9 x =10 x   ?Without trial and error or approximation methods, please show details.
+Are you sure that this has a closed-form answer?  If not, you can *only* get an approximation.  (FWIW, even Mathematica software is stumped by your question. :-) What you can do is "solve" it graphically.  The equation is equivalent to (8/10)^x + (9/10)^x - 1 = 0, and you can plot the functions (8/10)^x and    1 - (9/10)^x versus x.  The solution is the x-value of the intersection of the curves. 

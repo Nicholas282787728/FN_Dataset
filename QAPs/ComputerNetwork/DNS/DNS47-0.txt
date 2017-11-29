@@ -1,0 +1,2 @@
+★What DNS software do the root name servers run?The A-M servers
+The 13 root nameservers run NSD (H, K, L) or BIND (all others). Wikipedia has more details [1,2,3]. [1] http://en.wikipedia.org/wiki/Roo... [2] http://en.wikipedia.org/wiki/NSD [3] http://en.wikipedia.org/wiki/BIND

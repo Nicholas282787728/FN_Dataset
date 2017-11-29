@@ -1,0 +1,1 @@
+What is the pseudocode for bipartite graph checking?Assume it is a connected graph. Look at the smallest eigenvalue of the normalized laplacian matrix of the graph. The smallest eigenvalue of the normalized adjacency matrix of a graph is -1 iff the graph is bipartite.

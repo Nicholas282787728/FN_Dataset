@@ -1,0 +1,2 @@
+★How do I get started in Artificial Intelligence?
+Get a copy of Russell and Norvig's "Artificial Intelligence: A Modern Approach". Read it. Implement what you have read :)    Embed Quote 

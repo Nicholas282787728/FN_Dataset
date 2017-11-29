@@ -1,0 +1,2 @@
+★What Intranet is the best?
+eXo Platform (Open Source Enterprise Social Network and Enterprise Portal). It's a social collaboration platform that is highly extensible and based on open standards. With eXo you can not only build an enterprise social network, but you can also build a website, a social intranet or a community website.

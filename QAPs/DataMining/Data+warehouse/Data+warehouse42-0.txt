@@ -1,0 +1,2 @@
+★What are some success or failure stories of using Hadoop for a data warehouse?
+Yahoo use hadoop for its certain operation, however, I could not say it is success or failure. For other similar products, like, Spark, it maybe a classic successful story, since it is used by Twitter. Google also use the similar products like Hadoop, Hadoop is actually inspired by Google's Mapreduce algorithm pattern.    Embed Quote

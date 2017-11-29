@@ -1,0 +1,2 @@
+★What is the best open source software to use for building predictive models?Any advice on techniques to train the model?  Segment the data?
+At [1], [2] and [3] you can find polls concerning wich tools are mostly used for DM tasks. There are a lot of open source tools in those lists. [1] http://www.kdnuggets.com/polls/2... [2] http://www.kdnuggets.com/polls/2... [3] http://www.kdnuggets.com/polls/2...    Embed Quote

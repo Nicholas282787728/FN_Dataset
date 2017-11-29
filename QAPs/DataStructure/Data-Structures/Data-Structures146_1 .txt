@@ -1,0 +1,1 @@
+What are the best resource to learn about data structures, algorithms, design pattern (books, online resource)?I don’t want something focus on one language, thanks for your answers.Algorithms, Part I - Princeton University | Coursera Algorithms, Part II - Princeton University | Coursera 10 Views

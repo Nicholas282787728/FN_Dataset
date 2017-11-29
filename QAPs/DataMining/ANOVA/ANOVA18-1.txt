@@ -1,0 +1,2 @@
+★What is the non-parametric equivalent of factorial repeated measure anova ?
+Isn't the Friedman test for one-way repeated measures ANOVAs? Those are the only explanations for it I can find. Is there any way to analyze ordinal data from a factorial design?    Embed Quote

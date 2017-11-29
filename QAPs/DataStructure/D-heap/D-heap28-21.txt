@@ -1,0 +1,2 @@
+What are some time-saving tips that every Linux user should know?
+Some more time-saving tips to add to Joshua's awesome list: I've found `ack` (http://betterthangrep.com/) a lot faster than grep, with added functionality Autojmp (https://github.com/joelthelion/a...) is an amazing utility to navigate large filesystems bash-completion (http://caliban.org/bash/) to go along with all the bash tricks Ctrl-t (swap 2 characters) and Esc-t (swap 2 words) on the bash command line. Updated 3 Jan 2011 • View Upvotes

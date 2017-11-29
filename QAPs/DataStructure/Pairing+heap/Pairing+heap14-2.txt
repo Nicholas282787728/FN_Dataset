@@ -1,0 +1,2 @@
+I just bought CLRS. What's the best way to obtain the knowledge this book offers?
+Generally speaking, the best way to get the most out of a book is to start by reading it.  This advice applies to CLRS.  Also try solving a few of the exercises and problems.  The preface gives you a URL for an MIT Press site that has solutions to some of the exercises and problems, so you can check some of your answers. 

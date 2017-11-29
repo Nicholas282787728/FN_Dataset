@@ -1,0 +1,2 @@
+What are various collision detection methods in hashtables and how do you prevent or fix a collision? What is the best method?
+The Java HashMap class uses a power-of-two modulo, which expands to a power-of-two modulo, repeat ad nauseum. To decrease collisions, it should have used a prime modulo. As a teenager would say: "Because math." 

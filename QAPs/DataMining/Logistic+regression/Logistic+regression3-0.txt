@@ -1,0 +1,2 @@
+★When does logistic regression not converge?
+Common reasons: 1. Code/Optimization method has bug. 2. Learning rate too large 3. Feature not normalized (values of different feature have totally different scale, just ran into today).    Embed Quote

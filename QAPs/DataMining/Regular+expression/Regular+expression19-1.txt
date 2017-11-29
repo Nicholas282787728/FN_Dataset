@@ -1,0 +1,2 @@
+★How would you make a regular expression match everything but a certain string?
+The trivial approach would be asking if don't match a expression, not if matches it. Depending on where you are doing that check may be a viable option.    Embed Quote

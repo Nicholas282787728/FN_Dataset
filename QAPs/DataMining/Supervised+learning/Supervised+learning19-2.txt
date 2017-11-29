@@ -1,0 +1,2 @@
+★In a supervised learning problem, what are some effective techniques that can deal with highly imbalanced datasets?Suppose you have 5 classes. Class A and B have 200 records each, while C, D and E have 20 each. Is there a straightforward way to train ML classifiers on such a dataset?
+Lots of good answers here: How could one build models for skewed classes?    Embed Quote

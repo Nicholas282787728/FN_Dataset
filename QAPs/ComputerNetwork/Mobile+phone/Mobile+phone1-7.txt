@@ -1,0 +1,2 @@
+★How accurate is mobile phone GPS?
+It is really dependant on the gps module used by the manufacturer of the smartphone.  We have seen the accuracy moderate between satisfactory to very good, across different manufacturers based on the quality of the GPS chipset and module they choose to include with their hardware.    Embed Quote

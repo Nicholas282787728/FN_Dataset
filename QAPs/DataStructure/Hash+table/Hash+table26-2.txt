@@ -1,0 +1,2 @@
+How is a Hash Table implemented in Java?
+You can download the source code for Java and read the implementation of the class. Looking at an old  OpenJDK 1.7 b147 release that I have lying around, I can read the Hashtable.java implementation in my downloaded source at: G:\b\java\openJDK-170_b147\openjdk-7-fcs-src-b147-27_jun_2011\openjdk\jdk\src\share\classes\java\util\Hashtable.java for example.. 221 Views

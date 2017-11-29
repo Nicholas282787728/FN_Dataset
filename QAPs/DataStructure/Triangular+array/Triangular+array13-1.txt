@@ -1,0 +1,2 @@
+Are prefix sums of arrays similar to fibonacci sequences?
+It's not quite the same thing, because you don't add up the terms in the prefix sum array. The value of the prefix sum at index i is equal to the sum of all of the elements up to i in your original array. Therefore, the prefix sums for the array [1, 2, 3, 4] will be: [1, 3 = 1 + 2, 6 = 1 + 2 + 3, 10 = 1 + 2 + 3 + 4]. 

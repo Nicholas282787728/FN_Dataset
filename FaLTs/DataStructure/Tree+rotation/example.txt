@@ -1,0 +1,5 @@
+As a motivating example, consider the problem of finding an ‘a’ in an array of n elements.
+
+Input: An array of n≥2 elements, in which half are ‘a’s and the other half are ‘b’s.
+
+Output: Find an ‘a’ in the array.

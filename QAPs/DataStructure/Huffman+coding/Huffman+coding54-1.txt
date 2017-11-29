@@ -1,0 +1,2 @@
+I want to work on data compression algorithms using the C language. Where should I begin?
+Get your hands strong on basic Algorithms first. Then you can begin with Huffman compression algorithm. Read it : Huffman Encoding Compression Algorithm 887 Views · 3 Upvotes · Answer requested by Ruman Khan

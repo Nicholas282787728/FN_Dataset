@@ -1,0 +1,2 @@
+How do you avoid a hash table getting sparsely populated?
+One way is to implement it is using the probing(linear, quadratic etc) technique. By the way, it is also called open addressing. Yes, by this way the constant factors on the operations might increase a little but for sure, we can avoid the hash table getting populated sparsely. About probing technique, check the following. Linear probing Lecture 10: Open Addressing, Cryptographic Hashing 

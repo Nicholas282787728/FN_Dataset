@@ -1,0 +1,2 @@
+What are some good data visualization tools?
+This always depends on several questions -- what is the format of publication (online, interactive?), type of visuiisation, etc etc. Best ones are tableau, raw by density design, cartodb/mapbox for maps, circa and d3 if you wish to code by yourself. There are huge amount of others thow, each with specific benefits and advantages 

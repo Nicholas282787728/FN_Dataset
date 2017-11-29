@@ -1,0 +1,2 @@
+What are the most cost effective Business Intelligence tools?
+It strongly depends on your situation. E.g. it's not cost effective if you choose a product with low licence cost, but need to adapt all source systems. Please consider that licence cost is only a minor part of the total costs. On the other hand you don't need a highly customizable BI solution, if you only want to analyse a couple of spreadsheets. You end up loosing a lot of time to configure the product.    Embed Quote 

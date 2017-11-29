@@ -1,0 +1,2 @@
+★Can DHCP be combined with some fixed ip's in a SOHO router?
+Thank you all.

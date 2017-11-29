@@ -1,0 +1,2 @@
+Are there any minimal functional programming languages?
+I think you might like Pure Programming Language. Standard ML might be considered minimal in some regard. Or Erlang - people often manage to learn it in two weeks. 

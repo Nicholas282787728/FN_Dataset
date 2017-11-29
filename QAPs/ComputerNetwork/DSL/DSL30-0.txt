@@ -1,0 +1,2 @@
+★Should I connect dsl router to wan port of wifi router?
+You want to add a Wi-Fi access point to your home or small business network? Connect the DSL router LAN port to your Wi-Fi access points WAN port. It should work fine.

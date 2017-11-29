@@ -1,0 +1,2 @@
+What is Math.rint() in Java?
+Math rint returns a value that is closest in value to the argument provided and is an integer! It returns double values (a data type for decimal values). You can say it rounds off the number. Eg: Lets say you declare a variable called x. double x=99.855 Now if you type, System.out.println(Math.rint(x)); It will return 100.0 because it is the closest integer value to 99.855 If two integers are equally close from the argument ypu provide, even one is preferred. 

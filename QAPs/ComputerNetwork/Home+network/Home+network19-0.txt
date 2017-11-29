@@ -1,0 +1,2 @@
+★What is the best way to learn about OSPF in an inexpensive home network?
+We'll briefly, use GNS3 to emulate the routers and setup OSPF that way. Doing so you can run debugs and mess around with K values etc.. and see what goes on. Also Wikipedia has some good info on the LSA types and fundamentals of OSPF.

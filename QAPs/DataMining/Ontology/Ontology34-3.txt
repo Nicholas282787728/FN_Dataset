@@ -1,0 +1,2 @@
+★How can I easily explain the word ontology?what is an example of ontology or ontological analysis?
+This is just a simplified definition in computer/information science for domain knowledge: Ontology = Shared, formal & agreed-upon specification for a specific domain Weak ontology = Taxonomy or folksonomy formed from tagging or classifying things. Ontology = Taxonomy + Class Attributes + Relationships + Rules/Axioms + Events    Embed Quote

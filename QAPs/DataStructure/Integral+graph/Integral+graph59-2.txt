@@ -1,0 +1,2 @@
+What are the most useful gems to use in Rails?
+Not in any order.  Just a list of ones I use frequently. 1. Bootstrap-sass 2. Devise 3. Font-awesome-rails 4. Acts-as-votable 5. Acts-as-tagable 6. Paperclip 7 . Stripe 8. Simple_form 

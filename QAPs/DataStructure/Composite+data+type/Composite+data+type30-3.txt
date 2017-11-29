@@ -1,0 +1,2 @@
+Should one do programming without having knowledge of data structures and algorithms? How can it be helpful?
+Not at all helpful. Data structures is like the heart of programming according to me. You have to know it to even write some simple code. So, if u dunno it then learn it. If you use arrays also, u r using data structures. It's that important. Got it..? 

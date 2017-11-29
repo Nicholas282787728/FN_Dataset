@@ -1,0 +1,1 @@
+I have an unsorted array in which I want to search an element. What is the best method for searching with a time complexity less than O(n) and I don't want to sort the array?Build a RB-Tree or an AVL-Tree. o(log(n)) time to search. it'll be O(nlogn) to build though. 1.8k Views  View Upvotes

@@ -1,0 +1,2 @@
+Which is better, SQL or NoSQL?
+Neither, they are just different tools for storing your data. It really depends on what your application's needs are. 

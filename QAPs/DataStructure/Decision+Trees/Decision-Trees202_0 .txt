@@ -1,0 +1,1 @@
+What is a good Python library for decision trees?You can use R decision tree library using Rpy(http://rpy.sourceforge.net/). Also check the article "building decision trees using python"(http://onlamp.com/pub/a/python/2...). 8.8k Views  View Upvotes

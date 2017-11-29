@@ -1,0 +1,2 @@
+★What is a socket in computer networks?
+It is possible to establish a logical connecting point between a server and a client so that communication can be done through that point. This point is called socket.

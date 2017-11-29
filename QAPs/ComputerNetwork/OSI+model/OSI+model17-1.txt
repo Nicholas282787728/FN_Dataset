@@ -1,0 +1,2 @@
+★In which layer of the OSI model does the operating system come into picture?
+The goal of the OSI model is to define a unifying standard for the architecture of networking systems. Is an OS a networking system? So that's why we cannot map an OS to the OSI model.    Embed Quote

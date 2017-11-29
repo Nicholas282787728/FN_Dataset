@@ -1,0 +1,2 @@
+★Is HTML5 hard to learn?
+In addition to Chris Aljoudi's response, there is quite a lot to learn if you're trying to make a mobile app (or something that you aim to wrap inside Phonegap, for example). While desktop browsers are generous in terms of memory and computing power, things get way too complicated on the mobile. So if your question is in the context of a mobile app, the short answer is "Yes, it is hard."

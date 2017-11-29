@@ -1,0 +1,2 @@
+What is the next number in this sequence and why?
+1) 6-2 = 4 2) 12-3 = 9 3) 20-4 = 16 4) 30-5 = 25 5) 42-6 =36 6)z-9 = y If you notice, there is a series here:  4,9,16,25,36,y. Starting from 4 : 9-4 = 5 16-9 = 7 25-16 = 9 36-25 = 11 y-36 = x Whoa!. So there is another series here : 5,7,9,11,x. Every term is two more than the previous term. Hence, x  = 13. That makes y = 49, which makes z= 58. Therefore, 58 is the missing term! 

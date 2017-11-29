@@ -1,0 +1,2 @@
+How can I empty a String in Java?
+If by emptying you mean deleting the contents of a given string, thats not possible because strings are immutable in java. If you mean creating an empty string then String S="" 

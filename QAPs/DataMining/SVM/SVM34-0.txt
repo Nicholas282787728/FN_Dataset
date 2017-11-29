@@ -1,0 +1,8 @@
+★How can I implement SVM in R using multicores?
+To enable all cores of your computer  use the following code: 1
+2
+3
+ library(doParallel) cl <- makeCluster(detectCores()) registerDoParallel(cl) Now, you have a couple options to implement SVM (or any other Machine Learning algorithm) in R: Option 1 -  Use the Caret package Example implementation for training: 1
+2
+3
+ modelFit_svm <- train(classe ~ ., data=training, method="svmRadial", preProc = c("center", "scale"), metric = "Accuracy") Further documentation: The caret Package Notes: Very easy to train and test models Quick implementationtime Easy to learn Not too much flexibility with adjusting the parameters Long run time. Option 2 - Use the SVM package Use can train your model with the e1071 package. Further documentation: Page on The R Project for Statistical Computing Notes: Easy to learn A bit more flexibility compared to option 1 Slightly quicker run time (depending on the implementation/parameters picked) Option 3 - Develop an SVM model from first principles Given that you understand how to build a SVM model, it is fairly straightforward to code a SVM training function from first priciples in R. Notes: Requires very good understanding of SVM Complete flexibility Fastest run time Complete customizability My Approach: I would use option 1 if I was just experimenting with a variety of models and then use option 3 once I have finalized that SVM is the best approach to go forward. Furthermore, the model produced by the Caret package (in option 1) will provide you with parameters that can help when developing an SVM model from scratch.    Embed Quote

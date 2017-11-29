@@ -1,0 +1,2 @@
+What are the algorithms required to solve all problems (using C++) in any competitive coding contest?
+int main () { // Solution goes here } 

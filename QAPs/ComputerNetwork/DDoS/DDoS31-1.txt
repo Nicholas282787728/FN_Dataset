@@ -1,0 +1,2 @@
+★How do sites like Quora, Facebook, Yelp handle DDoS attacks?Are there any libraries that people use to handle these?
+Once you get to the size of Quora, Facebook, Yelp, you're talking about distributed networks over multiple sites, tons of servers. Which means they likely employ a mix of specialized (hardware) firewalls, load balancers, and routers that will help to distribute and can deny any attacks. Furthermore, large companies like this will obviously have people monitoring their networks 24/7 and at the hint of an attack they can easily deny or reroute traffic.

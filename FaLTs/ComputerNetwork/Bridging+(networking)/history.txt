@@ -1,0 +1,3 @@
+Both source and destination addresses are used in this algorithm: source addresses are recorded in entries in the table, while destination addresses are looked up in the table and matched to the proper segment to send the frame to.
+
+Digital Equipment Corporation (DEC) originally developed the technology in the 1980s.

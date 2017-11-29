@@ -1,0 +1,2 @@
+What does strongly typed mean in .net framework?
+What does strongly typed means in .NET framework? 

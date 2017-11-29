@@ -1,0 +1,2 @@
+What are B*trees?
+B* trees (B, B*, B+) trees are data structures that most commonly used in databases and file systems. In databases these data structures are used for indexing purpose. The most significant difference between a normal binary tree and a B* tree is that : Multiple data points in a single node instead of one Each node has a sorted list of data points as well as the pointers to the next node It's balanced always using elegant recursion It minimises number of disk reads... (more)

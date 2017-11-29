@@ -1,0 +1,2 @@
+★How can I use SMTP to send bulk text / SMS (Number+CarrierDomain) messages to my legitimate subscriber base without getting blacklisted?I already have my users mobile numbers and mobile carrier messaging domains - ie: messaging.sprintpcs.com etc -
+I would definitely suggest a Short code, as Jared said, shared or dedicated. However with our gateway you will be able to send messages via SMTP , get reporting and a good delivery - check available API here http://www.panaceamobile.com/sms...    Embed Quote

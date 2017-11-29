@@ -1,0 +1,2 @@
+When was the concept of string first introduced in Computer Science?
+The earliest reference I can find to the concept of strings was 1960, with a proper string specification and implementation in 1968. That was by the researchers working on Algol. Non-scientific implementations may have existed before, but if you're talking about the science of computing, then you're concerned with scientists and formally peer-reviewed work. I have not done an exhaustive search of the literature, but you can safely ignore later work than that. 

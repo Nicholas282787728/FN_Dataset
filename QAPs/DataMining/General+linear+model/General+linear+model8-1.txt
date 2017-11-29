@@ -1,0 +1,2 @@
+★What are some books that give an introduction to generalized linear models with R and examples for college students?
+"Applied regression analysis and generalized linear models" by John Fox contains several chapters about generalized linear models and also has an R supplement.    Embed Quote

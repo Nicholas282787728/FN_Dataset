@@ -1,0 +1,2 @@
+★Routing Protocols: What are some good BGP textbooks and architecture guides?With an emphasis on freely available resources please!
+Internet Routing Architecture - Sam Halabi.. enough said.    Embed Quote

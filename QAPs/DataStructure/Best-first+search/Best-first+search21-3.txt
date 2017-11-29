@@ -1,0 +1,2 @@
+What are the algorithms to generate a random maze that ensures there is always a path between the starting and ending point?
+Maze Generation: Algorithm Recap has demonstrations of most of the standard maze generation algorithms. 4k Views · 1 Upvote

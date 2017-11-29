@@ -1,0 +1,2 @@
+Field Programmable Gate Arrays (FPGAs): How can I implement the Smith-Waterman algorithm in synthesizable VHDL?
+I've done this. I used a systolic array, where the number of elements in the array must be equal to the maximum length of the two sequences you are comparing. I had no VHDL knowledge when I started on this project and could hardly be called in expert by the end of it, likely any degree level student studying ASIC's and chip design could do this. I recall that there being more than a few papers online describing this systolic array parallel processing approach. 

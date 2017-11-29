@@ -1,0 +1,2 @@
+★What predictive modelling tools are best for data sets of size 3GB to 30GB if I do not want to use Hadoop?I do not do clickstream analysis and most of my problems can get solved without putting data onto HDFS.   I am looking for a tool that can run GLM , RandomForests , GBM etc on about 3GB to 30GB of datasets.
+This is the kind of thing SAS is perfect for. But of course it is not free ...    Embed Quote

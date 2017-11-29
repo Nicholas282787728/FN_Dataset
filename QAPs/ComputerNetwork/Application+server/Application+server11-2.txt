@@ -1,0 +1,2 @@
+★What do you think of PHP Application Server based on pthreads?
+php already has http server: php -S localhost:8000 but should be improve to use in production

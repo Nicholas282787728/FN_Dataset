@@ -1,0 +1,2 @@
+What is the coolest algorithm with complexity O(1)?
+Bit Twiddling Hacks, such as the XOR-based value swap without a temporary, the iteration over non-zero bits of an integer with i &= i - 1, etc. 

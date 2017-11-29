@@ -1,0 +1,2 @@
+★What is the cheapest way to experiment with Layer 3 routing in a home network environment?
+The Most Cheapest is to emulate the network topology in Mininet and perform the routing operations using SDN.

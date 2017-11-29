@@ -1,0 +1,2 @@
+Would programming the nearest neighbour classifier in MATLAB to classify a set of data be considered an algorithm?
+Yes "When a programmer is lazy to explain what the code does, he will tell you that's a algorithm." ~ seen something like this from internet 

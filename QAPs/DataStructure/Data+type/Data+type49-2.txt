@@ -1,0 +1,2 @@
+What data type do transistors use?
+Binary. Because if you are talking about “data”, you are talking about “0” or “1”. Transistors understand “on” or “off” just fine. That they can handle everything in between is irrelevant to this question. 39 Views

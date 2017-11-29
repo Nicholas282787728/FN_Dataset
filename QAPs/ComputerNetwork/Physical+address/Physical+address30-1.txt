@@ -1,0 +1,2 @@
+★How can I get the physical address of an IO request in the SSD?
+This is internal to FTL of the SSD. There is no way to get this information unless that SSD firmware supports a mechanism. AFAIK, none of them provide this.    Embed Quote

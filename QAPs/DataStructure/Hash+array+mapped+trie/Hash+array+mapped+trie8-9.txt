@@ -1,0 +1,2 @@
+What are some uses of hashing algorithms?
+In addition to using hashing for an O(1) lookup / insert (as opposed to slower methods like lists / trees) there's another I can think of: error-dedection. E.g. using something like CRC is a form of hashing to check if a file/data is the same as it was originally. Even just parity is a very simplified "hashing". 

@@ -1,0 +1,2 @@
+When should I use machine learning algorithms such as k-NN, SVMs and a decision tree?
+When there is nonlinearity in training data. 

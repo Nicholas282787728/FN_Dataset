@@ -1,0 +1,2 @@
+Does a C++ multimap preserve the insert order for multiple values mapped to same key?
+Yes, although it is only guaranteed as of C++11 

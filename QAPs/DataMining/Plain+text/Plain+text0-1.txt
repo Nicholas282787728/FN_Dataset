@@ -1,0 +1,2 @@
+★How do mint.com and similar websites avoid storing passwords in plain text?
+Presumably they need access to the plaintext password in order to scrape banking web sites (or source such scraping to another organization, as I think they do). It's likely that they encrypt users' passwords before storing them, and manage their crypto keys in such a way that a database or even web site compromise would not expose the keys or a decryption oracle for the database's contents.    Embed Quote

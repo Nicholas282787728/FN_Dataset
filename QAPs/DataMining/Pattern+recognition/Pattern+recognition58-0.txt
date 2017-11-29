@@ -1,0 +1,2 @@
+★What are some pattern recognition/machine learning libraries written in Lisp or one of its dialects?
+Weka is a collection of machine learning algorithms for solving data mining problems implemented in Java and open sourced under the GPL. It's possible to use Weka from Clojure, a dialect of Lisp on JVM.    Embed Quote

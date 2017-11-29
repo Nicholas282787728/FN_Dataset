@@ -1,0 +1,2 @@
+Is my teacher correct in saying that a significance test for correlation measures the number of points in the graph that are close to the line of best fit?
+No, this isn't correct -- I'm not even sure how your "teacher" could have come up with such a misguided idea. Suppose I pick a small number of points that are almost collinear, so that r^2 is very close to 1. Then t is large. But since there are very few points, your teacher's statement doesn't make sense. 

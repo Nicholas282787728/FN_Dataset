@@ -1,0 +1,2 @@
+What is an intuitive explanation of Huffman coding?
+Ok, lets assume that you have a box [__] which is filled with 100 balls. Let's say the box contains: 40 Orange balls O 30 Black balls B 20 White balls W 10 Yellow balls Y. Your job is to take a ball out, apply a sticker on it and then send it. Got it? Real easy!... (more)

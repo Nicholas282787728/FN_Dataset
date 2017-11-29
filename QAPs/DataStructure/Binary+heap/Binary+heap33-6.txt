@@ -1,0 +1,2 @@
+What are the 10 must-know algorithms and data structures for a software engineer?
+Algorithms Graph Search (BFS, DFS) - DFS is especially important as it gives more structural information about the graph than one would initially think Sorting ( Comparison Sorts and Bucketing Schemes) The general method of Dynamic Programming Matching algorithms and Network Flows Regular Expressions and String Matching Data Structures Graphs - Trees are especially important Maps Heaps Stacks / Queues Tries Extras include - Greedy algorithms - Probabilistic Methods - Approximation Algorithms 

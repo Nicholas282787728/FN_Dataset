@@ -1,0 +1,2 @@
+★How long can the burn in period be for markov chain monte carlo estimation (MCMC)?
+It depends on where you start your chain from and the number of samples you want to pick. I would roughly suggest to remove the first fifth of the samples as burn in and always try to start your chain from the point of highest probability for reducing the burn in period.    Embed Quote

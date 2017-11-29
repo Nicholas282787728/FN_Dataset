@@ -1,0 +1,2 @@
+★Will HTTPS secure data transferred via a proxy server?In other words, will the proxy server be able to view my data or will it be encrypted for them as well?
+Keep in mind that when using https, not all data is sent encrypted and the proxy will be able to see that. In my understanding everything that is indeed encrypted cannot be viewed by the proxy.    Embed Quote

@@ -1,0 +1,2 @@
+★Why couldn't MAC addresses be used instead of IPv4 or IPv6 addresses for networking?
+In addition to being hard to trace, MAC addresses can easily be spoofed. This is often done to bypass router filtration techniques, among other things. Therefore they cannot be reliably used. Source - http://en.wikipedia.org/wiki/MAC...    Embed Quote

@@ -1,0 +1,2 @@
+★What are some good resources for learning about data compression? Why?
+see answer in What are the suggested papers and readings one should read before working on a project related to data compression? some of the algorithms like LZW,huffman etc.

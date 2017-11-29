@@ -1,0 +1,2 @@
+How can find all possible way of substring of given string in C programming?
+#include <stdio.h>#include <string.h>int main(void) {    char st[] = "blah", ch;    int l = strlen(st), i, j, k, count = 0;        for (i = 0; i < l; i++) {        for (j = 0; j < l-i; j++) {            printf("%d: ", ++count);            // calculate substring st[j:j+i]            for (k = j; k < j+i+1; k++) {                printf("%c", st[k]);            }            printf("\n");        }    }    return 0;} 

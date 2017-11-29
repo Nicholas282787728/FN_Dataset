@@ -1,0 +1,2 @@
+What are the advantages of using Suffix Arrays over Suffix trees?
+One of the advantage for me is that I can understand how to build a suffix array in O(n) time, but still don't understand how to build a suffix tree (directly - w/o first building the suffix array) in O(n) time. 

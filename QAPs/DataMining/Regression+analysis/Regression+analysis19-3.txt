@@ -1,0 +1,2 @@
+★Where can I find data to use for a regression analysis project?I have a statistics project over regression analysis and am having trouble finding large data sets that can be used for regression. I need one response variable and at least 3 or 4 variables that could potentially affect it. My main problem is finding a data set with enough observations (more than 30)
+There are plenty of datasets on the Web with which to do regression analysis. Check the R site: www.r-project.org. Good luck!    Embed Quote

@@ -1,0 +1,1 @@
+What is the generalized list in a data structure?A generalized linked list contains structures or elements with every one containing its own pointer. It's generalized if the list can have any deletions,insertions, and similar inserted effectively into it. struct node { int num; struct node *next; }; node structure has a pointer representing a node datatype. 408 Views

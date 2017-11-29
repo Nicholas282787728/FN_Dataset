@@ -1,0 +1,1 @@
+What is the difference between whole numbers and natural numbers?They're nearly synonymous, except 0 is included in whole numbers, but typically excluded for natural numbers (although sometimes included). Whole numbers: {0,1,2,3,...} Natural numbers: {1,2,3,...} usually See: WP Talk:Whole number and Whole numbers include 0, natural numbers don't 288 Views

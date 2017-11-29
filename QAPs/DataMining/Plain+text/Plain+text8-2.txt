@@ -1,0 +1,10 @@
+★What's the best way to store a password in a plain-text file so that's it's not human-readable?I'm writing a small script which requires my Gmail login credential as part of the script. How can I store an encrypted version of the password and decrypt it whenever I run the script? It doesn't have to be VERY secure, just that someone reading the script shouldn't see the password. The script is going to be Linux-only, so I'm okay with using Bash, though I'd prefer Python as I'm more familiar with it.
+Here's a function that maximizes security (see (2)) while still being super simple: 1
+2
+3
+4
+ def encrypt_decrypt(password):     enc_str = 'h213j2kh3kj213h41k'     return "".join([chr(ord(a) ^ ord(b)) for a,b                         in zip(password,enc_str)]) The only requirement is that the enc_str is longer than the password you are going to use. Let's test it: 1
+2
+ >>> encrypt_decrypt('12abc') 'Y\x00PQ\t' Going back uses the same function: 1
+2
+ >>> encrypt_decrypt('Y\x00PQ\t') '12abc' A few comments: (1) Of course if someone gains access to your source code, they can immediately figure out your password - but this goes for all suggestions. (2) What do I mean by maximizing security? By this I mean that the only way to get back your password is to either brute-force it or find the source code. All information that your password carried has been lost (entropy is maximized). This is known as perfect encryption. This is only possible if your encryption key is at least as long as what you are encrypting. This however all hinges on enc_str being random! Don't just put in 'aaaaaaaaaaaa'. See Anders Kaseorgs comment for a more precise description. (3) How does it work? It is a simple bitwise exclusive or. It turns your password and the encryption string into bits (10001101010...) and does bitwise XOR on them.    Embed Quote

@@ -1,0 +1,2 @@
+★When in regression analysis, what does it mean "controlling for X"?
+keeping X constant    Embed Quote

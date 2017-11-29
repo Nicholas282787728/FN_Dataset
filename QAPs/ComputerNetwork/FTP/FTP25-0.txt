@@ -1,0 +1,2 @@
+★Can Amazon Cloud Drive be accessed via a FTP/SFTP client?
+They doesn't have this service.

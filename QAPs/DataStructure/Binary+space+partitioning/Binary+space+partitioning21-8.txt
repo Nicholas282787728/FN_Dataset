@@ -1,0 +1,2 @@
+Is it true that writing operating system code and kernel code is extremely difficult? If so, how much do those types of programmers make?
+Yes. The kernel code is not, necessarily, more complex or difficult than application code. Debugging and doing performance analysis on it, however, can become quite tricky. More importantly, the bar is set much higher for the performance and stability of the code - everything in the system will be reliant on the operating system; as fault in the OS is devastating. 

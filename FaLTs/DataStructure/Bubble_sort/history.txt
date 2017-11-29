@@ -1,0 +1,1 @@
+In short, the bubble sort seems to have nothing to recommend it, except a catchy name and the fact that it leads to some interesting theoretical problems [in its analysis]

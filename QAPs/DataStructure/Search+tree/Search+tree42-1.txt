@@ -1,0 +1,2 @@
+How can we verify that a binary tree is a binary search tree in linear time and constant space?
+I agree with Justin Rising answer , but in case if you are considering to avoid recursion( since you are concern about O(logn), recursive depth) space as mentioned in your comment), you can use the concept of morris traversal or threaded binary tree.  Where you neither use any explicit stack nor any recursion. 

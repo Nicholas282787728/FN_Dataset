@@ -1,0 +1,2 @@
+Methods which involve reducing the data available to a dataset having no missing values include:
+Listwise deletion/casewise deletion (albeit a naive solution) Pairwise deletion(albeit a naive solution)

@@ -1,0 +1,2 @@
+★Do techniques such as CDMA, channel coding and general spread-spectrum techniques make it impossible for modern communication systems to be jammed?Aside from blasting power over all frequencies, has there been a case of a malicious party bringing down such a radio comms system using signal jamming?
+It depends on the frequency. During the CDMA 450 pilot deployments in Europe there were several epic moments when the communication was jammed by various pager operators which were operating within the same frequency bands (450 - 460Mhz)

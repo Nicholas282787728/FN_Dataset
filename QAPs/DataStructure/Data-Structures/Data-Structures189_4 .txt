@@ -1,0 +1,1 @@
+Why do we need to learn data structures before learning algorithms?If you can’t structure the data in a meaningful and descriptive manner, the you can’t develop a method to solve the problem you are faced with. It really is that simple—but you could use lots more words to describe the reasons if you want. 51 Views · View Upvotes

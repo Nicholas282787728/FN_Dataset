@@ -1,0 +1,2 @@
+Are there any desktop business intelligence tools for data analytics?
+Take your pick: Tableau, QlikView, Weka, MatLab, STATA, RStudio, SPSS, and any number of free libraries that make creating home-grown solutions quite painless.    Embed Quote 

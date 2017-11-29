@@ -1,0 +1,2 @@
+When should I use machine learning algorithms such as k-NN, SVMs and a decision tree?
+You might find the following flow chart handy: Choosing the right estimator It is from the Python scikit-learn package (also ready usefull). 

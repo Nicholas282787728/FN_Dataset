@@ -1,0 +1,2 @@
+Under what circumstances would a web developer need to use data structures such as Linked Lists, BST, and Graphs?
+Since you mentioned dictionary, you should notice that a dictionary is actually a BST. 

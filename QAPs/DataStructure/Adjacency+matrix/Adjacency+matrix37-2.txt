@@ -1,0 +1,1 @@
+How do I implement a depth first search C++ function, that takes an adjacency list and an adjacency matrix as parameters?

@@ -1,0 +1,1 @@
+How does Emacs work under the hood?Infinite buffers, kill ring etc. Also does Emacs use a Rope data structure under the hood for text manipulation?

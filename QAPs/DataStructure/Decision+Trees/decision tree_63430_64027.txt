@@ -1,0 +1,1 @@
+comparison of decision tree : rted vs mle the main difference between mle and rted be that rted can compare any kind of decision tree even non binary such as chaid . in addition , each of they have different approach for scan the tree . mle be from top down and find all the possible path while rted can go in breadth way . 

@@ -1,0 +1,2 @@
+What are the disadvantages of using Information Gain Ratio as a metric for building decision trees?
+Gain Ratio =  InfoGain / Split_Information Now if the the split information of the attribute is too low, Gain ratio will try to split on the attribute. A way out of this can be to set some threshold for the intrinsic information, that way we would be ignoring the problem causing attributes. Page on cmu.edu 

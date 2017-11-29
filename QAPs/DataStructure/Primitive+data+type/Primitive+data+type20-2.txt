@@ -1,0 +1,2 @@
+What are the applications of wrapper classes in Java?
+Wrapper classes are used in JAVA to convert primitive data types to objects. And why do we want them to be converted into objects ?? So that we can use the utilities that works only on objects. 

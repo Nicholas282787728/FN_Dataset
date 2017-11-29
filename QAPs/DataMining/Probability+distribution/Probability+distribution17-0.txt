@@ -1,0 +1,2 @@
+★How can we get a probability distribution function?
+Any function can be considered a PDF if it satisfies , and How do you get one? Since there are no question details, I can't say much more than 'you take a guess and see if it fits your data'.    Embed Quote

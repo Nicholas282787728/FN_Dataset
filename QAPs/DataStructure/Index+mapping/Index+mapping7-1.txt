@@ -1,0 +1,2 @@
+Why does not my website site map get indexed?
+It may take some time. The only thing which we can do is to submit the sitemap and request Google to index it, rest depend son it when to index it. 

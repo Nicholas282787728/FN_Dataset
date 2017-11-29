@@ -1,0 +1,2 @@
+★What are some tips for debugging a gradient descent algorithm that isn't converging?I'm interested in graphical and numerical methods for tuning hyperparameters, batch size, initial weights, etc.
+I would bet step size is too large.    Embed Quote

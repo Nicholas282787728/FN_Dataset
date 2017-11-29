@@ -1,0 +1,2 @@
+If 1=5, 2=10, 3=15 4=20 then 5=?
+I love patterns! This is an easy one, however. It's clearly the roots of this function: f(x)=(x-5)(x-10)(x-15)(x-20)(x-21) Therefore, it is 21. This is the problem with any pattern. As for a serious answer, I would say 25, as the second number appears to be five times the first. It is impossible to know what extent the OP wants. 

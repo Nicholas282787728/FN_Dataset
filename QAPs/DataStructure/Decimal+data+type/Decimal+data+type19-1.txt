@@ -1,0 +1,1 @@
+What is the logic behind the output of this code?

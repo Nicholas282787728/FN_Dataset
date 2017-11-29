@@ -1,0 +1,2 @@
+★Data Compression: What is the most powerful file compressor in terms of size reduction?
+Maybe my answer will be not directly to the topic of your question, but I as a rule leave the size of files the same. I do that, because I want to leave the files in their best quality. But whenever I need to send them, I just archive them with B1 Archiver http://b1.org/. Btw, it's simple but multi-functional program. Hope, it will help you.

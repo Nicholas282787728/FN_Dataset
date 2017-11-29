@@ -1,0 +1,2 @@
+Which book(s) and other resources would you recommend for a beginner to understand Data Structures in C++?Books which preferably are well written and provide good examples/problems to work on and understand concepts clearly?
+"c++ data structures by nell dale" is very good book for data structure course, you can check it here Free Ebooks: Data Structure 

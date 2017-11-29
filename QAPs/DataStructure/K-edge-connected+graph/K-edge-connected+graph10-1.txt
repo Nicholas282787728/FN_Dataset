@@ -1,0 +1,2 @@
+In theoretical computer science, what is considered a sparse graph?
+Typically, a graph with [math] n [/math] vertices is called sparse if it has [math] O(n) [/math] edges. Many important classes of graphs satisfy this property. For example, planar graphs can be shown to have at most [math] 3n - 6 [/math] edges. 

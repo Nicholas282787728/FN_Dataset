@@ -1,0 +1,2 @@
+Is there a standard algorithm to determine if a given point lies in any rectangle (out of a set of rectangles)?
+If the rectangles in your problem are axis aligned then this problem transforms into an orthogonal range search problem where range trees can be used to solve queries quite efficiently. 

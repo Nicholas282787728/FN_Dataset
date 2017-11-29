@@ -1,0 +1,1 @@
+A good example of deletion by this algorithm is present in the Andersson paper

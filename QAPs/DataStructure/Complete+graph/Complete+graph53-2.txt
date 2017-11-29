@@ -1,0 +1,1 @@
+What is the minimum number of edges that must be added to a node for complete two-step reachability in a graph?Put in a different way, what is the minimal number of people I must befriend such that every two people are friends or mutual friends.

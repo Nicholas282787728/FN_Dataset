@@ -1,0 +1,2 @@
+How do I know whether I am ready for a data science interview?
+ATA I think I would just direct you to my answer to ... Sean Owen's answer to How can a computer science graduate student prepare himself for data scientist/machine learning intern interviews? Whether you are ready depends on what your background is, what kind of company you are applying to, etc. 

@@ -1,0 +1,2 @@
+Business Intelligence: What data analysis engine should I learn?
+There are many data computation and analysis tools and I list some: Excel. Please refer to: http://office.microsoft.com/en-u... R language. Please refer to: http://www.r-project.org/ esProc. Please refer to: http://www.raqsoft.com/products SQL. Please refer to: http://en.wikipedia.org/wiki/SQL SAS. Please refer to: http://www.sas.com/ SPSS. Please refer to: http://www-01.ibm.com/software/a... Matlab. Please refer to: www.mathworks.com/products/matlab/    Embed Quote 

@@ -1,0 +1,2 @@
+★What's the word boundary mark in vim regular expression?
+"\< " and " \> "    Embed Quote

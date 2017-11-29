@@ -1,0 +1,2 @@
+How do I store a substring from a char * in C++?
+Create an anonymous string object from the  char * and call the  substr method on it. string my_substring = string(my_cstring).substr(pos, len); 

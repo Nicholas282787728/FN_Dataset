@@ -1,0 +1,1 @@
+Can you explain how Google's search algorithm works in an easy to understand way?Google's search algorithm is a virtual representation of how human beings would answer questions, by providing references in order of their usefulness and relevance to the person asking the question. 

@@ -1,0 +1,2 @@
+Which is better, PHP or Java?Which language suits better for an early stage web company.
+Considering Java as in JSP for web development. To be honest I've never really used JSP. I use PHP because of its ease and great functionality. Learning PHP after knowing other programming languages is very undifficult. Its fairly secure too. Also i believe java server pages are slightly slower, but more so insignificantly. To each their own is what it comes down to. Hope that makes sense. 

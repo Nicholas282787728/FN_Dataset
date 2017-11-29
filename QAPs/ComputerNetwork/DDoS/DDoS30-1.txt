@@ -1,0 +1,2 @@
+★Why would someone DDoS an unimportant site?Our site (Umbra Software) has been under a DDoS attack on/off for a couple of days now. As we are in b2b business, our traffic is quite small and we have not done anything controversial that would anger hackers. Why would anyone target our site for DDoS?
+Sometimes someone has to do a demo of their DDoS tool for someone. Or threaten someone saying "you will go down like this site". Sometimes people just need to sharpen their knives on a stone before they use that knife to stab someone in the heart.

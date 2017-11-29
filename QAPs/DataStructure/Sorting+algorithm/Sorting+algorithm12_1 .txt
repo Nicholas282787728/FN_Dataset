@@ -1,0 +1,1 @@
+Where and when sorting algorithms are useful?Sorting is used in many places, I can list some daily applications that I bet you are very familiar with: 1) Contact list: to sort contacts by first name, last name,.. 2) Excel sheet: to sort a column from A to Z or from Z to A. 

@@ -1,0 +1,2 @@
+What are some must-take courses for a career in data analysis?
+Short answer: Algorithms and Data Structures (essential for job interviews if nothing else) Databases Linear Algebra to as high of a level as possible Natural Language Processing Optimisation    Embed Quote 

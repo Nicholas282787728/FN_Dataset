@@ -1,0 +1,2 @@
+What is total number of edges in a completed graph when it contains 10 nodes?
+The answer is simply C(10,2) where C(n,i) represents number of ways to choose i objects from n distinct objects. You need to select 2 nodes from 10 nodes and add an edge between them. C(10,2)=10*(10-1)/2=45 

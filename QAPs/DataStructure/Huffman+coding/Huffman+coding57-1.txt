@@ -1,0 +1,2 @@
+What are some examples of problems for which a priority queue proves useful?
+Minimum spanning tree algorithms (Prim's and Kruskal's—I don't really remember the more clever ones.) Maintaining a small ordered list of elements that are streamed in from an external data source (top K results from a search query handled in a map reduce task or any other large-scale parallel processing scheme) Any priority-based scheduling task (OS processes, though there are other more complex schemes that handle this as well) 2.5k Views · 14 Upvotes

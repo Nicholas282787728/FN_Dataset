@@ -1,0 +1,2 @@
+★What is the state of the art in prediction and forecasting technology?
+Weather forecasting: WRF Version 3.2.1 (August 18, 2010)http://www.wrf-model.org/index.php www.mmm.ucar.edu/wrf/users/docs/arw_v3.pdf    Embed Quote

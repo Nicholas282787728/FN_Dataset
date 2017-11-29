@@ -1,0 +1,2 @@
+★What is a good algorithm to interpolate missing time-series data?
+Interpolation is typically used as preprocessing step. Not as an actual goal itself. Depending on the amount of data points that are missing, the average between last observed value and next observed value will be a very good approximation. You can actually test the performance of different "interpolation" algorithms by randomly deleting data points, apply your interpolation algorithm, and compute the interpolation error.    Embed Quote

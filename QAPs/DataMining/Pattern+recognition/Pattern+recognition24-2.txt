@@ -1,0 +1,2 @@
+★What is a good introductory article/textbook on the subject of statistical pattern recognition?
+David Mackay's "Information Theory, Inference, and Learning Algorithms" should also be considered.    Embed Quote

@@ -1,0 +1,1 @@
+In computer science and operations research, approximation algorithms are efficient algorithms that find approximate solutions to NP-hard optimization problems with provable guarantees on the distance of the returned solution to the optimal one.

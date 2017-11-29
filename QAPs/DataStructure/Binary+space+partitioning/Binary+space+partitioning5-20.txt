@@ -1,0 +1,2 @@
+What are some of the most ingenious algorithms in computer science?added bonus if the algorithm runs in constant time
+A nice collection: The Aggregate Magic Algorithms 

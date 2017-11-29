@@ -1,0 +1,2 @@
+What are the 10 must-know algorithms and data structures for a software engineer?
+10 must know algorithms: Binary search. Fast exponentiation. One sorting algorithm(preferably Mergesort) BFS Range minimum queries Matrix multiplications Bellman ford DP(Class of algorithms, but they have a lot in common) Union find Maximum matching 10 must know data structures: priority queue stack array list binary search tree segment tree suffix tree graph heap hash map(or map in general) 

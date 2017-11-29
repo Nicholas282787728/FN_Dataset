@@ -1,0 +1,2 @@
+What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
+Intermediate value theorem.  A continuous function on a closed, finite interval attains all values between the function at the endpoints. 

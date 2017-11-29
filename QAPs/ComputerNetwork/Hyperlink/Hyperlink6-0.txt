@@ -1,0 +1,2 @@
+★Is there any way to change hyperlink style in PowerPoint ?I would like to see something else than underlined blue text when I add an hyperlink.
+Assuming that you're using PPT 2007 here are the steps Design Tab - >Colors -> Create New Color Scheme -> There is a color for Hyperlink and a Followed Hyperlink. You can change them here. I believe you're stuck with the underline though.    Embed Quote

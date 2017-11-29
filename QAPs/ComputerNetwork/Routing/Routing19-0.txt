@@ -1,0 +1,2 @@
+★What is the best routing algorithm? Why?
+Distance Vector algorithm    Embed Quote

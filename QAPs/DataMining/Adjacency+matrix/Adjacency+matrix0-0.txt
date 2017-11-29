@@ -1,0 +1,25 @@
+★What is the adjacency matrix of a matrix?
+I think a question to ask is what is the graph that represents a matrix uniquely? A matrix is really an ordered collection of data types used to represent spatial relationships between multiple variables. Will it make sense if we attached a unique graph to it? This unique graph will probably not be very unique and depend on conventions for definitions. For example, we could use combinations of the row/column or submatrix pictures to represent the graph of a matrix. And when we do settle on the representation, it will have a very well defined adjacency matrix attached to it. (But that adjacency matrix is again not uniquely defined.) For example, you choose your representation of the graph of your matrix to be, | a b c | | d e f | | g h i | Would have a network with 9 nodes, one for each matrix element, i.e., a has an edge to b, d, and e. b has an edge to a, c, e, d, or f, and so on. The graph, G, of your example matrix looks like this: And its adjacency matrix [9x9], A(G) looks like this:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+ | A  B  C  D  E  F  G  H  I ---------------------------- A | 0  1  0  1  1  0  0  0  0 B | 1  0  1  1  1  1  0  0  0 C | 0  1  0  0  1  1  0  0  0 D | 1  1  0  0  1  0  1  1  0 E | 1  1  1  1  0  1  1  1  1 F | 0  1  1  0  1  0  0  1  1 G | 0  0  0  1  1  0  0  1  0 H | 0  0  0  1  1  1  1  0  1 I | 0  0  0  0  1  1  0  1  0 And here's the incidence matrix [9x20 edges] of the graph.  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+ .                    1 1 1 1 1 1 1 1 1 1 2    1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 ------------------------------------------ A| 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 B| 1 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 C| 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 D| 0 0 1 1 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 E| 0 0 0 0 1 1 1 1 0 0 1 0 1 0 1 0 0 1 0 0 F| 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 0 1 0 G| 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 H| 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 I| 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 Using spectral graph theory you can now calculate things like the number of walks of a certain length in G, or using the combinatorial Laplacian you can calculate spanning trees of G and so on. Additionally you could figure out the distance (number of edges) between two nodes, which I suppose you might be interested in. The least number of walks required to traverse the nodes would be an optimum definition of distance. In practical implementation however, you would still use some sort of a BFS/DFS approach to figuring out the shortest path. Given that the topology between two nodes is uniform (in images, according to the connectivity scheme we used to construct G like you proposed), the L2 norm metric would work similarly (and more efficiently). But if the connectivity was rule-based, for example you wanted to avoid certain regions of the graph [image], or showed preferences for regions (fast highways), then you could use something like Dijkstra/A* algos. This would also be useful if there were single-lane commitments (directional edges) as well. You could also use the distance matrix as another approach (if I go by the question you are following up to). But an image is just 2D, so distances using L2 norms are fine, but if you had N-D datasets and you needed to find nearest neighbors or something like that, then you would need to update your definitions for distances. We do this, for example, when calculating embedding dimensions in multi-modal phase spaces. (In  the question you are following up to, I did not use concepts based on  explicit definitions of distances because - while great for analysis of  problems with high abstractions - graph theoretic approaches get messy in actual implementations, and I wished to avoid discussing that. As it turned out, the  actual intention of the question was simple.)    Embed Quote

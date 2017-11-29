@@ -1,0 +1,2 @@
+Will Huffman code differ each time while constructing a tree?
+It won’t since it is using an algorithm that does not choose the nodes on a random basis. Instead it takes the elements with least frequency in the data set and combines them as it moves forward. So, as long as you have the same data set, Huffman code is bound to remain the same. 168 Views · 5 Upvotes

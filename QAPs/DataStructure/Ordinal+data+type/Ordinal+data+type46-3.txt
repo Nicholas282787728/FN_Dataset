@@ -1,0 +1,2 @@
+Is infinity +1 more than infinity?
+This is tricky.  In the infinities that reflect linear differences, this is true, and as such is the reason that euclidean geometry, which generally involves a (1/0  + 1 ) - (1/0) = 1 type constrcts, works. But many infinities and if the infinities are from different sources, that we can't use the measurement of one on the other, then this statement is more indeterminate, 

@@ -1,0 +1,2 @@
+How is the concept of class distinguishable from that of ADT (abstract data types)?
+'Abstract data type' is a concept and a class is just a way you can implement it. An AST is just a model that defines the outcomes of the operations on the type. 

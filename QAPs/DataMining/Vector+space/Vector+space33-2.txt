@@ -1,0 +1,2 @@
+★How do you prove a subspace of a finite-dimensional vector space is finite dimensional?
+Suppose V is a  vector space with dim(V) =n. All bases of V have n elements.  Thus, without loss of generality suppose B = { e1, e2, .... en} is a basis of V. Suppose U is a subspace of V. In order to be a subspace of V, any element u of U must also be in V. Thus,  u  must be a linear combination of  e1, e2, .... en. Thus U is of at most dimension n. i.e. U must also be finite dimensional.    Embed Quote

@@ -1,0 +1,2 @@
+What is an intuitive explanation of Huffman coding?
+Huffman's algorithm is used to generate optimal variable length encoding. What do I mean by that? Whenever we want to receive or transmit information we want to do it in an efficient way. ... (more)

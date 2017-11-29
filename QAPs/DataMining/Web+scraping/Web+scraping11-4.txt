@@ -1,0 +1,2 @@
+★What is web scraping and is Python the best language to use for this?If so why is python the best?
+I have only used Python, but what I like about Python is that it makes string manipulation very easy.  String manipulation is key to parsing information from a page.  Additionally, there are a large number of libraries available that make parsing data a little easier.    Embed Quote

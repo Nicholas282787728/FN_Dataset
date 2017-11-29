@@ -1,0 +1,2 @@
+How can I learn about artificial neural networks if I don't know anything about this field?
+A2A One course by Prof. Hinton  should be sufficient to begin and go to the state of the art in ANN today. For those who couldnt join the course on coursera, the videos are uploaded by somebody here: http://www.youtube.com/user/aico...    Embed Quote 

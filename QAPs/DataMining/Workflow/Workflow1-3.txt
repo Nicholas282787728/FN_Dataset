@@ -1,0 +1,2 @@
+★Front-end: What's the best workflow?What's your workflow? Gulp, grunt, yeoman, sass, less, stylus, atomic design, jade, Boostrap? Tell me.
+Editor: Notepad++ Sublime Markup language: HTML5 Styling: SASS + Compass JS: jQuery framework JS Frameworks: Depend on projects HTML Templating Framework : Depend on projects Browsers : Chrome, Firefox, IE Debugging: Debugger of browser and Fidller Testing tools for UI : Clipers For Questions: Quora and Stackoverlfow For Vido tuts: Lynda For automation : Grunt For Run time enviorment: Nodejs Happy Learning    Embed Quote

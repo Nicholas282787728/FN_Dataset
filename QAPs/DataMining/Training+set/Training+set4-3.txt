@@ -1,0 +1,2 @@
+★Where can one find a training set for sentiment analysis?
+Yes it depends on what you actually want to do. Based on that there are so many datasets available online like : Datasets  Multi-Domain Sentiment Dataset We called him Tortoise because he taught us. UMICH SI650 - Sentiment Classification Sentiment Analysis Tutorial    Embed Quote

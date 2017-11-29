@@ -1,0 +1,2 @@
+★What are the best talks/lectures related to big data/algorithms/machine learning?
+Lectures by Tom Mitchell & Thorsten Jochims Machine Learning CS4780 Machine Learning Course, Thorsten Joachims, Cornell University Some Learning material on Adv ML CS281: Advanced Machine Learning Talks by Christopher bishop. Christopher M. Bishop | Talks    Embed Quote

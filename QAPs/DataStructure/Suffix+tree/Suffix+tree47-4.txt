@@ -1,0 +1,2 @@
+How can we find the number of palindromic substrings in a string in linear time?
+refer Manacher’s Algorithm Longest Palindromic Substring Part II 

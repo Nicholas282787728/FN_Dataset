@@ -1,0 +1,2 @@
+What is the best lightweight Python library for working with graphs?So parsing data from a text file, database, and other sources to build a graph, querying the graph, analyzing the common properties of the graph structures?
+PySparse gets most of the jobs done. but i haven't really tried it on dense and large graphs. Updated 28 Sep 2012 • View Upvotes

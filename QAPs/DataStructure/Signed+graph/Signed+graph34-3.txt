@@ -1,0 +1,2 @@
+What are the most unexpected places you've seen determinants come up?
+I didn't know it until a couple of weeks ago, but determinants can be used to find the area of a triangle in the plane by building a matrix with the x coordinates of the vertices in the first row, the y coordinates in the second row and three ones on the third row. Surprisingly, the formula was taught to my girlfriend in high-school (and she has no clue of what a determinant is). I guess base times height divided by two wasn't good enough for the professors. 

@@ -1,0 +1,2 @@
+★What are some open-source implementations of vector space models?
+Lucene(http://lucene.apache.org/java/do...) can be used for TF-IDF and cosine similarity. Semanticvectors(http://code.google.com/p/semanti...) has well  written api for inclemently updating and maintaining the Lucene TF-IDF vectors. But both lucene and semantic vectors are complex. If you don't need some of  information retrieval and indexing functionality  provided with apache lucene , then you can use nltk(http://www.nltk.org/) for tf-idf and cosine similarity    Embed Quote

@@ -1,0 +1,2 @@
+What are some unsolved problems in graph theory?A basic explanation of the problem with pointers to its current status would be appreciated.
+I hope this helps. Open Problem Garden. It has a list of most of the well known unsolved problems in mathematics. The site also gives us the importance of the problems and the best part is has a few problems meant for undergraduates to try. 

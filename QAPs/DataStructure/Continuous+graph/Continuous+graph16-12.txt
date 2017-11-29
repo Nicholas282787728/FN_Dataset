@@ -1,0 +1,2 @@
+Mathematical Fallacies: How does one explain the “π = 4” proof regarding a square reduced to a circle?
+Originally Answered: What's wrong in this?When you keep doing this after n no. of removal line will be so small that it will approach to 0. Same concept is used to when we do in  sin(x) / x == cos(x) /1 and cos(x) for x->0 = 1.   So because of this ignorance it seems that pie becomes =4 as above else it is not equal to 4 in fact. 

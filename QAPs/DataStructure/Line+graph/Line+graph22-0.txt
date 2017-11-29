@@ -1,0 +1,2 @@
+What's the best language to develop pie charts/line graphs?
+Depending on your application, you can do it easily enough in JS using one of many different available libraries. For instance, Google Charts. Simple, ton of options and gets the job done: Charts  |  Google Developers If you’re looking for a more custom approach, look into D3: D3.js - Data-Driven Documents, or take a look at NVD3 for something pre-built. 285 Views

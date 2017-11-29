@@ -1,0 +1,2 @@
+Given a connected undirected graph with n nodes, and a rabbit that can jump from any node to another (on each turn) and a dog that can jump k nodes (one after the other) , prove that the dog can catch the rabbit?
+I'm confused by your question.  By "a graph with n nodes", do you mean it's a full graph that every nodes are directly connected? Do them move turn by turn? So the dog can catch the rabbit in one step no matter which node the rabbit stays? 

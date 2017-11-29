@@ -1,0 +1,2 @@
+★Why aren't web pages designed to fit the screen resolution?Space wasted on both the sides with centered overlay if used will save so many scrolling efforts and also gives opportunity to broader information poistioning. (More on same page or wider with same content)
+It's much easier and safe to simply design for the lowest common denominator of browser resolutions, which is still at the moment: 960px    Embed Quote

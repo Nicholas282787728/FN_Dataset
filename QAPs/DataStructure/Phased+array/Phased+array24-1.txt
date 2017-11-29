@@ -1,0 +1,2 @@
+Can we use Double-Slit Experiment to concentrate Wireless signal to certain point?
+Yes, but it would be way inefficient -- a lot of energy would be reflected from the wall, only a minor part of energy would actually pass through the slits. Even if you focused all of the energy to the slits, it won't be an efficient solution for sure. 

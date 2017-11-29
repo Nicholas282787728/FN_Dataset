@@ -1,0 +1,2 @@
+★Is HTML5 the future of mobile gaming?Will it eliminate fragmentation and allow developers to create one game for multiple platforms and operating systems?
+Might be if it starts running flawlessly on mobile. For the time being it's not. There are ways to make games in HTML5 however and then port them to Android or iOS easily without having any in-game lag. I have succeeded this by using Scirra's game engine Construct 2 for developing my games Create Games with Construct 2 Works flawlessly on all platforms.

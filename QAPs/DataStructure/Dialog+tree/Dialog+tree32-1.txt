@@ -1,0 +1,2 @@
+Why has the hard disk remained Drive C for all PCs I have seen?
+It never changed because it doesn't need to change, and changing might break stuff. Drive naming is a convention and this one dates back to DOS 5.0. The first HD partition containing the OS gets named C:  Some programs rely on this convention so the convention stays alive. I think we will see this fade away over the next ten years or so, but there is a lot of old software out there which needs to die first. 

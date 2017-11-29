@@ -1,0 +1,2 @@
+How can I design an efficient data structure that supports findMin, findMax, deleteMin, deleteMax, Insert, and delete?
+1. If you want to design something like this, go ahead and design. 2. If you want a solution that does all this, just use finger tree, no need to invent anything. 

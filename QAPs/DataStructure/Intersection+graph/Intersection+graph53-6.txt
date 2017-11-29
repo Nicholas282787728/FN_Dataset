@@ -1,0 +1,2 @@
+Which are the top blogs to follow to explore about algorithms and data structures?
+http://eternallyconfuzzled.com/j... http://www.allisons.org/ll/AlgDS/ http://wcipeg.com/wiki/Main_Page (A wiki) http://petr-mitrichev.blogspot.com/ Apart from the above, there are many good blog posts by users on codeforces.com 

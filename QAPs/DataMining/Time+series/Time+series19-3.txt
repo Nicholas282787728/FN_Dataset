@@ -1,0 +1,2 @@
+★What is a good algorithm to interpolate missing time-series data?
+Sinc interpolation works best for bandlimited signals.. http://demonstrations.wolfram.co...    Embed Quote

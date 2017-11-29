@@ -1,0 +1,2 @@
+What are some examples of how conditional random fields works?
+Edwin Chen's blog post has an explanation of linear-chain CRFs in a very simple language: Introduction to Conditional Random Fields 

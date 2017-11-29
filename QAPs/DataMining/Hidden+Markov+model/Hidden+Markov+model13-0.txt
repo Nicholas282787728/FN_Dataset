@@ -1,0 +1,2 @@
+★Are there any good hidden Markov model implementations in Java?
+You can try MALLET : MALLET homepage though it does many other things not just hidden markov models. Otherwise there is also a stand alone implementation that might be the case you use : jhmm - An Implementation of Hidden Markov Models & Training in Java - Google Project Hosting    Embed Quote

@@ -1,0 +1,2 @@
+★What are methods to make a predictive model more robust to outliers?
+Most people deal with outliers choosing between an L1 over an L2 regularization, as noted in other answers You can also deal with this if you use a weighted SVM, and you have estimate of the confidence of the labels (and the outliers would presumably have lower confidence)    Embed Quote

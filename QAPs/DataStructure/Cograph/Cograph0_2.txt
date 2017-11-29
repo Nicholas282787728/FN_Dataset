@@ -1,0 +1,1 @@
+what is the cograph? A cograph is a graph that can be generated from the single-vertex graph. Cographs have been discovered independently by several authors since the 1970s.

@@ -1,0 +1,2 @@
+PHP (programming language): For building a website, which programming language is easier to learn: Python or Java?
+When it comes to learning an object-oriented programming language, you might consider starting with either Python or Java. Both languages do have their unique advantages for developers. If you are just beginning your path towards a web programming, you might want to start by learning Python because it is less complex than Java for web programming. 

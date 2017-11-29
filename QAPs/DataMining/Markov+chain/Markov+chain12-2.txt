@@ -1,0 +1,2 @@
+★How are artificial neural networks and Markov chains different?
+It would be easier to explain the ways in which they are the same. They are both data structures. The end.    Embed Quote

@@ -1,0 +1,2 @@
+★Is it possible for unsupervised learning algorithms to outperform supervised ones?Assume the same data set. If this has been done, please provide links.
+The answer is no. In supervised learning we know both inputs and outputs, its more akin to training. In unsupervised learning no ouputs are given, ouputs are approximations.    Embed Quote

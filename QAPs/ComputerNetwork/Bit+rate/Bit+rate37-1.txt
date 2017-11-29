@@ -1,0 +1,2 @@
+★Is there really a noticeable difference between an audio file that has a 256 kps bit rate and one that has 128 kps?
+There is a very real and noticeable degradation of quality at 128kbps.

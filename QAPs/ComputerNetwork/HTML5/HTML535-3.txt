@@ -1,0 +1,2 @@
+★What are the best HTML5 practices on Internet, with HTML5 tutorials?
+In 'A List Apart' website you can find some very good tutorials/articles about HTML5:  http://www.alistapart.com/topics... Another good source is the W3C School website with tutorials, references, etc. You can find it here: http://www.w3schools.com/html5/d... And last but not least this website: http://html5tutorial.net/ has many really nice and useful tutorials about HTML5.

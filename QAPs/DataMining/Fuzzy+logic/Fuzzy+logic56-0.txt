@@ -1,0 +1,2 @@
+★How do you implement a fuzzy logic controller for handoff on FPGA?
+I can't explain fully over here. Hope this link would help http://www.hindawi.com/journals/...    Embed Quote

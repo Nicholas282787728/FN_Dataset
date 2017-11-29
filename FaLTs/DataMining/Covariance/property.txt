@@ -1,0 +1,8 @@
+Variance is a special case of the covariance when the two variables are identical:
+
+If x, y, w, and v are real-valued random variables and a, b, c, d are constant ("constant" in this context means non-random), then the following facts are a consequence of the definition of covariance:
+
+For sequences x1, ..., xn and y1, ..., ym of random variables, we have
+
+For a sequence x1, ..., xn of random variables, and constants a1, ..., an, we have
+

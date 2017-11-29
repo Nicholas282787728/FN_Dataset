@@ -1,0 +1,2 @@
+What are the 10 algorithms one must know in order to solve most algorithm problems?
+Algorithms used to solve Constraint satisfaction problem (CSP) are good to know. Some of the widely known CSP problems are N-queens problem, complex scheduling problems, Map coloring and problems like Zebra Puzzle. BacktrackingSearch (which is a kind of DFS with single variable assignment) is the basic algorithm for solving CSP. Some other technique to solve CSP are constraint propagation and local search. 8.4k Views · 19 Upvotes

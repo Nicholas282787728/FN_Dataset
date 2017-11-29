@@ -1,0 +1,2 @@
+★Who are some notable machine learning researchers?i.e. people doing interesting stuff in ML This is a follow-up on How do I learn machine learning?
+Here are few eminent researchers based on number of their publications and citations: 1. Anil K. Jain 2. Michael I. Jordan 3. Bernhard Scholkopf 4. Geoffrey E. Hinton 5. Alexander J. Smola 6. Vladimir Vapnik 7. Terrence J. Sejnowski 8. Tomaso A. Poggio 9. Azriel Rosenfeld 10. Robert E. Schapire 11. Zoubin Ghahramani 12. Daphne Koller Here is the complete list: Page on Microsoft    Embed Quote

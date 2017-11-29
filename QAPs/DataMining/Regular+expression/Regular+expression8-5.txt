@@ -1,0 +1,2 @@
+★Is this a valid Regular Expression for an email address?^[a-zA-Z0-9_?]+((@{1}[a-zA-z]+).(org|net|com|gov|us|edu))\Z
+I come up with ^[a-zA-Z0-9]+[^ ]*@[^ ]*\.(org|net|com|gov\us|edu)$ for matching different emails.  Nonetheless, I'm not 100% sure that this will be it.  Anyhow, of course, if you want to match even more top level domains for email addresses, you should add specific ones to the ones that had been added in between the last two parentheses at the end of the regex.  Does this solve your problem?    Embed Quote

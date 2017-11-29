@@ -1,0 +1,2 @@
+★How did the Sharpe ratio gain popularity in finance compared to other financial performance metrics?
+The Sharpe ratio is just a bastardized z score - it indicates whether or not the financial performance of X is statistically significant. Statistical significance implies skill vs luck. So the Sharpe Ratio is a simple tool, with strong mathematical underpinnings offering a profound insight into a key investment/performance question.    Embed Quote

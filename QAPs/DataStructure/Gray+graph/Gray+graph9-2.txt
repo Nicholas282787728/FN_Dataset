@@ -1,0 +1,2 @@
+I want to learn quantum mechanics. Where do I begin?
+Assuming that you are well versed with basic college level physics, I would suggest some preparation with Linear Algebra before proceeding to Quantum Mechanics. Once you are done accomplishing this, any introductory text on Quantum Mechanics could be a good starting point. A few good ones are: Principles of Quantum Mechanics by R. Shankar Introduction to Quantum Mechanics by David J. Griffiths Modern Quantum Mechanics by J. J. Sakurai 

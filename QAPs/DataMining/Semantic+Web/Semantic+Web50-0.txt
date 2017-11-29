@@ -1,0 +1,2 @@
+★Why doesn't Google use semantic web markup?For example at google.com/trends they don't use ids or classes, but use some old-school <font> tags. Why?
+Because they want the page to be readable by the broadest set of browsers possible.    Embed Quote

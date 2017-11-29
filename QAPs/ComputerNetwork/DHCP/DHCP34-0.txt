@@ -1,0 +1,2 @@
+★How long should the DHCP lease time be for a coffee / tea shop?
+Since the leased addresses are private and there is no shortage of them, leaving the lease time alone and adjusting the private space size is the better approach, as it costs nothing. If needed, you could use 10/8, which has 2^24 ~ 17M addresses. When you have more than 10M customers pass through the coffee shop a day, it is time to think of shortening the lease or supporting IPv6 autoconfig.

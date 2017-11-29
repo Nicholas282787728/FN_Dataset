@@ -1,0 +1,2 @@
+What is the difference between primary key and unique key in MySQL?
+Manoj Pandey sir, explained really well.. some extra points which I want to add 1. PK is used to identify a row (record) in a table , whereas UK is basically used to prevent duplicate values in a column with only one NULL VALUE. 

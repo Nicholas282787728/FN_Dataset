@@ -1,0 +1,2 @@
+How can solving a Rubik's Cube be framed as a graph problem?
+The graph modeling of the problem is the following: 1- Nodes are the states of the cube. 2- There is an edge between any two nodes x and y. If you can go from x to y or from y to x in one single move. Then you can get the shortest path between the current state and the initial state to the final state using any known shortest path algorithm. 1.6k Views · 2 Upvotes

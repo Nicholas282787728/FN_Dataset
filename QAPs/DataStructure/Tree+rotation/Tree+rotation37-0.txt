@@ -1,0 +1,2 @@
+What are the most important data structures in a tech interview?
+That depends what you mean. Strings and Arrays come up in more interview questions than anything else, but that's not really an "interesting" data structure. Of what people think of as "interesting" data structures, hash tables are used in more interview questions than anything. Not many questions are actually asked about hash tables though. For interview questions that companies actually ask algorithm questions about, binary trees probably come up the most. 

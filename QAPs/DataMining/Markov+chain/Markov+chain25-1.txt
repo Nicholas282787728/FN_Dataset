@@ -1,0 +1,19 @@
+★How does the Metropolis-Hastings algorithm work for Markov Chain Monte Carlo (MCMC) methods?
+You use the Metropolis-Hastings acceptance criterion to accept or reject the MCMC update at each iteration. If rejected, you remain where you are (and add your position to the sample nevertheless). Here's small example in python, adapted from one of the final questions of the excellent SMAC course at Coursera:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+ import random, math N = 20; position = 0 weight = [math.sin(k) + 1.5 for k in range(N)] pos_list = [] n_iter = 100000 for _ in range(n_iter):     Upsilon = random.uniform(0.0, 1.0)     # Markov Chain Monte Carlo update, preserving detailed balance     if Upsilon < 0.5:         new_position = (position + 1) % N     else:         new_position = (position - 1) % N     # Metropolis-Hastings acceptance criterion     if random.uniform(0.0, 1.0) < weight[new_position] / weight[position]:         position = new_position     pos_list.append(position)    Embed Quote

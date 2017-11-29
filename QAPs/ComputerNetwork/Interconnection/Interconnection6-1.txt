@@ -1,0 +1,2 @@
+★Why are power systems interconnected?
+Suppose they are not interconnected. Now, two types of situations may arise in any region having electricity supply. 1. there are some excess power which is generated in that area but is not used there. 2. There is need of more power than the amount is being generated. For the 1st case, since power can't be stored, we have to pass it to somewhere else so that others can use it. And for the 2nd, we need to get power from a region where something like case 1 occurred. For these reasons, they are interconnected.    Embed Quote

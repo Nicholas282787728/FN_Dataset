@@ -1,0 +1,1 @@
+How and what ways is a new item say X added to the linked lists?X can be inserted in many ways in a linked list. 1. At the end of the list 2. At the beginning of the list 3. Before a node in the list (node should be specified by the user) 4. After a node in the list 5. At the position specified by the user 89 Views  View Upvotes

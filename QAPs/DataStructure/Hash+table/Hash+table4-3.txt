@@ -1,0 +1,2 @@
+What should every programmer know about hash tables and hash functions?
+Hash tables: That they're a one-trick pony. They work great for lookups on whole keys, but suck at pretty much everything else (e.g. prefix lookups). Hash functions: That they need not always be perfect or nearly-so; for some applications like plagiarism detection or acoustic fingerprinting, you really do want collisions with similar keys (for some definition of "similar"). Always look at the intended use before deciding how your hash function should behave. 696 Views · 4 Upvotes

@@ -1,0 +1,2 @@
+What are the most learner-friendly resources for learning about algorithms?
+If you learn better by visualizing,  then this will definitely help you visualising data structures and algorithms through animation 

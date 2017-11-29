@@ -1,0 +1,2 @@
+How do you check if a substring has the tab character?
+It's a lot simpler to use x.contains("\t"). Or x.indexOf('\t')>=0. 

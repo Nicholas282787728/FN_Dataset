@@ -1,0 +1,2 @@
+How can one explain that the ordered pair (a, b) is identical to {a, {a, b}}?
+It's not really explain, and it's not really identical. An ordered pair is defined that way in one particular formalism: in set theory. If the only building block you have are sets, you have to build everything else from them, and {a,{a,b}} is the simplest way to break the symmetry between a and b - which is what you need to define an ordered pair. In other formalisms ordered pairs can be defined in different ways, for example as functions from {0,1} to the universe of your elements. 

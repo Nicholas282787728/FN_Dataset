@@ -1,0 +1,2 @@
+What are the differences between a Graph database and a Triple store ?
+Logically, they can be transferred to one another. But Graph database more cares about the characteristics of the graph (e.g. homomorphism, reachability), while Triple store is mainly built to make the query processing task easier to be done. 

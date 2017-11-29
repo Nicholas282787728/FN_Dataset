@@ -1,0 +1,1 @@
+Command line interfaces for software other than operating systems include a number of programming languages such as Tcl/Tk, PHP and others, as well as utilities such as the compression utilities WinZip and UltimateZip, and some FTP and ssh/telnet clients.

@@ -1,0 +1,1 @@
+I want to read a .raw image into an array in C. How can this be achieved?Head over to raw image decoder 61 Views

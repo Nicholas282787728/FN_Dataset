@@ -1,0 +1,2 @@
+How do I get training and certification in Java online?
+For  tutorials you can refer oracle's website Programmer Level I Exam and Java Tutorial . You can refer lynda's tutorial for video lectures.Apart from this you can refer Mala gupta's OCA Java SE 7 Programmer I Certification Guide for sample papers and type of questions that would be asked in the examination. Hope this helps :) PS-:I have tried answering your question although it's bit vague.You should have mentioned which certification exam you are talking about(Associate level or the professional level) 

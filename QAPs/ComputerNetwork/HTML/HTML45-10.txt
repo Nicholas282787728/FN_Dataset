@@ -1,0 +1,2 @@
+★What are the key differences between HTML and HTML5? Which is better?How html file supports web apps and mobile ui for all data
+Very simple HTML5.......b`coz It has new features and bug fixes.

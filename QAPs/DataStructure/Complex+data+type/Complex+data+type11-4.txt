@@ -1,0 +1,2 @@
+What makes C++ so good?
+For me there are three major points w.r.t c++ Ability to express real life in programming concepts (OOP support) Power of pointers Standard Template Library 

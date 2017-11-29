@@ -1,0 +1,1 @@
+non-recursive -lrb- iterative -rrb- df with $ o -lrb- n -rrb- $ size stack you can keep only the topmost copy of a node on the stack : if you stack be a link list , the asymptotic runtime stay the same . i doubt however that it will be much faster in practice unless you graph be very dense , because the constant involve be much bigger . 

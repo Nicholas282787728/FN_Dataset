@@ -1,0 +1,2 @@
+★How would you make a regular expression match everything but a certain string?
+All regular expressions are representable by deterministic finite state machines. So, should be able to construct a DFSA to accept the string, change all accept states in the DFSA with reject states, and all reject states with accept states. And now you have an DFSA that accepts all strings that do not match the original regular expression.    Embed Quote

@@ -1,0 +1,2 @@
+What are the advantages of B+ Trees over B Trees?
+Binary tree : Max 2 children, no constraints in the relationship between child and parent. BST : Max 2 children, Left Sub tree < Parent < Right Sub tree B tree : Self balancing trees. Each node can have > 2 children. But this also poses constraint on the minimum number of children for a node, to avoid our tree getting skewed. B+ tree : Leaf nodes have pointers to the subsequent leaves, faster access. B and B+ are used in RDBMS, file systems.... (more)

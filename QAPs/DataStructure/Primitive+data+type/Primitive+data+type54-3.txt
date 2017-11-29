@@ -1,0 +1,2 @@
+What must be the answers to this question on constructors?
+you've taken the time to overload the operator=, this won't work. The operator= only works on primitive data types. Custom data types must have their own assignment and comparison operators made. 

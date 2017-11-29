@@ -1,0 +1,2 @@
+What is Euclidean distance in terms of machine learning?
+Euclidean distance has nothing to do with machine learning specifically. It is only one of the many available options to measure the distance between two vectors / data objects. However, many classification algorithms (for e.g. K-Nearest Neighbour, Minimum Distance Classifier etc) use it to either train the classifier or decide the class membership of a test observation  and clustering algorithms (for e.g. K-means, K-medoids etc) use it to assign membership to data objects among different clusters. 

@@ -1,0 +1,2 @@
+★What are the differences between the Fourier series and the Fourier transform?
+In the continuous-time case: The Fourier series is used to synthesize periodic signals using a set of Fourier coefficients that is countable. The Fourier transform is used to synthesize non-periodic signals using a set of Fourier coefficients that is uncountable. The Fourier coefficients in the Fourier series can be obtained via uniform sampling of the Fourier transform. Sampling in the frequency-domain is equivalent to periodization in the time-domain.

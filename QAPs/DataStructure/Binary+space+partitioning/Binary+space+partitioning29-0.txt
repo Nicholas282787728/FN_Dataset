@@ -1,0 +1,2 @@
+What are the best machine learning packages in R?
+CRAN - Package e1071 - for Naive Bayes, SVMs, Latent Class Analysis CRAN - Package rpart - regression trees CRAN - Package randomForest - Random Forests CRAN - Package gbm - Generalized boosting models CRAN - Package kernlab - Support vector machines (very important for many binomial problems) Updated 10 Jul 2014 • View Upvotes

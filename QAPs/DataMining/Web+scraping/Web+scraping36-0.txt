@@ -1,0 +1,2 @@
+★What types of SaaS companies can be built from Web-Scraping?
+Google(!) - Search engines Rotten tomatoes, Metacritic - Review aggregator sites IBM Watson, Siri - Question answering helpers Junglee - Price comparison sites http://gre-3dicted.herokuapp.com/ - GRE helpers :)    Embed Quote

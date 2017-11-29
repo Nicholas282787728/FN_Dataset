@@ -1,0 +1,2 @@
+★How do we choose with confidence the validation data sets from training sets of data in a machine learning algorithm?
+Maybe you misunderstand cross-validation? The validation sets should not contains any information from the training sets, otherwise they lose their purposes of validation.    Embed Quote

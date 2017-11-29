@@ -1,0 +1,2 @@
+★Where do properties of matrices, vector spaces, etc. come from?
+I guess you are searching for the topic "functional analysis". Brief overview on construction of spaces. Why do people define inner product spaces, Hilbert spaces?    Embed Quote

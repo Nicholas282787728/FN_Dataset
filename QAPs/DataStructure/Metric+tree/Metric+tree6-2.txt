@@ -1,0 +1,2 @@
+Are 80% bounce from Google PPC and 60% bounce from Bing PPC normal?
+It depends upon your website. If you have only one page on your site, Google Analytics doesn't register multiple page views unless visitors reload that page. As a result, single-page sites tend to have high bounce rates. And if its not a single page website then its surely on the higher end. 

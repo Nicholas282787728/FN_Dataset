@@ -1,0 +1,1 @@
+How do I convert a doubly circular linked list into a singly circular linked list?I need to assume a lot of things to answer this. The simple thing you can do is, remove a pointer (left or right) of your choice in doubly linked list, same from all nodes, and make your last node point to first node. BTW do you want some code? 493 Views

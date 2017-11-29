@@ -1,0 +1,2 @@
+★What are the best practices in knowledge management for IT Service management (ITSM)?
+Try KCS or Knowledge Centred Support - it's not ITIL specific but a methodology which can be used in conjunction.    Embed Quote

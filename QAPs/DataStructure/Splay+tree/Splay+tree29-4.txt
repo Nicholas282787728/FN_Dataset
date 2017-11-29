@@ -1,0 +1,2 @@
+What are some useful but lesser known data structures?
+I personally like Bloom filters (http://en.wikipedia.org/wiki/Blo...) in addition to the other probabilistic data structures. As I work with more and more data it's important to realize that you can trade speed for accuracy. In a lot of cases that trade-off is worth making. 

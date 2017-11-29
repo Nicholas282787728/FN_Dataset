@@ -1,0 +1,2 @@
+What are the best startups in the field of analytics / data mining / databases?
+Vertica (www.vertica.com), which builds a fast column-oriented data warehousing solution on commodity hardware, has been nabbing some large customers like Verizon, Comcast, Zynga, and Guess.    Embed Quote 

@@ -1,0 +1,2 @@
+★Why is there a MAC address and an IP address?
+Are you aware of ARP - Address resolution protocol? Try looking that up and that should answer your question.    Embed Quote

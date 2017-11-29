@@ -1,0 +1,2 @@
+Do most computer scientists realize that game design is generally more fun than computer science research?
+Some (many?) people would argue that playing games is more fun than design them. That said, in many aspects computer science is like a game: we have the luxury of being able to "create our problems", in a way, thus we design rules, apply them, and hopefully "win" (read: make a proof). It's just that our tools of the trade are different. 

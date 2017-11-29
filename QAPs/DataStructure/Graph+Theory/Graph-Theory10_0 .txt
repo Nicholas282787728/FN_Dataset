@@ -1,0 +1,1 @@
+Are there new question topics for ICPC (for example, not Graph Theory or Dynamic Programming)? If so, what are they?Sincerely, I’d not be very surprised if we went to see some problem with «Rotating Calipers» this year :) (for example, determining the minimum bounding box (not necessarily parallel to the axis) of a set of points) 102 Views · View Upvotes

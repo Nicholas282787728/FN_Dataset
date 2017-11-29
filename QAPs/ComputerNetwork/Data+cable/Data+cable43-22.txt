@@ -1,0 +1,2 @@
+★What purpose does the small cylindrical module near the end of my laptop charger cable serve?
+This is a ferrite core used to reduce the electromagnetic interference produced by the cable. Cables act as antennas receiving high frequency signals. The ferrite adds inductance which attenuates or reduces the unwanted signal while allowing the lower frequency power / data to go through. They act as filters.

@@ -1,0 +1,2 @@
+Functional Programming: What are type lenses?
+Since I do not feel that these answers do the question justice, I will give it a shot, while also trying to get the other answers to be more useful. So, here is my answer (short form):      "A type lens is to types as a data lens is to data."      There are many useful answers to what data lenses are, above mine. 

@@ -1,0 +1,2 @@
+★What are some unusual applications of Hidden Markov Models?
+"Love in the Hidden Markov Model", http://www.dcs.shef.ac.uk/%7Ewei... It's in Chinese, an online version here may be translated into English: LiLei&HanMeiMei的隐式马尔可夫爱情    Embed Quote

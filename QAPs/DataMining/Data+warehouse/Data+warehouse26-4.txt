@@ -1,0 +1,2 @@
+★Which is the best open source/ free database management system for building a data warehouse?What is the best data warehousing / OLAP solution present in opensource and used by big companies?
+Besides de obvious MySQL, CUBRID might also a good alternative for you. I know this is the DBMS NHN Corp uses (http://www.nhnusainc.com/usa/ind...), so it fits the criteria "used by big companies". It really depends on what your needs are, but I think you should closely analize and compare at least 4 or 5 DBMS before you make a decision.    Embed Quote

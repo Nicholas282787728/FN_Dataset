@@ -1,0 +1,2 @@
+How are input files generated for problems on different online judges by problem setter?
+A2A I am not sure about this, but I think the problem setters randomly generate some large test cases and first run them on their solutions. Then those generated test cases are made to run on the submitted solutions. The then generated solutions file is compared with theirs to check the correctness of the submitted solutions. 

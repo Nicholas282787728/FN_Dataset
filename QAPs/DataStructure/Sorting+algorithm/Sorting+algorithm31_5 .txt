@@ -1,0 +1,1 @@
+Is there any sorting algorithm which is in place, stable, and has linear runtime?Another useful algorithm is counting sort which is also not in-place, but it is stable and very easy to understand and implement. But it might not be a good idea for sorting big range of numbers with this algorithm since it uses lots of memory. 

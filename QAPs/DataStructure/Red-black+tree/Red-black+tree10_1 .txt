@@ -1,0 +1,1 @@
+Is it possible to have all black nodes in a red-black tree?Yes. For example, when your tree has just one node, all the nodes are black. 

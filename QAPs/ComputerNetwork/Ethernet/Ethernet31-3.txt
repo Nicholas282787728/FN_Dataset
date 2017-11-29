@@ -1,0 +1,2 @@
+★How does the Raspberry Pi connect to the Internet without an Ethernet slot?
+Use a Wi-Fi Dongle, they're cheap, and reliable. Usually Raspbian comes with Wi-Fi settings

@@ -1,0 +1,1 @@
+How can we merge two binary heaps efficiently?The heap is represented as an array.

@@ -1,0 +1,2 @@
+★When is a hypothesis accepted?
+In the standard statistical testing framework, there's no such thing as accepting a hypothesis.  You can either reject it, or fail to reject it. Informally, once a hypothesis has agreed with the data enough, people start to believe in it.  It would be very nice if we had a statistical framework that actually behaves like we think, but that's probably still a ways off.    Embed Quote

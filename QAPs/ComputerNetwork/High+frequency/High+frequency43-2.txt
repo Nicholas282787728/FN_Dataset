@@ -1,0 +1,2 @@
+★How do high frequency trading companies make such large and consistent profits?
+Volume and Volatility (market volatility can lead to more volume). The more widely a security changes in price the more likely that there will be trading (buying/selling) of this security.

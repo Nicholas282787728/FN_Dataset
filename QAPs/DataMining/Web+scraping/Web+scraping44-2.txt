@@ -1,0 +1,2 @@
+★I need to extract data from FT, mainly stock prices. What web scraping tool is the best?
+If you want stock prices, yahoo finance allows users to export stock data into an excel for free.    Embed Quote

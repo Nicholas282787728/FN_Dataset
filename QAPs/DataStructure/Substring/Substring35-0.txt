@@ -1,0 +1,2 @@
+How can I verify the substring of a single integer without using arrays?
+string a,b; cin>>a>>b; int position_of_b_in_a; position_of_b_in_a=a.find(b);//if b is a substring of a , then we get the first occurance position of b in a . If not we get -1 if(position_of_b_in_a >= 0){ cout<<1<<'\n'; } else cout<<0<<'\n'; 

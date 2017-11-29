@@ -1,0 +1,2 @@
+What are the pros and cons of using a hash index instead of a B-tree index?
+Check my answer for a similar question: Between hashing and b-trees, which method is preferable for storing indexes in a database? 1.1k Views · 1 Upvote

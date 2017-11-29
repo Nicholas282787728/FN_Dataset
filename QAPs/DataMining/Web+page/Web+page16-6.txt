@@ -1,0 +1,2 @@
+★What is a good service that provides visual heatmaps of user clicks on a web page?I have already checked out crazyegg and clickdensity and am not impressed by either. Is there a service you would recommend? Is there an open source solution?
+Another option is putting some pieces together. The click tracking/data gathering won't take more than 30 lines of Jquery (http://css-tricks.com/tracking-c...). Displaying this data could be done using Heatmap.js (http://www.patrick-wied.at/stati...), which looks great.    Embed Quote

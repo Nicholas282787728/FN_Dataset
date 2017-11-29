@@ -1,0 +1,2 @@
+Hash Functions: What is an intuitive explanation of the HMAC algorithm?
+Because most hash functions are iterative it is actually not that difficult to append extra data to the message and produce a valid authentication code (relative to editing the original message and producing a valid authentication code). By rehashing the hash it means that this form of attack no longer works because you don't know what the original hash for the key || message value was. 

@@ -1,0 +1,1 @@
+How do you do an array in Python?pretty much the same as in other languages : myList=[1,2,3,4] then you can take an element by index print myList[2] it displays the value 3 or you can use one of the values and assign it a new value myList[3]=100 134 Views  View Upvotes

@@ -1,0 +1,2 @@
+What are the advantages of using BFS over DFS or using DFS over BFS? What are the applications and downsides of each?
+Advantages of  BFS:- 1. Solution will definitely found out by BFS If there are some solution. 2. BFS will never get trapped in blind alley , means unwanted nodes. 3. If there are more than one solution then it will find solution with minimal steps. Disadvantages Of BFS :- 1. Memory Constraints As it stores all the nodes of present level to go for next level.... (more)

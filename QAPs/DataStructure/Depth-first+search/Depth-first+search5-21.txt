@@ -1,0 +1,2 @@
+What are the top 10 algorithms every software engineer should know by heart?
+It is useless to learn algorithms by hearth. Learn them so that you can explain how they work on paper/with playing cards, etc. My list is: binary search hash map bubble sort qsort merge sort backtracking... (more)

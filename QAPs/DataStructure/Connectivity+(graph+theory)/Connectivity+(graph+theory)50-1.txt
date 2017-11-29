@@ -1,0 +1,2 @@
+What are edges in graph theory?
+A graph consists of vertices and edges between vertices. Think of connect the dots. The dots are the vertices, and the arcs between them are the edges. If you want to abstract that way, a graph can be thought of as a 2-tuple of sets. G=(V,E)  . V  is called the vertex set and E  is the edge set. In the case of directed graphs, you have a map ϕ:E→V×V  . In the case of an undirected graph, you have a map ϕ:E→V 2   where V 2 ={{v,w}:v,w∈V}  . 

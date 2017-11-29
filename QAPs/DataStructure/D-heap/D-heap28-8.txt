@@ -1,0 +1,2 @@
+What are some time-saving tips that every Linux user should know?
+All of these are fantastic. The only one I really like that I don't think anyone else mentioned is Ctrl-d. ctrl-d sends an EOF (end of file) character. This is super useful for when typing input and needing to signal that you are done. Also, most shells take ctrl-d, and use it to close your session. So for instance, it will end your ssh connection, or close your OSX Terminal window, or end your screen session or whatever. Super fast and awesome way to exit things. 

@@ -1,0 +1,2 @@
+What are line graphs useful for?
+Showing relationships between two variables (one on each each axis) As in a formula (y=2x+5). Showing trends over time (better than column charts). 56 Views

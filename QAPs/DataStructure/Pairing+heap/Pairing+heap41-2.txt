@@ -1,0 +1,2 @@
+Can anyone provide me a list of all algorithms needed for ACM-ICPC?
+You could see this Google Doc, Programming Camp Syllabus - Google Docs It covers all the algorithms asked in programming contests, and not only that, also gives 3 4 problems links to try the algorithm on. 

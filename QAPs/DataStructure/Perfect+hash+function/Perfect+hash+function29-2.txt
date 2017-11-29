@@ -1,0 +1,2 @@
+Software Engineering:  What are the downsides of using my own hashing function instead of popular ones available?
+For security/privacy purposes as in cryptography, it's all downside. But there's other uses purposes for using as hash-function, such as generating a hash table of some data set in order to achieve quick lookups.  If you know enough about the nature of the data set, you can generate a hash function tailored to the data set to distribute the data more evenly about the hash table, avoiding hashing collisions. 

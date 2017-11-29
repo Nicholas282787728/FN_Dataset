@@ -1,0 +1,2 @@
+★What are some parallel gradient descent algorithms?
+See the blog post by Alex Smola, "Parallel Stochastic Gradient Descent" (and comments), 2010: http://blog.smola.org/post/97792... Bradley et al., Parallel Coordinate Descent for L1-Regularized Loss Minimization (2011) : http://www.icml-2011.org/papers/... (via Olivier Grisel)    Embed Quote

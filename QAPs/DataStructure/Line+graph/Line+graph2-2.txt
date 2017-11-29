@@ -1,0 +1,2 @@
+What are line graphs useful for?
+A simple answer is to look for trend.  That gives you an easy visual inspection if certain simple linear/non-linear relationship exists between one independent variable and one dependent variable. 75 Views

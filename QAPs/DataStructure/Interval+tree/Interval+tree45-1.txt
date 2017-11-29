@@ -1,0 +1,2 @@
+What are some advanced data structures that one needs to be familiar with?After being familiar with the most common data structures such as queues and linked lists what are some really good data structures that would help build well optimized code.
+Here is a list of what i think: B Tree B+ Tree Red Black Tree Disjoint set Data structure Interval Trees Patricia tree I will update this as i learn new ones. Updated 27 Sep 2013

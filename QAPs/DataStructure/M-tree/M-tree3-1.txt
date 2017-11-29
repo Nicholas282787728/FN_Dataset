@@ -1,0 +1,2 @@
+What is in general time complexity of random forest? What are the important parameters that affect this complexity?
+Here is my take on this question. Abhishek Kuppili's answer to What is the time complexity of Random Forest, both building the model and classification? 

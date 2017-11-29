@@ -1,0 +1,2 @@
+★Can I find the standard deviation over a day from monthly data?I have monthly data and would like to calculate some statistics for a day. Is there any way to do this from monthly data? Specifically I'd like to find a daily standard deviation.
+You can if you assume that the daily standard deviation is constant over time and daily values are independent. Then it is the monthly deviation divided by the square root of 30 (assuming 30 days in a month).    Embed Quote

@@ -1,0 +1,2 @@
+What is a "point" in calculus? As in "a line is tangent to the curve at one point"?
+You generally start by constructing the reals: Construction of the real numbers Then points are generally thought of as elements of [math]\mathbb{R}^n[/math], which is the direct product of the real numbers with itself [math]n[/math] times. 

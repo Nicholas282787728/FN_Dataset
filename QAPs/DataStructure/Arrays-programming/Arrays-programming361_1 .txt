@@ -1,0 +1,1 @@
+What are some ways Arrays are used in Java projects?Arrays is a universal class in Java that provides common APIs for Array to sort, search, fill data and make equal operation. 20 Views

@@ -1,0 +1,2 @@
+Carl Friedrich Gauss: How would you explain the Gaussian distribution in layman's terms?
+I would draw the bell shape. Explain it shows the middle to be more likely than the tails and that in this way uncertainty can be handled mathematically. Then explain that a mathematical theorem (the central limit theorem) states that exactly this distribution pops up whenever the uncertainty is a result of many small indepedent contributions. Finally I would examplify this with a couple of real examples preferably of interest to the audience.    Embed Quote 

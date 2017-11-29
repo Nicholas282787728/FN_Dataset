@@ -1,0 +1,1 @@
+What will be an efficient and correct algorithm to find the biconnected components of a graph?This is also an exercise in CLRS (part 22(h)) , Quoting it "Give an O(E) time algorithm to label each edge e of G with a positive integer e:bcc such that e:bcc = :e' : bcc if and only if e and e' are in the same biconnected component. "

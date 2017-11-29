@@ -1,0 +1,1 @@
+The standard error (SE) of a parameter is the standard deviation of its sampling distribution[1] or an estimate of the standard deviation[2]. If the parameter or the statistic is the mean, it is called the standard error of the mean (SEM).

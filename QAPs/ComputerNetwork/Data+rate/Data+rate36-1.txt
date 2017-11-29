@@ -1,0 +1,2 @@
+★Is there a way to remove heart rate data from Strava?I'd like to record HR data but not publish it publicly (similar to what Garmin Connect does).  Is this possible with Strava?
+FIT File Tools allows you to remove selected fields (like heart rate or power) from a Garmin fit file before uploading it to Strava.

@@ -1,0 +1,2 @@
+★How would you explain Proxy server and VPN (Virtual Private Network)?
+VPN: A device from a network tunnels into another network, the tunneled device virtually exists on the local area network. What is tunnelling? Encapsulating a packet in the payload field of another packet. Proxy: Proxies forward packets which were forwarded to them, from a device via it's gateway. Proxies are basically middle men.  They simply exchange markets and forward it to the intended recipient.    Embed Quote

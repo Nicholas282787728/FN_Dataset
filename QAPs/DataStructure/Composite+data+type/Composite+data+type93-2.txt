@@ -1,0 +1,1 @@
+What are the best practices for implementing pagination on a website with a large amount of data?In my case: I have to group and sort about 1.5 million items for pagination (average number for each category) - MSSQL server makes this but slowly.

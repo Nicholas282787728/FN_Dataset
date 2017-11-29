@@ -1,0 +1,2 @@
+★Which method of regular expression in Python is more efficient and why?
+Personally I don't think a REGEX is very efficient at all. A customized parse for a particular sequence will usually be much more efficient.    Embed Quote

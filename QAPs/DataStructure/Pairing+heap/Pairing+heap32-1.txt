@@ -1,0 +1,2 @@
+What algorithm i should use for shortest path problem?
+IF your graph is sparse and by Dijkstra's fibonacci heap implementation you mean this Johnson's algorithm then thats the one you should use 

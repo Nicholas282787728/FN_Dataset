@@ -1,0 +1,2 @@
+Why is the Boolean data type absent in C?
+The primitive data types in C indicate the sizes instead of the usages of the variables, differing from modern programming languages. This meaning of "data type" is inherited from assembly language, where only the size but not the purpose of a memory allocation is concerned by the language itself. The concept of boolean is then implemented separately into a library, as Sergey Zubkov has pointed out. 

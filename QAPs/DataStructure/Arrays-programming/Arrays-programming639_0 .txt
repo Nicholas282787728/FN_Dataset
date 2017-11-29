@@ -1,0 +1,1 @@
+Why should we use vectors rather than arrays while coding in c++?Arrays do not grow dynamically. Arrays do not know their size. (though you can use std::array to get rid of this shortcoming. 135 Views

@@ -1,0 +1,2 @@
+How should I prepare for my Google interview if I have 1 month left?
+Go through Cracking the Coding Interview (Book) make sure you can solve each problem and code it without checking the answers. 

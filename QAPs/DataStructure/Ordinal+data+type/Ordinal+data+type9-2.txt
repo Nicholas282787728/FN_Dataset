@@ -1,0 +1,2 @@
+Is [math] \infty +1 = \infty -1 [/math]?
+If you're using cardinals (1 apple, 2 apples, 3 apples), then they both equal infinity. However, if you're using ordinals, (1st apple that you picked, 2nd apple that you picked, 3rd apple that you picked), then (infinity-1)=infinity, but (infinity+1)=infinity+1. 

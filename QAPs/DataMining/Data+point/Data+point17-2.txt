@@ -1,0 +1,2 @@
+What's the best WordPress theme or plugin for a business directory with geolocation and custom data points for each entry?
+Business Directory Plugin now supports this with our  Maps Module.  Previously, it only worked with address field data, but now our maps allow you to grab the pin and literally drop it wherever you want to get the right location.  We also support lat/long entry as well. Full disclosure:  I'm the owner.    Embed Quote 

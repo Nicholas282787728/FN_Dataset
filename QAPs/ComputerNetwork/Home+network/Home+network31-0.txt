@@ -1,0 +1,2 @@
+★Can the Kindle Fire stream mkv files over a home network?With apps like AirVideo, the iPad has no issues playing even 720p MKV files over a wifi home network, however, will the Kindle Fire be able to support MKV files, or even Divx AVI files?
+To solve these problems, a great method is to convert MKV to Kindle Fire HD supported video formats (H.264 MP4 is highly recommended) with some help from third-party tools. To get the work done, you can try Pavtube Kindle Fire HD Video Converter. Hope it helps!

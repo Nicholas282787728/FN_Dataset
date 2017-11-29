@@ -1,0 +1,2 @@
+★What is the difference between regular SVM and structural SVM?
+Structural SVM is a generalization of the SVM to allow structured output (e.g., trees). The standard equation computes a dot product between the learned weights and a feature mapping: . The difference in the structural SVM case is that, simply put, some combined feature representation of inputs and outputs, , is used instead: .    Embed Quote

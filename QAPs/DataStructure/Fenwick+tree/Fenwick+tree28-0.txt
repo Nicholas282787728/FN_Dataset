@@ -1,0 +1,2 @@
+Data Structures: What data structure would allow adding an element, removing an element, and querying for the number of elements in the range (a, b), all in O(logn) time?
+A self-balancing order statistic tree is the most canonical solution to your problem. If your keys are all in a small range (e.g. 1 to K such that you can take O(K) space for your data structure), you can use a Fenwick tree or segment tree,which may be easier to implement than an order statistic tree. 

@@ -1,0 +1,2 @@
+What is the importance of prime numbers in computer science?
+Cryptography and encryption algorithms heavily rely on primes. 

@@ -1,0 +1,1 @@
+How to dynamically set the number or reducers in hadoop mapreduce job?¡°-D mapred.reduce.tasks=10¡å will enforce the job to run on 10 reducers.

@@ -1,0 +1,2 @@
+★What are some good resources to get started with Information Retrieval? Why?
+I agree with Rohit. IR book by Croft et al is pretty good. For a beginner I will actually suggest to go with that book rather than the one by Manning    Embed Quote

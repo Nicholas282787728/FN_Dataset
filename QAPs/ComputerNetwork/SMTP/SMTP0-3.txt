@@ -1,0 +1,2 @@
+★What are the best open source SMTP servers?in terms of reliability, performance, number of emails sent per day.
+I really like qmail. Compiling it is somewhat hairy, but if your distro offers a package, go for it. It's beauty lies in the simple configuration. Want more remote threads? Alter a number in a text file. The other function I really love it piping mail into scripts directly. Makes for cool auto-responders, or automated signatures/layouts/etcetera.    Embed Quote

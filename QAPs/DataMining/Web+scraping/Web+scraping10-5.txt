@@ -1,0 +1,2 @@
+★What are some good tools for interactive web scraping and automation?Tools for automating or scripting web app access, including rich JavaScript apps. Commercial or open source. Clarification Looks like the answers tools are for classic "scraping" or parsing websites read-only. I'm looking for a solution for those cases where the user needs to load forms or even run JavaScript client-side functions.
+For windows, tried HTMLAgility Pack, open source. Works well.    Embed Quote

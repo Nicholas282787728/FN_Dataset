@@ -1,0 +1,2 @@
+★Does AWS EC2 offer DDoS protection?
+This is untrue.  Amazon do in fact offer DDoS mitigation services, for a fee.  Attacker capacity always exceeds defender capacity, so scaling up additional server instances won't help.

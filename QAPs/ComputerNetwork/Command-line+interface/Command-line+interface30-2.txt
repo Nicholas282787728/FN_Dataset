@@ -1,0 +1,2 @@
+★What are some awesome/cool GEMs to use in Rails?
+I have compiled a list of gems everyone should use for development machine. I am sure you will find some of them pretty nice Must have gems for development machine in ruby on rails PS: Please leave a comment on the post in case you know some of other better gems..

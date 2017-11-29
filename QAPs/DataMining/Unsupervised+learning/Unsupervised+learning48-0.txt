@@ -1,0 +1,2 @@
+★What is the best way to make a neural net capable of unsupervised learning, and what are its uses?Is there an API for it
+For unsupervised learning, Auto-Encoder and its variants to begin with. Other options are generative models such as Restricted Boltzman Machines Unsupervised models are used when you don't have labels for the data and you want to learn the inherent structure in it. Check out several deep learning software in different languages: Software links " Deep Learning Java API: Open-source, distributed deep learning for the JVM    Embed Quote

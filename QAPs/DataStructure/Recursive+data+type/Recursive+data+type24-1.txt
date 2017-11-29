@@ -1,0 +1,2 @@
+Java (programming language):  Which data type is used to store values as large as [math]100![/math] ?
+There is no primitive data type to store such large numbers. However, java has a special class to hold large numbers. Its BigInteger [1] . Theoretically this class has no limit for numbers. But is still restricted by the resources available depending on hardware. [1] BigInteger (Java Platform SE 7 ) 

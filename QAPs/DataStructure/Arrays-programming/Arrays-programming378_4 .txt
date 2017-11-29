@@ -1,0 +1,1 @@
+How do you initialize an array of structures in C?You can use: struct sample { char *name; int age; };  struct sample x[] = { {"foo", 1}, {"bar", 2} };  // or the C99 syntax for doing it  struct sample y[] = { {.name = "foo", .age = 1}, {.name = "bar", .age = 2} }; The first one is more portable if you face systems which have compilers without C99 support. 52 Views

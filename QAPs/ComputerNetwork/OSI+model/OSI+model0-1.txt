@@ -1,0 +1,2 @@
+★Does the OSI model also apply to mobile networks?Does the OSI model also apply to mobile networks like 2G,... or does it have its own dedicated set of protocols?
+The OSI model doesn't apply to mobile or fixed networks. It's completely obsolete. Forget that you even ever knew about it.    Embed Quote

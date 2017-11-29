@@ -1,0 +1,2 @@
+Let f(x)=ax 2 +bx+c  be a quadratic polynomial where a,b,c  are real numbers. How can it be proved that f(f(x))=x  has no real solution?
+I think the problem should be altered to "Show that there exists no quadratic polynomial f such that f(f(x))=x for all x in R." If the problem stated that way. It is enough to say that there exists no such f since none of the quadratic polynomials are self inverses. 

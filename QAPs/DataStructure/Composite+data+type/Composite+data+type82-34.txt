@@ -1,0 +1,2 @@
+How many lines of code can a good programmer write in one hour?
+Mark Twain says it all: “I didn't have time to write a short letter, so I wrote a long one instead.” Same goes for me with programming. Productivity is not lines of code. Productivity should be measured in functionality delivered. On projects where lines of code are a reliable measurement, a clever programmer could probably write a code-generator and then start working from home :-) 

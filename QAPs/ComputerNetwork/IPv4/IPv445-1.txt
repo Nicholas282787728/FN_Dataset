@@ -1,0 +1,2 @@
+★Why is the minimum packet size 576 and 1280 bytes in ipv4 and ipv6, respectively?
+here is the answer- What is The Difference Between IPv6 and IPv4?

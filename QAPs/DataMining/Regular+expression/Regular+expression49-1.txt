@@ -1,0 +1,2 @@
+★Where can I learn and practice regular expressions?
+i found this tutorial very useful You Don’t Know Anything About Regular Expressions: A Complete Guide nettuts also offers a course on regex Regular Expressions: Up and Running "Best way of learning is by doing " So for practising regex you can use this amazing webapp http://gskinner.com/RegExr/    Embed Quote

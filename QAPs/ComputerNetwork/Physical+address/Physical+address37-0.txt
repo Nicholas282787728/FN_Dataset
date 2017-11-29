@@ -1,0 +1,2 @@
+★A physical address indicates a block on the disk where data can be found? is it true or false
+True, but incomplete. A physical address might indicate the location of data on a magnetic disk, in RAM, on a bus, or on some other kind of storage device.    Embed Quote

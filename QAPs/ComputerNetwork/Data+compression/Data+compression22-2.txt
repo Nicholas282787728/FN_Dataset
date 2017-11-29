@@ -1,0 +1,2 @@
+★Data Compression: Does bzip2 work as well on gzipped files as it does on uncompressed files?Is there any difference in net compression depending on whether you apply better compression algorithms in sequence or start with the raw data and go straight to the best compression algorithm?
+Compression is never guaranteed.  If you try to compress a compressed file, it may actually expand. So, yes, try your best algorithm on the raw data.

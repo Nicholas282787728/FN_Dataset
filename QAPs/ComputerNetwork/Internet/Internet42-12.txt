@@ -1,0 +1,2 @@
+★What was it like to be on the Internet during the 1980s?A follow-up question to What was it like to be on the Internet during the 1990s?
+Not many mere civilians got on the actual Internet in the 1980's... The closest you could get is your local BBS which might be communicating with other BBS's with Fidonet. Later on BBS's could exchange mail with the internet and might even have a Telnet proxy.

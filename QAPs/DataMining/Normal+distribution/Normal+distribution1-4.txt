@@ -1,0 +1,2 @@
+★Should grades be normally distributed?If so, what does it mean that the histogram of the grades is not Gaussian?
+No. Class tests have an inherent error of measurement, so you can never really test students enough to assume their test scores/grades reliably measure how much they've learned. I believe all classes should be pass/fail, based on a fixed standard, not relative performance.    Embed Quote

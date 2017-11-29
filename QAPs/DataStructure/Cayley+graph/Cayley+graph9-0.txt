@@ -1,0 +1,2 @@
+What is the status of the Lovász conjecture?What about the special case of a Hamiltonian cycle on a Cayley graph? For reference: Lovász conjecture on Wikipedia.
+Well it's still a conjecture... besides that, some research has been conducted to find additional properties regarding Hamiltonian expanders, and generating sets for corresponding Cayley graphs. Here's one such article worth reading: Hamiltonian paths in Cayley graphs 

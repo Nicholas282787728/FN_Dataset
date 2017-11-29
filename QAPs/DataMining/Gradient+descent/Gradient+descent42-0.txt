@@ -1,0 +1,2 @@
+★What is the best convergence rate of stochastic gradient descent methods?If you know any good paper, please suggest me. Thank you so much in advance.
+These no single universal value, but it depends on your problem, please refer to these papers, these give good insight about this: 1. Back-propagation tricks (Page on bottou.org) 2. Stochastic Approximations (Page on bottou.org) 3. Stochastic Learning in NN(Page on bottou.org)    Embed Quote

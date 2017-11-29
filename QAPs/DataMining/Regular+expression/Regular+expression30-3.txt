@@ -1,0 +1,2 @@
+★What is a good regular expression for last names?
+Rather than use a regex, it might be better to do dictionary lookups and look for successive capitalized likely proper names in odd places (e.g., capitalized word after something that the dictionary says is a likely first name).    Embed Quote

@@ -1,0 +1,2 @@
+★What will happen if I use a power cable that's not rated for my laptop?The original transformer was 19v and 4.74A, the one I'm trying now is 19.5v and 3.34A.
+You'll learn a valuable lesson.    Embed Quote

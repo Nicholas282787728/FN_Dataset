@@ -1,0 +1,2 @@
+How do you judge a JavaScript programmer by only 5 questions?
+I'd ask 4 key questions: 1) What is Object in Javascript? 2) What is the Prototype object and how it is used? 3) What is "this"? What is its value? 4) What is a Closure and why are they so useful to us? 0 questions correct: not a javascript programmer. 1/2 questions correct: amateur. 3 questions correct: experienced. 4 questions correct: senior. 

@@ -1,0 +1,2 @@
+★What is a good introductory article/textbook on the subject of statistical pattern recognition?
+Learning From Data: Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin Pattern Recognition and Machine Learning (Information Science and Statistics): Christopher M. Bishop A Probabilistic Theory of Pattern Recognition (Stochastic Modelling and Applied Probability): Luc Devroye, Gabor Lugosi Discriminant Analysis and Statistical Pattern Recognition: Geoffrey McLachlan Bayesian Reasoning and Machine Learning: David Barber    Embed Quote

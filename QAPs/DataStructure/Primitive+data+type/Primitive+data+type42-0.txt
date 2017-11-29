@@ -1,0 +1,2 @@
+What is Java literals in simple terms?
+In simple terms java literals are the constant values which can be assigned to variables. For more details you should follow this Primitive Data Types. 

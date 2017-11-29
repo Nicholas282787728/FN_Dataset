@@ -1,0 +1,2 @@
+Are all data analytics equal to data mining?
+No. Data mining is a subset of data analytics.    Embed Quote 

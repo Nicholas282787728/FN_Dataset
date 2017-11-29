@@ -1,0 +1,2 @@
+★Ensemble Learning: What are some shortcomings of random forests?
+1) One common problem when used to solve regression tasks is that, it is not capable to predicting beyond the range of the training data set so overfitting is a typical problem with noisy datasets 2) If one of your features is a categorical variable with multiple levels, random forests are biased towards the variable having multiple levels    Embed Quote

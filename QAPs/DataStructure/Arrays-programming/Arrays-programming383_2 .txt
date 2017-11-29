@@ -1,0 +1,1 @@
+Can a class have array of objects?Of course, a class can have an array of objects. Explanation: An array can be of any data type i.e. it’s return type can be anything. For eg: int i[20]; float marks[5]; MyClass objs[20]; Dog names[35]; Class is just a user defined data type. So, it can have an array of objects too. 43 Views · View Upvotes · Answer requested by Balusu Manoj

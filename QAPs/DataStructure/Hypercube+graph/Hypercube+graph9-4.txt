@@ -1,0 +1,2 @@
+What is the highest meaningful number in mathematics?
+Non-existent. Pf: Assume we have a greatest number N which is meaningful. Then any number greater than N is meaningless. However, we can discribe the number N+1 as “the number greater than the greatest number N by 1”, which is its meaning. It contradicts the assumption at the very beginning. So there doesn't exist the greatest number meaningful. 

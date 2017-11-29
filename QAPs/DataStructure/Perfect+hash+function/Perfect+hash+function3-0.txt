@@ -1,0 +1,2 @@
+Is there a way to dynamically generate a perfect hash function for a fixed set of distinct values?
+Universal hashing gives an even stronger guarantee: the expected number of collisions is low, even if the data is chosen adversarially. 

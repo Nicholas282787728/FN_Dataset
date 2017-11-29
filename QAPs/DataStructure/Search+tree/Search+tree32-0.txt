@@ -1,0 +1,2 @@
+Why should I use skip lists over binary search trees?
+It is easier to implement a multi-threaded skip list than to implement a multi-threaded binary search tree. Comparable concurrent BST implementations have only recently been developed and are fairly complex. Aside from that, skip lists and BSTs exhibit equal asymptotic performance on most single-threaded operations. 

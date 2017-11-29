@@ -1,0 +1,2 @@
+★What is the difference between tensors and multilinear algebra?
+Multilinear algebra is the study of multilinear functions.  Tensors are a way of regarding multilinear functions as linear functions.    Embed Quote

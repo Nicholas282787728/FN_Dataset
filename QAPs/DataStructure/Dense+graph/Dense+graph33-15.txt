@@ -1,0 +1,2 @@
+If water is contained in an unbreakable container with no room to expand, would it freeze at freezing temperatures?In other words, can one prevent water from freezing simply by not allowing it to expand? Has it been done?
+Originally Answered: What would happen in you filled an unbreakable and unexpandable box to the brim with water and then froze it, would it expand still?Yes. Probably the box would first deform in shape (a sphere has a larger volume than a cube of the same surface area) and then stretch. 

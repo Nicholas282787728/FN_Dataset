@@ -1,0 +1,1 @@
+What is the simplest and most accurate way to measure the memory used by a program in a programming contest environment?

@@ -1,0 +1,2 @@
+★How can I improve sensitivity of a classification predictive model?
+I found that RF works better in regression mode rather than classification.  It automatically do classification if your y  (in {0,1} )  is a factor, and reg if it is numeric.    Embed Quote

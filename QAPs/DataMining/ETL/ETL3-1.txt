@@ -1,0 +1,2 @@
+★Is hibernate a good solution for ETL?Using Hibernate batch processing we can do some ETL operations, but is it a good option to use it in the large volume operations? With systems with a lot of high volume transforming with some logic attached as well, wouldn't Hibernate add extra overhead? I am comparing it with say stored procedure way of doing ETL, or using a tool like Talend for ETL.
+Have you tried Apache Pig? I think it is a wonderful ETL solution. A challenge would be dealing with databases in which case you will deal with Hive.    Embed Quote

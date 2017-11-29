@@ -1,0 +1,2 @@
+★How often are approximation algorithms used in practice?
+All the time, for everything from estimating how long a programming task will take, to distributing load among servers, to selecting "optimal" system configurations, to solving difficult integrations via numerical methods.    Embed Quote

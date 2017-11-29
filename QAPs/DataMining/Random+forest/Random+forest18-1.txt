@@ -1,0 +1,2 @@
+★Why is (scikit-learn's) random forest using so much memory?
+I can't specifically answer your question because I am not terribly knowledgable about what's "under the hood" of scikit-learn. However I would probably write a random forest in C++  if you are working at a large scale, so that you have much more control over how memory is allocated and deallocated; with Python this is hard to trace or keep track of.    Embed Quote

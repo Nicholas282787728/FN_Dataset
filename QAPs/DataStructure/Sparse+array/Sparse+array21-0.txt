@@ -1,0 +1,2 @@
+What do you use: BSD queue.h, Linux list.h or SGLIB?
+I normally pick the more higher level implementation because it has a lot more convenience built in. It will likely already be thread safe, memory managed and flexible. However, you will likely be happy enough with queue.h / list.h (or more accurately called stdlib). Using that ensure the code is well used and tested. It also has the benefit of being built in any system. 

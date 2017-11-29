@@ -1,0 +1,2 @@
+★Is the address of variables printed in a C program Physical address or a Logical address?
+It depends on what runs your code.  If your code is loaded as a regular application on a modern operating system, then it will be a virtual address (what you refer to as a 'logical address').  If your code is loaded as part of the operating system then it may be a physical address -- but only if your operating system is running on a physical machine.  If your operating system is running on a virtual machine, it will always be a virtual address.    Embed Quote

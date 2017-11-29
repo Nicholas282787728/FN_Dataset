@@ -1,0 +1,2 @@
+What are the best Python 2.7 modules for data mining?
+Pattern | CLiPS Pattern is a web mining module for the Python programming language. It bundles tools for data retrieval (Google + Twitter + Wikipedia API, web spider, HTML DOM parser), text analysis (rule-based shallow parser, WordNet interface, syntactical + semantical n-gram search algorithm, tf-idf + cosine similarity + LSA metrics), clustering and classification (k-means, KNN, SVM), and data visualization (graph networks).    Embed Quote 

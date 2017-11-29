@@ -1,0 +1,11 @@
+A Data Management Framework (DMF) is a system of thinking, terminology, documentation, resources and insights which allow the user of the Framework to correctly view data related concepts and information available to themselves, in their own context, in the broader context of the Framework, thereby ensuring all who use the Framework remain able to correctly integrate their conversations and work.
+
+There are a number of Data Management Frameworks in existence today.
+
+The Data Atom Data Management Framework version 1.0 was developed, tested and expanded by William Richard Evans between 2010 and 2014, when William then certified as an Internationally Certified Data Management Professional through DAMA International.
+
+The Data Atom Data Management Framework version 2.0 was developed, tested and expanded by William Richard Evans between 2014 and 2017.
+
+With the advent of Artificial Intelligence, the Internet of Things, Data Lakes, and many other new considerations for Data Management, William has replaced his Data Atom Data Management Framework Version 2.0 with "The Multi Dimensional Data Management Framework V3.0)".
+
+The Multi Dimensional Data Management Framework V3.0) is more comprehensive, with 20 Data Management related disciplines and 7 Data Environments that need to be considered.[9][10]

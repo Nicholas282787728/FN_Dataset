@@ -1,0 +1,2 @@
+★Have there been any new brilliant computer science algorithms in last 10 years?Especially those that may REPLACE some algorithms in current textbook. Since most of the algorithms in textbook are designed in 20th century.
+One of my favorites from MIT can be used to see your heartbeat using a video of your face by enhancing the color changes between frames. Check it out: Eulerian Video Magnification    Embed Quote

@@ -1,0 +1,2 @@
+How will you visualize recursion in general and in data structures like trees?
+There is a great resource Recursion Tree and DAG (Dynamic Programming/DP) Try some existing algorithms and then write your javascript code. Play around with it and you'll understand. Also there is one guy (Java Permutations and Recursion example.) talking about approaching tasks - take your time and break things into parts until you understand every small part. 

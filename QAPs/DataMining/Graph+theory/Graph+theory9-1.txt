@@ -1,0 +1,2 @@
+★What are some good books for self-studying graph theory?
+For a computer-science based introduction to the subject, why not take a look at Google's Graph Theory Book?    Embed Quote

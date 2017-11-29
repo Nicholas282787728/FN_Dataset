@@ -1,0 +1,2 @@
+★What are some good books on natural language processing and semantic analysis?For noobs
+I agree with Kapil Dalwani. Also recommend Geometry and Meaning by Widdows. It's an easy read and demonstrates how shallow statistical and graph analysis can be effective for simple NLP and in particular semantics-related tasks. Publisher info http://csli-publications.stanfor...    Embed Quote

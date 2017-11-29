@@ -1,0 +1,2 @@
+Do I need to be good in physics to do well in computer science?
+I cannot recall a single instance of needing my physics knowledge while I was in school. Also even though I work in the games industry I have never done anything that actually required physics. I would say that being able to do the sorts of math that you will encounter in physics is very helpful for CS there is nothing specific to physics that is helpful to CS in general. Of course if you are looking to program a physics simulation of some sort it would be good but otherwise not so much. 

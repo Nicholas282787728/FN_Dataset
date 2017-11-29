@@ -1,0 +1,2 @@
+★What is routing?I understand it makes the URLs prettier. Some examples show PHP code, some just show examples of a mod_rewrite. Can someone explain the logic of routing and why it's used?
+Routing is just nothing but connecting two packets each other by certain weight, so that the cost or time between each packet will be easily understood....    Embed Quote

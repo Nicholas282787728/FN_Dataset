@@ -1,0 +1,2 @@
+★On which frequency does 3G GSM work in India?Is any of the american frequency compatible with 3G frequencies in India? T-Mobile? AT&T?
+GSM and 3G coverage . go to this link. you can select the country and will know the allowed 2G, 3g, LTE range. GSM and 3G coverage INDIA2G capabilitiesGSM 900, GSM 1800 3G capabilitiesUMTS 2100 4G capabilitiesLTE 2300

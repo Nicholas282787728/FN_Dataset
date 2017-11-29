@@ -1,0 +1,2 @@
+What are some uses of hashing algorithms?
+Originally Answered: What are some interesting use cases of hashing?Rolling hashes are useful for string related problems. I wrote a short blog post on that a while ago Rolling hash, Rabin Karp, palindromes, rsync and others 

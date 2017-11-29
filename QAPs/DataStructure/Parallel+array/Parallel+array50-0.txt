@@ -1,0 +1,2 @@
+Why would anyone use any version of Fortran after FORTRAN90?
+Serveral reasons come to mind. 1 Code reuse 2 Not having to learn another  language ( aka 'oh no not that modern OO crap') 3 To piss off the C++/PHP/Ruby hippies 4 Raw performance #1 is probaly the main reason. 

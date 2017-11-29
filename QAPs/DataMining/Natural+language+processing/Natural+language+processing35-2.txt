@@ -1,0 +1,2 @@
+★What are major Natural Language Processing breakthroughs in the past 3 years (2012-2015)?
+Deep learning and its applications. Gave speech recognition a big leap in performance. Also, thanks to distributed and parallel computing, the scale at which NLP applications are being used is unprecedented.    Embed Quote

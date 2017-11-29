@@ -1,0 +1,2 @@
+★How often do data scientists use ETL techniques?
+It totally depends on the company you work in and what sort of data you're dealing with. If there is a data warehousing team who takes care of most of day to day ETL then why would you get your hands dirty. On the other hand if your problem is new, your data is new and you are doing POC right now then you might have to do some ETL by yourself.    Embed Quote

@@ -1,0 +1,2 @@
+Where can I go online to study data structures, such as binary search trees, heaps, etc.?
+I have two options to suggest: Data structure lectures by IIT professors on NPTEL are good. You can watch them on YouTube or go directly to the channel. GATE Lectures by Ravindrababu Ravula. These can also be found on YouTube. These will require patience and time. If you are looking for something to work just the night before the exam, go for online tutorials. 152 Views · 3 Upvotes

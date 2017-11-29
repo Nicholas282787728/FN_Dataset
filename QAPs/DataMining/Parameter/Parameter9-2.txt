@@ -1,0 +1,2 @@
+★What is a two-way parameter?Googling this term doesn't actually return any results explaining the meaning of it. Thanks.
+It might refer to a parameter that is passed in by reference to a routine, and is used to both send in information, and get information back (the routine might change its value).  I don't recall hearing that term before though, so it's just an educated guess.    Embed Quote

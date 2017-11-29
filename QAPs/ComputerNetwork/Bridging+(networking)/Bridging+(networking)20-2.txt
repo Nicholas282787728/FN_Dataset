@@ -1,0 +1,2 @@
+★What IP address will a VM use in bridged mode?
+In bridge mode VM act as physical host. So you can use IP in range of your physical host's network.

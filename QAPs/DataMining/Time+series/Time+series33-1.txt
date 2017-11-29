@@ -1,0 +1,2 @@
+★What are some interesting, modern examples of time series analysis?
+A interesting example on Bombay Stock Exchange in R.  R Code Easy    Embed Quote

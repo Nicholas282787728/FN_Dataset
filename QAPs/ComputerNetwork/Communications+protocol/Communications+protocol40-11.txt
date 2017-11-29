@@ -1,0 +1,2 @@
+★What else is a finite state machine used for except language parsing?
+An operating system is filled with finite state machines: Process/Thread states (DEAD, IDLE, SCHEDULED, RUNNING,...) I/O devices (WRITING, IDLE, READING, DEAD..) Files (OPEN, CLOSE, ...) Memory management (PAGED OUT, HOT, ...)This list is by no means exhaustive.

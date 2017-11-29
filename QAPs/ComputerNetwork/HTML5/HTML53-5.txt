@@ -1,0 +1,2 @@
+★What are some good examples of HTML5 mobile websites?
+The Netflix app is HTML5 running inside a Web view.

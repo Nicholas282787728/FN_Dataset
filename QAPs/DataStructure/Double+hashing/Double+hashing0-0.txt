@@ -1,0 +1,2 @@
+What are the goals and applications of double hashing?
+I think it's nicely summed on wiki: Double hashing. 

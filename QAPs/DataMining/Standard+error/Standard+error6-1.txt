@@ -1,0 +1,2 @@
+★In ordinary least squares regression, how do I calculate the p-value from the standard error and coefficient?
+Assuming you're referring to simple regression (as opposed to multiple regression) and the p-value, standard error and estimate of the slope... Divide the coefficient beta by the standard error.  This gets you a t-score with n-2 degrees of freedom (where n is the size of the sample).  Use the t distribution to find the associated p-value.    Embed Quote

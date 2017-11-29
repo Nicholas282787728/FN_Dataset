@@ -1,0 +1,2 @@
+★Community Management: Is there a self serve, inexpensive, solution like Jive's Social Intranet?
+I'm with Elliot Volkman, I'd check out Yammer. For the price (free) the feature set it rich. The only thing I wish it had is threaded comments. Buddy Press / WPMU might be viable but there's admin overhead, etc. in rolling your own.

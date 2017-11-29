@@ -1,0 +1,2 @@
+What are some ideas for a research project/paper on number theory/computer science/mathematics?
+Game Theory is one of the most applicable and relatable maths around.  It solves a lot of problems, saves a lot of lives, and makes for more entertaining competitions! Take a look at the different things it's used for and maybe you can come up with something there. 

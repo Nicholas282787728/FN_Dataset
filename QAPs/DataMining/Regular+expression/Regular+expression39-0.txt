@@ -1,0 +1,2 @@
+★Can you explain what this regular expression r'^$' means in Python?
+It means an empty line. Caret sign will match the beginning of a line and dollar sign will match the end. So, r'^$' will match an empty line.    Embed Quote

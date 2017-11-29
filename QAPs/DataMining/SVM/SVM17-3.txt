@@ -1,0 +1,2 @@
+★How can I use SVM  to classify documents?As I know Using SVM to classify documents is better than Bayes. Can you get some examples?
+There can be lot of input features when it comes to text documents. The simplest one is selecting tf-idf and create hyperplanes for classification using a suitable kernel. But there are lot of features that will give better results than tf-idf depending on requirements    Embed Quote

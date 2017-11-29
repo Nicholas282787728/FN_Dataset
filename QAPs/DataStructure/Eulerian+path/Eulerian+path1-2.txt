@@ -1,0 +1,1 @@
+Is it possible to find in polynomial time, an Eulerian path or Eulerian cycle in a directed multigraph with self loops?Here is an example:

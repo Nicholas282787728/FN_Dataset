@@ -1,0 +1,1 @@
+In mathematics, a universal graph is an infinite graph that contains every finite (or at-most-countable) graph as an induced subgraph. 

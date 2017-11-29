@@ -1,0 +1,2 @@
+★What is DNS?
+DNS is system that will translate a website domain name to the IP address of the website.

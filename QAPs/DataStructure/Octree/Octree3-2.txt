@@ -1,0 +1,2 @@
+What data structure would I need to store a world like in Minecraft, where there are billions of boxes in a huge randomly generated world?
+Uhm. Hrm. At the risk (or near certainty) of sounding totally stupid I would say binary data structure. Yeah, that's what my never-been-to-school background would guess. Thanks for the A2A, Anonymous. 

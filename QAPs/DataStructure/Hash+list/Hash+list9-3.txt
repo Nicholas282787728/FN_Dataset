@@ -1,0 +1,2 @@
+What are good ways to store data in ram with any programming language? I want to use ram as a cache
+As the other answers mentioned, you don't need to do anything special to store data in RAM - that's the default way things work. In programming languages that have garbage collection you need to keep a way of referencing the data or else it gets sweeper away, but other that that it's a pretty simple task. What memcached does is beyond that. The key to memcached is that it was designed for distributed systems and for speed. 

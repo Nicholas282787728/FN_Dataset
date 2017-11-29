@@ -1,0 +1,2 @@
+★What is an eigenvector?
+An eigenvector of is some (non-zero) value such that is a multiple of . [The term is generally used only when is a linear function between vector spaces, often presented as a matrix]    Embed Quote

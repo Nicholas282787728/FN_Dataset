@@ -1,0 +1,2 @@
+Which is better for quantitative finance, R or Matlab?Which do you prefer for what? Or just general pros and cons.
+The only real answer here is that it depends on what you're trying to do. In my current job I probably use R 75% of the time and Python (a la Pandas, Scipy, Cython) 25% of the time for research. That being said, I used matlab, more specifically a 3rd party optimization library, 100% of the time at my previous job where the strategy was much lower frequency.   There's no use in focusing in one specific language. 

@@ -1,0 +1,2 @@
+★I want to learn how to build mesh networks. What are some good resources or series of resources to get me started?I am really interested in learning how to build a mesh network. I would classify myself as a Jr. level programmer without much network knowledge, and I would love some recommendations on where to start, or a series of books/videos/resources to get me started and some more advanced resources for after I get started.  Thanks!
+start with this. OLSR Mesh [OpenWrt Wiki]    Embed Quote

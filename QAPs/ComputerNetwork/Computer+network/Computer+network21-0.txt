@@ -1,0 +1,2 @@
+★How do I learn Computer Networking in an effective and practical way?
+Well, I can't claim that this is perfect, but it is the path that I followed: Grab a textbook. Tanenbaum's Computer Networks was for a long time the standard. Dunno if it still is. Read some RFCs. At the very least 791 and 793. Jump in and do.

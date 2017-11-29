@@ -1,0 +1,2 @@
+Who are the foremost roboticists in the world and what are some of the projects that they are working on right now?
+Sebastian Thrun (Stanford/Google) - Helped write the book on Probabilistic Robotics (http://www.probabilistic-robotic...), along with Deiter Fox and Wolfram Burgard. Now works with Google on their autonomous vehicles, streetview, and other projects. Andrew Davison (Imperial College London, UK) - Does a lot of interesting work in computer vision, including dense 3D scene reconstruction from a single camera. ... (more)

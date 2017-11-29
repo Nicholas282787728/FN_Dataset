@@ -1,0 +1,2 @@
+Can you suggest good resources to study anomaly detection algorithms?
+As an introduction, I can recommend "Introduction to Data Mining" by P. Tan, M. Steinbach, and V. Kumar Introduction to Data Mining Chapter 10 (~5o pp.) is solely about anomaly detection. Overall, it's a great book, and it is written in a very accessible yet comprehensive way! 

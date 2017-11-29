@@ -1,0 +1,2 @@
+What is the best programming algorithm that you have ever created?
+As a VC (and previously a PM) I haven't done a lot of coding recently. But these are my top three favorite hacks I've done over the last 5-6 years: 1.) Real time electricity consumption algorithm: In my senior year of school I developed an algorithm for estimating the real time consumption of power in a computer as a function of its processors' Thermal design power or TDP. ... (more)

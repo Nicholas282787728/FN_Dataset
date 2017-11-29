@@ -1,0 +1,2 @@
+Functional Programming: What is a functor?
+It's a concept from Category theory. A functor is a type of mapping between two categories. For simplicity you can think of it as a mapping from the elements in some kind of a container to another set of elements(either of the same type or not) of the same kind of container. And the function transform the source element to the target element is provided by you. The most understandable tutorial I've come across so far: Functors, Applicatives, And Monads In Pictures. Updated 4 Apr 2014 • View Upvotes

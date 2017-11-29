@@ -1,0 +1,2 @@
+How does Facebook determine who is displayed as friends on the left side of the profile?
+Facebook says they use an algorithm that takes into account the people who interact most with you publicly. Things like posts they make on your wall, photos where both of you are tagged, events you both attend, comments on each others posts or photos, etc. Facebook does a remarkable job selecting 9 friends from your hundreds or thousands of friends...while keeping it fresh and interesting. Source: How Does Facebook Decide Which 10 Friends To Display On Your Profile? 

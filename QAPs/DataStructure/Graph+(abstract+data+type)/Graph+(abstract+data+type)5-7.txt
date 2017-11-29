@@ -1,0 +1,2 @@
+Software Engineering: What are the best data structures to learn about?
+Start with stacks, queues and linked lists. Move on to hash tables, heaps, dictionaries and binary trees. Then you can move on to more complex structures like graphs, priority queues, different types of trees (red-black, 2-4, etc.) 

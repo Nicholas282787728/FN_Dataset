@@ -1,0 +1,1 @@
+In the path integral, how do you integrate out the momentum P if the Hamiltonian is no more than quadratic in P?It seems obvious of course , but the thing that I don't understand is : you compute the stationary point of the $pdq/dt-H$ as a function of P and substitute p. I don't understand why ?

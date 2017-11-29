@@ -1,0 +1,2 @@
+★What else is a finite state machine used for except language parsing?
+If you're familiar with second life -- well, LSL is heavily oriented toward everything being written as a FSM (although most LSL programs are not actually written to make the best use of this). FSMs are also used in digital logic design -- or at least that's what I was taught in an undergrad CS class. Huge classes of problems can be modeled as FSMs, regardless of domain, and an understanding of FSMs is useful in figuring out when it's worthwhile to implement something in terms of an FSM.

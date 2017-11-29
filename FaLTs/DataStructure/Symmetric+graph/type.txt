@@ -1,0 +1,8 @@
+The same concepts apply both to undirected graphs and directed graphs, with the edges being directed from each vertex to the following one. Often the terms directed path and directed cycle are used in the directed case.
+A path with no repeated vertices is called a simple path, and a cycle with no repeated vertices or edges aside from the necessary repetition of the start and end vertex is a simple cycle. In modern graph theory, most often "simple" is implied; i.e., "cycle" means "simple cycle" and "path" means "simple path", but this convention is not always observed, especially in applied graph theory. Some authors (e.g. Bondy and Murty 1976) use the term "walk" for a path in which vertices or edges may be repeated, and reserve the term "path" for what is here called a simple path.
+A path such that no graph edges connect two nonconsecutive path vertices is called an induced path.
+A simple cycle that includes every vertex, without repetition, of the graph is known as a Hamiltonian cycle.
+A cycle with just one edge removed in the corresponding spanning tree of the original graph is known as a Fundamental cycle.
+Two paths are independent (alternatively, internally vertex-disjoint) if they do not have any internal vertex in common.
+The length of a path is the number of edges that the path uses, counting multiple edges multiple times. The length can be zero for the case of a single vertex.
+A weighted graph associates a value (weight) with every edge in the graph. The weight of a path in a weighted graph is the sum of the weights of the traversed edges. Sometimes the words cost or length are used instead of weight.

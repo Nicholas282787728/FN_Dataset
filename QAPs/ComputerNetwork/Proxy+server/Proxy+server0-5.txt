@@ -1,0 +1,2 @@
+★What is a proxy server?
+Here in the computer networks, Proxy server is a server that acts as intermediary for requests from clients seeking resources from other servers. A client connects to the proxy server requesting some services like file,connection from a different server then the proxy server evaluates the request as a way to control it's complexity. The web proxy servers forward HTTP requests. Hence the proxy servers are also used to restrict to access some specific websites which are hosting with fake IP address.    Embed Quote

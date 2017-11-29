@@ -1,0 +1,2 @@
+★Why does my computer's ipv4 address changes?
+It will change based on to which network you connected .

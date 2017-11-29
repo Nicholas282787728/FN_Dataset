@@ -1,0 +1,1 @@
+How can I solve this problem?​If you want to do it real fast put n=2. a1=1 and a2=-1 Now what you need to calculate is a1*a1+a1*a2+a2*a2. Its value is 1*1+1*(-1)+(-1)*(-1)=1 Now put n=2 in the options. You will see that only option c matches. So that's the answer. Time saving for MCQ question Hope that was useful. 31 Views  Answer requested by Malay Parmar

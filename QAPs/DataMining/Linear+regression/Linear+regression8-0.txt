@@ -1,0 +1,2 @@
+★What are some justifications for removing an outlier from linear regression analysis?
+I would generally only remove outliers if it can be shown that they are incorrect data. There are methods to deal with outliers: Robust regression and quantile regression are two regression methods that may be appropriate.    Embed Quote

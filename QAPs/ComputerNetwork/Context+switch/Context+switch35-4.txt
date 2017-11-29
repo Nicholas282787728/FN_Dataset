@@ -1,0 +1,2 @@
+★Why do 32-bit Linux kernels only recognize 3GB of RAM?The question is that 2³² = 4GB but systems only recognize 3GB.
+4GB of total address space, which is shared amongst all memory, not just ram. How big is the video memory?

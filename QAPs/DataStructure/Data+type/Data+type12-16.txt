@@ -1,0 +1,2 @@
+Which data type is better either float or double in c++?
+Double is good over float as it provides greater range of numbers and is more precise than float. 38 Views

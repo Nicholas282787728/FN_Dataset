@@ -1,0 +1,2 @@
+★How does a URL-shortener work?
+Basically what happens is that you submit your URL to an URL shortening service such as Bitly - The Power of the Link and it creates a new short address in its domain with a redirect to your original URL. URL shortening explains some of the technical aspects of it.    Embed Quote

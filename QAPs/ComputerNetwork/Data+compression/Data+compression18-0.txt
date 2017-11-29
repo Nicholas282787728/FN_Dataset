@@ -1,0 +1,2 @@
+★How do the lightweight data compression libraries compare to each other?There are lots of light weight data compression libraries that have been developed recently, including lz4, blosc, snappy, quicklz, etc. How do these libraries compare to each other? What are the tradeoffs between them?
+Lossless compression benchmarks.

@@ -1,0 +1,2 @@
+How can I improve search functionality in tables with a many-to-many relationship?
+A cross reference table such as you describe "user_skill" with the user_id and skill_id, indexed on user_id will perform quite adequately for a huge number of records. 

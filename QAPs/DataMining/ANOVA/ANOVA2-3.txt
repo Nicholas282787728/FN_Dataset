@@ -1,0 +1,2 @@
+★What is an intuitive explanation of ANOVA and what it's used for?
+It is a lead up to regression analysis, these slides are quite good and brief http://www.rni.helsinki.fi/~boh/...    Embed Quote

@@ -1,0 +1,2 @@
+Graph Theory: What algorithm can quickly find a cycle that contains a specific vertex?
+You can do it with a slight modification of a breadth first search starting at v 1   .  For each node you see, keep track of how you got there.  As soon as you see a node twice, you can construct a cycle from the information you've been tracking. 

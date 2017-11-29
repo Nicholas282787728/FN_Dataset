@@ -1,0 +1,2 @@
+★Can sites accessed through a VPN be tracked?In my office Facebook, twitter, gmail is blocked. I bypassed these sites using VPNbook. Can that be tracked by my bosses??
+Most likely, your bosses would track your activity from the client device instead of through analyzing network traffic. If your VPN traffic is encrypted, the traffic can't be read. Monitoring software on a company computer is the cheapest and easiest solution for companies.    Embed Quote

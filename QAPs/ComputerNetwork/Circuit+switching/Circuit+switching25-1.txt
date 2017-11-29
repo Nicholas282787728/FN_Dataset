@@ -1,0 +1,2 @@
+★Do phone calls use 3G data? Why?
+A normal voice call made using your service provider doesn't use 3G data. However a video call does or a call using a third party application does.

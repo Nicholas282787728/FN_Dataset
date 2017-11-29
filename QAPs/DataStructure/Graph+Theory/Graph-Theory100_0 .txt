@@ -1,0 +1,1 @@
+How can I prove without using Menger's theorem that any two vertices of a 2-connected graph lie on a common cycle?It looks like this theorem was proven in 1927 ; you can find the proof at http://www.cs.rpi.edu/~goldberg/... , pag. 4. 30 Views  View Upvotes

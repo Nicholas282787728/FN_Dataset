@@ -1,0 +1,2 @@
+★What is the difference between linear regression and least squares?My understanding is that they both try to fit a straight line through the data.
+Your Question is answered in This post Linear Regression    Embed Quote

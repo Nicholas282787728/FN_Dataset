@@ -1,0 +1,2 @@
+★What is the best knowledge base app for Google Apps?My company is looking for one unified place for all our faq documentation to live in one place. We are looking for a friendly Wiki - style site that integrates with Google Apps and has a powerful search. Any ideas?
+The issue we have is that we already have a number of Google Sites that different teams have built. We did recently see the below which we are considering... http://dev.bangordailynews.com/2...    Embed Quote

@@ -1,0 +1,2 @@
+★Will the mobile network operators become just ISPs in the future?
+Yes.  Mobile phones are just computers that move around.  And if you think about it, ISPs don't offer any apps - they just provide transport (hopefully fast and reliable).  Why would mobile be any different over time.  Having said that, there might be some value in bundling real-time apps that have impacts on quality (e.g., voice, video, TV, fast downloads for shopping) where controlling the bits adds value.    Embed Quote

@@ -1,0 +1,2 @@
+How do you check if a substring has the tab character?
+Instead of if (x.substring(y, y+1) == "\t") try if (x.substring(y, y+1).equals("\t")) Using == will check to see if each of the operands are pointing at the same chunk of memory, using .equals() will check to see if the two Strings have the same content. Edit: I used this solution assuming you wanted to keep the loop.  .indexOf() or .contains() are more practical solutions. Updated 98w ago • View Upvotes

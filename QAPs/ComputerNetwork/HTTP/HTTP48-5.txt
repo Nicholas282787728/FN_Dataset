@@ -1,0 +1,2 @@
+★What is the difference between a URL and HTTP?
+The difference between URL and HTTP is that a URL is the actual address in the web bar. HTTP is the server or protocol the network connects through. URL stands for Uniform Resource Locator and HTTP stands for Hypertext Transfer Protocol.    Embed Quote

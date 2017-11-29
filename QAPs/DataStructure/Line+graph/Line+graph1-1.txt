@@ -1,0 +1,2 @@
+What is the slope of the line graphed below?
+Slope : (y2 - y1) / (x2 - x1) In the graph, y2=4 y1 = 1 x2 = 1 x1=0 Substituting, Slope= 3 Soham Ghosal 203 Views · 1 Upvote

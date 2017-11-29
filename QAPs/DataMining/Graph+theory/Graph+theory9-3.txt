@@ -1,0 +1,2 @@
+★What are some good books for self-studying graph theory?
+Adding to the list of books suggested by others I'd recommend this rather non trivial book on graph theory: Graph Theory: A Problem Oriented Approach (Mathematical Association of America Textbooks): Daniel Marcus: 9780883857533: Amazon.com: Books I used this to get started with graph theory before my summer project in graph theory and algorithms. Enjoyed it a lot! You can try and use it along with the other standard texts.    Embed Quote

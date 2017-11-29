@@ -1,0 +1,2 @@
+★Will Evernote integrate more services?I know they have a new Evernote button for use on various websites similar to the Addthis tool but shouldn't the developers find ways to autoimport a user's activities that they want logged?
+Yes I think they will. I have seen a lot of work over the last few months in building relationships with other software companies (evernote trunk). I looked at springpad (www.springpadit.com) and thought it was great and tied into a lot of things but I just didn't find as good as evernote    Embed Quote

@@ -1,0 +1,2 @@
+★What are the challenges inherent to wireless sensor networks in 2014?
+I think it mostly to do with a killer application. IoTs seem one option, but are too broad. Body and Buliding Sensor networks are a more focused area; but to me most technical issues relate to reliability and robustness of deployments.    Embed Quote

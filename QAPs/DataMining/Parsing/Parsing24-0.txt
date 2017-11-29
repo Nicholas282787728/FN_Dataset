@@ -1,0 +1,2 @@
+★How does Instapaper parse just the main body text of a web page?Was it an off the shelf package or custom html parsing?
+I wrote it from scratch, and it's a fairly complex statistical tag-and-prune system. Arc90's Readability uses similar principles, but they measure different characteristics and more aggressively prune leading and trailing excess. Instapaper is more conservative with pruning to avoid missing any important article text.    Embed Quote

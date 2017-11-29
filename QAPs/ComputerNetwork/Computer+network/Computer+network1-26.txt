@@ -1,0 +1,2 @@
+★What are some good jokes about computer networks?
+Once a lot of TCP packets walked into a bar and it became crowded. The next day only half of them showed up. This was a joke, along with many others, I read just before our exam. The lack of sleep and excess of cogestion control made us laugh like hell.

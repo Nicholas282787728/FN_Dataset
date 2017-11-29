@@ -1,0 +1,2 @@
+What's the best free data analysis and visualization software out there right now?
+R is great for that, http://www.r-project.org/    Embed Quote 

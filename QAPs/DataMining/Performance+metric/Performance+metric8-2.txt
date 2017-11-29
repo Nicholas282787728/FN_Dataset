@@ -1,0 +1,2 @@
+★What are the most important performance metrics for advertisements on social networks?Common ones are CTR, Click to Install, ARPU, ARPPU, Viral Coefficient - any others?  Do people have other ways they think about or measure performance?
+A meaningful metric would be to display an ad to one set of people, not to another set, and correlate with point-of-sale data to see how the sales were affected for the set that was shown the ad vs. the set that was not shown the ad.    Embed Quote

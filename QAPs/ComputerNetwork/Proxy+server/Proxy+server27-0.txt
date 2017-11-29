@@ -1,0 +1,2 @@
+★Does proxy servers like kproxy and savemyass completely hide your IP address?How do they work?
+Not necessarily.   Your address can be in the http header, injected by the proxy.  If you want privacy, look into TorBrowser.    Embed Quote

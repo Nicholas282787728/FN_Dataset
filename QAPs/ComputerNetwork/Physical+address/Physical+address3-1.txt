@@ -1,0 +1,2 @@
+★What is the best API for geocoding a physical address?I'm developing an app that requires a user to tag a location. The user simply type the address of a location and adds that location along with lat/long cordinates. What is the best API for geocoding a physical address? It has to be a scalable solution and have good coverage and also give addresses suggestions.
+There are not less than 5 providers. Major one, google geocoding, bing, yahoo, quest.    Embed Quote

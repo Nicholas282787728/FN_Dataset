@@ -1,0 +1,2 @@
+How can I encode a grey image using huffman coding technique in matlab?
+Calculate the probability of each grey level in the image. Varad Chemburkar's answer to How can I get the probability of each intensity level in a grey level image in MATLAB? Create a Huffman dictionary using [dict,avglen] = huffmandict(symbols,prob); where symbols = 1:256; Encode using comp = huffmanenco(yourImage,dict); Before encoding, make sure to convert your Image into vector 970 Views · 2 Upvotes

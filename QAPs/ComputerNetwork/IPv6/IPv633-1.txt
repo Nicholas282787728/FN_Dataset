@@ -1,0 +1,2 @@
+★How can I use IPv6 today?
+HE.net has been fairly stable from me, as long as you aren't behind a NAT.  Failing that, Freenet6/Gogog6 offers a client-based IPv6-over-IPv4/UDP capability ... Personally, I have been fairly happy with a $35 CPE (Dlink's DIR615) tunneled to HE ... (Prior to that, I was part of Comcast 6rd trial and that worked very well ... until they shut it down 30 June ... prior to that I was just using a 6to4 capable CPE ...)    Embed Quote

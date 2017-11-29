@@ -1,0 +1,2 @@
+★What are some problems with using Microsoft SQL for a data warehouse?
+In my experience SQL Server 2008 R2 is a sound platform for BI. I'm currently supporting a 6Tb BI and contrains are only related to the memory increase is required when sizing dbserver hw. This required increase in RAM is usual in any MS based platform.    Embed Quote

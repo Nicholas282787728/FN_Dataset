@@ -1,0 +1,2 @@
+★For linear function , why is it obvious that there is a bijection between its parameter w and the (mapper) function f? Is there an intuitive explanation to this?
+is a hyperplane through origin. And, the function can also be written as, where is the distance of the point to the hyperplane. For different values of , either 1] w differs only scale: In that case, changes and hence changes. 2] is a different hyperplane: Then, in the case, the distances of the various points to the hyperplane will change.    Embed Quote

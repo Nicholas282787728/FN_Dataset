@@ -1,0 +1,2 @@
+★How can I use SMTP to send bulk text / SMS (Number+CarrierDomain) messages to my legitimate subscriber base without getting blacklisted?I already have my users mobile numbers and mobile carrier messaging domains - ie: messaging.sprintpcs.com etc -
+May I recommend using itduzzit email to SMS connector via Nexmo API? Here is the link to the mashup: https://www.itduzzit.com/duzz/ne... For the US, you would need to originate the SMS from a phone number, that Nexmo, the wholesale SMS API, can provide you with. [disclaimer: I work for Nexmo]    Embed Quote

@@ -1,0 +1,2 @@
+What are some good websites to learn data structures and algorithms?
+Ive compiled a list of algorithms/data structures resources here: stacygohyunsi/algorithms-primer. Think WIKI for Data structures and algos. It would help you in understanding the theories, knowing the common interview questions and where to look for more practices and readings. Let me know what you think. Its open source too, so feel free to contribute! -Stacy Goh (https://imstacy.com) Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 1.7k Views · 3 Upvotes

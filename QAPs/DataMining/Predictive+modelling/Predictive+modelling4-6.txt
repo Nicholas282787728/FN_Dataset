@@ -1,0 +1,2 @@
+★What is the best open source software to use for building predictive models?Any advice on techniques to train the model?  Segment the data?
+How about Python's PyML for machine learning. I have used it and its pretty cool.    Embed Quote

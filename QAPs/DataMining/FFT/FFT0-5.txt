@@ -1,0 +1,2 @@
+★What is an intuitive explanation of the FFT algorithm?
+You can build up an intuition by contemplating this analogy. DFT - Insertion Sort FFT - Merge Sort.    Embed Quote

@@ -1,0 +1,2 @@
+★What are some usual recommendation algorithms that were used by social network,information retrieval system or text mining system?
+A good resource for learning recommendation algorithms is O'Reilly Programming Collective Intelligence, you can view the recommendation algorithms here in Ruby https://github.com/boscomonkey/c... The book has the examples written in Python.    Embed Quote

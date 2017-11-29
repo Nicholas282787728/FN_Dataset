@@ -1,0 +1,2 @@
+Business Intelligence: What data analysis engine should I learn?
+Data discovery is huge in what you're trying to do. Some of the top tools for Data Discovery/Data Visualization: Tibco Spotfire with R intigration Tableau Qlikview Excel with Power Pivot plugin If you're looking for a good comparison of these tools, get a free report on them here: Data Discovery Tools 2012 Roundup    Embed Quote 

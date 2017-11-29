@@ -1,0 +1,2 @@
+★What is the good text analytics method to match tweet's key phrases to their equivalent Wikipedia pages?
+Named entity recognition. Named-entity recognition There's a bunch of algorithms for it. I'd try CRF (Conditional Random Field Conditional random field) first. HMM (Hidden Markov Models) are also good.    Embed Quote

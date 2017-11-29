@@ -1,0 +1,2 @@
+What is a list of data structures that a competitive programmer must know?
+Linked List Insertion/Deletion Searching Reversing Doubly-Linked/Circular Lists Stack Implementations... (more)

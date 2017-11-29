@@ -1,0 +1,2 @@
+Are there any products like Socrata, but for private data sets?
+Yes, this product category is called "data hubs" or "data management systems". See this article I wrote with Rufus Pollock from the Open Knowledge Foundation which describes them: http://blog.okfn.org/2012/03/09/... There's a list of them on the Wikipedia article: http://en.wikipedia.org/wiki/Dat...    Embed Quote 

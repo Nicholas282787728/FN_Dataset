@@ -1,0 +1,1 @@
+Have you ever coded a real life application solely using linked lists?That would be as close to impossible as it gets. Linked lists are just a way to hold data, without anything else, the program would not do anything. No functions, no logic, no classes, methods. No while, if, for, map, or anything else means your program could not do anything. 672 Views  View Upvotes

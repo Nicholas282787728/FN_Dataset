@@ -1,0 +1,2 @@
+Is there any connection between String Theory and the Higgs Boson?
+Any viable string model must reduce to the Standard Model at low energies, and therefore must include a Higgs field. In addition, besides the regular gauge-symmetry-breaking which the Higgs accomplishes in the SM, a viable string model must include supersymmetry-breaking, so it will require an additional Higgs mechanism. 

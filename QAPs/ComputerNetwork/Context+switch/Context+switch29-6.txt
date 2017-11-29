@@ -1,0 +1,2 @@
+★What is the difference between a process and a thread?
+The processes and threads are independent sequences of execution, the typical difference is that threads run in a shared memory space, while processes run in separate memory spaces. A process has a self contained execution environment that means it has a complete, private set of basic run time resources purticularly each process has its own memory space. Threads exist within a process and every process has at least one thread.   More about .... Difference between a thread and a process   Dell

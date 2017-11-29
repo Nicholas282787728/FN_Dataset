@@ -1,0 +1,2 @@
+How does one become good at solving algorithm/programming problems?
+I know it is late but for others or future reference, may i suggest paul zeitz book which i made for math but teaches problem solving. 

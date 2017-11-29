@@ -1,0 +1,2 @@
+What is a bipartite graph?
+A graph that can be split in two sets in a way that there's no link between members of a set. All links go from set A to B or from B to A. 

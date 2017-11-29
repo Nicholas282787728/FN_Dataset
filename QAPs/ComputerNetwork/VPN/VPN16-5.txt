@@ -1,0 +1,2 @@
+★How many types of VPN are there?
+PPTP, L2TP, L2TP IPSec, OpenVPN, SSTP    Embed Quote

@@ -1,0 +1,2 @@
+How many asterisks (*) in terms of k will be printed by the following C function, when called as count(m) where m = 3k?
+[math] \sum\limits_{i=0}^{\lfloor{\log _3 3k}\rfloor} 3^i[/math] Explanation: This is an example of ternary tree. At any level (say i) of the tree we have [math]3^i[/math] nodes and each of them will print 1 asterisks. Total number of levels= [math]\lfloor{\log _3 3k}\rfloor [/math] which means that  total number of nodes as [math]3^0+3^1+3^2+.... +3^{\lfloor{\log _3 3k}\rfloor}[/math]. Hence the expression 

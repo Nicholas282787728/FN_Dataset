@@ -1,0 +1,2 @@
+Do electrical engineers study graph theory?
+Yes,why not? But this is Network Topological Graph Theory, which is a different subject than what you study in class 11-12th mathematics, how to plot graphs of different functions. In the former subject,we do analysis of node voltages,mesh currents and power balance of an electrical circuit representing each branch as a line. Please upvote the answer if you find it helpful. 

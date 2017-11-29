@@ -1,0 +1,1 @@
+How do two computers with the same IP from different networks communicate with each other? How does the routing work?As a result of that, NAT was invented. NAT is network address translation: Instead of giving every digital device that has a connection to the internet an IP, each device has its own local IP address in his own network.

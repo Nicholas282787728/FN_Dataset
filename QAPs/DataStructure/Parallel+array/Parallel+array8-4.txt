@@ -1,0 +1,2 @@
+Object-Oriented Programming: Is it possible to learn Java without learning C/C++?
+Start with python. Very easy language to learn. Python teaches you to think like a programmer while doing the low level stuff for you. But, If you want to challenge yourself and won't give up easily, go ahead and learn Java. It is doable if you are self motivated. 

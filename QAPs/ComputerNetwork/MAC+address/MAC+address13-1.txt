@@ -1,0 +1,2 @@
+★Can Mac addresses be changed?
+They are basically divided in 2 categories... 1st is bia (burnt in address). This is the permanent address of the hardware. 2nd is user defined I.e he can change it if he wants to. Normally on every hardware the default configuration is that both are same but we can change the user defined    Embed Quote

@@ -1,0 +1,2 @@
+What is the most recommended coding language for creating full blown human AI?
+CUDA If we assume any human AI is going to be based on a self-organising Neural Net - then we are going to need a lot of horsepower to run all those neurones. The most efficient way to do that at present is to run the network on a GPU. Where we can represent a large array of individual elements and each is effectively given their own simple processor - all running in parallel. Early tests of GPU based networks are getting some impressive results. 

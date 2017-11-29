@@ -1,0 +1,2 @@
+★What are some good books or resources to get started in fuzzy logic?
+Before reading any text book you definitely need to watch this video, I just simply loved the succinct way in which the guy explains fuzzy logic: I read this book during college: (This is the standard textbook a lot of colleges use I believe) Fuzzy Logic with Engineering Applications Update: Fixed the book link    Embed Quote

@@ -1,0 +1,2 @@
+What are the main differences between the Haskell and Wolfram programming languages?
+Technically, they are worlds apart, but it's also important to note that one is closed (and so does not add anything useful to the state of the art, but is merely parasitic) and one is open and so adds to, and participates in, human and scientific process and progress. 

@@ -1,0 +1,2 @@
+★How do I learn about time series analysis?
+If you are looking at financial time series I would say Analysis of Financial Time Series by Tsay is also a pretty nice start    Embed Quote

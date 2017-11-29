@@ -1,0 +1,2 @@
+★How are artificial neural networks and Markov chains different?
+The major difference is that a Neural Net retains retains a cumulative history of its transitions where as a Markov Chain has no markers retaining what states led to what states over time.    Embed Quote

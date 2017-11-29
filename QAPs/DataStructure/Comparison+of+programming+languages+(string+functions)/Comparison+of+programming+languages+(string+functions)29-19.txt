@@ -1,0 +1,2 @@
+How do you judge a JavaScript programmer by only 5 questions?
+To 'use strict'; or not to? To underscore|lodash or not to? What is better? less code? or more tests? why How do you modularize an application written in: jquery, angular, etc. Why x != x ? 

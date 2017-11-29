@@ -1,0 +1,2 @@
+★To which layer of osi model BGP belongs to?
+It runs on top of layer 4    Embed Quote

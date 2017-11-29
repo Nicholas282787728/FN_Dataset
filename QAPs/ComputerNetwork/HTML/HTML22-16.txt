@@ -1,0 +1,2 @@
+★What are the differences between HTML5 and HTML?
+<canvas> element for 2d drawing,<video> and <audio>elements for media playback,support for local storage,new content specific elements like <article>,<footer>,<header>,<section>,new form controls like calender,date,time,email,url,search are the new features of html5

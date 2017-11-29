@@ -1,0 +1,2 @@
+What are the top 10 algorithms every software engineer should know by heart?
+Know how to build data structures and master their basic operations and uses. Insert Delete Search Sort Traverse Yes, learn this for every elementary data structure (stack, queue and various forms of graphs). Oh wait. This is the stuff you learn when taking elementary data structures. You can work then work on more advanced algorithms (shortest path, max flow min cut, …) 6.6k Views · 30 Upvotes · Answer requested by Dashinq Rowland

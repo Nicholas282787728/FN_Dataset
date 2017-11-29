@@ -1,0 +1,2 @@
+What is the best Linear Algebra package for C++?
+I'm a fan of Armadillo because it has very Matlab-like usage and functionality: http://arma.sourceforge.net/ 

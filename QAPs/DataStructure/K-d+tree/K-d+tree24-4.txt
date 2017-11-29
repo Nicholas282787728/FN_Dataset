@@ -1,0 +1,1 @@
+What are some fast similarity search algorithms and data structures for high-dimensional vectors?e.g. applying Jaccard, Cosine or Hamming distance to find similar items on billions of 100-dimensional arrays of integers.

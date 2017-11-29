@@ -1,0 +1,1 @@
+What is the address of father/parent node in a tree as a link list?In a tree as link list if the father/parent has the address of its son node how does the son node comes to know who is the parent and what is its address.?struct Node { int data; Node* left_child; Node* right_child; Node* parent; }; This way only you can access parent node of a child. 17 Views

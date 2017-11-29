@@ -1,0 +1,2 @@
+★What is the difference between URL Forwarding and attaching with DNS?One is URL forwarding to any other website and another means to attach directly with server using DNS settings.. Is there any difference? If not then why there are two different terms?
+you had been answered already via PM.

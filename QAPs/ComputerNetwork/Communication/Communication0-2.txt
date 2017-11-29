@@ -1,0 +1,4 @@
+What is the purpose of bit stuffing and byte stuffing (in computer communication)?Have a look at any protocol header, notice that fields are always created in base 2 sizes, this is because it helps the programmer, but sometimes mantaining that requires stuffing.
+
+Imagine if you designed a protocol where all fields ware 7 bit long and there is no stuffing, when a programmer receive your data it will be a buffer in memory.
+Lets suppose this programmer is working in low level, in C, so he will se your message as a char *, lets call it buffer

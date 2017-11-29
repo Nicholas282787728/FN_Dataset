@@ -1,0 +1,2 @@
+★Linear Models: Why does regression sum of squares increase as predictors are added to a regression model?
+Any time that a variable is added to the model, that will not correlate 0.00 with the residuals. If it explains some variance in the residuals, the residual variance will shrink. SS_total = SS_residual + SS_regression SS_total (total sum of squares) is fixed.  If residual sums of squares goes down, regression sum of squares goes up.    Embed Quote

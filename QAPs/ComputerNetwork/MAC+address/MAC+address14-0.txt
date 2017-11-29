@@ -1,0 +1,2 @@
+★(If) IP is an unique address of a host, then why is MAC address required?When IP can uniquely identify a host on a network, isn't then the MAC address redundant and an overhead?
+Because it's not enough to just know the destination, you have to know the way to reach there. The MAC addresses serve the purpose of those signboards you look for to take the right turns to get where you want to get.    Embed Quote

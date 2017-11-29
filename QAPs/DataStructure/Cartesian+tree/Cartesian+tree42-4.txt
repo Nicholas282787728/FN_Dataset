@@ -1,0 +1,2 @@
+Taking out the concept of infinite, what would be left in mathematics?
+First thing which comes of my mind is you certainly won't be writing this question on your device. Arithmetic overflow, division by zero, and other exceptional operations gone. 

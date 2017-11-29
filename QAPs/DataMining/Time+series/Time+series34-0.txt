@@ -1,0 +1,2 @@
+★Cassandra or mongodb for mapping time-series data + OLAP?
+- Cassandra is very good at scaling with wide rows (which comes in very handy with time series data). - Cassandra has no single point of failure. - Cassandra allows range queries against columns to easily slice and dice your time series    Embed Quote

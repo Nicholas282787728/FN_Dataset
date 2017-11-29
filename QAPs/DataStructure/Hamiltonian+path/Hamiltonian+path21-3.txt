@@ -1,0 +1,1 @@
+What is a way to show that given a undirected graph G and an integer k, determining if G contains as a subgraph a shaggy path of k vertices is NP-complete using Hamiltonian cycle problem?The question said that, A shaggy path is a connected undirected graph such that when all vertices of degree at most 2 are identified and then deleted, what remains is a simple path.

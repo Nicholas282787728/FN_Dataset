@@ -1,0 +1,2 @@
+★How can I improve the results of my predictive model?
+Try different algorithms.  A Naive Bayes algorithm works quite well for this problem.  Where you have a vector of size n of one-hot-encodings of the existence of words in the samples, you can calculate the probability of a sample being spam or ham.  This is one of the most famous classification problems in existence.  There are many papers on the subject: Email filtering You should be aiming for at least 98% accuracy for determining if something is spam or not. Rob    Embed Quote

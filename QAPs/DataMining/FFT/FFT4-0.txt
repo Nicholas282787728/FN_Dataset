@@ -1,0 +1,2 @@
+★Is the FFTW library still the most optimal FFT implementation in C?
+I don't know about C, but for large input sizes, you can get faster performance on GPUs with CUDA, OpenCL libraries such as cufft.    Embed Quote

@@ -1,0 +1,2 @@
+What are some of the most ridiculous proofs in mathematics?Especially for easier concepts.
+Proof that 2  √ 3   is irrational: Suppose not.  Then 2  √ 3 =p/q  for integers p and q, so p 3 =q 3 +q 3   , contradicting Fermat's Last Theorem. Note that this also works if we replace the 3 with a larger integer. Updated 30 Mar 2013 • View Upvotes

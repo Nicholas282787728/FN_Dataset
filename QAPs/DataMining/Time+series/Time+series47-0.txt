@@ -1,0 +1,2 @@
+★How do I convert non-stationary time series into stationary time series in R?
+Non-stationary series - random walk and exploding series: can't make stationary - integrated series (ARIMA(d, p, q) where p > 0): difference by lag p (if p = 1, first difference, 2, second difference...)    Embed Quote

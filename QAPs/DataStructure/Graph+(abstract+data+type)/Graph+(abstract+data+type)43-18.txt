@@ -1,0 +1,2 @@
+Job Interview Questions: Which are the frequently asked interview questions for Java Engineers ?
+Originally Answered: What are good interview questions for Java developers?Fizz buzz and it's variants. They are splendid screening questions. 

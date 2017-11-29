@@ -1,0 +1,2 @@
+What are the differences between Crunch and Cascading?
+This presentation by David Whiting shows the pros and cons between Crunch and Cascading, as well as some their Scala APIs, and Apache Pig and Apache Hive. Scalding the Crunchy Pig for Cascading into the Hive 

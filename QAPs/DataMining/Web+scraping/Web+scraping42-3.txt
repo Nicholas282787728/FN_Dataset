@@ -1,0 +1,2 @@
+★Web Scraping: How can one web-scrape a list of Nature articles for further processing (preferably with metadata if possible)?
+You can find such article list from search engines like Google, Bing, Yahoo, etc... Just by entering your search query or you can do it with the help of automated scraping software/tools.    Embed Quote

@@ -1,0 +1,1 @@
+How do retrieve JSON element inside an array?Weather appears to be an array in which you've cut off the code after the first element. The first element is item zero in the array. So, you were close... element.weather[0].icon 173 Views  View Upvotes

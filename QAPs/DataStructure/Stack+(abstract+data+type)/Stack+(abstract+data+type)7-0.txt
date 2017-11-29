@@ -1,0 +1,2 @@
+Where does the logo that is traditionally used to represent databases comes from?
+I think, but maybe I'm wrong, it comes from a way to structure data : the Stack (abstract data type), which is a "LIFO" system (Last In First Out) this symbol would be an analogy with the electric battery 

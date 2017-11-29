@@ -1,0 +1,2 @@
+What is the future of business intelligence?
+Seems like a major trend will be a web-based approach. Modern, easily extensible, lightweight, etc. Traditional vendors will have a tough time because of their ETL process. That's where startups and emerging companies like Looker will have an edge.    Embed Quote 

@@ -1,0 +1,2 @@
+Why is my C++ code showing a compilation error to problem SPOJ.com - Problem FIBOSUM?
+Compilation error because you are trying to access f[n] which is undefined. Since you know that array index starts from 0 and ends at n-1. Therefore for(int i = 2; i < n; i++) and your function should return f[n-1] instead of f[n]. 

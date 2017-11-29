@@ -1,0 +1,2 @@
+★What is the best Twitter client for Linux?
+The client I liked the most is Pino, but with oAuth issue, they haven't yep updated the stable version in the repositories to support it. You can use through some third party server which allow you to, but it's not the same :P

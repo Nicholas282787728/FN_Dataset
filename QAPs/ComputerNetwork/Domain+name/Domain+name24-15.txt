@@ -1,0 +1,2 @@
+★What's worse: a long domain name or one with a hyphen?For purposes of a personal blog, what are the relevant considerations in terms of SEO and user recall? E.g., (hyothetically) comparing dot-com domains for piano-lessons vs. pianolessonsbysandra (assuming pianolessons itself is taken). Is a hyphen the kiss of death?
+Avoid hyphens at all cost for your domain. There are so many options with the new top-level domains that you can pretty much have the best of both worlds - something short, memorable and descriptive without requiring a 20 character second-level domain.

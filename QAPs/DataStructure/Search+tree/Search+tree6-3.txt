@@ -1,0 +1,2 @@
+Can a binary search tree contain negative numbers?
+Not sure why it couldn't. To do a binary search or to add things to the tree you just need to check if it's greater or less than other numbers. That still applies to negative numbers. 

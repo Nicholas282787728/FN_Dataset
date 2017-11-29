@@ -1,0 +1,2 @@
+Which are some of the best Data Analysis tools?
+esCalc should be on the list. It's a very easy to use and intelligent spreadsheet software. It has a cell-style interface like Excel but more powerful in complex computing. It's intelligent for batch computing: when input a formula in a cell, other cells with the same level will automatically copy this formula and calculate it. And this tool has totally free version. Excel is also a good data analysis tool. It's convenient to use and powerful to handle big data.    Embed Quote 

@@ -1,0 +1,1 @@
+In Java, why do we use the LinkedList constructor for declaring Stacks?You can do that. The java.util.LinkedList API defines this implementation as a doubly linked list. Thus removal from either end of said linkedlist is O(1). 24 Views  View Upvotes

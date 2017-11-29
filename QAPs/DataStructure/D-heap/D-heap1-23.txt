@@ -1,0 +1,2 @@
+What books are a good introduction to game theory?
+I started with Game Theory: A Critical Text, by Shaun P. Hargreaves Heap and Yanis Varoufakis.  I don't think that was ever intended for beginners of Game Theory.  The Predictioneer's Game by Bruce Bueno de Mesquita was much easier to digest.  One thing I got from the book that I try to incorporate into my life is to create an environment that incentivizes the desired outcome. 

@@ -1,0 +1,1 @@
+Is an array a collection of pointers?It depends on how you declare the array. You can have the array declare both as a set pointers,as well as values,depending on the purpose it has to serve. 

@@ -1,0 +1,1 @@
+What are some real-world applications of avl trees today?search, insert, delete, min and max operations all run in O(logN). So, it has many use cases, all operations needs to have same time complexity, particularly look up intensive applications. 

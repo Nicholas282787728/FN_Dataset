@@ -1,0 +1,2 @@
+What is the difference between signed and unsigned data types?
+Signed data types are the ones that can hold both positive and negative values… Unsigned data types can hold large positive values, but cannot hold negative values.. Hope it helps :) 3k Views · 2 Upvotes

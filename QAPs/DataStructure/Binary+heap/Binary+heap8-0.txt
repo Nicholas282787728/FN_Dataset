@@ -1,0 +1,2 @@
+Why is the running time of building a binary heap O(n) and not O(n * log n)?
+Hope this helps. :) Ajay Gaur's answer to Can someone give an intuitive proof on the running time of building heap procedure in O(n)? 

@@ -1,0 +1,1 @@
+Which programming language contain the feature of dynamic data structures?I have learnt in school that C contains dynamic data structures like linked list and binary tree. Are there other programming languages that contain these dynamic data structures?all of them its a concept not feature in the language 59 Views  View Upvotes

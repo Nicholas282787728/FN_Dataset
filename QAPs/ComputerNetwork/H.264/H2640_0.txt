@@ -1,0 +1,7 @@
+Video Codecs: What is H.264? H.264 is a video compression codec. It's also referred to as AVC (Advanced Video Codec) and as MPEG 4 Part 10.
+
+As well as being used on the internet for some video streams, it's also widely used in broadcast, and in particular for the broadcast of HD channels. It's also one of the supported codecs for Blu-Ray discs.
+
+H.264 is fairly processor intensive, though modern PCs can decode it much more easily than a few years ago; nevertheless, many modern graphics cards have H.264 acceleration, and the codec is supported by many mobile devices too, including the iPhone and iPad, where it's typically used with SD video.
+
+Consumer confusion often arises when H.264 is simply referred to as MPEG4; many cheap video players or personal media players support MPEG4 video, but not MPEG4 Part 10 (H.264); instead they support other MPEG4 video codecs (Xvid and 3GPP, for example, are also part of MPEG 4, but not as advanced as H.264).

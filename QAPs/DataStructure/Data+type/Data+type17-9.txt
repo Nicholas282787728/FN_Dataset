@@ -1,0 +1,2 @@
+What is the difference between a data type and a data structure?
+Originally Answered: What is the difference between data structure and data type? List is an Abstract Data Type ArrayList is a Data Structure. 144 Views

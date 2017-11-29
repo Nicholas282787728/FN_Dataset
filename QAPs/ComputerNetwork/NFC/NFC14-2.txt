@@ -1,0 +1,2 @@
+★What startups are using NFC for applications outside of mobile payments?
+If you have an Android NFC phone, I'll send you an .apk of a prototype game we released at the beginning of this year. We recently qualified for the WIMA NFC 2012 competition in Monaco (bitly.com/HdKuad). We are continuing to make NFC based games because we love the socially physical aspect of two phones touching for a feature that is usually very private (paying for things).    Embed Quote

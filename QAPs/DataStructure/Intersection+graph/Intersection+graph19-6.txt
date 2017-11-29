@@ -1,0 +1,2 @@
+How do you solve this equation using the a graphing calculator? 5^X = 1000
+If you need to use the graphing calculator: 1. Plot y= 5^x 2. Plot y= 1000 3. Find the intersection point. The x coordination will be the solution. 

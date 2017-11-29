@@ -1,0 +1,2 @@
+★How do I do logistic regression modeling in Hadoop map reduce?
+Here's an example of how to do a logistic regression on Hadoop http://www.win-vector.com/blog/2... There's also the option to use Spark eg with MLlib http://spark.apache.org/docs/0.9...    Embed Quote

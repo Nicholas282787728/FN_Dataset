@@ -1,0 +1,4 @@
+In mathematics, the term linear function refers to two distinct but related notions:[1]
+
+In calculus and related areas, a linear function is a polynomial function of degree zero or one, or is the zero polynomial.[2]
+In linear algebra and functional analysis, a linear function is a linear map.[3]

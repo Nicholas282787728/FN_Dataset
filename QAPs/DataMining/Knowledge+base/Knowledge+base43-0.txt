@@ -1,0 +1,2 @@
+★What are the options for hosted wiki for knowledge base/documentation?
+Have you tried taking a look at Knowledge base software - Helpjuice ? We don't do version control, but we do all the rest. A lot of folks rely on us for Internal documentation (including the US Gov, Stanford, LeetGeek and many more)    Embed Quote

@@ -1,0 +1,21 @@
+The algorithm is as follows:
+Input: An array P with n elements and an empty stack N
+Output: An array S of n elements such that P[i] is the largest integer k such that k <= i + 1 and P[y] <= P[i] for j = i - k + 1,.....,i
+Algorithm:
+1. Initialize an array P which contains the daily prices of the stocks
+       2. Initialize an array S which will store the span of the stock
+       3. for i = 0 to i = n - 1
+               3.1 Initialize k to zero
+               3.2 Done with a false condition
+               3.3 while not (Stack N is empty or done with processing)
+                     3.3.1 if ( P[i] >= P[N.top())] then
+                               Pop a value from stack N
+                     3.3.2 else
+                               Done with true condition
+               3.4 if Stack N is empty
+                        3.4.1 Initialize h to -1
+               3.5 else
+                        3.5.1 Initialize stack top to h
+               3.6 Put the value of h - i in S[i]
+               3.7 Push the value of i in N 
+       4. Return array S

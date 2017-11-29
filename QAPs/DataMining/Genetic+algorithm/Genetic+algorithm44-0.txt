@@ -1,0 +1,2 @@
+★How do genetic algorithms conceptually relate to independent component analysis (if they do)?Just curious.  Please link some publications if possible.
+A genetic algorithm is a way of calculating an answer whereas an independent component analysis is an answer one might want to calculate.   I imagine you could perform an independent component analysis using a genetic algorithm if you wanted to.    Embed Quote

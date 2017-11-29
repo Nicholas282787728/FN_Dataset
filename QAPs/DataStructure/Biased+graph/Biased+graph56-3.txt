@@ -1,0 +1,2 @@
+Which Twitter analytics service tracks a definable keyword over time?
+I'm biased, but this is one of the reasons that I built RowFeeder (http://rowfeeder.com) - It's a simple way to track keywords straight into a spreadsheet, with Google Docs integration for real-time tracking. 729 Views · 6 Upvotes

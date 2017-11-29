@@ -1,0 +1,1 @@
+Is there a linear time algorithm that checks if an edge in a directed graph is a bridge (cut-edge)?As Tarjan's algorithm seems to be for undirected graphs, I am wondering whether there is some way I could modify Tarjan's algorithm to work for a directed graph, or is there any other linear time algorithm ?

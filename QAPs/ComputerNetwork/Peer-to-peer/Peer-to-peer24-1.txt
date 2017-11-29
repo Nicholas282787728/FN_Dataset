@@ -1,0 +1,2 @@
+★Why does WhatsApp use a Client Server architecture instead of peer to peer?
+P2P makes more sense for high-bandwidth services such as voice or video calls, not for instant messaging. And even then you still need a server for signaling and for cases when P2P connections can not be established.    Embed Quote

@@ -1,0 +1,2 @@
+What are some good resources to understand a binary indexed tree (Fenwick tree)?
+Some of the tutorials to understand how BIT works, its different applications (range update etc.) and implementation: Binary Indexed Trees BIT / Fenwick Tree data structure C++ implementation Range updates with BIT / Fenwick Tree 

@@ -1,0 +1,2 @@
+Why doesn't C also provide default implementations for linked lists, trees, hash tables, sorting, etc. like Java does?
+Perhaps partly because C lacks template or generic types, but also because C tends to be used in situations where resources are very limited. I'm guessing most C programmers would rather "roll their own" under those circumstances, mistrusting someone else's implementation and preferring to write something specifically for the job at hand. 875 Views · 2 Upvotes

@@ -1,0 +1,2 @@
+★What is HTTP/2 and why is it better than HTTP?Does it just add some features to HTTP or is it substantially different?
+It is substantially different. First, it's a binary protocol. Second, it supports multiplexing so you can deliver multiple resources over a single TCP/IP connection. Third, it allows the server to proactively populate the browser cache ("you're gonna need that, load that resource too", before the browser has even fully parsed the DOM). It also uses header compression, and is actually based on SPDY - HTTP/2 Frequently Asked Questions.

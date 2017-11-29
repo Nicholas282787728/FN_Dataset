@@ -1,0 +1,2 @@
+What are some good resources for learning about numerical analysis?
+before you start studying numerical analysis you should first know what is computing. I recommend this amazing course for you: Scientific Computing: Page on coursera.org after you finish the course you will have the basics required to study numerical analysis from the following resources: Computational Fluid Dynamics: Library Genesis: John Anderson Page on coursera.org Finite Element Method: Library Genesis: J.N. Reddy Library Genesis: J Reddy Page on coursera.org 

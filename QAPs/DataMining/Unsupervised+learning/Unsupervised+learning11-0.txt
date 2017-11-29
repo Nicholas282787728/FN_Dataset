@@ -1,0 +1,2 @@
+★What are some unsupervised learning algorithms applicable to NLP?
+Latent Dirichlet Allocation (Links: Paper and Wikipedia) is an important algorithms for topic-modeling like problems. Variants of this have been used for different NLP problems as well. More recently work on deep learning, such as the Skip-Gram models (from researchers at Google) and work from Richard Socher & Andrew Ng, has been shown to work well for NLP problems.    Embed Quote

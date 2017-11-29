@@ -1,0 +1,2 @@
+What are some good blogs for learning Binary Indexed Tree data structure apart from TopCoder tutorials?
+I have recently written a post about Binary Indexed Tree. You can have a look at it @Binary Indexed Tree made Easy - Bhavesh Munot. 

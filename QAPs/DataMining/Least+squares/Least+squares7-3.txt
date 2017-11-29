@@ -1,0 +1,2 @@
+★What is an intuitive explanation of the least squares method?
+I guess closest projection of a point onto a subspace spanned by basis set specified by the problem. Similar to what pseudo inverse does in intermediate steps.    Embed Quote

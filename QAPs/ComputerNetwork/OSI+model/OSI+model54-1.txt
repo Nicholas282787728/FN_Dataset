@@ -1,0 +1,2 @@
+★Smart phones can be included under which OSI layer?
+Smart phones are computers and as such have different components (logical and physical) that correspond to different layers in the OSI model. Any app that you use on your smartphone would always correspond to the application layer, though. Something like the 3G receiver would correspond to the physical layer.    Embed Quote

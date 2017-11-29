@@ -1,0 +1,2 @@
+What are B*trees?
+Originally Answered: What is B-Tree? The database server uses a B-tree structure to organize index information. B-Tree generally has following types of index pages or nodes: root node: A root node contains node pointers to branch nodes which can be only one. branch node: A branch node contains pointers to leaf nodes or other branch nodes which can be two or more. leaf nodes: A leaf node contains index items and orizantal pointers to other leaf nodes which can be many. 827 Views · 1 Upvote

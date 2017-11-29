@@ -1,0 +1,2 @@
+How do I find if there's a route between two nodes?
+If your graph is spars go for depth first search if it's dense then go for breadth first search. 

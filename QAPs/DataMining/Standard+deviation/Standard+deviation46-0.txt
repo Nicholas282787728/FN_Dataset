@@ -1,0 +1,2 @@
+★What's the best period to use for standard deviation when calculating Sharpe Ratio?
+What I've seen is measure by the frequency you do a trade. This is why a profitable HFT strategy has such high sharpe'ratios    Embed Quote

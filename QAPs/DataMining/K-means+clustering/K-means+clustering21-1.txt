@@ -1,0 +1,2 @@
+★Can you use k-means clustering to separate search keywords by performance?
+Probably. But I am not sure what you mean by 'performance'.  Do you want to cluster keywords which tend to appear together in searches, or cluster keywords which are directed to your site, or something else? One caveat is that the results may not be meaningful, there is a semantic level built into search which may not be reflected in the keywords.  You might consider using bigram search keywords instead.    Embed Quote

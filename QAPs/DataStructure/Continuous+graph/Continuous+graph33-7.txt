@@ -1,0 +1,1 @@
+If f(x)  is a continuous function satisfying f(x)=f(2x)  for all real x  , then is it necessarily a constant function?If so, how do we prove it? And if not, any counter examples?

@@ -1,0 +1,2 @@
+Bridging is distinct from routing, as routing allows multiple different networks to communicate independently while remaining separate whilst bridging connects two separate networks as if they are only one network (hence the name "bridging").
+ In the OSI model, bridging is performed in the first two layers, below the network layer (layer 3).[3] If one or more segments of the bridged network are wireless, the device is known as a wireless bridge and the function as wireless bridging.

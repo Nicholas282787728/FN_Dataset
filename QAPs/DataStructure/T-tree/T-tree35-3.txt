@@ -1,0 +1,2 @@
+Why is it that if you remove an edge from a tree it becomes disconnected?
+No, its not necessary that it will be disconnected. 

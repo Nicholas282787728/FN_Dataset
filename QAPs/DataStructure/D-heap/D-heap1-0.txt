@@ -1,0 +1,2 @@
+What books are a good introduction to game theory?
+Games & Information by Eric Rasmusen. http://www.amazon.com/Games-Info... It's a textbook, but still it's a very readable one.  At the end of each chapter there are problems (with answers) to check your understanding. Unfortunately, (and in contrast to the Thinking Strategically book that others have recommended) if you really want to learn game theory, you just can't pass over the math - it's the basis of game theory.  So, it makes sense to brush-up on your matrix algebra too. Updated 5 Feb 2012 • View Upvotes

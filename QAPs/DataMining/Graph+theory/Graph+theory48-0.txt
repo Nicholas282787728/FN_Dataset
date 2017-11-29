@@ -1,0 +1,2 @@
+★What is a Vertex cover and a Clique (graph theory)?How do we draw a graph of 10 vertices and 15 edges , one with minimum vertex cover 2 and other with clique 6 .
+1) For a graph with minimum vertex cover=2 the graph is (v1,v3),(v1,v4), (v1,v5),(v1,v6),(v1,v7),(v1,v8),(v1,v9) (v2,v3),(v2,v4), (v2,v5),(v2,v6),(v2,v7),(v2,v8),(v2,v9),(v2,v10) 2) For a graph with clique of 6 it requires 15 edges for vertexes in clique itself so you have to leave remaining 4 vertexes with zero degree    Embed Quote

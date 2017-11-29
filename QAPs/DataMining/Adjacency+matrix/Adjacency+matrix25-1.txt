@@ -1,0 +1,2 @@
+★What is the running time of a BFS traversal algorithm if the underlying graph is represented by an adjacency matrix?
+BFS has a running time of O(|V|+|E|). If the graph has been represented by a adjacency matrix, You will be assuming |E|=|V|^2 as each combination will be checked and vertices are added to the queue accordingly. The resulting running time of the algorithm will be O(|V|^2).    Embed Quote

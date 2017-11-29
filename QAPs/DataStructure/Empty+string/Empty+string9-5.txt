@@ -1,0 +1,2 @@
+What is difference between EMPTY and NULL string in Java?
+String empty = ""; // empty string String nullstr = null; // null string String noinitstr; // not initialized string, defaults to null 

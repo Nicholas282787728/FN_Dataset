@@ -1,0 +1,2 @@
+★Information Retrieval: Extended Boolean model = explanation?
+fxj =  is the frequency of word in j in document x. Idfx = the inverse document frequency of of document x. Inverse document frequency of a word x is log(total_num_docs / |number of docs which contains word x|) maxi (idfi) is the max idf    Embed Quote

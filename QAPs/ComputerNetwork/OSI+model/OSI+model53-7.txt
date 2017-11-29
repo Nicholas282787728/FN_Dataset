@@ -1,0 +1,2 @@
+★What is the main purpose of Data link layer in TCP/IP or OSI layer?advantages of data link layer
+The data link layer provides a reliable link between two directly connected nodes, by detecting and possibly correcting errors that may occur in the physical layer.The Point-to-Point Protocol (PPP) is an example of a data link layer in the TCP/IP protocol stack.    Embed Quote

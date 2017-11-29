@@ -1,0 +1,2 @@
+Can we use K-nearest neighbor clustering algorithm implementation in Java?
+You can find a Java implementation here : K Nearest Neighbor Algorithm Implementation and Overview 

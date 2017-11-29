@@ -1,0 +1,1 @@
+How do I make semi-static arrays in C?What would you specifically mean by semi-static? What are you actually trying to achieve for the array?? 209 Views  View Upvotes

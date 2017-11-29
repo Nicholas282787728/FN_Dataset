@@ -1,0 +1,5 @@
+Video Codecs: What is H.264? It is a modern video compression algorithm often used for online video. It can be used in Flash-based players. H.264 files are often saved with an .mp4 extension.
+
+There is some dispute about patenting. H.264 contains patented technology, so all software makers that use it need to pay royalties. The patent owner, however, has stated that they will never demand royalties from anyone, so H.264 is essentially free. But it is not open source.
+
+This has stimulated google to develop WebM, which is essentially the next version of On2. This is a truly open source codec, and will probably be the video standard of the future, if it offers sufficient quality.

@@ -1,0 +1,2 @@
+★How does data flow through cables?
+Cables are simply antennas or waveguides.  They allow us to take an analog signal and channel it to the appropriate receivers.  We then apply electrical coding to put digital information on top of that analog waveform. In the end, it's all about getting the electrons (or for fiber, photons) to dance.

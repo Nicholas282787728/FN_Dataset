@@ -1,0 +1,2 @@
+★Which ISP offers the highest bandwidth and lowest latency in Palo Alto?Are there any options besides Comcast and ATT?
+Sonic.net piggy backs off of AT&T's copper and is a much better alternative with their uncapped dual-bonded service. I'm seeing 33mbit down/3.5mbit up with Annex M enabled roughly 2700ft from the CO in downtown Palo Alto.  Another plus is that their customer support and sales teams are easy to get ahold of and are very knowledgable.

@@ -1,0 +1,12 @@
+★What are some of the best regular expressions?
+A RegEx which determines whether the number is prime or not.  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+ function isPrime(number) {     return !/^#?$|^(##+?)\1+$/.test(new Array(number + 1).join("#")); } console.assert(isPrime(5)   === true); console.assert(isPrime(6)   === false); console.assert(isPrime(2)   === true); console.assert(isPrime(3)   === true); console.assert(isPrime(4)   === false); console.assert(isPrime(100) === false); Explanation can be found here    Embed Quote

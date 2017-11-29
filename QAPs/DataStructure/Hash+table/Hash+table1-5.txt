@@ -1,0 +1,2 @@
+How would you implement a hash table in C from scratch?
+Plain array + DRJ Hash function. 4.2k Views

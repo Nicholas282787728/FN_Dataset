@@ -1,0 +1,2 @@
+★What is the switching circuit of NAND gate?
+Again, Peter Hand has a good answer.  To expand a little, there is also the TTL (transistor-transistor-logic) family, more and more of historical interest instead of for new design, which uses a different approach to get the same result.  The Texas Instruments web page is a good place to learn about TTL.  And there are variations of the circuit shown by Peter Hand to increase the pull-down and/or pull-up drive.

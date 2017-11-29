@@ -1,0 +1,14 @@
+What are the types of cograph? Several alternative characterizations of cographs can be given. Among them:
+
+A cograph is a graph which does not contain the path P4 on 4 vertices (and hence of length 3) as an induced subgraph. That is, a graph is a cograph if and only if for any four vertices {\displaystyle v_{1},v_{2},v_{3},v_{4}} v_{1},v_{2},v_{3},v_{4}, if {\displaystyle \{v_{1},v_{2}\},\{v_{2},v_{3}\}} \{v_{1},v_{2}\},\{v_{2},v_{3}\} and {\displaystyle \{v_{3},v_{4}\}} \{v_{3},v_{4}\} are edges of the graph then at least one of {\displaystyle \{v_{1},v_{3}\},\{v_{1},v_{4}\}} \{v_{1},v_{3}\},\{v_{1},v_{4}\} or {\displaystyle \{v_{2},v_{4}\}} \{v_{2},v_{4}\} is also an edge.[4]
+A cograph is a graph all of whose induced subgraphs have the property that any maximal clique intersects any maximal independent set in a single vertex.
+A cograph is a graph in which every nontrivial induced subgraph has at least two vertices with the same neighbourhoods.
+A cograph is a graph in which every connected induced subgraph has a disconnected complement.
+A cograph is a graph all of whose connected induced subgraphs have diameter at most 2.
+A cograph is a graph in which every connected component is a distance-hereditary graph with diameter at most 2.
+A cograph is a graph with clique-width at most 2.[5]
+A cograph is a comparability graph of a series-parallel partial order.[1]
+A cograph is a permutation graph of a separable permutation.[6]
+A cograph is a graph all of whose minimal chordal completions are trivially perfect graphs.[7]
+A cograph is a hereditarily well-colored graph, a graph such that every greedy coloring of every induced subgraph uses an optimal number of colors.[8]
+A graph is a cograph if and only if every vertex order of the graph is a perfect order, since having no P4 means that no obstruction to a perfect order will exist in any vertex order.

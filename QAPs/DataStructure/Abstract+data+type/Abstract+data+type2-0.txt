@@ -1,0 +1,2 @@
+What is the stringstream abstract data type?
+It allows a programmer to treat a predetermined string like stream. This allows you to read a string like a file. I've used a Python equivalent of it in two scenarios: debugging, and using file-reading functions I wrote on data already loaded into a custom buffer. The data was already in memory because it had been decompressed from a larger file, 

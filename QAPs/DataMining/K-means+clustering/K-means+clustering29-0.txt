@@ -1,0 +1,2 @@
+★How would you describe k-means clustering algorithm in terms of learning the edges in a bipartite graph k cluster vertices and N instance vertices?- Bipartite graph - k-means clustering
+Basically your bipartite graph will be made of data points and clusters, and the edges will represent cluster membership.    Embed Quote

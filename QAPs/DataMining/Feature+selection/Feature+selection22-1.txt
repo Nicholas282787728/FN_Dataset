@@ -1,0 +1,2 @@
+★How do i use any library in java that implements RELEIFF algorithm feature selection?i need to implement or use RELIEFF algorithm for comparing my algorithm . i want to know is their any way i can use RELIEFF algorithm in java ? i found the library that implements it ,but couldnt understand how to use it . any help would be appreciated .
+WEKA (Data Mining with Open Source Machine Learning Software in Java) has a RELIEF implementation and the source code is public too.    Embed Quote

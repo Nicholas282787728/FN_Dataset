@@ -1,0 +1,2 @@
+★What models of the MacBook Pro do not have a built-in Ethernet port?
+They don't have Ethernet on board, but Apple sells both Gigabit Ethernet/USB and Ethernet/Thunderbolt adapters for $29 each, and Apple's Thunderbolt Display has a Gigabit Ethernet port.

@@ -1,0 +1,2 @@
+What are all the data structures that you have come to know about? Which of these do you use very frequently?
+Basic - Stack, Queue, Linked list, Priority queue, Circular linked list, Doubly linked list, Tree, Graph, Set, Map, Array, Heap etc. Advanced - Red black tree, Binary index tree, B/B+ tree, Sparse matrices, Hypergraph, BSP trees etc. 

@@ -1,0 +1,2 @@
+What are some real-world applications using B-tree?
+As above answer given by Santanu Chakrabarti. Mysql uses B tree. Interesting >.< B-Tree : It is a generalization of a BST in that a node can have more than two children. These are self balancing and hence the average and worst complexities is logarithmic.We opt for these when the data is too huge to fit in main memory. These structures are used in database indexing and help in faster operations on disk. Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 4.6k Views · 1 Upvote

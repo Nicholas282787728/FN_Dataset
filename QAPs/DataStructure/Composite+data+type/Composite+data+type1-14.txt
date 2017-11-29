@@ -1,0 +1,2 @@
+What are pros and cons of PostgreSQL and MySQL?With respect to reliability, speed, scalability, and features. I've heard a lot about how Postgres is superior to MySQL in a number of ways, but I only have a loose understanding of the differences.
+a simple killer argument: test=# SELECT '2012-02-67'::date; ERROR:  date/time field value out of range: "2012-02-67" LINE 1: SELECT '2012-02-67'::date; can you take a database seriously which eats the 67th of february and puts in zeros instead? i wouldn't ... PostgreSQL is for real data ... MySQL is for people writing shitty code. 

@@ -1,0 +1,2 @@
+What are associative arrays?
+Associative arrays map keys to values. It is essentially a hash table. For example, normal arrays map integers indexed from 0 to values. You could map a string to a value using an associative array, and the value can be string or whatever object you want. To summarize, a normal array is as follows (in python): array = [1,2,3,4]array[0] = 1array[2] = 3 And an associative array (or a dictionary) in python is: arr = {}arr['example'] = 2arr['quora'] = 'is awesome' 

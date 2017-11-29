@@ -1,0 +1,2 @@
+★What are the best interview questions to evaluate a machine learning researcher?
+I'll add to Josh's on the favorite algorithm: - Why is it so? - How did you learn it? - How many times did you implement it? - Where does it come short?   Also: - Which algorithm, among the ones you implemented, is your least favorite? - How do you keep up to date? - Which is your favorite book/read on the subject? - What was the last paper you read on ML?    Embed Quote

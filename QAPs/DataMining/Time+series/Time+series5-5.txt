@@ -1,0 +1,2 @@
+★What is the best way to store time series data in Redis?
+I have always used sorted sets for this sort of thing (with epoch timestamps as the score), but I'm curious about what's going on with twitter's haplocheirus project: https://github.com/twitter/haplo.... They say it "is a redis-backed storage engine for timelines."  Probably worth having a gander at before brewing your own solution.    Embed Quote

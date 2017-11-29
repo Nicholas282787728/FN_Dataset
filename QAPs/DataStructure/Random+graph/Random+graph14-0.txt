@@ -1,0 +1,2 @@
+Can we create an equation for any randomly drawn graph?
+Yes you can, although the usefulness of such an equation can vary wildly, sometimes being completely useless. For the most basic method, just take as many points from the graph as you want or can, then do a least squares polynomial fit to find the coefficients of a polynomial which roughly follows your equation. To get a perfect fit, make sure the degree is at least one lower than the same as the number of points you have. That is, if you took 10 points, use at least a 9th degree polynomial. 

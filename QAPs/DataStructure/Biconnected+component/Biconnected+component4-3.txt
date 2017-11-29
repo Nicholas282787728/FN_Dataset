@@ -1,0 +1,1 @@
+What is the easiest way to prove that every connected graph with three or more vertices has at least two vertices which are not cut-vertices?

@@ -1,0 +1,2 @@
+★What would be an interesting explanation of network layer of OSI model?
+It is responsible for logical addressing and routing. Think about the postal system where each destination has a unique address to be reachable and within a system of roads and other transport options to be routable.    Embed Quote

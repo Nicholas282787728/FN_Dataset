@@ -1,0 +1,2 @@
+What is the best balanced binary search tree to know?
+Splay tree IMO. It is not kept always perfectly balanced, but its amortized complexity for operations are still same [ O(log n) ] as the other completely balanced binary trees but its easier to implement than others - probably more used as well.   One of few disadvantages is it rebalances itself even when a value is read, making it complicated for multi threaded application accessing the data. 

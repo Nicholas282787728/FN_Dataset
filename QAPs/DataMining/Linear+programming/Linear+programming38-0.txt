@@ -1,0 +1,2 @@
+★What are some good open source libraries for linear programming?
+CLP is one of the better performing open-source solvers. COIN-OR Linear Programming Solver    Embed Quote

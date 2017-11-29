@@ -1,0 +1,2 @@
+★How do I calculate logistic regression?Suppose there are 10 attributes(x) which describes whether the person has cancer or not(y).How to predict the vaue of y using logistic regression?
+There are a lot of tools that can do this for you ... SAS, R or Minitab are some of the most commonly used tools across industry.    Embed Quote

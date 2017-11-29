@@ -1,0 +1,1 @@
+what is the cograph? The cographs may be defined as the graphs that can be constructed using these operations, starting from the single-vertex graphs.

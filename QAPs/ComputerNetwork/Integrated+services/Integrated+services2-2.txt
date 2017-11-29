@@ -1,0 +1,2 @@
+★Are there any Python/Django-friendly hosted Continuous Integration services?I'm looking for some rough equivalent to what http://travis-ci.org provides for the Ruby and Rails communities.
+TravisCI now supports Python and the Facebook Tornado Web Server is already hosted on it: http://travis-ci.org/#!/facebook...    Embed Quote

@@ -1,0 +1,2 @@
+How can we represent a space search tree?
+You could use a Kd tree where k being the dimension of your space. If u meant space as a 3-d space u would have to use a 3-d tree. Kd trees are variations of BST with average search time O(log n). Read about them here... k-d tree 

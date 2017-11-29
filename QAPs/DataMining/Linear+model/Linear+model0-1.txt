@@ -1,0 +1,2 @@
+★Why naive bayes a linear model?
+It is a linear model because it trains feature weights for the linear decision function (decide true if above 0, false if below).    Embed Quote

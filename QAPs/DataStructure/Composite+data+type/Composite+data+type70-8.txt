@@ -1,0 +1,2 @@
+What data structures should I know to become a great programmer?
+Everything other people have posted. I also recommend learning MySQL or postgres, and learning the underpinning technology of the web/internet. 

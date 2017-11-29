@@ -1,0 +1,1 @@
+Isn't a blockchain essentially a linked list?Yes, the data structure is like a linked list. But the links are between next and previous blocks, so there are no links in the data that is stored in it. The blockchain's purpose is to propagate over the web and it's data are validated with special algorithms that are run on the nodes that support the blockchain. 325 Views

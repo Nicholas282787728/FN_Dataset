@@ -1,0 +1,1 @@
+Is it possible to get data within a specified date interval using Facebook graph API?I would like to get data for one of my page for the last six months for example.

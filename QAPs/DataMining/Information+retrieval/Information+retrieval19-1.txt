@@ -1,0 +1,2 @@
+★Where can I get information retrieval / NLP paper dataset?
+I have downloaded the computational lingusitics from acl anthology (ACL Anthology) clearly, they don't mind wget -r. I will be updating this list as I get more.    Embed Quote

@@ -1,0 +1,2 @@
+★Why is my computer unable to connect to the proxy server?I am using a VPN network not a LAN and I have these extensions which I delete but whenever I restart chrome they all come back again please help
+Can you tell more specific about which extensions you have on your chrome?    Embed Quote

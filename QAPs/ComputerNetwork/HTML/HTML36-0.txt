@@ -1,0 +1,2 @@
+★How do I send a html email?I have an img tag, like this:  <img src="someImageLink.jpg"/> When I just type that in the body of gmail, the text gets displayed, not the image. How do I do this? I want to embed the image in the mail his body.
+To send a HTML email, you can use email marketing solutions like mailchimp. You can paste your code into the HTML template very easy. To include an image in your email, you need to save the image to public server, and you can use full path link to access the image. Eg. <img src="http://www.example.com/img/myima... />

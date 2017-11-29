@@ -1,0 +1,2 @@
+Can the % operater be used on all data types in C?
+No %( modulus ) operator is used to find remainder It can be used for data types are integer , float ,and double and their modified data types Ex: 46%2; 0 18 Views

@@ -1,0 +1,2 @@
+★Natural Language Processing: What are the best realtime text summarization APIs & Services?
+Hi, I created an Automatic Summarization API called TextTeaser. It was built on an algorithm I formulated for my MS CS research. The code is available at Github (DataTeaser/textteaser). You can see it in action in Reddit (overview for tldrrr) and in Medium (Automatic Summarization in Medium).    Embed Quote

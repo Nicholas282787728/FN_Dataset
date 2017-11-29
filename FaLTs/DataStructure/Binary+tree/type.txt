@@ -1,0 +1,7 @@
+A rooted binary tree has a root node and every node has at most two children.
+A full binary tree (sometimes referred to as a proper[15] or plane binary tree)[16][17] is a tree in which every node in the tree has either 0 or 2 children.
+A perfect binary tree is a binary tree in which all interior nodes have two children and all leaves have the same depth or same level.
+In a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible.
+In the infinite complete binary tree, every node has two children (and so the set of levels is countably infinite).
+A balanced binary tree has the minimum possible maximum height (a.k.a. depth) for the leaf nodes, because for any given number of leaf nodes, the leaf nodes are placed at the greatest height possible.
+A degenerate (or pathological) tree is where each parent node has only one associated child node.

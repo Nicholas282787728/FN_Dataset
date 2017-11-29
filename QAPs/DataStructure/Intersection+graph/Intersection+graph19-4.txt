@@ -1,0 +1,2 @@
+How do you solve this equation using the a graphing calculator? 5^X = 1000
+5^x = 100 x. log 5 = log 1000 x = log1000/log 5 

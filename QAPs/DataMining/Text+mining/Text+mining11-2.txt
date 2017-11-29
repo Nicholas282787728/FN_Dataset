@@ -1,0 +1,2 @@
+★Which open source NLP/text mining framework has the best support for Chinese?
+You can play around with FudanNLP: http://code.google.com/p/fudannlp/. It is developed by a famous university in China. In addition, It is open source.    Embed Quote

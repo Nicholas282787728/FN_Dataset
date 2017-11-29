@@ -1,0 +1,5 @@
+When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?MAC address works in Layer 2 (not considering VLAN/Layer 3 switching).
+
+IP address works in Layer 3. IP is required to connect to the network. It tells the server in which network the client is.
+
+Take it this was. I used to live in Apt 2804, North Harbor Tower. 175 North Harbor Dr. Chicago. IL.

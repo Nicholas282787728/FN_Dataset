@@ -1,0 +1,2 @@
+How can you make a double line graph in Excel?
+Hi. If you mean two different sets of data then yes. I do this all the time. Highlight all of this and select insert > line > Then select the kind you want. I hope this helps. Month 2015-16 2016-17 Target April 75.53 121 123 May 78.6 45 123 495 Views

@@ -1,0 +1,2 @@
+★Is there any way to make internal hyperlinks in Evernote?I would like to be able insert a link in one note that takes you to another note. You can do this in Tiddlywiki and it is a very useful feature.
+Yes, just right-click on the note you want to make a link of... "Copy Note Link," and paste into your new note. If you're using the Windows desktop app, you can hold down the Ctrl key and select dis-contiguous notes, select "Copy note Link" once and then paste all of those new links in one shot in a new note.    Embed Quote

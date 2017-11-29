@@ -1,0 +1,2 @@
+What is the most complex line of C code you have created or encountered?
+main(){char q=34, n=10,*a="main() {char q=34,n=10,*a=%c%s%c; printf(a,q,a,q,n);}%c";printf(a,q,a,q,n);} It prints itself, literally. This program is called a Quine (computing). The two key tricks here are using a string with an embedded %s specifier to allow the string to contain itself when printed, and to use the %c format specifier to allow printing out special characters like newlines, which could not otherwise be embedded in the output string. 

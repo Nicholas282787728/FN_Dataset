@@ -1,0 +1,2 @@
+★What are currently the hot topics in Machine Learning research and in real applications?Currently, there are many topics in ML research which are/can be used widely in real applications. I wonder what are key topics which we should focus doing research and studying.
+I answered a very similar question here.  Murthy Kolluru's answer to What are some open questions Quora Data Science Careers and Data Scientists are working on/would like to know the answer to?    Embed Quote

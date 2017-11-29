@@ -1,0 +1,2 @@
+★What is the best way to compare the performance (metrics) of my own apps versus the competition?Is there any source of market data for mobile apps (across different platforms) where it is possible to compare different apps? How can I tell how my apps are performing agains their competition? I'm interested on data like monthly downloads, sales, etc. In other words, where are the Nielsen and comScore for the mobile apps universe?
+I would check out http://www.flurry.com/ and http://www.kontagent.com/. Both companies have excellent app-analytics-type data.    Embed Quote

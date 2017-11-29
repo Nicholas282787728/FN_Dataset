@@ -1,0 +1,2 @@
+★What are some real life good habits that programming gives people?Inspired by What are some real-life bad habits that programming gives people?
+Binary search trees. Just like a program uses binary search in a tree speeds up looking for things, one can mentally follow this paradigm in decision making. Instead of thinking sequentially, one learns to divide and conquer. The brain works as a parallel processor, after all.

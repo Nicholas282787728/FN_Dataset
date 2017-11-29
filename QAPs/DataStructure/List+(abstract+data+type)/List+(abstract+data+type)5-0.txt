@@ -1,0 +1,2 @@
+How do I allow the user to define the number of elements in a Python list?
+Python is not Java. Especially, Python has no equivalent to Java arrays. (without looking at C-extensions / non-standard library modules like scipy) What you showed in Java is not a list, but an array. Lists and arrays are fundamentally different (see List (abstract data type) and https://en.wikipedia.org/wiki/Ar... for details) In Python you can use lists (see 2. Built-in Functions) which are similar to ArrayList (Java Platform SE 7 ) as: x = []x.append("Bli")x.append("Blub")x = ['Bli', 'Blub'] 

@@ -1,0 +1,1 @@
+How do I sort a array of nodes via zPosition?In Swift with SpriteKit, how can i take a array of nodes and sort from zPosition?var nodes: [SKNode] = [] // fill the array nodes.sort({$0.zPosition < $1.zPosition}) 56 Views  View Upvotes

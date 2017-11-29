@@ -1,0 +1,2 @@
+What are some direct & indirect applications of graph theory in the real world?
+The maximum matching problem is quite applicable to the real world. It helps pair two disjoint sets based on weighted relations (edges). The Wikipedia article on it is pretty informative and gives an example. 

@@ -1,0 +1,2 @@
+★Why can a probability distribution be treated as a classifier?
+I don't see how an unconditional probability distribution can be except in a trivial sense. Once you have two groups it's a classifier. You can generate an ROC curve, measure separation., etc.    Embed Quote

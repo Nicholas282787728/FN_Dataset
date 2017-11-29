@@ -1,0 +1,2 @@
+What would be a good alphabet for Huffman coding when compressing generic non-text binary data?
+This depends on the desired size of the Huffman tree and the skewedness of the input data. The alphabet can be chosen to be the set of all n  n bit strings with n  n being e.g. 8. 43 Views

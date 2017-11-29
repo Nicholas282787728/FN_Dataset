@@ -1,0 +1,2 @@
+★How would you compare ANOVA to linear regression?
+ANOVA is a special case of the general linear model, which is in turn a special case of the generalized linear model. Repeated measures ANOVA is in turn a special case of HLM. Everything ANOVA can do HLM can do better.    Embed Quote

@@ -1,0 +1,2 @@
+★What's the best way to get started with firmware/embedded systems programming?
+Personal views: Arduino is really great to start, but it makes you handicap. I almost forgot programming AVR, and I am scared of idea of doing so, and I come back to the Arduino. But the problem is, I have seen nobody using this for an actual embedded product. In fact, they prefer assembly language as it gives them better control over the code. If you go for AVRs, lots of good tutorials are available on Page on Extremeleectronics... I can't say much as even I am confused.    Embed Quote

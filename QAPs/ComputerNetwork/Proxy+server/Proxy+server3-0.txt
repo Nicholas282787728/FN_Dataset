@@ -1,0 +1,2 @@
+★Why can't proxy servers unblock YouTube in Pakistan?http://tbc-proxy.appspot.com/ I try proxy servers but almost none of them works.
+I'm not familiar with the architecture behind Pakistan's firewall, but you should try https://www.torproject.org/projects/torbrowser.html.en. It should also be faster than proxies.    Embed Quote

@@ -1,0 +1,2 @@
+Which is faster: implement Depth First Search using recursive function calls or using a stack?
+Using Recursion because a processor has inbuilt stack for function calls and their are efficient machine instructions for handling it. If you use an external stack it will cause unnecessary overhead and will be slow. 2k Views · 1 Upvote

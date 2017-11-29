@@ -1,0 +1,2 @@
+Why can't I connect to my local SQL Server database instance?
+There is a windows service that needs to be run to keep your database engine you are trying to connect running.The name os that service diffres based on your sql server instance name(If your installation is a default instance,it is MSSQL).Try manually re starting that service and reconnect 

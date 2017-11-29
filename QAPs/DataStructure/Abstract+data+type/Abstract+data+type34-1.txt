@@ -1,0 +1,2 @@
+What is difference between ADT (abstract data type) and interface?
+I think this paragraph from Wikipedia sums up the answer: An ADT consists not only of operations, but also of values of the underlying data and of constraints on the operations. An "interface" typically refers only to the operations, and perhaps some of the constraints on the operations, notably pre-conditions and post-conditions, but not other constraints, such as relations between the operations. Source: Abstract data type 

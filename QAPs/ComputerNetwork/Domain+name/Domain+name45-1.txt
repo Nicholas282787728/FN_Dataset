@@ -1,0 +1,2 @@
+★Is it very important to have the keyword in the domain name?Do you think that it has any SEO impact?
+No I don't believe it is necessary to have keywords as your domain name.  If your content and metatags are written well enough and if you build the websites authority search engines will know what your website is about. But it is important to create well structured urls for internal pages.  For example, an ecommerce site might have a page about Nike men's sportswear so then url might be domainname.com/mens/sportswear/nike - so then important keywords do appear in url.

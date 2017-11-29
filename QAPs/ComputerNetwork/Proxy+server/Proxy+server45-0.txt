@@ -1,0 +1,2 @@
+★While using a proxy server does my DNS server change?
+Your DNS settings remains same, it's that the proxy would use it's own DNS servers settings on their servers to resolve the name and fetch the page, except for domains in exceptions list which are resolved using local settings.    Embed Quote

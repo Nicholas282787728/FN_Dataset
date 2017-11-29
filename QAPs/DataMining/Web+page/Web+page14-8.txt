@@ -1,0 +1,2 @@
+★Why is HTML used in web pages?
+HTML is a markup language that executes at browser and display the webpage.    Embed Quote

@@ -1,0 +1,2 @@
+★How does the Raspberry Pi connect to the Internet without an Ethernet slot?
+Raspberry Pi Model A and Model A+ Yes. These models don't have the ethernet slot. You can use any of the USB Wifi Modules. While most of the USB Wifi modules are supported , please check compatibility at RPi USB Wi-Fi Adapters before buying one. Raspberry Pi Model B , Model B+ , Generation 2 Model B They have ethernet slot. However you can still use USB Wifi Modules mentioned above if you don't want to use ethernet slot.

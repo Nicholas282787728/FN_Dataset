@@ -1,0 +1,1 @@
+How do I find the second largest number in an unsorted array using " FOR " loops in turbo c++? Without using arrays.Int a,b; a =b= Int_min // limits.h For I =0 to size-1 If arr(i ) greater than a b equals a a equals arr(i ) Else If arr(i ) greater than b b equals arr(i) Return b 26 Views

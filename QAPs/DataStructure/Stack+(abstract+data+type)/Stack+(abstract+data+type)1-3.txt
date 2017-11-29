@@ -1,0 +1,2 @@
+Abstract data types are different from data structures. Using a stack ADT as an example, how do abstract data types differ from data structures?
+In Data Structures You Develop the Structures to Store your Data on your own like stack,queue,list etc... In Languages like C++,JAVA the Provide you all this Pre-Constructed using Template Classes. So You Can Focus on actual problem rather than messing up with implementation details. 

@@ -1,0 +1,2 @@
+★What is an intuitive explanation of principal component analysis for the mathematically immature?
+I found the answer here to be equally good to understand PCA intutively Principal Component Analysis 4 Dummies: Eigenvectors, Eigenvalues and Dimension Reduction    Embed Quote

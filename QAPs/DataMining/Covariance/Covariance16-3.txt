@@ -1,0 +1,2 @@
+What is the difference between contravariant and covariant tensors?
+Vectors like are your usual objects with a magnitude and direction--e.g. they're a line of some length pointing somewhere.  1-forms like are functions that map these vectors to the real line--that's literally all they are.  One example of such an object is, as many people point out in other answers, the divergence operation.    Embed Quote 

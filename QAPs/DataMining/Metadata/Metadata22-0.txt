@@ -1,0 +1,2 @@
+★What music metadata API is best for querying genre or tags by album and artist?
+I have used http://the.echonest.com/ and I like it.  It also has joined with Rdio where you can use their API to actually stream 30 second clips for free.    Embed Quote

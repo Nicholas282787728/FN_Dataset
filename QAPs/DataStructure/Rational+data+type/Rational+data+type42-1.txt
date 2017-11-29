@@ -1,0 +1,2 @@
+Can the Langlands Program be described in layman's terms?
+No, it really can't.  You can try to give analogies and whatnot, but you really won't come anywhere close to actually describing the program.  It is even reasonably difficult to describe the program in a way that most practicing mathematicians understand it.  Through devoted study over a couple weeks a practicing mathematician could probably have an idea of what is involved. 

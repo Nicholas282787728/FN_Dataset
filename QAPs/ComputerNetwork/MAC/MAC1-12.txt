@@ -1,0 +1,9 @@
+When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?Note that MAC addresses are not globally routable as there is no mapping from Domain Name to Mac address. Instead networks use domain name to IP address mapping to identify a destination computer.
+
+Moreover, even if someone plans to do such a hectic task of creating such a mapping, it wouldn¡¯t be helpful. IP addressing is very very important because of the hierarchy IP addresses provide within an organization to create a network of networks. IP and subnet mask provide a perfect way to classify groups of IP addresses which is not possible with MAC.
+
+Third reason, we still need a separate identifier to do hop-hop routing.
+
+I have addressed this question in my blog which I wrote to answer some profound questions. Feel free to read.
+
+IP Address and its Significance

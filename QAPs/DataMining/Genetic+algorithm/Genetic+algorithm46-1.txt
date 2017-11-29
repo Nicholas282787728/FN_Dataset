@@ -1,0 +1,2 @@
+★What is the relationship between neural networks and genetic algorithms?
+I suppose here you are talking about the Artificial Neural Networks... An ANN is actually a combination of or a super set of family of multiple learning algorithms of which Genetic Algorithm is a part. You see, Multiple Genetic algorithms may result into one Neural network which imitates the biological neural network to solve mathematical models. This is just a superficial introduction... if you want more info, try google... :)    Embed Quote

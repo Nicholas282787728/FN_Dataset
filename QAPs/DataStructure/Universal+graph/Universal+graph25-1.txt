@@ -1,0 +1,2 @@
+I would like to implement Extended Kalman Filters for flight path predictions and create some graphs (obviously) to analyze the results. What would be a good choice to implement Extended Kalman filters: Matlab or R ? Note: I have the university license for Matlab, so cost is not an issue.
+MATLAB. You can write it yourself, or use toolbox. Learning the Kalman Filter - File Exchange - MATLAB Central It is for beginners to Kalman filtering. 

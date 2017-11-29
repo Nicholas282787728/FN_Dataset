@@ -1,0 +1,2 @@
+★Why does the light's wavelength change, and not frequency, during refraction?
+The frequency or color of light is set by the energy of the photons. The wavelength is set by the velocity of the photons through the media divided by the frequency. Media with more electrons tend to absorb and re emit photons thus slowing the speed of light in denser media.    Embed Quote

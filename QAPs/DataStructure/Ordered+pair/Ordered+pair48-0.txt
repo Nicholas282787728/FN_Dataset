@@ -1,0 +1,2 @@
+How do you prove rigorously that [math](a,b)=(c,d)[/math] if and only if [math]a=c[/math] and [math]b=d[/math]?
+You don't.  This is a definition, not a theorem. 

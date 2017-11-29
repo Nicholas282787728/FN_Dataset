@@ -1,0 +1,2 @@
+★Who are the broadband (Cable, DSL, etc.) providers in the Bay Area?
+From some recent research I did, some options are: AT&T (U-Verse DSL, regular DSL, T1s), SpeakEasy (ADSL), Comcast (Cable), WebPass (10 Mb wireless), FastMetrics (DSL, T1, Fiber), Earthlink (DSL, T1),  DSL Extreme (ADSL2+), Telepacific (T1, EoC), MonkeyBrain (wireless), XO Communications (EoC), Astound What you can use will really vary by your location.  In most of SF, Comcast is the best value.  In downtown SF, AT&T U-Verse is most affordable.  In South SF, Astound is pretty pervasive.. etc.

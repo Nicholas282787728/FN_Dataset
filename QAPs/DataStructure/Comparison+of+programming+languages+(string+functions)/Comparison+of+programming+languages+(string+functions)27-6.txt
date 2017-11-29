@@ -1,0 +1,2 @@
+Why can't binary be reversed to source code exactly as it was before compilation?
+One reason is that the same binary could be compiled from different program sources. There's another excellent explanation by Rolf Rolles at: Why are machine code decompilers less capable than for example those for the CLR and JVM? 

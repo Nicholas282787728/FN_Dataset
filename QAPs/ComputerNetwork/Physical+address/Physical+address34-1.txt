@@ -1,0 +1,2 @@
+★Are there any services available to verify physical addresses by sending out postcards with PIN numbers?Ideally something scalable that will automatically send postcards.
+Yes, Check out http://lob.com. We have an API that lets you send postcards programatically. Lots of companies use our API to send out verification cards that have a code on it. disclaimer - I work at Lob    Embed Quote

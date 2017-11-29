@@ -1,0 +1,2 @@
+Discrete Mathematics: What are trees?
+Simplest definition: acyclic, connected graph. For further reading: Tree (graph theory) 

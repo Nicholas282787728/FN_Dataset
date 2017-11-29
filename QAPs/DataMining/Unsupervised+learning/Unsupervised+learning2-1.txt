@@ -1,0 +1,2 @@
+★Unsupervised Learning: What are some good resources about unsupervised learning in an online context?I'm particularly interested in specific research papers, people in the field of online machine learning to pay attention to, and books to read.
+I remember there is a survey about online clustering. You could search and refer to it.    Embed Quote

@@ -1,0 +1,2 @@
+★What are some fast gradient descent algorithms?Follow-up on: http://hunch.net/?p=119
+I personally like the batch resilient back-propagation algorithm (http://en.wikipedia.org/wiki/Rprop). It's easy to implement, easy to debug and scales very well since the only extra thing it keeps around is a copy of the previous gradient. It dynamically increases the step size away from the minimum and starts decreasing it near the minimum. John Duchi et al have a few others that are nice e.g. FOBOS http://www.cs.berkeley.edu/~jduchi/    Embed Quote

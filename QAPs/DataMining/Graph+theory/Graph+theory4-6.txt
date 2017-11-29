@@ -1,0 +1,2 @@
+★What are the most ingenious theorems/deductions in graph theory?
+Although still a conjecture. it appears fairly simple to understand and intuitively correct. Called the Ulams Conjecture.  Let graph have  points  and graph  hjave  points  , where  . Then if for each  , the subgraphs and are isomorphic, then the graphs and are isomorphic. From - http://mathworld.wolfram.com/Ula...    Embed Quote

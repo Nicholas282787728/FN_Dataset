@@ -1,0 +1,2 @@
+How are abstract data types implemented in Java?
+You declare some methods without method-bodies. Just the signatures, like you do in an Interface. Or maybe I'm misunderstanding the question. 

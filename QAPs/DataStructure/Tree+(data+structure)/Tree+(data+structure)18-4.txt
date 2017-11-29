@@ -1,0 +1,2 @@
+How do tries differ from binary search trees?
+Data structures - TRIE Trie vs BST vs HashTable Hope they help. 

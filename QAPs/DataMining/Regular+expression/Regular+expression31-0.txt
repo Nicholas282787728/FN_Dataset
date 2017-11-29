@@ -1,0 +1,2 @@
+★What's the regular expression to match a string of exactly six numbers?Exactly six numbers, anything from 0-9, any combination.
+Another interpretation of the question not covered here: match any string which contains a sequence of exactly 6 but no more, i.e. not preceded or succeeded by a digit.  You could write this as /(^|\D)\d{6}($|\D)/, though more elegant solutions exist in Perl (and compatible systems) with zero-width negative assertions, e.g. /(?<!\d)\d{6}(?!\d)/.    Embed Quote

@@ -1,0 +1,1 @@
+What is the reason why NSSet is faster than NSArray?NSSet is an unordered collection unique set of object while NSArray is a ordered set of collection which may have duplicate object. 8 Views

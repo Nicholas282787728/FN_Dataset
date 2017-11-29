@@ -1,0 +1,2 @@
+What is the performance reason why I should not have hundreds of thousands of small files in a single directory on an ext2/ext3 file system, if any?
+Yes. Lookups are O(n) in ext3, if I recall correctly, and there is also a limit of 31998 dirents in a directory, after which further creations will fail. Most systems get around this by making directory trees with arbitrary middle levels - eg take a hash of the filename, then split the path into /dir/<first 12 chars of hash>/<second 12 chars of hash>/<filename> 

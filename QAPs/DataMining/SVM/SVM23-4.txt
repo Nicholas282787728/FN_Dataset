@@ -1,0 +1,2 @@
+★Is it worth trying PCA on your data before feeding to SVM?
+Usage of simple normalization techniques such as feature scaling and mean normalization can often result in good accuracy rather than using PCA with SVM. Eventhough PCA can help improve the discriminative power of classifiers, I think this doesn't go well with SVMs since their kernel computation is not feature wise. I have worked on couple of SVM experiments, where PCA didn't work well with SVMs. Merely sharing my experiment, but it rather depends on the data    Embed Quote

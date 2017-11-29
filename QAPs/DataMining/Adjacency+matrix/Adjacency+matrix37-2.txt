@@ -1,0 +1,2 @@
+★What kind of problems give an MLE (memory limit exceeded)?I'm wondering because most problems can yield either WA or TLE verdicts, but I have never seen a problem that gives MLE.
+Try using a dynamic tri(Prefix tree) in lightoj.com.    Embed Quote

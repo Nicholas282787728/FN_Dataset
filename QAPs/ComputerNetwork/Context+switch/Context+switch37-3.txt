@@ -1,0 +1,2 @@
+★What does busy waiting mean?
+Wasting CPU cycles while waiting is busy waiting. Eg: Acquire() {         while(get(lock));       } here the loop keeps executing till the get(lock) returns a 0. Cpu does nothing but check lock until it is 0. Instead that part can be put to sleep and when the lock becomes 0, a signal can be sent for it to wake up.

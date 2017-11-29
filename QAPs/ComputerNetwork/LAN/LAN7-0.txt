@@ -1,0 +1,2 @@
+★What's a good LAN video conferencing solution?
+I currently manage essentially a LAN only Video conferencing network with around 90+ endpoints.  All of my current hardware and software is Polycom and we have had excellent results.  You can even do content sharing off of your desktop from PC's on the same LAN using their People + Content software, which is free.  You can also run a similar solution utilizing Cisco (Tandberg) hardware and software or Lifesize....those are the big three from a corporate VTC perspective.    Embed Quote

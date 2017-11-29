@@ -1,0 +1,2 @@
+What is the best open source Business Intelligence software?
+While not a pure play BI product I would add Hadoop to this list for large scale data warehousing.    Embed Quote 

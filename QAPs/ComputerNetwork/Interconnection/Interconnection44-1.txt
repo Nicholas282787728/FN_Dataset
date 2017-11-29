@@ -1,0 +1,2 @@
+★Why aren't the networks comprising the internet interconnected through bridges at the data link layer, instead of being  interconnected at the network layer through routers?
+It is helpful to think about layer 2 as flat, and layer 3 as hierarchical. Here is an analogy: If you are in a 10 person company and you want to talk to the president you just walk into his/her office. If you are in a 100,000 person company you might not even know who the president is. You could ask your boss, who might know, but they also might ask their boss and get back to you.    Embed Quote

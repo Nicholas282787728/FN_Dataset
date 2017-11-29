@@ -1,0 +1,2 @@
+★Support Vector Machines: What is the best way to implement an SVM using Hadoop?
+You can train your classifiers and compile the binaries, then apply the trained classifiers to each image via a hadoop streaming mapper - sending the trained model as side data via the distributed cache.    Embed Quote

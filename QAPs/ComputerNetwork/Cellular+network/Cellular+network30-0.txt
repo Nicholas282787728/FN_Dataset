@@ -1,0 +1,2 @@
+★How can one explain mobile Cellular network's honeycomb pattern to a layperson?Also, Explain network coverage on boundaries of cells
+You want to cover the whole country with cells: no gaps and no overlaps and all cells the same. Honeycombs are a good way to do that. Better than squares cos they are more circular and you like things to be the same size (it is a lot further to the corner of a square). In real life cells are not actually very honeycomb like.

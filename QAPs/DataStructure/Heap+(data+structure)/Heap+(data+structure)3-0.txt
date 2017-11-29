@@ -1,0 +1,2 @@
+Why is a heap data structure used to implement dynamic memory management?
+In fact, is not used for implement dynamic memory management. Both things are not related at all except by the name. Dynamic Memory management is implemented by other techniques, some of them are very simple (bit arrays and linked lists) and others could be a little more complicated (Trees, Hashes, Buddy System, etc) 1.9k Views · 18 Upvotes

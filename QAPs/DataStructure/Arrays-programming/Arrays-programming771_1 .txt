@@ -1,0 +1,1 @@
+How do I partition the array as given below?mylist = [3,20,5,1,8,7] filter(lambda x: x< 5, mylist) + [5] + filter(lambda x: x>5, mylist) In Java: int[] myarray = {3,20,5,1,8,7}; ArrayList mylist = new ArrayList();  foreach( i in myarray) { if(i < 5) mylist.add(i); }  mylist.add(5);  foreach(i in myarray) { if(i > 5) mylist.add(i) }  return(mylist) 214 Views

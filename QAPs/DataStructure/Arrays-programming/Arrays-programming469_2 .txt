@@ -1,0 +1,1 @@
+Why is the length of an array always greater than the largest index of the array?Because areay indices are 0 based. So, an array of size N, will have indices 0, 1, 2, .. N -1 for a total of N indices. That's pretty much it. 24 Views  Answer requested by Jessica Kambara

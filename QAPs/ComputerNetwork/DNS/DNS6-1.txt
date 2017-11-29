@@ -1,0 +1,2 @@
+★What is the best dynamic DNS service provider?I've used dyndns.com and no-ip.org in the past, but I'm curious if there's anything better.
+https://www.duiadns.net has an unique IPv6 for LAN devices feature.

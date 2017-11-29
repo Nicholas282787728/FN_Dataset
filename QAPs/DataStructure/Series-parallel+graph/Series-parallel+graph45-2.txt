@@ -1,0 +1,2 @@
+Does studying electric engineering require a lot of math?
+Some areas like control systems and power systems are quite math intensive and require an excellent understanding of complex numbers. Power requires you to understand quite a bit of classical electromagnetic theory. My knowledge of electronics is limited but from what I know, it is not that intensive in math. Analog electronics, however has some amount of math owing to network analysis of transistor equivalent circuits. 

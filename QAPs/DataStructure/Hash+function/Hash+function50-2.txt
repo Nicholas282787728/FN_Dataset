@@ -1,0 +1,1 @@
+What is a good hash function for a pair of integers?E.g. in C++ how should one hash std:pair<int, int>?

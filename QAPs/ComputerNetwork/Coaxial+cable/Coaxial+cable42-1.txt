@@ -1,0 +1,2 @@
+★What is the technology behind antennas which can support multiple frequencies at the same time?What are the problems encountered?
+A fractal antenna is capable of operating with good-to-excellent performance at many different frequencies simultaneously. See: Fractal antenna

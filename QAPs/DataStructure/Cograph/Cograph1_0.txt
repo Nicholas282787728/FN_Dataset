@@ -1,0 +1,1 @@
+What are the types of cograph? Special cases of the cographs include the complete graphs, complete bipartite graphs, cluster graphs, and threshold graphs. The cographs are, in turn, special cases of the distance-hereditary graphs, comparability graphs, and perfect graphs.

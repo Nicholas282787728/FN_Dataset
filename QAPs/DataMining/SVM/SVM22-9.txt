@@ -1,0 +1,2 @@
+★What does support vector machine (SVM) mean in layman's terms?How to calculate the SVM taining accuracy using ROC area
+Ok. Here we should avoid possible duplication. There is already answer for this in quora. I don't think, there is something else which explains SVM in an interesting fashion. Here you go.. Why does SVM work well in practice, even if the reproduced space is very high dimensional?    Embed Quote

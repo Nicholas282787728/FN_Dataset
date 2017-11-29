@@ -1,0 +1,2 @@
+★What are currently the hot topics in Machine Learning research and in real applications?Currently, there are many topics in ML research which are/can be used widely in real applications. I wonder what are key topics which we should focus doing research and studying.
+I've built this list with exactly that in mind: Machine Learning Surveys You can get a quick overview of several Machine Learning topics and see what kind of interesting problems they are facing nowadays.    Embed Quote

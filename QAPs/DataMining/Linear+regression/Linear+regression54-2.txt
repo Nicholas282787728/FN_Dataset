@@ -1,0 +1,2 @@
+★What is a good method to run linear regression with the constraint that all coefficients are non-negative?That is, such that for all .  Also, how does the method change if we need to enforce ?
+Look at Non-negative least squares and this Page on usyd.edu.au In general, look at Quadratic programming. This page has a good list of packages / libraries you could use to actually implement a solution.    Embed Quote

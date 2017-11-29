@@ -1,0 +1,2 @@
+★How can pattern recognition be used in medical imaging?
+Most people are near enough to biological average that certain types of irregularities --e.g. likely breaks, tears, unusual growths, foreign objects and more -- could easily be found with pattern recognition and then human review, and i'm pretty certain some degree of that is already integrated into certain medical device systems.  Of course, i am not a medical professional, but extrapolating based on my knowledge of imaging and computer systems.    Embed Quote

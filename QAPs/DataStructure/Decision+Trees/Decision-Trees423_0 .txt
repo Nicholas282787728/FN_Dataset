@@ -1,0 +1,1 @@
+How would you draw a decision tree if you have a set of rules like the following?Just translate the rules into a tree (binary, in this case) and you will get this 112 Views  View Upvotes  Answer requested by 1 person

@@ -1,0 +1,2 @@
+Why is Java not considered a pure object-oriented programming language?
+Java is not a pure OOP language due to two reasons- The primitive data types. These include int,char,etc. These can be used without the use of any object. (Eg. int a=5; System.out.print(a);) The static keyword.When we declare a class as 'static' then it can be referenced without the use of an object. 

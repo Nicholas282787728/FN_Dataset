@@ -1,0 +1,2 @@
+★What is the formal name of the method used in semi-supervised learning?
+It is Actually Label Spreading ((by Zhou 2004) . In it's iterative solution , alpha controls how much importance we should give to intial labels throught all the iterations. You can find this algorthims LP 3 in Label Propagation and Quadratic Criterion for full details.    Embed Quote

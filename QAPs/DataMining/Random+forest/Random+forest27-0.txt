@@ -1,0 +1,2 @@
+★What are some interesting research papers on random forest parallelization?
+A CUDA based implementation of random forest is a good place to start. http://www.ide.bth.se/~hgr/Paper... Although you could yourself create a parallel random forest , since inherently the individual decision trees are constructed independently, hence using parallel features of programming languages( OpenMP for C/C++ , parfor for MATLAB and so on ) , you could implement a parallel random forest.    Embed Quote

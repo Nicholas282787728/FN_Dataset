@@ -1,0 +1,2 @@
+How do you load data into a Hadoop cluster?
+There are several options available for loading data in to Hadoop, depending on the storage type you are using. For example: HDFS: After you start the Hadoop cluster you can use the Hadoop command line, $ bin/hadoop dfs -copyFromLocal /path/to/file/on/filesystem /path/to/input/on/hdfs If you can provide what storage are you using, I can edit my answer accordingly. Quora User mentions one way to load Streaming Data. called Flume and you can also try Apache sqoop.    Embed Quote 

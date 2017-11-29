@@ -1,0 +1,2 @@
+★What data structures are used in computer networking?Let's someone want to develop a protocol for networking then he/she might be using tree/graph . Similar to this what data structures are used in networking to get work done .
+Computer networking comprises of so many components. What exactly you mean to ask here?

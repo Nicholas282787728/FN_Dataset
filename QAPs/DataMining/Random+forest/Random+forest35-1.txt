@@ -1,0 +1,2 @@
+★Which programming languages have Random Forest implementations suitable for high-volume transaction processing?
+Would you please clarify your question? A high volume txn processing system is writing data. RF Model usually answers a question. Before even you think about languages, what business implication are you solving for?    Embed Quote

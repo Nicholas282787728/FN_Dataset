@@ -1,0 +1,2 @@
+Is 'void' a data type?
+The void type specifies that no value is available.  It is used in three kinds of situations: 1.Function returns as void There are various functions in C which do not return value  or you  can say they return void. A function with no return value has the return  type as void. For example void exit (int status); 2. Function arguments as void There are various functions in C which do not accept any parameter. A  function with no parameter can accept as a void. ... (more)

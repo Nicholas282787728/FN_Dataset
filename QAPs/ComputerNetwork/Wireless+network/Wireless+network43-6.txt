@@ -1,0 +1,2 @@
+★Is it possible to make a private wireless network that has its own "internet"?A small scale internet service that I can send and receive data with to hardware devices I set up in my home without being connected to the actual internet.
+It is. If you have LAN connection to access internet on your laptop, you can share it over Wi-Fi with multiple users. Now, how to do it depends on which OS you are using. I would recommend google "LAN to Wi-Fi" specifying your particular OS.    Embed Quote

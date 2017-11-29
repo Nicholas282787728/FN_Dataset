@@ -1,0 +1,2 @@
+★What is the advantage of DSL in JavaScript?Less docs? Easier comprehension?
+Nicer code, which leads to more efficient maintenance. Remember that code is read way more often than written. Also, the number of bugs in any piece of code is proportional to its size, not the number of expressed ideas. As such, if a DSL allows you to write something more tersely, code quality will be higher.

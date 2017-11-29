@@ -1,0 +1,2 @@
+On Linux, how is size of the heap allocated for a program determined?
+The heap usually is as large as the addressable virtual memory on your architecture. Say you're dealing with a java process, then you usually have to specify a heap size if you need a large amount of data on heap, but this has to do with JVM and not your OS. Heap isn't typically limited, hence part of the reason why it is used. Your stack is allocated by your OS, however heap typically is not and can expand to use the entirety of your systems memory unless otherwise specified(see ulimit). 

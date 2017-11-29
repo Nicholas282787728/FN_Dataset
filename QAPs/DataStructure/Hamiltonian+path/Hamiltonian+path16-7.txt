@@ -1,0 +1,1 @@
+What are some examples of problems which are: (1) NP but not NP-Complete; (2) NP-Complete; (3) NP-Hard but not NP-Complete?

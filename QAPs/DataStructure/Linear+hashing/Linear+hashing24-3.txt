@@ -1,0 +1,2 @@
+What are common uses of Python decorators?
+Two that come to mind immediately: Timing a function. The decorator can start a timer, run the decorated function, then log the elapsed time at the end. Access control. In Django, for example, django.contrib.auth.decorators contain decorators for view functions that check permissions before running said view code. Updated 315w ago • View Upvotes

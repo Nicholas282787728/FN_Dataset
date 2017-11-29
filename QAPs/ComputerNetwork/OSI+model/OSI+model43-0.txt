@@ -1,0 +1,2 @@
+★Why is  the OSI protocol  the most studied and most  accepted network structure and yet it is rarely really implemented and used?OSI protocols
+The OSI model is widely studied, simply because academics find it interesting and there's not much else there that's widely disseminated.  As a protocol, it failed long ago.    Embed Quote

@@ -1,0 +1,2 @@
+★How are IP addresses mapped to location?http://whatismyipaddress.com/ tells me I am in Stanford, CA.  How does it know this, based on IP address?
+as mentioned mainly from registry data, although there are more sophisticated methods.  Companies like Maxmind will let you download a free IP geolocation database you can use yourself if you need. If you need to bypass these geolocation lookups, you can use VPNs and proxies although it's worth watching this video about the different types as not all will shield you true IP address.

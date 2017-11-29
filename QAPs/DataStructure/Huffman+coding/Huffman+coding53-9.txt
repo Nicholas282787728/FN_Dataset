@@ -1,0 +1,2 @@
+What are the greedy algorithms every programmer should know?
+Activity Selection problem. Resembles fairly with real life as well. 684 Views · 1 Upvote · Answer requested by Abhinav Prince

@@ -1,0 +1,2 @@
+★Information Theory: Is there a theoretical limit to data transfer rates?
+Yes, the channel capacity.  The maximum rate depends on the noise of the channel and the probability of error that you're willing to accept.

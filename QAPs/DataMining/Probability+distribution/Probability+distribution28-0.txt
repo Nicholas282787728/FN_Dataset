@@ -1,0 +1,2 @@
+★How do I test my probability distribution generating algorithms?
+Student's t might be worth investigating the accuracy of the predictions But also for each predictor , produce a scatter plot of predicted vs actual values in the training set with sufficient data you should be able to see systematic rather than random error which will guide you how to modify and improve you predictor do this ONLY  with the training set Then test your improved predictor on the test set    Embed Quote

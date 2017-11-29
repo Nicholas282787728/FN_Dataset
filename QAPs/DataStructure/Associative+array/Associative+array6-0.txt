@@ -1,0 +1,2 @@
+What's the equivalent of Perl "associative array" in JavaScript?
+"Object" Yes, the name sounds generic, which is confusing. How about "things in curly brackets" 

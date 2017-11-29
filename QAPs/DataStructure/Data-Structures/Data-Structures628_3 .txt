@@ -1,0 +1,1 @@
+How could I get dictionary values from list of lists (any language) ?Python : def get_dict : init_li1 = [[234,45,1,86,2,0],[324,6,1],[123,1111,3]] init_li2 = ["Alpha", "Beta", "Gamma"]  res = {}  for item1, item2 in zip(init_li1, init_li2): res[item2] = item1  return res or, a one liner would be : return dict(zip(init_li2, init_li1)) 64 Views

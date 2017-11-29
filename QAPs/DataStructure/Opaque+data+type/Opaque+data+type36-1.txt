@@ -1,0 +1,2 @@
+What is the difference between forwarding state and flow entries in SDN?
+I believe that Forwarding State is distributed and learned in a distributed control environment ; i.e. the Software Defined Network as end to end Flow Entries are what makes up the rules on an idividual element of said Software Defined Network 

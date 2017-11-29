@@ -1,0 +1,2 @@
+★What is a VPN (virtual private network)?
+Initially dedicated connections were used for interconnection of offices.However that was really expensive . So instead of using dedicated connection ,internet is used but internet is unsecure so VPN is used. It basically encrypts the data . In simple words it is private communication on public infrastructure    Embed Quote

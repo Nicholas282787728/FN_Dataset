@@ -1,0 +1,2 @@
+What is the best way to scrape data from a website?
+I usually use curl or wget.    Embed Quote 

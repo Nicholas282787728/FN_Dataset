@@ -1,0 +1,2 @@
+★What is the relation between high or low frequencies and the sharpness of an image?
+If you take any two sinusoidal (or cosinusoidal) waves at two different frequencies and start both from the same point in time, the higher frequency wave will reach it's peak faster. If you substitute distance for time and imagine you are looking down the edge of the image, you can see that the higher frequency wave makes a sharper transition from no signal level to maximum signal level.    Embed Quote

@@ -1,0 +1,2 @@
+★What are some interesting examples of time series analysis on data which are not time series?That is, data sets where common time-series analysis methods produce good results because the data or the problem formulation has some commonality with time series analysis.
+Both time series and spatial data are a subset of stochastic processes where observations share some kind of dependence. You'll definitely find overlap between methods in both time series, spatio-temporal and spatially-varying data.    Embed Quote

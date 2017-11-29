@@ -1,0 +1,2 @@
+Graph theory: how is a tree defined?
+For a simple graph with V vertices, any two of the following statements taken together imply the third: The graph is connected The graph is acyclic The graph has V-1 edgesGenerally 1+2 is taken as the definition of the tree although you could also take 1+3 or 2+3 if you wish. An alternative, equivalent definition is that a tree is a simple graph in which there exists exactly one path between every pair of distinct vertices. 

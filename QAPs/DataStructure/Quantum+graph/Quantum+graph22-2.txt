@@ -1,0 +1,2 @@
+Are there any real reasons to be excited about quantum computing?
+Of course there is, and its also the underlying reason why a quantum computer could do all the things you mention: the computer's processing power is orders of magnitude above a standard one. 

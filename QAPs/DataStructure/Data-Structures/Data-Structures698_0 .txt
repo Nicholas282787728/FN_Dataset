@@ -1,0 +1,1 @@
+How should I read CLRS book to prepare for data structures and algorithms for better performance in GATE CSIT 2017?Yes go through it. Just brush up on core algorithmic facts and those space efficiencies. 48 Views

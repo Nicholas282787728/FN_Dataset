@@ -1,0 +1,2 @@
+★What is wire telecommunication?
+It is networking communications where the actual physical layer uses a physical wire. This is generally in the form of a metallic wire (copper usually) or fiber optic cables.  There are many networking technologies from simple household  networks over house hold electrical wiring (Powerline), class room networks (Cat5 UTP 100Mbps Ethernet) to trans-pacific fiber optic cables (DWDM) that uses wires.    Embed Quote

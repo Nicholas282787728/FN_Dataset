@@ -1,0 +1,2 @@
+When will it be as easy to rent a GPU cluster as it currently is to rent a CPU cluster?
+AWS now supports on-demand GPU computing: http://aws.typepad.com/aws/2010/...    Embed Quote 

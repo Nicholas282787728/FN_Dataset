@@ -1,0 +1,2 @@
+★How fast is 4G LTE?
+Chinamobile TD-LTE, test in Hangzhou. Download 52.46Mbps, upload 7.70Mbps.

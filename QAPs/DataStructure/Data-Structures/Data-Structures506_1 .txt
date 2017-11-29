@@ -1,0 +1,1 @@
+What are the minimum number of queues needed to implement a priority queue?You need a heap data structure cause it is the most efficient way to implement priority queue. Read this article. 23 Views

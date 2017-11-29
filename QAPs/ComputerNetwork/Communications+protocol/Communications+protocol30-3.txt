@@ -1,0 +1,2 @@
+★What are the differences between node.js and websockets?When would I use one versus the other? Can I use them together? Compare and contrast with ideal use-cases if possible.
+That is such a nice questions, NodeJS is a lightweight framework for developing Network Application. It is based on JavaScript language. Websocket is a just protocol for bidirectional communication. It is like pie that open for sending and getting data at the same time. Normally, it is used for Realtime Chatting.

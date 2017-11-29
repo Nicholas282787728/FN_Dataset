@@ -1,0 +1,2 @@
+★Why is FTP so slow?
+It can be because every file transfer need authentication. Also Ftp checks for acknowledgement after transfer of each packet .

@@ -1,0 +1,2 @@
+What are the best books on algorithms and data structures?
+Originally Answered: What is the best book for beginners in discrete algorithms?The most standard book is Introduction to Algorithms, by Cormen, Leiserson, Rivest, and Stein. It's used in a lot of college intro algorithms courses. Amazon: http://www.amazon.com/Introducti... Thank you for your feedback! Your response is private. Are you satisfied with this answer? YesNo 241.9k Views · 1,892 Upvotes

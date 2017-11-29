@@ -1,0 +1,2 @@
+What are some good ways to automate data analysis?
+If the data collection is the drudgery part, you can automate this by using web scraping, curl, Imacros, AutoHotKey, and Excel VBA to automate data collection. Some analytic tools will also contain scripting or macro tools to allow you to loop or replicate an analysis by specifying which variables are to change on a periodic basis.    Embed Quote 

@@ -1,0 +1,2 @@
+★Why is TCP/IP often referred to as a 'stack'?How did the word 'stack' go from a 'stack of books' to how it is used in the context of computer science?
+I think it's because the TCP/IP is a complete set/stack of networking protocols. It's not just TCP nor IP, but a whole set of protocols which are stacked one over another. We also refer to it as the TCP/IP Suite.    Embed Quote

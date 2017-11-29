@@ -1,0 +1,2 @@
+★What are the best open source machine learning libraries written in Python?
+sklearn scikit-learn : http://scikit-learn.org It is quite good. Simple and complete cover for the popular ML algorithms. To do machine learning and give some concrete results, we need a complete data processing package suite. Then, three such python package suites worth to mention: PythonXY http://code.google.com/p/pythonxy/ Enthought Enthought Python Distribution Anaconda from Continuum: Python Visualization and Data Exploration

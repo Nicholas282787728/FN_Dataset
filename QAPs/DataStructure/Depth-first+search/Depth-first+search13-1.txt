@@ -1,0 +1,2 @@
+What are the C# simplest examples of implementation of breadth-first search and depth-first search?
+So far these two were the most helpful: Breadth First Search - C# Depth First Search - C# Thank you for your feedback! Your response is private. Is this answer still relevant and up to date? YesNo 8.5k Views · 4 Upvotes

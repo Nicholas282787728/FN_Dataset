@@ -1,0 +1,2 @@
+How have graph processing techniques been applied to games, or how could they be?
+John Carmack famously applied BSP (binary space partition) trees in Quake to solve the hidden surface problem common in computer graphics. Each surface partitioned the world into two halves. The static world database was organised as a tree. Traversing the tree allowed surfaces to be drawn in the correct order so that foreground surfaces obscured background surfaces. Updated 115w ago • View Upvotes

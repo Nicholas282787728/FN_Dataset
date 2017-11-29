@@ -1,0 +1,8 @@
+A Markov chain is a sequence of random variables X1, X2, X3, ... with the Markov property, namely that, given the present state, the future and past states are independent. Formally,
+
+The possible values of Xi form a countable set S called the state space of the chain.
+Markov chains are often described by a directed graph, where the edges are labeled by the probabilities of going from one state to the other states.
+A Markov chain is a sequence of random variables X1, X2, X3, ... with the Markov property, namely that, given the present state, the future and past states are independent. Formally,
+
+The possible values of Xi form a countable set S called the state space of the chain.
+Markov chains are often described by a directed graph, where the edges are labeled by the probabilities of going from one state to the other states.

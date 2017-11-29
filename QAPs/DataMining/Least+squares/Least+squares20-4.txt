@@ -1,0 +1,2 @@
+★What is the intuitive meaning of the solution to the problem of finding least-squares linear-regression coefficients?
+Although I very much agree with what has been said so far, here is how I understand it [maybe you will find it obvious]. Assume we have a dataset with points where is the covariate with dimension or predictor and is the response. Then, the conditional expectation in a Linear Regression model is assumed to be a linear combination on the so that The rest is as usual. However, I cannot help finding this quite profound in a sense.    Embed Quote

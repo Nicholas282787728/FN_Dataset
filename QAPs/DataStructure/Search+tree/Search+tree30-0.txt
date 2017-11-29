@@ -1,0 +1,2 @@
+How I can delete node from binary search tree?
+There are 3 different situations that could occur when deleting a node: -If the node has NO children, then you can just remove it. -If the node has ONE child, then delete the node and move it's child up to where the original node was -If the node has TWO children, then you delete the node and move the leftmost descendant of the right child (the next element in the in-order traversal of the tree starting from the deleted node) to where the original node was. Updated 5w ago • View Upvotes

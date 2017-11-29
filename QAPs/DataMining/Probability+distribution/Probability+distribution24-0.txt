@@ -1,0 +1,2 @@
+★Why can all probability distributions be parametrized onto the interval (0, 1)?Response to Raj Bhuptani's answer to Is Latent Dirichlet Allocation a parametic model or nonparametric?
+The set of probability distributions on the real line (and therefore any finite-dimensional Euclidean space) has the same cardinality as the interval .  The proof is given in Le Cam & Yang.    Embed Quote

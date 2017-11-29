@@ -1,0 +1,2 @@
+A binary tree T has 200 leaf nodes. How many nodes in T have exactly 2 children?
+Exactly199 nodes will have two children. In a binary if you add a child to a leaf node. Neither the no of leaf node changes nor the nodes with two children. 

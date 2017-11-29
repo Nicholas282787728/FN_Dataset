@@ -1,0 +1,2 @@
+Which best IDE for c++ for windows code block or visual c++ 2015?
+I have personally used Code blocks. It is very simple and use full for initial stages but for higher level programming you should go for visuals.It has a lot more options and complex functions for graphic programming. 

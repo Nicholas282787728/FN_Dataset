@@ -1,0 +1,2 @@
+Why String is different from all other data types in Java?
+In Java there are primitive data types and class data types. One problem with primitive data types is that they have a fixed data size. Since strings vary in length, many languages that have primitive data types have implemented a string class that can deal with data of any size, since it can allocate as much memory as it needs. So this is why. There are also class versions of the primitive data types in Java, which add methods that can be useful in manipulating the data they hold, e.g. Integer, Double and so on. 

@@ -1,0 +1,2 @@
+★Computer Programming: Do larger screen sizes make programming easier? If so, why?
+Large screens allow you to see more code and project structure inside the IDE. The aspect ratio of the screen matters too. I prefer something squarer so that I can see some lines of code at once. Too bad most new screens are "wide."

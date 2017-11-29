@@ -1,0 +1,2 @@
+The Ljubljana graph was first published in 1993 by Brouwer, Dejter and Thomassen.[4]
+In 1972, Bouwer was already talking of a 112-vertices edge- but not vertex-transitive cubic graph found by R. M. Foster, but unpublished.[5] Conder, Malnič, Marušič, Pisanski and Potočnik rediscovered this 112-vertices graph in 2002 and named it the Ljubljana graph after the capital of Slovenia.[2] They proved that it was the unique 112-vertices edge- but not vertex-transitive cubic graph and therefore that was the graph found by Foster.

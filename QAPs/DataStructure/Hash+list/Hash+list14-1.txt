@@ -1,0 +1,2 @@
+What are the advantages and disadvantages of using MongoDB vs CouchDB vs Cassandra vs Redis?
+This post has one of the best comparisons of these and other data stores: http://kkovacs.eu/cassandra-vs-m... The short answer is that they're all different tools for different purposes, and which one is best relies entirely on your needs. It's a bit like asking the advantages and disadvantages of a table saw vs a jigsaw. They can both saw wood, but they exist to solve different problems. 

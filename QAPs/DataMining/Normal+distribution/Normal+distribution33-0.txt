@@ -1,0 +1,2 @@
+★Can binomial data come from a normal distribution?
+No. Binomial data is counts; normal data is continuous. However, if the number of trials is large and the proportions on the binomial aren't close to 0 (and 1) then the binomial distribution can look like the nomral e.g. the distribution of the expected number of heads in 10 0 tosses looks normal. df <- data.frame(x=1:100,                  prob=dbinom(1:100, 100, prob=0.5)) plot(df$x,df$prob,type = 'l')    Embed Quote

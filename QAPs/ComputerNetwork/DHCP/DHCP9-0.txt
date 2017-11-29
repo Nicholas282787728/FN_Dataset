@@ -1,0 +1,2 @@
+★How can I use DHCP offers from a specific DHCP server in XP, ignoring offers from other DHCP servers?
+You will probably have to do this at the packet level with the Windows Firewall.  However, if you have multiple DHCP servers offering addresses for the same range and not coordinating with each other, you have a bigger problem. You might want to instead deploy switch-level defenses against rogue DHCP servers, like DHCP snooping.

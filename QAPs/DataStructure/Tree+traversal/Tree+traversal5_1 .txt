@@ -1,0 +1,1 @@
+How did preorder, inorder, and postorder binary tree traversals get their names?Why are they called that?Pre-order - each node comes before (pre) the nodes in its two child subtrees. In-order - each node comes in between its subtrees. Post-order - each node comes after (post) the nodes in its subtrees. 

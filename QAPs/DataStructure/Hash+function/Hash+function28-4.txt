@@ -1,0 +1,1 @@
+What is an intuitive explanation of the Davies-Meyer hash function?

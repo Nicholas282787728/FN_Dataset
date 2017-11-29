@@ -1,0 +1,2 @@
+★Google App Engine: Can GAE handle DDOS attack?Anybody done it before or some real world case studies.
+Not exactly what you are looking for, but one of the Udacity's engineers mentioned that they accidentally DDOS'd themselves with a software bug and were able to stay online on GAE: This is from an interview on the web application course that Steve Huffman taught on Udacity.

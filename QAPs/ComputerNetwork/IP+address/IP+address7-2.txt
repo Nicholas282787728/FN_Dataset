@@ -1,0 +1,2 @@
+★How are IP addresses mapped to location?http://whatismyipaddress.com/ tells me I am in Stanford, CA.  How does it know this, based on IP address?
+For many ISPs, their networks are configured such that all users in a certain city/neighborhood will be getting their ip addresses within a set of allocated IP addresses - thus allowing for the correlation between ip address and location. (true for a lot of last-mile ISP's)

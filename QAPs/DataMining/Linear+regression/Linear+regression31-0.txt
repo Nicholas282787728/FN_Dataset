@@ -1,0 +1,2 @@
+★How would you compare ANOVA to linear regression?
+ANOVA is a subset of  linear regression.  Here is ANOVA in matrix form: and regression is exactly the same. But the term ANOVA is used when the independent variables are categorical. This arose because ANOVA and regression were developed independently - and only later did people realize the work was largely duplicated.    Embed Quote

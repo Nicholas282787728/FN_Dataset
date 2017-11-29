@@ -1,0 +1,2 @@
+★ETL Concepts: What are the advantages of using Informatica as an ETL tool over Teradata?As far as I know Teradata is a more expensive solution, as compared to Informatica, but I was wondering about other advantages from an operational standpoint.
+Use Informatica for application data integration, use Teradata for analytic data processing.    Embed Quote

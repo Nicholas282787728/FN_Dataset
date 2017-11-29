@@ -1,0 +1,2 @@
+★What is the detailed difference between FTP and SFTP?
+There are a number of differences.  The following article explains this in detail. Understanding Key Differences Between FTP, FTPS and SFTP

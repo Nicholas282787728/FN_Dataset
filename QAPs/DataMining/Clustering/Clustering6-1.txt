@@ -1,0 +1,2 @@
+When will it be as easy to rent a GPU cluster as it currently is to rent a CPU cluster?
+There is also the http://www.hoopoe-cloud.com/ project, that's where CUDA.NET and OpenCL.NET are made.    Embed Quote 

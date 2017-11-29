@@ -1,0 +1,2 @@
+★What are the best semantic web conferences?
+for research topics it's ISWC [1] and ESWC [2] for business it's SemTech [3] and ESTC [4] WWW [5] has the best workshop on Linked Data there are many other conferences that have Semantic Web related workshops but they are a bit less popular than the above [1] http://iswc2011.semanticweb.org/ [2] http://www.eswc2011.org/ [3] http://semtech2011.semanticweb.com/ [4] http://www.estc2010.com/ [5] http://wwwconference.org/www2011/    Embed Quote

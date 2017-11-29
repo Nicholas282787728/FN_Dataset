@@ -1,0 +1,2 @@
+Is there any other usage of matrices beyond representing linear transformations?
+Matrices are in general used to describe linear transformations- but don't begin to think of that as a small thing! Linear transformations are probably the most important type in mathematics, and there is a strong sense in which it's true that humans are not capable of dealing with nonlinear phenomena- most of mathematics involves taking some thing which is generally "nonlinear" and rephrasing it sufficiently to make it into something that at least looks linear, and thus comprehensible. 

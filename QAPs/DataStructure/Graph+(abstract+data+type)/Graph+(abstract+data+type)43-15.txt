@@ -1,0 +1,2 @@
+Job Interview Questions: Which are the frequently asked interview questions for Java Engineers ?
+There are already a ton of good answers here. See Kris Larson's answer to What are the basic things that a software engineer must know during job interviews? for my take. 

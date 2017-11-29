@@ -1,0 +1,1 @@
+Which algorithm is the most efficient for community detection in Bipartite graphs? Bipartite graph separates vertices into two independent sets that are connected by edges. DFS exploration can separate them easily.

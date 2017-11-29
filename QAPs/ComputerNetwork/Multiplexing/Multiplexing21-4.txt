@@ -1,0 +1,2 @@
+★What are the pros and cons applying time multiplexing on memory chip?Suppose I am using 64K X 8 memory with 8 bit processor and if I apply time multiplexing on its address pins A0-A7 after this,Could I use this memory chip with other processor (like 8086) ?
+pros: less number of address bus, thus you can cram in more circutry cons: add overhead of mux-demux    Embed Quote

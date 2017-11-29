@@ -1,0 +1,2 @@
+★What is the difference on ETL (extract, transform and load) by programming languages and ETL by using tools?
+The ETL tools for Analysts are more widely accepted. Did you check InstantStack? It has a process to automate certain ETL tasks.    Embed Quote

@@ -1,0 +1,2 @@
+★Support Vector Machines: Why does SVM work well in practice, even if the reproduced space is very high dimensional?
+Resultant class separator is sparse.    Embed Quote

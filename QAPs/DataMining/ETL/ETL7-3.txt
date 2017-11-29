@@ -1,0 +1,2 @@
+★What are some best practices when writing ETLs?
+Here is a tech talk by one of the top big data engineers about how he architected big data and large scale ETL:    Embed Quote

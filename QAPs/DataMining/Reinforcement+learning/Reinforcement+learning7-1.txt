@@ -1,0 +1,2 @@
+★Are there any reinforcement learning implementation packages in R?Ideally looking for Q-learning or SARSA methods or something else?
+If there are, they don't show up on RSeek.org or the CRAN Task View: Machine Learning & Statistical Learning.  That makes it seem pretty unlikely that they're out there.  But hey, haven't you always wanted to release a package?    Embed Quote

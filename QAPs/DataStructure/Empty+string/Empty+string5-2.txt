@@ -1,0 +1,2 @@
+If I had foo+"" are there any cases where the empty string is not optimized out?
+That depends on the compiler, but generally there is no reason to keep this. 

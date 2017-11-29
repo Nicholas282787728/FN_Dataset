@@ -1,0 +1,13 @@
+The purpose of using plain text today is primarily independence from programs that require their very own special encoding or formatting or file format. Plain text files can be opened, read, and edited with countless text editors and utilities.
+
+A command-line interface allows people to give commands in plain text and get a response, also in plain text.
+
+Many other computer programs are also capable of processing or creating plain text, such as countless programs in DOS, Windows, classic Mac OS, and Unix and its kin; as well as web browsers (a few browsers such as Lynx and the Line Mode Browser produce only plain text for display) and other e-text readers.
+
+Plain text files are almost universal in programming; a source code file containing instructions in a programming language is almost always a plain text file. Plain text is also commonly used for configuration files, which are read for saved settings at the startup of a program.
+
+Plain text is used for much e-mail.
+
+A comment, a ".txt" file, or a TXT Record generally contains only plain text (without formatting) intended for humans to read.
+
+The best format for storing knowledge persistently is plain text, rather than some binary format.[4]

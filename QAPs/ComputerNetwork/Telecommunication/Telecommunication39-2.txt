@@ -1,0 +1,2 @@
+★What are the good books for understanding telecommunication technologies as a beginner?Actually i'm a beginner in this field although i've got some basic knowledge in packet switch networking as i've read some basic networking books like Computer Networking  A top down approach- Ross, Kurose :)
+Wireless Internet and Mobile Computing: Interoperability and Performance   by K.N. Lau It is quite easy to be understood.    Embed Quote

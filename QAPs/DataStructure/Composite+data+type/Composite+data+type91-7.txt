@@ -1,0 +1,2 @@
+What are the frequently asked basic and complex queries ( SQL) during a tech interview?
+SQL questions don't seem to be popularly asked, but I can point to this list for suggestions on what to get familiar with. Toby Thain's answer to Which SQL interview questions effectively test depth of experience and knowledge? 

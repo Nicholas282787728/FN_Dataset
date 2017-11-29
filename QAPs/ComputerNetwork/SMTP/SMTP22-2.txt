@@ -1,0 +1,2 @@
+★SMTP Error: Could not authenticate....What does it means?
+The SMTP server you are sending your outbound mail through requires SMTP authentication. You will need a username and password (usually associated with your email account with your ISP) to pass in when attempting to send email through that server.  Hope that helps!    Embed Quote

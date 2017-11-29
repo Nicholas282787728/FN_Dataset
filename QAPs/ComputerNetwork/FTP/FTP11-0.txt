@@ -1,0 +1,2 @@
+★Why is FTP so slow?
+It's probably your internet connection that is slow. With a question lacking details, similar is my answer.

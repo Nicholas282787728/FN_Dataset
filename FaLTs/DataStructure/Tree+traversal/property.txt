@@ -1,0 +1,12 @@
+A binary tree is threaded by making every left child pointer (that would otherwise be null) point to the in-order predecessor of the node (if it exists) and every right child pointer (that would otherwise be null) point to the in-order successor of the node (if it exists).
+
+Advantages:
+
+    Avoids recursion, which uses a call stack and consumes memory and time.
+    The node keeps a record of its parent.
+
+Disadvantages:
+
+    The tree is more complex.
+    We can make only one traversal at a time.
+    It is more prone to errors when both the children are not present and both values of nodes point to their ancestors.

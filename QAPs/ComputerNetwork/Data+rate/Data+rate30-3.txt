@@ -1,0 +1,2 @@
+★Why are data transfer rates not uniform?When I transfer files (for example, pictures) from one folder to an other folder on hard drive of my laptop, the transfer rate varies between 1MB/sec to 15 MB/sec. Why does this variation exist?
+To add to all good answer here, Remember that network speed / bandwidth roughly equal to the smallest bandwidth along data path, including congestion / "bottle neck". :)

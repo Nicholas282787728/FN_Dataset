@@ -1,0 +1,2 @@
+★Assume a noise spike lasts for 1us and causes errors during the spike. For a data rate of 1Mbps, how many bits can be in error?A. 100 B. 10 C. 1 D. None of the above
+D. none of the above. The noise burst is probably not synchronized, so it may affect a maximum of two adjacent bits.

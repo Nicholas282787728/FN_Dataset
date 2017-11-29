@@ -1,0 +1,2 @@
+★What is the best machine learning algorithm?
+Most of the machine learning algorithms are heavily influenced by data quality, number of features, weight of features and the amount of pre-processing involved. It's always a situation based problem and your program's ability to intuitively select the one that best optimizes the solution. Plus, there also the question of Supervised,Unsupervised and Reinforcement learning algorithms. The question you need to ask is which is the best algorithm among each of these different subset area.    Embed Quote

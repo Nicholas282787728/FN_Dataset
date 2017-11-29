@@ -1,0 +1,3 @@
+In telecommunications and computing, bit rate (sometimes written bitrate or as a variable R[1]) is the number of bits that are conveyed or processed per unit of time.
+
+The bit rate is quantified using the bits per second unit (symbol: "bit/s"), often in conjunction with an SI prefix such as "kilo" (1 kbit/s = 1000 bit/s), "mega" (1 Mbit/s = 1000 kbit/s), "giga" (1 Gbit/s = 1000 Mbit/s) or "tera" (1 Tbit/s = 1000 Gbit/s).[2] The non-standard abbreviation "bps" is often used to replace the standard symbol "bit/s", so that, for example, "1 Mbps" is used to mean one million bits per second.

@@ -1,0 +1,2 @@
+★Is it possible to share files between Windows host OS (Windows 8.1) and Linux guest OS (RHEL6.5) without VMware workstation?I have VMware player but not workstation.
+I'm not sure how you would have a guest OS without a VMWARE machine of some sort.  If you aren't using VMware, then you are using some other virtual machine host, like virtual box.  That software will likely have disk sharing extentions.  Of course the most obvious answer is to use an IP-based file sharing environment like nfs, of simple file transfer with ftp.

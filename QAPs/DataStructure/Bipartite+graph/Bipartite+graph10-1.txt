@@ -1,0 +1,5 @@
+Which algorithm is the most efficient for community detection in Bipartite graphs?There are several now. Probably none of them can be applied to large graphs (n > 15K). Not sure about it though. Feel free to try the codes out.
+
+biSBM (Larremore et. al.) - Uses a degree-corrected stochastic block model framework to detect community structure. (biSBM)
+LPAwbPLUS (Beckett) - sjbeckett/weighted-modularity-LPAwbPLUS
+LPAb+ (Liu, Morata) - cesar7f/BiMat

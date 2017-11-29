@@ -1,0 +1,2 @@
+What is the difference between business intelligence and business analytics?
+BA uses R, NumPy, Pandas etc... BI still thinks SSRS is hot.    Embed Quote 

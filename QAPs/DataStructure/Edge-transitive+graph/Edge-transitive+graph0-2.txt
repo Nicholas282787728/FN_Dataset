@@ -1,0 +1,1 @@
+How can I formulate an optimization problem that can learn the weight or transition probabilities over the edges of a graph given that we have to minimize some cost function?

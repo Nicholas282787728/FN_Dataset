@@ -1,0 +1,13 @@
+★What is the difference between '>' and '#'? Is the command line interfaced in Linux?
+So long as you haven't changed the PS1/PS2/PS3 variables in bash (and assuming you're using bash, as it is the most common default), then # is the start of a command line, while > is for the continuation (typically because you have an open string or nested control structure). For example:  1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+ jonathan ~ # LIST="1. something" jonathan ~ # echo ${LIST} 1. something jonathan ~ # LIST="1. something > 2. another thing" jonathan ~ # echo ${LIST} 1. something 2. another thing jonathan ~ # The second example shows that I've opened a string and then started a new line; the command isn't complete so you'll see a > to continue the command. Once I close the string and press enter, the command is complete, run (note that the new-line is included in the output as it's part of the string, but not the > and the following single space, as that's part of the output of the interface), and then returns to a new command prompt.

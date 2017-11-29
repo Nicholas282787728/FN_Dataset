@@ -1,0 +1,2 @@
+Do engineers need to know Fourier analysis?
+EVERYONE needs to know Fourier analysis. It's not a hard thing to learn, it only requires elementary calculus as a prerequisite, and it's as fundamental to higher mathematics and physics as multiplication. 

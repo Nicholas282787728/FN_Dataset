@@ -1,0 +1,2 @@
+★Security: Is there a way to trigger infrared sensors from a distance?
+At the BBC we use infrared remotes to turn them on and off in the mornings. You should be able to buy an infrared 'clicker' from an electronics shop or use a one for all remote tuned to the right frequency. I hope this helps.    Embed Quote

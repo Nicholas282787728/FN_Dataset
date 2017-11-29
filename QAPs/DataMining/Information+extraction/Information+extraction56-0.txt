@@ -1,0 +1,2 @@
+★What relevant information can be extracted from mobile phone picture metadata?
+Location where the photo was taken and time taken are about the only EXIF data that are unique to an photo for any given model. The model of the mobile phone is also listed. I don't see that as being hugely relevant to an advertiser, especially if the users location is already known, which is usually the case on Facebook.    Embed Quote

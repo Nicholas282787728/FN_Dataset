@@ -1,0 +1,1 @@
+How should I choose variables using decision tree?Suppose I have implemented a decision tree algorithm and I want to choose important variables from the result of decision tree. Let say I use ID 3 algorithm for my decision tree.Inspect the tree's nodes and for each, find out the variable and the value it split on. 183 Views

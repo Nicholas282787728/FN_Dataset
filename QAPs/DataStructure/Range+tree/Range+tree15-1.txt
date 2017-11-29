@@ -1,0 +1,2 @@
+Is it worthwhile to finish every problem available in the USACO training pages?
+Yes, it is worth, at least for fun :) I am having fun solving algorithmic problems at my level, and willing to extend it to a higher level :) hope so, but it is hard and a long road. 

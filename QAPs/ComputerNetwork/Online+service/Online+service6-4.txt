@@ -1,0 +1,2 @@
+★What is the best online service for creating charts & graphs?
+There are a number of web based services. If you want to do a lot of the coding yourself, then check out Google Charts or Highcharts. Otherwise, it really depends on the data source you're using to create these visualizations. For getting started super quickly, I'd say try either gooddata or my company, http://chart.io. Are you looking to visualize Excel data? Let me know a bit more detail and I'll point you to the correct service :)    Embed Quote

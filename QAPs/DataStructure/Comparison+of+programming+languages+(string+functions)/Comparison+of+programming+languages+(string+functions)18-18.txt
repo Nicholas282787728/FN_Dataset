@@ -1,0 +1,2 @@
+As a starting Python programmer I see a lot of praise for the Python language (and so far I can only agree). Isn't there anything bad to say about it? What is a real con?
+Python is a good language. That said, having blocks delimited by indentation is a step backward. It suffers from a 'kitchen sink' mentality common to many languages, which is to say it is a large language. It can be slow. 

@@ -1,0 +1,2 @@
+★What startups are using NFC for applications outside of mobile payments?
+Tapwise (Cloud-Based Tag Management) Sells NFC tags and also has their cloud based tag management system (allows you to change the function of the tag on the fly) that gives analytics about each tag and the interactions it has accumulated.    Embed Quote

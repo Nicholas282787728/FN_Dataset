@@ -1,0 +1,2 @@
+What is the best way to store monetary value in a relational database system like MySQL?
+I would vote for numeric or decimal (both are same in MySQL).  numeric(15,2) 15 is the precision (total length of value including decimal places) 2 is the number of digits after decimal point For details please refer to  11.2.2 Fixed-Point Types (Exact Value) - DECIMAL, NUMERIC Since money needs an exact representation don't use data types that are only approximate like float. Hope this helps -R.J- 

@@ -1,0 +1,2 @@
+★How much faster is 4G relative to 3G?I know that 4G is being claimed by many of the carriers now and it is based on 3G+ ... an upgrade (not 4G)
+Technically 4G is faster than 3G .  LTE(R8/Cat3) can provide 100Mbps downlink speed(when using 20MHz BW), while 3G can only give 21M(HSPA+/cat14) or 42M(DC-HSPA,/R8/cat24) . While there is always a huge gap between theory and reality. Depending on User numbers, Cell config, fading, rejection, signal strength,.etc.

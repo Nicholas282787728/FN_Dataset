@@ -1,0 +1,2 @@
+★What companies are successfully using WordPress for their intranet?WordPress is a powerful, extensible CMS. I'm looking for success stories from companies using WordPress to power their intranet.
+We have approximately 100 clients running intranets using our self-hosted or hosted WordPress solutions.  Clients include videoconferencing, health care, IT, not for profits, banks, charities and more.  You can see some screenshots of some custom intranets here: simpleintranet.org.

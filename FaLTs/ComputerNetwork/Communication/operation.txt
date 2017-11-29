@@ -1,0 +1,9 @@
+The main steps inherent to all communication are:  
+The formation of communicative motivation or reason.
+Message composition (further internal or technical elaboration on what exactly to express).
+Message encoding (for example, into digital data, written text, speech, pictures, gestures and so on).
+Transmission of the encoded message as a sequence of signals using a specific channel or medium.
+Noise sources such as natural forces and in some cases human activity (both intentional and accidental) begin influencing the quality of signals propagating from the sender to one or more receivers.
+Reception of signals and reassembling of the encoded message from a sequence of received signals.
+Decoding of the reassembled encoded message.
+Interpretation and making sense of the presumed original message.

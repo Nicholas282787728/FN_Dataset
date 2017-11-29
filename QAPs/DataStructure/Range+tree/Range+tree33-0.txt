@@ -1,0 +1,2 @@
+What is the difference between segment tree and range minimum query?
+Range Minimum Query is Problem : Given an array of N integers and Q queries of the form [i,j], output min(A[i],A[i+1]...,A[j]) for each such query. @Segment tree is Data Structure : Used to solve such query answering problems. @Range Minimum Query and Lowest Common Ancestor 

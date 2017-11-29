@@ -1,0 +1,2 @@
+What is the best affordable hosted big data analysis service?
+10GB should fit easily within AmazonWeb Services instance for RDS (hosted database) or Red Shift. You first get an account, upload data to S3, import it, write queries.... Google has a big query service you may want to look at. If you're looking for easy button analytics these will not be what you want. However, they will be good for writing your own queries and disposing of the infrastructure after a week.    Embed Quote 

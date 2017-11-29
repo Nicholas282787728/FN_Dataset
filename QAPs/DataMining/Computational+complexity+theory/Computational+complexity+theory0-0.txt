@@ -1,0 +1,2 @@
+What should everyone know about computational complexity theory?
+I would add that the most important goal of computational complexity theory is not to understand the time or space complexity of algorithms but to understand the time or space complexity of problems. This classification effort is what takes complexity theory beyond the highly relevant but nowhere near as challenging world of algorithms and data structures. The single most important concept in computational complexity theory is that of a complexity class.    Embed Quote 

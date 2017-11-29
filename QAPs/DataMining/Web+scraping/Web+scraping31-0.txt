@@ -1,0 +1,2 @@
+★Why are web scraping programs mostly outdated?
+Websites are updated often so if a scraper is not maintained it can quickly become outdated.    Embed Quote

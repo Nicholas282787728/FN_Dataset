@@ -1,0 +1,2 @@
+What approaches should one follow when solving a problem be it a puzzle, riddle, programming or a real life problem?
+I can prove that there is no single algorithm to solve any problem or puzzle. Ever heard of undecidability. There is a theorem which states that there is no turing machine which can decide any language which means there is no correct algorithm for your question because it can't exist mathematically. :) 

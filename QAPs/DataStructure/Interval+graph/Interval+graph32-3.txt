@@ -1,0 +1,2 @@
+What is the most obvious theorem in mathematics?Personally, I feel that Euclid's postulates are pretty obvious.
+Pigeonhole principle If you have more things than you have containers, then at least one container has more than one thing in it. 

@@ -1,0 +1,2 @@
+Algorithms: What is the code for a real time application of a DFS (depth first search) and BFS (breadth first search)?
+It is partly answered here - What are the real world application of Depth first search for graph? 779 Views · Answer requested by Rahul Joshi

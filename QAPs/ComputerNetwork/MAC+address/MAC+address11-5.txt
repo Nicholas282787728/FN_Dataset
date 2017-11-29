@@ -1,0 +1,2 @@
+★Why are MAC addresses unique when they are supposed to be used within a LAN? Are MAC addresses transmitted across the Internet also?
+yes Mac addresses are unique so that in a network of computer they can be identified as particular system.Mac addresses of your computer is not transmitted through internet instead IP addresses is transmitted through the internet.    Embed Quote

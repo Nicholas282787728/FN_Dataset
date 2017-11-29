@@ -1,0 +1,2 @@
+★What is the difference between the Internet and the Web?
+The Internet and the World Wide Web have a whole-to-part relationship The Internet is the large container, and the Web is a part within the container.. Internet : The Internet is a Big Collection of Computers and Cables. WWW :  The Web Is a Big Collection of HTML Pages on the Internet.    Embed Quote

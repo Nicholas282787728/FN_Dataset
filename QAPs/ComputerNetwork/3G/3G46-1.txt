@@ -1,0 +1,2 @@
+★Will LTE handsets require additional 2G/3G chipsets in order to roam on 2G/3G networks?3GPP suggests that LTE should inter-work with GSM and UMTS/HSPA/HSPA+. However, it isn't clear if this support applies to the equipment technology or if LTE chipsets will also inherently support GSM/HSPA.
+As of Dec 2011, yes. There is no multi-mode LTE chipset available. The earliest will be in Q2 2012 when Qualcomm will have an integrated chipset.

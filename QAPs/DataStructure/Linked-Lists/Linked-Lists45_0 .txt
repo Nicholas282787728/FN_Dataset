@@ -1,0 +1,1 @@
+How do I use stack to reverse a linked list?1. Insert all the elements, starting from the head element of the linked list, into the stack. 2. One by one, pop the top element from the stack and add to a new linked list.* * You could use the same linked list if you saved the address of its head pointer in a local variable. 78 Views  View Upvotes

@@ -1,0 +1,2 @@
+★Which switching technique is used in gigabit ethernet?
+Most implementations today are store and forward.

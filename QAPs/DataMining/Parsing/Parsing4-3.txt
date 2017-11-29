@@ -1,0 +1,2 @@
+★Are there limitations for Cloud Code by Parse?
+When I first saw this limitation I was wondering if it would be a pb but 15s total and 3s for before/afterSave is already a long time ! During that time your users are expecting an answer and especially on mobile phone… For long tasks there is a workaround with the "Background jobs". Introducing Background Jobs    Embed Quote

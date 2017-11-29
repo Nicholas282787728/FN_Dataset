@@ -1,0 +1,1 @@
+Are two-dimensional arrays possible in Verilog?I want to store a 2D matrix(float numbers) and do some operations with it like matrix inversion, matrix multiplication etcYes ,2D arrays are supported in Verilog and matrix operations are possible. 238 Views

@@ -1,0 +1,2 @@
+Why is the shear force diagram for uniformly distributed loads asymmetric even though it is a symmetric beam?
+There is no reason for it to be symmetric. The shear force diagram is the slope of the bending moment diagram, so if the BM diagram is symmetric the SF diagram can't be. Work out the the SF diagram from first principles: At the left hand end the SF has to = +Ra. At the right hand end it has to = -Rb. There is a uniformly distributed load applied so the SF diagram has to vary linearly between the two ends. 

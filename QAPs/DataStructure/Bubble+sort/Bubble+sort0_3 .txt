@@ -1,0 +1,1 @@
+Is this an efficient implementation of bubble sort?Let's put it this way... If you're at a job interview, and they ask you to write a sorting function, and you write a bubble sort routine - the interview is over. If you are working on a programming project for your college computer science class and you write a bubble sort routine - you're getting an "F". 

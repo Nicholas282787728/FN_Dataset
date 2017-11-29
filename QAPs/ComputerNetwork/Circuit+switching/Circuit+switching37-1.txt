@@ -1,0 +1,2 @@
+★What is the use of a transistor and diode.explain?
+Transistor is used to switch power at higher frequency in SMPS converter, inverters,UPS. Also used as a switch to drive relay,buzzer,motor,led,display & as an amplifier for dc & ac power, RF/HF power. Whereas, diode is a unipolar device & canbe used in any circuit to block ,clamp the voltage. Also used as rectifier. Hope this helped

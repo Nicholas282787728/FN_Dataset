@@ -1,0 +1,2 @@
+Are there any hashing algorithms that are mathematically proven to produce unique, collision-free hashes?
+Yes there are many but usually we call them "compression", not "hashing". Any lossless compression produces a "proven" unique key and the key is supposed to be smaller than the original value by definition 

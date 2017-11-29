@@ -1,0 +1,2 @@
+★What hosted SMTP services are available to outsource your outgoing email delivery to increase deliverability?Especially if you send a lot of email. How do they compare? This is a follow-up question to What techniques can I use to prevent emails sent from my web site from being marked as spam and increase deliverability?.
+I'm using http://www.fastmail.fm/.  Great IMAP, SMTP, web interface and anti-spam with lots of options for server-side rules. Google apps with your own custom domain and IMAP/SMTP access seems like a good option too.    Embed Quote

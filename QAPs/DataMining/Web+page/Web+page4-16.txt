@@ -1,0 +1,2 @@
+★What is the difference between a PHP and HTML Web page?
+Html used for creating static web pages php used for creating dynamic web pages u can excute directaly html pages in browser to excute php file u require web server (ex apache...)    Embed Quote

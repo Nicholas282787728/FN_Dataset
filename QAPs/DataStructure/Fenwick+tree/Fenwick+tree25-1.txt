@@ -1,0 +1,2 @@
+What is a binary indexed tree? How would you explain it to a beginner in computer programming?Please explain it in simple terms
+Go to the following links for awesome explanations of BIT (Fenwick Tree) 1-BIT: What is the intuition behind a binary indexed tree and how was it thought about? 2-Algorithm Tutorials 

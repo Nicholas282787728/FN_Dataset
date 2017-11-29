@@ -1,0 +1,2 @@
+What's the most beautiful graph you have ever seen?
+The Partial Internet Graph is a shear beauty in this regard. The edges in the graph represent links between two IP Addresses represented by the nodes. The length of the lines are indicative of the delay between those two nodes, thus a rough measure of the distance between them. Also, the color of the edge represents the bandwidth of the connection. **Please Suggest Edits** 

@@ -1,0 +1,2 @@
+★What are the key differences between HTML and HTML5? Which is better?How html file supports web apps and mobile ui for all data
+HTML  -> Audio and Video are not part of HTML4 specification. HTML5->Audio and Videos are integral part of HTML5 specifications e.g. <audio> and <video> tags

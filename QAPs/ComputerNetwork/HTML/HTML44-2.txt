@@ -1,0 +1,2 @@
+★Can CSS and HTML code be copyrighted?
+Any creative work... including source code... is technically copyrighted when you complete it. If you want to make sure, you should register a copy of the HTML/CSS of the site (and then, I'm guessing, not change it) with the US Copyright Office: http://www.copyright.gov/ As for what happens in your specific situations listed, consult an attorney. In my opinion, as a working web developer, no one does this.

@@ -1,0 +1,2 @@
+★What would have been the disadvantages and the costs of a world network based on ATM (Asynchronous Transfer Mode) technology instead of the IP interconnection?I have in mind to create a scenario in which there are only ATM networks, so I would find some percentual of the more costs compared to IP.
+Erik Fair wrote the definitive document on ATM:  Asynchronous Transfer Mode (ATM) is Bad for Computer Networks Bottom line: ATM costs you at least an additional 10% over a non-ATM network, just in bandwidth costs.    Embed Quote

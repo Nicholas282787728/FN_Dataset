@@ -1,0 +1,2 @@
+★What's the best way to extend the range of a wireless network?
+We develop Daihinia ☼ mesh network made easy, a solution for multihop networking for a home/office LAN over WiFi. With just one computer connected to the Internet, you can share the Internet connection over a wireless network which is further spread by each network participant.    Embed Quote

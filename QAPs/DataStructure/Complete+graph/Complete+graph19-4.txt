@@ -1,0 +1,1 @@
+Can you optimize the Kruskal algorithm for a complete graph, which runs in O(E+V) logV to O(VlogV), where E is the number of edges and V is the number of vertices in the graph?The complexity of Kruskal algorithm is bad when the graph is very dense that means it will be  O(v^2 log V).

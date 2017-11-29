@@ -1,0 +1,1 @@
+Where are linked lists used in real life?It is used to develop stacks and queues which have lots of applications. I have used it in one real time project. I was using it to store raw SMS data from GSM engine. So, in case of multi-part SMS, I will store each part in node and later when all parts are received then I will merge all parts and forward it to application. 926 Views

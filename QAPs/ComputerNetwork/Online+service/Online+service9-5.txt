@@ -1,0 +1,2 @@
+★Is there a good online service for nautical charts?
+OpenCPN also has a plugin called Squidd.io that displays a user-sourced  database of sailing destinations on the navigation chart, so in that  sense it is somewhat akin to OpenStreetMap for the nautical world. Users  can submit new anchorages, marinas etc. by clicking directly on the  chart, or rate and comment on existing ones.    Embed Quote

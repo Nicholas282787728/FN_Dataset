@@ -1,0 +1,2 @@
+★What is the difference between an IP address, Mac address and gateway address?
+IP address define where the equipement within the network. (In reality the IP address is composed by the network part and the host part) MAC address define the identity of the equipement (is used by layer 2 equipement -switch- to switch frames "NOT ALL EQUIPEMENTS UNDERSTAND IP ADDRESSES" Gateway address is the IP address of the interface through which the packets leaves the networks (to external networks)    Embed Quote

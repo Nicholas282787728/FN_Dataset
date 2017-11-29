@@ -1,0 +1,2 @@
+What are the properties of an AVL tree?
+The first and foremost, this is a binary tree with "self balancing" ability. On every insertion the tree balances itself depending on the factor by which this is aligned. To do this it does rotation ie. Right rotation, Left rotation or a combination of both. Apart from above, searching, insertion, deletions can be performed  in log(n). 

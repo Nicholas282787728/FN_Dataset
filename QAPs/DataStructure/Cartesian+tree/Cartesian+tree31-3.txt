@@ -1,0 +1,2 @@
+Does acceleration cause spacetime curvature?
+No, it does not. Curvature is a property of spacetime itself. It is caused by mass, energy, and momentum, combined into what's called the stress-energy tensor. Acceleration simply describes how something in moving through spacetime; it is a kinematic concept. 

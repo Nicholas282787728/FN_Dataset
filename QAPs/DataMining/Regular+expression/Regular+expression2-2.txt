@@ -1,0 +1,2 @@
+★What are good examples of regular expressions?
+The RFC regex for an email address might be a pretty comprehensive test for what regexes are expected to be able to do http://www.ex-parrot.com/pdw/Mai...    Embed Quote

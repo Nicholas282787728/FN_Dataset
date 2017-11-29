@@ -1,0 +1,2 @@
+How do I learn data mining?
+This is definitely a good start: http://www.stanford.edu/class/cs... Also, the book "Mining of Massive Datasets" by Anand Rajaraman and Jeff Ullman is a good resource.    Embed Quote 

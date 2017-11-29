@@ -1,0 +1,2 @@
+How can I compare images of the same origin that were cropped?
+You could try a histogram based registration and search for minimal distance. 

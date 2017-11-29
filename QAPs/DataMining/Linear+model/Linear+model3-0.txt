@@ -1,0 +1,2 @@
+★What kind of linear model should one use?
+I think you should use panel modeling. 4 cities over 3 years. You're following the cities, I assume, so panel modeling should be sufficient. But if they are not the same cities for each of the 3 years, then perhaps thats just Pooled OLS instead.    Embed Quote

@@ -1,0 +1,2 @@
+★Are market makers the same as high frequency traders?
+Yes. Electronic market makers employ HFT strategies. Noteable HF market makers are now defunct Knight Capital, GETCO (now owner of Knight Capital), Citadel, Jump Trading.

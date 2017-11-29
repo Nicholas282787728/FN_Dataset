@@ -1,0 +1,2 @@
+What are the most useful gems to use in Rails?
+cancan annotate devise onmiauth twitter-bootstrap-rails will_paginate Nokogiri Resque 

@@ -1,0 +1,2 @@
+★Why does Microsoft Surface have USB ports?Does adding a USB port give Surface an edge over the other tablets?
+USB is very common interface for external devices (peripherals) to communicate with the host device. Most of external devices now have USB interface, and supporting it is very crucial for Windows RT and the Surface hardware. You can think of USB devices like your external hard drives, thumb drives, printers, phones, etc. Without a USB, they won't talk to the Surface.

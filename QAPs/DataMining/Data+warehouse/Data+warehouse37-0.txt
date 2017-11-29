@@ -1,0 +1,2 @@
+★What are good sources to learn Data-warehouse design?
+Thanks for A2A. First, have a look at this article: Data Warehouse Then, continue by reading Data Warehousing Concepts. Finally, for digging into more details, you can read this book: The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition    Embed Quote

@@ -1,0 +1,1 @@
+How is a binary search tree useful? Where is it used in applications?only thing I understand in BST is nodes and the root and how it is related to huffman coding too ... I am beginner in BST

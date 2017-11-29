@@ -1,0 +1,2 @@
+★What are the best resources for learning regular expressions?
+I've found Rubular (http://rubular.com/) to be an amazing resource for learning regexes and using them day-to-day. It's an interactive dialog where you can type in some sample text and a regular expression, then see what is being matched in real time. There's also a cheat sheet of common regular expressions. A very handy tool!    Embed Quote

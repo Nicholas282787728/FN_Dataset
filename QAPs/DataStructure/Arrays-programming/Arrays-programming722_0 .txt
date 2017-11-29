@@ -1,0 +1,1 @@
+How do I make a Java program print all the elements of an array in all possible combinations?See LeetCode - Permutations (Java) http://vasanthexperiments.wordpr... You need to permute the array. You can practice to write the code to generate the permutation of the array. 661 Views  Answer requested by Vinamra Das

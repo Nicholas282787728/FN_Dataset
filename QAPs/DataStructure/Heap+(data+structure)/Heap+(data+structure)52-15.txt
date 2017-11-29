@@ -1,0 +1,2 @@
+How are students in Indian colleges taught programming?
+I have seen this common mistake among the students. The Pascal's triangle. When asked to code the triangle as output. 70% of the students think like this: (because the teachers misinterpret the output pattern) To show the output they just print out 5 rows with 11 to the power (n-1). where n is the number of the row.... (more)

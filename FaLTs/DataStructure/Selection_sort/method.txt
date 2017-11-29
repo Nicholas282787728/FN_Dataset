@@ -1,0 +1,2 @@
+Selection sort can be implemented as a stable sort.
+This C Program implements selection sort method using functions. Selection sort is among the simplest of sorting techniques.

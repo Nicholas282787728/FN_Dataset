@@ -1,0 +1,2 @@
+★What is the beauty of Machine Learning?Why all of a sudden all programmers are interested in Machine Learning?
+Machine learning is a complex field, which serious programmers love to deal with. And of course, there are other more complex fields as well in Computer Science, but the idea of making something close to life, something that can learn by itself is fascinating.    Embed Quote

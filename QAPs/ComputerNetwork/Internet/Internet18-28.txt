@@ -1,0 +1,2 @@
+★What startups are focused on the Internet of Things (IoT)?
+http://www.ubidots.com/ - "real-time analytics platform that merges physical data from sensor networks with digital data from the web."

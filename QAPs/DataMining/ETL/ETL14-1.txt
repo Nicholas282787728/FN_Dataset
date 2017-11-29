@@ -1,0 +1,2 @@
+★What does an ETL Architect in your company do?I am looking for answers beyond "architect, design, and develop ETL solutions"
+Here is a tech talk by the big data architect at Cloudera about his work on ETL and related technologies:    Embed Quote

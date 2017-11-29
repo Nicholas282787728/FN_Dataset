@@ -1,0 +1,2 @@
+Why does gravity decrease beyond 4500 meters below sea level?
+As you get deeper into the Earth the significant mass above you starts to attract you away from the centre of the Earth so you get lighter. But this effect is partially cancelled by the rock below you being denser ( and eventually becoming iron which is much denser than rock ). 

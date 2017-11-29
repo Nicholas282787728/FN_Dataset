@@ -1,0 +1,2 @@
+If three coins are tossed simultaneously, what is the probability of getting at least two heads?
+take all permutations {HHH, HHT,HTH,THH,TTH,THT,HTT,TTT} Now we have >=2 heads in 1-4 sets hence the answer is 4/8 = 1/2 to calculate the no of permutations, take 2^(no of coins) For larger values, say to calculate atleast 3 Heads if 5 coins are tossed, for 5 heads only one, for four heads and three , do Binomial Distribution Binomial distribution and finally add for n=5, n=4 and n=3 to get the answer    Embed Quote 

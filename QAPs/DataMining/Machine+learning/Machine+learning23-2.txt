@@ -1,0 +1,2 @@
+★What is the best machine learning algorithm?
+There is none.  In fact, there *can't* be a "best" one: http://www.no-free-lunch.org/    Embed Quote

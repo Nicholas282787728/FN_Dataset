@@ -1,0 +1,2 @@
+★Where are the semantic web applications?
+The Semantic Web application development will provide an infrastructure that enables not     just web pages, but databases, services, programs, sensors,     personal devices, and even household appliances to both consume and     produce data on the web. Software agents can use this information     to search, filter and prepare information in new and exciting ways     to assist the web user.    Embed Quote

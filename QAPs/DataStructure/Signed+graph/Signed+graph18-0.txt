@@ -1,0 +1,2 @@
+How do you determine points of inflection from a graph of the derivative of a function?
+The points of inflection are where the 2nd derivative changes sign.  On the graph, this corresponds to the point where the derivative goes from increasing to decreasing. 

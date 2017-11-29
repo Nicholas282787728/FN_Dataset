@@ -1,0 +1,2 @@
+Who are some famous Bayesian statisticians active today?
+Andrew Gelman - Look at his homepage on Columbia. He has written important books on Bayesian Statistics and Multilevel Models that are standard textbooks in most of the universities. Also his blog about social and political statistics is quite actively followed. Hal S. Stern - Dean of Information & Computer Science school at UCI. He is famous for applying Statistics in Sports domain (baseball series analysis for e.g.) and also has co-authored a book with Prof. Gelman.    Embed Quote 

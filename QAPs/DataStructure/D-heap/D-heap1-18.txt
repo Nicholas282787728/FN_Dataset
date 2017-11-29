@@ -1,0 +1,2 @@
+What books are a good introduction to game theory?
+I found Osborne's An introduction to Game Theory, http://www.amazon.com/Introducti..., very easy to follow. It has lots of examples to illustrate the points.. 

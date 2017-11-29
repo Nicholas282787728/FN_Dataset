@@ -1,0 +1,2 @@
+What major factors distinguish advanced and elementary data structures?
+The so-called advanced data structures are generally variants of the basic ones.  B-trees, van Emde Boas trees, splay trees, interval trees, and many others are all kinds of trees, so it's much easier to understand them after you've understood the basic tree data structures. 

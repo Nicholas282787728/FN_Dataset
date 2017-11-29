@@ -1,0 +1,21 @@
+We give two versions of the algorithm, one Las Vegas algorithm and one Monte Carlo algorithm.
+
+Las Vegas algorithm:
+
+findingA_LV(array A, n)
+begin
+    repeat
+        Randomly select one element out of n elements.
+    until 'a' is found
+end
+
+Monte Carlo algorithm:
+
+findingA_MC(array A, n, k)
+begin
+    i=0
+    repeat
+        Randomly select one element out of n elements.
+        i = i + 1
+    until i=k or 'a' is found
+end

@@ -1,0 +1,6 @@
+Let X be a random variable with mean value μ:
+
+Here the operator E denotes the average or expected value of X. Then the standard deviation of X is the quantity
+
+That is, the standard deviation σ (sigma) is the square root of the variance of X, i.e., it is the square root of the average value of (X �?#160;μ)2.
+The standard deviation of a (univariate) probability distribution is the same as that of a random variable having that distribution. Not all random variables have a standard deviation, since these expected values need not exist. For example, the standard deviation of a random variable that follows a Cauchy distribution is undefined because its expected value μ is undefined.

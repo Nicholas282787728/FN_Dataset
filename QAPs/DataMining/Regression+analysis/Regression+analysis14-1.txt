@@ -1,0 +1,2 @@
+★What is the most useful software package to learn for time series forecasting/regression analysis?Starting from scratch and including programming languages.  What software or tool has the most comprehensive application for time series and forecast modeling?  Why?
+Both R and SAS are very good at this. R has the big advantage of being free. SAS has the big advantage of tech support (and, in my opinion, much better documentation). Give yourself plenty of time to learn about these models: They are complex and full of traps.    Embed Quote

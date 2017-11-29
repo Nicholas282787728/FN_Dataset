@@ -1,0 +1,2 @@
+How can a max heap be converted to a min heap efficiently?
+Assuming that you're talking about binary heaps, it's actually fairly easy to build either a min-heap or a max-heap in O(N) time (which is clearly optimal). Starting from the end of the array, i.e. the leaves of the heap, swap each node down the heap until the heap property is satisfied. This operation takes, worst case, an average of O(1) per node. 

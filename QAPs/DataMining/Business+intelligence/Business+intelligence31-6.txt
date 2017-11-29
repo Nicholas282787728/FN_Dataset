@@ -1,0 +1,2 @@
+Business Intelligence: What are some good BI tools for MySQL?
+Chartio  (http://chartio.com) allows users to query MySQL and create charts and reports using either straight SQL or a drag-and-drop interface designed for non-technical users.    Embed Quote 

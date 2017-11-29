@@ -1,0 +1,2 @@
+★Does Facebook regret its HTML5 mobile strategy?Seem like it's moving more toward native apps these days.
+Because they didn't implement HtML5 correctly. In order to make use of all benefits of HTML5 , there is a whole lot more than just <> change

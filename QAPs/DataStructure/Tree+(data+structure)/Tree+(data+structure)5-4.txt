@@ -1,0 +1,2 @@
+What is the best web API for creating images of graph or tree data structures (nodes and edges)?
+I believe when people advocate GraphViz, what they're really talking about at the syntactical level is the Dot language, which is supported by many tools. (I am not sure if GraphViz works with languages other than Dot -- my apologies if I'm selling it short.) 

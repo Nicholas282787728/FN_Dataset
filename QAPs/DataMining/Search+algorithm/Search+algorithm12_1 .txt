@@ -1,0 +1,1 @@
+Which search algorithm is used by Google to find millions of websites?So Google doesn't search for websites. Rather it indexes them in a very large databases with probabilistic relations between all the website. They do this by crawling all the webpages. 

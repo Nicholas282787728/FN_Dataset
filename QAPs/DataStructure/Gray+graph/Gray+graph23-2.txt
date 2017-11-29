@@ -1,0 +1,2 @@
+Words: Is there an online tool to accurately assess the relative rarity of a word in English?I'm looking for something more definitive than just guessing from the number of returned results of a search engine llike google.
+Yes do an online search for example "biggest online free English corpus" There are many of these corpora that should give you the statistical information you are looking for. 

@@ -1,0 +1,2 @@
+Is Facebook Graph Search completely functional in India?
+Major features do work. I have used a few of them. Not sure about the completeness or any differences between the feature availability in India Vs Other Countries 

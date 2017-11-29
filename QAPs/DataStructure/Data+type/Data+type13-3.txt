@@ -1,0 +1,2 @@
+What are data types?
+the integral types: byte , short , int, long the floating-point types: float,double 5 Views

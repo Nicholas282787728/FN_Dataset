@@ -1,0 +1,2 @@
+★Are there limitations for Cloud Code by Parse?
+Unfortunately, have a look at this: profi.co/all-the-limits-of-parse    Embed Quote

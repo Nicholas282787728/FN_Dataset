@@ -1,0 +1,2 @@
+Why does everyone use C with C++?
+Interesting observation but No, not everyone uses C with C++.  Someone once quipped a person using C/C++ may not know either. C++ language was intentionally developed to resemble and be backward compatible with C but that's where the similarity ends. As both languages evolve, they are slowly diverging away. For example, C99 supports variable length array and C11 includes anonymous structs. Both of these features are not supported by C++11. 

@@ -1,0 +1,2 @@
+Is covariance only a mathematical formula or is there any data in which I can see covariance?
+Covariance depends on units, so in your earthquake example the 12.6 doesn't represent anything very meaningful. If you want something unitless, use correlation. I tried to give an intuitive explanation of covariance (focusing mainly on the sign) in Michael Hochster's answer to What is an intuitive explanation of covariance?    Embed Quote Updated 13 Aug, 2013. 955 views. Asked to answer by Akash Sarawgi.

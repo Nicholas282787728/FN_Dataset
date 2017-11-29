@@ -1,0 +1,2 @@
+How can I find a planar embedding of a planar graph?
+Try graphviz? Look at ths -Gnslimit -Gmclimit -Gsplines=true to maximize your chances. networkx may also do this. 

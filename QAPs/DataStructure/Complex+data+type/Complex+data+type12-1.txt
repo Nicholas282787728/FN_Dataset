@@ -1,0 +1,2 @@
+Which HDL is better: Verilog or VHDL?
+VHDL is better for obvious reasons!!! One of the major drawbacks of verilog is that it lacks the library management of  software programming languages which means that Verilog will not allow  programmers to put needed modules in separate files that are called  during compilation. Hence, large projects on Verilog might be difficult to handle. Besides, Verilog has very simple data types, while VHDL allows users to create more complex data types. 

@@ -1,0 +1,2 @@
+★What are the top 10 data mining or machine learning algorithms?
+At present bayesian networks are the top most and neural network is second . You might search neural network project of google "learning what is cat from you tube videos"    Embed Quote

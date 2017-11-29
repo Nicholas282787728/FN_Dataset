@@ -1,0 +1,2 @@
+What are some of the best algorithms?
+The algorithm that solved the stable-marriage problem. Main reason is because this algorithm has many viable (and implemented) real life applications and can be morphed and transformed to suit almost any problem with agent-matching issues, Lloyd, the mathematician who devised this algorithm was awarded the Nobel Prize in Economics with Alvin E Roth in 2012. Otherwise, the algorithm that solved the Barganing Problem (by the John Forbes Nash Jr.) can also be considered the best. 3.6k Views · 36 Upvotes

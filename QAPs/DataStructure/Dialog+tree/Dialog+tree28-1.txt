@@ -1,0 +1,2 @@
+Which is the best language, C or C++?
+On point, there isn't a best programming language.  It all depends on the purpose and your design constraints.  For example, if I were engaged at the start of a large (250,000+ lines of code) project that would be around for many years and undergo substantial enhancement I would prefer C++ over C.  If I were writing a one-off that quickly needed to extract data from some web page and store it in a file I would use neither. 

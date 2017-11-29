@@ -1,0 +1,2 @@
+★What are some good books on machine learning?
+Here are 2 that I read and found very useful. 1.Practical Machine Learning Tools and Techniques, Second Edition (Morgan Kaufmann Series in Data Management Systems) by Ian H. Witten and Eibe Frank. (excelent overall guide to datamining) http://www.amazon.com/Data-Minin... 2.Programming Collective Intelligence: Building Smart Web 2.0 Applications, by Toby Segaran (This one is not fully about machine learning, but it has great chapters about it, and it is very well written) http://www.amazon.com/Programmin...    Embed Quote

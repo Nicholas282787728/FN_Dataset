@@ -1,0 +1,2 @@
+What are some interesting properties number 6 has?
+6 is the smallest positive integer with two factors, neither of which divides the other. (Also, 6 is the only finite K such that the groupoid of K-element sets has a nontrivial invertible endofunctor, if you're into that sort of thing...) 

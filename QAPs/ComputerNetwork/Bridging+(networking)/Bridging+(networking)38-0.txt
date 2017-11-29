@@ -1,0 +1,2 @@
+★Who are the greatest female programmers?
+Lynn Conway. Her work with Mead led to the Mead and Conway revolution in VLSI design, a direct precursor to the chips used today in the computer that you are likely using to read this. Lynn is also credited with the invention of "generalised dynamic instruction handling, a key advance used in out-of-order execution, used by most modern computer processors to improve performance."

@@ -1,0 +1,2 @@
+Is this so called "Unlimited Detail Real-Time Rendering Technology" theoretically possible?
+It is certainly possible, as it exists an entire field devoted to it. Its internals have not been clarified, but the idea of not rendering polygons or connected surface representations is not novel, it's well known that storing the connectivity is useless when the geometric density falls under the pixel-size, and thus many renderers of massive data sets are not based on polygons on connected meshes. See "point based rendering" and "voxel based rendering". 

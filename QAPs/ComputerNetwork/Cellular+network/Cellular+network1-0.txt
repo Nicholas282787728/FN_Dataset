@@ -1,0 +1,2 @@
+★How does cellular network jammer works?
+It's simple, the jammer introduces a lot of noise in the same frequency as that of the cellular network. Thus the jammer interferes with the cellular network and disrupts the communication between the cellphone and the tower. The power of the signal emitted by the jammer should be high enough to cancel out the signal from the tower.

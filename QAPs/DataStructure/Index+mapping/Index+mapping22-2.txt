@@ -1,0 +1,1 @@
+When using logstash with elastic search, when/how do I specify the mapping of the index that will store the logstash data?

@@ -1,0 +1,2 @@
+What are some interesting git operations and commands?
+I'm certainly no git guru but a couple of cool commands: Git - git-bisect Documentation - lets you run a binary search over a set of commits to figure out which one introduced a regression/bug. Git - git-clean Documentation - in case you muck up your working directory with a bunch of files you don't want in your repository, clean will delete them for you. Git - git-stash Documentation - made changes but aren't ready for a commit? Just stash them away! 

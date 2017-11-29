@@ -1,0 +1,2 @@
+★What data rates (not advertised, but actual) can I expect from ClearWire?
+I know this is probably not the best answer but "it depends".  Wireless data rates are a little more complicated than fixed line because you need to consider how far you are from the cell tower, how many people are on the network, etc.  I've seen as high as 3mbps on the DL but most of the time is 1.5mbps.  Yesterday's Netflix announcement shows that DL averages 1.5mbps.

@@ -1,0 +1,2 @@
+★Is there a scope for SoftWare Defined Networking in Home Networking space?
+As of right now, no. The value proposition of SDN is it's ability to scale and reduce costs in areas where traditional working seems to becomes a mess. Home networks aren't run at a great scale and aren't cost prohibitive in any way.

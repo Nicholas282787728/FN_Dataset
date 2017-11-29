@@ -1,0 +1,2 @@
+What are the most sophisticated algorithm that you "found" before you read the theory?e.g: you applied breadth first search even before you knew it exists. How did you come to that point?
+when solve some programming competition problems like: divide the bidirectional graph into several parts, each parts have no edges among them. after solving this problem and later read the book Introduction to Algorithms, i found it's Disjoint-set data structure 

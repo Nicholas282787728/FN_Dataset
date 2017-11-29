@@ -1,0 +1,1 @@
+How can we create array without specifying a size in java?You need to simply create an object of ArrayList class… 64 Views · View Upvotes

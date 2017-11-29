@@ -1,0 +1,2 @@
+Is there a native graph ADT in Java, or do I need to implement the ADT every time I need to use it?
+It's been a while since I programmed actively but I don't think Java has native Graph class. You can explore jgraph/jgraphx or  Java Universal Network/Graph Framework 

@@ -1,0 +1,2 @@
+What is the best way to learn algorithms? I want to prepare for a Google interview and I am willing to spend all of my free time learning.
+Interviews are not end of the world. If you want to learn algorithms then make the open source algorithms better, contribute to gcc etc..You might even strike with an idea for your own thing. Just by calculating egg drop problem or rod cutting problem or knight tour in different ain’t gonna make you good in algorithms. 265 Views · 2 Upvotes

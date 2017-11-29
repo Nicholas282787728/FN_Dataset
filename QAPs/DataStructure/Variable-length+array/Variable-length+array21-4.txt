@@ -1,0 +1,2 @@
+Why do people still use C when they have C++?
+Same reason some folks paint their walls one solid color instead of putting up paisley wallpaper. It's hard to see the bugs crawling on the wallpaper. 

@@ -1,0 +1,2 @@
+★What is the best Python library for Hidden Markov Models?
+I've struggled with the same problem recently, and decided to write a light-weight library of my own that is fully implemented in Python and only requires numpy. You can find the source here - GuyZ / HMM - Bitbucket. Rest should be quite straightforward.    Embed Quote

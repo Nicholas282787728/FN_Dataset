@@ -1,0 +1,2 @@
+How is genetic programming used in antenna and circuit design?
+There have been a number of research papers that use GA optimization to find optimum spacing between antenna array elements in a phased array for desired beam patterns or side lobe level reduction. I have also seen GA optimization papers on optimizing a horn antenna, optimizing metamaterial elements, and optimizing EBG antenna ground planes. Note: Comment if interested and I can recommend particular papers for particular areas of focus. 

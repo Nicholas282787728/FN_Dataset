@@ -1,0 +1,2 @@
+★How important is linear algebra in computer science?what is the relation between computer engineering and linear algebra
+Quite important for things like: graphics programming graph theory (social graphs for example) singular value decomposition for recommendation systems (pagerank, netflix recommendations, collaborative filtering) data clustering and classification pattern recognition various forms of artificial intelligencelots of other things especially in mechanical and civil engineering, but you asked about computer science.

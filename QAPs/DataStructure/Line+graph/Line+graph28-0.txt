@@ -1,0 +1,2 @@
+How do you filter data in a line graph in excel 2007?
+If you can't just filter the table, I think the easiest way is to copy and paste your data in another spreadsheet, filter it, make a graph and display the graph in the first spreadsheet. 604 Views

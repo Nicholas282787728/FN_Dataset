@@ -1,0 +1,2 @@
+What are examples of great scientific books that introduced the public to revolutionary concepts?
+Introduction to VLSI System Design (1980) ushered the Mead & Conway revolution. It would not be an exaggeration to thank this book for 15-20 generations of semiconductor chips, although some people considered the contribution trivial at the time. The Mythical Man-Month has been a very influential book on managing large SW development projects. 

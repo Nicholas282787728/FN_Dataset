@@ -1,0 +1,2 @@
+★How can we say that error surface is continuous in cases of least square solution?
+The objective function for least squares is the square of the distance between the target data and the output of the classifier.  This is in general a continuous and differentiable function.  So assuming the classifier has non-discrete parameters, you can plot the error surface around the target data over the range of parameter values and take derivative for things like gradient descent optimization.    Embed Quote

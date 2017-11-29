@@ -1,0 +1,6 @@
+★In fuzzy logic, can rules be evaluated when there are missing values?
+It all depends on how the fuzzy engine is designed and its capabilities. For instance, in some engines you can have rules like 1
+ If travelpurpose IS UNKNOWN ... or perhaps, if wildcards are allowed and correctly implemented, 1
+2
+3
+ If travelpurpose IS ANY ... If travelpurpose IS NONE ... There are a few papers about the specific issue of missing data in fuzzy rules. For instance Fuzzy Process Model Development with Missing Data (behind a paywall); or Page on kops.uni-konstanz.de.    Embed Quote

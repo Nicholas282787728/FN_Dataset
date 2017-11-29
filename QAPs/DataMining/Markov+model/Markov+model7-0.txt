@@ -1,0 +1,2 @@
+★Hidden Markov Models: What are some fast HMM implementations?
+This is one of the simplest HMM based implementations (in C#) which I came across while trying to learn more about HMM. Hidden Markov Models in C#   I used and modified this code  to suit my requirements (I had 8 states and observations and 8 classes to generate and choose from) and the algorithms used her for Viterbi and Baum-Welch were very fast indeed. I could train my engine over 1000 samples in less than a minute.    Embed Quote

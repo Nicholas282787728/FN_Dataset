@@ -1,0 +1,2 @@
+"how to get  quick index  website URLs in yahoo and bing search engines except xml site map"index
+Suggest deploying a very flat architecture where there is as few clicks as possible from the home page to deeper pages. It can be done without stuffing the footer if you design strategically. Also note that Twitter utilizes it's own url shortener now so if you use your own http://bit.ly (or similar) account it adds another 301 redirect on top of Twitter's which could potentially slow down a crawl. 

@@ -1,0 +1,2 @@
+★Is it good or bad that the Internet is becoming more interconnected?
+Metcalfe's law sums it up pretty well -  the value of a network is proportional to the square of the number of connected users of the system (). Bigger network, more value. Massive interconnection also makes reliability much, much better. If there's only one path from A to Z, and something breaks, you can't get there; if there are a bazillion (that's a technical term), then you never have to worry about it.    Embed Quote

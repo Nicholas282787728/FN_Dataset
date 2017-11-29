@@ -1,0 +1,1 @@
+How can we predict fill-in when factorizing a sparse symmetric matrix when looking a its undirected graph?There is an algorithm for computing the amount of fill-in. It’s in the Duff-Erisman-Reid book, as well as Tim Davis’ book. I outline the algorithm in my book Intro to High Performance Scientific Computing See: http://pages.tacc.utexas.edu/~ei... 150 Views · View Upvotes

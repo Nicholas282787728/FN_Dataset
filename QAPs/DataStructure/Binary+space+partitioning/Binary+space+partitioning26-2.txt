@@ -1,0 +1,1 @@
+What are the advantages of using quantum computing in natural language processing?Dr. Bob Coecke mentioned that it is to extract meaning, but how is it better or different from the classical platforms? Because it can try different what-if's faster?

@@ -1,0 +1,2 @@
+Is it a good idea to use JavaScript (programming language) for solving algorithmic problems?
+No. As someone not fond of Python and Java, when it comes to algorithmic problems, I would nonetheless suggest looking into those languages. 

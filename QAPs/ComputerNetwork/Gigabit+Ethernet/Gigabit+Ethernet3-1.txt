@@ -1,0 +1,2 @@
+★When is AWS going to be upgraded to a 10 gigabit Ethernet network?i.e. not just "cluster compute" but regular instances This is a follow-up question to What is the current technology stack behind AWS?.
+Knowing Amazon's history, they will probably not upgrade existing instance types to 10GB ethernet, but rather introduce new "Hi IO" instance types.

@@ -1,0 +1,2 @@
+★Computational Complexity Theory: What's the meaning and significance of P ≠ NP?
+To add to what's already in the wiki, the above image succinctly sums up where we stand currently with regard to the P=NP problem. If P=NP were to be true, it would mean that a large class of problems that we know are easy to check solutions for but currently hard to solve would become easy to solve as well.    Embed Quote 

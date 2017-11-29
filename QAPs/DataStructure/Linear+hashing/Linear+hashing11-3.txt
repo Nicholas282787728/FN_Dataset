@@ -1,0 +1,2 @@
+How do I implement a C-code to remove duplicate elements from an array and what will be the complexity of such an algorithm?
+The ideal approach would be to sort the elements and then remove the duplicate ones. So the time complexity would be the complexity to sort the elements- let us take quick sort as an example as it is the efficient one in average cases- and then scanning the array one more time to see if there are duplicates or repetitions. 

@@ -1,0 +1,2 @@
+★What is the difference between Monte Carlo simulations and Markov Chain Monte Carlo (MCMC)?
+Thanks for the A2A however, I'm not sure that I can provide an eloquent answer to this question. I will simply offer the following. Both use a series of algorithms (relating to probability and statistics) to solve problems containing large numbers of unknowns. The Markov Chain Monte Carlo suite of algorithms go one step further in that they essentialy take into account 'feedback' as part of the process for formulation of a solution. Hopefully this helped.    Embed Quote

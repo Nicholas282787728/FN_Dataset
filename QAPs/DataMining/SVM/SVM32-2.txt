@@ -1,0 +1,2 @@
+★How can I improve the performance of my SVM?I'm using the PyML implementation of an SVM to classify the MNIST database, but can't achieve the performance touted on Yann Lecun's website as possible for SVM's.  What can I do to improve the performance of my SVM in classifying the data set?
+Grid Search seconded. Check out an easy-to-use version of Grid Search in Python's Scikit-Learn: 3.2. Grid Search: Searching for estimator parameters    Embed Quote

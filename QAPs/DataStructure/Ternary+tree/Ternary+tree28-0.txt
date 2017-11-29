@@ -1,0 +1,2 @@
+How will you design a contact list in a cell phone? What data structure will you use?
+Tries or Ternary Search Trees are the best data structures for these operations...Their insertion/deletion/search time is O(length of string) hence are very fast and efficient....Please search for these topics in geeksforgeeks.org 

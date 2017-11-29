@@ -1,0 +1,2 @@
+What is the difference between depth-first-search and breadth-first-search? Why does DFS visit the node after removal from a stack while BFS visits the node before adding it to the queue?
+Breadth First Vs Depth First The above link explains the concept beautifully. Do have a look. 1.3k Views

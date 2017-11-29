@@ -1,0 +1,2 @@
+What are some topics/fields in physics that aren't traditionally taught in the undergraduate physics curriculum but are worth learning/really cool?
+Other people have mentioned numerical methods. I would add symbolic methods. There is a lot of scope for large-scale computer algebra in the context of physics (e.g. Feynman diagrams) but few people attempt it. I would also add time-frequency analysis. Fourier analysis is commonly taught but time-frequency analysis is a more useful generalization in many practical cases. 

@@ -1,0 +1,2 @@
+What is the best way to learn algorithms? I want to prepare for a Google interview and I am willing to spend all of my free time learning.
+This really depends on how much foundation you have already had in algorithm. If you start with nothing, I’d start by taking an introduction class in algorithm. You need have a theoretical foundation in algorithm. I’ll then read and practice questions in Crack The Code Interviews. I’ll practices tech questions on Leetcode. 549 Views · 2 Upvotes · Answer requested by Ali Reda

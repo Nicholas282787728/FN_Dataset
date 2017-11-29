@@ -1,0 +1,1 @@
+Who are the greatest graph theorists?Edsger W. Dijkstra - invented some incredible algorithms that are beautiful to program. Known best for the algorithm that was named after him (Dijkstra's algorithm ), the algorithm is a shortest route finder on a weighted graph. 178 Views  View Upvotes

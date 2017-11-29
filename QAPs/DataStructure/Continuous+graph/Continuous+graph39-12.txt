@@ -1,0 +1,2 @@
+What are some of the most counterintuitive mathematical results?Like cantor's results on infinities, the rearrangement theorem in analysis
+In my opinion: Banach-Tarski's paradox: http://en.wikipedia.org/wiki/Ban... Or possibly the existence of exotic R^4 spaces - an uncountably infinite number of them, even - while there is no exotic R^n spaces for any other n:  http://en.wikipedia.org/wiki/Exo... Updated 18 May 2014 • View Upvotes

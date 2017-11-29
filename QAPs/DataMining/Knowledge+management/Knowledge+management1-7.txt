@@ -1,0 +1,2 @@
+★What is the best open source software for knowledge management?
+I looking for something similar, a KMS but something with potential to scale to larger enterprises and ability to work on a LAN. So far the best is the first result on google, OpenKM:  Open Source Document Management. Let me know if there's something better to match the features, better UI, etc.    Embed Quote

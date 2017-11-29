@@ -1,0 +1,2 @@
+What are examples for problems that are best solved by robust programming?
+The graceful handling of intermittent non-availability of network connectivity in mobile applications. 

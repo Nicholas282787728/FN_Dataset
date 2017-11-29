@@ -1,0 +1,2 @@
+What is the best way to explain "depth-first search" to a non-CS student?
+Imagine a mango tree with lots of mangoes. There are two ways you can pluck all the mangoes. You can climb a tree You climb one branch of a tree keep plucking mangoes and going further up (deep) in the branch. When you are finished, you come back to trunk (root) and go to another. If a branch has sub-branches you select one (assuming you are lightweight), complete plucking from it and then backtrack to the branch and select another branch. That's DFS for you. ... (more)

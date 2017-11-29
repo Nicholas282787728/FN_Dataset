@@ -1,0 +1,2 @@
+★When does logistic regression not converge?
+Conditional random field and  Hidden Markov model  are good algorithms for NER Extraction CRF is most used algoritum...    Embed Quote

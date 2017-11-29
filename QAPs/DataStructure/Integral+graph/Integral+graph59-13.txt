@@ -1,0 +1,2 @@
+What are the most useful gems to use in Rails?
+filteriffic redis devise cancan changes_validator google_drive rails4-autocomplete haml-rails 

@@ -1,0 +1,2 @@
+★What are some continuous integration services that have built in support for the Github commit status API?
+Disclaimer: I'm cofounder & CEO of Codeship (Software). We also offer a hosted continuous integration & deployment solution. As far as I know, the following hosted continuous integration services have already integrated the GitHub commit status API: circleci.com codeship.io (links to: http://codeship.io)http://codeship.com (links to: http://codeship.com) semaphoreapp.com shippable.com travis-ci.org

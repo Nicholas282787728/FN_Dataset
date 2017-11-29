@@ -1,0 +1,2 @@
+★What is the Riemann hypothesis?
+Well, I'll try to be as simple as possible, but someone please comment if I've missed any important details. We start with the Riemann-zeta function, defined as follows where s is any complex number i.e. , with i being the square root of -1. Now, we already know that when i.e. s is any negative even integer. The Riemann hypothesis states if there exists any other s such that then the real part of s is i.e. .    Embed Quote

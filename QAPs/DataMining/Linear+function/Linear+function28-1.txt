@@ -1,0 +1,2 @@
+★Which programming languages have native linear algebra functions?So far I can think of Matlab/Octave, Mathematica, R/S, Julia, J (APL?), K, and newLisp. (Maple?)
+Big Data Hadoop...    Embed Quote

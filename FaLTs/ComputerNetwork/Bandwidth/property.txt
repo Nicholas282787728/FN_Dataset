@@ -1,0 +1,1 @@
+A key characteristic of bandwidth is that any band of a given width can carry the same amount of information, regardless of where that band is located in the frequency spectrum. For example, a 3 kHz band can carry a telephone conversation whether that band is at baseband (as in a POTS telephone line) or modulated to some higher frequency.

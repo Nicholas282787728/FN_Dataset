@@ -1,0 +1,2 @@
+★Why is this the formula to calculate the MSE and variance of least square estimator with regularization?
+Apparently the variance is defined here as the sum of the variances of the individual components.  I've seen that before, and it may be standard. Since the variance that they're using is the trace of the covariance matrix, its just the sum of its eigenvalues.  I don't know exactly what denotes, so I can't say much more than that.    Embed Quote

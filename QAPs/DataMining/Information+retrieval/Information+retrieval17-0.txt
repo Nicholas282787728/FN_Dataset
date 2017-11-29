@@ -1,0 +1,2 @@
+★Information Retrieval: How to build a simple inverted index?
+This blog (not mine) was a good starting point for me when I wanted to learn more about search engines. Implementing Search Engines    Embed Quote

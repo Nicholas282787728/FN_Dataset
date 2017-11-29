@@ -1,0 +1,2 @@
+How can I scrape data from an E-commerce store?
+To scrape any data from your store you can use, for example, this program Easy Data Feed - Web Data Extraction Scraping Software . All information will be put in Excel, that is very convenient. Also, you can take a look here:   Shopping Cart Elite Tour Page    Embed Quote 

@@ -1,0 +1,2 @@
+With C++14, why would you still need to use Boost libraries?
+Boost contains many things which aren't yet in the standard library and are more expedient than other alternatives. In my current product I used Boost.Spirit.Qi - a Domain Specific Language for recursive descent parsers that looks like EBNF adapted to C++ operator syntax. Boost.Date_Time - arithmetic, input, and output for dates and times. Boost.Serialization-serialize objects for persistent storage or transport. 

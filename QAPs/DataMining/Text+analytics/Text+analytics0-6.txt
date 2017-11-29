@@ -1,0 +1,2 @@
+★What is the best text analytics API + service?There are a lot of text analytics / text analysis APIs out there. What is your experience and what API do you think is the best one?
+At Apicultur, we publish APIs that perform linguistic tasks for Spanish language like morphological analysis, phonetical transcription, lexical extraction, sentiment analysis, etc... https://store.apicultur.com/    Embed Quote

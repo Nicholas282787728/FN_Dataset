@@ -1,0 +1,1 @@
+Bandwidth in hertz is a central concept in many fields, including electronics, information theory, digital communications, radio communications, signal processing, and spectroscopy and is one of the determinants of the capacity of a given communication channel.

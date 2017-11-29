@@ -1,0 +1,2 @@
+What is the SQL code to transform a data set?
+In PostgreSQL: SELECT Id, array_agg(Value ORDER BY Value ASC) FROM t GROUP BY Id    Embed Quote 

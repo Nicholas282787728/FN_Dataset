@@ -1,0 +1,2 @@
+★Pattern Recognition: What are good sources to learn graphical probabilistic models in machine learning context?
+This webpage: Graphical Models, is a great introduction to probabilistic graphical models. For an in-depth understanding, Koller and Friedman's book (Probabilistic Graphical Models) is a great read. You could also enroll for the online course at Coursera.    Embed Quote

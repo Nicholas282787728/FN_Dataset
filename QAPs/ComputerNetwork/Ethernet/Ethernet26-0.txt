@@ -1,0 +1,2 @@
+★Can a fiber Internet cable terminate in Ethernet?
+Yes.  So can copper internet cable.  So can wireless. You would need to provide more details about the type of fiber cable and the signalling on that cable for a more useful answer.

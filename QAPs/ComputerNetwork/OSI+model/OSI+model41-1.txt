@@ -1,0 +1,2 @@
+★What is the simplest program which explains the use of all layers of OSI model?
+It's a theoretical model,hence you can't directly implement via coding.    Embed Quote

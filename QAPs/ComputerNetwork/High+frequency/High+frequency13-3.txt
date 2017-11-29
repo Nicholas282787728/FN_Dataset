@@ -1,0 +1,2 @@
+★How will high frequency trading change hedge funds?
+It won't. Hedge funds employ longer-term investing strategies so they shouldn't get affected by subpenny or penny differences in their orders. If anything they might benefit from greater liquidity provided by HFT. Moreover if subpenny/penny differences did matter to them, then there are other trading venues where hedge funds could route their orders that help avoid being gamed by HFT algos.

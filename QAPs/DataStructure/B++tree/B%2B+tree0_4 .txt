@@ -1,0 +1,1 @@
+What is a B+ Tree?What are some of the Application of B+ Tree ?Here is a simulation of a B+ tree in action: B+ Tree Simulator 

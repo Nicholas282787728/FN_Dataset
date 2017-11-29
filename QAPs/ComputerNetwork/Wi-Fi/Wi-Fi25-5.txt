@@ -1,0 +1,2 @@
+★How do I hack WPA2 Wi-Fi password using Backtrack?
+BackTrack does. I tried it on my VM.. It perfectly did, what was expected :) :) Will update this answer with the procedure. bear with me. :)    Embed Quote

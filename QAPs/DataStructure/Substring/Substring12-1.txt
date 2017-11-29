@@ -1,0 +1,2 @@
+Given 'k' strings, how can we find the longest common substring efficiently?
+Build a combined suffix tree of all the strings. The internal node with largest index value which has all the k strings endings. Updated 122w ago • View Upvotes

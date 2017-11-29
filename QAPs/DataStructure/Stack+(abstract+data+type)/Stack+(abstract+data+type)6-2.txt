@@ -1,0 +1,2 @@
+What are various methods of implementing a stack using linkedlist(s) and what method is the best?
+Stack is a magical abstract data structure. It can even be implemented in assembly language relatively easily. How does the stack work in assembly language? 

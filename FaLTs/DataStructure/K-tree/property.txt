@@ -1,0 +1,1 @@
+The k-trees are exactly the maximal graphs with a given treewidth, graphs to which no more edges can be added without increasing their treewidth.[2] They are also exactly the chordal graphs all of whose maximal cliques are the same size k + 1 and all of whose minimal clique separators are also all the same size k.

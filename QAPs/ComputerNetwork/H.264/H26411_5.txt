@@ -1,0 +1,3 @@
+How is H.265 so much more efficient than H.264?This H.265/HEVC codec is said to double the data compression ratio compared to H.264/MPEG-1 AVC at the same level of video quality. It can almost support 8K UHD (8192x4320), which laid a solid foundation for the coming 4K Time.
+
+Higher video quality while smaller size is an outstanding feature of this codec, for example a 137 MB video will reduced to 37.7 under H.264 while shrink to 17.7 codec by H.265 very obviously. And compared to video quality, the H.265 is much better than H.264 for every vivid detail is so realistic. know [more](Get Close to HEVC (H.265) & H.265 Encoder )

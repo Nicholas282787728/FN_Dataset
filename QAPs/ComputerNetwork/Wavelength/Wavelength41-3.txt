@@ -1,0 +1,2 @@
+★How did we know the wavelength range for visible light?
+E=hc/lambda Assuming you know what this equation is you can measure the energy of all the colors and then calculate their wavelengths. This will give you the range of visible radiations.    Embed Quote

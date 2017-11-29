@@ -1,0 +1,1 @@
+How should I learn advanced data structure for solving competitive problems for must needed topics (the segment tree and the Fenwick tree)?Hey , I am new to programming and I have a problem of solving advanced data structure problems . jus suggest me some ways

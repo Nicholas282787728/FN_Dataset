@@ -1,0 +1,1 @@
+What is the original paper that introduced binary heaps?Is it available for free somewhere? How about binomial heaps?

@@ -1,0 +1,2 @@
+What are some common mistakes to be avoided in Mathematics?Especially in Algebra, Coordinate Geometry, Calculus and Trigonometry.
+If you're going to prove that A implies B, start at A and work to B. If you want to prove that something is true, make sure that you start with A (which is already established to be true) and prove B (in question). 

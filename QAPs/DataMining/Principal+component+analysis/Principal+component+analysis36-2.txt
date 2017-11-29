@@ -1,0 +1,2 @@
+★What are some cases where principal component analysis fails to find good projection directions?
+PCA has problems when there is heavy bias in the sampled data. Its components simply "explain" most of the variation, so if most of the samples are from one part of the population then it will come up with a component that mostly spans this population.    Embed Quote

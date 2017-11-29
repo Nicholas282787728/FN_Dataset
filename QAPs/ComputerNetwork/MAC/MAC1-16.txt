@@ -1,0 +1,1 @@
+When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?When a MAC address itself is unique, why do we still need an IP address to uniquely identify a system on a network?

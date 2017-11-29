@@ -1,0 +1,2 @@
+What are the most useful gems to use in Rails?
+pry (website: an IRB alternative and runtime developer console) better_errors - Use in combination with pry-rails for awesome debugging. 

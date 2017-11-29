@@ -1,0 +1,2 @@
+★What is so special about HTML5?What is so different about HTML5? How is it more capable than the previous versions and is there any capability of semantic web that can be potentially realized from HTML5?
+In short, HTML5 is special because it makes the Internet better. It seeks to improve the way the web works and performs, making it easier for developers to create terrific sites and making it more efficient for users to experience those sites regardless of the browser or platform they are using.

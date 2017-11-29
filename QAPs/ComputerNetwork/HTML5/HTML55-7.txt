@@ -1,0 +1,2 @@
+★Is the future of Apps HTML5?As well as the applications for PCs, the "native" apps and closed will last a short time, maybe even Google know this already, what you think ? The future of Apps is HTML5?
+Not entirely true. facebook revoked its HTML5 app and re-written in native code. So, its too early to say about the future of HTML5. It does not supported very well by iOS, Android and other mobile operating systems!

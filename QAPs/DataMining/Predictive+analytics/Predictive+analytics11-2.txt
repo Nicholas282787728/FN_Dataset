@@ -1,0 +1,2 @@
+★What is the difference between machine learning and predictive analytics?
+Predictive analytics is finding pattern in data and predict value in future by using that pattern. For example ,consider a series timestamped with time t0 ,t1,t2.... 1 2 4 8 16. At t5 we have to predict value. Now the pattern is 2^n. So we can predict value to be 32. Machine learning is a bigger domain. Involves function approximation like this through training. Finding pattern without supervision.  Recomendation system , nd ol    Embed Quote

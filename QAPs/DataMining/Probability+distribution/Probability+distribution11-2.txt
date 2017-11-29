@@ -1,0 +1,2 @@
+★Give some real world examples where the following probability distributions show themselves?laplace, rayleigh, exponential, poisson, chi square, gamma, log normal, weibull.  we usually model random processes as gaussian, which is the next most popular option?
+Gama distribution for predicting time-to failure of a machinery or device in an industrial context.    Embed Quote

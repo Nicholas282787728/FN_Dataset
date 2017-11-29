@@ -1,0 +1,2 @@
+How do I find the node that has the least maximum distance to all the other nodes in a tree?
+That node is the center (there can be 2) of the diameter of the tree. Finding the diameter has a linear time solution. 

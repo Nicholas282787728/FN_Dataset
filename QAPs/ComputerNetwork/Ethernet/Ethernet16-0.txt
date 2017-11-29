@@ -1,0 +1,2 @@
+★What is power over ethernet?
+Powering devices (like Cisco VOIP phones) over ethernet. Idea is to eliminate external power for low-power ethernet devices using current carried by the ethernet cable.

@@ -1,0 +1,2 @@
+★Is it worth trying PCA on your data before feeding to SVM?
+Unless you have a prohibitively large number of features, I would recommend not doing dimensionality reduction beforehand. In practice, I have found better results using the "raw" features versus reduced features. And if your individual features have theoretical meaning, their relationship to the classification task would be lost or obscured by the reduction.    Embed Quote

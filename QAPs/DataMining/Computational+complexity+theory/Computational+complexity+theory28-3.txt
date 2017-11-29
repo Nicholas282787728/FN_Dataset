@@ -1,0 +1,2 @@
+★Computational Complexity Theory: How would you explain P vs NP problem to a child?
+P= NP means if you taste a chocolate and can say if it is good or bad, you can make a good chocolate.    Embed Quote 
